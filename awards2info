@@ -1,0 +1,3 @@
+#!/bin/bash
+# given an index return info in wiki
+head -n"$1" awards | tail -1 | grep -Po "\d+ \w+\.? \K(.*?) (?=[A-Z]{2,4})" | ./ib

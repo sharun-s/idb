@@ -1,0 +1,31 @@
+#!/bin/bash
+ZIM=/home/s/kiwix-html5/www/wikipedia_en_all_2016-12.zim
+if [ $# -eq 1 ]
+then
+	x="$1"
+else
+	read x
+fi 
+
+if [ "$x" = "" ]; then
+	exit 1; 
+fi
+
+echo "Looking for $x..."
+#check if type is a redirect or a article
+#TITLE=zimdump -f "$x" -i -t $ZIM | grep -Po "\s(title:|type:|idx:)\ +\K(.*)"
+TITLE=`zimdump -f "$x" -i -t $ZIM | grep -Po "\stitle:\ +\K(.*)"`
+IDX=`zimdump -f "$x" -i -t $ZIM | grep -Po "\sidx:\ +\K(.*)"`
+TYPE=`zimdump -f "$x" -i -t $ZIM | grep -Po "\stype:\ +\K(.*)"`
+RIDX=`zimdump -f "$x" -i -t $ZIM | grep -Po "\sredirect index:\ +\K(.*)"`
+
+if [ "$TYPE" = "redirect" ]
+then
+	echo "redirecting to" "$RIDX"
+	zimdump -o "$RIDX" -p $ZIM | python3 parseib.py "$x"
+else
+	echo "printing" "$IDX"
+	zimdump -o "$IDX" -p $ZIM | python3 parseib.py "$x"
+fi
+
+grep "$x" awards

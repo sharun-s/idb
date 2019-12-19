@@ -1,13 +1,12 @@
 #!/bin/bash
 # check "m k gandhi"
 # check m k gandhi
-# somename | check
-# list | check
+# somename | check - not supported do something like the following
 # cut -d"," -f3 tn_awards.csv | cut -d" " -f2- > tn_names 
 # while read in; do ./check.sh "$in"; done < cat tn_names > names_found
 # while read in; do ./check.sh "$in"; done < cat tn_names > names_found
 
-ZIM=<zimfile>
+ZIM=/home/s/kiwix-html5/www/wikipedia_en_all_2016-12.zim
 
 query () {
 	TXT=`zimdump -f "$x" -i -t "$ZIM" | grep -Po "\s(title:|type:|idx:|redirect index:)\ +\K(.*)"`
