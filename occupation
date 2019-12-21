@@ -1,58 +1,64 @@
-singer	31
-actor	30
-politician	27
-composer	25
-film director	17
-film producer	17
-film actor	15
-screenwriter	14
-surgeon	13
-writer	13
-choreographer	12
-musician	12
-social worker	11
-author	9
-dancer	9
-businessperson	8
+actor	40
+singer	38
+politician	34
+composer	27
+film producer	22
+film director	20
+film actor	18
+writer	18
+musician	16
+screenwriter	16
+surgeon	16
+social worker	15
+author	14
+dancer	14
+choreographer	13
+businessperson	12
+physician	9
+poet	9
+academic	8
+songwriter	8
+civil servant	7
+journalist	7
 music director	7
-songwriter	7
-civil servant	6
-physician	6
+percussionist	7
+lawyer	6
+lyricist	6
 physicist	6
-poet	6
-journalist	5
-lyricist	5
+playback singer	6
+translator	6
+cardiologist	5
+engineer	5
+entrepreneur	5
 ophthalmologist	5
-percussionist	5
-playback singer	5
-translator	5
-academic	4
-engineer	4
-entrepreneur	4
+agronomist	4
+civil engineer	4
+cricketer	4
 film score composer	4
+flautist	4
 historian	4
-lawyer	4
 musicologist	4
+nuclear physicist	4
+scientist	4
+tennis player	4
 violinist	4
+architect	3
 astrophysicist	3
-cardiologist	3
-cricketer	3
+biologist	3
+geneticist	3
 mathematician	3
 multi-instrumentalist	3
-nuclear physicist	3
 oncologist	3
 stage actor	3
-tennis player	3
+university teacher	3
 activist	2
-agronomist	2
 banker	2
-biologist	2
 botanist	2
+chemist	2
 chess player	2
-civil engineer	2
 cricket umpire	2
+drummer	2
 ethnomusicologist	2
-geneticist	2
 linguist	2
 metallurgist	2
 meteorologist	2
@@ -61,33 +67,32 @@ pathologist	2
 philanthropist	2
 philosopher	2
 record producer	2
-scientist	2
+researcher	2
+singer-songwriter	2
 teacher	2
 television actor	2
-university teacher	2
+tennis coach	2
+theater director	2
 yogi	2
 aerospace engineer	1
 archaeologist	1
-architect	1
 art historian	1
 astronomer	1
+athlete	1
 athletics competitor	1
 autobiographer	1
 cartoonist	1
 chartered accountant	1
 chemical engineer	1
-chemist	1
 chief executive officer	1
 cinematographer	1
 comedian	1
 conductor	1
 crystallographer	1
-drummer	1
 economist	1
 endocrinologist	1
 epigrapher	1
 field hockey player	1
-flautist	1
 Founder	1
 Guru	1
 gynaecologist	1
@@ -96,8 +101,11 @@ humanitarian	1
 industrialist	1
 inventor	1
 mandolinist	1
+mechanical engineer	1
 military personnel	1
+model	1
 music pedagogue	1
+neurologist	1
 neurosurgeon	1
 oceanographer	1
 otolaryngologist	1
@@ -109,12 +117,11 @@ plastic surgeon	1
 production designer	1
 professional wrestler	1
 racing automobile driver	1
-researcher	1
+science writer	1
+sports journalist	1
 sprinter	1
 squash player	1
 table tennis player	1
-tennis coach	1
-theater director	1
 urologist	1
 zoologist	1
-(blank)	144
+(blank)	69
