@@ -22,11 +22,11 @@ def fulltext(soup):
 			seen.add(item)
 			result.append(item)
 	# drop blank lines
-	text = ' '.join(chunk for chunk in result[2:5] if chunk)
+	text = ' '.join(chunk for chunk in result[2:10] if chunk)
 	return text
 
 
-def printtextfrom(soup):
+def printInfoBox(soup):
 	# kill all script and style elements
 	#for script in soup(["script", "style"]):
 	#    script.extract()    # rip it out
@@ -39,13 +39,21 @@ def printtextfrom(soup):
 				key = unicodedata.normalize('NFKD', tr.find('th').get_text()).strip()
 				ib[key]=soup.title.string
 				if tr.find('td'): 
-					val = unicodedata.normalize('NFKD', tr.find('td').get_text()).strip().replace('\n','')
+					val = unicodedata.normalize('NFKD', tr.find('td').get_text()).strip().replace('\n','LL')
 					ib[key]=val
 		pprint.pprint(ib)
 	else:
 		pprint.pprint(fulltext(soup), width=sys.maxsize)
 
 if soup.title.string == sys.argv[1]:
-	printtextfrom(soup)	
+	printInfoBox(soup)	
 else:
-	print("Sorry found "+soup.title.string)	
+	print("Found "+soup.title.string+" instead")
+	printInfoBox(soup)
+	#y=input("Sorry found "+soup.title.string+" print infobox[i]/print page[p]")
+	#if y=='i':
+	#	printtextfrom(soup)
+	#elif y=='p': 
+	#	print(fulltext(soup))
+	#else:
+	#	sys.exit()
