@@ -1,0 +1,1 @@
+while read x; do ./ib "$x"; done <<<`head tn_details_more | cut -d"," -f3 | sed '1d;$d'
