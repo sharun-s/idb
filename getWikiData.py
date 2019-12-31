@@ -13,12 +13,13 @@ for i in c:
 	#print(i, prop.get_label(), len(c[i]))
 	print(prop.get_label())
 	for j in range(0,len(c[i])):
-		if 'id' in c[i][j].mainsnak.datavalue.value:  
-			qid = c[i][j].mainsnak.datavalue.value["id"]
+		dv=c[i][j].mainsnak.datavalue
+		if isinstance(dv.value, dict) and 'id' in dv.value:  
+			qid = dv.value["id"]
 			entity = WikidataItem(get_entity_dict_from_api(qid))
 			print(entity.get_label())
 		else:
-			print(c[i][j].mainsnak.datavalue.value) 
+			print(dv.value) 
 	
 
 # for pid, quals in claim.qualifiers.items():
