@@ -70,10 +70,10 @@ def mineDict(lobjs, ignore=[]):
                     # here list of dicts with time will be skipped
                     handlePropValueList(obj, prop)
                 elif type(obj[prop]) is dict:
-                    handlePropValueDict(obj, prop)
+                    handlePropValueDict(prop, obj[prop])
                 else:
                     # here dicts without time will be skipped
-                    handlePropValue(obj, prop)
+                    handlePropValue(prop, obj[prop])
         #pprint.pprint(dProps)                    
         idx=idx+1
     return dProps
@@ -84,7 +84,9 @@ def handlePropValueList(obj, prop):
         print('skipped ',prop, ' - EMPTY LIST?')
         return
     elif type(lval[0]) is dict:
-        print('skipped ',prop, ' - not handling list of dict values')
+        #print('skipped ',prop, ' - not handling list of dict values')
+        val=getMainValFromDict(lval[0])
+        handlePropValue(prop, val)
         return
     if prop not in dProps:
         dProps[prop]=dict([(item,[idx]) for item in lval])
@@ -96,46 +98,54 @@ def handlePropValueList(obj, prop):
                 else:
                     dProps[prop].update({val:[idx]})
             except TypeError as e:
-                print(e, prop)
+                print('L', e, prop)
                 #raise e
 
-def handlePropValueDict(obj, prop):
-    try:
-        if "time" in obj[prop]:
-            val=datetime.strptime(obj[prop]['time'], "+%Y-%m-%dT%H:%M:%SZ").year
-        elif "amount" in obj[prop]:
-            val=obj[prop]["amount"]
-        elif "text" in obj[prop]:
-            val=obj[prop]["text"]
-        else:
-            print("UNKNOWN dict",obj[prop])
-    except ValueError as e:
-        print('valerror',prop)
+def getMainValFromDict(val):
+    if "time" in val:
+        #print(val['time'])
+        #val=datetime.strptime(val['time'], "+%Y-%m-%dT%H:%M:%SZ").year
+        val=val['time'][1:].split('-')[0]
+    elif "amount" in val:
+        val=val["amount"]
+    elif "text" in val:
+        val=val["text"]
     else:
-        if prop not in dProps:
-            dProps[prop]={val:[idx]}
-        else:
-            if val in dProps[prop]:
-                dProps[prop][val].append(idx)
-            else:
-                dProps[prop].update({val:[idx]})
+        print("UNKNOWN dict",val)
+    return val
 
-def handlePropValue(obj, prop):
-    val = obj[prop]
-    if type(val) is dict:
-        print('skipping ',prop, val)
-        return
+def handlePropValueDict(prop, val):
+    try:
+        val=getMainValFromDict(val)
+        # if "time" in val:
+        #     #print(val['time'])
+        #     #val=datetime.strptime(val['time'], "+%Y-%m-%dT%H:%M:%SZ").year
+        #     val=val['time'][1:].split('-')[0]
+        # elif "amount" in val:
+        #     val=val["amount"]
+        # elif "text" in val:
+        #     val=val["text"]
+        # else:
+        #     print("UNKNOWN dict",val)
+    except ValueError as e:
+        print('hpvd', e, prop)
+    else:
+        handlePropValue(prop, val)
+        
+def handlePropValue(prop, val):
+    #if type(val) is dict:
+    #    print('skipping ',prop, val)
+    #    return
     if prop not in dProps:
         try:
             dProps[prop]={val:[idx]}
         except TypeError as e:
-            print(e, prop, obj[prop])
+            print('hpv', e, prop, obj[prop])
     else:
         if val in dProps[prop]:
             dProps[prop][val].append(idx)
         else:
             dProps[prop].update({val:[idx]})
-
 
 #open file with list of objs or list of dicts
 f=open(sys.argv[1])
