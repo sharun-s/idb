@@ -23,6 +23,8 @@ def minePropValCounts(dProps):
                 dd[prop].append((val,len(dProps[prop][val])))
             else:
                 dd[prop]=[(val,len(dProps[prop][val]))]
+    for i in dd:
+        dd[i]=sorted(dd[i],key=lambda x:x[1])
     return dd
 
 #Takes a list of objects - lobjs - and builds a dict of all prop val combos found.
@@ -147,6 +149,7 @@ def handlePropValue(prop, val):
         else:
             dProps[prop].update({val:[idx]})
 
+
 #open file with list of objs or list of dicts
 f=open(sys.argv[1])
 text=f.read()
@@ -161,6 +164,20 @@ for i in db:
     lobjs.append(db[i])
 mineDict(lobjs)
 counts=minePropValCounts(dProps)
+
+from pprint import pprint
+def p(index):
+    pprint(lobjs[index])
+
+#r('child'), r('spouse') will print parent and chlid who have won awards
+r=lambda relationship:[ (lobjs[dProps[relationship][relative][0]]['label'],relative) for relative in dProps[relationship] if relative in dProps['label'] ]
+#group('educated at','Kalakshetra')
+group=lambda x,y:lobjs[i]['label'] for i dProps[x][y]
+#pgroup('educated at','Kalakshetra',['label','occupation'])
+pgroup=lambda p,v,l:[(i,[lobjs[i][j] for j in l]) for i in dProps[p][v] ]
+def pg(p,v,l=['label','occupation']):
+    pprint(pgroup(p,v,l))
+
 
 #import simplejson
 #import urllib2
