@@ -168,6 +168,11 @@ for i in range(0,len(lobjs)):
     for k in lobjs[i]:
         if 'time' in lobjs[i][k]:
             lobjs[i][k]=lobjs[i][k]['time'][1:].split('-')[0]
+            continue
+        if type(lobjs[i][k]) is list and len(lobjs[i][k])>0 and 'time' in lobjs[i][k][0]:
+            lobjs[i][k]=[lobjs[i][k][t]['time'][1:].split('-')[0] for t in range(0,len(lobjs[i][k]))]
+        
+
 
 mineDict(lobjs)
 counts=minePropValCounts(dProps)
@@ -175,12 +180,15 @@ counts=minePropValCounts(dProps)
 
 allowedProps=['label', 'desc', 'wikiurl', 'occupation', 'country of citizenship', 'date of birth', 'date of death', 'member of political party', 'educated at', 'instance of', 'position held', 'place of death', 'award received', 'place of birth', 'religion', 'Commons category', 'name in native language', 'family name',  'languages spoken, written or signed', 'sex or gender', 'native language', 'writing language', 'described by source', 'MyWikiDataID', 'member of', 'given name', 'nominated for', 'field of work', 'employer', 'Google Doodle', 'notable work', 'exact match', 'doctoral student', 'military rank', 'candidacy in election', "topic's main category", 'spouse', 'sibling', 'ethnic group', 'cause of death', 'manner of death', 'official website', 'patronym or matronym for this person', 'ancestral home', 'quotation or excerpt', 'genre', 'work period (start)', 'instrument', 'number of children', 'sport', 'member of sports team', 'country for sport', 'father', 'residence', 'academic degree', 'doctoral advisor',  'child', 'handedness', 'playing hand', 'work period (end)', 'participant of', 'influenced by', 'mother', 'related category', 'chairperson', 'height',  'mass', 'prize money', 'different from', 'birth name', 'partner', 'relative', 'discography', 'filmography','owner of',  'conferred by', 'pseudonym', 'part of', 'significant event']
 from pprint import pprint
+getProps=lambda index:{i:lobjs[index][i] for i in lobjs[index] if i in allowedProps}
 def p(index):
-    pprint({i:lobjs[index][i] for i in lobjs[index] if i in allowedProps})
+    pprint(getProps(index))
 def pall(index):
     pprint({i:lobjs[index][i] for i in lobjs[index]})
 #find(somename)
+#find=lambda name:pprint([*filter(lambda i:i['label']==name,lobjs)][0])
 find=lambda name:pprint([*filter(lambda i:i['label']==name,lobjs)][0])
+pfind=lambda name:pprint({i:getProps(i) for i in lobjs if lobjs[i]['label']==name})
 #r('child'), r('spouse') will print parent and chlid who have won awards
 r=lambda relationship:[ (lobjs[dProps[relationship][relative][0]]['label'],relative) for relative in dProps[relationship] if relative in dProps['label'] ]
 # rall prints related 
