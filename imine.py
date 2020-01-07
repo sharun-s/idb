@@ -204,7 +204,7 @@ def getStateDataFromDashboardDump(statename, dumpfile=False ):
     return statedata
 
 from titles import *
-import re
+import re, difflib
 il=initlabels(dProps['label'])
 tl=tinitlabels(dProps['label'])
 # Map govt data names to wikidata names and merge into single dataset
@@ -235,15 +235,27 @@ for i in statedata:
         i['untitledname']=n
         notfound.append(i)
     #if index > -1:
-    #    lobjs[index]['label'], 
-print(label, ilabel, tlabel, dilabel, dtlabel)
+    #    lobjs[index]['label'],
+gcmlabels=0
+notfound1=[]
+for i in notfound:
+    gg=difflib.get_close_matches(i['untitledname'], dProps['label'].keys(), cutoff=.8)
+    if gg:
+        gcmlabels=gcmlabels+1 
+        index=dProps['label'][gg[0]][0]
+    else:
+        notfound1.append(i)
+notfound=notfound1
+del(notfound1)
+
+print(label, ilabel, tlabel, dilabel, dtlabel,gcmlabels)
 ##### End Hack #####
 
 counts=minePropValCounts(dProps)
 
 from pprint import pprint
 getProps=lambda index:{i:lobjs[index][i] for i in lobjs[index] if i in allowedProps}
-contains=lambda phrase:[i for i in dProps['label'].keys() if i.find(phrase) > 0]
+contains=lambda phrase:[i for i in dProps['label'].keys() if i.find(phrase) >= 0]
 def p(index):
     pprint(getProps(index))
 def pall(index):
