@@ -171,17 +171,79 @@ for i in range(0,len(lobjs)):
             continue
         if type(lobjs[i][k]) is list and len(lobjs[i][k])>0 and 'time' in lobjs[i][k][0]:
             lobjs[i][k]=[lobjs[i][k][t]['time'][1:].split('-')[0] for t in range(0,len(lobjs[i][k]))]
-        
-
-
-mineDict(lobjs)
-counts=minePropValCounts(dProps)
-
 
 allowedProps=['label', 'desc', 'wikiurl', 'occupation', 'country of citizenship', 'date of birth', 'date of death', 'member of political party', 'educated at', 'instance of', 'position held', 'place of death', 'award received', 'place of birth', 'religion', 'Commons category', 'name in native language', 'family name',  'languages spoken, written or signed', 'sex or gender', 'native language', 'writing language', 'described by source', 'MyWikiDataID', 'member of', 'given name', 'nominated for', 'field of work', 'employer', 'Google Doodle', 'notable work', 'exact match', 'doctoral student', 'military rank', 'candidacy in election', "topic's main category", 'spouse', 'sibling', 'ethnic group', 'cause of death', 'manner of death', 'official website', 'patronym or matronym for this person', 'ancestral home', 'quotation or excerpt', 'genre', 'work period (start)', 'instrument', 'number of children', 'sport', 'member of sports team', 'country for sport', 'father', 'residence', 'academic degree', 'doctoral advisor',  'child', 'handedness', 'playing hand', 'work period (end)', 'participant of', 'influenced by', 'mother', 'related category', 'chairperson', 'height',  'mass', 'prize money', 'different from', 'birth name', 'partner', 'relative', 'discography', 'filmography','owner of',  'conferred by', 'pseudonym', 'part of', 'significant event']
+ignore=['Encyclopædia Universalis ID', 'Amazon author ID', 'CANTIC ID', 'SUDOC authorities ID', 'Freebase ID', 'FAST ID', 'SELIBR ID', 'Plarr ID', 'ATP player ID', 'Persée author ID', 'Treccani ID', 'signature', 'CiNii author ID (books)', 'National Library of Israel identifier', 'Chess Games ID', "Photographers' Identities Catalog ID", 'Open Library ID', 'TWAS Fellow ID', 'Scopus Author ID', 'Libris-URI', 'TV.com ID', 'record label', 'SNAC Ark ID', 'NTA ID', 'NLA Trove ID', 'Danish National Filmography person ID', 'NE.se ID', 'FIDE ID', 'SHARE Catalogue author ID', 'Publons author ID', 'Commons gallery', 'BNB person ID', 'Dharma Drum Buddhist College person ID', 'ITTF table tennis player ID', 'NKCR AUT ID', 'Nobel prize ID', 'DC Books author ID', 'iTunes artist ID', 'Commonwealth Games Federation athlete ID', 'TED speaker ID', 'DUC ID', 'LNB ID', 'Physics History Network ID', 'IPNI author ID', 'PORT person ID', 'Fellow of the Royal Society ID', 'AlloCiné person ID', 'Munzinger Sport number', 'Gaana.com artist ID', 'ULAN ID', 'GTAA ID', 'VIAF ID', 'Biblioteca Nacional de España ID', 'CTHS person ID', 'CineMagia person ID', '365chess player ID', 'Genius artist ID', 'Store norske leksikon ID', 'BIU Santé person ID', 'Regensburg Classification', 'Scope.dk person ID', 'CricketArchive player ID', 'Mathematics Genealogy Project ID', 'ČSFD person ID', 'Bibliothèque nationale de France ID', 'WBPLN author ID', 'Leopoldina member ID', 'Twitter username', 'Oxford Dictionary of National Biography ID', 'NORAF ID', 'Box Office Mojo person ID', "Munk's Roll ID", 'Great Russian Encyclopedia Online ID', 'Davis Cup player ID', 'AllMovie person ID', 'Internet Broadway Database person ID', 'Tennis Temple player ID', 'Rupa Publications author ID', 'Quora topic ID', 'Elo rating', 'audio', 'NNDB people ID', 'Last.fm ID', 'National Diet Library Auth ID', 'HDS ID', 'YouTube channel ID', 'GND ID', 'Nederlandse Top 40 artist ID', 'IMDb ID', 'singles record', 'Indian gallantry awardee ID', 'elFilm person ID', 'OlimpBase Chess Olympiad player ID', 'title of chess person', 'PRS Legislative Research MP ID', 'CONOR ID', 'Encyclopædia Britannica Online ID', 'AllMusic artist ID', 'Elonet person ID', 'Filmportal ID', 'Facebook ID', 'Les Archives du Spectacle Person ID', 'University of Barcelona authority ID', 'Artnet artist ID', 'International Olympic Committee athlete ID', 'Academic Tree ID', 'MusicBrainz artist ID', 'Library of Congress authority ID', 'Discogs artist ID', 'National Library of Korea Identifier', 'ISNI', 'World Athletics athlete ID', 'image', 'Swedish Film Database person ID', 'doubles record', 'Brockhaus Enzyklopädie online ID', 'Nobel Prize People Nomination ID', 'Kinopoisk person ID', 'PM20 folder ID', 'Erdős number', 'Genius artist numeric ID', 'National Library of Greece ID', 'ESPNcricinfo.com player ID', 'Libraries Australia ID', 'Carnegie Hall agent ID', 'ITF player ID', 'TCM Movie Database person ID', 'botanist author abbreviation', 'NUKAT ID', 'Loop ID', 'chesstempo ID', 'Acharts.co artist ID', 'ResearcherID', 'Open Media Database person ID', 'Theatricalia person ID', 'National Academy of Sciences member ID', 'BDEL ID', 'Instagram username', 'Spotify artist ID', 'MovieMeter director ID', 'Gran Enciclopèdia Catalana ID', 'zbMATH author ID', 'Billboard artist ID', 'ORCID iD', 'Goodreads author ID', 'Sports-Reference.com Olympic athlete ID', 'Tennis Archives player ID', 'BHL creator ID', 'ranking', 'NSK ID', 'Muziekweb performer ID', "audio recording of the subject's spoken voice", 'Songkick artist ID', 'racing-reference.info driver ID', 'Squash Info player ID', 'Europeana Entity', 'pronunciation audio', 'PSA World Tour player ID', 'WikiTree person ID', 'Find A Grave memorial ID', 'Munzinger person ID']
 famrel=['father','mother','parent','child','sibling','sister','brother','relative','spouse']
+        
+mineDict(lobjs,ignore)
+# temp garbage hack to pull in IDs till pipeline is worked out
+f=open("wikidataIDs",'r')
+l=f.read()
+f.close()
+lines=l.split('\n')
+for i in lines:
+    if i.split(',')[0] not in dProps['label'].keys():
+        lobjs.append({'label':i.split(',')[0]})
+idx=0
+dProps={}
+mineDict(lobjs,ignore)
+
+def getStateDataFromDashboardDump(statename, dumpfile=False ):
+    f=open('dashboard-padmaawards_gov_in_get_data')
+    g=eval(f.read())
+    #len(g) 4615 
+    #g[0] {'area': 'Public Affairs', 'award': 'Bharat Ratna', 'id': 1, 'name': 'Dr. Sarvapalli Radhakrishnan', 'place': 'Tamil Nadu', 'year': 1954}
+    statedata=[*filter(lambda x:x['place']==statename,g)]
+    #len(tn) 413
+    f.close()
+    if dumpfile:
+        f=open(statename.replace(' ','_')+'_dict','w')
+        f.write(str(statedata)) 
+        f.close()
+    return statedata
+
+from titles import *
+import re
+il=initlabels(dProps['label'])
+tl=tinitlabels(dProps['label'])
+# Map govt data names to wikidata names and merge into single dataset
+statedata=getStateDataFromDashboardDump('Tamil Nadu')
+
+# strip title from name and check if name exists in dProp labels
+# if not check if initials and tight initials exist in dProp labels
+# if not check  
+notfound=[];dilabel=dtlabel=ilabel=tlabel=label=0
+for i in statedata:
+    # remove title in name eg shri dr prof etc
+    i['name']=i['name'].strip()
+    n=re.sub(titles,'',i['name'])
+    #find index if name exists in dProps['label']
+    #abbreviated and expanded form might exist either in dprops[label] or statedata so check both
+    index=-1 
+    if n in dProps['label']:
+        index=dProps['label'][n][0]; label=label+1 
+    elif initial(n) in dProps['label']:
+        index=dProps['label'][initial(n)][0]; ilabel=ilabel+1 
+    elif tightinitial(n) in dProps['label']:
+        index=dProps['label'][tightinitial(n)][0]; tlabel=tlabel+1
+    elif n in il:
+        index=il[n][0]; dilabel=dilabel+1
+    elif n in tl:
+        index=tl[n][0]; dtlabel=dtlabel+1
+    else:
+        i['untitledname']=n
+        notfound.append(i)
+    #if index > -1:
+    #    lobjs[index]['label'], 
+print(label, ilabel, tlabel, dilabel, dtlabel)
+##### End Hack #####
+
+counts=minePropValCounts(dProps)
+
 from pprint import pprint
 getProps=lambda index:{i:lobjs[index][i] for i in lobjs[index] if i in allowedProps}
+contains=lambda phrase:[i for i in dProps['label'].keys() if i.find(phrase) > 0]
 def p(index):
     pprint(getProps(index))
 def pall(index):
@@ -200,7 +262,6 @@ group=lambda p,v:[lobjs[i]['label'] for i in dProps[p][v]]
 pgroup=lambda p,v,l:[(i,[lobjs[i][j] for j in l]) for i in dProps[p][v] ]
 def pg(p,v,l=['label','occupation']):
     pprint(pgroup(p,v,l))
-
 
 #import simplejson
 #import urllib2
