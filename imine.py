@@ -119,16 +119,6 @@ def getMainValFromDict(val):
 def handlePropValueDict(prop, val):
     try:
         val=getMainValFromDict(val)
-        # if "time" in val:
-        #     #print(val['time'])
-        #     #val=datetime.strptime(val['time'], "+%Y-%m-%dT%H:%M:%SZ").year
-        #     val=val['time'][1:].split('-')[0]
-        # elif "amount" in val:
-        #     val=val["amount"]
-        # elif "text" in val:
-        #     val=val["text"]
-        # else:
-        #     print("UNKNOWN dict",val)
     except ValueError as e:
         print('hpvd', e, prop)
     else:
@@ -150,7 +140,7 @@ def handlePropValue(prop, val):
             dProps[prop].update({val:[idx]})
 
 
-#open file with list of objs or list of dicts
+#open file with list of objs or list of dicts - generated using dumpprops.py (with qwikidata lib)
 f=open(sys.argv[1])
 text=f.read()
 db=eval(text)
@@ -185,6 +175,26 @@ lines=l.split('\n')
 for i in lines:
     if i.split(',')[0] not in dProps['label'].keys():
         lobjs.append({'label':i.split(',')[0]})
+
+a=['Padma Shri in arts',
+ 'Padma Bhushan',
+ 'Padma Vibhushan in science & engineering',
+ 'Padma Vibhushan',
+ 'Padma Bhushan in science & engineering',
+ 'Padma Shri in social work',
+ 'Padma Shri',
+ 'Padma Shri in literature & education',
+ 'Padma Shri in sports',
+ 'Padma Shri in trade and industry',
+ 'Padma Shri in medicine',
+ 'Padma Shri in science & engineering',
+ 'Padma Shri in civil service',
+ 'Padma Vibhushan in trade & industry',
+ 'Padma Shri in other fields']
+
+for i in range(0,len(lobjs)):
+    if 'award received' in i:
+        if lobjs[i]['award received']
 idx=0
 dProps={}
 mineDict(lobjs,ignore)
@@ -203,6 +213,12 @@ def getStateDataFromDashboardDump(statename, dumpfile=False ):
         f.close()
     return statedata
 
+def updateAwardProp(index, data):
+    if 'award received' in lobjs[index]:
+        lobjs[index]['award received'].append(data)
+    else:
+        lobjs[index]['award received']=[data]
+
 from titles import *
 import re, difflib
 il=initlabels(dProps['label'])
@@ -212,8 +228,12 @@ statedata=getStateDataFromDashboardDump('Tamil Nadu')
 
 # strip title from name and check if name exists in dProp labels
 # if not check if initials and tight initials exist in dProp labels
-# if not check  
-notfound=[];dilabel=dtlabel=ilabel=tlabel=label=0
+# if not check against dProp lables initialed and tight initialed
+# if not mop up with difflib.getclosesmatch
+# one mapping between statedata and dProps is found update statedata into dProps
+# basically if 'award received' in lobjs[foundindex] convert its entities to {award:,area, year:} form
+# award received will be a list of dicts  
+notfound=[];dilabel=[];dtlabel=[];ilabel=[];tlabel=[];label=0
 for i in statedata:
     # remove title in name eg shri dr prof etc
     i['name']=i['name'].strip()
@@ -223,32 +243,36 @@ for i in statedata:
     index=-1 
     if n in dProps['label']:
         index=dProps['label'][n][0]; label=label+1 
+
     elif initial(n) in dProps['label']:
-        index=dProps['label'][initial(n)][0]; ilabel=ilabel+1 
+        ilabel.append((n, initial(n))) 
     elif tightinitial(n) in dProps['label']:
-        index=dProps['label'][tightinitial(n)][0]; tlabel=tlabel+1
+        tlabel.append((n,tightinitial(n)))
     elif n in il:
-        index=il[n][0]; dilabel=dilabel+1
+        dilabel.append((n, il[n])) #index=il[n][0];
     elif n in tl:
-        index=tl[n][0]; dtlabel=dtlabel+1
+        dtlabel.append((n, tl[n])) #index=tl[n][0];
     else:
         i['untitledname']=n
         notfound.append(i)
     #if index > -1:
     #    lobjs[index]['label'],
-gcmlabels=0
+gcmlabels=[]
 notfound1=[]
 for i in notfound:
     gg=difflib.get_close_matches(i['untitledname'], dProps['label'].keys(), cutoff=.8)
     if gg:
-        gcmlabels=gcmlabels+1 
-        index=dProps['label'][gg[0]][0]
+        gcmlabels.append((i['untitledname'],gg[0])) 
+        #index=dProps['label'][gg[0]][0]
     else:
         notfound1.append(i)
 notfound=notfound1
 del(notfound1)
 
-print(label, ilabel, tlabel, dilabel, dtlabel,gcmlabels)
+
+print(label, len(ilabel), len(tlabel), len(dilabel), len(dtlabel), len(gcmlabels))
+
+#update_awardrevd
 ##### End Hack #####
 
 counts=minePropValCounts(dProps)
