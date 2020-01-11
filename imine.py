@@ -139,7 +139,6 @@ def handlePropValue(prop, val):
         else:
             dProps[prop].update({val:[idx]})
 
-
 #open file with list of objs or list of dicts - generated using dumpprops.py (with qwikidata lib)
 f=open(sys.argv[1])
 text=f.read()
@@ -176,25 +175,6 @@ for i in lines:
     if i.split(',')[0] not in dProps['label'].keys():
         lobjs.append({'label':i.split(',')[0]})
 
-a=['Padma Shri in arts',
- 'Padma Bhushan',
- 'Padma Vibhushan in science & engineering',
- 'Padma Vibhushan',
- 'Padma Bhushan in science & engineering',
- 'Padma Shri in social work',
- 'Padma Shri',
- 'Padma Shri in literature & education',
- 'Padma Shri in sports',
- 'Padma Shri in trade and industry',
- 'Padma Shri in medicine',
- 'Padma Shri in science & engineering',
- 'Padma Shri in civil service',
- 'Padma Vibhushan in trade & industry',
- 'Padma Shri in other fields']
-
-for i in range(0,len(lobjs)):
-    if 'award received' in i:
-        if lobjs[i]['award received']
 idx=0
 dProps={}
 mineDict(lobjs,ignore)
@@ -212,12 +192,6 @@ def getStateDataFromDashboardDump(statename, dumpfile=False ):
         f.write(str(statedata)) 
         f.close()
     return statedata
-
-def updateAwardProp(index, data):
-    if 'award received' in lobjs[index]:
-        lobjs[index]['award received'].append(data)
-    else:
-        lobjs[index]['award received']=[data]
 
 from titles import *
 import re, difflib
@@ -298,6 +272,71 @@ group=lambda p,v:[lobjs[i]['label'] for i in dProps[p][v]]
 pgroup=lambda p,v,l:[(i,[lobjs[i][j] for j in l]) for i in dProps[p][v] ]
 def pg(p,v,l=['label','occupation']):
     pprint(pgroup(p,v,l))
+
+
+#########################################################
+
+class source():
+    url, file
+    def convert_to_list_of_dicts():
+        pass
+    def convert_to_list of_objs():
+        pass
+
+
+class mapper():
+    source1, source2, binderProp
+
+    def mapEntities():
+        # refineOut, dumpProps, wikidataID
+        # dash, dumpProps, Name
+
+    def mapProps():
+        #handle list, dict, val
+
+#index is created from unified list of all sources
+class index():
+    dProps_update(prop):
+
+#getmainvalue from imine
+#how is time dict handled 
+
+a=['Padma Shri in arts',
+ 'Padma Bhushan',
+ 'Padma Vibhushan in science & engineering',
+ 'Padma Vibhushan',
+ 'Padma Bhushan in science & engineering',
+ 'Padma Shri in social work',
+ 'Padma Shri',
+ 'Padma Shri in literature & education',
+ 'Padma Shri in sports',
+ 'Padma Shri in trade and industry',
+ 'Padma Shri in medicine',
+ 'Padma Shri in science & engineering',
+ 'Padma Shri in civil service',
+ 'Padma Vibhushan in trade & industry',
+ 'Padma Shri in other fields']
+
+# example of unifying prop 
+for i in range(0,len(lobjs)):
+    if 'award received' in i:
+        if type(obj[prop]) is list:
+            # maybe list of dicts careful
+            
+        elif type(obj[prop]) is dict:
+            handlePropValueDict(prop, obj[prop])
+        else:
+            # here dicts without time will be skipped
+            handlePropValue(prop, obj[prop])
+
+def updateAwardProp(index, data):
+    if 'award received' in lobjs[index]:
+        lobjs[index]['award received'].append(data)
+    else:
+        lobjs[index]['award received']=[data]
+
+#########################################################
+
 
 #import simplejson
 #import urllib2
