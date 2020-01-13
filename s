@@ -1,0 +1,2 @@
+var="$@"
+curl --silent "https://tools.wmflabs.org/openrefine-wikidata/en/suggest/entity" --data-urlencode "prefix=$var" | jq -r 'def red: "\u001b[31m"; def blue: "\u001b[34m"; def cyan: "\u001b[36m"; def yellow: "\u001b[33m"; def reset: "\u001b[0m"; .result[] | yellow + " \(.name)" + reset +" \(.description?) "+blue+"https://www.wikidata.org/wiki/\(.id)"+reset'
