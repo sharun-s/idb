@@ -276,27 +276,30 @@ def pg(p,v,l=['label','occupation']):
 
 #########################################################
 
-class source():
-    url, file
-    def convert_to_list_of_dicts():
-        pass
-    def convert_to_list of_objs():
-        pass
+# class source():
+#     url, file
+#     def convert_to_list_of_dicts():
+#         pass
+#     def convert_to_list of_objs():
+#         pass
 
+# class mapper():
+#     source1, source2, binderProp
 
-class mapper():
-    source1, source2, binderProp
+#     def mapEntities():
+#         # refineOut, dumpProps, wikidataID
+#         # dash, dumpProps, Name
 
-    def mapEntities():
-        # refineOut, dumpProps, wikidataID
-        # dash, dumpProps, Name
+#     def mapProps():
+#         #handle list, dict, val
+#     def mapValue():
+#         #value in one might be different from value in another 
+#         #Padma Shri, Padma Shti in arts
+#         #Subbalakshmi Subbulakshmi
 
-    def mapProps():
-        #handle list, dict, val
-
-#index is created from unified list of all sources
-class index():
-    dProps_update(prop):
+# #index is created from unified list of all sources
+# class index():
+#     dProps_update(prop):
 
 #getmainvalue from imine
 #how is time dict handled 
@@ -319,15 +322,32 @@ a=['Padma Shri in arts',
 
 # example of unifying prop 
 for i in range(0,len(lobjs)):
-    if 'award received' in i:
+    if 'award received' in lobjs[i]:
         if type(obj[prop]) is list:
             # maybe list of dicts careful
-            
+            pass
         elif type(obj[prop]) is dict:
-            handlePropValueDict(prop, obj[prop])
+            pass #handlePropValueDict(prop, obj[prop])
         else:
             # here dicts without time will be skipped
-            handlePropValue(prop, obj[prop])
+            pass #handlePropValue(prop, obj[prop])
+
+# After finding common indexes in tn_dict AND dash via name mapping 
+#     tn_dict is dumpprop output  
+#         is missing field and awardyear, 
+#         has fewer entities because its based on wikidataIDs found and is missing entities with no wikiids 
+#         is missing padma vib winners
+# 1. entities found in both - prop merge - in this case merge awardname - field - year - awardforstate
+# 2. entites not found in one but found in other
+#     if dumpprop has not been run on entity run dumpProp
+#         and handle overlap props when merging
+# 3. reflect can be used to do the merge into refine 
+#     why do we need imine dprops if refine works
+#     because in refine there wasnt a way to get all available props given a wikiid
+
+# Is it easier to push props into larger entity list
+#     in dash for eg ms sub appears twice, but in db and lobj entity might appear multiple times with prop value 'award received' different 
+# create a new lobjs and discard the older intermediates - 3 way merge - dash - wikiids/dumprop - 
 
 def updateAwardProp(index, data):
     if 'award received' in lobjs[index]:
@@ -336,8 +356,6 @@ def updateAwardProp(index, data):
         lobjs[index]['award received']=[data]
 
 #########################################################
-
-
 #import simplejson
 #import urllib2
 #from urllib import urlencode

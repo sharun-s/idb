@@ -22,7 +22,7 @@ def fulltext(soup):
 			seen.add(item)
 			result.append(item)
 	# drop blank lines
-	text = ' '.join(chunk for chunk in result[2:10] if chunk)
+	text = ' '.join(chunk for chunk in result[2:40] if chunk)
 	return text
 
 
