@@ -197,6 +197,29 @@ from titles import *
 import re, difflib
 il=initlabels(dProps['label'])
 tl=tinitlabels(dProps['label'])
+cleanAwardStr=lambda x:' '.join(x.split()[:2]) 
+
+def updateProp(index, data):
+    a=cleanAwardStr(data['award'])
+    if 'award received' in lobjs[index]:
+        if type(lobjs[index]['award received']) is list:
+            gg=difflib.get_close_matches(data['award'], lobjs[index]['award received'], cutoff=.9)
+            if gg:
+                print("removing "+gg[0])
+                lobjs[index]['award received'].remove(gg[0])
+        else:
+            gg=difflib.get_close_matches(data['award'], [lobjs[index]['award received']], cutoff=.9)
+            if gg:
+                print("removing "+gg[0])
+                lobjs[index]['award received']=[]
+            else:
+                lobjs[index]['award received']=[lobjs[index]['award received']]
+        lobjs[index]['award received'].append(a+' '+data['area']+' '+str(data['year']))
+        print('added '+a+' '+data['area']+' '+str(data['year']))
+    else:
+        lobjs[index]['award received']=[a+' '+data['area']+' '+str(data['year'])]
+
+
 # Map govt data names to wikidata names and merge into single dataset
 statedata=getStateDataFromDashboardDump('Tamil Nadu')
 
@@ -217,15 +240,24 @@ for i in statedata:
     index=-1 
     if n in dProps['label']:
         index=dProps['label'][n][0]; label=label+1 
-
+        #area, name, place, award, year
+        updateProp(index, i)
     elif initial(n) in dProps['label']:
-        ilabel.append((n, initial(n))) 
+        ilabel.append((n, initial(n)))
+        index=dProps['label'][initial(n)][0]; 
+        updateProp(index, i)
     elif tightinitial(n) in dProps['label']:
         tlabel.append((n,tightinitial(n)))
+        index=dProps['label'][tightinitial(n)][0]; 
+        updateProp(index, i)
     elif n in il:
-        dilabel.append((n, il[n])) #index=il[n][0];
+        dilabel.append((n, il[n])) 
+        index=dProps['label'][il[n]][0];
+        updateProp(index, i)
     elif n in tl:
-        dtlabel.append((n, tl[n])) #index=tl[n][0];
+        dtlabel.append((n, tl[n])) 
+        index=dProps['label'][tl[n]][0];
+        updateProp(index, i)
     else:
         i['untitledname']=n
         notfound.append(i)
@@ -237,16 +269,18 @@ for i in notfound:
     gg=difflib.get_close_matches(i['untitledname'], dProps['label'].keys(), cutoff=.8)
     if gg:
         gcmlabels.append((i['untitledname'],gg[0])) 
-        #index=dProps['label'][gg[0]][0]
+        index=dProps['label'][gg[0]][0]
+        updateProp(index, i)
     else:
         notfound1.append(i)
 notfound=notfound1
 del(notfound1)
 
-
 print(label, len(ilabel), len(tlabel), len(dilabel), len(dtlabel), len(gcmlabels))
 
-#update_awardrevd
+idx=0
+dProps={}
+mineDict(lobjs,ignore)
 ##### End Hack #####
 
 counts=minePropValCounts(dProps)
@@ -304,33 +338,17 @@ def pg(p,v,l=['label','occupation']):
 #getmainvalue from imine
 #how is time dict handled 
 
-a=['Padma Shri in arts',
- 'Padma Bhushan',
- 'Padma Vibhushan in science & engineering',
- 'Padma Vibhushan',
- 'Padma Bhushan in science & engineering',
- 'Padma Shri in social work',
- 'Padma Shri',
- 'Padma Shri in literature & education',
- 'Padma Shri in sports',
- 'Padma Shri in trade and industry',
- 'Padma Shri in medicine',
- 'Padma Shri in science & engineering',
- 'Padma Shri in civil service',
- 'Padma Vibhushan in trade & industry',
- 'Padma Shri in other fields']
-
 # example of unifying prop 
-for i in range(0,len(lobjs)):
-    if 'award received' in lobjs[i]:
-        if type(obj[prop]) is list:
-            # maybe list of dicts careful
-            pass
-        elif type(obj[prop]) is dict:
-            pass #handlePropValueDict(prop, obj[prop])
-        else:
-            # here dicts without time will be skipped
-            pass #handlePropValue(prop, obj[prop])
+# for i in range(0,len(lobjs)):
+#     if 'award received' in lobjs[i]:
+#         if type(obj[prop]) is list:
+#             # maybe list of dicts careful
+#             pass
+#         elif type(obj[prop]) is dict:
+#             pass #handlePropValueDict(prop, obj[prop])
+#         else:
+#             # here dicts without time will be skipped
+#             pass #handlePropValue(prop, obj[prop])
 
 # After finding common indexes in tn_dict AND dash via name mapping 
 #     tn_dict is dumpprop output  
@@ -348,12 +366,6 @@ for i in range(0,len(lobjs)):
 # Is it easier to push props into larger entity list
 #     in dash for eg ms sub appears twice, but in db and lobj entity might appear multiple times with prop value 'award received' different 
 # create a new lobjs and discard the older intermediates - 3 way merge - dash - wikiids/dumprop - 
-
-def updateAwardProp(index, data):
-    if 'award received' in lobjs[index]:
-        lobjs[index]['award received'].append(data)
-    else:
-        lobjs[index]['award received']=[data]
 
 #########################################################
 #import simplejson
