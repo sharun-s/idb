@@ -1,6 +1,24 @@
 #! /usr/bin/env python3
 import sys
 from datetime import datetime
+import requests
+
+def getWikidataID(name):
+    r=requests.get('https://tools.wmflabs.org/openrefine-wikidata/en/suggest/entity?prefix='+name)
+    return r.json()['result'][0]
+
+ids=[]
+#run variantset before running this if untitledname isn't what is in wikidata label
+def collectForDumpProps(obj):
+    global ids
+    result=getWikidataID(obj['untitledname'])
+    obj.update( {'MyWikiDataID':result['id'], 'desc':result['description'] })
+    ids.append(obj)
+
+def variantset(i, v):
+    i['variant']=i['untitledname']
+    i['untitledname']=v
+
 
 class Entity(object):
     def __init__(self,**kargs):
@@ -193,31 +211,54 @@ def getStateDataFromDashboardDump(statename, dumpfile=False ):
         f.close()
     return statedata
 
+def getclosematch(award, awardlist):
+    return [i for i in awardlist if i.startswith(award)]
+
+# NOTE: lobj not lobjs eg lobjs[44]
+def createOrUpdatePropList(lobj, propstr,val):
+    if propstr in lobj:
+        if type(lobj[propstr]) is list:
+            lobj[propstr].append(val)
+        else: # its a string turn it into a list
+            lobj[propstr]=[lobj[propstr], val]
+    else: 
+        lobj[propstr]=[val]
+
 from titles import *
 import re, difflib
 il=initlabels(dProps['label'])
 tl=tinitlabels(dProps['label'])
 cleanAwardStr=lambda x:' '.join(x.split()[:2]) 
-
-def updateProp(index, data):
+updated=0
+def mergeProp(index, data):
+    global updated
+    updated=updated+1
     a=cleanAwardStr(data['award'])
     if 'award received' in lobjs[index]:
         if type(lobjs[index]['award received']) is list:
-            gg=difflib.get_close_matches(data['award'], lobjs[index]['award received'], cutoff=.9)
+            gg=getclosematch(a, lobjs[index]['award received'])
             if gg:
-                print("removing "+gg[0])
+                #print("removing "+gg[0])
                 lobjs[index]['award received'].remove(gg[0])
         else:
-            gg=difflib.get_close_matches(data['award'], [lobjs[index]['award received']], cutoff=.9)
+            gg=getclosematch(a, [lobjs[index]['award received']])
             if gg:
-                print("removing "+gg[0])
+                #print("removing "+gg[0])
                 lobjs[index]['award received']=[]
             else:
                 lobjs[index]['award received']=[lobjs[index]['award received']]
-        lobjs[index]['award received'].append(a+' '+data['area']+' '+str(data['year']))
-        print('added '+a+' '+data['area']+' '+str(data['year']))
+        lobjs[index]['award received'].append(a)
+        lobjs[index][a+' '+data['area']]=data['year']
+        #print('added '+a+' '+data['area']+' '+str(data['year']))
     else:
-        lobjs[index]['award received']=[a+' '+data['area']+' '+str(data['year'])]
+        lobjs[index]['award received']=[a]
+        lobjs[index][a+' '+data['area']]=data['year']
+    if 'untitledname' in data:
+        createOrUpdatePropList(lobjs[index], 'variant', data['untitledname'])        
+    else:
+        n=re.sub(titles,'',data['name'])
+        if lobjs[index]['label'] != n:
+            createOrUpdatePropList(lobjs[index],'variant', data['name'])
 
 
 # Map govt data names to wikidata names and merge into single dataset
@@ -241,23 +282,23 @@ for i in statedata:
     if n in dProps['label']:
         index=dProps['label'][n][0]; label=label+1 
         #area, name, place, award, year
-        updateProp(index, i)
+        mergeProp(index, i)
     elif initial(n) in dProps['label']:
         ilabel.append((n, initial(n)))
         index=dProps['label'][initial(n)][0]; 
-        updateProp(index, i)
+        mergeProp(index, i)
     elif tightinitial(n) in dProps['label']:
         tlabel.append((n,tightinitial(n)))
         index=dProps['label'][tightinitial(n)][0]; 
-        updateProp(index, i)
+        mergeProp(index, i)
     elif n in il:
         dilabel.append((n, il[n])) 
         index=dProps['label'][il[n]][0];
-        updateProp(index, i)
+        mergeProp(index, i)
     elif n in tl:
         dtlabel.append((n, tl[n])) 
         index=dProps['label'][tl[n]][0];
-        updateProp(index, i)
+        mergeProp(index, i)
     else:
         i['untitledname']=n
         notfound.append(i)
@@ -266,17 +307,26 @@ for i in statedata:
 gcmlabels=[]
 notfound1=[]
 for i in notfound:
-    gg=difflib.get_close_matches(i['untitledname'], dProps['label'].keys(), cutoff=.8)
+    gg=difflib.get_close_matches(i['untitledname'], dProps['label'].keys(), cutoff=0.9)
     if gg:
         gcmlabels.append((i['untitledname'],gg[0])) 
         index=dProps['label'][gg[0]][0]
-        updateProp(index, i)
+        mergeProp(index, i)
     else:
         notfound1.append(i)
 notfound=notfound1
 del(notfound1)
 
 print(label, len(ilabel), len(tlabel), len(dilabel), len(dtlabel), len(gcmlabels))
+m=[dict(ilabel), dict(tlabel), dict(dilabel), dict(dtlabel), dict(gcmlabels)]
+#i=notfound.pop(0);i;checkNotFound(i)
+#[j[i['untitledname']] for j in m if i['untitledname'] in j]
+# if index found -> mergeProp(index, i)
+# if not
+#   - it is in lobj but spelling is so diff that automation didnt catch it -> use contains and distinct part of phrase to dig it out like otty for mamootty
+#   - it is in lobj but not in wikidata - merge and to get list of all not in wikidata search for lobj without MyWikiDataID key
+#   - its not in lobj -> check if it is in wikidata and collect it
+#   after collecting ids -> run dumpprops on them and pull into lobjs
 
 idx=0
 dProps={}
@@ -287,7 +337,9 @@ counts=minePropValCounts(dProps)
 
 from pprint import pprint
 getProps=lambda index:{i:lobjs[index][i] for i in lobjs[index] if i in allowedProps}
-contains=lambda phrase:[i for i in dProps['label'].keys() if i.find(phrase) >= 0]
+contains=lambda phrase:[(i, dProps['label'][i][0]) for i in dProps['label'].keys() if i.find(phrase) >= 0]
+def checkNotFound(i):
+    pprint([(i['untitledname'],contains(n)) for n in i['untitledname'].split() if len(contains(n))>0])
 def p(index):
     pprint(getProps(index))
 def pall(index):
@@ -307,7 +359,8 @@ pgroup=lambda p,v,l:[(i,[lobjs[i][j] for j in l]) for i in dProps[p][v] ]
 def pg(p,v,l=['label','occupation']):
     pprint(pgroup(p,v,l))
 
-
+#[*filter(lambda x:x['area']=='Sports',notfound)]
+#pprint(sorted([*filter(lambda x:x[0].startswith('P'),counts['award received'])], key=lambda x:(x[0],x[1])))
 #########################################################
 
 # class source():
