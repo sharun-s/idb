@@ -359,6 +359,14 @@ def loadfile(name):
 lobjs=loadfile("lobjs")
 ids=loadfile("ids")
 notfound=loadfile('notfound')
+
+def addNotFoundEntities():
+    for i in notfound:
+        lobjs.append({'label':i['untitledname']})
+        mergeProp(len(lobjs)-1,i)
+
+pprint(sorted([i for i in counts['award received'] if i[0].startswith('Padma')],key=lambda x:(x[1],x[0]),reverse=True))
+print('ids found',str(len(counts['MyWikiDataID'])))
 from qwikidata.mediawiki_api import get_entities_from_mwapi
 from qwikidata.entity import WikidataItem, WikidataProperty
 from qwikidata.linked_data_interface import get_entity_dict_from_api
@@ -450,6 +458,7 @@ pgroup=lambda p,v,l:[(i,[lobjs[i][j] for j in l]) for i in dProps[p][v] ]
 def pg(p,v,l=['label','occupation']):
     pprint(pgroup(p,v,l))
 
+pprint(sorted([i for i in counts['award received'] if i[0].startswith('Padma')],key=lambda x:(x[1],x[0]),reverse=True))
 #[*filter(lambda x:x['area']=='Sports',notfound)]
 #pprint(sorted([*filter(lambda x:x[0].startswith('P'),counts['award received'])], key=lambda x:(x[0],x[1])))
 #########################################################
