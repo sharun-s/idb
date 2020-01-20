@@ -68,4 +68,4 @@ def printObj(e):
 
 db={}    
 for e in entities:
-  db[e]=printObj(entities(e))
+  db[e]=printObj(entities[e])

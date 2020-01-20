@@ -143,9 +143,9 @@ def handlePropValueDict(prop, val):
         handlePropValue(prop, val)
         
 def handlePropValue(prop, val):
-    #if type(val) is dict:
-    #    print('skipping ',prop, val)
-    #    return
+    if type(val) is dict:
+        print('skipping ',prop, val)
+        return
     if prop not in dProps:
         try:
             dProps[prop]={val:[idx]}
@@ -166,6 +166,7 @@ db=eval(text)
 lobjs=[]
 dProps={} # output of mineDict stored here
 idx=0 # init index of lobjs
+
 for i in db:
     db[i]['MyWikiDataID']=i
     lobjs.append(db[i])
@@ -321,13 +322,103 @@ print(label, len(ilabel), len(tlabel), len(dilabel), len(dtlabel), len(gcmlabels
 m=[dict(ilabel), dict(tlabel), dict(dilabel), dict(dtlabel), dict(gcmlabels)]
 #i=notfound.pop(0);i;checkNotFound(i)
 #[j[i['untitledname']] for j in m if i['untitledname'] in j]
-# if index found -> mergeProp(index, i)
-# if not
-#   - it is in lobj but spelling is so diff that automation didnt catch it -> use contains and distinct part of phrase to dig it out like otty for mamootty
-#   - it is in lobj but not in wikidata - merge and to get list of all not in wikidata search for lobj without MyWikiDataID key
-#   - its not in lobj -> check if it is in wikidata and collect it
-#   after collecting ids -> run dumpprops on them and pull into lobjs
+# if index found in lobjs -> mergeProp(index, i)
+#   NB spelling mismatches between untitledname and label in lobjs are preserved by pushing untitledname into 'variant'
+#   spelling maybe so diff that checknotfound may not catch it -> use contains and distinct part of phrase to dig it out like otty for mamootty)
+# if not in lobjs
+#   -> check if it is in wikidata [and collect its ID for future processing with dumprops]
+#        if it is in wikidata name might be exact match with untitledname
+#           preserve that spelling diff with 
+#               variantset(i, wikidatalabelspelling)
+#        then call collectForDumpProps(i)
+#        if name matches dont no need to call variantset 
+# it is in lobjs but not in wikidata - 
+#   justmerge [process later get list of all not in wikidata > lobjs without MyWikiDataID key]
+###############
+# 
+# process ids -> run dumpprops on them and pull into lobjs
+# time values have to be handled
+#  
+################### phase 2 of merge
+# between the 2 or 3 sources - dash/tn_pdf_csv <(wikidataid() wikidata
+#     - overlaps have been handled by finding a rosetta such as wikidataid
+#     - mapping processes have been uncovered and mostly are complete between the sources 
+# there are are still gaps - 
+#     wikidataids have been found for some but props have to be retreived
+#     wikidataids have not been found for others and need to be done manually
 
+# len([i for i in lobjs if 'MyWikiDataID' not in i])
+# 58
+def loadfile(name):
+    f=open(name)
+    data=eval(f.read())
+    f.close()
+    return data
+
+# restore data context from console session
+lobjs=loadfile("lobjs")
+ids=loadfile("ids")
+notfound=loadfile('notfound')
+from qwikidata.mediawiki_api import get_entities_from_mwapi
+from qwikidata.entity import WikidataItem, WikidataProperty
+from qwikidata.linked_data_interface import get_entity_dict_from_api
+import collections
+# 4 so 58+4 dont have wikidataids
+entities={}
+#WARN : if len(ids) > 50 look for sample code in dumpprops to get 50 at a time [api constraint]
+entities.update(get_entities_from_mwapi("|".join([i["MyWikiDataID"] for i in ids]))['entities'])
+
+def flatten(l):
+    aaa=[]
+    for i in l:
+        aaa.extend(i)
+    return aaa
+
+def completeObj(e):
+  tmp={}
+  w=WikidataItem(e)
+  tmp['MyWikiDataID']=e['title']
+  tmp['label']=w.get_label()
+  tmp['desc']=w.get_description()
+  tmp['wikiurl']=w.get_enwiki_title()
+  claims=w.get_claim_groups()
+  for claim in claims:
+    prop=WikidataProperty(props[claim])
+    tmp[prop.get_label()]=[]
+    #each claim/prop can point at someother entity eg: an Organization/Country etc
+    for i in range(0, len(claims[claim])):
+      dv=claims[claim][i].mainsnak.datavalue
+      if isinstance(dv.value, dict) and 'id' in dv.value:  
+        qid = dv.value["id"]
+        entity = WikidataItem(get_entity_dict_from_api(qid))
+        tmp[prop.get_label()].append(entity.get_label())
+      else:
+        tmp[prop.get_label()].append(dv.value) 
+    if len(tmp[prop.get_label()]) == 1:
+      tmp[prop.get_label()]=tmp[prop.get_label()][0]
+    #handle props with time
+    for k in tmp:
+      if 'time' in tmp[k]:
+        tmp[k]=tmp[k]['time'][1:].split('-')[0]
+        continue
+      if type(tmp[k]) is list and len(tmp[k])>0 and 'time' in tmp[k][0]:
+        tmp[k]=[tmp[k][t]['time'][1:].split('-')[0] for t in range(0,len(lobjs[i][k]))]  
+  return tmp
+
+allprops=set(flatten([entities[i]['claims'].keys() for i in entities]))
+c=collections.Counter(flatten([entities[i]['claims'].keys() for i in entities]))
+props={}
+for i in range(0,len(c), 50):
+  print(i)
+  ids="|".join(list(c.keys())[i:i+50])
+  props.update(get_entities_from_mwapi(ids)['entities'])
+
+props.update(get_entities_from_mwapi("|".join(list(c.keys())[i:len(c)]))['entities'])
+
+for e in entities:
+    lobjs.append(completeObj(entities[e]))
+
+###############################################
 idx=0
 dProps={}
 mineDict(lobjs,ignore)
