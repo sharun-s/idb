@@ -7,6 +7,17 @@ def getWikidataID(name):
     r=requests.get('https://tools.wmflabs.org/openrefine-wikidata/en/suggest/entity?prefix='+name)
     return r.json()['result'][0]
 
+def loadfile(name):
+    f=open(name)
+    data=eval(f.read())
+    f.close()
+    return data
+
+def tofile(name, data):
+    f=open(name,'w')
+    f.write(str(data)) 
+    f.close()
+
 ids=[]
 #run variantset before running this if untitledname isn't what is in wikidata label
 def collectForDumpProps(obj):
@@ -23,7 +34,7 @@ def variantset(i, v):
 class Entity(object):
     def __init__(self,**kargs):
         for i in kargs.keys():
-            setattr(self, i, kargs[i])
+            setattr(self, re.sub(r"[ ,']",'',i), kargs[i])
 
 def flatten(l):
     aaa=[]
@@ -158,9 +169,7 @@ def handlePropValue(prop, val):
             dProps[prop].update({val:[idx]})
 
 #open file with list of objs or list of dicts - generated using dumpprops.py (with qwikidata lib)
-f=open(sys.argv[1])
-text=f.read()
-db=eval(text)
+db=loadfile(sys.argv[1])
 # db is a dict - entityID to wikidata entity dict of props
 # convert db to ldicts or lobjs - basically indexing it - ie lobjs[n] = someobj
 lobjs=[]
@@ -259,7 +268,7 @@ def mergeProp(index, data):
     else:
         n=re.sub(titles,'',data['name'])
         if lobjs[index]['label'] != n:
-            createOrUpdatePropList(lobjs[index],'variant', data['name'])
+            createOrUpdatePropList(lobjs[index],'variant', n)
 
 
 # Map govt data names to wikidata names and merge into single dataset
@@ -319,7 +328,7 @@ notfound=notfound1
 del(notfound1)
 
 print(label, len(ilabel), len(tlabel), len(dilabel), len(dtlabel), len(gcmlabels))
-m=[dict(ilabel), dict(tlabel), dict(dilabel), dict(dtlabel), dict(gcmlabels)]
+#m=[dict(ilabel), dict(tlabel), dict(dilabel), dict(dtlabel), dict(gcmlabels)]
 #i=notfound.pop(0);i;checkNotFound(i)
 #[j[i['untitledname']] for j in m if i['untitledname'] in j]
 # if index found in lobjs -> mergeProp(index, i)
@@ -349,12 +358,6 @@ m=[dict(ilabel), dict(tlabel), dict(dilabel), dict(dtlabel), dict(gcmlabels)]
 
 # len([i for i in lobjs if 'MyWikiDataID' not in i])
 # 58
-def loadfile(name):
-    f=open(name)
-    data=eval(f.read())
-    f.close()
-    return data
-
 # restore data context from console session
 lobjs=loadfile("lobjs")
 ids=loadfile("ids")
@@ -365,8 +368,7 @@ def addNotFoundEntities():
         lobjs.append({'label':i['untitledname']})
         mergeProp(len(lobjs)-1,i)
 
-pprint(sorted([i for i in counts['award received'] if i[0].startswith('Padma')],key=lambda x:(x[1],x[0]),reverse=True))
-print('ids found',str(len(counts['MyWikiDataID'])))
+from pprint import pprint
 from qwikidata.mediawiki_api import get_entities_from_mwapi
 from qwikidata.entity import WikidataItem, WikidataProperty
 from qwikidata.linked_data_interface import get_entity_dict_from_api
@@ -376,13 +378,10 @@ entities={}
 #WARN : if len(ids) > 50 look for sample code in dumpprops to get 50 at a time [api constraint]
 entities.update(get_entities_from_mwapi("|".join([i["MyWikiDataID"] for i in ids]))['entities'])
 
-def flatten(l):
-    aaa=[]
-    for i in l:
-        aaa.extend(i)
-    return aaa
+idcache={}
 
 def completeObj(e):
+  global idcache
   tmp={}
   w=WikidataItem(e)
   tmp['MyWikiDataID']=e['title']
@@ -398,7 +397,12 @@ def completeObj(e):
       dv=claims[claim][i].mainsnak.datavalue
       if isinstance(dv.value, dict) and 'id' in dv.value:  
         qid = dv.value["id"]
-        entity = WikidataItem(get_entity_dict_from_api(qid))
+        if qid in idcache:
+            entity = WikidataItem(idcache[qid])
+        else:
+            queryresponse=get_entity_dict_from_api(qid)
+            entity=WikidataItem(queryresponse)
+            idcache[qid]=queryresponse
         tmp[prop.get_label()].append(entity.get_label())
       else:
         tmp[prop.get_label()].append(dv.value) 
@@ -431,11 +435,10 @@ idx=0
 dProps={}
 mineDict(lobjs,ignore)
 ##### End Hack #####
-
 counts=minePropValCounts(dProps)
 
-from pprint import pprint
 getProps=lambda index:{i:lobjs[index][i] for i in lobjs[index] if i in allowedProps}
+dashcontains=lambda phrase:[i for i in statedata if i['name'].find(phrase) >= 0]
 contains=lambda phrase:[(i, dProps['label'][i][0]) for i in dProps['label'].keys() if i.find(phrase) >= 0]
 def checkNotFound(i):
     pprint([(i['untitledname'],contains(n)) for n in i['untitledname'].split() if len(contains(n))>0])
@@ -459,6 +462,8 @@ def pg(p,v,l=['label','occupation']):
     pprint(pgroup(p,v,l))
 
 pprint(sorted([i for i in counts['award received'] if i[0].startswith('Padma')],key=lambda x:(x[1],x[0]),reverse=True))
+print('ids found',str(len(counts['MyWikiDataID'])))
+
 #[*filter(lambda x:x['area']=='Sports',notfound)]
 #pprint(sorted([*filter(lambda x:x[0].startswith('P'),counts['award received'])], key=lambda x:(x[0],x[1])))
 #########################################################
