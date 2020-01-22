@@ -30,11 +30,35 @@ def variantset(i, v):
     i['variant']=i['untitledname']
     i['untitledname']=v
 
-
+labelRegex=r"[ ,',.]"
+#this is for lobjs
 class Entity(object):
     def __init__(self,**kargs):
         for i in kargs.keys():
-            setattr(self, re.sub(r"[ ,']",'',i), kargs[i])
+            setattr(self, re.sub(labelRegex,'',i), kargs[i])
+
+class dictEntity(dict):
+    def __init__(self, d):
+        dict.__init__(self, d)
+        for i in d:
+            setattr(self, re.sub(labelRegex,'',i), d[i])
+
+#this is for qwikidata data
+class dEntity(object):
+    def __init__(self, d):
+        if 'en' in d['labels']:        
+            setattr(self, 'labels', d['labels']['en']['value'])
+        if d['descriptions'] and 'en' in d['descriptions']:
+            setattr(self, 'descriptions', d['descriptions']['en']['value'])
+        if d['aliases'] and 'en' in d['aliases']:
+            setattr(self, 'aliases', d['aliases'])
+        if d['claims']:
+            setattr(self, 'claims', d['claims'])
+
+class L(object):
+    def __init__(seld, lobjs):
+        for i in lobjs:
+            setattr(self, re.sub(labelRegex,'',i['label']), dictEntity(i))
 
 def flatten(l):
     aaa=[]
