@@ -2,6 +2,8 @@
 import sys
 from datetime import datetime
 import requests
+from titles import *
+import re, difflib
 
 def getWikidataID(name):
     r=requests.get('https://tools.wmflabs.org/openrefine-wikidata/en/suggest/entity?prefix='+name)
@@ -113,111 +115,18 @@ def mineObj(lobjs):
         idx=idx+1
     return results
 
-#Takes a list of dicts - lobjs - and builds a dict of all prop val combos found.
-#and dProps[prop][val] = [index of objects in lobjs]
-def mineDict(lobjs, ignore=[]):
-    global idx
-    for obj in lobjs:
-        #print idx,
-        for prop in obj:
-            if prop not in ignore:
-                if type(obj[prop]) is list:
-                    # here list of dicts with time will be skipped
-                    handlePropValueList(obj, prop)
-                elif type(obj[prop]) is dict:
-                    handlePropValueDict(prop, obj[prop])
-                else:
-                    # here dicts without time will be skipped
-                    handlePropValue(prop, obj[prop])
-        #pprint.pprint(dProps)                    
-        idx=idx+1
-    return dProps
-
-def handlePropValueList(obj, prop):
-    lval=obj[prop]
-    if len(lval) == 0:
-        print('skipped ',prop, ' - EMPTY LIST?')
-        return
-    elif type(lval[0]) is dict:
-        #print('skipped ',prop, ' - not handling list of dict values')
-        val=getMainValFromDict(lval[0])
-        handlePropValue(prop, val)
-        return
-    if prop not in dProps:
-        dProps[prop]=dict([(item,[idx]) for item in lval])
-    else:
-        for val in lval:
-            try:
-                if val in dProps[prop]:
-                    dProps[prop][val].append(idx)
-                else:
-                    dProps[prop].update({val:[idx]})
-            except TypeError as e:
-                print('L', e, prop)
-                #raise e
-
-def getMainValFromDict(val):
-    if "time" in val:
-        #print(val['time'])
-        #val=datetime.strptime(val['time'], "+%Y-%m-%dT%H:%M:%SZ").year
-        val=val['time'][1:].split('-')[0]
-    elif "amount" in val:
-        val=val["amount"]
-    elif "text" in val:
-        val=val["text"]
-    else:
-        print("UNKNOWN dict",val)
-    return val
-
-def handlePropValueDict(prop, val):
-    try:
-        val=getMainValFromDict(val)
-    except ValueError as e:
-        print('hpvd', e, prop)
-    else:
-        handlePropValue(prop, val)
-        
-def handlePropValue(prop, val):
-    if type(val) is dict:
-        print('skipping ',prop, val)
-        return
-    if prop not in dProps:
-        try:
-            dProps[prop]={val:[idx]}
-        except TypeError as e:
-            print('hpv', e, prop, obj[prop])
-    else:
-        if val in dProps[prop]:
-            dProps[prop][val].append(idx)
-        else:
-            dProps[prop].update({val:[idx]})
-
 #open file with list of objs or list of dicts - generated using dumpprops.py (with qwikidata lib)
-db=loadfile(sys.argv[1])
-# db is a dict - entityID to wikidata entity dict of props
+s=source(file=sys.argv[1])
+# file contains list of dicts - entityID to wikidata entity dict of props
 # convert db to ldicts or lobjs - basically indexing it - ie lobjs[n] = someobj
-lobjs=[]
-dProps={} # output of mineDict stored here
-idx=0 # init index of lobjs
-
-for i in db:
-    db[i]['MyWikiDataID']=i
-    lobjs.append(db[i])
-
-# for entities with time based props such as data of birth,death etc just use Year
-for i in range(0,len(lobjs)):
-    for k in lobjs[i]:
-        if 'time' in lobjs[i][k]:
-            lobjs[i][k]=lobjs[i][k]['time'][1:].split('-')[0]
-            continue
-        if type(lobjs[i][k]) is list and len(lobjs[i][k])>0 and 'time' in lobjs[i][k][0]:
-            lobjs[i][k]=[lobjs[i][k][t]['time'][1:].split('-')[0] for t in range(0,len(lobjs[i][k]))]
+s.convert_to_list_of_dicts()
 
 allowedProps=['label', 'desc', 'wikiurl', 'occupation', 'country of citizenship', 'date of birth', 'date of death', 'member of political party', 'educated at', 'instance of', 'position held', 'place of death', 'award received', 'place of birth', 'religion', 'Commons category', 'name in native language', 'family name',  'languages spoken, written or signed', 'sex or gender', 'native language', 'writing language', 'described by source', 'MyWikiDataID', 'member of', 'given name', 'nominated for', 'field of work', 'employer', 'Google Doodle', 'notable work', 'exact match', 'doctoral student', 'military rank', 'candidacy in election', "topic's main category", 'spouse', 'sibling', 'ethnic group', 'cause of death', 'manner of death', 'official website', 'patronym or matronym for this person', 'ancestral home', 'quotation or excerpt', 'genre', 'work period (start)', 'instrument', 'number of children', 'sport', 'member of sports team', 'country for sport', 'father', 'residence', 'academic degree', 'doctoral advisor',  'child', 'handedness', 'playing hand', 'work period (end)', 'participant of', 'influenced by', 'mother', 'related category', 'chairperson', 'height',  'mass', 'prize money', 'different from', 'birth name', 'partner', 'relative', 'discography', 'filmography','owner of',  'conferred by', 'pseudonym', 'part of', 'significant event']
 ignore=['Encyclopædia Universalis ID', 'Amazon author ID', 'CANTIC ID', 'SUDOC authorities ID', 'Freebase ID', 'FAST ID', 'SELIBR ID', 'Plarr ID', 'ATP player ID', 'Persée author ID', 'Treccani ID', 'signature', 'CiNii author ID (books)', 'National Library of Israel identifier', 'Chess Games ID', "Photographers' Identities Catalog ID", 'Open Library ID', 'TWAS Fellow ID', 'Scopus Author ID', 'Libris-URI', 'TV.com ID', 'record label', 'SNAC Ark ID', 'NTA ID', 'NLA Trove ID', 'Danish National Filmography person ID', 'NE.se ID', 'FIDE ID', 'SHARE Catalogue author ID', 'Publons author ID', 'Commons gallery', 'BNB person ID', 'Dharma Drum Buddhist College person ID', 'ITTF table tennis player ID', 'NKCR AUT ID', 'Nobel prize ID', 'DC Books author ID', 'iTunes artist ID', 'Commonwealth Games Federation athlete ID', 'TED speaker ID', 'DUC ID', 'LNB ID', 'Physics History Network ID', 'IPNI author ID', 'PORT person ID', 'Fellow of the Royal Society ID', 'AlloCiné person ID', 'Munzinger Sport number', 'Gaana.com artist ID', 'ULAN ID', 'GTAA ID', 'VIAF ID', 'Biblioteca Nacional de España ID', 'CTHS person ID', 'CineMagia person ID', '365chess player ID', 'Genius artist ID', 'Store norske leksikon ID', 'BIU Santé person ID', 'Regensburg Classification', 'Scope.dk person ID', 'CricketArchive player ID', 'Mathematics Genealogy Project ID', 'ČSFD person ID', 'Bibliothèque nationale de France ID', 'WBPLN author ID', 'Leopoldina member ID', 'Twitter username', 'Oxford Dictionary of National Biography ID', 'NORAF ID', 'Box Office Mojo person ID', "Munk's Roll ID", 'Great Russian Encyclopedia Online ID', 'Davis Cup player ID', 'AllMovie person ID', 'Internet Broadway Database person ID', 'Tennis Temple player ID', 'Rupa Publications author ID', 'Quora topic ID', 'Elo rating', 'audio', 'NNDB people ID', 'Last.fm ID', 'National Diet Library Auth ID', 'HDS ID', 'YouTube channel ID', 'GND ID', 'Nederlandse Top 40 artist ID', 'IMDb ID', 'singles record', 'Indian gallantry awardee ID', 'elFilm person ID', 'OlimpBase Chess Olympiad player ID', 'title of chess person', 'PRS Legislative Research MP ID', 'CONOR ID', 'Encyclopædia Britannica Online ID', 'AllMusic artist ID', 'Elonet person ID', 'Filmportal ID', 'Facebook ID', 'Les Archives du Spectacle Person ID', 'University of Barcelona authority ID', 'Artnet artist ID', 'International Olympic Committee athlete ID', 'Academic Tree ID', 'MusicBrainz artist ID', 'Library of Congress authority ID', 'Discogs artist ID', 'National Library of Korea Identifier', 'ISNI', 'World Athletics athlete ID', 'image', 'Swedish Film Database person ID', 'doubles record', 'Brockhaus Enzyklopädie online ID', 'Nobel Prize People Nomination ID', 'Kinopoisk person ID', 'PM20 folder ID', 'Erdős number', 'Genius artist numeric ID', 'National Library of Greece ID', 'ESPNcricinfo.com player ID', 'Libraries Australia ID', 'Carnegie Hall agent ID', 'ITF player ID', 'TCM Movie Database person ID', 'botanist author abbreviation', 'NUKAT ID', 'Loop ID', 'chesstempo ID', 'Acharts.co artist ID', 'ResearcherID', 'Open Media Database person ID', 'Theatricalia person ID', 'National Academy of Sciences member ID', 'BDEL ID', 'Instagram username', 'Spotify artist ID', 'MovieMeter director ID', 'Gran Enciclopèdia Catalana ID', 'zbMATH author ID', 'Billboard artist ID', 'ORCID iD', 'Goodreads author ID', 'Sports-Reference.com Olympic athlete ID', 'Tennis Archives player ID', 'BHL creator ID', 'ranking', 'NSK ID', 'Muziekweb performer ID', "audio recording of the subject's spoken voice", 'Songkick artist ID', 'racing-reference.info driver ID', 'Squash Info player ID', 'Europeana Entity', 'pronunciation audio', 'PSA World Tour player ID', 'WikiTree person ID', 'Find A Grave memorial ID', 'Munzinger person ID']
 famrel=['father','mother','parent','child','sibling','sister','brother','relative','spouse']
         
-mineDict(lobjs,ignore)
+idx = index(lobjs, ignore)
+
 # temp garbage hack to pull in IDs till pipeline is worked out
 f=open("wikidataIDs",'r')
 l=f.read()
@@ -226,30 +135,24 @@ lines=l.split('\n')
 for i in lines:
     if i.split(',')[0] not in dProps['label'].keys():
         lobjs.append({'label':i.split(',')[0]})
-
-idx=0
-dProps={}
-mineDict(lobjs,ignore)
+####################################################
+s.addWikiDataIDs()
+i.reindex(lobjs) #s.createPropIndex(lobjs,ignore)
 
 def getStateDataFromDashboardDump(statename, dumpfile=False ):
-    f=open('dashboard-padmaawards_gov_in_get_data')
-    g=eval(f.read())
-    #len(g) 4615 
+    g=loadfile('dashboard-padmaawards_gov_in_get_data')
+    #len(g) 4615     #len(tn) 413
     #g[0] {'area': 'Public Affairs', 'award': 'Bharat Ratna', 'id': 1, 'name': 'Dr. Sarvapalli Radhakrishnan', 'place': 'Tamil Nadu', 'year': 1954}
     statedata=[*filter(lambda x:x['place']==statename,g)]
-    #len(tn) 413
-    f.close()
     if dumpfile:
-        f=open(statename.replace(' ','_')+'_dict','w')
-        f.write(str(statedata)) 
-        f.close()
+        tofile(statename.replace(' ','_')+'_dict',statedata)
     return statedata
 
 def getclosematch(award, awardlist):
     return [i for i in awardlist if i.startswith(award)]
 
 # NOTE: lobj not lobjs eg lobjs[44]
-def createOrUpdatePropList(lobj, propstr,val):
+def createOrUpdatePropList(lobj, propstr, val):
     if propstr in lobj:
         if type(lobj[propstr]) is list:
             lobj[propstr].append(val)
@@ -258,8 +161,6 @@ def createOrUpdatePropList(lobj, propstr,val):
     else: 
         lobj[propstr]=[val]
 
-from titles import *
-import re, difflib
 il=initlabels(dProps['label'])
 tl=tinitlabels(dProps['label'])
 cleanAwardStr=lambda x:' '.join(x.split()[:2]) 
@@ -455,13 +356,11 @@ for e in entities:
     lobjs.append(completeObj(entities[e]))
 
 ###############################################
-idx=0
-dProps={}
-mineDict(lobjs,ignore)
+idx.reindex(lobjs,ignore)
 ##### End Hack #####
 counts=minePropValCounts(dProps)
 
-getProps=lambda index:{i:lobjs[index][i] for i in lobjs[index] if i in allowedProps}
+getProps=lambda index:{i:lobjs[index][i] for i in lobjs[index] if i not in ignore}
 dashcontains=lambda phrase:[i for i in statedata if i['name'].find(phrase) >= 0]
 contains=lambda phrase:[(i, dProps['label'][i][0]) for i in dProps['label'].keys() if i.find(phrase) >= 0]
 def checkNotFound(i):
@@ -492,12 +391,28 @@ print('ids found',str(len(counts['MyWikiDataID'])))
 #pprint(sorted([*filter(lambda x:x[0].startswith('P'),counts['award received'])], key=lambda x:(x[0],x[1])))
 #########################################################
 
-# class source():
-#     url, file
-#     def convert_to_list_of_dicts():
-#         pass
-#     def convert_to_list of_objs():
-#         pass
+class source():
+    def __init__(self,url,file):
+        self.lobjs=[]
+        if file:
+            self.db=loadfile(file)
+
+    def convert_to_list_of_dicts(self):
+        for i in self.db:
+            self.db[i]['MyWikiDataID']=i
+            self.lobjs.append(self.db[i])
+
+        # for entities with time based props such as data of birth,death etc just use Year
+        for i in range(0,len(self.lobjs)):
+            for k in self.lobjs[i]:
+                if 'time' in self.lobjs[i][k]:
+                    self.lobjs[i][k]=self.lobjs[i][k]['time'][1:].split('-')[0]
+                    continue
+                if type(self.lobjs[i][k]) is list and len(self.lobjs[i][k])>0 and 'time' in self.lobjs[i][k][0]:
+                    self.lobjs[i][k]=[self.lobjs[i][k][t]['time'][1:].split('-')[0] for t in range(0,len(self.lobjs[i][k]))]
+            
+    def convert_to_list of_objs():
+        pass
 
 # class mapper():
 #     source1, source2, binderProp
@@ -514,7 +429,94 @@ print('ids found',str(len(counts['MyWikiDataID'])))
 #         #Subbalakshmi Subbulakshmi
 
 # #index is created from unified list of all sources
-# class index():
+class index():
+    self.idx;
+    self.dProps;
+    #Takes a list of dicts - lobjs - and builds a dict of all prop val combos found.
+    #and dProps[prop][val] = [index of objects in lobjs]
+    def __init__(lobjs, ignore=[]):
+        self.reindex(lobjs, ignore)
+
+    def reindex(self, lobjs, ignore):
+        self.idx=0
+        self.dProps={}
+        self.createPropIndex(lobjs, ignore)
+
+    def createPropIndex(self, lobjs, ignore):
+        for obj in lobjs:
+            #print idx,
+            for prop in obj:
+                if prop not in ignore:
+                    if type(obj[prop]) is list:
+                        # here list of dicts with time will be skipped
+                        handlePropValueList(obj, prop)
+                    elif type(obj[prop]) is dict:
+                        handlePropValueDict(prop, obj[prop])
+                    else:
+                        # here dicts without time will be skipped
+                        handlePropValue(prop, obj[prop])
+            #pprint.pprint(dProps)                    
+            self.idx=self.idx+1
+
+    def handlePropValueList(obj, prop):
+        lval=obj[prop]
+        if len(lval) == 0:
+            print('skipped ',prop, ' - EMPTY LIST?')
+            return
+        elif type(lval[0]) is dict:
+            #print('skipped ',prop, ' - not handling list of dict values')
+            val=getMainValFromDict(lval[0])
+            handlePropValue(prop, val)
+            return
+        if prop not in dProps:
+            self.dProps[prop]=dict([(item,[idx]) for item in lval])
+        else:
+            for val in lval:
+                try:
+                    if val in self.dProps[prop]:
+                        self.dProps[prop][val].append(self.idx)
+                    else:
+                        self.dProps[prop].update({val:[self.idx]})
+                except TypeError as e:
+                    print('L', e, prop)
+                    #raise e
+
+    def getMainValFromDict(val):
+        if "time" in val:
+            #print(val['time'])
+            #val=datetime.strptime(val['time'], "+%Y-%m-%dT%H:%M:%SZ").year
+            val=val['time'][1:].split('-')[0]
+        elif "amount" in val:
+            val=val["amount"]
+        elif "text" in val:
+            val=val["text"]
+        else:
+            print("UNKNOWN dict",val)
+        return val
+
+    def handlePropValueDict(prop, val):
+        try:
+            val=getMainValFromDict(val)
+        except ValueError as e:
+            print('hpvd', e, prop)
+        else:
+            handlePropValue(prop, val)
+            
+    def handlePropValue(prop, val):
+        if type(val) is dict:
+            print('skipping ',prop, val)
+            return
+        if prop not in self.dProps:
+            try:
+                self.dProps[prop]={val:[self.idx]}
+            except TypeError as e:
+                print('hpv', e, prop, obj[prop])
+        else:
+            if val in dProps[prop]:
+                self.dProps[prop][val].append(self.idx)
+            else:
+                self.dProps[prop].update({val:[self.idx]})
+
 #     dProps_update(prop):
 
 #getmainvalue from imine
