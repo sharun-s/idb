@@ -9,10 +9,12 @@ def getWikidataID(name):
     r=requests.get('https://tools.wmflabs.org/openrefine-wikidata/en/suggest/entity?prefix='+name)
     return r.json()['result'][0]
 
-def loadfile(name):
-    f=open(name)
-    data=eval(f.read())
-    f.close()
+def loadfile(name, evaluate=False):
+    with open(name) as f:
+        if evaluate:
+            data=eval(f.read())
+        else:
+            data=f.read()
     return data
 
 def tofile(name, data):
@@ -68,55 +70,21 @@ def flatten(l):
         aaa.extend(i)
     return aaa
 
-# dProps is output from a mine*(lobj) 
-# minePropValCounts returns for each prop val combo a count of objs found
-def minePropValCounts(dProps):
-    dd={} #allcounts
-    for prop in dProps:
-        for val in dProps[prop]:
-            if prop in dd:
-                dd[prop].append((val,len(dProps[prop][val])))
-            else:
-                dd[prop]=[(val,len(dProps[prop][val]))]
-    for i in dd:
-        dd[i]=sorted(dd[i],key=lambda x:x[1])
-    return dd
+#given a name-wikidataid list dumpprop queries wikidata and dumps all available props into db
+dumped_props=source(file='db', evaluate=True)
+#both have to then be merged into a list of dicts, based on label,alias <-> name map
+dumped_props.merge(file='wikidataIDs', mergefn)
 
-#Takes a list of objects - lobjs - and builds a dict of all prop val combos found.
-#and dict[prop][val] = [index of objects in lobjs]
-def mineObj(lobjs):
-    results={}
-    idx=0
-    for obj in lobjs:
-        print(idx, " ")
-        for prop in obj.__dict__:                             
-            if results.has_key(prop):
+def mergefn(a, b):
+lines=l.split('\n')
+for i in lines:
+    if i.split(',')[0] not in idx['label'].keys():
+        lobjs.append({'label':i.split(',')[0]})
 
-                if type(obj.__dict__[prop]) is list:
-                    for i in obj.__dict__[prop]:
-                        #print i
-                        if results[prop].has_key(i):
-                            results[prop][i].append(idx)
-                        else:
-                            results[prop].update({i:[idx]})
-                else:
-                    if results[prop].has_key(obj.__dict__[prop]):
-                        results[prop][obj.__dict__[prop]].append(idx)
-                    else:
-                        results[prop].update({obj.__dict__[prop]:[idx]})
-            else:
-                #adding neew prop eg: results['location']= {'adyar':[3]} where 3 is a index into listof ads
-                if type(obj.__dict__[prop]) is list:
-                    l=obj.__dict__[prop]
-                    results[prop]=dict([(item,[idx]) for item in l])
-                else:
-                    results[prop]={obj.__dict__[prop]:[idx]}
-        #pprint.pprint(results)                    
-        idx=idx+1
-    return results
 
-#open file with list of objs or list of dicts - generated using dumpprops.py (with qwikidata lib)
-s=source(file=sys.argv[1])
+# Map govt data names to wikidata names and merge into single dataset
+statedata=source(file='dashboard-padmaawards_gov_in_get_data', dbfilter=lambda x:x['place']=='Tamil Nadu')
+
 # file contains list of dicts - entityID to wikidata entity dict of props
 # convert db to ldicts or lobjs - basically indexing it - ie lobjs[n] = someobj
 s.convert_to_list_of_dicts()
@@ -127,26 +95,16 @@ famrel=['father','mother','parent','child','sibling','sister','brother','relativ
         
 idx = index(lobjs, ignore)
 
-# temp garbage hack to pull in IDs till pipeline is worked out
-f=open("wikidataIDs",'r')
-l=f.read()
-f.close()
-lines=l.split('\n')
-for i in lines:
-    if i.split(',')[0] not in dProps['label'].keys():
-        lobjs.append({'label':i.split(',')[0]})
 ####################################################
 s.addWikiDataIDs()
 i.reindex(lobjs) #s.createPropIndex(lobjs,ignore)
 
-def getStateDataFromDashboardDump(statename, dumpfile=False ):
-    g=loadfile('dashboard-padmaawards_gov_in_get_data')
-    #len(g) 4615     #len(tn) 413
-    #g[0] {'area': 'Public Affairs', 'award': 'Bharat Ratna', 'id': 1, 'name': 'Dr. Sarvapalli Radhakrishnan', 'place': 'Tamil Nadu', 'year': 1954}
-    statedata=[*filter(lambda x:x['place']==statename,g)]
-    if dumpfile:
-        tofile(statename.replace(' ','_')+'_dict',statedata)
-    return statedata
+#import pandas as pd
+#n=loadfile('wikidataIDs')
+#n=n.split('\n') # 389 rows
+#n=[{'label':i.split(',')[0], 'MyWikiDataID':i.split(',')[1]} for i in n]
+#db=loadfile('db', True) # 297 rows
+#m=pd.merge(pd.DataFrame(db.values()), pd.DataFrame(n),on='label') => 331 rows x 240col
 
 def getclosematch(award, awardlist):
     return [i for i in awardlist if i.startswith(award)]
@@ -194,10 +152,6 @@ def mergeProp(index, data):
         n=re.sub(titles,'',data['name'])
         if lobjs[index]['label'] != n:
             createOrUpdatePropList(lobjs[index],'variant', n)
-
-
-# Map govt data names to wikidata names and merge into single dataset
-statedata=getStateDataFromDashboardDump('Tamil Nadu')
 
 # strip title from name and check if name exists in dProp labels
 # if not check if initials and tight initials exist in dProp labels
@@ -357,8 +311,11 @@ for e in entities:
 
 ###############################################
 idx.reindex(lobjs,ignore)
+#usage idx[prop] -> 
+#idx[prop][value]
+
 ##### End Hack #####
-counts=minePropValCounts(dProps)
+#counts=idx.counts()
 
 getProps=lambda index:{i:lobjs[index][i] for i in lobjs[index] if i not in ignore}
 dashcontains=lambda phrase:[i for i in statedata if i['name'].find(phrase) >= 0]
@@ -392,10 +349,18 @@ print('ids found',str(len(counts['MyWikiDataID'])))
 #########################################################
 
 class source():
-    def __init__(self,url,file):
+    def __init__(self, url, file, dbfilter, dumpfile=False):
         self.lobjs=[]
         if file:
             self.db=loadfile(file)
+
+        elif url:
+            self.db=loadurl(url)
+        else:
+            print('Either url or filename must be specified')
+            return
+        if dbfilter:
+            self.db=[*filter(dbfilter, self.db)]
 
     def convert_to_list_of_dicts(self):
         for i in self.db:
@@ -432,6 +397,7 @@ class source():
 class index():
     self.idx;
     self.dProps;
+    self.cnt;
     #Takes a list of dicts - lobjs - and builds a dict of all prop val combos found.
     #and dProps[prop][val] = [index of objects in lobjs]
     def __init__(lobjs, ignore=[]):
@@ -441,6 +407,19 @@ class index():
         self.idx=0
         self.dProps={}
         self.createPropIndex(lobjs, ignore)
+
+    # minePropValCounts returns for each prop val combo a count of objs found
+    def counts(self):
+        dd={} #allcounts
+        for prop in self.dProps:
+            for val in self.dProps[prop]:
+                if prop in dd:
+                    dd[prop].append((val,len(self.dProps[prop][val])))
+                else:
+                    dd[prop]=[(val,len(self.dProps[prop][val]))]
+        for i in dd:
+            dd[i]=sorted(dd[i],key=lambda x:x[1])
+        return dd
 
     def createPropIndex(self, lobjs, ignore):
         for obj in lobjs:
