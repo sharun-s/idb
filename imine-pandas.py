@@ -49,7 +49,8 @@ def createDataFrame(data):
 def fd(prop='place',top=10):
 	return dash[prop].value_counts()[:top]
 
-# cumulative freq
+dash=None 
+# cumulative freq - similar to accumulating structure below
 def cf(df=dash, x='year', y='place', include_only=['Delhi','Maharashtra','Tamil Nadu'], exclude=['Delhi','Maharashtra','Tamil Nadu','West Bengal','Karnatake']):
 	# 1 using groupby area year - unnecessary
 	#g.place.value_counts().unstack()[state].unstack().cumsum().ffill().plot()
@@ -58,6 +59,8 @@ def cf(df=dash, x='year', y='place', include_only=['Delhi','Maharashtra','Tamil 
 	if exclude:
 		return df.groupby(x)[y].value_counts().unstack().cumsum()[lambda x:x.columns.difference(exclude)].ffill()
 
+# find specific title
+# eg facet(tn,'name','Gen.').sort_values('place')
 def facet(df, prop='place',val="Tamil Nadu"):
 	return df[df[prop].str.contains(val)]
 
@@ -68,19 +71,50 @@ def getTitles(df):
 	# str[1] is a bit of a hack cuz where no recognizable title exists array will contain the whole name eg [Prabhu Deva] doing a str[1] makes it Nan
 	return df['name'].str.split('('+gtitles+')').str[1]
 
-def getNamesWithUnrecognized_NO_Titles(df):
-	return df['name'].str.split('('+titles+')').str[0].value_counts()  
+#TODO if too many uniq vals in prop with low counts show top 10
+def structure(df, prop, perc=False):
+	if perc:
+		return df[prop].value_counts(normalize=True)
+	else: 
+		return df[prop].value_counts() #.plot(kind='bar')
+
+# include_only has prop values not group values
+# eg: s=strc(all_women, 'area', 'place', ['Delhi', 'Maharashtra', 'Tamil Nadu', 'Uttar Pradesh', 'West Bengal'])
+# s.plot.pie(subplots=True, legend=False, layout=(5,1), figsize=(8,4))
+# s.plot(kind='bar')
+def structureOfGroup(df, group, prop, include_only=[]):
+	if include_only:
+		return df.groupby(x)[y].value_counts().unstack()[include_only]
+	else:
+		alllabels=df[prop].value_counts().index.tolist()
+		return df.groupby(x)[y].value_counts().unstack()[alllabels]
+	
+def accumulatingStructOfGroup(df, group, prop, include_only):
+	return structureOfGroup(df, group, prop, i).cumsum().ffill()
+
+def change(df, prop):
+	return structureOfGroup(df, 'year', prop).cumsum().ffill()
+
+facet_name=lambda df,regex:facet(df, 'name', regex)
+get_women=lambda df:facet_name(df, re_women)
+get_mil=lambda df:facet_name(df, "|".join[brckt(re_mil), brckt(re_af), brckt(re_navy)])
+get_af=lambda df:facet_name(df, re_af)
+get_navy=lambda df:facet_name(df, re_navy)
+get_rel=lambda df:facet_name(df, '|'.join([brckt(re_rel_h), brckt(re_rel_m), brckt(re_rel_c)]))
+get_prof=lambda df:facet_name(df, re_prof)
+get_dr=lambda df:facet_name(df, re_med)
+get_dead=lambda df:facet_name(df, 'Late|Posthu')
+get_royal=lambda df:facet_name(df, re_royal)
+
+#def getNamesWithUnrecognized_NO_Titles(df):
+#	return df['name'].str.split('('+titles+')').str[0].value_counts()  
 
 l=loadfile('dashboard-padmaawards_gov_in_get_data', evaluate=True)
 dash=createDataFrame(l)
 
-alltitles=getTitles()
-alltitles.value_counts(normalize=True)
-alltitles.value_counts(dropna=False) # check NA found
-# find specific title
-filter('name','Gen.').sort_values('place')
-# women - 861
-women=filter('name', )
+dash['titles']=getTitles(dash)
+
+tn=facet(dash, 'place', 'Tamil Nadu')
 
 # dash.place.value_counts()[:6]
 # Delhi            810
@@ -102,3 +136,10 @@ women=filter('name', )
 # 0.5245937161430119
 # >>> 3421/4615
 # 0.7412784398699892
+# women - 861
+# w=facet(dash, 'name', re_women)
+# another way to get unrecognized titles
+# dash[dash['titles'].isna()][['name', 'titles']]
+
+# look at percentages
+# dash['titles'].value_counts(normalize=True, dropna=False) 

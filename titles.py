@@ -1,7 +1,6 @@
 # usualful when stripping title from name
 titles='Swami |Sardar |Sheik |Father |Fr. |Most Venerable |Her Royal Highness Princess |Hon. Commodore |Bishop |Nawab |Rear Admiral |Admiral |Prof\.\(Mrs\.\) |His Holiness |Congressman |Sir |Card. |Maulana |Air Com\. |Wing Cdr |Lt\.Gen\.\(Rt\.\) |Late\. \(Gen\.\) |His Excellency |Acharya |Vaidya |Vaidyan |Yogacharya |Muni |Lord |Maharaj |Kumar |Rajmata |Rajkumari |Rani |Hakim |Sant |Guru |Air Marshal |Air Mar\. |Air Vice Marshal |Air Vice Mar\. |Ar\.V\.Mar\. |Br\. |Dr\. Rm\. |Dr\.\(Kum.\) |Dr\. \(Kum.\) |Dr\.\(Ms.\) |Dr\.\(Mrs.\) |Dr\. \(Mrs\.\) |Dr\. \(Ms.\) |Dr\. \(Smt.\) |\(Dr\.\) |Dr\. |Dr\.|Isai |Kumari |Kum\. |Late Shri |Late Smt\. |Late \(Shri\) |Late \(Smt\) |Late |Major |Maj\. Gen\. |Maj\. |Lt\. |Gen\. |Nartaki |Prof\.\(Dr\) |Prof\. \(Dr.\) |Prof\. |Prof |Sadhguru |Sheik |Shri |Vice Adm\. |Adm\. |\(Miss\) |\(Smt\.\) |Smt\. |Smt |Mrs\. |Grp\.Capt\. |Hon\. Capt\. |Capt\. |Ustad |Begum |Begam |Sister |Rev\. |Rev |Pandit |Pandita |Pt\. |Justice |Mr\. |Col\. |Brig\.\(Retd\) |Brig\. |Late\. \(Gen\.\) Miss |Ms\. |Ms '
 
-#5-106 titles found
 #group them
 #figure out the order ^(?=.*Prof)(?=.*Smt)
 #optional prefix = (
@@ -20,121 +19,20 @@ titles='Swami |Sardar |Sheik |Father |Fr. |Most Venerable |Her Royal Highness Pr
 
 # title honorific salutation
 
-mil='''
-Hon. Commodore |
-Rear Admiral |
-Admiral |
-Air Com\. |
-Wing Cdr |
-Lt\.Gen\.\(Rt\.\) |
-Late\. \(Gen\.\) |
-Air Marshal |
-Air Mar\. |
-Air Vice Marshal |
-Air Vice Mar\. |
-Ar\.V\.Mar\. |
-Br\. |
-Major |
-Maj\. Gen\. |
-Maj\. |
-Lt\. |
-Gen\. |
-Vice Adm\. |
-Adm\. |
-Grp\.Capt\. |
-Hon\. Capt\. |
-Capt\. |
-Col\. |
-Brig\.\(Retd\) |
-Brig\. |
-Late\. \(Gen\.\) |
-'''
-
-groupedtitles='''
-Swami |
-Acharya |
-Vaidya |
-Vaidyan |
-Yogacharya |
-Muni |
-Sant |
-Guru |
-Sadhguru |
-Pandit |
-Pandita |
-Pt\. |
-
-His Holiness |
-Most Venerable |
-
-Justice |
-
-Sheik |
-Maulana |
-Hakim |
-Ustad |
-Begum |
-Begam |
-
-Sister |
-Rev\. |
-Rev |
-Father |
-Fr. |
-Card. |
-Bishop |
-
-Her Royal Highness Princess |
-Sardar |
-Nawab |
-Congressman |
-His Excellency |
-Lord |
-Lady |
-Sir |
-Maharaj |
-Kumar |
-Rajmata |
-Rajkumari |
-Rani |
-
-Prof\.\(Mrs\.\) |
-Dr\. Rm\. |
-Dr\.\(Kum.\) |
-Dr\. \(Kum.\) |
-Dr\.\(Ms.\) |
-Dr\.\(Mrs.\) |
-Dr\. \(Mrs\.\) |
-Dr\. \(Ms.\) |
-Dr\. \(Smt.\) |
-\(Dr\.\) |
-Dr\. |
-Dr\.|
-Prof\.\(Dr\) |
-Prof\. \(Dr.\) |
-Prof\. |
-Prof |
-
-Isai |
-Nartaki |
-
-Kumari |
-Kum\. |
-Late Shri |
-Late Smt\. |
-Late \(Shri\) |
-Late \(Smt\) |
-Late |
-Shri |
-\(Miss\) |
-\(Smt\.\) |
-Smt\. |
-Smt |
-Mrs\. |
-Mr\. |
-Miss |
-Ms\. |
-Ms '''
+re_women=r'(M(i|r)?ss?\.?)|((Smt|Kum)(ari)?\.?)' #add begum sister rani lady etc
+re_airforce=r'(Air (Vice )?Mar(\.|shal)?)|Ar\.V\.Mar\.|Wing Cdr|Air Com\.'
+re_navy=r'Hon. Commodore |(Rear )?Admiral |(Vice )?Adm\. '
+re_mil=r'Lt\.Gen\.\(Rt\.\) |Late\. \(Gen\.\) |Br\. |Lt\. |Maj(or|\.)? (Gen\.)?|Gen\. |Grp\.Capt\. |Hon\. Capt\. |Capt\. |Col\. |Brig\.(\(Retd\))? '
+re_rel_h=r'Swami |Acharya |Vaidyan? |Yogacharya |Muni |Sant |Guru |Sadhguru |Pandita? |Pt\. |His Holiness ' 
+re_rel_m='Sheik |Maulana |Hakim |Ustad |Begum |Begam '
+re_rel_c='Sister |Rev\.? |Father |Fr\. |Card. |Bishop '
+re_royal=r'Her Royal Highness Princess |Sardar |Nawab |Congressman |His Excellency |Lord |Lady |Sir |Maharaj |Kumar |Rajmata |Rajkumari |Rani |Most Venerable |Justice '
+re_dead='Late|Posthumus'
+re_dr='Dr'
+re_prof='Prof'
+re_art=r'Isai |Nartaki |Ustad '
+mr_or_miss=r'Mi?(r|s)s?\.?'
+brckt=lambda x:r'\(?{0}\)?'.format(x)
 
 
 # this adds () around each group in ops where its reqd to work out which title name has
