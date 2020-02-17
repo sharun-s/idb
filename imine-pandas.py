@@ -1,6 +1,10 @@
 import pandas as p
 from pandas.api.types import CategoricalDtype
 from titles import *
+import subprocess
+
+def run(cmdline):
+	return subprocess.run(cmdline)
 #import readline
 #readline.write_history_file('/home/s/idb/idb-panda.log')
 
@@ -95,6 +99,9 @@ def accumulatingStructOfGroup(df, group, prop, include_only):
 def change(df, prop):
 	return structureOfGroup(df, 'year', prop).cumsum().ffill()
 
+def startswith(df, pattern):
+	return df[df['uname'].str.startswith(pattern) == True][['uname', 'titles']]
+
 facet_name=lambda df,regex:facet(df, 'name', regex)
 get_women=lambda df:facet_name(df, re_women)
 get_mil=lambda df:facet_name(df, "|".join[brckt(re_mil), brckt(re_af), brckt(re_navy)])
@@ -113,8 +120,23 @@ l=loadfile('dashboard-padmaawards_gov_in_get_data', evaluate=True)
 dash=createDataFrame(l)
 
 dash['titles']=getTitles(dash)
+dash['uname']=stripTitles(dash)
+
+dash[dash['titles'].isna()][['uname', 'titles']]
+# save posthumous info in new col all names with late|posthumous set val to true
+posthu=dash[dash['uname'].str.contains(r"Late|[pP]osth", regex=True)==True]
+dash.loc[posthu.index, 'posthumous']=True
+posthu=dash[dash['titles'].str.contains(r"Late|[pP]osth", regex=True)==True]
+dash.loc[posthu.index, 'posthumous']=True
+# 42 found till 2019
+dash['uname']=dash['uname'].str.replace(r"\(?[pP]osth[\.u]?(mous)?\)?",'',regex=True)
 
 tn=facet(dash, 'place', 'Tamil Nadu')
+
+def checkuname_uncaught():
+	return facet(dash,'uname',"\(")[['uname','name']]
+def checktitles_uncaught():
+	return dash[dash.titles.isna()]['name']
 
 # dash.place.value_counts()[:6]
 # Delhi            810
