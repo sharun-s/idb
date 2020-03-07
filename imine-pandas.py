@@ -105,7 +105,7 @@ def startswith(df, pattern):
 facet_name=lambda df,regex:facet(df, 'name', regex)
 get_women=lambda df:facet_name(df, re_women)
 get_mil=lambda df:facet_name(df, "|".join[brckt(re_mil), brckt(re_af), brckt(re_navy)])
-get_af=lambda df:facet_name(df, re_af)
+get_af=lambda df:facet_name(df, re_airforce)
 get_navy=lambda df:facet_name(df, re_navy)
 get_rel=lambda df:facet_name(df, '|'.join([brckt(re_rel_h), brckt(re_rel_m), brckt(re_rel_c)]))
 get_prof=lambda df:facet_name(df, re_prof)
