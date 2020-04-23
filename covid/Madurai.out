@@ -17,3 +17,7 @@ Patient  1109  -  1122  :  Fourteen  persons  (Seven  primary and seven contacts
 Patient  1190  &  1191  :  Two  persons  (both  contacts)  from Madurai, reported positive. 
 Patient  1254  -  1256  :  Three  persons  (all  contacts)  from Madurai, reported positive. 
 Patient  1443  &  1444  :  Two  persons  (both  contacts)  from Madurai, reported positive. 
+Patient 1616,68,Male,Madurai,Primary*
+Patient 1617,25,Male,Madurai,Contact
+Patient 1618,49,Male,Madurai,Primary*
+Patient 1619,37,Male,Madurai,Contact
