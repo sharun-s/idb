@@ -1,6 +1,6 @@
-Patient 255 : One male person from Thiruvallur, who have travel history to Delhi, reported positive. 
-Patient 435 - 444 : Ten male persons from Thiruvallur, who have travel history to Delhi, reported positive. 
-Patient 496 : One male person from Thiruvallur, who have travel history to Delhi, reported positive 
-Patient  1231  -  1237  :  Seven  persons  (Six  primary  and  one contact) from Thiruvallur, reported positive. 
-Patient 1625,22,Male,Thiruvallur,Contact
-Patient 1626,40,Female,Thiruvallur,Contact
+402,255,One male person from Thiruvallur, who have travel history to Delhi, reported positive. 
+404,435-444,Ten male persons from Thiruvallur, who have travel history to Delhi, reported positive. 
+405,496,One male person from Thiruvallur, who have travel history to Delhi, reported positive 
+415,1231-1237,Seven  persons  (Six  primary  and  one contact) from Thiruvallur, reported positive. 
+422,1625,22,Male,Thiruvallur,Contact
+422,1626,40,Female,Thiruvallur,Contact

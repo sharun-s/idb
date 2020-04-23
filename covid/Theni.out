@@ -1,7 +1,7 @@
-Patient 377 : One person from Theni, who have travel history to Delhi, reported positive. 
-Patient  434 : One male person from Theni, who have travel history to Delhi reported positive. 
-Patient  571  :  One  male  person  from  Theni,  who  have travel history to Delhi, reported positive. 
-Patient  705  -  720  :  Sixteen  persons  (Twelve  females  and Four males) from Theni, reported positive. 
-Patient  798  :  One  female  person  from  Theni,  reported positive. 
-Patient  1230  :  One  person  (Primary)  from  Theni,  reported positive. 
-Patient  1303  &  1304  :  Two  persons  (both  contacts)  from Theni, reported positive. 
+403,377,One person from Theni, who have travel history to Delhi, reported positive. 
+404,434,One male person from Theni, who have travel history to Delhi reported positive. 
+405,571,One  male  person  from  Theni,  who  have travel history to Delhi, reported positive.
+408,705-720,Sixteen  persons  (Twelve  females  and Four males) from Theni, reported positive. 
+409,798,One  female  person  from  Theni,  reported positive. 
+415,1230,One  person  (Primary)  from  Theni,  reported positive. 
+417,1303-1304,Two  persons  (both  contacts)  from Theni, reported positive. 

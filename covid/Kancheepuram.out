@@ -1,9 +1,10 @@
-Patient  1:  A  45  year  male  patient  from  Kancheepuram,  has  tested positive for COVID-19 on 07.03.2020. He had travelled from oman to Chennai airport on 28.02.2020.(No. of contacts – Primary 4). 
-Patient 1: A 45-year male patient from Kancheepuram, has tested positive for COVID-19  on  07.03.2020.  He  had  travelled  from  Oman  to  Chennai  airport  on 28.02.2020.(No. of contacts – 40). 
-Patient 1: A 45-year male patient from Kancheepuram, has tested positive for  COVID-19  on  07.03.2020.  He  had  travelled  from  Oman  to  Chennai airport on 28.02.2020.(No. of contacts – 40). 
-Patient 345 : One person from Kancheepuram, who have travel history to Delhi, reported positive. 
-Patient  533  :  One  male  person  from  Kancheepuram,  who have travel history to Delhi, reported positive. 
-Patient 612 & 613 : Two male persons from Kancheepuram, who  are  contacts  of  COVID-19  Positive  patient,  reported positive. 
-Patient 1442 : One person (contact) from Kancheepuram, reported positive. 
-Patient 1580 : One person (contact) from Kancheepuram, reported positive. 
-Patient 1615,31,Male,Kancheepuram,Contact
+323,1,A  45  year  male  patient  from  Kancheepuram,  has  tested positive for COVID-19 on 07.03.2020. He had travelled from oman to Chennai airport on 28.02.2020.(No. of contacts – Primary 4). 
+327,1,A 45-year male patient from Kancheepuram, has tested positive for COVID-19  on  07.03.2020.  He  had  travelled  from  Oman  to  Chennai  airport  on 28.02.2020.(No. of contacts – 40). 
+329,1,A 45-year male patient from Kancheepuram, has tested positive for  COVID-19  on  07.03.2020.  He  had  travelled  from  Oman  to  Chennai airport on 28.02.2020.(No. of contacts – 40). 
+403,345,One person from Kancheepuram, who have travel history to Delhi, reported positive. 
+405,533,One  male  person  from  Kancheepuram,  who have travel history to Delhi, reported positive. 
+406,612-613,Two male persons from Kancheepuram, who  are  contacts  of  COVID-19  Positive  patient,  reported positive. 
+419,1442,One person (contact) from Kancheepuram, reported positive. 
+421,1580,One person (contact) from Kancheepuram, reported positive. 
+422,1580,One person (contact) from Kancheepuram, reported positive. 
+422,1615,31,Male,Kancheepuram,Contact
