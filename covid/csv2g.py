@@ -9,7 +9,7 @@ if len(df) == 0:
 df['d'] =  p.to_datetime(df['d'], format='%m%d')
 df['d'] = df['d'].apply(lambda x: x.replace(year=2020))
 
-filled = p.date_range('03-23-2020', '04-26-2020').to_frame()
+filled = p.date_range('03-23-2020', '04-27-2020').to_frame()
 filled.columns=['d']
 merged = p.merge(filled, df, on='d', how='left')
 
