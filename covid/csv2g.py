@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 df=p.read_csv(sys.argv[1])
 
 # fill in missing dates #####
-filled=p.Series([i for i in range(323,332)]+[i for i in range(401,424)]).to_frame()
+filled=p.Series([i for i in range(323,332)]+[i for i in range(401,426)]).to_frame()
 filled.columns=['d']
 merged = p.merge(filled, df, on='d', how='left')
 #############################
