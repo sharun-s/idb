@@ -7,6 +7,8 @@ for i in range(1,len(sys.argv)):
 	tot=0
 	uniq={}
 	records=[]
+	if len(lines)==0:
+		continue
 	print(','.join(["d", "caseno", "tot", "ctot"]))
 	for j in range(0,len(lines)):
 		n=lines[j].split(',')

@@ -3,11 +3,20 @@ import sys
 import pandas as p
 import matplotlib.pyplot as plt
 df=p.read_csv(sys.argv[1])
+if len(df) == 0:
+	sys.exit()
 
-# fill in missing dates #####
-filled=p.Series([i for i in range(323,332)]+[i for i in range(401,426)]).to_frame()
+df['d'] =  p.to_datetime(df['d'], format='%m%d')
+df['d'] = df['d'].apply(lambda x: x.replace(year=2020))
+
+filled = p.date_range('03-23-2020', '04-26-2020').to_frame()
 filled.columns=['d']
 merged = p.merge(filled, df, on='d', how='left')
+
+# fill in missing dates #####
+#filled=p.Series([i for i in range(323,332)]+[i for i in range(401,426)]).to_frame()
+#filled.columns=['d']
+#merged = p.merge(filled, df, on='d', how='left')
 #############################
 
 fig = plt.figure(facecolor="#001f3f")
@@ -19,7 +28,7 @@ ax1.get_xaxis().set_visible(False)
 ax1.set_facecolor("#002f4f")
 ax1.tick_params(axis='y', colors='#ffc107')
 #ax1.yaxis.label.set_color('#ffc107')
-ax1.spines['bottom'].set_color('#ccc107')
+ax1.spines['bottom'].set_color('#001f3f')#'#ccc107')
 ax1.spines['top'].set_color('#001f3f') 
 ax1.spines['right'].set_color('#001f3f')
 ax1.spines['left'].set_color('#001f3f')
@@ -28,7 +37,7 @@ ax2 = fig.add_subplot(212)
 ax2.set_title('Cumulative', color="#00ddef")
 ax2.set_facecolor("#002f4f")
 ax2.get_xaxis().set_visible(False)
-ax2.spines['bottom'].set_color('#ccc107')
+ax2.spines['bottom'].set_color('#001f3f')#'ccc107')
 ax2.spines['top'].set_color('#001f3f') 
 ax2.spines['right'].set_color('#001f3f')
 ax2.spines['left'].set_color('#001f3f')
@@ -36,8 +45,8 @@ ax2.spines['left'].set_color('#001f3f')
 ax2.tick_params(axis='y', colors='#ffc107')
 #ax2.yaxis.label.set_color('#ffc107')
 ax2.xaxis.label.set_color('#004f3f')
-
+#ax2.set_yscale("log")
 merged.groupby(['d']).tot.sum().plot('bar', ax=ax1, color="#ffc107")
-merged.groupby(['d']).tot.sum().cumsum().plot('bar', ax=ax2, color="#ffc107")
+merged.groupby(['d']).tot.sum().cumsum().plot('line', ax=ax2, color="#ffc107")
 
 fig.savefig(sys.argv[1].replace('csv','png'),format='png',facecolor=fig.get_facecolor())
