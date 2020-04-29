@@ -1,3 +1,3 @@
-cat ~/Downloads/covid/gcc/gcc-zones.csv | cut -d',' -f2 | parallel 'grep "{}" ~/Downloads/covid/gcc.csv > "{}".csv'
-cat ~/Downloads/covid/gcc/gcc-zones.csv | cut -d',' -f2 | parallel 'python3 csv2g.py "{}".csv'
+cat gcc-zones.csv | cut -d',' -f2 | parallel 'grep "{}" gcc.csv > "{}".csv'
+cat gcc-zones.csv | cut -d',' -f2 | parallel 'python3 csv2g.py "{}".csv'
 convert -delay 300 Thiruvottiyur.png Manali.png Madhavaram.png Tondiarpet.png Royapuram.png 'Thiru-Vi-Ka\ Nagar.png' Ambattur.png 'Anna\ Nagar.png' Teynampet.png Kodambakkam.png Valasaravakkam.png Alandur.png Adyar.png Perungudi.png Sholinganallur.png gcc.gif
