@@ -9,10 +9,10 @@ if len(df) == 0:
 
 fig = plt.figure(facecolor="#001f3f")
 
-l1=gp.read_file('../tn_boundary.json')
+#l1=gp.read_file('../tn_boundary.json')
 l2=gp.read_file('../tn_dist.json')
 ax3 = fig.add_subplot(339, frameon=False)
-l1.plot(ax=ax3, facecolor='#0099dd',edgecolor='blue',label='TN',alpha=.78, linewidth=0)
+l2.plot(ax=ax3, facecolor='#0099dd',edgecolor='blue',label='TN',alpha=.78, linewidth=0)
 ax3.get_xaxis().set_visible(False)
 ax3.get_yaxis().set_visible(False)
 ax3.set_facecolor("#002f4f")
@@ -26,7 +26,7 @@ l2[l2.Name==sys.argv[1].replace('.csv','')].plot(ax=ax3,facecolor='#ffcc55',edge
 df['d'] =  p.to_datetime(df['d'], format='%m%d')
 df['d'] = df['d'].apply(lambda x: x.replace(year=2020))
 
-filled = p.date_range('03-23-2020', '04-29-2020').to_frame()
+filled = p.date_range('03-23-2020', '04-30-2020').to_frame()
 filled.columns=['d']
 merged = p.merge(filled, df, on='d', how='left')
 
