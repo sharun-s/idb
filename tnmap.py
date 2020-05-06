@@ -15,5 +15,5 @@ ax.spines['left'].set_color('white')
 
 
 l2[l2.Name=='Tiruppur'].plot(ax=ax,facecolor='orange',edgecolor='blue',label='TN',alpha=.73, linewidth=1) 
-
+p.ison()
 p.show()
