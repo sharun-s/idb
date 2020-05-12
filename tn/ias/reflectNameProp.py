@@ -14,9 +14,10 @@ class RequestHandler(BaseHTTPRequestHandler):
         print("Request path:", request_path)
         global colindex,df,valindex
         #print(df.columns)
-        results=df[df[propindex].str.contains(request_path)]
+        #print(df[propindex])
+        results=df[df[propindex].str.contains(request_path,na=False)]
         if len(results)>1:
-            self.wfile.write(str(results).encode("utf-8"))
+            self.wfile.write(str(results[valindex]).encode("utf-8"))
         elif len(results)==0:
             self.wfile.write('NOT FOUND. Check Spelling'.encode("utf-8"))
         else:    
@@ -26,7 +27,7 @@ class RequestHandler(BaseHTTPRequestHandler):
 def main():
     global df,csv,propindex
     df=p.read_csv(csv, header=None)
-
+    #print(df.head())
     port = 8084
     print('Listening on 0.0.0.0:%s' % port)
     server = HTTPServer(('127.0.0.1', port), RequestHandler)
