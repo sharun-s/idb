@@ -1,0 +1,99 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>iMine Vibes</TITLE>
+<META content="text/html; charset=utf-8" http-equiv=Content-Type>
+<LINK rel=stylesheet type=text/css href="stylesheets/news.css">
+<LINK rel="shortcut icon" href="stylesheets/favicon.ico">
+<SCRIPT>
+function byId(id) {
+  return document.getElementById(id);
+}
+
+function vote(node) {
+  var v = node.id.split(/_/);   // {'up', '123'}
+  var item = v[1];
+
+  // adjust score
+  var score = byId('score_' + item);
+  var newscore = parseInt(score.innerHTML) + (v[0] == 'up' ? 1 : -1);
+  score.innerHTML = newscore + (newscore == 1 ? ' point' : ' points');
+
+  // hide arrows
+  byId('up_'   + item).style.visibility = 'hidden';
+  byId('down_' + item).style.visibility = 'hidden';
+
+  // ping server
+  var ping = new Image();
+  ping.src = node.href;
+
+  return false; // cancel browser nav
+} </SCRIPT>
+<BODY>
+<CENTER>
+<TABLE border=0 cellSpacing=0 cellPadding=0 width="85%" >
+  <TBODY>
+  <TR>
+    <TD bgColor=#66ccaa>
+      <TABLE
+      style="PADDING-BOTTOM: 2px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; PADDING-TOP: 2px"
+      border=0 cellSpacing=0 cellPadding=0 width="100%">
+        <TBODY>
+        <TR>
+          <TD style="WIDTH: 18px; PADDING-RIGHT: 4px">
+          <A href="http://imine.in/apps">
+            <IMG style="background:#fff;BORDER-BOTTOM: #ffffff 1px solid; BORDER-LEFT: #ffffff 1px solid; BORDER-TOP: #ffffff 1px solid; BORDER-RIGHT: #ffffff 1px solid"
+            src="stylesheets/iminerbot.png" width=18 height=18></IMG></A></TD>
+          <TD style="LINE-HEIGHT: 12pt; HEIGHT: 10px">
+          <SPAN class=pagetop><B><A href="">Chennai </A></B>
+          <IMG src="Hacker%20News_files/s.gif" width=10 height=1>
+            <A href="">{{day}} September 2010</A> |
+            <A href="{{yday}}">Yesterday</A> | <A
+            href="">Blocked</A></SPAN></TD>
+          <TD style="TEXT-ALIGN: right; PADDING-RIGHT: 4px">
+          <SPAN class=pagetop><A href="">login</A></SPAN></TD></TR></TBODY></TABLE></TD></TR>
+  <TR style="HEIGHT: 10px"></TR>
+  <TR>
+    <TD>
+      <TABLE border=0 cellSpacing=0 cellPadding=0>
+        <TBODY>
+        {% for rec in data %}
+        <TR>
+          <TD class=title vAlign=top align=right>{{forloop.counter}}.</TD>
+          <TD>
+            <CENTER>
+            <!--<A id=up_1710923 href="http://imine.in/vote?for=1710923&amp;dir=up&amp;whence=%6e%65%77%73"><IMG
+            border=0 hspace=2 vspace=3
+            src="stylesheets/grayarrow.gif"></A>-->
+            <SPAN id=down_1710923></SPAN></CENTER></TD>
+          <TD class=title>
+           <A href="{{ rec.url.0 }}">{{ rec.msg|slice:":100" }}...</A><SPAN class=comhead> {{ rec.site.0 }} </SPAN></TD></TR>
+        <TR>
+          <TD colSpan=2></TD>
+          <TD class=subtext> by <A href="http://twitter.com/{{rec.nick}}">{{ rec.name }}</A> {{ rec.pub }} |
+            <A href="">{{ rec.bitly }} links</A></TD></TR>
+        <TR style="HEIGHT: 5px"></TR>
+		{% endfor %}
+        <TR>
+          <TD colSpan=2></TD>
+          <TD class=title><A
+            href="{{yday}}"
+            rel=nofollow>More</A></TD>
+        </TR>
+     </TBODY></TABLE>
+   </TD>
+  </TR>
+  <TR>
+    <TD><IMG src="stylesheets/s.gif" width=0 height=10>
+      <TABLE cellSpacing=0 cellPadding=1 width="100%">
+        <TBODY>
+        <TR>
+          <TD bgColor=#66ccaa></TD></TR></TBODY></TABLE><BR>
+      <CENTER><SPAN class=yclinks>
+      	<a href="about">About</a> |
+        <a href="apps">Apps</a> |
+        <a href="http://profiles.google.com/sharunsanthosh">Blog</a> |
+        <a href="resources">Links</a> |
+        <b><a href="mailto:sharun@imine.in">Feedback is always welcome</a></b> </SPAN><BR><BR>
+      <IMG src="stylesheets/s.gif" width=25 height=1>
+      <A href="http://code.google.com/appengine">
+      <IMG style="PADDING-BOTTOM: 8px" border=0 alt="Powered by AppEngine" src="stylesheets/ae120x30.gif"></A>
+      <BR></CENTER></TD></TR></TBODY></TABLE></CENTER></BODY></HTML>

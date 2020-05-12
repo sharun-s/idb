@@ -1,0 +1,139 @@
+<html>
+    <head>
+        <title>iMine</title>
+        <link type="text/css" href="/stylesheets/mainpg.css" rel="stylesheet" />
+    </head>
+    <body>
+        <div id="header">
+            <H1 style="font-weight:lighter;">Welcome to the iMine Project!</H1>
+            <ul>
+                <li><a href="/">Intro</a></li>
+				<li><a href="apps">Explore</a></li>
+				<li><a href="resources">Resources</a></li>
+				<li><a class="active">News</a></li>
+                <li><a href="about">About</a></li>
+            </ul>
+        </div>
+        <div class="colmask">
+        <!--<div class="colmid">-->
+        <div class="col1">
+
+        <ul style="list-style-type:none;width:100%;float:left;">
+        	<li style="width:260px;float:left;display:inline;">
+		<script src="http://widgets.twimg.com/j/2/widget.js"></script>
+		<script>
+		new TWTR.Widget({
+		  version: 2,
+		  type: 'search',
+		  search: 'chennai OR Chennai',
+		  interval: 6000,
+		  rpp: 20,
+		  title: 'Hyper local',
+		  subject: 'Chennai',
+		  width: 250,
+		  height: 300,
+		  theme: {
+			shell: {
+			  background: '#d5eb9e',
+			  color: '#000000'
+			},
+			tweets: {
+			  background: '#ffffff',
+			  color: '#444444',
+			  links: '#1985b5'
+			}
+		  },
+		  features: {
+			scrollbar: true,
+			loop: false,
+			live: true,
+			hashtags: true,
+			timestamp: true,
+			avatars: true,
+			behavior: 'all'
+		  }
+		}).render().start();
+		</script>
+		</li>
+    <!--</div>
+    <div class="col2">-->
+    <li style="width:260px;float:left;display:inline;">
+    <script src="http://widgets.twimg.com/j/2/widget.js"></script>
+	<script>
+	new TWTR.Widget({
+	  version: 2,
+	  type: 'search',
+	  search: 'from:slashdot from:techmeme from:toitopstories',
+	  interval: 6000,
+	  rpp: 20,
+	  title: 'Disintegrating',
+	  subject: 'News',
+	  width: 250,
+	  height: 300,
+	  theme: {
+	    shell: {
+	      background: '#e4f7f3',
+	      color: '#050505'
+	    },
+	    tweets: {
+	      background: '#ffffff',
+	      color: '#444444',
+	      links: '#1985b5'
+	    }
+	  },
+	  features: {
+	    scrollbar: true,
+	    loop: false,
+	    live: true,
+	    hashtags: true,
+	    timestamp: true,
+	    avatars: true,
+	    behavior: 'all'
+	  }
+	}).render().start();
+	</script>
+	</li>
+    <!--</div>
+
+    <div class="col3">-->
+	<li style="width:275px;float:left;display:inline;">
+		<script src="http://widgets.twimg.com/j/2/widget.js"></script>
+		<script>
+		new TWTR.Widget({
+		  version: 2,
+		  type: 'list',
+		  rpp: 20,
+		  interval: 10000,
+		  title: 'Scoble\'s',
+		  subject: 'Most Influential in Tech list',
+		  width: 250,
+		  height: 300,
+		  theme: {
+		    shell: {
+		      background: '#e9f5ee',
+		      color: '#050505'
+		    },
+		    tweets: {
+		      background: '#ffffff',
+		      color: '#444444',
+		      links: '#b740c2'
+		    }
+		  },
+		  features: {
+		    scrollbar: true,
+		    loop: false,
+		    live: true,
+		    hashtags: true,
+		    timestamp: true,
+		    avatars: true,
+		    behavior: 'all'
+		  }
+		}).render().setList('scobleizer', 'most-influential-in-tech').start();
+</script>
+	</li>
+	</ul>
+	</div>
+    </div>
+
+</body>
+</html>

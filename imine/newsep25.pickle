@@ -1,0 +1,421 @@
+(lp0
+(dp1
+S'name'
+p2
+S'Arvind samrat'
+p3
+sS'long-url'
+p4
+S'http://m.cricinfo.com/s/2497/NewsV3?storyNo=478597&allinOne=true'
+p5
+sS'url'
+p6
+(lp7
+S'http://bit.ly/dfPZGC'
+p8
+asS'bitly'
+p9
+I13
+sS'pub'
+p10
+S'09/25/10 00:22:13'
+p11
+sS'nick'
+p12
+S'samratarvind'
+p13
+sS'has_r'
+p14
+(lp15
+I16
+aI22
+aI29
+aI34
+aI42
+aI43
+aI44
+aI48
+aI65
+aI67
+aI70
+aI74
+aI81
+aI85
+aI94
+aI99
+aI100
+aI101
+aI140
+aI159
+aI166
+aI210
+aI215
+aI216
+aI219
+aI251
+aI274
+aI304
+aI308
+aI337
+aI352
+aI429
+aI457
+aI463
+aI480
+aI534
+aI564
+aI639
+aI642
+aI688
+aI753
+aI761
+aI787
+aI930
+asS'msg'
+p16
+S'Ruthless Raina takes Chennai to final http://bit.ly/dfPZGC'
+p17
+sS'phrase'
+p18
+(lp19
+S'Ruthless Raina'
+p20
+aS'Chennai'
+p21
+asa(dp22
+g2
+S'Naveenkumar R'
+p23
+sg4
+S'http://www.thehindu.com/sport/cricket/article793552.ece'
+p24
+sg6
+(lp25
+S'http://bit.ly/96QfiF'
+p26
+asg9
+I31
+sg10
+S'09/25/10 00:58:55'
+p27
+sg12
+S'naveennitt'
+p28
+sg14
+(lp29
+sg16
+S'Chennai Super Kings storms into final http://bit.ly/96QfiF'
+p30
+sg18
+(lp31
+S'Chennai Super Kings'
+p32
+asa(dp33
+g2
+S'Tenzin Gelek'
+p34
+sg4
+S'http://sify.com/news/globe-trotting-tibetan-runs-into-customs-wall-in-chennai-news-national-kjyp4cbfjcg.html'
+p35
+sg6
+(lp36
+S'http://bit.ly/cTbsWT'
+p37
+asg9
+I7
+sg10
+S'09/25/10 01:35:12'
+p38
+sg12
+S'TibetDiaries'
+p39
+sg14
+(lp40
+I158
+asg16
+S'Globe-trotting Tibetan on a Free Tibet world tour runs into customs wall in Chennai http://bit.ly/cTbsWT'
+p41
+sg18
+(lp42
+S'Globe-trotting Tibetan'
+p43
+aS'Free Tibet world'
+p44
+aS'runs'
+p45
+aS'customs'
+p46
+aS'Chennai'
+p47
+asa(dp48
+g2
+S'kanagaraj.N.P'
+p49
+sS'forwards'
+p50
+(lp51
+S'RT'
+p52
+asg6
+(lp53
+S'http://bit.ly/b2xNIF'
+p54
+asg9
+I36
+sg4
+S'http://www.youtube.com/watch?v=clUR4AeTiHY'
+p55
+sg10
+S'09/25/10 05:28:18'
+p56
+sg12
+S'kanaknpk'
+p57
+sg14
+(lp58
+sS'tag'
+p59
+(lp60
+S'# CSK'
+p61
+aS'# clt20'
+p62
+asS'dialog'
+p63
+(lp64
+S'@balajil'
+p65
+asg16
+S'RT @balajil: Chennai #CSK ku whistle podu chennai! http://bit.ly/b2xNIF  #clt20'
+p66
+sg18
+(lp67
+S'Chennai'
+p68
+aS'ku whistle podu chennai'
+p69
+asa(dp70
+g2
+S'Chennai Super Kings'
+p71
+sg4
+S'http://www.chennaisuperkings.com/news/NewsContent.aspx?NewsID=319'
+p72
+sg6
+(lp73
+S'http://bit.ly/cVRrxD'
+p74
+asg9
+I68
+sg10
+S'09/25/10 11:20:48'
+p75
+sg12
+S'ChennaiIPL'
+p76
+sg14
+(lp77
+I680
+aI840
+asg16
+S"For the Chennai Super Kings, it's great to be in the Champions League semifinal, coming on the back of our win...\nhttp://bit.ly/cVRrxD"
+p78
+sg18
+(lp79
+S'Chennai Super Kings'
+p80
+aS'Champions League'
+p81
+aS'back'
+p82
+aS'win'
+p83
+asa(dp84
+g2
+S'Venkatesh K'
+p85
+sg4
+S'http://yourstory.in/news/4589-chennais-superstars'
+p86
+sg6
+(lp87
+S'http://bit.ly/d7zXWT'
+p88
+asg9
+I38
+sg10
+S'09/25/10 11:37:02'
+p89
+sg12
+S'krishvenkatesh'
+p90
+sg14
+(lp91
+I764
+asg63
+(lp92
+S'@yourstorydotin'
+p93
+aS'@kiruba'
+p94
+aS'@vijayanands'
+p95
+asg16
+S"My View from Sidelines column in @yourstorydotin on @kiruba and @vijayanands -- Chennai's superstars  http://bit.ly/d7zXWT"
+p96
+sg18
+(lp97
+S'View'
+p98
+aS'Sidelines column'
+p99
+aS'Chennai'
+p100
+aS'superstars'
+p101
+asa(dp102
+g2
+S'Swine Flu'
+p103
+sg4
+S'http://www.bioportfolio.com/news/article/157913/Swine-Flu-Claims-Two-More-Lives-In-Raj-30-New-Cases.html?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=swineflu'
+p104
+sg6
+(lp105
+S'http://bit.ly/d1HzP9'
+p106
+asg9
+I2
+sg10
+S'09/25/10 15:05:45'
+p107
+sg12
+S'SwineFluFlash'
+p108
+sg14
+(lp109
+sg16
+S'Swine flu claims two more lives in Raj; 30 new cases: Chennai Online  Jaipur, Sep 25 Two more persons today died d... http://bit.ly/d1HzP9'
+p110
+sg18
+(lp111
+S'Swine'
+p112
+aS'claims'
+p113
+aS'more lives'
+p114
+aS'Raj'
+p115
+aS'new cases'
+p116
+aS'Chennai Online Jaipur'
+p117
+aS'Sep'
+p118
+aS'more persons today'
+p119
+asa(dp120
+g2
+S'Priyanka Joseph'
+p121
+sg50
+(lp122
+S'RT'
+p123
+asg6
+(lp124
+S'http://bit.ly/ciSw51'
+p125
+asg9
+I34
+sg4
+S'http://www.petitiononline.com/Suja2010/petition.html'
+p126
+sg10
+S'09/25/10 16:27:19'
+p127
+sg12
+S'Pjoseph85'
+p128
+sg14
+(lp129
+sg63
+(lp130
+S'@ranyamanivannan'
+p131
+aS'@blaftness'
+p132
+asg16
+S'RT @ranyamanivannan: Something needs to be done about the way Chennai police treat women. This is NOT an isolated incident. Via @blaftness http://bit.ly/ciSw51'
+p133
+sg18
+(lp134
+S'Something'
+p135
+aS'way Chennai police treat women'
+p136
+aS'NOT'
+p137
+aS'isolated incident'
+p138
+aS'Via'
+p139
+asa(dp140
+g2
+S'Priyanka Joseph'
+p141
+sg50
+(lp142
+S'RT'
+p143
+asg6
+(lp144
+S'http://bit.ly/9MVHjg'
+p145
+asg9
+I53
+sg4
+S'http://sharanyamanivannan.wordpress.com/2010/09/23/first-language-two-videos/'
+p146
+sg10
+S'09/25/10 16:28:05'
+p147
+sg12
+S'Pjoseph85'
+p148
+sg14
+(lp149
+I929
+asg59
+(lp150
+S'# video'
+p151
+aS'# reading'
+p152
+aS'# public'
+p153
+aS'# poetry'
+p154
+asg63
+(lp155
+S'@ranyamanivannan'
+p156
+asg16
+S'RT @ranyamanivannan: Cyclerickshaws, autorickshaws, flowersellers, the Chennai streets and yours truly. http://bit.ly/9MVHjg #video #reading #public art #poetry'
+p157
+sg18
+(lp158
+S'Cyclerickshaws'
+p159
+aS'autorickshaws'
+p160
+aS'flowersellers'
+p161
+aS'Chennai streets'
+p162
+aS'yours'
+p163
+aS'art'
+p164
+asa.

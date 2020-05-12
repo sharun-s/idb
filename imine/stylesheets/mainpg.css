@@ -1,0 +1,154 @@
+body,div,p,h2
+{
+        font-family: calibri,tahoma,arial,sans-serif;
+        color: #333;
+        line-height: 20.3px;
+}
+p
+{
+	font-size: 16px;
+}
+BODY {
+	BORDER-BOTTOM: 0px; 
+	MIN-WIDTH: 600px; 
+	BORDER-LEFT: 0px; 
+	PADDING-BOTTOM: 0px; 
+	MARGIN: 0px; PADDING-LEFT: 0px; 
+	WIDTH: 100%; PADDING-RIGHT: 0px; 
+	BACKGROUND: #fff; 
+	BORDER-TOP: 0px; 
+	BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+A {
+	COLOR: #369
+}
+A:hover {
+	BACKGROUND: #369; COLOR: #fff; TEXT-DECORATION: none
+}
+H1 {
+	PADDING-BOTTOM: 0px; MARGIN: 0.8em 0px 0.2em; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+H2 {
+	PADDING-BOTTOM: 0px; MARGIN: 0.8em 0px 0.2em; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+H3 {
+	PADDING-BOTTOM: 0px; MARGIN: 0.8em 0px 0.2em; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+P {
+	PADDING-BOTTOM: 0px; MARGIN: 0.4em 0px 0.8em; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+IMG {
+	MARGIN: 10px 0px 5px
+}
+#header {
+	WIDTH: 100%; FLOAT: left; CLEAR: both
+}
+#header {
+	BORDER-BOTTOM: #000 1px solid
+}
+#header P {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 15px; PADDING-RIGHT: 15px; PADDING-TOP: 0.4em
+}
+#header H1 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 15px; PADDING-RIGHT: 15px; PADDING-TOP: 0.4em
+}
+#header UL {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 10px 0px 0px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; FLOAT: left; CLEAR: left; LIST-STYLE-IMAGE: none; PADDING-TOP: 0px
+}
+#header UL LI {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: inline; LIST-STYLE-IMAGE: none; PADDING-TOP: 0px
+}
+#header UL LI A {
+	POSITION: relative; TEXT-ALIGN: center; PADDING-BOTTOM: 3px; LINE-HEIGHT: 1.3em; MARGIN: 0px 0px 0px 1px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; DISPLAY: block; BACKGROUND: #eee; FLOAT: left; COLOR: #000; TEXT-DECORATION: none; PADDING-TOP: 3px; LEFT: 15px
+}
+#header UL LI A:hover {
+	BACKGROUND: #369; COLOR: #fff
+}
+#header UL LI A.active {
+	BACKGROUND: #000; COLOR: #fff; FONT-WEIGHT: bold
+}
+#header UL LI A.active:hover {
+	BACKGROUND: #000; COLOR: #fff; FONT-WEIGHT: bold
+}
+#header UL LI A SPAN {
+	DISPLAY: block
+}
+#layoutdims {
+	TEXT-ALIGN: right; PADDING-BOTTOM: 6px !important; MARGIN: 0px; PADDING-LEFT: 15px !important; PADDING-RIGHT: 15px !important; BACKGROUND: #eee; CLEAR: both; BORDER-TOP: #000 4px solid; PADDING-TOP: 6px !important
+}
+.colmask {
+	POSITION: relative; WIDTH: 100%; FLOAT: left; CLEAR: both; OVERFLOW: hidden; 
+}
+.colright {
+	POSITION: relative; WIDTH: 100%; FLOAT: left
+}
+.colmid {
+	POSITION: relative; WIDTH: 100%; FLOAT: left
+}
+.colleft {
+	POSITION: relative; WIDTH: 100%; FLOAT: left
+}
+.col1 {
+	POSITION: relative; PADDING-BOTTOM: 1em; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FLOAT: left; OVERFLOW: hidden; PADDING-TOP: 0px
+}
+.col2 {
+	POSITION: relative; PADDING-BOTTOM: 1em; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FLOAT: left; OVERFLOW: hidden; PADDING-TOP: 0px
+}
+.col3 {
+	POSITION: relative; PADDING-BOTTOM: 1em; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FLOAT: left; OVERFLOW: hidden; PADDING-TOP: 0px
+}
+/* Full page settings */
+	.fullpage {
+		background:#fff;		/* page background colour */
+	}
+	.fullpage .col1 {
+		width:96%;			/* page width minus left and right padding */
+		left:2%;			/* page left padding */
+	}
+/* 2 Column (double page) settings */
+	.doublepage {
+		background:#eee;		/* right column background colour */
+	}
+	.doublepage .colleft {
+		right:50%;			/* right column width */
+		background:#fff;		/* left column background colour */
+	}
+	.doublepage .col1 {
+		width:46%;			/* left column content width (column width minus left and right padding) */
+		left:52%;			/* right column width plus left column left padding */
+	}
+	.doublepage .col2 {
+		width:46%;			/* right column content width (column width minus left and right padding) */
+		left:56%;			/* (right column width) plus (left column left and right padding) plus (right column left padding) */
+	}
+
+.leftmenu {
+	BACKGROUND: #fff
+}
+.leftmenu .colleft {
+	BACKGROUND: #f4f4f4; RIGHT: 75%
+}
+.leftmenu .col1 {
+	WIDTH: 71%; LEFT: 102%
+}
+.leftmenu .col2 {
+	WIDTH: 21%; LEFT: 6%
+}
+.rightmenu {
+	BACKGROUND: #eee
+}
+.rightmenu .colleft {
+	BACKGROUND: #fff; RIGHT: 25%
+}
+.rightmenu .col1 {
+	WIDTH: 71%; LEFT: 27%
+}
+.rightmenu .col2 {
+	WIDTH: 21%; LEFT: 31%
+}
+#footer {
+	WIDTH: 100%; FLOAT: left; CLEAR: both; BORDER-TOP: #000 1px solid
+}
+#footer P {
+	PADDING-BOTTOM: 10px; MARGIN: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; PADDING-TOP: 10px
+}

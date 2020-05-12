@@ -1,0 +1,171 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Petro Product Prices in India</title>
+<script language="javascript" type="text/javascript" src="/stylesheets/jquery-1.3.2.js" >
+</script>
+<style>
+.date { color: #279;}
+.value { color: red; }
+</style>
+
+<link rel="stylesheet" type="text/css" href="/stylesheets/alerts.css" />
+
+
+<link rel="shortcut icon" href="/stylesheets/favicon.ico" />
+    <style>
+#box {
+  /*width: 80%;*/
+
+  min-width: 300px;
+  max-width: 315px;
+
+  background-color: white;
+  color: black;
+  font-size: 10pt;
+  line-height: 18px;
+  -webkit-box-shadow: 2px 5px 12px #555;
+  -moz-box-shadow:2px 5px 12px #555;
+  border-radius: 5px;
+  margin: auto;
+  padding: 20px;
+  margin-bottom:7px;
+  margin-right:7px;
+  //float:left;
+}
+#sidebar {margin-top:6px;float:right;text-align:right;width:200px;}
+    </style>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27205246-1']);
+  _gaq.push(['_setDomainName', 'imine.in']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body style="font-family:Helvetica, Arial, sans-serif;">
+
+<div style="float:right;">Source: <a href="http://ppac.org.in">PPAC</a></div>
+<h3>Price Break-up of Petro Products</h3>
+<form method="GET" action="/oil" style="width:730px;margin:0 auto;">
+<div id='box' class='narrow' style="float:left;">
+	<div>
+    State:
+    <select name="state">
+    {{states}}
+    </select>
+    </div>
+    <div>
+    Product:
+    {{products}}
+    </div>
+    <div>Quantity - 1 Litre or 14.2 Kg Cylinder in case of LPG. Prices in Rupees.</div>
+    <!--
+    <div style="display: inline;">Litres <input type="text" name="vol" size="10" value="1"></input></div>
+    <div style="display: inline;">
+    	<input type="radio" name="cur" value="D" >Dollar</input>
+    	<input type="radio" name="cur" value="R" checked="checked">Rupee</input>
+    </div>-->
+
+	<!--Check all of your interests:<input type="checkbox" name="fun1">S</input>
+	<input type="checkbox" name="fun2">S1</input>
+	<input type="checkbox" name="fun3">E2</input> -->
+
+    <!--
+    Enter any additional comments:
+    <textarea name="comment" rows="2" cols="40">
+    Thank you.
+    </textarea>-->
+    <div ><input type="submit" value="Submit"></input></div>
+</div>
+    {% if results %}
+    <div id='box' class='narrow' style="background-color:#FFFFE0;">
+    	<div class="central">
+    		<div ><b>Central Excise on {{product}}</b> <span class="date"> (as of 3-Dec-10)</span> </div>
+    		{% for k in excise %}
+		    	<div style="margin-left:5px;">
+		    		{{k.0}} = <span class="value">{{k.1}}</span>
+		    	</div>
+    		{%endfor%}
+		</div>
+		</div>
+		<div id='box' class='narrow' style="background-color:#FFEFD5;">
+		<div class="state">
+			<div ><b>State Taxes (%)</b> <span class="date">(as of 1-Feb-11)</span> </div>
+    		{% for k in results.items %}
+    			<div style="margin-left:5px;">
+    			{{k.0}} {% if k.1 %} = <span id="{{k.0|cut:" "}}" class="value">{{k.1}}</span> {%endif%}
+    			</div>
+    		{%endfor%}
+    		{% for i in notes %}
+    			<div style="margin-left:5px;">
+			    			{{i}}
+    			</div>
+    		{%endfor%}
+		</div>
+		<div id="extra"></div>
+    	</div>
+    	<div id='box' class='narrow' style="background-color:#DFD;">
+    	<div class="comm">
+    	{% for i in dc.items %}
+    		<div><b>Dealers commision</b> - {{i.0}} <span class="date">(as of {{ dcdate}})</span></div>
+    		<div class="value">{{i.1}} </div>
+    	{% endfor %}
+    	</div>
+    	</div>
+    	{% if prices %}
+    	<div id='box' class='narrow' >
+    	<div class="prices">
+    		<div ><b>Retail Selling Price</b> of {{product}} <span class="date"> (as of 17-Jan-11)</span> </div>
+		  	{% for k in prices %}
+		    <div style="margin-left:5px;">
+		    		{{k.0}} <span class="value">{{k.1}}</span>
+		    </div>
+    		{%endfor%}
+    	</div>
+		<div> <b>Price Rank</b> among states = <span class="value"><b>{{rank}}</b></span></div>
+    	</div>
+    	{% ifnotequal product "LPG"  %}
+    	<div id='box' style="float:left;">
+		<div>Rough calculation of refinery gate price: </div>
+    	<div>
+    		Assuming basic formula (Refinery price + <span style="background-color:#FFFFE0;">Excise</span> + <span style="background-color:#DFD;">Dealer commision</span>) * <span style="background-color:#FFEFD5;">State tax</span> = RSP
+    		<div style="margin-left:5px;"> =&gt; (RSP - ((Excise + Comm) * State))/State</div>
+    		<div style="margin-left:5px;" id="formula"></div>
+    		<div style="margin-left:5px;"><b>Refinery gate price</b> = <span id="ref" class="value"></span></div>
+    	</div>
+    	</div>
+    	{% endifnotequal %}
+
+		<script>
+		var state = 1 + parseFloat($(".state #VAT, .state #SalesTax")[0].innerHTML)/100;
+		var central = {{totex}}; //(".central .value")[0].innerHTML
+		var comm = parseFloat($(".comm .value")[0].innerHTML.replace('/KL','').replace('Rs.','')) / 1000;
+		var rsp = parseFloat($(".prices .value")[0].innerHTML)
+		// Assuming (refinery price + excise + dealer commision) * state = rsp
+		var refprice = (rsp - ((central + comm) * state))/state;
+		$("#ref").text(refprice);
+		$("#formula").text("=> ("+rsp+"- (("+central +"+" +comm+") *" +state+"))/" +state);
+		if ($('#EntryTax\\*\\*').length)
+		{
+			$("#extra").text("** Entry Tax  is adjustable against sales tax payable.");
+		}
+		</script>
+    	{%endif%}
+		<div id='box' class='narrow' >
+		<div> <b>Consumption</b> of all petro products in {{state|title}} = <span class="value">{{cons.0}} * 1000 MT</span> <span class="date">(2008-2009)</span></div>
+		<div> <b>Consumption Rank</b> among states	= <span class="value"><b>{{cons.1}}</b></span></div>
+		</div>
+    {%endif%}
+  </form>
+</center>
+</body>
+</html>

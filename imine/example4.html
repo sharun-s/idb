@@ -1,0 +1,239 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Treemap</title>
+
+<script language="javascript" type="text/javascript" src="/stylesheets/jquery-1.3.2.js" >
+</script>
+<!-- CSS Files
+<link type="text/css" href="../css/base.css" rel="stylesheet" />
+<link type="text/css" href="../css/Treemap.css" rel="stylesheet" />-->
+<style>
+html, body {
+    margin:0;
+    padding:0;
+    font-family: "Lucida Grande", Verdana;
+    font-size: 14px;
+    text-align: center;
+
+}
+
+input, select {
+    font-size:13px;
+}
+
+table {
+    margin-top:-10px;
+    margin-left:7px;
+}
+
+h4 {
+    font-size:1.1em;
+    text-decoration:none;
+    font-weight:normal;
+    color:#23A4FF;
+}
+
+a {
+    color:333; /* #23A4FF;*/
+    font-family:Verdana,Ariel,san-serif;
+}
+
+#container {
+    width: 1000px;
+    height: 600px;
+    margin:0 auto;
+    position:relative;
+}
+
+#left-container,
+#right-container,
+#center-container {
+    height:600px;
+    position:absolute;
+    top:0;
+}
+
+#left-container, #right-container {
+    width:200px;
+    color:#686c70;
+    text-align: left;
+    overflow: auto;
+    background-color:#fff;
+    background-repeat:no-repeat;
+    border-bottom:1px solid #ddd;
+}
+
+#left-container {
+    left:0;
+    background-image:url('col2.png');
+    background-position:center right;
+    border-left:1px solid #ddd;
+
+}
+
+#right-container {
+    right:0;
+    background-image:url('col1.png');
+    background-position:center left;
+    border-right:1px solid #ddd;
+}
+
+#right-container h4{
+    text-indent:8px;
+}
+
+#center-container {
+    width:600px;
+    left:200px;
+    background-color:#1a1a1a;
+    color:#ccc;
+}
+
+.text {
+    margin: 7px;
+}
+
+#inner-details {
+    font-size:0.8em;
+    list-style:none;
+    margin:7px;
+}
+
+#log {
+    position:absolute;
+    top:10px;
+    font-size:1.0em;
+    font-weight:bold;
+    color:#23A4FF;
+}
+
+
+#infovis {
+    position:relative;
+    width:600px;
+    height:600px;
+    margin:auto;
+    overflow:hidden;
+}
+
+
+#right-container {
+    display:none;
+}
+
+#infovis {
+    width:800px;
+}
+
+#infovis div {
+    position:absolute;
+    overflow:hidden;
+    font-size:13px;
+    font-family:Tahoma, Geneva, Arial, Helvetica, sans-serif;
+}
+
+#infovis .content {
+    background-color:#333;
+    border:0px solid #111;
+}
+
+#infovis .head {
+    color:white;
+    background-color:#444;
+
+}
+
+#infovis .head.in-path {
+    background-color:#655;
+}
+
+#infovis .body {
+    background-color:black;
+}
+
+#infovis .leaf {
+    color:white;
+    background-color:#111;
+    display:table-cell;
+    vertical-align:middle;
+    border:1px solid #000;
+}
+
+
+#infovis .over-leaf {
+    border:1px solid #cef;
+}
+
+#infovis .over-content {
+    background-color: #cef;
+}
+
+#infovis .over-head {
+    background-color:#cef;/* #A4D9FF; /*blue*/
+    color:black;
+}
+
+/*TOOLTIPS*/
+.tip {
+    color: black;
+    width: 139px;
+    background-color: white;
+    opacity:0.9;
+    filter:alpha(opacity=90);
+    font-size:15px;
+    font-family:Verdana, Geneva, Arial, Helvetica, sans-serif;
+    padding:7px;
+}
+
+.album {
+    width:100px;
+    margin:3px;
+}
+
+input {
+    font-size:10px;
+    font-family:Verdana, Geneva, Arial, Helvetica, sans-serif;
+
+}
+</style>
+
+
+<script language="javascript" type="text/javascript" src="/tm/jit.js"></script>
+<script language="javascript" type="text/javascript" src="/tm/example4.js"></script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27205246-1']);
+  _gaq.push(['_setDomainName', 'imine.in']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<!-- 'http://localhost:8080/qq11bf?out=json' -->
+<body onload="init('{{ url }}?out=json&d={{d}}&m={{m}}&y={{y}}&s={{s}}&min={{min}}');">
+<div id="container">
+
+<div >
+Left Click - Drill Down, Right Click - Drill Up
+</div>
+
+<div >
+    <a href="apps" style="float:left;margin:auto;border:none;">
+        <img alt='Home' title='Home' style='display:inline;width:32px;height:32px;border:none' src="/stylesheets/home2.png"></img>
+    </a>
+    <div id="infovis"></div>
+</div>
+
+
+<div id="log"></div>
+</div>
+</body>
+</html>

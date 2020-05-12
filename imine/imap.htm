@@ -1,0 +1,434 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>State Map</title>
+    <link type="text/css" href="/stylesheets/demo_table.css" rel="stylesheet" />
+    <script type="text/javascript" src="/stylesheets/jquery-1.3.2.js"></script>
+    <script type="text/javascript" language="javascript" src="/stylesheets/jquery.dataTables.min.js"></script>
+	<script type="text/javascript" charset="utf-8">
+			/* Data set - can contain whatever information you want */
+						
+			var aDataSet = [];
+			function showTable() {
+			    
+			    for(i in states._list){
+			        aDataSet.push([states._list[i].name, states._list[i].value]);
+			    }
+			
+				$('#dynamic').html( '<table cellpadding="0" cellspacing="0" border="0" class="display" id="example"></table>' );
+				$('#example').dataTable( {
+					"aaData": aDataSet,
+					"aoColumns": [
+						{ "sTitle": "State" },
+						{ "sTitle": "Value" , "sClass": "center" }
+					],
+					"aaSorting": [[ 1, "desc" ]]
+				} );	
+			};
+		</script>
+    <link rel="shortcut icon" href="/stylesheets/favicon.ico" />
+    <style>
+    .sortvis{
+        position:absolute;
+        top:0px;
+        left:0px;
+    }
+    .label{
+        position:absolute;
+        font-size:0.8em;
+        font-family:"Tahoma,Ariel,san-serif";
+    }
+    #popupContact{
+	display:none;
+	position:fixed;
+	_position:absolute; /* hack for internet explorer 6*/
+	//height:384px;
+	//width:408px;
+	background:#FFFFFF;
+	border:2px solid #cecece;
+	z-index:2;
+	padding:10px;
+	font-size:13px;
+}
+
+#popupContact h1{
+	text-align:left;
+	color:#6F85FD;
+	//font-size:22px;
+	font-weight:700;
+	border-bottom:1px dotted #D3D3D3;
+	padding-bottom:2px;
+	margin-bottom:20px;
+}
+
+#popupContactClose{
+	font-size:14px;
+	line-height:14px;
+	right:6px;
+	top:4px;
+	position:absolute;
+	color:#6fa5fd;
+	font-weight:700;
+	display:block;
+}
+#dynamic {
+	width: 400px;
+	margin: 30px auto;
+	padding: 0;
+	font-size:12px;
+	font-family:Tahoma,Ariel,san-serif;
+}
+
+    </style>
+
+    <script>
+    var popupStatus = 0;
+//loading popup with jQuery magic!
+function loadPopup(){
+	//loads popup only if it is disabled
+	if(popupStatus==0){
+		$("#backgroundPopup").css({
+		"opacity": "0.7"
+		});
+		$("#backgroundPopup").fadeIn();
+		$("#popupContact").fadeIn();
+		popupStatus = 1;
+	}
+}
+
+//disabling popup with jQuery magic!
+function disablePopup(){
+	//disables popup only if it is enabled
+	if(popupStatus==1){
+		//$("#backgroundPopup").fadeOut("slow");
+		$("#popupContact").fadeOut("slow");
+		popupStatus = 0;
+	}
+}
+
+//centering popup
+function centerPopup(x,y){
+	//request data for centering
+	//var windowWidth = 200;//document.documentElement.clientWidth;
+	var windowHeight = $("#content").height();//document.documentElement.clientHeight;
+	//var popupHeight = $("#popupContact").height();
+	//var popupWidth = $("#popupContact").width();
+	//centering
+	y=y-25;
+	x=x+40;
+	$("#popupContact").css({
+		"position": "absolute",
+		"top": x,
+		"left": y//,
+		//"height":60
+	});
+	//only need force for IE6
+
+	//$("#backgroundPopup").css({
+	//	"height": windowHeight
+	//});
+
+}
+    
+    {{ code }}
+
+	  function Canvas(w, h) {
+		  var cnv = document.createElement("canvas");
+		  cnv.className = "sortvis";
+		  cnv.width = w;
+		  cnv.height = h;
+
+		  cnv.style.width = w + "px";
+		  cnv.style.height = h + "px";
+		  //cnv.style.backgroundColor = "black";
+		  this.canvas = function() { return cnv; };
+		  this.ctx = function() {
+			  return cnv.getContext("2d");
+		  };
+		  this.data = function() {
+			  cnv.toDataURL("image/png");
+		  }
+
+	  }
+      {% comment %}{{ statecolors.1 }}{%endcomment%}
+
+      var data = {"UT- LAKSHADWEEP": "19.9", "MADHYA PRADESH": "4506.0", "ARUNACHAL PRADESH": "133.9", "UT - DAMAN & DIU": "107.2", "BIHAR": "3360.8", "NAGALAND": "94.0", "JHARKAND": "1972.8", "UT - DADRA & NAGAR HAVELI": "324.6", "PUNJAB": "5938.6", "MIZORAM": "83.9", "KERALA": "4834.9", "UT - ANDAMAN & NICOBAR ISLANDS": "134.9", "UTTAR PRADESH": "11373.0", "TAMIL NADU": "11315.4", "CHANDIGARH": "293.2", "PONDICHERRY": "547.2", "HARYANA": "7486.5", "GOA": "1047.6", "SIKKIM": "82.2", "GUJARAT": "17223.4", "MAHARASHTRA": "15920.1", "TRIPURA": "169.4", "MEGHALAYA": "351.3", "UTTARAKHAND": "1170.2", "JAMMU & KASHMIR": "1139.5", "ANDHRA PRADESH": "9419.7", "KARNATAKA": "7398.4", "HIMACHAL PRADESH": "905.4", "DELHI": "4135.5", "WEST BENGAL": "5468.8", "ASSAM": "1660.6", "CHATTISGARH": "1829.0", "MANIPUR": "138.9", "RAJASTHAN": "6986.6", "ORISSA": "2985.2"};
+      //var colors = ['FCC000', 'FABE02', 'F8BC04', 'F8BA04', 'F8B804', 'F4B404', 'F4B206', 'F4B008', 'F2AE08', 'F0AC08', 'F0AA08', 'F0A808', 'EEA80A', 'ECA80C', 'ECA40C', 'EAA20C', 'E8A00C', 'E89E0E', 'E89C10', 'E49810', 'E49610', 'E49410', 'E29412', 'E09414', 'E09214', 'E09014', 'DC8C18', 'DC8C14', 'DA8A18', 'D88818', 'D88618', 'D88418', 'D4801C', 'D47E1C', 'D47C1C', 'D27A1C', 'D07820', 'D0781E', 'D0781C', 'D07420', 'CC7420', 'CC7020', 'CA6E22', 'C86C24', 'C86A24', 'C86824', 'C46424', 'C46226', 'C46028', 'C26028', 'C06028', 'C05E28', 'C05C2C', 'C05C28', 'C0582C', 'BC582C', 'BC562C', 'BC542C', 'BA522E', 'B85030', 'B44C30', 'B44A32', 'B44834', 'B24634', 'B04434', 'B04034', 'AC3C38', 'AC3A38', 'AC3838', 'AA3838', 'A83838', 'A8343C', 'A83438', 'A4303C', 'A42E3C', 'A42C3C', 'A02C40', 'A02840', 'A02440', '9C2440', '9C2242', '9C2044', '9A1E44', '981C44', '941848', '941648', '941448', '941248', '941048', '901048', '900C4C', '8C084C', '8C044C', '880450', '880050', '860050', '840050', '800050', '80004C', '7C004C', '7C0048', '780048', '760048', '740048', '740046', '740044', '700044', '6C0044', '6C0042', '6C0040', '680040', '68003C', '66003C', '64003C', '60003C', '600038', '5C0038', '580034', '560034', '540034', '540030', '500030', '4C0030', '4C002C', '48002C', '46002A', '440028', '400028', '400024', '3C0024', '380024', '380020', '340020', '30001C', '2C001C', '2C0018', '280018', '240018', '240014'];
+      //var colors = ['FCC000', 'F8BC04', 'F8B804', 'F4B206', 'F2AE08', 'F0AA08', 'EEA80A', 'ECA40C', 'E8A00C', 'E89C10', 'E49610', 'E29412', 'E09214', 'DC8C18', 'DA8A18', 'D88618', 'D4801C', 'D47C1C', 'D07820', 'D0781C', 'CC7420', 'CA6E22', 'C86A24', 'C46424', 'C46028', 'C06028', 'C05C2C', 'C0582C', 'BC562C', 'BA522E', 'B44C30', 'B44834', 'B04434', 'AC3C38', 'AC3838', 'A83838', 'A83438', 'A42E3C', 'A02C40', 'A02440', '9C2242', '9A1E44', '941848', '941448', '941048', '900C4C', '8C044C', '880050', '840050', '80004C', '7C0048', '760048', '740046', '700044', '6C0042', '680040', '66003C', '60003C', '5C0038', '560034', '540030', '4C0030', '48002C', '440028', '400024', '380024', '340020', '2C001C', '280018', '240014']
+      //var colors = ['240014', '280018', '2C001C', '340020', '380024', '400024', '440028', '48002C', '4C0030', '540030', '560034', '5C0038', '60003C', '66003C', '680040', '6C0042', '700044', '740046', '760048', '7C0048', '80004C', '840050', '880050', '8C044C', '900C4C', '941048', '941448', '941848', '9A1E44', '9C2242', 'A02440', 'A02C40', 'A42E3C', 'A83438', 'A83838', 'AC3838', 'AC3C38', 'B04434', 'B44834', 'B44C30', 'BA522E', 'BC562C', 'C0582C', 'C05C2C', 'C06028', 'C46028', 'C46424', 'C86A24', 'CA6E22', 'CC7420', 'D0781C', 'D07820', 'D47C1C', 'D4801C', 'D88618', 'DA8A18', 'DC8C18', 'E09214', 'E29412', 'E49610', 'E89C10', 'E8A00C', 'ECA40C', 'EEA80A', 'F0AA08', 'F2AE08', 'F4B206', 'F8B804', 'F8BC04', 'FCC000'];
+      //var colors = ['F4B008', 'CC7420','B44834', 'B04034', 'AC3C38', '941848','800050','680040','4C002C','280018','240014'];
+      {{ statecolors }}
+
+
+      function States(data, colors){
+        this._list = new Array();
+        this.cnt = 0;
+
+        for(i in data){
+            this._list[this.cnt] = {name:i, value: parseFloat(data[i])}; // new state(i, data[i])
+            this.cnt = this.cnt+ 1
+        }
+
+        this._list.sort(function(a,b){ return a.value - b.value });
+
+        var colorcnt = colors.length;
+        if( colorcnt >= this.cnt){
+            inc = Math.floor(colorcnt/this.cnt);
+            tmp = 0;
+            for(var j=0;j< this.cnt;j++){
+                this._list[j].color = '#' + colors[tmp];
+                this._list[j].tmp = tmp;
+                tmp = tmp + inc;
+            }
+        }else{
+            tmp = 0;
+            inc = Math.floor(this.cnt/ colorcnt);
+            for(var j=0;j< this.cnt;j++)
+            {
+                this._list[j].color = '#' + colors[tmp];
+                if (j%inc == 0 )
+                    tmp = tmp + 1;
+                    if(tmp >= colorcnt)
+                        tmp = colorcnt - 1;
+            }
+        }
+
+        States.prototype.getColor = function(name){
+            for(var i=0;i<this.cnt; i++){
+                if (this._list[i].name == name){
+                    return this._list[i].color;
+                }
+            }
+        };
+
+        States.prototype.getValue = function(name){
+            for(var i=0;i<this.cnt; i++){
+                if (this._list[i].name == name){
+                    return this._list[i].value;
+                }
+            }
+        };
+      }
+
+	  window.onload = function() {
+		  var testCnv = document.createElement("canvas");
+		  if (!testCnv.getContext) {
+			  alert("No <canvas>! Please use Firefox, Opera, Safari or Chrome.");
+			  return;
+		  }
+
+		// create canvas
+		if ( document.getElementById("sortvisctr") == null ){
+			cnv = new Canvas($(window).width(),  $(window).height());
+			bkgd = new Canvas($(window).width(),  $(window).height());
+			ctx = cnv.ctx();
+			trackTransforms(ctx);
+			//ctx.save();
+			////cnv.canvas().width = $(window).width();
+			////cnv.canvas().style.width = "800px";
+            //ctx.setTransform(1,0.5,-1,0.5,(cnv.canvas().width/2 - 200),0)
+            bkctx = bkgd.ctx();
+			{{ bg }}
+			bkctx.fillRect(0, 0, $(window).width(), $(window).height());
+			var ctr = document.createElement("div");
+			//ctr.innerHTML = algo.name;
+			ctr.id = "sortvisctr";
+			ctr.appendChild(bkgd.canvas());
+			ctr.appendChild(cnv.canvas());
+			document.getElementById("sortvis").appendChild(ctr);
+		}
+
+        states = new States(data, colors);
+
+		function redraw(){
+			// Clear the entire canvas
+			var p1 = ctx.transformedPoint(0,0);
+			var p2 = ctx.transformedPoint(cnv.canvas().width, cnv.canvas().height);
+			//var p2 = ctx.transformedPoint($(window).width(), $(window).height());
+			ctx.clearRect(p1.x,p1.y,p2.x-p1.x,p2.y-p1.y);
+
+			{% comment %}
+			trying to set gradient background is tricky cause with zoom the canvas dimensions seem to be changing.
+			{{ bg }}
+			{% endcomment %}
+			//ctx.fillRect(0, 0, $(window).width(), $(window).height());
+			//ctx.fillRect(p1.x,p1.y,p2.x-p1.x,p2.y-p1.y);
+	  		var x= 1;
+	  		//var t = .9;
+
+	  		//ctx.beginPath();
+            //ctx.arc(338,272,330,0,2*Math.PI);
+            //ctx.strokeStyle= "#f96";
+			//ctx.lineWidth = 6;
+			//ctx.stroke();
+			//ctx.closePath();
+		  for(x; x<states.cnt; x++){
+		    try{
+			    ctx.beginPath();
+			    var statename = window['f'+x]();
+			    ctx.strokeStyle= "#666";
+			    //ctx.lineWidth = 6;
+			    ctx.stroke();
+			    ctx.closePath();
+			    {% comment %} {{ statecolors.0 }} ; {% endcomment %}
+			    //val = states.getValue(statename);
+			    ctx.fillStyle= states.getColor(statename);
+			    //console.log(x+ " " +statename+" "+states.getColor(statename));
+			    ctx.fill();
+			}catch(e)
+			{
+			    ctx.closePath();
+			    break;
+			}
+		  }
+
+		  /*$("#sortvisctr").click(function(e){
+			ctx.beginPath();
+			var aa = window['f'+x]();
+			ctx.strokeStyle=get_random_light_color() ;
+			ctx.stroke();
+			ctx.closePath();
+			ctx.fillStyle=get_random_light_color() ;
+			ctx.fill();
+			x=x+1;t= t+0.1;
+		  });*/
+		}
+		redraw();
+		
+		//$(".label").hover(function(a){ alert( a.target.innerHTML +" "+states.getValue(a.target.innerHTML)); });
+        $(".label").hover(function(a) {
+          var pos = $(this).position();
+          var state = a.target.innerHTML;
+		  $("#pHead").html('<span style="background:'+states.getColor(state)+'">'+ state +'</span>' +" "+states.getValue(state));
+		  //$("#full").text(t);
+		  centerPopup(pos.top,pos.left);
+		  loadPopup();
+		},function(){ disablePopup();} );
+
+		var lastX=cnv.canvas().width/2, lastY=cnv.canvas().height/2;
+		var dragStart,dragged;
+		cnv.canvas().addEventListener('mousedown',function(evt){
+			document.body.style.mozUserSelect = document.body.style.webkitUserSelect = document.body.style.userSelect = 'none';
+			lastX = evt.offsetX || (evt.pageX - cnv.canvas().offsetLeft);
+			lastY = evt.offsetY || (evt.pageY - cnv.canvas().offsetTop);
+			dragStart = ctx.transformedPoint(lastX,lastY);
+			dragged = false;
+		},false);
+		cnv.canvas().addEventListener('mousemove',function(evt){
+			lastX = evt.offsetX || (evt.pageX - cnv.canvas().offsetLeft);
+			lastY = evt.offsetY || (evt.pageY - cnv.canvas().offsetTop);
+			dragged = true;
+			if (dragStart){
+				var pt = ctx.transformedPoint(lastX,lastY);
+				ctx.translate(pt.x-dragStart.x,pt.y-dragStart.y);
+				redraw();
+			}
+
+			//var ap = ctx.getImageData(lastX, lastY, 1, 1).data;
+			//var hex = "#" + ("000000" + rgbToHex(ap[0], ap[1], ap[2])).slice(-6);
+
+			//ctx.fillText(hex, 50,50);
+
+		},false);
+		cnv.canvas().addEventListener('mouseup',function(evt){
+			dragStart = null;
+			//if (!dragged) zoom(evt.shiftKey ? -1 : 1 );
+		},false);
+
+		var scaleFactor = 1.1;
+		var zoom = function(clicks){
+			var pt = ctx.transformedPoint(lastX,lastY);
+			ctx.translate(pt.x,pt.y);
+			var factor = Math.pow(scaleFactor,clicks);
+			ctx.scale(factor,factor);
+			ctx.translate(-pt.x,-pt.y);
+			redraw();
+		}
+
+		var handleScroll = function(evt){
+			var delta = evt.wheelDelta ? evt.wheelDelta/40 : evt.detail ? -evt.detail : 0;
+			if (delta) zoom(delta);
+			return evt.preventDefault() && false;
+		};
+		cnv.canvas().addEventListener('DOMMouseScroll',handleScroll,false);
+		cnv.canvas().addEventListener('mousewheel',handleScroll,false);
+	  }
+
+	  function rgbToHex(r, g, b) {
+			if (r > 255 || g > 255 || b > 255)
+				throw "Invalid color component";
+			return ((r << 16) | (g << 8) | b).toString(16);
+	  }
+	  function trackTransforms(ctx){
+	  		var svg = document.createElementNS("http://www.w3.org/2000/svg",'svg');
+	  		var xform = svg.createSVGMatrix();
+	  		ctx.getTransform = function(){ return xform; };
+
+	  		var savedTransforms = [];
+	  		var save = ctx.save;
+	  		ctx.save = function(){
+	  			savedTransforms.push(xform.translate(0,0));
+	  			return save.call(ctx);
+	  		};
+	  		var restore = ctx.restore;
+	  		ctx.restore = function(){
+	  			xform = savedTransforms.pop();
+	  			return restore.call(ctx);
+	  		};
+
+	  		var scale = ctx.scale;
+	  		ctx.scale = function(sx,sy){
+	  			xform = xform.scaleNonUniform(sx,sy);
+	  			return scale.call(ctx,sx,sy);
+	  		};
+	  		var rotate = ctx.rotate;
+	  		ctx.rotate = function(radians){
+	  			xform = xform.rotate(radians*180/Math.PI);
+	  			return rotate.call(ctx,radians);
+	  		};
+	  		var translate = ctx.translate;
+	  		ctx.translate = function(dx,dy){
+	  			xform = xform.translate(dx,dy);
+	  			return translate.call(ctx,dx,dy);
+	  		};
+	  		var transform = ctx.transform;
+	  		ctx.transform = function(a,b,c,d,e,f){
+	  			var m2 = svg.createSVGMatrix();
+	  			m2.a=a; m2.b=b; m2.c=c; m2.d=d; m2.e=e; m2.f=f;
+	  			xform = xform.multiply(m2);
+	  			return transform.call(ctx,a,b,c,d,e,f);
+	  		};
+	  		var setTransform = ctx.setTransform;
+	  		ctx.setTransform = function(a,b,c,d,e,f){
+	  			xform.a = a;
+	  			xform.b = b;
+	  			xform.c = c;
+	  			xform.d = d;
+	  			xform.e = e;
+	  			xform.f = f;
+	  			return setTransform.call(ctx,a,b,c,d,e,f);
+	  		};
+	  		var pt  = svg.createSVGPoint();
+	  		ctx.transformedPoint = function(x,y){
+	  			pt.x=x; pt.y=y;
+	  			return pt.matrixTransform(xform.inverse());
+	  		}
+	}
+
+  </script>
+
+</head>
+<body>
+    <div id="sortvis" style="background-color: Black;">
+    </div>
+    <!--<a href="edit" style="position: absolute; left: 5px; top: 30px;">-->
+    <img alt='Edit Map' title='Edit Map' style='cursor: pointer; position: absolute; left: 2px; top: 2px;width:48px;height:48px;' src="/stylesheets/mapedit.png" onclick="showTable();"/>
+    <!--</a>-->
+    <div id="popupContact">
+	    <!--<a id='popupContactClose'>x</a>-->
+	    <div id='pHead'></div>
+    </div>
+    <div id="dynamic"></div>
+</body>
+</html>

@@ -1,0 +1,300 @@
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+<script type="text/javascript" src="stylesheets/json2.js"></script>
+<script type="text/javascript">
+
+function findSWF(movieName) {
+  if (navigator.appName.indexOf("Microsoft")!= -1) {
+    return window[movieName];
+  } else {
+    return document[movieName];
+  }
+}
+
+function button_click()
+{
+  findSWF("chart").load( JSON.stringify(data_2));
+}
+
+function hbar_click()
+{
+  findSWF("chart").load( JSON.stringify(hbar));
+}
+
+function h1_click()
+{
+  findSWF("chart").load( JSON.stringify(h1));
+}
+
+function h2_click()
+{
+  findSWF("chart").load( JSON.stringify(h2));
+}
+function h3_click()
+{
+  findSWF("chart").load( JSON.stringify(h3));
+}
+
+
+var hbar = {
+
+  "title":{
+    "text":"Test stacked bar charts",
+    "style":"{font-size:16px;}"
+  },
+
+  "elements":[
+    {
+      "type":      "bar_stack",
+      "keys": [
+        {"colour":"#FFB900", "text": "Key 1", "font-size": 10},
+        {"colour":"#FFB9F0", "text": "Key 2", "font-size": 16}
+      ],
+      "tip":       "#total#<br>(bar total)",
+      "values": [
+        [2.5,{"val":5}],
+        [{"val":2.5},{"val":5},{"val":2.5}],
+        null,
+        [{"val":5},{"val":5},{"val":2},{"val":2},{"val":2,"colour":"#ff00ff","tip":"hello"},{"val":2},{"val":2}]
+        ]
+    },
+    {
+      "type":      "bar",
+      "colour":    "#9933CC",
+      "text":      "Bar",
+      "font-size": 10,
+      "values" :   [9,6,7,9]
+    }
+  ],
+
+  "x_axis":{
+    "max":4,
+    "steps": 1,
+    "labels": {
+      "labels": ["January","February","March","April"]
+    },
+    "stroke": 12,
+    "tick-height": 6
+  },
+
+  "y_axis":{
+    "max": 20
+  },
+
+  "tooltip":{
+    "mouse": 2,
+    "stroke":1
+  }
+}
+
+
+
+
+var h1 = {"bg_colour": "#ffffff",
+		  "y_axis": {
+		  	"max": 1108749,
+		  	"colour": "#f2f2f2",
+		  	"grid-colour":
+		  	"#ffffff",
+		  	"min": -999999
+		  	},
+		  	"elements": [
+		  		{"values": [
+		  				1108749,
+		  				{"top": 682212, "colour":"#457899", tip:"#val#"},
+		  				{"top": 534094},
+		  				{"top": 148118},
+		  				19253
+		  			],
+		  			"text": "Total",
+		  			"type": "bar"}
+		  		],
+		  	"x_axis": {
+		  		"colour": "#e2e2e2",
+		  		"labels": {
+		  			"labels": [
+		  				"Total Rece",
+		  				"REVENUE RE",
+		  				"1. Net Tax",
+		  				"2. Non-Tax",
+		  				"Interest R"],
+		  			"rotate": "diagonal"
+		  			},
+		  		"grid-colour": "#ffffff"
+		  	},
+		  	"title": {
+		  		"text": "2010-2011 BudgetEstimates",
+		  		"style": "{color: #000000; font-size: 12px;}"
+		  	}
+		  }
+
+
+
+var h2 = {"bg_colour": "#ffffff", "y_axis": {"max": 1108749, "colour": "#f2f2f2", "grid-colour": "#ffffff", "min": -999999},
+	"elements": [{"values": [{"value":1108749,"colour":"#235622","tip":"hello"}, 682212, 534094, 148118, 19253, 51309, 2060, 74571, 925, 426537, 45129, 5129, 40000, 381408, 345010, -999999, 22464, 13256, 7000, -6322, -999999, 1108749, 735657, 643599, 248664, 87344, 116224, 46001, 42840, 22154, 3560, 24928, 17487, 29483, 3596, 3190, -3560, 1688, 92058, 60000, 31051, 539, 89, -999999, 379, 373092, 315125, 230881, 84244, 81683, 2561, 57967, 49719, 8248, 7241, 1007, 385940, 137276, 248664], "text": "Total", "type": "bar"}], "x_axis": {"colour": "#e2e2e2", "labels": {"labels": ["Total Rece", "REVENUE RE", "1. Net Tax", "2. Non-Tax", "Interest R", "Dividend a", "External G", "Other Non-", "Receipts o", "3. CAPITAL", "A. Non-deb", "1. Recover", "2. Miscell", "B. Debt Re", "3. Market ", "4. Short t", "5. Externa", "6. Securit", "7. State P", "8. Other R", "4. DRAW-DO", "TOTAL EXPE", "1. NON-PLA", "A. Revenue", "1. Interes", "2. Defence", "3. Subsidi", "4. Grants ", "5. Pension", "6. Police", "7. Assista", "8. Economi", "9. Other G", "10. Social", "11. Postal", "12. Expend", "13. Amount", "14. Grants", "B. Capital", "1. Defence", "2. Other N", "3. Loans t", "4. Loans t", "5. Loans t", "6. Others", "2. PLAN EX", "A. Revenue", "1. Central", "2. Central", "State Plan", "Union Terr", "B. Capital", "1. Central", "2. Central", "State Plan", "Union Terr", "DEBT SERVI", "1. Repayme", "2. Total I"], "rotate": "diagonal"}, "grid-colour": "#ffffff"}, "title": {"text": "2010-2011 BudgetEstimates", "style": "{color: #000000; font-size: 12px;}"}}
+
+var h3={
+
+  "title":{
+    "text":"Glass Bar Cart",
+    "style":"{font-size:20px; color: #FFFFFF; margin: 5px; background-color: #505050; padding:5px 20px 5px 20px;}"
+  },
+
+  "elements":[
+    {
+      "type":      "bar_3d",
+      "colour":    "#9933CC",
+      "text":      "Page views",
+      "font-size": 10,
+      "values" :   [10,-6]
+    },
+    {
+      "type":      "bar_fade-",
+      "colour":    "#3334AD",
+      "text":      "Stuff",
+      "font-size": 10,
+      "values" :   [10,-10]
+    },
+    {
+      "type":      "bar",
+      "colour":    "#339966",
+      "text":      "Green Bar",
+      "font-size": 10,
+      "values" :   [7,-7]
+    },
+    {
+      "type":      "bar_glass",
+      "colour":    "#339966",
+      "text":      "Green Bar",
+      "font-size": 10,
+      "values" :   [10,-10]
+    },
+    {
+      "type":      "bar_filled",
+      "colour":    "#8822BB",
+      "outline-colour": "#8010A0",
+      "text":      "Outline",
+      "font-size": 10,
+      "values" :   [8,-8]
+    }
+
+  ],
+
+
+  "x_axis":{
+    "labels": { "labels" :["Jan","Feb"] },
+    "3d":     5
+  },
+
+  "y_axis":{
+    "min": -20,
+    "max":  20
+  },
+
+  "y_legend":{
+    "text":"OFC",
+    "style":"{font-size: 12px; color:#7E97A6;}"
+  }
+}
+
+
+
+
+var data = {
+
+  "title_":{
+    "text":"Custom tooltip",
+    "style":"{font-size: 20px; font-family: Verdana; text-align: center;}"
+  },
+
+  "elements":[
+    {
+      "type":      "bar",
+      "colour":    "#9933CC",
+      "text":      "Page views",
+      "font-size": 10,
+      "values" :   [9,6,7,9,5,7,6,9,9]
+    }
+  ],
+  "x_axis":{
+    "labels": ["January","February","March","April","May","June","July","August","Spetember"]
+  },
+  "y_axis":{
+    "max":20
+  },
+  "tooltip":{
+    "shadow":false,
+    "stroke":5,
+    "colour":"#00d000",
+    "background":"#d0d0ff",
+    "title":"{font-size: 14px; color: #905050;}",
+    "body":"{font-size: 10px; font-weight: bold; color: #9090ff;}"
+  }
+}
+
+var data_2 = {
+  "bg_colour":0xffffff,
+  "title":{
+    "text":  "Many data lines",
+    "style": "{font-size: 20px; color:#0000ff; font-family: Verdana; text-align: center;}"
+  },
+
+  "y_legend":{
+    "text": "Open Flash Chart",
+    "style": "{color: #736AFF; font-size: 12px;}"
+  },
+
+  "elements":[
+    {
+      "type":      "line",
+      "alpha":     0.5,
+      "colour":    "#9933CC",
+      "text":      "Page views",
+      "font-size": 10,
+      "values" :   [9,6,7,9,5,7,6,9,7]
+    },
+    {
+      "type":      "bar",
+      "alpha":     0.5,
+      "colour":    "#CC9933",
+      "text":      "Page views 2",
+      "font-size": 10,
+      "values" :   [9,6,7,9,5,7,6,9,7]
+    }
+  ],
+
+  "x_axis":{
+    "stroke":1,
+    "tick_height":10,
+    "colour":"#d000d0",
+    "grid_colour":"#00ff00",
+    "labels": ["January","February","March","April","May","June","July","August","Spetember"]
+   },
+
+  "y_axis":{
+    "stroke":      4,
+    "tick_length": 3,
+    "colour":      "#d000d0",
+    "grid_colour": "#00ff00",
+    "offset":      0,
+    "max":         20
+  }
+}
+</script>
+</head>
+<body>
+<a href="javascript:button_click()">load json</a>
+<a href="javascript:hbar_click()">hbar</a>
+<a href="javascript:h1_click()">1</a>
+<a href="javascript:h2_click()">2</a>
+<a href="javascript:h3_click()">3</a>
+<div>
+{% for year in years %}
+<input type="checkbox"> {{year}} <a href="/graph?db={{year}}">#</a></li></input>
+{% endfor %}
+<div>
+
+
+{{ graph }}
+</body>

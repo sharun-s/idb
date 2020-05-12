@@ -1,0 +1,945 @@
+(lp0
+(dp1
+S'name'
+p2
+S'ArunKumar Nagarajan'
+p3
+sS'forwards'
+p4
+(lp5
+S'RT'
+p6
+asS'url'
+p7
+(lp8
+S'http://bit.ly/aaYS4P'
+p9
+asS'bitly'
+p10
+I14
+sS'long-url'
+p11
+S'http://www.thehindu.com/health/policy-and-issues/article802521.ece'
+p12
+sS'pub'
+p13
+S'09/30/10 01:13:51'
+p14
+sS'nick'
+p15
+S'arunkumar_n'
+p16
+sS'has_r'
+p17
+(lp18
+sS'dialog'
+p19
+(lp20
+S'@tanvirkazmi'
+p21
+asS'msg'
+p22
+S'Proud to be a Chennai Runner!! :) RT: @tanvirkazmi: Chennai Runners put on their running shoes http://bit.ly/aaYS4P'
+p23
+sS'phrase'
+p24
+(lp25
+S'Proud'
+p26
+aS'Chennai Runner'
+p27
+aS'Chennai Runners'
+p28
+aS'running'
+p29
+asa(dp30
+g2
+S'Linda Mary Liotino'
+p31
+sg7
+(lp32
+S'http://www.trekearth.com/gallery/Asia/India/South/Tamil_Nadu/Chennai/photo1244047.htm'
+p33
+asg10
+I0
+sg13
+S'09/30/10 01:13:59'
+p34
+sg15
+S'PRECIOUSMISSION'
+p35
+sg17
+(lp36
+sg22
+S'http://www.trekearth.com/gallery/Asia/India/South/Tamil_Nadu/Chennai/photo1244047.htm WHERE...HIS FACE'
+p37
+sg24
+(lp38
+S'HIS FACE'
+p39
+asa(dp40
+g2
+S'Kanchi Kamakoti Peet'
+p41
+sg7
+(lp42
+S'http://www.kamakoti.org/news/'
+p43
+asg10
+I0
+sg17
+(lp44
+sg13
+S'09/30/10 02:21:58'
+p45
+sg15
+S'Kamakoti'
+p46
+sS'range'
+p47
+(lp48
+S'8 to 17'
+p49
+asg22
+S'sarada navarathi mahotsavam at sri sankara matam, chennai from Oct 8 to 17. Details @ http://www.kamakoti.org/news/'
+p50
+sg24
+(lp51
+S'sarada navarathi mahotsavam'
+p52
+aS'sri sankara matam'
+p53
+aS'chennai'
+p54
+aS'Oct'
+p55
+aS'Details'
+p56
+asa(dp57
+g2
+S'Mir Adnan'
+p58
+sg7
+(lp59
+S'http://t.co/Q1LdIyF'
+p60
+asg10
+I0
+sg13
+S'09/30/10 03:26:08'
+p61
+sg15
+S'miradnana'
+p62
+sg17
+(lp63
+sg19
+(lp64
+S'@AddThis'
+p65
+asg22
+S'The Hindu : Cities / Chennai : Madras in black and white http://t.co/Q1LdIyF via @AddThis'
+p66
+sg24
+(lp67
+S'Hindu'
+p68
+aS'Cities'
+p69
+aS'Chennai'
+p70
+aS'Madras'
+p71
+aS'white'
+p72
+asa(dp73
+g2
+S'Dipen Kenia'
+p74
+sg7
+(lp75
+S'http://bbc.in/bwWdK6'
+p76
+asg10
+I0
+sg13
+S'09/30/10 03:59:21'
+p77
+sg15
+S'deehdaada'
+p78
+sg17
+(lp79
+sg22
+S'British still call Chennai - Madras. Sena must be happy that Mumbai has been acknowledged (Check the map). http://bbc.in/bwWdK6'
+p80
+sg24
+(lp81
+S'call Chennai'
+p82
+aS'Madras'
+p83
+aS'Sena'
+p84
+aS'Mumbai'
+p85
+aS'Check'
+p86
+aS'map'
+p87
+asa(dp88
+g2
+S'AWK'
+p89
+sg4
+(lp90
+S'RT'
+p91
+asg7
+(lp92
+S'http://bit.ly/cyUYNh'
+p93
+asg10
+I1611
+sg11
+S'http://www.petitiononline.com/Suja2010/'
+p94
+sg13
+S'09/30/10 04:50:06'
+p95
+sg15
+S'AbdulWK'
+p96
+sg17
+(lp97
+I179
+aI181
+aI183
+aI185
+aI187
+aI189
+aI193
+aI194
+aI196
+aI197
+aI201
+aI202
+aI205
+aI206
+aI208
+aI210
+aI211
+aI212
+aI214
+aI218
+aI230
+aI233
+aI234
+aI237
+aI238
+aI240
+aI243
+aI245
+aI249
+aI250
+aI253
+aI254
+aI258
+aI264
+aI265
+aI269
+aI275
+aI279
+aI280
+aI282
+aI283
+aI285
+aI293
+aI294
+aI301
+aI303
+aI330
+aI333
+aI337
+aI338
+aI347
+aI361
+aI386
+aI462
+aI468
+aI584
+aI695
+aI756
+aI959
+aI972
+asg19
+(lp98
+S'@bigfatphoenix'
+p99
+asg22
+S'RT @bigfatphoenix: A lady friend was harassed by the cops in Chennai and subjected to public humiliation. Please help by signing this : http://bit.ly/cyUYNh'
+p100
+sg24
+(lp101
+S'lady friend'
+p102
+aS'cops'
+p103
+aS'Chennai'
+p104
+aS'public humiliation'
+p105
+aS'Please help'
+p106
+asa(dp107
+g2
+S'Gabi Urse'
+p108
+sg11
+S'http://www.google.com/url?sa=X&q=http://blogs.bettor.com/Beach-Volleyball-update-BSNL-Chennai-Challenger-Womens-Tournament,-India-a30665&ct=ga&cad=:s7:f1:v0:d2:i0:lt:e0:p0:t1285825300:&cd=9LwoRJocZiE&usg=AFQjCNF7gmJus7-jyk5Tp-QdAcoZjkr4_w&utm_source=twitterfeed&utm_medium=twitter'
+p109
+sg7
+(lp110
+S'http://bit.ly/b8rrKZ'
+p111
+asg10
+I2
+sg13
+S'09/30/10 05:41:43'
+p112
+sg15
+S'gabiurse'
+p113
+sg17
+(lp114
+sg22
+S"Beach Volleyball Update: BSNL Chennai Challenger Women's Tournament, India http://bit.ly/b8rrKZ"
+p115
+sg24
+(lp116
+S'Volleyball Update'
+p117
+aS'BSNL Chennai Challenger Women'
+p118
+aS'Tournament'
+p119
+aS'India'
+p120
+asa(dp121
+g2
+S'Explocity Chennai'
+p122
+sg7
+(lp123
+S'http://chennai.explocity.com/todayevent/Films/'
+p124
+asg10
+I0
+sg13
+S'09/30/10 05:54:09'
+p125
+sg15
+S'explocitychn'
+p126
+sg17
+(lp127
+sg22
+S'Check out the film, Behind The Clouds @ The South Indian Film Chamber http://chennai.explocity.com/todayevent/Films/'
+p128
+sg24
+(lp129
+S'Check'
+p130
+aS'film'
+p131
+aS'Behind'
+p132
+aS'Clouds @ The South Indian Film Chamber'
+p133
+asa(dp134
+g2
+S'Johan'
+p135
+sg7
+(lp136
+S'http://www.sivajitv.com/movie-gallery/deepika-padukone-in-chennai-photos.htm'
+p137
+asg10
+I0
+sg13
+S'09/30/10 06:04:29'
+p138
+sg15
+S'jochillz'
+p139
+sg17
+(lp140
+sg22
+S"View de fotos of deepika..she's relly damn hot...,,:)\nhttp://www.sivajitv.com/movie-gallery/deepika-padukone-in-chennai-photos.htm"
+p141
+sg24
+(lp142
+S'View'
+p143
+aS'fotos'
+p144
+aS'deepika'
+p145
+aS'hot'
+p146
+asa(dp147
+g2
+S'Nikhil Kulkarni'
+p148
+sg4
+(lp149
+S'RT'
+p150
+asg7
+(lp151
+S'http://bit.ly/9VrJsJ'
+p152
+asg10
+I10
+sg11
+S'http://evamblog.wordpress.com/2010/09/30/sneek-peak-into-the-play/'
+p153
+sg13
+S'09/30/10 06:07:38'
+p154
+sg15
+S'kulkarninikhil'
+p155
+sg17
+(lp156
+sg19
+(lp157
+S'@evam_entd'
+p158
+asg22
+S'Chennai folks! RT @evam_entd r allowing selected fans a chance to watch our play a good two weeks before the premiere! http://bit.ly/9VrJsJ'
+p159
+sg24
+(lp160
+S'Chennai folks'
+p161
+aS'fans'
+p162
+aS'chance'
+p163
+aS'play'
+p164
+aS'weeks'
+p165
+aS'premiere'
+p166
+asa(dp167
+g2
+S'Salman Alikhrafi'
+p168
+sg7
+(lp169
+S'http://www.youtube.com/watch'
+p170
+asg10
+I0
+sg13
+S'09/30/10 06:28:26'
+p171
+sg15
+S'crazzzybysteps'
+p172
+sg17
+(lp173
+I416
+aI674
+asg19
+(lp174
+S'@DeepikaPFC'
+p175
+aS'@deepikapadukone'
+p176
+asg22
+S'@DeepikaPFC @deepikapadukone arre sach mien-i have badluck maine chennai ko apna driver ko bheja http://www.youtube.com/watch?v=mLJCArVn-L0'
+p177
+sg24
+(lp178
+S'arre sach mien-i'
+p179
+aS'badluck maine chennai ko apna driver ko bheja'
+p180
+asa(dp181
+g2
+S'Brand Workx'
+p182
+sg7
+(lp183
+S'http://goo.gl/fb/QZ1Ji'
+p184
+asg10
+I0
+sg13
+S'09/30/10 06:37:43'
+p185
+sg15
+S'Brandworkx'
+p186
+sg17
+(lp187
+sg22
+S'Jagjit Singh live concert in Chennai http://goo.gl/fb/QZ1Ji'
+p188
+sg24
+(lp189
+S'Jagjit Singh'
+p190
+aS'live concert'
+p191
+aS'Chennai'
+p192
+asa(dp193
+g2
+S'E - Cell'
+p194
+sg7
+(lp195
+S'http://www.blog.ecell-iitkgp.org/'
+p196
+aS'http://fb.me/IpUVevPh'
+p197
+asg10
+I0
+sg13
+S'09/30/10 06:50:42'
+p198
+sg15
+S'eCellfellas'
+p199
+sg17
+(lp200
+sg22
+S'EAD Chennai - coming soon!!\nhttp://www.blog.ecell-iitkgp.org/?p=40 http://fb.me/IpUVevPh'
+p201
+sg24
+(lp202
+S'EAD Chennai'
+p203
+asa(dp204
+g2
+S'Trichy IT'
+p205
+sg7
+(lp206
+S'http://goo.gl/fb/HUm5l'
+p207
+asg10
+I0
+sg13
+S'09/30/10 07:18:03'
+p208
+sg15
+S'trichyit'
+p209
+sg17
+(lp210
+sg22
+S'trichyit.com - Plan to set up USD 500m facility near Chennai: Huawei - MSN India http://goo.gl/fb/HUm5l'
+p211
+sg24
+(lp212
+S'trichyit.com'
+p213
+aS'Plan'
+p214
+aS'USD'
+p215
+aS'facility'
+p216
+aS'Chennai'
+p217
+aS'Huawei'
+p218
+aS'MSN India'
+p219
+asa(dp220
+g2
+S'Trichy IT'
+p221
+sg7
+(lp222
+S'http://goo.gl/fb/sm3YT'
+p223
+asg10
+I0
+sg13
+S'09/30/10 08:30:06'
+p224
+sg15
+S'trichyit'
+p225
+sg17
+(lp226
+sg22
+S'Plan to set up $500 million facility near Chennai: Huawei - Economic Times http://goo.gl/fb/sm3YT'
+p227
+sg24
+(lp228
+S'Plan'
+p229
+aS'facility'
+p230
+aS'Chennai'
+p231
+aS'Huawei'
+p232
+aS'Economic Times'
+p233
+asa(dp234
+g2
+S'Jose P Johnson '
+p235
+sg7
+(lp236
+S'http://goo.gl/fb/S5nDL'
+p237
+asg10
+I0
+sg13
+S'09/30/10 08:30:44'
+p238
+sg15
+S'josepjohnson'
+p239
+sg17
+(lp240
+sS'tag'
+p241
+(lp242
+S'# 8230'
+p243
+asg22
+S'A R Rahman - The chennai Mozart - presents the theme song for Commonwealth games&#8230; http://goo.gl/fb/S5nDL'
+p244
+sg24
+(lp245
+S'R Rahman'
+p246
+aS'chennai Mozart'
+p247
+aS'presents'
+p248
+aS'theme'
+p249
+aS'Commonwealth games&'
+p250
+asa(dp251
+g2
+S'Ambariish Uchiha'
+p252
+sg4
+(lp253
+S'RT'
+p254
+asg7
+(lp255
+S'http://is.gd/ffLOi'
+p256
+asg10
+I0
+sg13
+S'09/30/10 09:24:19'
+p257
+sg15
+S'peinrender'
+p258
+sg17
+(lp259
+sg19
+(lp260
+S'@Suraj_Venkat'
+p261
+asg22
+S'RT @Suraj_Venkat: Demand Metallica in Chennai at Eventful - http://is.gd/ffLOi'
+p262
+sg24
+(lp263
+S'Demand Metallica'
+p264
+aS'Chennai'
+p265
+aS'Eventful'
+p266
+asa(dp267
+g2
+S'Sohail'
+p268
+sg7
+(lp269
+S'http://fb.me/HUXxW6Ek'
+p270
+asg10
+I0
+sg13
+S'09/30/10 10:01:32'
+p271
+sg15
+S'sohailarora'
+p272
+sg17
+(lp273
+sg22
+S"'s first gig in Chennai @ Taj Fishermans Cove on the Beach this SUNDAY :) http://fb.me/HUXxW6Ek"
+p274
+sg24
+(lp275
+S'first gig'
+p276
+aS'Chennai @ Taj Fishermans Cove'
+p277
+aS'Beach'
+p278
+aS'SUNDAY'
+p279
+asa(dp280
+g2
+S'hari krishna'
+p281
+sg7
+(lp282
+S'http://t.co/UulDt7B'
+p283
+asg10
+I0
+sg13
+S'09/30/10 11:52:11'
+p284
+sg15
+S'hari55555'
+p285
+sg17
+(lp286
+sg19
+(lp287
+S'@youtube'
+p288
+asg22
+S'Check this video out -- Rajini - Kamal at Chennai 600028 100days function http://t.co/UulDt7B via @youtube'
+p289
+sg24
+(lp290
+S'Check'
+p291
+aS'video'
+p292
+aS'Rajini'
+p293
+aS'Kamal'
+p294
+aS'Chennai'
+p295
+aS'function'
+p296
+asa(dp297
+g2
+S'Mellissa Ferrier'
+p298
+sg7
+(lp299
+S'http://twitpic.com/2tbqnf'
+p300
+asg10
+I0
+sg13
+S'09/30/10 12:34:22'
+p301
+sg15
+S'mellolissa'
+p302
+sg17
+(lp303
+sg22
+S'Beautiful evening at the Chennai Challenger Beach Volleyball trnmt. The Dutch are winning! http://twitpic.com/2tbqnf'
+p304
+sg24
+(lp305
+S'Beautiful evening'
+p306
+aS'Chennai Challenger Beach Volleyball trnmt'
+p307
+asa(dp308
+g2
+S'Behind India'
+p309
+sg7
+(lp310
+S'http://www.behindindia.com/india-news-stories/sep-10-05/chennai-30-09-10.html'
+p311
+asg10
+I0
+sg13
+S'09/30/10 13:04:42'
+p312
+sg15
+S'behindindia'
+p313
+sg17
+(lp314
+sg22
+S"Chennai woman becomes Fortune's most powerful woman\nhttp://www.behindindia.com/india-news-stories/sep-10-05/chennai-30-09-10.html"
+p315
+sg24
+(lp316
+S'Chennai woman'
+p317
+aS'Fortune'
+p318
+aS'powerful woman'
+p319
+asa(dp320
+g2
+S'Behind India'
+p321
+sg7
+(lp322
+S'http://www.behindindia.com/india-news-stories/sep-10-05/global-30-09-10.html'
+p323
+asg10
+I0
+sg13
+S'09/30/10 13:05:21'
+p324
+sg15
+S'behindindia'
+p325
+sg17
+(lp326
+sg22
+S'One more global company comes to Chennai \nhttp://www.behindindia.com/india-news-stories/sep-10-05/global-30-09-10.html'
+p327
+sg24
+(lp328
+S'global company'
+p329
+aS'Chennai'
+p330
+asa(dp331
+g2
+S'Behind India'
+p332
+sg7
+(lp333
+S'http://www.behindindia.com/india-news-stories/sep-10-05/passenger-30-09-10.html'
+p334
+asg10
+I0
+sg13
+S'09/30/10 13:05:33'
+p335
+sg15
+S'behindindia'
+p336
+sg17
+(lp337
+sg22
+S'Passengers left behind at Chennai airport \nhttp://www.behindindia.com/india-news-stories/sep-10-05/passenger-30-09-10.html'
+p338
+sg24
+(lp339
+S'Passengers'
+p340
+aS'Chennai airport'
+p341
+asa(dp342
+g2
+S'Rajmahendra ( Raj )'
+p343
+sg7
+(lp344
+S'http://t.co/wYxWOFa'
+p345
+asg10
+I0
+sg13
+S'09/30/10 13:54:32'
+p346
+sg15
+S'rajmahendra'
+p347
+sg17
+(lp348
+sg22
+S'JavaUserGroup-Chennai: Java User Group - Chennai http://t.co/wYxWOFa'
+p349
+sg24
+(lp350
+S'JavaUserGroup-Chennai'
+p351
+aS'Java User Group'
+p352
+aS'Chennai'
+p353
+asa(dp354
+g2
+S'Johan'
+p355
+sg7
+(lp356
+S'http://www.sivajitv.com/movie-gallery/raththa-charithram-audio-launch.htm'
+p357
+asg10
+I0
+sg13
+S'09/30/10 16:41:35'
+p358
+sg15
+S'jochillz'
+p359
+sg17
+(lp360
+sg22
+S'Raktha charithraa audio launch @ chennai.., Juz a click away\nhttp://www.sivajitv.com/movie-gallery/raththa-charithram-audio-launch.htm'
+p361
+sg24
+(lp362
+S'Raktha charithraa audio launch'
+p363
+aS'chennai'
+p364
+aS'Juz'
+p365
+aS'click'
+p366
+asa(dp367
+g2
+S'nerve.in'
+p368
+sg7
+(lp369
+S'http://goo.gl/fb/yFawU'
+p370
+asg10
+I0
+sg13
+S'09/30/10 18:32:56'
+p371
+sg15
+S'nervein'
+p372
+sg17
+(lp373
+sg241
+(lp374
+S'# news'
+p375
+aS'# chennai'
+p376
+asg22
+S'An admirable verdict: Jayalalithaa http://goo.gl/fb/yFawU #news #chennai'
+p377
+sg24
+(lp378
+S'admirable verdict'
+p379
+aS'Jayalalithaa'
+p380
+asa.

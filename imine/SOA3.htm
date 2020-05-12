@@ -1,0 +1,201 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>iMine News</title>
+    <link rel="stylesheet" type="text/css" href="/stylesheets/alerts.css" />
+
+    <script src="http://www.google.com/jsapi"></script>
+	<script>    	google.load("jquery", "1.4.2");  	</script>
+    <LINK rel="shortcut icon" href="/stylesheets/favicon.ico" />
+    <style>
+#box {
+  /*width: 80%;*/
+  {% if fewpics %}
+  min-width: 200px;
+  max-width: 315px;
+  {% else %}
+  min-width: 300px;
+  max-width: 315px;
+  {% endif %}
+  background-color: white;
+  color: black;
+  font-size: 10pt;
+  line-height: 18px;
+  -webkit-box-shadow: 2px 5px 12px #555;
+  -moz-box-shadow:2px 5px 12px #555;
+  border-radius: 5px;
+  margin: auto;
+  padding: 20px;
+  margin-bottom:7px;
+  margin-right:7px;
+  float:left;
+}
+#sidebar {margin-top:6px;float:right;text-align:right;width:200px;}
+    </style>
+  </head>
+  <body class="home-page" style="margin-top: 0px;">
+    <div id="headeri">
+      <H1 style="font-weight:lighter;text-align:left;font-family: calibri,tahoma,arial,sans-serif;line-height: 20.3px;">Welcome to the iMine Project!</H1>
+      <ul id="globalnav">
+        <li>
+          <a href="/">Intro</a>
+        </li>
+        <li>
+          <a href="/apps">Explore</a>
+        </li>
+        <li>
+          <a href="/resources">Resources</a>
+        </li>
+        <li>
+          <a class="active">News</a>
+        </li>
+        <li>
+          <a href="/about">About</a>
+        </li>
+      </ul>
+    </div>
+    <noscript></noscript>
+    <!--<div id="notify-container"></div>
+    <div id="overlay-header"></div>
+    <div id="custom-header"></div>-->
+    <div class="container">
+      <!--<br class="cbt" />
+        <div id="hlogo">
+          <a href="http://imine.in">iMine</a>
+        </div> -->
+        <div id="content">
+          <div id="mainbar">
+            <div class="subheader">
+              <!--<h1 id="h-top-questions"></h1>-->
+              <div id="tabs">
+                <a class="{{select.0}}" href="/alerts1?theme=2" title="today">{{ tabtext }}</a>
+                <a class="{{select.1}}" href="/viz?db=dailysources" title="">Sources</a>
+                <a class="{{select.2}}" href="/alerts1?s=maa&theme=1" title="">Chennai</a>
+                <a class="{{select.3}}" href="/alerts1?s=sem&theme=1" title="">Tech</a>
+              </div>
+            </div>
+            <!--<span style="color:#000;text-decoration:underline;position:absolute;top:150px;left:50px;"><a href="/news">Tweets SO</a></span>
+		<span style="color:#000;text-decoration:underline;position:absolute;top:175px;left:50px;"><a href="/news1">Tweets HN</a></span>
+		<span style="color:#000;text-decoration:underline;position:absolute;top:200px;left:50px;"><a href="/alerts">Alerts v1</a></span>-->
+            <div id="question-mini-list">
+              {%if fewpics %}
+              {% for rec in data %}
+              <!--<div class="question-summary narrow" >-->
+              <div id="box" class="narrow">
+                <div onclick="window.location.href='{{rec.url}}';" class="cp">
+                  {% if rec.fb %}
+                  <div class="votes" >
+                    <div class="mini-counts">{{ rec.fb }}</div>
+                    <div>posts</div>
+                  </div>
+                  {% endif %}
+                  {% if rec.tweets %}
+                  <div class="status unanswered" >
+                    <div class="mini-counts">{{ rec.tweets }}</div>
+                    <div>tweets</div>
+                  </div>
+                  {% endif %}
+                  {% if rec.likes %}
+                  <div class="views" >
+                    <div class="mini-counts">{{ rec.likes }}</div>
+                    <div>likes</div>
+                  </div>
+                  {% endif %}
+                </div>
+                <div class="summary">
+                  <h3>
+                    <a href="{{ rec.url }}" class="question-hyperlink" title="{{rec.domain}}">{{ rec.title }}</a>
+                  </h3>
+                  {{ rec.tbody }}
+                  <!--<div class="tags">
+                    {% for tag in rec.tags %}
+                    <a href="/alerts1/{{ tag }}" class="post-tag" title="show tweets tagged &#39;{{tag}}&#39;" rel="tag">{{tag}}</a>
+                    {% endfor %}
+                  </div>-->
+                  <div style="float:right;">
+                    <span class="relativetime" style="color:black;font-weight: bold;">{{rec.pub|date:"D, j M y P"}}</span>
+
+                    <a href="/alerts1/sources/{{rec.domain}}" style="font-family: 'Georgia', Times, serif;">
+                    	{{rec.domain}}</a>
+                    <!--<span class="reputation-score" title="reputation score">483</span>-->
+                  </div>
+                </div>
+              </div>
+              {% endfor %}
+              {% endif %}
+            </div>
+            <h3 style="clear:both;">
+              <a href="{{yday}}">More</a>...
+            </h2>
+          </div>
+          <div id="sidebar" >
+          	<div class="module" >
+          		<h2 id="h-recent-tags" style="margin-right:0.2em;font-size:1.2em;font-family:Tahoma, Verdana, Arial, Helvetica, sans-serif; letter-spacing:-1px;font-weight:normal;margin-top:3px;padding-bottom:0px">Tags</h4>
+          		<div id="recent-tags-list">
+					{% for tag in fdtags %}
+					<!--<a href="/alerts1/{{ tag.0 }}" class="badge-tag" title="show tweets tagged &#39;{{tag.0}}&#39;" rel="tag">{{tag.0}}</a>
+					<span class="item-multiplier">x </span>-->
+					<div style="margin-bottom:0.4em;margin-right:0.2em;">
+					<a href="/alerts1/{{ tag.0 }}" style="color:#0066cc;text-decoration:none;border-bottom:medium-none;" title="show tweets tagged &#39;{{tag.0}}&#39;" rel="tag">{{tag.0}}</a>
+					<span style="color:black;">({{ tag.1 }})</span>
+					</div>
+					{% endfor %}
+	            </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    <div id="footer">
+      <div class="footerwrap">
+        <div id="footer-menu">
+          <a href="/about">about</a> |
+          <a href="/apps">apps</a> |
+          <a href="http://profiles.google.com/sharunsanthosh">blog</a> |
+          <a href="/resources">links</a> |
+          <b>
+            <a href="mailto:sharun@imine.in">feedback</a>
+          </b>
+        </div>
+        <div id="copyright">
+        </div>
+      </div>
+    </div>
+
+    <script>
+    var c,it;
+
+    function addp(loc, cnt){
+	$.getJSON("http://api.flickr.com/services/feeds/photos_public.gne?tags="+loc+"&tagmode=any&format=json&jsoncallback=?",
+				function(data){
+					$.each(data.items, function(i,item){
+
+						{% if fewpics %}
+							//$("<span/>").html(item.title).appendTo("#images");
+							//$("<div/>").html(item.tags).appendTo("#images");
+							//$("<img/>").attr("src", item.media.m).appendTo("#images");
+							$("<div id='box' class='narrow'/>").html(item.description).insertAfter(c[Math.ceil(Math.random()*c.length)]);
+							//$("<div/>").html($("<img/>").attr("src", item.media.m)).appendTo("#images");
+						{% else %}
+							$("<div id='box' class='narrow'/>").html(item.description).appendTo("#question-mini-list");
+                  		{% endif %}
+
+
+						it = item.description;
+						if ( i == cnt ) return false;
+				});
+			});
+
+	}
+    $(document).ready(function(){
+    		c=$("#question-mini-list").children();
+			var names=["mylapore","besant%20nagar","adyar","madras","guindy","saidapet","velachery","Kotturpuram","Santhome","Thiruvanmiyur","Alwarpet","Kodambakkam","Taramani","Teynampet","Perungudi","Mandaveli","T%20Nagar"];
+			addp(names[Math.ceil(Math.random()*names.length)], 1);
+			addp(names[Math.ceil(Math.random()*names.length)], 2);
+			addp(names[Math.ceil(Math.random()*names.length)], 1);
+			addp(names[Math.ceil(Math.random()*names.length)], 2);
+			addp("chennai", 4);
+	});
+    </script>
+  </body>
+</HTML>

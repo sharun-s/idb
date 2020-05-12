@@ -1,0 +1,108 @@
+BODY {
+	FONT-FAMILY: Verdana; COLOR: #828282; FONT-SIZE: 10pt
+}
+TD {
+	FONT-FAMILY: Verdana; COLOR: #828282; FONT-SIZE: 10pt
+}
+.admin TD {
+	FONT-FAMILY: Verdana; COLOR: #000000; FONT-SIZE: 8.5pt
+}
+.subtext TD {
+	FONT-FAMILY: Verdana; COLOR: #828282; FONT-SIZE: 7pt
+}
+INPUT {
+	FONT-FAMILY: Courier; COLOR: #000000; FONT-SIZE: 10pt
+}
+INPUT[type="submit"] {
+	FONT-FAMILY: Verdana
+}
+TEXTAREA {
+	FONT-FAMILY: Courier; COLOR: #000000; FONT-SIZE: 10pt
+}
+A:link {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #828282; TEXT-DECORATION: none
+}
+.default {
+	FONT-FAMILY: Verdana; COLOR: #828282; FONT-SIZE: 10pt
+}
+.admin {
+	FONT-FAMILY: Verdana; COLOR: #000000; FONT-SIZE: 8.5pt
+}
+.title {
+	FONT-FAMILY: Verdana; COLOR: #828282; FONT-SIZE: 10pt
+}
+.adtitle {
+	FONT-FAMILY: Verdana; COLOR: #828282; FONT-SIZE: 9pt
+}
+.subtext {
+	FONT-FAMILY: Verdana; COLOR: #828282; FONT-SIZE: 7pt
+}
+.yclinks {
+	FONT-FAMILY: Verdana; COLOR: #828282; FONT-SIZE: 8pt
+}
+.pagetop {
+	FONT-FAMILY: Verdana; COLOR: #222222; FONT-SIZE: 10pt
+}
+.comhead {
+	FONT-FAMILY: Verdana; COLOR: #828282; FONT-SIZE: 8pt
+}
+.comment {
+	FONT-FAMILY: Verdana; FONT-SIZE: 9pt
+}
+.dead {
+	FONT-FAMILY: Verdana; COLOR: #dddddd; FONT-SIZE: 9pt
+}
+.comment A:link {
+	TEXT-DECORATION: underline
+}
+.comment A:visited {
+	TEXT-DECORATION: underline
+}
+.dead A:link {
+	COLOR: #dddddd
+}
+.dead A:visited {
+	COLOR: #dddddd
+}
+.pagetop A:visited {
+	COLOR: #000000
+}
+.topsel A:link {
+	COLOR: #ffffff
+}
+.topsel A:visited {
+	COLOR: #ffffff
+}
+.subtext A:link {
+	COLOR: #828282
+}
+.subtext A:visited {
+	COLOR: #828282
+}
+.subtext A:hover {
+	TEXT-DECORATION: underline
+}
+.comhead A:link {
+	COLOR: #828282
+}
+.subtext A:visited {
+	COLOR: #828282
+}
+.comhead A:hover {
+	TEXT-DECORATION: underline
+}
+.default P {
+	MARGIN-TOP: 8px; MARGIN-BOTTOM: 0px
+}
+.pagebreak {
+	PAGE-BREAK-BEFORE: always
+}
+PRE {
+	PADDING-BOTTOM: 2px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; MAX-WIDTH: 600px; OVERFLOW: auto; PADDING-TOP: 2px
+}
+PRE:hover {
+	OVERFLOW: auto
+}

@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Allow: /explore
+Allow: /resources
+Allow: /news
+Allow: /about
