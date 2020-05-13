@@ -1,0 +1,207 @@
+0039-00,STATE EXCISE,,,,,
+101, Country Spirits,,,,,
+AB, Licence Fees for the Sale of Distillery Spirits (Arrack Rental) [3701],,,,,
+215,"Levy, Cess, Surcharge, etc. on Taxes","63,29","51,74","51,74","56,92","0039 00 101 AB 21500"
+31,State Excise,"63,29","51,74","51,74","56,92","0039 00 101 AB 21531"
+,Total AB,"63,29","51,74","51,74","56,92"
+AG,Deduct - Refunds [3701],,,,,
+277,Deduct / Refunds,21,6,6,7,"0039 00 101 AG 27700"
+99,Others,21,6,6,7 ,"0039 00 101 AG 27799"
+,Total AG,21,6,6,7
+,Total 101,"63,50","51,80","51,80","56,99"
+102,Country fermented Liquors,,,,,
+AC,Toddy Rental [3701],,,,,
+215,"Levy, Cess, Surcharge, etc. on Taxes","12,75","9,25","9,25","10,18","0039 00 102 AC 21500"
+31,State Excise,"12,75","9,25","9,25","10,18","0039 00 102 AC 21531"
+,Total AC,"12,75","9,25","9,25","10,18"
+,Total 102,"12,75","9,25","9,25","10,18"
+103,Malt Liquor,,,,,
+AA,Duty on Beer manufactured in India [3701],,,,,
+215,"Levy, Cess, Surcharge, etc. on Taxes","240,74,36","275,79,07","275,79,07","401,36,98","0039 00 103 AA 21500"
+31,State Excise,"240,74,36","275,79,07","275,79,07","401,36,98","0039 00 103 AA 21531"
+,Total AA,"240,74,36","275,79,07","275,79,07","401,36,98"
+AB,Vend Fees [3701],,,,,
+215,"Levy, Cess, Surcharge, etc. on Taxes","18,00,58",97,97,"1,07","0039 00 103 AB 21500"
+31,State Excise,"18,00,58",97,97,"1,07","0039 00 103 AB 21531"
+,Total AB,"18,00,58",97,97,"1,07"
+AE,Licence Fee on Brewery [3701],,,,,
+215,"Levy, Cess, Surcharge, etc. on Taxes","68,58","55,30","55,30","60,83","0039 00 103 AE 21500"
+31,State Excise,"68,58","55,30","55,30","60,83","0039 00 103 AE 21531"
+,Total AE,"68,58","55,30","55,30","60,83"
+,Total 103,"259,43,52","276,35,34","276,35,34","401,98,88"
+105,Foreign Liquors and Spirits,,,,,
+AA,Duty on Wines and Spirits Manufactured in India including Medicated Wines [3701],,,,,
+215,"Levy, Cess, Surcharge, etc. on Taxes","6,014,79,43","6,376,72,71","6,376,72,71","7,025,14,48","0039 00 105 AA 21500"
+31,State Excise,"6,014,79,43","6,376,72,71","6,376,72,71","7,025,14,48","0039 00 105 AA 21531"
+,Total AA,"6,014,79,43","6,376,72,71","6,376,72,71","7,025,14,48"
+AB,Licence Fees and Privilege Fees [3701],,,,,
+215,"Levy, Cess, Surcharge, etc. on Taxes","95,09,42","73,92,00","73,92,00","81,31,20","0039 00 105 AB 21500"
+31,State Excise,"95,09,42","73,92,00","73,92,00","81,31,20","0039 00 105 AB 21531"
+,Total AB,"95,09,42","73,92,00","73,92,00","81,31,20"
+AD,Vend Fee on Foreign Liquor and Spirits [3701],,,,,
+216,Taxation Fees,"1,55,36","5,36,69","5,36,69","5,90,36","0039 00 105 AD 21600"
+32,Vend Fee,"1,55,36","5,36,69","5,36,69","5,90,36","0039 00 105 AD 21632"
+,Total AD,"1,55,36","5,36,69","5,36,69","5,90,36"
+AE,Deduct - Refunds [3701],,,,,
+277,Deduct / Refunds,"- 1,58,78","- 27,98","- 27,98","- 30,78","0039 00 105 AE 27700"
+99,Others,"- 1,58,78","- 27,98","- 27,98","- 30,78","0039 00 105 AE 27799"
+,Total AE,"- 1,58,78","- 27,98","- 27,98","- 30,78"
+AF,Import Licence (Permit) Fee on Indian Made Foreign Liquors [3701],,,,,
+215,"Levy, Cess, Surcharge, etc. on Taxes","11,06,99","13,90,98","13,90,98","18,30,08","0039 00 105 AF 21500"
+31,State Excise,"11,06,99","13,90,98","13,90,98","18,30,08","0039 00 105 AF 21531"
+,Total AF,"11,06,99","13,90,98","13,90,98","18,30,08"
+AG,"Licence Fee under Tamil Nadu Liquor Retail Vending (in shops and bars) Rules,2003 [3701]",,,,,
+215,"Levy, Cess, Surcharge, etc. on Taxes","10,39","2,06","2,27","2,27","0039 00 105 AG 21500"
+31,State Excise,"10,39","2,06","2,27","2,27","0039 00 105 AG 21531"
+,Total AG,"10,39","2,06","2,27","2,27"
+,Total AH,"Tender Amount collected under Rule 9A of Tamil Nadu Liquor retail vending (in shops and bars) Rules, 2003 [3701]",,,,
+215,"Levy, Cess, Surcharge, etc. on Taxes","305,76,73","328,20,70","328,20,70","391,02,77","0039 00 105 AH 21500"
+31,State Excise,"305,76,73","328,20,70","328,20,70","391,02,77","0039 00 105 AH 21531"
+,Total AH,"305,76,73","328,20,70","328,20,70","391,02,77"
+,Total 105,"6,426,79,54","6,797,87,16","6,797,87,37","7,521,40,38"
+106,Commercial and denatured spirits and medicated wines,,,,,
+AD,Deduct - Refunds [3701],,,,,
+277,Deduct / Refunds,"41,15",1,1,2,"0039 00 106 AD 27700"
+99,Others,"41,15",1,1,2,"0039 00 106 AD 27799"
+,Total AD,"41,15",1,1,2
+AE,Medicated Wines [3701],,,,,
+216,Taxation Fees,"10,65","12,53","12,53","13,79","0039 00 106 AE 21600"
+34,Licence Fee,"10,65","12,53","12,53","13,79","0039 00 106 AE 21634"
+,Total AE,"10,65","12,53","12,53","13,79"
+AI,Private Distilleries [3701],,,,,
+216,Taxation Fees,"1,57,34","60,14","60,14","66,16","0039 00 106 AI 21600"
+34,Licence Fee,"1,57,34","60,14","60,14","66,16","0039 00 106 AI 21634"
+,Total AI,"1,57,34","60,14","60,14","66,16"
+AJ,Tamil Nadu Denatured Spirit and Methyl Alcohol and Varnish Rules [3701],,,,,
+216,Taxation Fees,"31,24","20,25","20,25","22,28","0039 00 106 AJ 21600"
+34,Licence Fee,"31,24","20,25","20,25","22,28","0039 00 106 AJ 21634"
+,Total AJ,"31,24","20,25","20,25","22,28"
+AK,Tamil Nadu Rectified Spirit Rules [3701],,,,,
+216,Taxation Fees,"1,43,29","1,46,38","1,46,38","1,81,02","0039 00 106 AK 21600"
+34,Licence Fee,"1,43,29","1,46,38","1,46,38","1,81,02","0039 00 106 AK 21634"
+,Total AK,"1,43,29","1,46,38","1,46,38","1,81,02"
+,Total 106,"3,83,67","2,39,31","2,39,31","2,83,27"
+107,"Medicinal and Toilet Preparations containing Alcohol, Opium, etc.",,,,,
+AA,Duty on Spirits used in the manufacture of Medicines and Rectified Spirits and Absolute Alcohol used for Medical Purposes [3701],,,,,
+215,"Levy, Cess, Surcharge, etc. on Taxes","1,28","5,38,13","5,38,13","6,91,95","0039 00 107 AA 21500"
+31,State Excise,"1,28","5,38,13","5,38,13","6,91,95","0039 00 107 AA 21531"
+,Total AA,"1,28","5,38,13","5,38,13","6,91,95"
+AB,"Spirits for other Commercial, Scientific and Industrial Purposes [3701]",,,,,
+215,"Levy, Cess, Surcharge, etc. on Taxes","9,64","1,33,42","1,33,42","2,46,77","0039 00 107 AB 21500"
+31,State Excise,"9,64","1,33,42","1,33,42","2,46,77","0039 00 107 AB 21531"
+,Total AB,"9,64","1,33,42","1,33,42","2,46,77"
+AC,Duty on Asavas and Arishtas [3701],,,,,
+215,"Levy, Cess, Surcharge, etc. on Taxes",18,5,5,6,"0039 00 107 AC 21500"
+39,Duty,18,5,5,6,"0039 00 107 AC 21539"
+,Total AC,18,5,5,6
+AD,Licence Fees [3701],,,,,
+215,"Levy, Cess, Surcharge, etc. on Taxes","12,70","3,86","3,86","4,25","0039 00 107 AD 21500"
+32,Licence Fees,"12,70","3,86","3,86","4,25","0039 00 107 AD 21532"
+,Total AD,"12,70","3,86","3,86","4,25"
+,Total 107,"23,80","6,75,46","6,75,46","9,43,03"
+108,"Opium, Hemp and other Drugs",,,,
+AA,Opium [3701],,,,,
+215,"Levy, Cess, Surcharge, etc. on Taxes",11,...,...,...,"0039 00 108 AA 21500"
+39,Duty,11,...,...,...,"0039 00 108 AA 21539"
+216,Taxation Fees,"2,03",85,85,94,"0039 00 108 AA 21600"
+34,Licence Fee,"1,11",85,85,94,"0039 00 108 AA 21634"
+99,Others,92,...,...,...,"0039 00 108 AA 21699"
+,Total AA,"2,14",85,85,94
+AB,Deduct - Refunds [3701],,,,,
+215,"Levy, Cess, Surcharge, etc. on Taxes","7,15","4,40","4,40","4,84","0039 00 108 AB 21500"
+277,Deduct / Refunds,77,-1,-1,-2,"0039 00 108 AB 27700"
+99,Others,77,-1,-1,-2,"0039 00 108 AB 27799"
+,Total AB,"7,92","4,39","4,39","4,82"
+AC,Cost Price [3701],,,,,
+216,Taxation Fees,"1,00","4,08","4,08","4,49","0039 00 108 AC 21600"
+32,Vend Fee,"1,00","4,08","4,08","4,49","0039 00 108 AC 21632"
+,Total AC,"1,00","4,08","4,08","4,49"
+AD,Duty [3701],,,,,
+216,Taxation Fees,9,4,4,5,"0039 00 108 AD 21600"
+32,Vend Fee,9,4,4,5,"0039 00 108 AD 21632"
+,Total AD,9,4,4,5
+AE,Licence Fees for the Sale of Manufactured Drugs [3701],,,,,
+216,Taxation Fees,"1,90","3,99","3,99","4,39","0039 00 108 AE 21600"
+34,Licence Fee,"1,90","3,99","3,99","4,39","0039 00 108 AE 21634"
+,Total AE,"1,90","3,99","3,99","4,39"
+,Total 108,"13,05","13,35","13,35","14,69"
+150,Fines and Confiscations,,,,,
+AA,Fines Levied and Collected from Arrack and Toddy Shops [3701],,,,,
+215,"Levy, Cess, Surcharge, etc. on Taxes","6,60","10,60","10,60","11,66","0039 00 150 AA 21500"
+31,State Excise,"6,60","10,60","10,60","11,66","0039 00 150 AA 21531"
+,Total AA,"6,60","10,60","10,60","11,66"
+AB,Fines and sale proceeds of Confiscated Foreign Liquors and Indian Liquors [3701],,,,,
+215,"Levy, Cess, Surcharge, etc. on Taxes","1,73,72","2,88,75","2,88,75","3,17,63","0039 00 150 AB 21500"
+31,State Excise,"1,73,72","2,88,75","2,88,75","3,17,63","0039 00 150 AB 21531"
+,Total AB,"1,73,72","2,88,75","2,88,75","3,17,63"
+AC,Other Fines and Forfeitures [3701],,,,,
+215,"Levy, Cess, Surcharge, etc. on Taxes","1,38,72","2,01,63","2,01,63","2,51,80","0039 00 150 AC 21500"
+97,"Forfeiture, Seizure,","1,38,72","2,01,63","2,01,63","2,51,80","0039 00 150 AC 21597"
+,"Confiscation, etc",,,,,
+,Total AC,"1,38,72","2,01,63","2,01,63","2,51,80"
+AD,Deduct - Refunds [3701],,,,,
+277,Deduct / Refunds,10,5,5,6,"0039 00 150 AD 27700"
+99,Others,10,5,5,6,"0039 00 150 AD 27799"
+,Total AD,10,5,5,6
+AE,Receipts of loan amount recovered from the Prohibition offenders [3701],,,,,
+215,"Levy, Cess, Surcharge, etc. on Taxes","20,93","37,67","37,67","41,44","0039 00 150 AE 21500"
+31,State Excise,"20,93","37,67","37,67","41,44","0039 00 150 AE 21531"
+,Total AE,"20,93","37,67","37,67","41,44"
+,Total 150,"3,40,07","5,38,70","5,38,70","6,22,59"
+501,Services and Service Fees,,,,,
+AA,Contributions towards Leave Salary - Officers lent on Foreign Service [3701],,,,,
+215,"Levy, Cess, Surcharge, etc. on Taxes","88,89","93,94","93,94","1,03,34","0039 00 501 AA 21500"
+31,State Excise,"88,89","93,94","93,94","1,03,34","0039 00 501 AA 21531"
+,Total AA,"88,89","93,94","93,94","1,03,34"
+AB,Cost of Establishment Charges [3701],,,,,
+215,"Levy, Cess, Surcharge, etc. on Taxes","11,27,62","12,49,44","12,49,44","13,74,39","0039 00 501 AB 21500"
+31,State Excise,"11,27,62","12,49,44","12,49,44","13,74,39","0039 00 501 AB 21531"
+,Total AB,"11,27,62","12,49,44","12,49,44","13,74,39"
+AC,Payment of Administrative Service Fee [3701],,,,,
+215,"Levy, Cess, Surcharge, etc. on Taxes","8,77,10","11,77,35","11,77,35","12,95,09","0039 00 501 AC 21500"
+31,State Excise,"8,77,10","11,77,35","11,77,35","12,95,09","0039 00 501 AC 21531"
+,Total AC,"8,77,10","11,77,35","11,77,35","12,95,09"
+AD,Export Fees [3701],,,,,
+215,"Levy, Cess, Surcharge, etc. on Taxes","5,90,95","5,40,88","5,40,88","5,94,97","0039 00 501 AD 21500"
+31,State Excise,"5,90,95","5,40,88","5,40,88","5,94,97","0039 00 501 AD 21531"
+,Total AD,"5,90,95","5,40,88","5,40,88","5,94,97"
+,Total 501,"26,84,56","30,61,61","30,61,61","33,67,79"
+800,Other Receipts,,,,,
+AC,Molasses Licence Fees [3701],,,,,
+216,Taxation Fees,"96,66",...,...,...,"0039 00 800 AC 21600"
+34,Licence Fee,"96,66",...,...,...,"0039 00 800 AC 21634"
+,Total AC,"96,66",...,...,...
+AD,Miscellaneous [3701],,,,,
+215,"Levy, Cess, Surcharge, etc. on Taxes","1,20,44","1,87,64","1,87,64","2,06,41","0039 00 800 AD 21500"
+99,Others,"1,20,44","1,87,64","1,87,64","2,06,41","0039 00 800 AD 21599"
+,Total AD,"1,20,44","1,87,64","1,87,64","2,06,41"
+AE,"Fees for Permits for Personal Consumption of Liquor under Tamil Nadu Prohibition Act, 1937 [3701]",,,,,
+215,"Levy, Cess, Surcharge, etc. on Taxes","3,37","1,19","1,19","1,31","0039 00 800 AE 21500"
+31,State Excise,"3,37","1,19","1,19","1,31","0039 00 800 AE 21531"
+,Total AE,"3,37","1,19","1,19","1,31"
+AF,"Licence Fee under the Spirituous Essences Rules, Choloro Hydrate and other Rules [3701]",,,,,
+215,"Levy, Cess, Surcharge, etc. on Taxes","1,99",82,82,91","0039 00 800 AF 21500"
+31,State Excise,"1,99",82,82,91","0039 00 800 AF 21531"
+,Total AF,"1,99",82,82,91
+AJ,Cost of Labels [3701],,,,,
+215,"Levy, Cess, Surcharge, etc. on Taxes","108,86,45","111,79,78","111,79,78","122,97,76","0039 00 800 AJ 21500"
+31,State Excise,"108,86,45","111,79,78","111,79,78","122,97,76","0039 00 800 AJ 21531"
+,Total AJ,"108,86,45","111,79,78","111,79,78","122,97,76"
+,"AN Collection of Registration,Renewal and Label fees [3701]",,,,,
+215,"Levy, Cess, Surcharge, etc. on Taxes","5,62,46","5,42,25","5,42,25","6,96,48","0039 00 800 AN 21500"
+31,State Excise,"5,62,46","5,42,25","5,42,25","6,96,48","0039 00 800 AN 21531"
+,Total AN,"5,62,46","5,42,25","5,42,25","6,96,48"
+AO,Special fees on liquor imported from other States and from other Countries [3701],,,,,
+215,"Levy, Cess, Surcharge, etc. on Taxes","24,51,22","21,10,37","21,10,37","23,21,41","0039 00 800 AO 21500"
+31,State Excise,"24,51,22","21,10,37","21,10,37","23,21,41","0039 00 800 AO 21531"
+,Total AO,"24,51,22","21,10,37","21,10,37","23,21,41"
+AQ,Licence fees for the possession and sale of molasses [3701],,,,,
+216,Taxation Fees,"13,04","13,27","13,27","14,60","0039 00 800 AQ 21600"
+34,Licence Fee,"13,04","13,27","13,27","14,60","0039 00 800 AQ 21634"
+,Total AQ,"13,04","13,27","13,27","14,60"
+AR,Licence fees for the possession and use of molasses [3701],,,,,
+216,Taxation Fees,"31,95","1,85,26","1,85,26","2,03,79","0039 00 800 AR 21600"
+34,Licence Fee,"31,95","1,85,26","1,85,26","2,03,79","0039 00 800 AR 21634"
+,Total AR,"31,95","1,85,26","1,85,26","2,03,79"
+,Total 800,"141,67,58","142,20,58","142,20,58","157,42,67"
+,Total 0039,"6,863,12,04","7,262,32,56","7,262,32,77","8,133,80,47"
