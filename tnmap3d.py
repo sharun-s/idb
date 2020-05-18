@@ -52,10 +52,11 @@ for j in alld:
 # art3d.pathpatch_2d_to_3d(pp, z=2, zdir="z")
 
 #ax.set_top_view()
+#print(window.xmin, window.xmax,window.ymin, window.ymax)
 ax.set_xlim3d(window.xmin, window.xmax) #8600000, 8800000)
 ax.set_ylim3d(window.ymin, window.ymax)#1360000, 1440000)
-ax.set_zlim3d(0, 4)
-
+ax.set_zlim3d(0, 5)
+ax.set_aspect(.85)
 #ax=l1.plot(facecolor='#0099dd',edgecolor='blue',label='TN',alpha=.78)
 e=int(sys.argv[2])
 azi=int(sys.argv[3]) or -90.
