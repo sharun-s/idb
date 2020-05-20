@@ -12,7 +12,7 @@ outfile=sys.argv[3]
 colnames=sys.argv[4].split(',')
 incFY2018=True if sys.argv[5] == 'incFY2018' else False
 
-fig = plt.figure(facecolor="#001f3f", figsize=(8.,6.))
+fig = plt.figure(facecolor="#001f3f")
 fig.suptitle(title, color="#00efde", fontsize=16)
 ax = fig.add_subplot(111, frameon=False)
 ax.set_facecolor("#002f4f")
@@ -23,7 +23,7 @@ ax.spines['right'].set_color('white')
 ax.spines['left'].set_color('white')
 ax.tick_params(axis='y', colors='#E6DB74')#FD971F')
 ax.tick_params(axis='x', colors='#E6DB74')#
-
+ax.set_ylim(-55000,16000)
 c=cycle(["#00d0ff","#ffc107",'#00ff88'])
 labels=cycle(colnames)
 
@@ -33,14 +33,14 @@ def fy2018_19():
 		tl=next(labels)
 		df[i+1].plot(ax=ax, color=fc,label='FY18 '+tl, alpha=0.2, legend=True)		
 		df[i].plot(ax=ax, color=fc,label='FY19 '+tl,legend=True)
-	if len(df) == 13:
+	#if len(df) == 13:
 		#ax.set_xticks(range(0,13))
 		#ax.set_xticklabels(['Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec', 'Jan', 'Feb', 'Mar-P', 'Mar-S'])
-		ax.set_xticks([2,5,8,11,12])
-		ax.set_xticklabels(['Jun', 'Sep', 'Dec', 'Mar-P', 'Mar-S'])
-	else:
-		ax.set_xticks([2,5,8,11])
-		ax.set_xticklabels(['Jun', 'Sep', 'Dec', 'Mar'])
+	#	ax.set_xticks([2,5,8,11,12])
+	#	ax.set_xticklabels(['Jun', 'Sep', 'Dec', 'Mar-P', 'Mar-S'])
+	#else:
+	ax.set_xticks([2,5,8,11])
+	ax.set_xticklabels(['Jun', 'Sep', 'Dec', 'Mar'])
 		#ax.set_xticks(range(0,12))
 		#ax.set_xticklabels(['Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec', 'Jan', 'Feb', 'Mar'])
 
@@ -52,7 +52,7 @@ def fy2018_19():
 	nc=4
 	if len(df.columns)%3==0:
 		nc=3
-	l=ax.legend(loc='lower left', ncol=nc, bbox_to_anchor=(-0.1, 1.01), frameon=False, facecolor='none')
+	l=ax.legend(loc='lower left', ncol=nc, bbox_to_anchor=(-0.1, .97), frameon=False, facecolor='none')
 	for text in l.get_texts():
 		text.set_color("#efdecc")
 	#ax.set_ylim(ax.get_ylim()[::-1])
@@ -75,7 +75,7 @@ def fy2019():
 	nc=4
 	if len(df.columns)%3==0:
 		nc=3
-	l=ax.legend(loc='lower left', ncol=nc, bbox_to_anchor=(.2, 1.01), frameon=False, facecolor='none')
+	l=ax.legend(loc='lower left', ncol=nc, bbox_to_anchor=(.2, .97), frameon=False, facecolor='none')
 	for text in l.get_texts():
 		text.set_color("#efdecc")
 	fig.savefig(r'data/cag/viz/'+outfile,format='png',facecolor=fig.get_facecolor())
