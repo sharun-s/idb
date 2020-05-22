@@ -6,11 +6,19 @@ import pandas as p
 fname=sys.argv[1]
 pg=sys.argv[2]
 startrow=int(sys.argv[3]) 
+outfile=sys.argv[4]
+endrow=-1 if len(sys.argv) <=5 else int(sys.argv[5])
+col=3 if len(sys.argv) <=6 else int(sys.argv[6])
+
+print(startrow,endrow,col)
+
 tables=camelot.read_pdf(fname,pages=pg)
 
-result=tables[0].df.iloc[startrow:][3].apply(lambda x:atof(x) if x else None)
-print(result)
-p.DataFrame(result).T.to_csv(sys.argv[4],mode='a',header=False,index=False)
+result=tables[0].df.iloc[startrow:endrow][col]
+p.DataFrame(result.str.replace('\n',',')).T.to_csv(outfile,mode='a',header=False,index=False)
+#result=tables[0].df.iloc[startrow:endrow][col].apply(lambda x:atof(x) if x else None)
+#print(result)
+#p.DataFrame(result).T.to_csv(outfile,mode='a',header=False,index=False)
 
 # merge=[]
 # for i in range(0,len(tables)):
