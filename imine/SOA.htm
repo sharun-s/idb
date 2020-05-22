@@ -1,0 +1,586 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="description" content="Curating Indian news stories">
+    <title>iMine News</title>
+    <link rel="shortcut icon" href="/stylesheets/favicon.ico" />
+    <script type="text/javascript" src="//use.typekit.net/ogh3yqh.js"></script>
+    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+    <script type="text/javascript" src="/stylesheets/jquery-1.3.2.js"></script>
+    <!--<link href='http://fonts.googleapis.com/css?family=Short+Stack' rel='stylesheet' type='text/css'>-->
+    <style>
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+    background: none repeat scroll 0 0 transparent;
+    border: 0 none;
+    font-size: 100%;
+    margin: 0;
+    padding: 0;
+    vertical-align: baseline;
+}
+body {
+    font-family: Helvetica,Arial,sans-serif;
+    font-size: 80%;
+    margin: 0;
+    padding: 0;
+}
+a {
+    color: #0077CC;
+    cursor: pointer;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+.colmask {
+    clear: both;
+    float: left;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+}
+.colright {
+    float: left;
+    position: relative;
+    width: 100%;
+}
+.colmid {
+    float: left;
+    position: relative;
+    width: 100%;
+}
+.colleft {
+    float: left;
+    position: relative;
+    width: 100%;
+}
+.col1 {
+    float: left;
+    overflow: hidden;
+    padding: 0 0 1em;
+    position: relative;
+}
+.col2 {
+    float: left;
+    overflow: hidden;
+    padding: 0 0 1em 5px;
+    position: relative;
+}
+.rightmenu {
+    background: none repeat scroll 0 0 #FFFFFF;
+}
+.rightmenu .colleft {
+    background: none repeat scroll 0 0 #FFFFFF;
+    right: 25%;
+}
+.rightmenu .col1 {
+    left: 27%;
+    width: 71%;
+}
+.rightmenu .col2 {
+    left: 31%;
+    width: 21%;
+}
+#footer {
+    background: none repeat scroll 0 0 #EEEEEE;
+    border-top: 3px solid #000000;
+    clear: both;
+    margin-top: 30px;
+    padding: 8px;
+}
+#footer-menu {
+    float: left;
+    font-size: 85%;
+    line-height: 30px;
+}
+#footer-menu a {
+    color: #000000;
+}
+#copyright {
+    clear: both;
+}
+.views {
+    color: #999999;
+    padding-top: 4px;
+    text-align: center;
+}
+.narrow .views {
+    float: left;
+    height: 31px;
+    margin: 0 7px 0 0;
+    padding: 5px 0 5px 4px;
+    width: 40px;
+}
+.mini-counts {
+    font-family: "adelle";
+    font-size: 20px;
+    /*font-weight: bold;*/
+    height: 20px;
+}
+.post-tag {
+    background-color: #E0EAF1;
+    border-bottom: 1px solid #3E6D8E;
+    border-right: 1px solid #7F9FB6;
+    color: #3E6D8E;
+    font-size: 90%;
+    line-height: 2.4;
+    margin: 2px 2px 2px 0;
+    padding: 3px 4px;
+    text-decoration: none;
+    white-space: nowrap;
+}
+.post-tag:hover {
+    background-color: #3E6D8E;
+    border-bottom: 1px solid #37607D;
+    border-right: 1px solid #37607D;
+    color: #E0EAF1;
+    text-decoration: none;
+}
+.badge, .badge-tag {
+    -moz-border-radius: 6px 6px 6px 6px;
+    background-color: #333333;
+    border: 1px solid #333333;
+    color: #FFFFFF !important;
+    display: inline-block;
+    line-height: 1.4;
+    margin: 0 3px 3px 0;
+    padding: 0 6px 0 3px;
+    text-decoration: none;
+}
+.badge:hover, .badge-tag:hover {
+    background-color: #555555;
+    border: 1px solid #555555;
+    text-decoration: none;
+}
+.badge-tag:hover {
+    border: 2px solid #555555;
+    color: #FFFFFF !important;
+}
+.badge-tag {
+    background-color: #EEEEEE;
+    border: 2px solid #333333;
+    color: #333333 !important;
+}
+.started {
+    font-weight: normal;
+    font-size:90%;
+    text-align: right;
+}
+.started a {
+    color: #ff0000;
+}
+#tabs a {
+    border-top-right-radius: 4px;
+	border-top-left-radius: 4px;
+    -webkit-border-top-right-radius: 4px;
+    -webkit-border-top-left-radius: 4px;
+    -moz-border-radius-topright: 4px;
+    -moz-border-radius-topleft: 4px;
+    -o-border-radius: 4px;
+    -khtml-border-top-right-radius: 4px;
+    -khtml-border-top-left-radius: 4px;
+}
+#tabs {
+    float: right;
+    font-weight: bold;
+}
+#tabs a {
+    background: none repeat scroll 0 0 white;
+    border-color: #000000 #000000 #FFFFFF;
+    border-style: solid;
+    border-width: 1px;
+    color: #777777;
+    display: block;
+    float: left;
+    font-size: 90%;
+    height: 24px;
+    line-height: 22px;
+    margin: 8px 0 0 0;
+    padding: 0 11px;
+    text-decoration: none;
+}
+#tabs a:hover {
+    background: none repeat scroll 0 0 #000000;
+    border-color: #777777 #777777 #000000;
+    border-style: solid;
+    border-width: 1px;
+    color: white;
+    line-height: 20px;
+    margin-top: 9px;
+}
+#tabs a.youarehere {
+    background: none repeat scroll 0 0 #000000;
+    border-color: #777777 #777777 #000000;
+    border-style: solid;
+    border-width: 1px;
+    color: white;
+    font-size: 120%;
+    height: 30px;
+    line-height: 28px;
+    margin-top: 3px;
+    padding: 0 11px;
+}
+.post-tag {
+    background-color: #0088CC;
+    color: white;
+}
+.summary {
+    line-height: 1.4;
+}
+#question-mini-list {
+    margin-top: 5px;
+}
+.subheader {
+    -moz-box-shadow: 0 1px #555555;
+    border-bottom: 1px solid #666666;
+    clear: both;
+    height: 34px;
+}
+#headeri {
+    background: none repeat scroll 0 0 #E0E0E7;
+    border-bottom: 1px solid #000000;
+    color: #F5F5F5;
+    font-size: 16px;
+    height: 29px;
+}
+#headeri span {
+    -moz-border-radius-topright: 7px;
+    border-top-right-radius: 7px;
+	-webkit-border-top-right-radius: 7px;
+	-khtml-border-top-right-radius: 4px;
+    background: none repeat scroll 0 0 #000000;
+    font-family: tahoma,arial,sans-serif;
+    font-size: 20px;
+    font-weight: lighter;
+    line-height: 36px;
+    padding-left: 20px;
+    padding-right: 35px;
+    text-align: left;
+}
+#headeri a {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border-top: 1px solid;
+    color: #000000;
+    margin: 0 0 0 -5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    text-decoration: none;
+}
+#headeri a:hover {
+    background: none repeat scroll 0 0 #003366;
+    color: #FFFFFF;
+    border-top: 1px solid #000000;
+}
+#headeri a.active {
+    background: none repeat scroll 0 0 #000000;
+    border-top: 1px solid #000000;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+#headeri a.active:hover {
+    background: none repeat scroll 0 0 #000000;
+    color: #FFFFFF;
+    font-weight: bold;
+    border-top: 1px solid #000000;
+}
+#headeri a span {
+    display: block;
+}
+#box {
+    border-bottom: 1px dotted #999999;
+    //float: left;
+    line-height: 18px;
+    margin: auto auto 7px;
+
+    overflow: hidden;
+    padding: 11px 0;
+}
+.row {
+    border-left: 2px solid #e0e0e8;
+    font-size: 15px;
+    margin-right: 0.2em;
+    padding:2px;
+}
+.row a{ color: #0088cc;}
+.row .cnt{
+ -moz-border-radius: 15px 15px 15px 15px;
+    background: none repeat scroll 0 0 pink;
+    border: 2px solid red;
+    color: black;
+    font-size: 65%;
+    padding:3px;
+}
+.cnt1{color:lightgrey;}
+.cnt2{color:grey;}
+.cnt3{color:black;}
+.cnt4{color:brown;}
+.cnt5{color:orange;}
+.cnt6{color:red;}
+
+.row1 {
+    background: none repeat scroll 0 0 red;
+    font-size: 14px;
+    margin-right: 0.2em;
+}
+.row2 {
+    background: none repeat scroll 0 0 orange;
+    font-size: 14px;
+    margin-right: 0.2em;
+}
+.row3 {
+    background: none repeat scroll 0 0 yellow;
+    font-size: 14px;
+    margin-right: 0.2em;
+}
+.row4 {
+    background: none repeat scroll 0 0 lightgreen;
+    font-size: 14px;
+    margin-right: 0.2em;
+}
+.h-recent-tags {
+    font-size: 130%;
+    line-height: 1.4;
+    margin-top: 6px;
+    padding-bottom: 1px;
+    padding-right: 3px;
+    color: white;
+    background: none repeat scroll 0 0 black;
+}
+.lblue{
+    background: -webkit-linear-gradient(rgba(234, 238, 243, 0.2), #EAEEF3), -webkit-linear-gradient(left, #EAEEF3, #EAEEF3 97%, #D3D7DB)
+}
+.narrow .fb {
+    background: #EEE;
+    float: left;
+    margin: 0 3px 0 21px;
+    padding: 5px;
+    width: 38px;
+    height: 38px;
+    text-align:center;
+}
+.narrow .tweets
+{
+    float: left;
+    margin: 0 3px 0 0;
+    padding: 5px;
+    width: 38px;
+    height: 38px;
+    text-align:center;
+}
+
+    </style>
+    <script type="text/javascript">
+
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-27205246-1']);
+	  _gaq.push(['_setDomainName', 'imine.in']);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+
+</script>
+</head>
+<body class="home-page" style="margin-top: 0px;">
+    <div id="headeri">
+        <span>welcome to the iMine project!</span>
+            <!--<a href="/">Intro</a>
+            <a href="/apps">Explore</a>
+            <a href="/resources">Resources</a>!-->
+            <!--<a class="active">News</a>-->
+            <!--<a href="/about" style="border-right:solid 1px;border-top-right-radius: 4px;-webkit-border-top-right-radius: 4px;-moz-border-radius-topright: 4px;-khtml-border-top-right-radius: 4px;">About</a>-->
+    </div>
+    <noscript>
+    </noscript>
+    <!--<div id="notify-container"></div>
+    <div id="overlay-header"></div>
+    <div id="custom-header"></div>-->
+    <div class="colmask rightmenu">
+        <!--<br class="cbt" />
+        <div id="hlogo">
+          <a href="http://imine.in">iMine</a>
+        </div> -->
+        <div class="colleft">
+            <div class="col1">
+                <div class="subheader">
+                    <h1 id="h-top-questions">
+                    </h1>
+                    <div id="tabs">
+
+                        {% for ta in tabs %}
+                            <a class="{{ta.2}}" href={{ta.0}} title="{{ta.1}}">{{ta.1}}</a>
+                        {%endfor%}
+                        
+                    </div>
+                </div>
+                <!--<span style="color:#000;text-decoration:underline;position:absolute;top:150px;left:50px;"><a href="/news">Tweets SO</a></span>
+		<span style="color:#000;text-decoration:underline;position:absolute;top:175px;left:50px;"><a href="/news1">Tweets HN</a></span>
+		<span style="color:#000;text-decoration:underline;position:absolute;top:200px;left:50px;"><a href="/alerts">Alerts v1</a></span>-->
+		{% if data %}
+                <div id="question-mini-list">
+                    {% for rec in data %}
+                    {% if rec.title %}
+                    <div id="box" class="narrow">
+                        <span style="float:left; height: 100px;">
+                            {% comment %}{% if rec.fb %}{% endcomment %}
+                            {% if rec.fb or rec.tweets or rec.likes %}
+                            <div class="fb">
+                                <div class="mini-counts">{{ rec.fb|default:"-" }}</div>
+                                <div>posts</div>
+                            </div>
+                            {% comment %}{% endif %} {% if rec.tweets %}{% endcomment %}
+                            <!--<div class="tweets">
+                                <div class="mini-counts">{{ rec.tweets|default:"-" }}</div>
+                                <div>tweets</div>
+                            </div>-->
+                            {% comment %}{% endif %} {% if rec.likes %}{% endcomment %}
+                            <div class="views">
+                                <div class="mini-counts">{{ rec.likes|default:"-" }}</div>
+                                <div>likes</div>
+                            </div>
+                            {% endif %}
+                            {% comment %}{% endif %}{% endcomment %}
+                            <div style="clear:both;width:125px;cursor: pointer;word-wrap: break-word;color:Black;padding:10px;font-weight:bolder;font-size:115%;text-align:center;vertical-align:middle;" onclick="window.location.href=/alerts1/sources/{{rec.domain}}" title="click to show news only from &#39;{{rec.domain}}&#39;">
+                            {{rec.simpledomain}}
+                                <!--<a href="/alerts1/sources/{{rec.domain}}"  style="color:Black;padding:10px;" title="click to show news only from &#39;{{rec.domain}}&#39;" >{{rec.domain}}</a>-->
+                            </div>
+
+                        </span>
+                        <span style="">
+                            <h3 style="font-weight: normal;font-family: 'adelle',Arial, sans-serif;font-size: 21px;">
+                                {% ifequal rec.subject "user"  %}
+                                <span style="font-family: 'Short Stack', cursive;font-size:22px;color:#ff6c00;">{{rec.title}}</span>
+                                {% else %}
+                                <a href="{{ rec.url }}" class="question-hyperlink" style="color:black;"title="{{rec.domain}}">{{rec.title}}</a>
+                                <img src="http://{{rec.domain}}/favicon.ico" onerror="this.style.display='none'" style="position:relative; top:3px;" height="19px" width="19px"></img>
+                                {% endifequal %}
+                            </h3>
+                            <div style="line-height:30px;margin-top: 8px;">{{ rec.tbody }}</div>
+                            <div class="started">
+                                <span class="relativetime">{{rec.pub|date:"D, P, j M y"}}</span>
+                                <!--<a href="/alerts1/sources/{{rec.domain}}" title="click to show news only from &#39;{{rec.domain}}&#39;" >{{rec.domain}}</a>-->
+                                <!--<span class="reputation-score" title="reputation score">483</span>-->
+                            </div>
+                        </span>
+
+                    </div>
+                    {% endif %}
+                    {% endfor %}
+                </div>
+                <h2 class="bottom-notice">
+                    <a href="/">More</a>...
+                </h2>
+            {% else %}
+            <div id="question-mini-list"></div>
+
+            Nothing found...<a href="/">go back?</a>
+
+            {% endif %}
+            </div>
+
+            <div class="col2" style="text-align: right;">
+
+            <div class="module">
+                <div class="h-recent-tags" style="background-color:#f3606a;font-family:'adelle';">Video of the Week</div>
+                <div >
+                    <center >
+                        <a href="http://www.youtube.com/watch?v=-axQa-iT0Ds" >    
+                            <img alt="Thumbnail" src="http://i1.ytimg.com/vi/-axQa-iT0Ds/mqdefault.jpg" width="auto" >
+                        </a>
+                    </center>
+                    <div >
+                        <h3 >
+                            <a href="http://www.youtube.com/watch?v=-axQa-iT0Ds">
+                                <span style="text-align:center;">The reasonable man adapts himself to his surrounding. The unreasonable man adapts the surroundings to himself. All progress depends on the unreasonable man.</span></a>
+                        </h3>
+                        
+                    </div>
+                </div>
+            </div>
+
+            <!--<div class="module">
+				<div class="h-recent-tags">Pic of the day</div>
+			   	<div id="imagesf"></div>
+			</div>-->
+			{% if fdtags %}
+            <div class="module" >
+                <div class="h-recent-tags">Top Tags</div>
+          		<div id="recent-tags-list">
+					{% for tag in fdtags %}
+					<!--<a href="/alerts1/{{ tag.0 }}" class="badge-tag" title="show tweets tagged &#39;{{tag.0}}&#39;" rel="tag">{{tag.0}}</a>
+					<span class="item-multiplier">x </span>-->
+					<!--<div class={% cycle 'row1','row1','row1','row2','row2','row2','row2','row2','row2','row3','row3','row3','row3','row3','row4','row4','row4','row4','row4','row4','row4' %}>-->
+					<div class="row">
+					    <a href="/alerts1/{{ tag.0 }}" style="text-decoration:none;" title="show news tagged &#39;{{tag.0}}&#39;" rel="tag">{{tag.0}}</a>
+					    <!--<span class="cnt">{{ tag.1 }}</span>-->
+					    <span class={% cycle 'cnt6','cnt6','cnt5','cnt5','cnt5','cnt4','cnt4','cnt4','cnt4','cnt4','cnt4','cnt3','cnt3','cnt3','cnt3','cnt3','cnt3','cnt2','cnt2','cnt2','cnt2' %}>{{tag.1}}</span>
+					</div>
+					{% endfor %}
+	            </div>
+            </div>
+            {% endif %}
+            {% if fdtags.0.0 %}
+            <div class="module">
+                
+<blockquote class="twitter-tweet" lang="en"><p>Famous last words. <a href="https://twitter.com/finiterecursion">@finiterecursion</a>: &#39;Kejriwal is not even on our radar&#39; - Sheila Dixit, Nov &#39;13. <a href="http://t.co/emIxJeCon6">pic.twitter.com/emIxJeCon6</a> Via/ <a href="https://twitter.com/soniafaleiro">@soniafaleiro</a></p>&mdash; Gautam Chintamani (@GChintamani) <a href="https://twitter.com/GChintamani/statuses/409658392978784256">December 8, 2013</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+                
+            	<!-- <h4 class="h-recent-tags">{{fdtags.0.0}} </h4>
+                <iframe id="ytplayer" type="text/html" height="320"
+src="https://www.youtube.com/embed/?listType=search&list={{fdtags.0.0}}&origin=https%3A%2F%2Fimine.in"
+frameborder="0" allowfullscreen></iframe> -->
+
+							<!-- <iframe src="https://www.youtube.com/embed?listType=search&list={{fdtags.0.0}}" height="320" frameborder="0" allowfullscreen></iframe> -->
+            </div>
+            {% endif %}
+            {%if fds %}
+            <div class="module" >
+			                <div class="h-recent-tags">Top Sources</div>
+
+			          		<div id="recent-tags-list">
+								{% for source in fds %}
+								<div class="row">
+								    <a href="/alerts1/sources/{{ source.0 }}" style="text-decoration:none;" title="show news from &#39;{{source.0}}&#39;" rel="tag">{{source.0}}</a>
+								    <!--<span style="color:black;">({{ source.1 }})</span>-->
+								    <span class={% cycle 'cnt6','cnt6','cnt5','cnt5','cnt5','cnt4','cnt4','cnt4','cnt4','cnt4','cnt4','cnt3','cnt3','cnt3','cnt3','cnt3','cnt3','cnt2','cnt2','cnt2','cnt2' %}>{{source.1}}</span>
+								</div>
+								{% endfor %}
+				            </div>
+            </div>
+            {% endif %}
+            <div class="module">
+            	<!-- <div class="h-recent-tags">Latest News</div> -->
+				<!-- <iframe src="https://www.youtube.com/embed?listType=user_uploads&list=ibnlive" height="320" frameborder="0" allowfullscreen></iframe> -->
+                <!-- <iframe type="text/html" height="320"
+src="https://www.youtube.com/embed/?listType=user_uploads&list=ibnlive&origin=https%3A%2F%2Fimine.in"
+frameborder="0" allowfullscreen></iframe> -->
+            </div>
+
+            </div>
+        </div>
+    </div>
+    <div id="footer" >
+           	Thanks for visiting!&nbspFeedback most welcome at&nbsp<a style="color:black;" href="mailto:sharun@imine.in">sharun@imine.in</a>&nbsp;
+            <a href="https://plus.google.com/101560853443212199687?prsrc=3" style="text-decoration:none;">
+			<img src="//ssl.gstatic.com/images/icons/gplus-16.png" alt="Google+" style="vertical-align:middle;border:0;width:16px;height:16px;"/></a>
+    </div>
+</body>
+<script>
+/*$(document).ready(function(){
+    $.getJSON("http://api.flickr.com/services/feeds/photos_public.gne?tags={{pic}}&tagmode=any&format=json&jsoncallback=?",
+        function(data){
+          $.each(data.items, function(i,item){
+            $("<img/>").attr("src", item.media.m).appendTo("#imagesf");
+            $("#imagesf").attr("title", item.title);
+            $("#imagesf").attr("style","text-align:center;width:100%");
+            if ( i == 0 ) return false;
+          });
+        });
+  });*/
+</script>
+</html>

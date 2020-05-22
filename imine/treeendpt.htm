@@ -1,0 +1,47 @@
+<!--<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">-->
+<html>
+	<head>
+	    <title>{{ t }}</title>
+		<link type="text/css" href="/dynamic/im.css" rel="stylesheet" />
+        <link type="text/css" href="/stylesheets/pagination.css" rel="stylesheet" />
+        <!--<script src="http://www.google.com/jsapi"></script>-->
+        <script type="text/javascript" src="/stylesheets/jquery-1.3.2.js"></script>
+        <script type="text/javascript" src="/dynamic/im.js"></script>
+    </head>
+    <!--<body style="background-color:#111" >-->
+    <body>
+    	<a href="../apps" style="float:right;margin:0px;"><img alt='Home' title='Home' style='display:inline;width:32px;height:32px;margin:-2px;' src="/stylesheets/home2.png" /></a>
+    	<a href="../help" style="float:right;margin:0px;"><img alt='Help' title='Help' style='display:inline;width:32px;height:32px;margin:-2px;' src="/stylesheets/help2.png" /></a>
+    	<a href="../viz?db={{u}}" style="float:right;margin:0px;"><img alt='TreeMap' title='TreeMap' style='display:inline;width:32px;height:32px;margin:-2px;' src="/stylesheets/sq.png" /></a>
+        <div style='height:32px;font-size:20;text-align:left;font-family:Tahoma,Ariel;'>Results:</div>
+        <br style="clear:both;display:none;" />
+        <div id="ResultsHeader">
+        	<span class='resultheader'>{{p}} -</span>&nbsp;&nbsp;<span class='resultheader'>{{w}}</span>&nbsp;<button id='UnfilterButton' style='display:none;' onclick='$(\".adlist\").each(function(){$(this).show()});$(this).css({\"display\":\"none\"});'>Show All</button> <a href="/{{u}}" style="border:0px,none;" ><img id='ShowTB' style='border:0px,none;width:22px;height:22px;position:relative;top:5px;' alt='Go Back' title='Go Back' src='/stylesheets/reup.png'></a></div>
+		<div class="colmask rightmenu" >
+			<div id="filteredads" class="colleft" style="margin-top:5px;">{{h}}</div>
+		</div>
+	</body>
+	<script>
+	$(document).ready(function(){
+
+			$("#Searchresult a,#topprops a").live("mouseover", function()
+			{
+				var info=$(this).attr("title");
+
+				if( info.length < 4)
+				{
+					$("#count").html( '<span style="font-weight:bold;">'+info+'</span><span> found </span>');
+				}
+				else
+				{
+					info = info.split(" ");
+					$("#count").html( '<span style="font-weight:bold;">'+info[0]+' '+info[1]+' </span><span>'+info[2]+' '+info[3]+' '+info[4]+' '+info[5]+'</span><span style="font-weight:bold;"> '+info[6]+'</span><span> results found </span>');
+				}
+			}).live("mouseout", function()
+			{
+				$("#count").text("");
+			});
+
+		  });
+	</script>
+</html>

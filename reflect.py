@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-
 from http.server import HTTPServer, BaseHTTPRequestHandler
 from optparse import OptionParser
 
@@ -10,9 +9,7 @@ print(names[1])
 rcount=1
 
 class RequestHandler(BaseHTTPRequestHandler):
-    
-    def do_GET(self):
-        
+    def do_GET(self):        
         request_path = self.path[1:].replace('+',' ')
         self.send_response(200)
         #self.send_header("Set-Cookie", "foo=bar")

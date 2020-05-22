@@ -1,0 +1,108 @@
+<html>
+    <head>
+        <title>iMine</title>
+        <link type="text/css" href="/stylesheets/mainpg.css" rel="stylesheet" />
+    </head>
+    <body>
+        <div id="header">
+            <H1 style="font-weight:lighter;">Welcome to the iMine Project!</H1>
+            <ul>
+                <li><a href="/">Intro</a></li>
+                <li><a href="apps">Explore</a></li>
+                <li><a class="active">Resources</a></li>
+                <li><a href="alerts1">News</a></li>
+                <li><a href="about">About</a></li>
+            </ul>
+        </div>
+<!--        <div class="colmask fullpage">
+        	<div class="col1">-->
+				<p style="margin-left:1em;">Since there are two aspects to this project, understanding and exploration,
+				I am just going to divide the links up under those headings and will try to organize them as and when I can.</p>
+
+<div class="colmask doublepage">
+	<div class="colleft">
+		<div class="col1">
+
+				<h3>Understanding</h3>
+				<ul>
+				<li><a href="http://www.nltk.org/">NLTK</a> the NLP Python toolkit. The entire book is <a href="http://www.nltk.org/book">online</a> </li>
+				<LI ><A  href="http://opennlp.sourceforge.net/projects.html">OpenNLP</A></li>
+				<li><a href="http://en.wikipedia.org/wiki/Hierarchical_Temporal_Memory"> <a href="http://www.numenta.com"> Jeff Hawkins</a> ideas on how the brain works</li>
+				<li><a href="http://www.trueknowledge.com">True Knowledge</a>AI question-answering platform</li>
+				<li><a href="http://www.wolframalpha.com">Computational Knowledge Engine</a></li>
+				<li><a href="http://gazetteer.openstreetmap.org/namefinder/">OpenStreetMap</a> Geo data source</li>
+				<li><a href="http://dbpedia.org/">DBPedia</a> Makes wikipedia queryable</li>
+				<li><a href="http://ensiwiki.ensimag.fr/index.php/Obey_Liu_Using_DBpedia_for_Relation_Discovery_on_the_Semantic_Web_resultats">DBPedia example</a></li>
+				<li>
+				<a href="http://dbpedia.org/snorql/?query=SELECT+*+WHERE+%0D%0A%7B%0D%0A%7B%0D%0A%3Fsubject+skos%3Asubject+%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FCategory%3ANeighbourhoods_of_Chennai%3E+.+%0D%0A%3Fsubject+dbpedia2%3Alatd+%3Flatitude+.+%0D%0A%3Fsubject+dbpedia2%3Alongd+%3Flongitude+.+%0D%0A%7D%0D%0Aunion%0D%0A%7B%0D%0A%3Fsubject+skos%3Asubject+%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FCategory%3AChennai_suburbs%3E+.+%0D%0A%3Fsubject+dbpedia2%3Alatd+%3Flatitude+.+%0D%0A%3Fsubject+dbpedia2%3Alongd+%3Flongitude+.+%0D%0A%0D%0A%7D%0D%0A%7D%0D%0A">Using dbpdeia to query Chennai Neighbourhoods and their latitude and longitude</a></li>
+				<li><a href="http://www.freebase.com/">Freebase</a>free data</li>
+				<li><a href="http://www.programmableweb.com/apis/directory/1?sort=mashups">Programmable Web</a> THE list of APIs </li>
+				<li><a href="http://www.dapper.net/open/">Dapper</a>News API</li>
+				<li><a href="http://en.wikipedia.org/wiki/Resource_Description_Framework">RDF</a></li>
+				<li><a href="http://www.opencalais.com/">OpenCalais</a>Entity Recognition from Reuters</li>
+				<li><a href="http://alexiskold.wordpress.com/2008/05/15/the-rise-of-contextual-user-interfaces/">Contextual User Interfaces</a> by Alex Iskold of glue.com was one of the first people to write about semapps</li>
+				<li><a href="http://alexiskold.wordpress.com/2008/05/30/semantic-search-the-myth-and-reality/">Semantic Search</a>by Alex Iskold </li>
+				<li><a href="http://www.barneypell.com/">Barney Pell</a> ran Powerset before it became Bing</li>
+				<li><a href="http://plindenbaum.blogspot.com/">plindenbaum</a></li>
+				<li><a href="http://www.youtube.com/watch?v=-MFs3byASqE">Web based inference</a></li>
+				<LI ><A  href="http://ow.ly/OXRZ">Carrot2 Clustering Engine</A>
+				<LI >&nbsp;<A  href="http://www.fastcompany.com/blog/chris-dannen/techwatch/mintcom-add-data-mining">Data Mining the Mint.com</A></li>
+				<LI >&nbsp;<A  href="http://books.google.co.in/books?id=j9Sy9d4wpLAC&amp;dq=Ontology+Learning+for+the+Semantic+Web&amp;printsec=frontcover&amp;source=bl&amp;ots=N_Lv73-Ynt&amp;sig=UBR4EKaHj69fwrq-o5yG-YnIh64&amp;hl=en#v=onepage&amp;q=&amp;f=false">Ontology learning for the semantic Web - Google Books</A></li>
+				<LI >&nbsp;<A  href="http://www.cs.umass.edu/~mccallum/">Andrew McCallum</A></li>
+				<LI >&nbsp;<A  href="http://www.igvita.com/2009/09/01/collaborative-filtering-with-ensembles/">Collaborative Filtering with Ensembles</A></li>
+				<LI >&nbsp;<A  href="http://network.nature.com/people/jhendler/blog/2009/08/03/the-semantic-web-my-personal-unofficial-faq">The Semantic Web unofficial-faq</A></li>
+				<LI >&nbsp;<A  href="http://www.cdixon.org/?p=340">cdixon.org</A></li>
+				<LI >&nbsp;<A  href="http://hunch.net/">Machine Learning (Theory)</A></li>
+				<LI >&nbsp;<A  href="http://wcohen.blogspot.com/search?updated-min=2009-01-01T00%3A00%3A00-08%3A00&amp;updated-max=2010-01-01T00%3A00%3A00-08%3A00&amp;max-results=5">Cranial Darwinism.url</A></li>
+<LI >&nbsp;<A  href="http://dublincore.org/documents/dcmi-terms/">DCMI Metadata Terms</A></li>
+<LI >&nbsp;<A  href="http://www.ftitechnology.com/about/locations.aspx">FTI</A></li>
+<LI >&nbsp;<A  href="http://en.wikipedia.org/wiki/Hyperlocal">Hyperlocal</A></li>
+<LI >&nbsp;<A  href="http://datamining.typepad.com/">Data Mining Text Mining, Visualization and Social Media</A></li>
+<LI >&nbsp;<A  href="http://www.youtube.com/watch?v=-MFs3byASqE">YouTube - Web-based Inference Detection</A></li>
+				</ul>
+</div>
+<div class="col2">
+					<h3>Exploration</h3>
+					<ul>
+					<li><A  href="http://hci.stanford.edu/cs547/abstracts/08-09/090213-heer.html">Jeffery Heer History of Data Viz</li>
+					<li><A  href="http://manyeyes.alphaworks.ibm.com/manyeyes/">ManyEyes</a> from IBM and the guy behind The Map of the Market</li>
+					<li><A  href="http://www.youtube.com/watch?v=yZ52ORG89Yg"> Visual wiki</a></li>
+					<li><A  href="http://www.inference.phy.cam.ac.uk/dasher/DasherSummary.html">Dasher Zooming</li>
+					<li><A  href="http://nadeausoftware.com/node/83">Nadeau</a></li>
+					<li><A  href="http://globalvoicesonline.org/2008/10/06/japan-newsgraphy-and-hatenarmaps/">Voronoi treemaps </a></li>
+					<li><A  href="http://www.bbc.co.uk/truthaboutcrime/crimemap/">BBC's Crime map</a></li>
+					<LI ><A  href="http://searchuserinterfaces.com/book/">Search User Interfaces</A></li>
+					<LI ><A  href="http://www.insideria.com/2009/12/28-rich-data-visualization-too.html">28 Rich Data Visualization Tools</A></li>
+					<LI ><A  href="http://mashable.com/2009/12/15/linkedin-faceted-search/">Facebook Could Learn a Thing or Two From LinkedIn's Faceted Search</A></li>
+					<LI ><A  href="http://livingstories.googlelabs.com/">Google News Living Stories</A></li>
+					<LI ><A  href="http://www.webdesignerdepot.com/2009/06/50-great-examples-of-data-visualization/">50 Great Examples of Data Visualization Webdesigner Depot</A></li>
+					<LI ><A  href="http://researchweb.watson.ibm.com/visual/projects/history_flow/">history flow</A></li>
+<LI ><A  href="http://images.businessweek.com/ss/09/08/0812_data_visualization_heroes/1.htm">The 21 Heroes of Data Visualization - BusinessWeek</A></li>
+<LI ><A  href="http://www.ggobi.org/downloads/">GGobi data visualization</A></li>
+<LI ><A  href="http://en.wikipedia.org/wiki/Exploratory_data_analysis">Exploratory data analysis</A></li>
+<LI ><A  href="http://www.semantic-conference.com/session/2069/">Executive Round Table Semantic Search</A></li>
+					</ul>
+<h3>Examples</h3>
+<ul>
+<LI ><A  href="http://www.siri.com/company">Siri - The Virtual Personal Assistant.url</A></li>
+<LI ><A  href="http://outside.in/">Outside.in local news in 57,830 neighborhoods.url</A></li>
+<LI ><A  href="http://www.imdb.com/keyword/new-york-city/">Imdb Cluster Example</A></li>
+<LI ><A  href="http://www.techcrunch.com/2009/10/21/tracked-com-launches-massive-structured-database-of-people-and-companies/">Tracked.com </A>Structured Database Of People And Companies</li>
+<LI ><A  href="http://rexa.info/">Rexa</A></li>
+<LI ><A  href="http://yeast.ml.cmu.edu/seal/?i=120#end">Boo!Wa!</A>A List Extractor for Many Languages</li>
+<LI ><A  href="http://www.inberkeley.com/">InBerkeley</A>
+<LI ><A  href="http://en.wikipedia.org/wiki/SPSS_Clementine">SPSS Clementine</A> </LI>
+<LI ><A  href="http://www.knime.org/introduction">KNIME</A></li>
+<LI ><A  href="http://www.cs.waikato.ac.nz/ml/weka/">Weka 3 </A>Data Mining with Open Source Machine Learning Software in Java</LI >
+<LI ><a href="http://swift.ushahidi.com/">Swift River</a> from Ushahidi</LI >
+<LI ><a href="http://en.wikipedia.org/wiki/Amazon_Mechanical_Turk">Amazon Mechanical Turk</a> LasS</LI >
+<LI ><a href="http://www.bbc.co.uk/blogs/researchanddevelopment/2010/03/the-mythology-engine-represent.shtml">BBC's Mythology Engine</a>
+</LI >
+</ul>
+<A href="http://docs.google.com/present/edit?id=0AYU334PPvnxNZGZnM2Nma3FfMTBncG53cGZoag&hl=en"> iMine </A>
+<A href="https://spreadsheets.google.com/viewform?hl=en&formkey=dEhPSG42SzdEeHNYX2x1VXlFRlhWc1E6MQ#gid=0">Prices</A>
+</div>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,152 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>iMine Vibes</title>
+    <link rel="stylesheet" type="text/css" href="stylesheets/all.css">
+    <link rel="stylesheet" type="text/css" href="stylesheets/senetwork.css">
+    <LINK rel="shortcut icon" href="stylesheets/favicon.ico">
+    <script type="text/javascript">
+
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-27205246-1']);
+	  _gaq.push(['_setDomainName', 'imine.in']);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+
+</script>
+    <style>
+    #headeri {
+		WIDTH: 100%; FLOAT: left; CLEAR: both;font-family: calibri,tahoma,arial,sans-serif;
+        color: #333;
+		font-size: 100%;
+        line-height: 20.3px;
+	}
+
+	#headeri {
+		BORDER-BOTTOM: #000 1px solid
+	}
+	#headeri P {
+		PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 15px; PADDING-RIGHT: 15px; PADDING-TOP: 0.4em
+	}
+	#headeri H1 {
+		PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 15px; PADDING-RIGHT: 15px; PADDING-TOP: 0.4em
+	}
+	#headeri UL {
+		PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 10px 0px 0px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; FLOAT: left; CLEAR: left; LIST-STYLE-IMAGE: none; PADDING-TOP: 0px
+	}
+	#headeri UL LI {
+		PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: inline; LIST-STYLE-IMAGE: none; PADDING-TOP: 0px;
+	}
+	#headeri UL LI A {
+		POSITION: relative; TEXT-ALIGN: center; PADDING-BOTTOM: 3px; LINE-HEIGHT: 1.3em; MARGIN: 0px 0px 0px 1px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; DISPLAY: block; BACKGROUND: #eee; FLOAT: left; COLOR: #000; TEXT-DECORATION: none; PADDING-TOP: 3px; LEFT: 15px;
+		font-size: medium;
+	}
+	#headeri UL LI A:hover {
+		BACKGROUND: #369; COLOR: #fff;
+	}
+	#headeri UL LI A.active {
+		BACKGROUND: #000; COLOR: #fff; FONT-WEIGHT: bold;
+	}
+	#headeri UL LI A.active:hover {
+		BACKGROUND: #000; COLOR: #fff; FONT-WEIGHT: bold;
+	}
+	#headeri UL LI A SPAN {
+		DISPLAY: block
+}
+    </style>
+</head>
+<body class="home-page" style="margin-top: 0px; ">
+    <div id="headeri">
+            <H1 style="font-weight:lighter;text-align:left;font-size:xx-large;font-family: calibri,tahoma,arial,sans-serif;line-height: 20.3px;">Welcome to the iMine Project!</H1>
+            <ul>
+                <li><a href="/">Intro</a></li>
+				<li><a href="apps">Explore</a></li>
+				<li><a href="resources">Resources</a></li>
+				<li><a class="active">News</a></li>
+                <li><a href="about">About</a></li>
+            </ul>
+        </div>
+    <noscript></noscript>
+    <!--<div id="notify-container"></div>
+    <div id="overlay-header"></div>
+    <div id="custom-header"></div>-->
+    <div class="container">
+        <br class="cbt">
+        <div id="hlogo">
+            <a href="http://imine.in">iMine</a>
+        </div>
+        <div id="content">
+    	<div id="mainbar" style="width:700px;">
+		<div class="subheader">
+			<h1 id="h-top-questions">Chennai - {{ day }} September 2010</h1>
+			<div id="tabs">
+				<a class="youarehere" href="" title="today">Today</a>
+				<a href="{{yday}}" title="">Yesterday</a>
+				<a href="" title="">Blocked</a>
+			</div>
+		</div>
+		<span style="color:#000;text-decoration:underline;position:absolute;top:150px;left:50px;"><a href="/news1">Tweets HN</a></span>
+		<span style="color:#000;text-decoration:underline;position:absolute;top:175px;left:50px;"><a href="/alerts">Alerts v1</a></span>
+		<span style="color:#000;text-decoration:underline;position:absolute;top:200px;left:50px;"><a href="/alerts1">Alerts v2</a></span>
+		<div id="question-mini-list">
+		{% for rec in data %}
+		<div class="question-summary narrow" id="question-summary-3760152">
+			<div onclick="window.location.href=http://www.imine.in/alerts1" class="cp">
+				<div class="votes">
+					<div class="mini-counts">{{ rec.bitly }}</div>
+					<div>click</div>
+				</div>
+				<div class="status unanswered">
+					<div class="mini-counts">{{ rec.has_r|length|add:"1" }}</div>
+					<div>tweets</div>
+				</div>
+				<!--<div class="views">
+					<div class="mini-counts">S</div>
+					<div></div>
+				</div>-->
+			</div>
+			<div >
+				<h3><a href="{{ rec.url.0 }}" class="question-hyperlink" title="{{rec.site.0}}">{{ rec.msg|slice:":100" }}...</a></h3>
+
+				<!--<div class="tags">
+					<a href="news/tagged/{{rec.phrase.0}}" class="post-tag" title="show tweets tagged &#39;{{rec.phrase.0}}&#39;" rel="tag">{{rec.phrase.0}}</a>
+					{% if rec.tag.0 %}
+					<a href="news/tagged/{{rec.tag.0}}" class="post-tag" title="show tweets tagged &#39;{{rec.tag.0}}&#39;" rel="tag">{{rec.tag.0}}</a>
+					{% endif %}
+				</div>-->
+				<div class="started">
+					<span class="relativetime">{{rec.pub}}</span>
+					<a href="http://twitter.com/{{rec.nick}}">{{rec.name}}</a> <!--<span class="reputation-score" title="reputation score">483</span>-->
+				</div>
+			</div>
+		</div>
+		{% endfor %}
+
+
+	</div>
+
+	<h2 class="bottom-notice"><a href="{{yday}}">More</a>...</h2>
+
+    </div>
+
+    <div id="footer">
+        <div class="footerwrap">
+            <div id="footer-menu">
+                <a href="about">about</a> |
+                <a href="apps">apps</a> |
+                <a href="http://profiles.google.com/sharunsanthosh">blog</a> |
+                <a href="resources">links</a> |
+                <b><a href="mailto:sharun@imine.in">feedback is always welcome</a></b>
+            </div>
+            <div id="copyright">
+            </div>
+
+        </div>
+</div>
+
+
+</body></html>

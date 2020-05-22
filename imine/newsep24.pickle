@@ -1,0 +1,515 @@
+(lp0
+(dp1
+S'name'
+p2
+S'Rajesh Sukumaran'
+p3
+sS'forwards'
+p4
+(lp5
+S'RT'
+p6
+asS'url'
+p7
+(lp8
+S'http://bit.ly/bCPdXZ'
+p9
+asS'bitly'
+p10
+I77
+sS'long-url'
+p11
+S'http://business.rediff.com/slide-show/2010/mar/05/slide-show-1-tech-indias-hottest-it-destinations.htm'
+p12
+sS'pub'
+p13
+S'09/24/10 02:58:25'
+p14
+sS'nick'
+p15
+S'hsejar'
+p16
+sS'has_r'
+p17
+(lp18
+sS'dialog'
+p19
+(lp20
+S'@rajkrish19'
+p21
+asS'msg'
+p22
+S"RT @rajkrish19: Trivandrum is ranked as the 4th hottest IT destination in India after B'lore, H'bad, Chennai. http://bit.ly/bCPdXZ"
+p23
+sS'phrase'
+p24
+(lp25
+S'Trivandrum'
+p26
+aS'4th hottest'
+p27
+aS'destination'
+p28
+aS'India'
+p29
+aS'Chennai'
+p30
+asa(dp31
+g2
+S'iMOVIELOVER'
+p32
+sg11
+S'http://www.google.com/url?sa=X&q=http://www.indianexpress.com/news/Endhiran-trailer-released/686086/&ct=ga&cad=:s7:f1:v0:d2:i0:lt:e0:p0:t1285298047:&cd=8nN4i3FogF4&usg=AFQjCNFi8l5UdCactBh8VWur72ySVFsbmA&utm_source=twitterfeed&utm_medium=twitter'
+p33
+sg7
+(lp34
+S'http://bit.ly/cOTTIk'
+p35
+asg10
+I3
+sg13
+S'09/24/10 03:14:14'
+p36
+sg15
+S'iMOVIELOVER09'
+p37
+sg17
+(lp38
+sg22
+S"Endhiran trailer released: The movie's trailer was released at Sathyam Cinemas in Chennai by Kalanidhi Maran, Raji... http://bit.ly/cOTTIk"
+p39
+sg24
+(lp40
+S'Endhiran trailer'
+p41
+aS'movie'
+p42
+aS'trailer'
+p43
+aS'Sathyam Cinemas'
+p44
+aS'Chennai'
+p45
+aS'Kalanidhi Maran'
+p46
+aS'Raji'
+p47
+asa(dp48
+g2
+S'Chennai Super Kings'
+p49
+sg11
+S'http://www.chennaisuperkings.com/news/NewsContent.aspx?NewsID=317'
+p50
+sg7
+(lp51
+S'http://bit.ly/biIMfJ'
+p52
+asg10
+I103
+sg13
+S'09/24/10 04:24:49'
+p53
+sg15
+S'ChennaiIPL'
+p54
+sg17
+(lp55
+I492
+aI507
+asg22
+S'Durban: Apparently, the Chennai Super Kings and their captain, Mahendra Singh Dhoni believe in writing their own...\nhttp://bit.ly/biIMfJ'
+p56
+sg24
+(lp57
+S'Durban'
+p58
+aS'Chennai Super Kings'
+p59
+aS'captain'
+p60
+aS'Mahendra Singh Dhoni'
+p61
+aS'writing'
+p62
+aS'own'
+p63
+asa(dp64
+g2
+S'AsiaToday'
+p65
+sg11
+S'http://thestar.com.my/news/story.asp?file=/2010/9/24/nation/7095827&sec=nation&utm_source=twitterfeed&utm_medium=twitter'
+p66
+sg7
+(lp67
+S'http://bit.ly/9Xsf2x'
+p68
+asg10
+I3
+sg13
+S'09/24/10 05:55:24'
+p69
+sg15
+S'AsiaTodayNews'
+p70
+sg17
+(lp71
+sS'tag'
+p72
+(lp73
+S'# 8217'
+p74
+aS'# Asia'
+p75
+aS'# News'
+p76
+asg22
+S'Oh brother! Usharani&#8217;s version is now disputed: CHENNAI: Dr Kasi Viswanathan has disputed his older b... http://bit.ly/9Xsf2x - #Asia #News'
+p77
+sg24
+(lp78
+S'Usharani&'
+p79
+aS's version'
+p80
+aS'CHENNAI'
+p81
+aS'Dr Kasi Viswanathan'
+p82
+aS'older b'
+p83
+asa(dp84
+g2
+S'Samhita Soc Ventures'
+p85
+sg11
+S'http://blog.samhita.org/2010/09/banyan-shade-of-hope.html'
+p86
+sg7
+(lp87
+S'http://bit.ly/cRg3hZ'
+p88
+asg10
+I2
+sg13
+S'09/24/10 07:00:06'
+p89
+sg15
+S'samhitasocvent'
+p90
+sg17
+(lp91
+sg72
+(lp92
+S'# SocialCause'
+p93
+asg22
+S'Participate in Socially Positive and use your creative skills to promote Chennai based NGO - The Banyan http://bit.ly/cRg3hZ #SocialCause'
+p94
+sg24
+(lp95
+S'Participate'
+p96
+aS'Socially Positive'
+p97
+aS'creative skills'
+p98
+aS'Chennai'
+p99
+aS'NGO'
+p100
+aS'Banyan'
+p101
+asa(dp102
+g2
+S'Tata Nano'
+p103
+sg11
+S'http://indiaeducationdiary.in/Shownews.asp?newsid=4176'
+p104
+sg7
+(lp105
+S'http://bit.ly/aAUaLE'
+p106
+asg10
+I53
+sg13
+S'09/24/10 08:24:51'
+p107
+sg15
+S'tatanano_tweets'
+p108
+sg17
+(lp109
+sg22
+S'The book SMALL WONDER - The Making of The Nano, is launched in Chennai http://bit.ly/aAUaLE'
+p110
+sg24
+(lp111
+S'book SMALL WONDER'
+p112
+aS'Making'
+p113
+aS'Nano'
+p114
+aS'Chennai'
+p115
+asa(dp116
+g2
+S'Karthik Subramanian'
+p117
+sg4
+(lp118
+S'RT'
+p119
+asg7
+(lp120
+S'http://bit.ly/tedxsrm'
+p121
+aS'http://bit.ly/9Fqb5g'
+p122
+asg10
+I189
+sg11
+S'http://www.facebook.com/event.php?eid=136076299767289'
+p123
+sg13
+S'09/24/10 09:38:37'
+p124
+sg15
+S'yeskarthik'
+p125
+sg17
+(lp126
+I499
+asS'r'
+p127
+I499
+sg19
+(lp128
+S'@rajeevm1989'
+p129
+asg22
+S'RT @rajeevm1989: SRM University,Chennai is hosting TEDxSRM on 25th September. Check http://bit.ly/tedxsrm  and RSVP at http://bit.ly/9Fqb5g'
+p130
+sg24
+(lp131
+S'SRM'
+p132
+aS'TEDxSRM'
+p133
+aS'September'
+p134
+aS'Check'
+p135
+asa(dp136
+g2
+S'Patricia Digni'
+p137
+sg11
+S'http://www.google.com/url?sa=X&q=http://expressbuzz.com/entertainment/news/%25E2%2580%2598enthiran-rakes-in-rs-205-crores!/209683.html&ct=ga&cad=:s7:f1:v0:d2:i0:lt:e0:p0:t1285329400:&cd=MsoIiS3MifU&usg=AFQjCNHmKPmMAAxHVBtHOp2S8E-kGgn6sQ&utm_source=twitterfeed&utm_medium=twitter'
+p138
+sS'currency'
+p139
+(lp140
+S'Rs 205'
+p141
+asg7
+(lp142
+S'http://bit.ly/agfUkM'
+p143
+asg10
+I5
+sg13
+S'09/24/10 11:56:46'
+p144
+sg15
+S'price4u2'
+p145
+sg17
+(lp146
+sg22
+S"'Enthiran' rakes in Rs 205 Crores!: CHENNAI: Superstar Rajnikanth's 'Enthiran' has turned out to be the biggest fi... http://bit.ly/agfUkM"
+p147
+sg24
+(lp148
+S'rakes'
+p149
+aS'Crores'
+p150
+aS'CHENNAI'
+p151
+aS'Superstar Rajnikanth'
+p152
+aS'biggest fi'
+p153
+asa(dp154
+g2
+S'asklaila - Chennai'
+p155
+sg11
+S'http://www.asklaila.com/article/Chennai/New+Movies+in+Chennai+this+week/227789/?utm_source=twitterfeed&utm_medium=twitter'
+p156
+sg7
+(lp157
+S'http://bit.ly/a3tLqN'
+p158
+asg10
+I4
+sg13
+S'09/24/10 12:21:38'
+p159
+sg15
+S'vanakam_chennai'
+p160
+sg17
+(lp161
+I758
+asg72
+(lp162
+S'# 8211'
+p163
+aS'# 160'
+p164
+aS'# chennai'
+p165
+asg22
+S'New Movies in Chennai this week: Catch the latest flicks &#8211;&#160; Wall Street: Money Never Sleeps and Beauty And... http://bit.ly/a3tLqN #chennai'
+p166
+sg24
+(lp167
+S'New Movies'
+p168
+aS'Chennai'
+p169
+aS'week'
+p170
+aS'Catch'
+p171
+aS'latest flicks'
+p172
+aS'Wall Street'
+p173
+aS'Money Never Sleeps'
+p174
+aS'Beauty'
+p175
+asa(dp176
+g2
+S'Swine Flu Protection'
+p177
+sg11
+S'http://www.google.com/url?sa=X&q=http://timesofindia.indiatimes.com/city/chennai/Chennai-suburbs-have-to-pay-more-for-H1N1-vaccines-/articleshow/6616459.cms&ct=ga&cad=:s7:f1:v0:d2:i0:lt:e0:p0:t1285340993:&cd=MFiyCxBwsbo&usg=AFQjCNFW_93lfdTNob2K8Bu0D4hPnHKCVQ'
+p178
+sg7
+(lp179
+S'http://bit.ly/4ngDZN'
+p180
+aS'http://bit.ly/dhIG6l'
+p181
+asg10
+I2
+sg13
+S'09/24/10 15:10:09'
+p182
+sg15
+S'swine_flu_pro'
+p183
+sg17
+(lp184
+I966
+asg127
+I966
+sg22
+S'http://bit.ly/4ngDZN Chennai suburbs have to pay more for H1N1 vaccines: CHENNAI: Concerned by a spurt in H1N1 dea... http://bit.ly/dhIG6l'
+p185
+sg24
+(lp186
+S'Chennai suburbs'
+p187
+aS'H1N1 vaccines'
+p188
+aS'CHENNAI'
+p189
+aS'Concerned'
+p190
+aS'spurt'
+p191
+aS'H1N1 dea'
+p192
+asa(dp193
+g2
+S'kashyap parsaniya'
+p194
+sg11
+S'http://card.cricket.timesofindia.indiatimes.com/flashsc.cms?matchid=1100&utm_source=twitterfeed&utm_medium=twitter'
+p195
+sg7
+(lp196
+S'http://bit.ly/914g4e'
+p197
+asg10
+I3
+sg13
+S'09/24/10 15:44:15'
+p198
+sg15
+S'kshypptl'
+p199
+sg17
+(lp200
+I1027
+aI1048
+aI1049
+aI1053
+asg22
+S'Chennai skipper MS Dhoni won the toss and opted to bat against Anil Kumble-led Royal Challengers Bangalore in the ... http://bit.ly/914g4e'
+p201
+sg24
+(lp202
+S'Chennai skipper MS Dhoni'
+p203
+aS'toss'
+p204
+aS'Anil'
+p205
+aS'Kumble-led Royal Challengers Bangalore'
+p206
+asa(dp207
+g2
+S'Rediff Cricket'
+p208
+sg11
+S'http://cricket.rediff.com/report/2010/sep/24/champions-league-t20-updates-chennai-super-kings-royal-challengers-bangalore.htm'
+p209
+sg7
+(lp210
+S'http://bit.ly/b4pP7N'
+p211
+asg10
+I3
+sg13
+S'09/24/10 16:15:09'
+p212
+sg15
+S'rediffcricket'
+p213
+sg17
+(lp214
+sg22
+S'Live updates: Rain stops Chennai-Bangalore match: Live updates from the first semi-final of the Champions League T... http://bit.ly/b4pP7N'
+p215
+sg24
+(lp216
+S'Live updates'
+p217
+aS'Rain stops'
+p218
+aS'Chennai-Bangalore match'
+p219
+aS'Live updates'
+p220
+aS'Champions League T'
+p221
+asa.

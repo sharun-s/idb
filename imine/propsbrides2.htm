@@ -1,0 +1,273 @@
+<!--<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">-->
+<html>
+	<head>
+	    <title>{{ t }}</title>
+		<script type="text/javascript" src="/stylesheets/jquery-1.3.2.js"></script>
+        <script>
+        	var propselected = null;
+        	var wordselected = null;
+			var reslen = null;
+
+
+            function loadstuff(a,obj)
+            {
+            	if(propselected == null)
+					{
+						propselected=obj;
+						obj.style.borderTop='2px solid #6ca';
+						obj.style.borderLeft='2px solid #6ca';
+						obj.style.borderRight='2px solid #6ca';
+						obj.style.borderBottom='2px solid #6ca';
+						obj.style.color='white';
+						obj.style.backgroundColor='#6ca';
+						//obj.style.border='2px solid #0fc';
+					}else
+					{
+						propselected.style.border='none';
+						propselected.style.backgroundColor='white';
+						propselected.style.color='black';
+						propselected=obj;
+						obj.style.borderTop='2px solid #6ca';
+						obj.style.borderLeft='2px solid #6ca';
+						obj.style.borderRight='2px solid #6ca';
+						obj.style.borderBottom='2px solid #6ca';
+						obj.style.color='white';
+						obj.style.backgroundColor='#6ca';
+						//obj.style.border='2px solid #0fc';
+				}
+
+            	//$('#results').show();
+            	$("#ResultsHeader").html("");
+				$("#ResultsHeader").css({"display":"none"});
+            	$("#filteredads").empty();
+            	$.ajax({ url:a,
+            			 success: function(html)
+            			{
+            				$("#results").html(html);
+            				reslen = $('#results a').length;
+            				initPagination();
+            				//.animate({ backgroundColor: "#ccff99" }, 500);
+            				//$('#results a').css({'color' : '#fc3'});
+            			}
+            		   })
+            }
+            function ShowTopBar()
+            {
+            	$("#ResultsHeader").html("");
+				$("#ResultsHeader").css({"display":"none"});
+            	$("#filteredads").empty();
+            	$("#TopBar").show("slide", { direction: "up" }, 1000);
+
+            }
+			function loadads(a, obj)
+			{
+				if(wordselected == null)
+				{
+					wordselected=obj;
+					obj.style.border='2px solid #6ca';
+					obj.style.color='white';
+					obj.style.backgroundColor='#6ca';
+					//obj.style.border='2px solid #0fc';
+
+				}else
+				{
+					wordselected.style.border='2px solid white';
+					wordselected.style.color='black';
+					wordselected.style.backgroundColor='white';
+					wordselected=obj;
+					obj.style.border='2px solid #6ca';
+					obj.style.color='white';
+					obj.style.backgroundColor='#6ca';
+					//obj.style.border='2px solid #0fc';
+				}
+
+				$.ajax({ url:a,
+						 success: function(html)
+						{
+							$("#TopBar").hide();
+
+							//$("#topprops").hide("slide", { direction: "up" }, 1000);
+							//$("#Pagination").hide("slide", { direction: "up" }, 200);
+							//$("#Searchresult").hide("slide", { direction: "up" },1000);
+							$("#filteredads").html(html).show("slide", { direction: "down" }, 1000);
+							var v = $(wordselected).text();
+							var p = $(propselected).text();
+							$("#ResultsHeader").html("<span style='font-family:Verdana,Ariel,san-serif;font-size:14px'>Results for: </span><span style='font-family:Verdana,Ariel,san-serif;font-size:20px'>"+p+"</span>&nbsp;&nbsp;<span style='font-family:Verdana,Ariel,san-serif;font-size:20px'>"+v+"</span>&nbsp;<img id='ShowTB' alt='Click To Show Groups' title='Click To Show Groups' src='/stylesheets/ard.png' onclick='ShowTopBar();'> <button id='UnfilterButton' style='display:none;' onclick='$(\".adlist\").each(function(){$(this).show()});$(this).css({\"display\":\"none\"});'>Show All</button>");
+							$("#ResultsHeader").css({"display":"block"});
+
+						},
+						error: function (XMLHttpRequest, textStatus, errorThrown)
+						{
+  							alert(errorThrown);
+						}
+
+					   })
+			}
+			function markup(a)
+			{
+				b='.'+a;
+				$(b).animate({ backgroundColor: "#bbb" }, 500);
+			}
+
+			function pageselectCallback(page_index, jq)
+			{
+				var perpage_items = {{ pp }};
+				$('#Searchresult').empty();
+				var max_elem =	Math.min((page_index+1) * perpage_items, reslen);
+				for(var i=page_index*perpage_items;i<max_elem;i++)
+				{
+					var	new_content = $('#results a:eq('+i+')').clone();
+					$('#Searchresult').append(new_content);
+				}
+				return false;
+			}
+
+            /**
+             * Callback function for the AJAX content loader.
+             */
+            function initPagination() {
+                //var num_entries = $('#results a').length;
+                // Create pagination element
+                $("#Pagination").pagination(reslen, {
+                    num_edge_entries: 1,
+                    num_display_entries: 10,
+                    callback: pageselectCallback,
+                    items_per_page:{{ pp }}
+                });
+             }
+             function filterThis(obj) {
+                $("#UnfilterButton").css({"display":"inline"});
+			 	var filtertext = $(obj).text();
+			    //alert($('.adlist:contains('+filtertext+')').length);
+			    $('.adlist').each(function()
+			    			{
+			    				if ( ($(this).textContent || $(this).innerText || $(this).text() || '').toLowerCase().indexOf(filtertext.toLowerCase()) < 0)
+			    				{
+			    					$(this).hide();
+
+			    				}
+			    			});
+
+			 }
+
+        </script>
+        <script type="text/javascript" src="/stylesheets/jquery.pagination.js"></script>
+        <link type="text/css" href="/stylesheets/pagination.css" rel="stylesheet" />
+        <style type="text/css">
+            p {
+            	-moz-border-radius: 10px;
+				-webkit-border-radius: 10px;
+				border-radius: 10px;
+            }
+            .colmask {
+				POSITION: relative; WIDTH: 100%; FLOAT: left; CLEAR: both; OVERFLOW: hidden
+			}
+			.colright {
+				POSITION: relative; WIDTH: 100%; FLOAT: left
+			}
+			.colmid {
+				POSITION: relative; WIDTH: 100%; FLOAT: left
+			}
+			.colleft {
+				POSITION: relative; WIDTH: 100%; FLOAT: left
+			}
+			.col1 {
+				POSITION: relative; PADDING-BOTTOM: 1em; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FLOAT: left; OVERFLOW: hidden; PADDING-TOP: 0px
+			}
+			.col2 {
+				POSITION: relative; PADDING-BOTTOM: 1em; PADDING-LEFT: 5px; PADDING-RIGHT: 0px; FLOAT: left; OVERFLOW: hidden;
+				border-left: 2px solid #6ca;
+				PADDING-TOP: 0px
+			}
+			.col3 {
+				POSITION: relative; PADDING-BOTTOM: 1em; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FLOAT: left; OVERFLOW: hidden; PADDING-TOP: 0px
+			}
+			.fullpage .col1 {
+					width:96%;			/* page width minus left and right padding */
+					left:2%;			/* page left padding */
+				}
+
+			.rightmenu {
+				BACKGROUND: #fff;
+			}
+			.rightmenu .colleft {
+				BACKGROUND: #fff;
+				RIGHT: 25%
+			}
+			.rightmenu .col1 {
+				WIDTH: 71%; LEFT: 27%
+			}
+			.rightmenu .col2 {
+				WIDTH: 21%; LEFT: 31%
+			}
+
+        	a {
+        		margin:2px;
+        		font-family:Verdana,Ariel,san-serif;
+        	}
+        	a:link {color:#333}
+        	a:visited {color:#333;}
+
+
+        	a:hover {color:#000;background-color:#9fc;}
+
+        </style>
+    </head>
+    <!--<body style="background-color:#111" >-->
+    <body>
+        <h3 style='font-family:Tahoma,Ariel;'>{{t}}</h3>
+        <!--<div style='font-family:Verdana,Ariel;background-color:#F7F5ED;'>Click a Group to start exploring...</div>-->
+        {{ intro }}
+        <a href="help" style="float:right;margin-right:2%;color:red;">Help</a>
+		<div id="TopBar">
+			<div id="topprops" style="width:100%;">
+				<div style="height:22px;overflow:hidden;"><!--added this style cause fontweight=bold in #count was causing a relayout in chrome-->
+					<span style='font-family:Verdana,Ariel,san-serif;background-color:#9fc;color:black;'>Groups Uncovered (click to explore):</span>
+					<span id="count" style="font-family:Helvetica,Verdana,Ariel,san-serif;background-color:#99ffcc;"></span>
+				</div>
+				<div>
+				{% for prop in props %}
+					<a style='{% if color %}font-size:20;background-color:{{ prop.0 }};{% else %}font-size:{{ prop.0 }};{% endif %}text-decoration:none;text-align: center;'
+					   href='#' onclick="loadstuff('/{{u}}/{{ prop.1 }}{% if oby %}?o=1{% else %}?o=0{% endif %}&v={{v}}',this);" title='{{prop.3}} {{ prop.1|capfirst }}s with a total of {{prop.2}} results' >{{ prop.1|capfirst }}</a>
+				{% endfor %}
+				</div>
+			</div>
+			<br style="clear:both;display:none;" />
+			<div id="Pagination" class="pagination" style="border-top:2px solid #6ca;"></div>
+
+			<br style="clear:both;" />
+
+			<div id="results" style="display:none;"></div>
+			<div id="Searchresult" style="line-height:32px;" ></div>
+
+		</div>
+		<br style="clear:both;display:none;" />
+		<div id="ResultsHeader" style="display:none;"></div>
+		<div class="colmask rightmenu" >
+			<div id="filteredads" class="colleft" style="margin-top:5px;" ></div>
+		</div>
+	</body>
+	<script>
+	$(document).ready(function(){
+
+			$("#Searchresult a,#topprops a").live("mouseover", function()
+			{
+				var info=$(this).attr("title");
+
+				if( info.length < 4)
+				{
+					$("#count").html( '<span style="font-weight:bold;">'+info+'</span><span> found </span>');
+				}
+				else
+				{
+					info = info.split(" ");
+					$("#count").html( '<span style="font-weight:bold;">'+info[0]+' '+info[1]+' </span><span>'+info[2]+' '+info[3]+' '+info[4]+' '+info[5]+'</span><span style="font-weight:bold;"> '+info[6]+'</span><span> results found </span>');
+				}
+			}).live("mouseout", function()
+			{
+				$("#count").text("");
+			});
+
+		  });
+	</script>
+</html>

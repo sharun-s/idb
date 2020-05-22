@@ -1,0 +1,475 @@
+(lp0
+(dp1
+S'name'
+p2
+S'Hemant kumar'
+p3
+sS'long-url'
+p4
+S'http://m.cricinfo.com/s/2497/NewsV3?storyNo=478230&allinOne=true'
+p5
+sS'url'
+p6
+(lp7
+S'http://bit.ly/9CT3Cp'
+p8
+asS'bitly'
+p9
+I4
+sS'pub'
+p10
+S'09/22/10 04:03:27'
+p11
+sS'nick'
+p12
+S'jyoti143'
+p13
+sS'has_r'
+p14
+(lp15
+I224
+aI239
+aI285
+aI332
+aI335
+aI351
+aI524
+aI575
+asS'msg'
+p16
+S'Chennai need victory to qualify for semis http://bit.ly/9CT3Cp'
+p17
+sS'phrase'
+p18
+(lp19
+S'Chennai'
+p20
+aS'victory'
+p21
+aS'semis'
+p22
+asa(dp23
+g2
+S'Praja '
+p24
+sg4
+S'http://praja.in/en/blog/admin/2010/09/22/praja-city-chennai'
+p25
+sg6
+(lp26
+S'http://bit.ly/cIB7tT'
+p27
+asg9
+I13
+sg10
+S'09/22/10 04:23:36'
+p28
+sg12
+S'praja_bangalore'
+p29
+sg14
+(lp30
+I183
+asg16
+S'Praja for city of Chennai !! http://bit.ly/cIB7tT'
+p31
+sg18
+(lp32
+S'Praja'
+p33
+aS'city'
+p34
+aS'Chennai'
+p35
+asa(dp36
+g2
+S'smita'
+p37
+sg4
+S'http://article.wn.com/view/2010/09/22/Kumble_hopes_to_see_Chennai_in_semis/?utm_source=twitterfeed&utm_medium=twitter'
+p38
+sg6
+(lp39
+S'http://bit.ly/a40sVb'
+p40
+asg9
+I2
+sg10
+S'09/22/10 06:52:34'
+p41
+sg12
+S'smits282'
+p42
+sg14
+(lp43
+sg16
+S'Cricket Kumble hopes to see Chennai in semis: Now that his team have secured their place in the Champions League s... http://bit.ly/a40sVb'
+p44
+sg18
+(lp45
+S'Cricket Kumble'
+p46
+aS'Chennai'
+p47
+aS'semis'
+p48
+aS'team'
+p49
+aS'place'
+p50
+aS'Champions League s'
+p51
+asa(dp52
+g2
+S'Planet Fedora'
+p53
+sg4
+S'http://www.facebook.com/album.php?aid=38346&id=133359730009404'
+p54
+sg6
+(lp55
+S'http://bit.ly/c8u1yP'
+p56
+asg9
+I2
+sg10
+S'09/22/10 08:10:23'
+p57
+sg12
+S'planetfedora'
+p58
+sg14
+(lp59
+sg16
+S'Shakthi Kannan: Software Freedom Day, 2010, Chennai: \nAttended Software Freedom Day, 2010, at Chennai, on Saturday... http://bit.ly/c8u1yP'
+p60
+sg18
+(lp61
+S'Shakthi Kannan'
+p62
+aS'Software Freedom Day'
+p63
+aS'Chennai'
+p64
+aS'Attended Software Freedom Day'
+p65
+aS'Chennai'
+p66
+aS'Saturday'
+p67
+asa(dp68
+g2
+S'Digital Camera Ask'
+p69
+sg4
+S'http://www.iaskla.com/2010/09/22/where-can-i-buy-canon-digital-camera-in-chennai/'
+p70
+sg6
+(lp71
+S'http://bit.ly/bTkqp8'
+p72
+asg9
+I2
+sg10
+S'09/22/10 08:16:30'
+p73
+sg12
+S'oqfwy'
+p74
+sg14
+(lp75
+sg16
+S'Where can I buy Canon digital camera in Chennai? - http://bit.ly/bTkqp8'
+p76
+sg18
+(lp77
+S'Canon'
+p78
+aS'digital camera'
+p79
+aS'Chennai'
+p80
+asa(dp81
+g2
+S'Chordvine'
+p82
+sg4
+S'http://chordvine.com/reviews/adam-the-fish-eyed-poets-%E2%80%93-snakeism'
+p83
+sg6
+(lp84
+S'http://bit.ly/aZyHsE'
+p85
+asg9
+I2
+sg10
+S'09/22/10 11:50:22'
+p86
+sg12
+S'Chordvine'
+p87
+sg14
+(lp88
+I608
+asg16
+S'Oh. Check out our review of Snakeism by Chennai-based solo artist, Adam &amp; The Fish Eyed Poets! http://bit.ly/aZyHsE'
+p89
+sg18
+(lp90
+S'Check'
+p91
+aS'review'
+p92
+aS'Snakeism'
+p93
+aS'Chennai-based solo artist'
+p94
+aS'Adam'
+p95
+aS'The Fish Eyed Poets'
+p96
+asa(dp97
+g2
+S'Frank MacDonald'
+p98
+sg4
+S'http://www.frankmacdonald.co.uk/css-news/hi-iam-sakthi-css-developer-from-chennaiindia-slide-down-box-2.html?utm_source=twitterfeed&utm_medium=twitter'
+p99
+sg6
+(lp100
+S'http://bit.ly/apnxCW'
+p101
+asg9
+I3
+sg10
+S'09/22/10 14:16:51'
+p102
+sg12
+S'Frank_MacDonald'
+p103
+sg14
+(lp104
+sS'tag'
+p105
+(lp106
+S'# 8230'
+p107
+asg16
+S'Hi Iam Sakthi, CSS Developer from Chennai,India: Slide Down Box &#8230;: Slide Down Box Menu with jQuery and CSS3. The i... http://bit.ly/apnxCW'
+p108
+sg18
+(lp109
+S'Hi Iam Sakthi'
+p110
+aS'CSS Developer'
+p111
+aS'Chennai,India'
+p112
+aS'Slide Down Box'
+p113
+aS'Slide Down Box Menu'
+p114
+aS'jQuery'
+p115
+aS'CSS3'
+p116
+asa(dp117
+g2
+S'shavetharan '
+p118
+sg4
+S'http://m.cricinfo.com/s/2497/NewsV3?storyNo=478339&allinOne=true'
+p119
+sg6
+(lp120
+S'http://bit.ly/avGsDg'
+p121
+asg9
+I2
+sg10
+S'09/22/10 18:53:18'
+p122
+sg12
+S'ststharan'
+p123
+sg14
+(lp124
+I1121
+aI1297
+aI1345
+aI1364
+asg16
+S'Chennai beat Warriors, both qualify http://bit.ly/avGsDg'
+p125
+sg18
+(lp126
+S'Chennai'
+p127
+aS'Warriors'
+p128
+aS'qualify'
+p129
+asa(dp130
+g2
+S'The Hindu'
+p131
+sg4
+S'http://www.thehindu.com/sport/cricket/article777504.ece'
+p132
+sg6
+(lp133
+S'http://bit.ly/carVty'
+p134
+asg9
+I15
+sg10
+S'09/22/10 19:06:50'
+p135
+sg12
+S'Thehindu'
+p136
+sg14
+(lp137
+I1127
+aI1144
+asg16
+S'Chennai Super Kings march into semifinals http://bit.ly/carVty'
+p138
+sg18
+(lp139
+S'Chennai Super Kings march'
+p140
+aS'semifinals'
+p141
+asa(dp142
+g2
+S'Chennai Super Kings'
+p143
+sg4
+S'http://www.chennaisuperkings.com/news/NewsContent.aspx?NewsID=316'
+p144
+sg6
+(lp145
+S'http://bit.ly/bxRIHH'
+p146
+asg9
+I33
+sg10
+S'09/22/10 19:42:05'
+p147
+sg12
+S'ChennaiIPL'
+p148
+sg14
+(lp149
+I1177
+aI1178
+asg16
+S'Port Elizabeth: The Chennai Super Kings yet again came from behind to snatch a 10-run win against the Warriors...\nhttp://bit.ly/bxRIHH'
+p150
+sg18
+(lp151
+S'Port Elizabeth'
+p152
+aS'Chennai Super Kings'
+p153
+aS'win'
+p154
+aS'Warriors'
+p155
+asa(dp156
+g2
+S'suhas patel'
+p157
+sg4
+S'http://timesofindia.indiatimes.com/sports/cricket/series-tournaments/clt20/top-stories/Chennai-pip-Warriors-by-10-runs-qualify-for-semis/articleshow/6609857.cms?utm_source=twitterfeed&utm_medium=twitter'
+p158
+sg6
+(lp159
+S'http://bit.ly/aO9HVQ'
+p160
+asg9
+I2
+sg10
+S'09/22/10 20:13:09'
+p161
+sg12
+S'suhas_patel'
+p162
+sg14
+(lp163
+I1210
+aI1246
+aI1248
+aI1249
+aI1251
+aI1252
+aI1255
+aI1256
+aI1257
+asg16
+S'Chennai pip Warriors, qualify for semis: Chennai Super Kings defeated Warriors by 10 runs in a crucial Group A mat... http://bit.ly/aO9HVQ'
+p164
+sg18
+(lp165
+S'Chennai pip Warriors'
+p166
+aS'qualify'
+p167
+aS'semis'
+p168
+aS'Chennai Super Kings'
+p169
+aS'Warriors'
+p170
+aS'runs'
+p171
+aS'crucial Group'
+p172
+aS'mat'
+p173
+asa(dp174
+g2
+S'Balaji Lakshmanan'
+p175
+sg4
+S'http://www.facebook.com/album.php?aid=289690&id=626950259&l=4dd8b09be1'
+p176
+sg6
+(lp177
+S'http://bit.ly/cKlqVU'
+p178
+asg9
+I7
+sg10
+S'09/22/10 21:49:16'
+p179
+sg12
+S'balajil'
+p180
+sg14
+(lp181
+sg105
+(lp182
+S'# robssn'
+p183
+asg16
+S'Making robots n controlling it from computer. workshop at SSN engg college, chennai, India. Receptive students http://bit.ly/cKlqVU #robssn'
+p184
+sg18
+(lp185
+S'robots n'
+p186
+aS'computer'
+p187
+aS'workshop'
+p188
+aS'SSN engg college'
+p189
+aS'chennai'
+p190
+aS'India'
+p191
+aS'Receptive students'
+p192
+asa.

@@ -1,0 +1,535 @@
+(lp0
+(dp1
+S'name'
+p2
+S'Tushar khan tk'
+p3
+sS'long-url'
+p4
+S'http://m.cricinfo.com/s/2497/NewsV3?storyNo=478339&allinOne=true'
+p5
+sS'url'
+p6
+(lp7
+S'http://bit.ly/avGsDg'
+p8
+asS'bitly'
+p9
+I5
+sS'pub'
+p10
+S'09/23/10 00:09:20'
+p11
+sS'nick'
+p12
+S'Tk_shadow'
+p13
+sS'has_r'
+p14
+(lp15
+I4
+aI8
+aI12
+aI17
+aI44
+aI51
+aI62
+aI66
+aI67
+aI68
+aI98
+aI133
+aI153
+aI180
+aI199
+aI214
+aI222
+aI224
+aI251
+aI252
+aI465
+aI504
+aI811
+aI829
+aI959
+aI999
+asS'msg'
+p16
+S'Chennai beat Warriors, both qualify http://bit.ly/avGsDg'
+p17
+sS'phrase'
+p18
+(lp19
+S'Chennai'
+p20
+aS'Warriors'
+p21
+aS'qualify'
+p22
+asa(dp23
+g2
+S'Inetgate Writer'
+p24
+sg4
+S'http://www.google.com/url?sa=X&q=http://expressbuzz.com/cities/chennai/it-professional-dies-of-swine-flu/209269.html&ct=ga&cad=:s1:f1:v0:d2:i0:lt:e0:p0:t1285210618:&cd=bIWtJ1dbK9w&usg=AFQjCNHxLJkp8mpHv3CPuHE4Ig4s7oiY3g'
+p25
+sg6
+(lp26
+S'http://bit.ly/9uWTEY'
+p27
+asg9
+I2
+sg10
+S'09/23/10 02:57:03'
+p28
+sg12
+S'trackswineflu'
+p29
+sg14
+(lp30
+sg16
+S'[News] IT professional dies of swine flu: CHENNAI: A 40-year-old IT professional died of swine flu on Wednesday at... http://bit.ly/9uWTEY'
+p31
+sg18
+(lp32
+S'[ News'
+p33
+aS'professional dies'
+p34
+aS'swine flu'
+p35
+aS'CHENNAI'
+p36
+aS'swine flu'
+p37
+aS'Wednesday'
+p38
+asa(dp39
+g2
+S'Deepan rajKumar'
+p40
+sg4
+S'http://www.deepanrajkumar.com/blog/?p=68'
+p41
+sg6
+(lp42
+S'http://bit.ly/asHT7f'
+p43
+asg9
+I4
+sg10
+S'09/23/10 05:06:00'
+p44
+sg12
+S'princedeepan'
+p45
+sg14
+(lp46
+sS'dialog'
+p47
+(lp48
+S'@AddToAny'
+p49
+asg16
+S'Bus and Train routes of Chennai City http://bit.ly/asHT7f via @AddToAny'
+p50
+sg18
+(lp51
+S'Bus'
+p52
+aS'Train'
+p53
+aS'Chennai City'
+p54
+asa(dp55
+g2
+S'Galatta Cinema Mag'
+p56
+sg4
+S'http://tamil.galatta.com/entertainment/livewire/rss/1/id/Rajinikanth_film_festival_in_Chennai_42399.html'
+p57
+sg6
+(lp58
+S'http://bit.ly/c5cr58'
+p59
+asg9
+I2
+sg10
+S'09/23/10 08:32:59'
+p60
+sg12
+S'galattacinema'
+p61
+sg14
+(lp62
+sg16
+S'Tamil: Rajinikanth film festival in Chennai http://bit.ly/c5cr58'
+p63
+sg18
+(lp64
+S'Tamil'
+p65
+aS'Rajinikanth film festival'
+p66
+aS'Chennai'
+p67
+asa(dp68
+g2
+S'Rishi Raj'
+p69
+sg4
+S'http://www.wordtweeting.com/attend-live-chat-with-ms-dhoni-on-facebook/'
+p70
+sg6
+(lp71
+S'http://bit.ly/a3CklV'
+p72
+asg9
+I6
+sg10
+S'09/23/10 08:48:05'
+p73
+sg12
+S'Rishi'
+p74
+sg14
+(lp75
+sS'tag'
+p76
+(lp77
+S'# CLT20'
+p78
+asg47
+(lp79
+S'@aclt20'
+p80
+aS'@chennaiipl'
+p81
+asg16
+S'Live Chat With Chennai Super Kings captain MS Dhoni tonight on Facebook http://bit.ly/a3CklV #CLT20 cc: @aclt20 @chennaiipl'
+p82
+sg18
+(lp83
+S'Live Chat With Chennai Super Kings captain MS Dhoni'
+p84
+aS'Facebook'
+p85
+aS'cc'
+p86
+asa(dp87
+g2
+S'JLLIndia_Realty'
+p88
+sg4
+S'http://www.vccircle.com/500/news/groffr-starts-group-buying-in-real-estate-cars-eyes-fundraising'
+p89
+sg6
+(lp90
+S'http://bit.ly/c94ttW'
+p91
+asg9
+I9
+sg10
+S'09/23/10 09:38:02'
+p92
+sg12
+S'JLLIndia_Realty'
+p93
+sg14
+(lp94
+I733
+aI738
+asg16
+S'Groffr Starts Group Buying In Real Estate, offices in Pune, Bangalore, Hyderabad, NCR &amp; Chennai http://bit.ly/c94ttW'
+p95
+sg18
+(lp96
+S'Groffr Starts Group Buying In Real Estate'
+p97
+aS'offices'
+p98
+aS'Pune'
+p99
+aS'Bangalore'
+p100
+aS'Hyderabad'
+p101
+aS'NCR'
+p102
+aS'Chennai'
+p103
+asa(dp104
+g2
+S'Dorai Thodla'
+p105
+sg4
+S'http://checkpage.infostreams.org/18c3cd7340e69cd25e84ab1df60e368a/'
+p106
+sg6
+(lp107
+S'http://chennai.usconsulate.gov/satmatinee.html'
+p108
+aS'http://bit.ly/9sJ7Mx'
+p109
+asg9
+I2
+sg10
+S'09/23/10 13:18:57'
+p110
+sg12
+S'checkpage'
+p111
+sg14
+(lp112
+sg47
+(lp113
+S'@sureshsambandam'
+p114
+asg16
+S'@sureshsambandam there is a change in http://chennai.usconsulate.gov/satmatinee.html check it out at http://bit.ly/9sJ7Mx'
+p115
+sg18
+(lp116
+S'change'
+p117
+aS'check'
+p118
+asa(dp119
+g2
+S'Sharanya Manivannan'
+p120
+sg4
+S'http://sharanyamanivannan.wordpress.com/2010/09/23/first-language-two-videos/'
+p121
+sg6
+(lp122
+S'http://bit.ly/9MVHjg'
+p123
+asg9
+I13
+sg10
+S'09/23/10 13:39:48'
+p124
+sg12
+S'ranyamanivannan'
+p125
+sg14
+(lp126
+I906
+asg76
+(lp127
+S'# video'
+p128
+aS'# reading'
+p129
+aS'# public'
+p130
+aS'# poetry'
+p131
+asg16
+S'Cyclerickshaws, autorickshaws, flowersellers, the Chennai streets and yours truly. http://bit.ly/9MVHjg #video #reading #public art #poetry'
+p132
+sg18
+(lp133
+S'Cyclerickshaws'
+p134
+aS'autorickshaws'
+p135
+aS'flowersellers'
+p136
+aS'Chennai streets'
+p137
+aS'yours'
+p138
+aS'art'
+p139
+asa(dp140
+g2
+S'Shayon Pal'
+p141
+sg4
+S'http://blog.livemint.com/livewire/2010/09/racing-and-chennai-a-bleak-future/'
+p142
+sg6
+(lp143
+S'http://bit.ly/coCIgR'
+p144
+asg9
+I2
+sg10
+S'09/23/10 14:14:18'
+p145
+sg12
+S'shayonpal'
+p146
+sg14
+(lp147
+sg16
+S'The F1 is gonna be in Delhi, and not Chennai! http://bit.ly/coCIgR'
+p148
+sg18
+(lp149
+S'F1'
+p150
+aS'na'
+p151
+aS'Delhi'
+p152
+aS'Chennai'
+p153
+asa(dp154
+g2
+S'ilisiakos Volleyball'
+p155
+sg4
+S'http://www.fivb.org/viewPressRelease.asp?No=26167&Language=en&utm_source=twitterfeed&utm_medium=twitter'
+p156
+sg6
+(lp157
+S'http://bit.ly/bcnits'
+p158
+asg9
+I3
+sg10
+S'09/23/10 14:38:24'
+p159
+sg12
+S'iliVball'
+p160
+sg14
+(lp161
+I966
+aI975
+aI977
+asg76
+(lp162
+S'# FIVB'
+p163
+aS'# 8211'
+p164
+aS'# volleyball'
+p165
+asg16
+S'#FIVB press: Chennai set to stage Challenger event: Chennai, India, September 23, 2010 &#8211; The FIVB BNSL ... http://bit.ly/bcnits #volleyball'
+p166
+sg18
+(lp167
+S'press'
+p168
+aS'Chennai'
+p169
+aS'stage Challenger event'
+p170
+aS'Chennai'
+p171
+aS'India'
+p172
+aS'September'
+p173
+aS'FIVB BNSL'
+p174
+asa(dp175
+g2
+S'BollySpice.com'
+p176
+sg4
+S'http://www.bollyspice.com/view.php/5614-rahman-and-abbas-tyrewala-working-hard-in-chennai.html'
+p177
+sg6
+(lp178
+S'http://bit.ly/8ZQrAd'
+p179
+asg9
+I11
+sg10
+S'09/23/10 16:12:10'
+p180
+sg12
+S'BollySpice'
+p181
+sg14
+(lp182
+sg16
+S'Rahman and Abbas Tyrewala working hard in Chennai http://bit.ly/8ZQrAd'
+p183
+sg18
+(lp184
+S'Rahman'
+p185
+aS'Abbas Tyrewala'
+p186
+aS'Chennai'
+p187
+asa(dp188
+g2
+S'Kweezzz'
+p189
+sg4
+S'http://www.youtube.com/watch?v=XLlel2wknog'
+p190
+sg6
+(lp191
+S'http://bit.ly/a1PrHj'
+p192
+asg9
+I93
+sg10
+S'09/23/10 16:19:27'
+p193
+sg12
+S'kweezzz'
+p194
+sg14
+(lp195
+I1066
+aI1070
+asg16
+S'Before we start (in another 10 minutes) please pay your respects to this awesome city that is chennai madras http://bit.ly/a1PrHj'
+p196
+sg18
+(lp197
+S'minutes'
+p198
+aS'please pay'
+p199
+aS'respects'
+p200
+aS'awesome city'
+p201
+asa(dp202
+g2
+S'exploreeco'
+p203
+sg4
+S'http://explore.org/photos/371/fish-chennai-india'
+p204
+sg6
+(lp205
+S'http://bit.ly/abyTUG'
+p206
+asg9
+I33
+sg10
+S'09/23/10 19:16:10'
+p207
+sg12
+S'exploreeco'
+p208
+sg14
+(lp209
+sg16
+S'PHOTO OF THE DAY: Women feeding fish in Chennai, India. http://bit.ly/abyTUG'
+p210
+sg18
+(lp211
+S'PHOTO'
+p212
+aS'THE DAY'
+p213
+aS'Women feeding fish'
+p214
+aS'Chennai'
+p215
+aS'India'
+p216
+asa.
