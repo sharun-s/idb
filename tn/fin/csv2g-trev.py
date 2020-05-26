@@ -23,7 +23,7 @@ for s in range(0,len(states)):
 master=p.concat(master, ignore_index=True, sort=False)
 master=master.rename(columns={0:'GST',1:'Stamp',2:'Land',3:'Sales',4:'Excise',5:'ShareOfUnion',6:'Other'})
 cats=['GST','Stamp','Sales','Excise','ShareOfUnion','Other']
-colors=["#ffc107","#00d0ff",'#F95733','#00ff88','#F9dc72',"#ff1122",'#A6E22E']
+colors=["#ffc107","#33ccff",'#F95733','#00ff88','#F9e792',"#ff1122",'#A6E22E']
 
 for i in range(0,len(cats)):
 	fig = plt.figure(facecolor="#001f3f")
