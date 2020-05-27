@@ -14,8 +14,8 @@ l2c={
 	'LoansGiven':'#AE81FF',
 }
 
-master=p.read_csv('data/cag/csv/tn_exp_2019.csv',comment='#')
-v=master[master['month']=='Jan'][['State']+colnames].set_index('State')
+master=p.read_csv(sys.argv[3],comment='#')
+v=master[master['month']=='Feb'][['State']+colnames].set_index('State')
 
 title=sys.argv[1]
 s=title.split()[0] # assume first word in title is state name

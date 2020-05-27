@@ -13,7 +13,8 @@ cols=[2,4] if len(sys.argv) <=6 else [int(i) for i in sys.argv[6].split(',')]
 print(startrow,endrow,cols)
 
 tables=camelot.read_pdf(fname,pages=pg)
-result=tables[0].df[cols][startrow:endrow].applymap(lambda x:atof(x) if x else None)
+tno=int(sys.argv[7]) # 0 - top table 1 bottom tabl
+result=tables[tno].df[cols][startrow:endrow].applymap(lambda x:atof(x) if x else None)
 print(result)
 p.DataFrame(result).to_csv(outfile,mode='a',header=False,index=False)
 
