@@ -3,7 +3,7 @@ import sys
 import pandas as p
 from itertools import cycle
 
-df=p.read_csv(sys.argv[1],header=None)
+df=p.read_csv(sys.argv[1],header=None,comment='#')
 if len(df) == 0:
 	sys.exit()
 
@@ -24,7 +24,7 @@ ax.spines['left'].set_color('white')
 ax.tick_params(axis='y', colors='#E6DB74')#FD971F')
 ax.tick_params(axis='x', colors='#E6DB74')#
 ax.set_ylim(-55000,16000)
-c=cycle(["#00d0ff","#ffc107",'#00ff88'])
+c=cycle(["#00d0ff","#ffc107",'#00ff88','#AE81FF','#A6E22E','#F92672'])
 labels=cycle(colnames)
 
 def fy2018_19():
