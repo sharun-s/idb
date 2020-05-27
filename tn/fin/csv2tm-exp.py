@@ -3,8 +3,19 @@ import sys,squarify
 import pandas as p
 from itertools import cycle
 
-master=p.read_csv('data/cag/csv/rev.csv',comment='#')
-v=master[master['month']=='Jan'][['State','GST','Stamp','Sales','Excise','ShareOfUnion','Other','Grants','NTR']].set_index('State')
+colnames=['Expenditure','Interest Payments','Wages','Pensions','Subsidies','CapEx','LoansGiven']
+l2c={
+	'Expenditure':"#00d0ff",
+	'Interest Payments':"#ffc107",
+	'Wages':'#00ff88',
+	'Pensions':'#22eeaa',
+	'Subsidies':'#A6E22E',
+	'CapEx':'#F92672',
+	'LoansGiven':'#AE81FF',
+}
+
+master=p.read_csv('data/cag/csv/tn_exp_2019.csv',comment='#')
+v=master[master['month']=='Jan'][['State']+colnames].set_index('State')
 
 title=sys.argv[1]
 s=title.split()[0] # assume first word in title is state name
@@ -13,18 +24,6 @@ if s=='Tamil':
 if s=='Andhra':
 	s='Andhra Pradesh'	
 outfile=sys.argv[2]
-
-colnames=['GST', 'Stamp', 'Sales', 'Excise', 'ShareOfUnion', 'Other', 'Grants','NTR']
-l2c={
-	'GST':"#00d0ff",
-	'Stamp':"#ffc107",
-	'Excise':'#00ff88',
-	'Sales':'#22eeaa',
-	'ShareOfUnion':'#A6E22E',
-	'Other':'#F92672',
-	'Grants':'red',
-	'NTR':'#AE81FF',
-}
 
 fig = plt.figure(facecolor="#001f3f")
 fig.suptitle(title, color="#00efde", fontsize=16)
