@@ -1,0 +1,66 @@
+111_BelowPovertyLine.csv:Andhra Pradesh,9.20
+111_BelowPovertyLine.csv:Karnataka,20.91
+111_BelowPovertyLine.csv:Kerala,7.05
+111_BelowPovertyLine.csv:Tamil Nadu,11.28
+112_PovertyGapRatio.csv:Andhra Pradesh,1.60,0.87
+112_PovertyGapRatio.csv:Karnataka,3.26,3.09
+112_PovertyGapRatio.csv:Kerala,1.59,0.83
+112_PovertyGapRatio.csv:Tamil Nadu,2.47,1.10
+131_HouseholdsHealthCover.csv:Andhra Pradesh,74.60
+131_HouseholdsHealthCover.csv:Karnataka,28.10
+131_HouseholdsHealthCover.csv:Kerala,47.70
+131_HouseholdsHealthCover.csv:Tamil Nadu,64.00
+131_HouseholdsHealthCover.csv:Telangana,66.40
+132_BeneficiariesOfChildDevScheme.csv:Andhra Pradesh,3359727,3300647,2972584,2919377
+132_BeneficiariesOfChildDevScheme.csv:Telangana,1993980,1903172,1820189,1900000
+132_BeneficiariesOfChildDevScheme.csv:Karnataka,4991088,4991088,5092165,4844202
+132_BeneficiariesOfChildDevScheme.csv:Kerala,1037426,888198,1006832,1119843
+132_BeneficiariesOfChildDevScheme.csv:Tamil Nadu,3107933,3115934,3059310,3172640
+133_EmploymentUnderNREGA.csv:Andhra Pradesh,87.0,93.5,87.8,91.4
+133_EmploymentUnderNREGA.csv:Karnataka,72.2,81.0,84.1,85.5
+133_EmploymentUnderNREGA.csv:Kerala,89.3,89.4,88.0,89.3
+133_EmploymentUnderNREGA.csv:Tamil Nadu,98.0,98.0,98.8,94.1
+133_EmploymentUnderNREGA.csv:Telangana,79.4,84.2,77.1,84.5
+135_MaternityBenefit.csv:Andhra Pradesh,92.86,92.10
+135_MaternityBenefit.csv:Karnataka,94.62,95.70
+135_MaternityBenefit.csv:Kerala,96.25,94.20
+135_MaternityBenefit.csv:Tamil Nadu,0.0,89.70
+135_MaternityBenefit.csv:Telangana,0.0,0.00
+136_OldAgeHomes.csv:Andhra Pradesh,3450,2800
+136_OldAgeHomes.csv:Karnataka,1025,1375
+136_OldAgeHomes.csv:Kerala,200,100
+136_OldAgeHomes.csv:Tamil Nadu,2500,2525
+136_OldAgeHomes.csv:Telangana,550,675
+141_DrinkingWater.csv:Andhra Pradesh,59.61,60.59,64.84
+141_DrinkingWater.csv:Karnataka,40.00,44.08,73.28
+141_DrinkingWater.csv:Kerala,20.94,25.79,26.55
+141_DrinkingWater.csv:Tamil Nadu,92.45,94.73,96.67
+141_DrinkingWater.csv:Telangana,48.37,54.69,59.69
+143_HouseholdsElectrified.csv:Andhra Pradesh,100
+143_HouseholdsElectrified.csv:Karnataka,100
+143_HouseholdsElectrified.csv:Kerala,100
+143_HouseholdsElectrified.csv:Tamil Nadu,100
+143_HouseholdsElectrified.csv:Telangana,100
+144_Homelessness.csv:Andhra Pradesh,0.17,0.12,0.27
+144_Homelessness.csv:Karnataka,0.13,0.11,0.15
+144_Homelessness.csv:Kerala,0.04,0.02,0.05
+144_Homelessness.csv:Tamil Nadu,0.07,0.04,0.11
+145_NoOfBankAccounts.csv:Andhra Pradesh,1835.93,1953.23,2001.22,1761.81
+145_NoOfBankAccounts.csv:Karnataka,1790.32,1922.27,2000.84,1911.65
+145_NoOfBankAccounts.csv:Kerala,2040.09,2112.28,2253.24,2099.68
+145_NoOfBankAccounts.csv:Tamil Nadu,2026.38,2154.07,2346.66,1.33
+145_NoOfBankAccounts.csv:Telangana,1884.17,2126.97,2041.33,1837.97
+146_Telephone_Wireless+Wireline.csv:Andhra Pradesh,86.40,97.18,97.21,97.55
+146_Telephone_Wireless+Wireline.csv:Karnataka,101.89,113.39,109.05,110.04
+146_Telephone_Wireless+Wireline.csv:Kerala,102.33,114.75,121.61,126.15
+146_Telephone_Wireless+Wireline.csv:Tamil Nadu,118.13,128.41,136.36,116.94
+147_Toilets-Rural.csv:Andhra Pradesh,42.51
+147_Toilets-Rural.csv:Karnataka,56.07
+147_Toilets-Rural.csv:Kerala,96.31
+147_Toilets-Rural.csv:Tamil Nadu,59.24
+147_Toilets-Rural.csv:Telangana,37.26
+151_DeathsDueToExtremeClimate.csv:Andhra Pradesh,0.16,0.04,0.06
+151_DeathsDueToExtremeClimate.csv:Karnataka,0.0,0.07,0.11
+151_DeathsDueToExtremeClimate.csv:Kerala,0.19,0.14,0.37
+151_DeathsDueToExtremeClimate.csv:Tamil Nadu,0.55,0.01,0.06
+151_DeathsDueToExtremeClimate.csv:Telangana,0.0,0.13,0.00

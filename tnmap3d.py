@@ -31,7 +31,7 @@ fig = p.figure(facecolor="#001f3f",figsize=(10.24,7.68))
 #fig.subplots_adjust(left=-0.4,right=1.4)
 fig.subplots_adjust(left=0, right=1, bottom=0, top=1)
 ax = fig.gca(projection='3d')
-e=int(sys.argv[2])
+e=40 if int(sys.argv[2]) > 40 else int(sys.argv[2])  
 azi=int(sys.argv[3]) or -90.
 ax.set_axis_off()
 ax.set_aspect(0.73*1.33)
@@ -52,10 +52,13 @@ ax.set_zlim3d(0, 3)
 #ax.margins(1.1,.1,0.,tight=True)
 print(ax.get_proj())
 print(ax.get_w_lims())
+zh=0
 for j in districts:
 	#base
-	Poly(ax,geom=j,forecolor='yellow', bordercolor='#002f4f', borderwidth=1, zheight=2)
-	ax.plot([j.centroid.x, j.centroid.x],[j.centroid.y, j.centroid.y],[1,2],'y',linewidth=4)
+	if int(sys.argv[2]) > 40:
+		zh=(int(sys.argv[2])-40)/90.0
+	Poly(ax,geom=j,forecolor='yellow', bordercolor='#002f4f', borderwidth=1, zheight=1+zh)
+	ax.plot([j.centroid.x, j.centroid.x],[j.centroid.y, j.centroid.y],[1,1+zh],'y',linewidth=4)
 	#top
 	#Poly(ax,geom=j,forecolor='yellow', bordercolor='yellow', borderwidth=0.5, zheight=2)
 
