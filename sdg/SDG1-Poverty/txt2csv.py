@@ -2,6 +2,8 @@ import pandas as p
 import matplotlib.pyplot as plt
 from locale import atof
 import numpy as np
+#pigo=['#0266B4','orange','tomato','green','pink']
+pigo=["#00d0ff","#ffc107",'tomato','#00cc88','pink']
 #names is added cause rows have variable number of vals, 5 is possible max if not update it.
 df=p.read_csv(r'south_summary.csv',header=None,names = list(range(0,5)))
 
@@ -31,7 +33,7 @@ def getFilename(indicatorname):
 kind='bar'
 for i in indi:
 	fig = plt.figure(facecolor="#001f3f",figsize=(8.,6.4))
-	fig.suptitle('Southern States '+i, x=0.35,color="#E6DB74", fontsize=16)
+	fig.suptitle(i,color="#E6DB74", fontsize=16)
 	ax = fig.add_subplot(111, frameon=False)
 	ax.set_facecolor("#002f4f")
 	ax.set_alpha(0.1)
@@ -48,7 +50,7 @@ for i in indi:
 	print(tmp)
 	cols=numofcols_nonnull(tmp)
 	if cols==1:
-		kind='bar'
+		kind='barh'
 	else:
 		kind='line'
 	print(cols)
@@ -65,7 +67,7 @@ for i in indi:
 		#stmp=tmp[colstoplot].sort_values(ascending=True,by=[1])		
 		#plt.xticks(x, tmp.index.to_list(), rotation='horizontal')
 		ax.set_xlabel('',visible=False)
-		ax.bar(list(range(0,len(tmp.index))), height=tmp[1].to_list(), tick_label=tmp.index.to_list(), width=0.04, color=['#0266B4','orange','tomato','green','pink'])
+		ax.bar(list(range(0,len(tmp.index))), height=tmp[1].to_list(), tick_label=tmp.index.to_list(), width=0.04, color=pigo)
 		yticks = [int(t) for t in ax.get_yticks().tolist()] # get list of ticks
 		print(yticks)
 		ly=len(yticks)-2
@@ -74,11 +76,28 @@ for i in indi:
 			yticks[t] = ''
 		ax.set_yticks([yticks[ly]])
 		ax.set_yticklabels([yt for yt in yticks if yt])
-		
-		
 		ax.set_xticklabels(tmp.index.to_list(), rotation=0)
+	elif kind=='barh':
+		ax.set_ylabel('',visible=False)
+		ax.barh(list(range(0,len(tmp.index))), width=tmp[1].to_list(), tick_label=tmp.index.to_list(), height=0.04, color=pigo)
+		xticks = [int(t) for t in ax.get_xticks().tolist()] 
+		lx=len(xticks)-2
+		for t in range(0,len(xticks)-2):
+			xticks[t] = ''
+		ax.set_xticks([xticks[lx]])
+		ax.set_xticklabels([xt for xt in xticks if xt])
+		ax.set_yticklabels(tmp.index.to_list(), rotation=0)
 	else:
-		tmp[colstoplot].sort_index().T.plot(ax=ax,kind=kind)
+		tmp[colstoplot].sort_index().T.plot(ax=ax,kind=kind,marker = 'o',color=pigo)
+		l=ax.legend(loc='lower left', ncol=5, bbox_to_anchor=(-0.05, 1.01), frameon=False, facecolor='none')
+		lc=0
+		for text in l.get_texts():
+			text.set_color(pigo[lc])#"#efdecc")
+			lc=lc+1
+		#xtics should match cols
+		ax.set_xticks([xt for xt in range(1,cols+1)])
+		ax.set_xticklabels(tmp.columns.to_list())
+
 	plt.annotate(getSource(i).replace(',',''), (0.,0), (0, -25), xycoords='axes fraction', textcoords='offset points', color='#E6DBff', va='top', fontstyle='italic')
 	prefix=''
 	if kind=='bar':
