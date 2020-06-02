@@ -2,6 +2,10 @@ import pandas as p
 import matplotlib.pyplot as plt
 from locale import atof
 import numpy as np
+
+meta=p.read_csv(r'sdg1_meta.csv')
+meta_idx=meta.Indicator.str.split(':').str[0].str.replace('.','')
+
 #pigo=['#0266B4','orange','tomato','green','pink']
 pigo=["#00d0ff","#ffc107",'tomato','#00cc88','pink']
 #names is added cause rows have variable number of vals, 5 is possible max if not update it.
@@ -30,10 +34,14 @@ def getFilename(indicatorname):
 	fname=df[df['indicator_name']==indicatorname].filename.unique()
 	print(fname[0])
 	return fname[0].replace('csv','png')
+
+def getMeta(indicator_no):
+	idx=meta_idx[meta_idx==indicator_no].index[0]
+	return meta.ix[idx]
+
 kind='bar'
 for i in indi:
 	fig = plt.figure(facecolor="#001f3f",figsize=(8.,6.4))
-	fig.suptitle(i,color="#E6DB74", fontsize=16)
 	ax = fig.add_subplot(111, frameon=False)
 	ax.set_facecolor("#002f4f")
 	ax.set_alpha(0.1)
@@ -48,21 +56,23 @@ for i in indi:
 
 	tmp=df[df['indicator_name']==i]
 	print(tmp)
+	mi=getMeta(tmp.indicator_no.unique()[0])
+	fig.suptitle(mi.Indicator,color="#E6DB74", fontsize=16)
 	cols=numofcols_nonnull(tmp)
 	if cols==1:
 		kind='barh'
 	else:
 		kind='line'
 	print(cols)
-	print(getSource(i))
+	#print(getSource(i))
 	colstoplot=list(range(1,cols+1))
 	tmp=tmp[colstoplot+['state']].set_index('state')
-	print(tmp.dtypes)
+	#print(tmp.dtypes)
 	#convert obj cols to float - if already float dont convert
 	for j in colstoplot:
 		if tmp[j].dtypes == np.object:
 			tmp[j]=tmp[j].apply(lambda x:atof(x) if x else None)
-	print(tmp.dtypes)
+	#print(tmp.dtypes)
 	if kind=='bar':
 		#stmp=tmp[colstoplot].sort_values(ascending=True,by=[1])		
 		#plt.xticks(x, tmp.index.to_list(), rotation='horizontal')
@@ -98,9 +108,15 @@ for i in indi:
 		ax.set_xticks([xt for xt in range(1,cols+1)])
 		ax.set_xticklabels(tmp.columns.to_list())
 
-	plt.annotate(getSource(i).replace(',',''), (0.,0), (0, -25), xycoords='axes fraction', textcoords='offset points', color='#E6DBff', va='top', fontstyle='italic')
+	#plt.annotate(getSource(i).replace(',','')+'\n'+mi.url, (0.,0), (0, -25), xycoords='axes fraction', textcoords='offset points', color='#E6DBff', va='top', fontstyle='italic')
+	plt.annotate(mi.Source+' '+str(mi.url), (0.,0), (0, -25), xycoords='axes fraction', textcoords='offset points', color='#E6DBff', va='top', fontstyle='italic')
+	#print(mi.Source+' '+mi.url)
+	plt.annotate('\n'.join([str(mi['Data Reference Period']),mi['Periodicity'],mi['Unit of Measurement'],str(mi['Latest Data Availability'])]),(0.9, 0.9), xycoords='axes fraction',color='cyan',fontsize=14)
+	plt.annotate(mi['Target'], (0.7, 0.6), xycoords='axes fraction', color="#E60B74", fontsize=14)
+	plt.annotate(mi['Desc'],(0.9, 0.1), xycoords='axes fraction', color="#E6DB74", fontsize=16)
+	
 	prefix=''
 	if kind=='bar':
 		prefix='b_'
-	fig.savefig(r'viz/'+prefix+getFilename(i),format='png',facecolor=fig.get_facecolor())
+	fig.savefig(r'viz/'+prefix+getFilename(i),format='png',facecolor=fig.get_facecolor(), bbox_inches='tight')
 
