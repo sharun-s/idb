@@ -1,0 +1,178 @@
+Goal,Target,Indicator,Desc,Source,Data Reference Period,Periodicity,Unit of Measurement,Latest Data Availability,url
+1: End poverty in all its forms everywhere,"1.1: By 2030, eradicate extreme poverty for all people everywhere, currently measured as 
+people living on less than $1.25 a day",1.1.1: Proportion of population living below the national poverty line,"The rural poverty rate is the percentage of the rural population living below the rural na-
+tional poverty line. Similarly, urban poverty rate is the percentage of the urban population 
+living below the urban national poverty line. The levels of poverty are estimated on the 
+basis of consumer expenditure surveys conducted by the National Statistical Office (NSO), 
+Ministry of Statistics and Programme Implementation (MoSPI), which is conducted on 
+quinquennial basis. The poverty line is as per the recommendation of Tendulkar Committee 
+Report. As per Tendulkar Committee methodology, the poverty line has been expressed in 
+terms of Monthly Per Capita Expenditure (MPCE) based on Mixed Reference Period.",NITI Aayog,2011-12,5 Years,Percentage,2011-12,http://niti.gov.in/state-statistics
+1: End poverty in all its forms everywhere,"1.1: By 2030, eradicate extreme poverty for all people everywhere, currently measured as 
+people living on less than $1.25 a day",1.1.2: Poverty Gap Ratio,"The Poverty Gap Ratio (PGR) is defined as the gap by which mean consumption of the 
+poor below poverty line falls short of the poverty line. It indicates the depth of poverty; the 
+more the PGR, the worse is the condition of the poor.",NITI Aayog,2011-12,5 Years,Percentage,2011-12,http://mospi.nic.in/sites/default/files/publication_reports/mdg_2july15_1.pdf
+1: End poverty in all its forms everywhere,"1.3: Implement nationally appropriate social protection systems and measures for all, 
+including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable","1.3.1:Percentage of households with any usual member covered by a health scheme or 
+health insurance","The indicator is defined as the ratio of number of households in a geographic location in 
+which at least one usual member is covered by a health scheme or health insurance at a 
+given period of time to the number of households in the geographic location during same 
+period. 
+a) Numerator: Number of households in which at least one usual member is covered by a 
+health scheme or health insurance during survey period 
+b) Denominator: Total estimated number of households during same period 
+c) multiplier: 100",Ministry of Health and Family Welfare (NFHS),2015-16,3 years,Percentage,NFHS-4 (2015-16),http://rchiips.org/nfhs
+1: End Poverty in all its form everywhere,"1.3: Implement nationally extra space appropriate social protection systems and measures 
+for all, including floors, and by 2030 achieve substantial coverage of the poor and the 
+vulnerable",1.3.2: Number of Beneficiaries under ICDS,"The indicator is defined as number of registered beneficiaries under ICDS (now renamed 
+as Anganwadi Services Scheme-ASS). The ASS is a centrally sponsored scheme which 
+provides food, pre-school education and primary healthcare to children less than 6 years 
+of age and their mothers. 
+a) Numerator: Number of registered beneficiaries getting benefit under Anganwadi 
+Services Scheme. 
+b) Denominator: Nil 
+c) multiplier: Nil",Ministry of Women and Child Development,2015-16,Annual,Number,2018-19,www.icds-cas.gov.in
+1: End Poverty in all its form everywhere,"1.3: Implement nationally appropriate social protection systems and measures for all, 
+including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable","1.3.3: Persons provided employment as a percentage of persons who demanded employ-
+ment under Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA).","The indicator refers to the number of persons who were provided employment under 
+MGNREGA in proportion to the persons who demanded employment under the scheme. 
+a) Numerator: Number of persons provided employment under MGNREGA. 
+b) Denominator: Number of persons who enrolled under MGNREGA during the reference 
+year 
+c) multiplier: 100 
+The Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) was enacted 
+on August 25, 2005. The MGNREGA provides a legal guarantee for 100 days of employ-
+ment in every financial year to adult members of any rural household willing to do public 
+work-related unskilled manual work at the statutory minimum wage.",Ministry of Rural Development,2015-16,Annual,Percentage,2018-19,http://mnregaweb4.nic.in/netnrega/MISreport4.aspx
+1: End Poverty in all its form everywhere,"1.3: Implement nationally appropriate social protection systems and measures for all, 
+including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable",1.3.4: Number of Self Help Groups (SHGs) provided bank credit linkage,"Indicator is defined as number of Self Help Groups (SHGs) to which bank credit linkage was 
+provided during the reference year. 
+a) Numerator: Number of SHGs provided bank credit linkage during reference year 
+b) Denominator: Nil 
+c) multiplier: Nil",National Bank for Agriculture and Rural Development (NABARD),2015-16,Annual,Number,2018-19,"Annual Report - NABARD 
+https://www.nabard.org/content.aspx?id=652"
+1: End poverty in all its forms everywhere,"1.3: Implement nationally appropriate social protection systems and measures for all, 
+including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable","1.3.5: Proportion of the population (out of total eligible population) receiving social protec-
+tion benefits under Maternity Benefit.","The indicator refers to number of beneficiaries getting benefit under Pradhan Mantri Ma-
+tritva Vandana Yojana (PMMVY) expressed as percentage of total beneficiaries enrolled. 
+a) Numerator: Total number of women beneficiaries paid under PMMVY during the refer-
+ence year 
+b) Denominator: Total number of beneficiaries enrolled under PMMVY during the reference 
+year 
+c) multiplier: 100 
+The Maternity Benefit Programme ‘Pradhan Mantri Matritva Vandana Yojana’ (PMMVY) 
+is implemented in all the districts of the country since 1.01.2017. Under PMMVY, a cash 
+incentive of Rs. 5000/- is provided directly to the Bank / Post Office Account of Pregnant 
+Women and Lactating Mothers (PW&LM) for first living child of the family subject to fulfill-
+ing specific conditions relating to Maternal and Child Health.","Statistics Bureau, Ministry of Women & Child Development",2017-18,Annual,Percentage,2018-19,www.wcd.nic.in
+1: End poverty in all its forms everywhere,"1.3: Implement nationally appropriate social protection systems and measures for all, 
+including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable","1.3.6: Number of senior citizens provided institutional assistance through Old Age Homes/
+Day Care Centres funded by the government","a) Numerator: Number of beneficiaries (classified as senior citizens i.e. Population of or 
+above the age of 60) in old age homes funded by Government of India. 
+b) Denominator: Nil 
+c) multiplier: Nil","Department of Social Justice & Empowerment, Ministry of Social Justice & Empowerment.",2016-17,Annual,Number,2017-18,http://socialjustice.nic.in/writereaddata/UploadFile/Annexure-II.pdf
+1: End poverty in all its forms everywhere,"1.3: Implement nationally appropriate social protection systems and measures for all, 
+including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable","1.3.7: Number of beneficiaries added under EPS during the year, (in number)","The new joinees has been taken as number of beneficiaries added under EPS during a 
+given year. 
+a) Numerator: Number new joinees added under EPS during the given year. 
+b) Denominator: Nil 
+c) multiplier: Nil",Ministry of Labour and Employment,2015-19,Annual,Number,2018-19,NA
+1: End poverty in all its forms everywhere,"1.4: By 2030, ensure that all men and women, in particular the poor and the vulnerable, 
+have equal rights to economic resources, as well as access to basic services, ownership 
+and control over land and other forms of property, inheritance, natural resources, appropri-
+ate new technology and financial services, including microfinance.","1.4.1: Percentage of Population getting safe and adequate drinking water within premises 
+through Pipe Water Supply (PWS) (similar to 6.1.1)","Data for rural area is available, as supplied by Department of Drinking Water & Sanitation.  
+a) Numerator: Total rural population getting safe and adequate drinking water within 
+premises through PWS 
+b) Denominator: Mid-year total rural population of the reference year 
+c) multiplier: 100","DWS, Ministry of Jal Shakti",2017,Annual,Percentage,2019,NA
+1: End poverty in all its forms everywhere,"1.4: By 2030, ensure that all men and women, in particular the poor and the vulnerable, 
+have equal rights to economic resources, as well as access to basic services, ownership 
+and control over land and other forms of property, inheritance, natural resources, appropri-
+ate new technology and financial services, including microfinance.","1.4.3: Percentage of households electrified, 2018-19 (similar to 7.1.1)","The indicator refers to number of households that have been electrified under the ‘Saub-
+hagya’ scheme under CEA as a percentage of total number of eligible households. 
+a) Numerator:  Number of households electrified as per Saubhagya & CEA data 
+b) Denominator:  Number of eligible households 
+c) multiplier: 100 
+Pradhan Mantri Sahaj Bijli Har Ghar Yojana – ‘Saubhagya’ a new scheme was launched on 
+25th September 2017 by Govt. of India. Under Saubhagya, free electricity connections to 
+all households (both APL and poor families) in rural areas and poor families in urban areas 
+will be provided.","Central Electricity Authority, Ministry of Power",2019-20,Annual,Percentage,2018-19,https://saubhagya.gov.in/
+1: End poverty in all its forms everywhere.,"1.4: By 2030, ensure that all men and women, in particular the poor and the vulnerable, 
+have equal rights to economic resources, as well as access to basic services, ownership 
+and control over land and other forms of property, inheritance, natural resources, appropri-
+ate new technology and financial services, including microfinance",1.4.4: Proportion of homeless population to total population,"a )Numerator: Houseless population 
+b) Denominator: Total population 
+c) multiplier: 100","Office of Registrar General of India, Ministry of Home Affairs.",2011,10 years,Percentage,Census of India 2011,http://www.censusindia.gov.in/2011census/population_enumeration.html
+1: End poverty in all its forms everywhere,"1.4: By 2030, ensure that all men and women, in particular the poor and the vulnerable, 
+have equal rights to economic resources, as well as access to basic services, ownership 
+and control over land and other forms of property, inheritance, natural resources, appropri-
+ate new technology and financial services, including microfinance.","1.4.5: Number of accounts (include deposit and credit accounts) of scheduled commercial 
+banks per 1,000 population  
+(similar to Indicator 8.10.2)","The number of accounts (which include deposit and credit accounts) of scheduled commer-
+cial banks is available with RBI.  
+a) Numerator: Number of accounts (include deposit and credit accounts) of scheduled 
+commercial banks. 
+b) Denominator: Projected mid-year population for the reference period 
+c) multiplier: 1,000","Numerator: Reserve Bank of India 
+Denominator: Office of Registrar General of India (ORGI), Ministry of Home Affairs (MHA)",2015-16,Annual,Rate per ‘000 population,2018-19,NA
+1: End poverty in all its forms everywhere,"1.4: By 2030, ensure that all men and women, in particular the poor and the vulnerable, 
+have equal rights to economic resources, as well as access to basic services, ownership 
+and control over land and other forms of property, inheritance, natural resources, appropri-
+ate new technology and financial services, including microfinance.",1.4.6: Number of telephone subscriptions as percentage of total population.,"Indicator is defined as number of telephone subscriptions (both wireless and wireline) as a 
+percentage of total population. 
+a) Numerator: Number of telephone subscribers during the reference year 
+b) Denominator: Projected mid-year population during reference year 
+c) multiplier: 100","Numerator: TRAI or D/o Telecommunications. 
+Denominator: Office of Registrar General of India (ORGI), Ministry of Home Affairs (MHA)",2015-16,Annual,Number,2018-19,NA
+1: End poverty in all its forms everywhere,"1.4: By 2030, ensure that all men and women, in particular the poor and the vulnerable, 
+have equal rights to economic resources, as well as access to basic services, ownership 
+and control over land and other forms of property, inheritance, natural resources, appropri-
+ate new technology and financial services, including microfinance.","1.4.7: Proportion of households having access to toilet facility (Urban & Rural) (similar to 
+6.2.1)","The indicator is defined as the percentage of households with toilet facility.  
+a) Numerator: Number of households with toilets as per Baseline survey 2012-13 + Toilets 
+reported to be constructed by State/UTs from 2013-14 to 2015-16 
+b) Denominator: Total households as per Baseline survey 2012-13 
+c) multiplier: 100","Ministry of Jal Shakti, DWS for rural area and MIS, NSS, MoSPI for Urban area",2015-16,Annual for Rural and 3 Years for Urban,Percentage,2015-16,NA
+1: End poverty in all its forms everywhere,"1.5: By 2030, build the resilience of the poor and those in vulnerable situations and reduce 
+their exposure and vulnerability to climate-related extreme events and other economic, 
+social and environmental shocks and disasters.","1.5.1: Number of deaths attributed to extreme climate per 1,00,000 population","This indicator measures total number of human live lost due to extreme weather events 
+per 1,00,000 populations.  
+a) Numerator: Total number of human live lost during the reference period. 
+b) Denominator: Projected mid -year population during calendar year 
+c) multiplier: 1,00,000",Ministry of Home Affairs,2015-16,Annual,Rate (Per lakh),2017-18,https://mha.gov.in/documents/annual-reports
+1: End poverty in all its forms everywhere,"1.5: By 2030, build the resilience of the poor and those in vulnerable situations and reduce 
+their exposure and vulnerability to climate-related extreme events and other economic, 
+social and environmental shocks and disasters.","1.5.2: Proportion of States that adopt and implement local disaster risk reduction strate-
+gies in line with national disaster reduction strategies. (similar to Indicator 11.b.2)","This indicator is defined as the number of States/UTs that adopt and implement local 
+disaster risk reduction strategies in line with national disaster reduction strategies among 
+all the States/UTs in the country.  
+a) Numerator: Number of States/UTs that adopt and implement local disaster risk reduc-
+tion strategies in line with national disaster reduction strategies. 
+b) Denominator: Total number of States/UTs in India 
+c) multiplier: 100 
+The National Disaster Management Plan (NDMP) is based on the four priority themes of 
+the “Sendai  Framework,” namely: understanding disaster risk, improving disaster risk gov-
+ernance, investing in disaster reduction (through structural and non-structural measures) 
+and disaster preparedness, early warning and building back better in the aftermath of a 
+disaster.","National Disaster Management Authority, Ministry of Home Affairs",2018-19,Annual,Percentage,2018-19,SDMP is available on the website of concerned State/UT.
+1:End poverty in all its forms everywhere,"1.a: Ensure significant mobilization of resources from a variety of sources, including 
+through enhanced development cooperation, in order to provide adequate and predictable 
+means for developing countries, in particular least developed countries, to implement 
+programmes and policies to end poverty in all its dimensions","1.a.2: Proportion of total government spending on essential services (education, health 
+and social protection)","The indicator is defined as percentage of government spending on essentials services, 
+which include current expenditure, capital expenditure, loan & advances and net invest-
+ment in stock out of total government expenditures during reference year. 
+a) Numerator: Government expenditures on essential services during reference year. 
+b) Denominator: Government total expenditures during reference year 
+c) multiplier: 100","National Accounts Division (NAD),National Statistical office (NSO), Ministry of Statistics & 
+Programme Implementation",2015-16,Annual,Percentage,2017-18,"http://www.mospi.nic.in/data http://www.mospi.gov.in/sites/default/files/reports_and_
+publication/statistical_publication/National_Accounts/NAS18/S4.2.pdf"
+1:End poverty in all its forms everywhere,"1.b: Create sound policy frameworks at the national, regional and international levels, 
+based on pro-poor and gender-sensitive development strategies, to support accelerated 
+investment in poverty eradication actions.",1.b.1: Proportion of budget earmarked under gender budget,"The indicator is defined as percentage allocation of gender budget out of total budget 
+allocation during the reference year. 
+a) Numerator: Gender budget allocation during reference year. 
+b) Denominator: Total budget allocation during reference year 
+c) multiplier: 100",Ministry of Women and Child Development,2015-16,Annual,Percentage,2019-20,"https://www.indiabudget.gov.in/ 
+https://www.indiabudget.gov.in/budget2015-2016/ub2015-16/eb/stat20.pdf"

@@ -1,0 +1,188 @@
+Goal,Target,Indicator,Desc,Source,Data Reference Period,Periodicity,Unit of Measurement,Latest Data Availability,url
+"2: End hunger, achieve food security and improved nutrition and promote sustainable 
+agriculture","2.1: By 2030, end hunger and ensure access by all people, in particular the poor and people 
+in vulnerable situations, including infants, to safe, nutritious and sufficient food all year 
+round",2.1.1: Percentage of children aged under 5 years who are underweight,"This indicator is defined as the percentage of children under 5 years of age (i.e. 0 - 59 
+months) whose weight-for-age is below minus 2 times standard deviations of the WHO 
+Child Growth Standards median. 
+a) Numerator: Children aged 0-59 months who are underweight 
+b) Denominator: Number of children in age group 0-59 months 
+c) multiplier: 100",Ministry of Health & family Welfare (National Family Health Survey (NFHS)),2015-16,3 years,Percentage,2015-16,http://rchiips.org/nfhs
+"2: End hunger, achieve food security and improved nutrition and promote sustainable 
+agriculture","2.1: By 2030, end hunger and ensure access by all people, in particular the poor and people 
+in vulnerable situations, including infants, to safe, nutritious and sufficient food all year 
+round",2.1.2: Proportion of population (families) covered under National Food Security Act 2013,"The indicator is defined as number of families/persons identified under NFSA as percent-
+age of accepted number of persons covered under NFSA. 
+a) Numerator: Families/persons identified under NFSA 
+b) Denominator: Accepted number of persons covered under NFSA 
+c) multiplier: 100",Ministry of Consumer Affairs Food & Public Distribution,2015-16,Annual,Percentage,2018-19,NA
+"2: End hunger, achieve food security and improved nutrition and promote sustainable 
+agriculture","2.2: By 2030, end all forms of malnutrition, including achieving, by 2025, the international-
+ly agreed targets on stunting and wasting in children under 5 years of age, and address the 
+nutritional needs of adolescent girls, pregnant and lactating women and older persons",2.2.1: Percentage of children under age 5 years who are stunted,"This indicator is defined as percentage of children aged 0-59 months who are stunted 
+(short for age i.e. children whose height-for-age is below minus 2 times standard deviation 
+from the WHO Child Growth Standards median). 
+a) Numerator: Stunted children aged 0-59 months 
+b) Denominator: Total number of children age 0-59 months whose height is measured 
+c) multiplier: 100",Ministry of Health & family Welfare (National Family Health Survey (NFHS)),2015-16,3 years,Percentage,2015-16,http://rchiips.org/nfhs
+"2: End hunger, achieve food security and improved nutrition and promote sustainable 
+agriculture","2.2: By 2030, end all forms of malnutrition, including achieving, by 2025, the international-
+ly agreed targets on stunting and wasting in children under 5 years of age, and address the 
+nutritional needs of adolescent girls, pregnant and lactating women and older persons",2.2.2: Percentage of children under 5 years who are wasted,"This indicator is defined as percentage of Children aged 0-59 months who are wasted 
+(children whose weight-for-height is below minus - 2 times standard deviation of the 
+WHO Child Growth Standards median.) 
+a) Numerator: Number of wasted children aged 0-59 
+b) Denominator: Number of children aged 0-59 months whose weight is measured 
+c) multiplier: 100",Ministry of Health & family Welfare (National Family Health Survey (NFHS)),2015-16,3 years,Percentage,2015-16,http://rchiips.org/nfhs
+"2: End hunger, achieve food security and improved nutrition and promote sustainable 
+agriculture","2.2: By 2030, end all forms of malnutrition, including achieving, by 2025, the international-
+ly agreed targets on stunting and wasting in children under 5 years of age, and address the 
+nutritional needs of adolescent girls, pregnant and lactating women and older persons","2.2.3: Percentage of women whose Body Mass Index (BMI) is below normal (BMI<18.5 kg/
+sq. meter)","The Body Mass Index (BMI) is defined as the body mass divided by the square of the body 
+height and is universally expressed in units of kg/sq. meter. 
+a) Numerator: Number of women age 15-49 years with BMI <18.5 kg/sq. meter) 
+b) Denominator: Total number of women age 15-49 years whose height and weight are 
+measured 
+c) multiplier: 100",Ministry of Health & family Welfare (National Family Health Survey (NFHS)),2015-16,3 years,Percentage,2015-16,http://rchiips.org/nfhs
+"2: End hunger, achieve food security and improved nutrition and promote sustainable 
+agriculture","2.2: By 2030, end all forms of malnutrition, including achieving, by 2025, the international-
+ly agreed targets on stunting and wasting in children under 5 years of age, and address the 
+nutritional needs of adolescent girls, pregnant and lactating women and older persons",2.2.4: Percentage of pregnant women age 15-49 years who are anaemic (Hb<11.0 g/dl),"This indicator is defined as percentage of pregnant women age 15-49 years who are 
+anaemic (Hb<11.0 g/dl) 
+a) Numerator: Number of pregnant women aged 15-49 years who are anaemic 
+b) Denominator: Number of pregnant women aged 15-49 years whose Hb level is meas-
+ured 
+c) multiplier: 100 
+Note: g/dl refer as gram per deciliter",Ministry of Health & family Welfare (National Family Health Survey (NFHS)),2015-16,3 years,Percentage,2015-16,http://rchiips.org/nfhs
+"2: End hunger, achieve food security and improved nutrition and promote sustainable 
+agriculture","2.2: By 2030, end all forms of malnutrition, including achieving, by 2025, the international-
+ly agreed targets on stunting and wasting in children under 5 years of age, and address the 
+nutritional needs of adolescent girls, pregnant and lactating women and older persons",2.2.5: Percentage of children age 6-59 months who are anaemic (Hb<11.0 g/dl),"a) Numerator: Number of anaemic children aged 6-59 months 
+b) Denominator: Number of children aged 6-59 months whose Haemoglobin level is 
+measured 
+c) multiplier: 100 
+Note: (g/dl refer as gram per deciliter)",Ministry of Health & family Welfare (National Family Health Survey (NFHS)),2015-16,3 years,Percentage,NFHS-4 (2015-16)(NRT 10.12),http://rchiips.org/nfhs
+"2: End hunger, achieve food security and improved nutrition and promote sustainable 
+agriculture.","2.3: By 2030, double the agricultural productivity and incomes of small-scale food pro-
+ducers, in particular women, indigenous peoples, family farmers, pastoralists and fishers, 
+including through secure and equal access to land, other productive resources and inputs, 
+knowledge, financial services, markets and opportunities for value addition and non-farm 
+employment",2.3.1: Agriculture productivity of wheat and rice (kg per hectare),"a) Numerator: Production of wheat and rice 
+b) Denominator: Area under wheat and rice cultivation 
+c) multiplier: 100","Department of Agriculture, Cooperation and Farmers Welfare (DoAC&FW), Ministry of 
+Agriculture and Farmers Welfare (MoA&FW)",2015-16,Annual,Kg per hectare,2018-19,http://agricoop.nic.in/ https://eands.dacnet.nic.in/
+"2: End hunger, achieve food security and improved nutrition and promote sustainable 
+agriculture.","2.3: By 2030, double the agricultural productivity and incomes of small-scale food pro-
+ducers, in particular women, indigenous peoples, family farmers, pastoralists and fishers, 
+including through secure and equal access to land, other productive resources and inputs, 
+knowledge, financial services, markets and opportunities for value addition and non-farm 
+employment",2.3.2: Gross Value Added in Agriculture per worker,"a) Numerator: GVA in Agriculture & Allied sectors (at constant price) 
+b) Denominator: Total number of agricultural workers 
+c) multiplier: Nil","Agriculture Statistics Division, DES, Ministry of Agriculture & Farmers Welfare",2015-16,Annual,Rs. Per Worker,2017-18,http://www.mospi.nic.in/data
+"2: End hunger, achieve food security and improved nutrition and promote sustainable 
+agriculture.","2.3: By 2030, double the agricultural productivity and incomes of small-scale food pro-
+ducers, in particular women, indigenous peoples, family farmers, pastoralists and fishers, 
+including through secure and equal access to land, other productive resources and inputs, 
+knowledge, financial services, markets and opportunities for value addition and non-farm 
+employment",2.3.3: Ratio of institutional Credit to Agriculture to the Agriculture output,"The indicator measures flow of institutional credits to farm sector of agriculture. It is ratio 
+of agriculture credits to agriculture Gross Value Added (GVA). 
+a) Numerator: Short term credits to farm sector (agriculture) 
+b) Denominator: Gross Value Added from crop sector (at constant prices). 
+c) multiplier: Nil","a) Numerator: Ministry of Agriculture & Farmers Welfare 
+b) Denominator: National Accounts Division, NSO, MoSPI",2015-16,Annual,In ratio,2017-18,http://www.mospi.gov.in/node/17651 (Statement No. 8.11)
+"2: End hunger, achieve food security and improved nutrition and promote sustainable 
+agriculture.","2.4: By 2030, ensure sustainable food production systems and implement resilient agricul-
+tural practices that increase productivity and production, that help maintain ecosystems, 
+that strengthen capacity for adaptation to climate change, extreme weather, drought, 
+flooding and other disasters and that progressively improve land and soil quality",2.4.1: Proportion of Net Sown Area to Cultivable land,"It is percentage increase in Net Sown Area to Cultivable land 
+a) Numerator: Net Sown Area 
+b) Denominator: Cultivable Land 
+c) multiplier: 100","Ministry of Agriculture & Farmers Welfare/ Agriculture Statistics Division, DES (DAC&FW)",2015-16,Annual,Percentage,2015-16,http://eands.dacnet.nic.in
+"2: End hunger, achieve food security and improved nutrition and promote sustainable 
+agriculture.","2.4: By 2030, ensure sustainable food production systems and implement resilient agricul-
+tural practices that increase productivity and production, that help maintain ecosystems, 
+that strengthen capacity for adaptation to climate change, extreme weather, drought, 
+flooding and other disasters and that progressively improve land and soil quality",2.4.2: Percentage of farmers issued Soil Health Card,"The indicator is percentage of farmers issued with soil health cards during the reference 
+year. 
+a) Numerator: Number of Soil Health Cards issued to farmers during the year 
+b) Denominator: Number of target farmers to be issued Soil Health Card during the year 
+c) multiplier: 100 
+Soil Health Card is field specific detailed report of soil fertility and other important soil 
+parameters that affect crop productivity. Besides soil health, it also provides an advisory 
+on soil test based use of fertilizers and amendments.","Agriculture Statistics Division, DES, Ministry of Agriculture & Farmers Welfare",2015-17,-,Percentage,2017-19,http://soilhealth.dac.gov.in/
+"2: End hunger, achieve food security and improved nutrition and promote sustainable 
+agriculture.","2.4: By 2030, ensure sustainable food production systems and implement resilient agricul-
+tural practices that increase productivity and production, that help maintain ecosystems, 
+that strengthen capacity for adaptation to climate change, extreme weather, drought, 
+flooding and other disasters and that progressively improve land and soil quality",2.4.3: Percentage of net area under organic farming.,"a) Numerator: Area under organic farming (as registered under NPOP certification process) 
+b) Denominator: Net sown area under crops. 
+c) multiplier: 100 
+National Program for Organic Production (NPOP) provides policies for -  
+a) development & certification of organic products, and national standards for organic 
+products 
+b) accreditation of certification bodies & certification of organic products in conformity to 
+the national standards 
+c) encourage the development of organic cultivation and processing.","DES, DAC&FW , Ministry of Agriculture & Farmers Welfare",2015-16,Annual,Percentage,2018-19,"Numerator: http://apeda.gov.in/apedawebsite/Annual_Reports/Annual_Administra-
+tive_Reports.htm 
+Denominator: https://eands.dacnet.nic.in/"
+"2: End hunger, achieve food security and improved nutrition and promote sustainable 
+agriculture.","2.5: By 2020, maintain the genetic diversity of seeds, cultivated plants and farmed and 
+domesticated animals and their related wild species, including through soundly managed 
+and diversified seed and plant banks at the national, regional and international levels, and 
+promote access to and fair and equitable sharing of benefits arising from the utilization of 
+genetic resources and associated traditional knowledge, as internationally agreed","2.5.1: Number of accessions conserved in the base collection (-18 degree Celsius) at 
+National Gene Bank.","The indicator is defined as number of accessions conserved in the base collection (-18 
+degree Celsius) at National Gene Bank. The gene banks are used to conserve the plant 
+genetic resources of major crop plants and their crop wild relatives.  
+a) Numerator: Number of Accessions Conserved in the Base Collection (-18 degree Celsius) 
+at National Gene Bank 
+b) Denominator: Nil 
+c) multiplier: Nil","National Bureau of Plant Genetic resources (NBPGR), Department of Agricultural Research 
+and Education, Ministry of Agriculture and Farmers Welfare",2015,Annual,Number,2018,"http://www.nbpgr.ernet.in:8080/PGRPortal  
+www.nbpgr.ernet.in"
+"2: End hunger, achieve food security and improved nutrition and promote sustainable 
+agriculture.","2.5: By 2020, maintain the genetic diversity of seeds, cultivated plants and farmed and 
+domesticated animals and their related wild species, including through soundly managed 
+and diversified seed and plant banks at the national, regional and international levels, and 
+promote access to and fair and equitable sharing of benefits arising from the utilization of 
+genetic resources and associated traditional knowledge, as internationally agreed.",2.5.2: Conservation of germplasm (in number),"Indicator is defined as the number of accessions augmented and conserved in Long Term 
+Storage for sustainable use 
+a) Numerator: Number of accessions augmented and conserved under long term storage 
+(LTS) during a calendar year 
+b) Denominator: Nil 
+c) multiplier: Nil","National Bureau of Plant Genetic resources (NBPGR), Department of Agricultural Research 
+and Education, Ministry of Agriculture and Farmers Welfare",2015-16,Annual,Number,2015-16,"http://www.nbpgr.ernet.in:8080/PGRPortal  
+www.nbpgr.ernet.in"
+"2: End hunger, achieve food security and improved nutrition and promote sustainable 
+agriculture","2.a: Increase investment, including through enhanced international cooperation, in rural 
+infrastructure, agricultural research and extension services, technology development and 
+plant and livestock gene banks in order to enhance agricultural productive capacity in 
+developing countries, in particular least developed countries","2.a.1: Percentage share of Intellectual Property Product (Research & Development) to total 
+GVA in Agriculture, Forestry and Fishing","The indicator measures extent of expenditure in intellectual property products which is 
+related to research and development in agriculture sector. 
+a) Numerator: Total Expenditure on IPP in Agriculture, forestry & fishing during reference 
+year. 
+b) Denominator: Gross Value Added in agriculture, forestry & Fishing during reference year 
+c) multiplier: 100","National Accounts Division (NAD), NSO, MoSPI",2015-16,Annual,Percentage,2017-18,"http://www.mospi.gov.in/node/17651 http://www.mospi.gov.in/sites/default/files/re-
+ports_and_publication/statistical_publication/National_Accounts/NAS18/S4.2.pdf"
+"2: End hunger, achieve food security and improved nutrition and promote sustainable 
+agriculture","2.a: Increase investment, including through enhanced international cooperation, in rural 
+infrastructure, agricultural research and extension services, technology development and 
+plant and livestock gene banks in order to enhance agricultural productive capacity in 
+developing countries, in particular least developed countries","2.a.2: Percentage of Government expenditure in agriculture, forestry and fishing to GVA in 
+agriculture.","Gross Value Added is defined as in a manner that enhances its value and calculated as GVA 
+= Value of Gross output - Value of intermediate consumption. 
+a) Numerator: Total government expenditures on agriculture, forestry and fishing during 
+reference year. 
+b) Denominator: GVA of agriculture, forestry and fishing during reference year 
+c) multiplier: 100","National Accounts Division (NAD), National Statistical Office (NSO), Ministry of Statistics & 
+Programme Implementation (MoSPI)",2015-16,Annual,Percentage,2017-18,"http://www.mospi.gov.in/node/17651 http://www.mospi.gov.in/sites/default/files/re-
+ports_and_publication/statistical_publication/National_Accounts/NAS18/S4.2.pdf"
+"2: End hunger, achieve food security and improved nutrition and promote sustainable 
+agriculture","2.c: Adopt measures to ensure the proper functioning of food commodity markets and 
+their derivatives and facilitate timely access to market information, including on food 
+reserves, in order to help limit extreme food price volatility",2.c.1: Percentage of Agriculture Mandis enrolled in e-market,"a) Numerator: Total number of E-NAM Mandis. 
+b) Denominator: Total number of Mandis 
+c) multiplier: 100 
+E-NAM: Electronic National Agriculture Market is an online trading platform for agriculture 
+commodities.","DES, DAC&FW , Ministry of Agriculture & Farmers Welfare",2016-17,Annual,Percentage,2017-18,NA
