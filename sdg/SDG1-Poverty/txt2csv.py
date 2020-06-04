@@ -17,7 +17,9 @@ df['indicator_no']=df['filename'].str.split('_').str[0]
 df['indicator_name']=df['filename'].str.split('_').str[1].str.split('.').str[0]
 df.drop(0,axis=1,inplace=True)
 indi=df['indicator_name'].unique()
-numofcols_nonnull=lambda d:d[[1,2,3,4]].isnull().sum().value_counts(0)[0]
+#numofcols_nonnull=lambda d:d[[1,2,3,4]].isnull().sum().value_counts(0)[0]
+numofcols_nonnull=lambda d:len([col for col in [1,2,3,4] if d.loc[:, col].notna().any()])
+
 
 def getSource(indicatorname):
 	fname=df[df['indicator_name']==indicatorname].filename.unique()
@@ -32,11 +34,11 @@ def getSource(indicatorname):
 
 def getYears(indicatorname):
 	fname=df[df['indicator_name']==indicatorname].filename.unique()
-	print(fname[0])
+	#print(fname[0])
 	fdf=open(fname[0])
 	l=fdf.readlines()[0]
 	fdf.close()
-	print(l)
+	#print(l)
 	#if l.find('Source')>-1:
 	#	print(l)
 	#	return l
@@ -51,6 +53,27 @@ def getMeta(indicator_no):
 	idx=meta_idx[meta_idx==indicator_no].index[0]
 	return meta.ix[idx]
 
+def pad(bothsides=True):
+	if bothsides:
+		ax.set_xticks([xt for xt in range(0,cols+2)])
+		if useYears:
+			ax.set_xticklabels(['']+yrs[1:]+[''])
+		else:
+			ax.set_xticklabels(['']+tmp.columns.to_list()+[''])
+	else:
+		ax.set_xticks([.9]+[xt for xt in range(1,cols)]+[cols+.1])
+		if useYears:
+			ax.set_xticklabels(['']+yrs[1:]+[''])
+		else:
+			ax.set_xticklabels(['']+tmp.columns.to_list()+[''])
+
+def styleLegend():
+	l=ax.legend(loc='lower left', ncol=5, bbox_to_anchor=(-0.05, 1.01), frameon=False, facecolor='none')
+	lc=0
+	for text in l.get_texts():
+		text.set_color(pigo[lc])#"#efdecc")
+		lc=lc+1
+
 kind='bar'
 for i in indi:
 	fig = plt.figure(facecolor="#001f3f",figsize=(8.,6.4))
@@ -64,10 +87,10 @@ for i in indi:
 	ax.tick_params(axis='y', colors='#E6DB74')#FD971F')
 	ax.tick_params(axis='x', colors='#E6DB74')
 	#ax.set_xlim(0,175000)
-	ax.set_ylabel('',visible=False)
+	#ax.set_ylabel('',visible=False)
 
 	tmp=df[df['indicator_name']==i]
-	print(tmp)
+	#print(tmp)
 	mi=getMeta(tmp.indicator_no.unique()[0])
 	#fig.suptitle(mi.Indicator,color="#E6DB74", fontsize=16)
 	fig.suptitle(i,color="#E6DB74", fontsize=16)
@@ -77,12 +100,23 @@ for i in indi:
 		kind='bar'
 	else:
 		kind='line'
-	print(cols)
+	#print(cols)
+	
 	yrs=getYears(i).split(',')
 	useYears=False
 	if cols+1== len(yrs):
 		useYears=True
-		print('Using years -',yrs) 
+		#print('Using years -',yrs)
+	addPercToTickLabel=False
+	if mi['Unit of Measurement'] == 'Percentage':
+		addPercToTickLabel=True
+
+	plt.annotate('Reference Period:'+ str(mi['Data Reference Period'])+
+		#' '+mi['Periodicity']+
+		#'     Unit: '+mi['Unit of Measurement']+
+		'  Latest Data:'+str(mi['Latest Data Availability']),
+		(.3,1.03), (0.,0), xycoords='axes fraction',color='#E6DBff', textcoords='offset points')
+
 	#print(getSource(i))
 	colstoplot=list(range(1,cols+1))
 	tmp=tmp[colstoplot+['state']].set_index('state')
@@ -95,15 +129,18 @@ for i in indi:
 	if kind=='bar':
 		#stmp=tmp[colstoplot].sort_values(ascending=True,by=[1])		
 		#plt.xticks(x, tmp.index.to_list(), rotation='horizontal')
+		#if addPercToTickLabel:
+		ax.set_ylabel(mi['Unit of Measurement'],color="#d6cB74")
+		#else:
 		ax.set_xlabel('',visible=False)
 		ax.bar(list(range(0,len(tmp.index))), height=tmp[1].to_list(), tick_label=tmp.index.to_list(), width=0.04, color=ligo)
 		yticks = [int(t) for t in ax.get_yticks().tolist()] # get list of ticks
 		#print(yticks)
 		ly=len(yticks)-2
-		print(yticks[ly])
+		#print(yticks[ly])
 		for t in range(0,len(yticks)-2):
 			yticks[t] = ''
-		ax.set_yticks([yticks[ly]])
+		ax.set_yticks([yticks[ly]])	
 		ax.set_yticklabels([yt for yt in yticks if yt])
 		ax.set_xticklabels(tmp.index.to_list(), rotation=0)
 	elif kind=='barh':
@@ -114,35 +151,25 @@ for i in indi:
 		for t in range(0,len(xticks)-2):
 			xticks[t] = ''
 		ax.set_xticks([xticks[lx]])
-		#if useYears:
-		#	ax.set_xticklabels(yrs[1:])
-		#else:	
 		ax.set_xticklabels([xt for xt in xticks if xt])
 		ax.set_yticklabels(tmp.index.to_list(), rotation=0)
 	else:
-		tmp[colstoplot].sort_index().T.plot(ax=ax,kind=kind,marker = 'o',linestyle=(0,(1,20)) , color=pigo)
-		l=ax.legend(loc='lower left', ncol=5, bbox_to_anchor=(-0.05, 1.01), frameon=False, facecolor='none')
-		lc=0
-		for text in l.get_texts():
-			text.set_color(pigo[lc])#"#efdecc")
-			lc=lc+1
-		#xtics should match cols
-		ax.set_xticks([xt for xt in range(0,cols+2)])
-		if useYears:
-			ax.set_xticklabels(['']+yrs[1:]+[''])
-		else:
-			ax.set_xticklabels(['']+tmp.columns.to_list()+[''])	
+		#tmp[colstoplot].sort_index().T.plot(ax=ax,kind=kind,marker = 'o',linestyle=(0,(1,20)) , color=pigo, legend=False)
+		sorttmp=tmp[colstoplot].sort_index().T
+		sorttmp.plot(ax=ax,kind=kind,marker = 'o', linestyle='None',color=pigo, legend=False, clip_on=False)
+		for line, name in zip(ax.lines, sorttmp.columns.to_list()):
+			y = line.get_ydata()[-1]
+			ax.annotate(name, xy=(1,y), xytext=(6,0), color=line.get_color(), 
+                xycoords = ax.get_yaxis_transform(), textcoords="offset points",
+                size=12, va="center")
+		ax.set_ylabel(mi['Unit of Measurement'],color="#d6cB74")
+		pad(False)	
 	#plt.annotate(getSource(i).replace(',','')+'\n'+str(mi.url), (0.,0), (0, -25), xycoords='axes fraction', textcoords='offset points', color='#E6DBff', va='top', fontstyle='italic')
 	plt.annotate(mi.Source+'\n'+str(mi.url), (0.,0), (0, -25), 
 		xycoords='axes fraction', textcoords='offset points', 
-		color='#E6DBff', va='top', fontstyle='italic', fontsize=14)
-	plt.annotate('Reference Period:'+ str(mi['Data Reference Period'])+
-		#' '+mi['Periodicity']+
-		'     Unit: '+mi['Unit of Measurement']+
-		'     Latest Data:'+str(mi['Latest Data Availability']),
-		(0.,0.), (0., -80), xycoords='axes fraction',color='#E6DBff', textcoords='offset points',fontsize=14)
+		color='#E6DBff', va='top', fontstyle='italic')#, fontsize=14)
 	#plt.annotate(mi['Target'], (-.3,0), (-1, -160), xycoords='axes fraction', textcoords='offset points', color="#bbbB74", fontsize=16)
-	#plt.annotate(mi['Desc'],(-0.3,-0.2), (0, 0), xycoords='axes fraction', textcoords='offset points', color="#E6DB74", fontsize=16)
+	#plt.annotate(mi['Desc'],(-1.,-0.2), (0, 0), xycoords='axes fraction', textcoords='offset points', color="#E6DB74", fontsize=16)
 	
 	prefix=''
 	#if kind=='bar':

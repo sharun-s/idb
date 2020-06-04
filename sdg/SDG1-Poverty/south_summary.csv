@@ -24,8 +24,8 @@
 135_MaternityBenefit.csv:Andhra Pradesh,92.86,92.10
 135_MaternityBenefit.csv:Karnataka,94.62,95.70
 135_MaternityBenefit.csv:Kerala,96.25,94.20
-135_MaternityBenefit.csv:Tamil Nadu,0.0,89.70
-135_MaternityBenefit.csv:Telangana,0.0,0.00
+135_MaternityBenefit.csv:Tamil Nadu,,89.70
+135_MaternityBenefit.csv:Telangana,,
 136_OldAgeHomes.csv:Andhra Pradesh,3450,2800
 136_OldAgeHomes.csv:Karnataka,1025,1375
 136_OldAgeHomes.csv:Kerala,200,100
