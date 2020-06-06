@@ -2,7 +2,10 @@ import pandas as p
 import matplotlib.pyplot as plt
 from locale import atof
 import numpy as np
+import json 
 
+with open('national_sdg1.json') as f:
+	national=json.load(f)
 meta=p.read_csv(r'sdg1_meta.csv')
 meta_idx=meta.Indicator.str.split(':').str[0].str.replace('.','')
 
@@ -17,20 +20,7 @@ df['indicator_no']=df['filename'].str.split('_').str[0]
 df['indicator_name']=df['filename'].str.split('_').str[1].str.split('.').str[0]
 df.drop(0,axis=1,inplace=True)
 indi=df['indicator_name'].unique()
-#numofcols_nonnull=lambda d:d[[1,2,3,4]].isnull().sum().value_counts(0)[0]
 numofcols_nonnull=lambda d:len([col for col in [1,2,3,4] if d.loc[:, col].notna().any()])
-
-
-def getSource(indicatorname):
-	fname=df[df['indicator_name']==indicatorname].filename.unique()
-	print(fname[0])
-	fdf=open(fname[0])
-	l=fdf.readlines()[-1]
-	fdf.close()
-	if l.find('Source')>-1:
-		print(l)
-		return l
-	return ''
 
 def getYears(indicatorname):
 	fname=df[df['indicator_name']==indicatorname].filename.unique()
@@ -85,7 +75,7 @@ for i in indi:
 	ax.spines['right'].set_color('white')
 	ax.spines['left'].set_color('white')
 	ax.tick_params(axis='y', colors='#E6DB74')#FD971F')
-	ax.tick_params(axis='x', colors='#E6DB74')
+	ax.tick_params(axis='x', colors='#E6DB74')#001f3f
 	#ax.set_xlim(0,175000)
 	#ax.set_ylabel('',visible=False)
 
@@ -99,7 +89,7 @@ for i in indi:
 	if cols==1:
 		kind='bar'
 	else:
-		kind='line'
+		kind='gbar'
 	#print(cols)
 	
 	yrs=getYears(i).split(',')
@@ -111,13 +101,20 @@ for i in indi:
 	if mi['Unit of Measurement'] == 'Percentage':
 		addPercToTickLabel=True
 
-	plt.annotate('Reference Period:'+ str(mi['Data Reference Period'])+
+	if useYears:
+		plt.annotate('Data: '+','.join(yrs[1:]),
+		(0.,1.), (0.,25), xycoords='axes fraction',
+		color='#E6DBff', textcoords='offset points',va='top', fontstyle='italic')
+	else:
+		lt.annotate('Reference Period:'+ 
+		' '.join(yrs),
+		#str(mi['Data Reference Period'])+
 		#' '+mi['Periodicity']+
-		#'     Unit: '+mi['Unit of Measurement']+
-		'  Latest Data:'+str(mi['Latest Data Availability']),
-		(.3,1.03), (0.,0), xycoords='axes fraction',color='#E6DBff', textcoords='offset points')
+		#'  Latest Data:'+str(mi['Latest Data Availability']),
+		(0.,1.), (0.,25), xycoords='axes fraction',
+		color='#E6DBff', textcoords='offset points',va='top', fontstyle='italic')
 
-	#print(getSource(i))
+
 	colstoplot=list(range(1,cols+1))
 	tmp=tmp[colstoplot+['state']].set_index('state')
 	#print(tmp.dtypes)
@@ -153,7 +150,7 @@ for i in indi:
 		ax.set_xticks([xticks[lx]])
 		ax.set_xticklabels([xt for xt in xticks if xt])
 		ax.set_yticklabels(tmp.index.to_list(), rotation=0)
-	else:
+	elif kind=='line':
 		#tmp[colstoplot].sort_index().T.plot(ax=ax,kind=kind,marker = 'o',linestyle=(0,(1,20)) , color=pigo, legend=False)
 		sorttmp=tmp[colstoplot].sort_index().T
 		sorttmp.plot(ax=ax,kind=kind,marker = 'o', linestyle='None',color=pigo, legend=False, clip_on=False)
@@ -163,8 +160,26 @@ for i in indi:
                 xycoords = ax.get_yaxis_transform(), textcoords="offset points",
                 size=12, va="center")
 		ax.set_ylabel(mi['Unit of Measurement'],color="#d6cB74")
-		pad(False)	
-	#plt.annotate(getSource(i).replace(',','')+'\n'+str(mi.url), (0.,0), (0, -25), xycoords='axes fraction', textcoords='offset points', color='#E6DBff', va='top', fontstyle='italic')
+		pad(False)
+	else:
+		# grouped bar
+		sorttmp=tmp[colstoplot].sort_index()
+		#print(sorttmp)
+		ax.set_ylabel(mi['Unit of Measurement'],color="#d6cB74")
+		ax.set_xlabel('',visible=False)
+		#sorttmp.plot(ax=ax,kind='bar')
+		x = range(0,len(sorttmp.columns))  # the label locations
+		width = 0.1
+		idx=0
+		for si in sorttmp.index:
+			#print(sorttmp.ix[si].values)
+			#print([idx+(xx*width) for xx in x])
+			ax.bar([idx+(xx*width) for xx in x], height=sorttmp.ix[si].values, width=0.1, color=ligo[idx])
+			idx=idx+1
+		ax.set_xticks(range(0,len(sorttmp.index)))
+		ax.tick_params(axis='x', colors='#001f3f')
+		ax.set_xticklabels(sorttmp.index.to_list(), rotation=0, color="#E6DB74")
+
 	plt.annotate(mi.Source+'\n'+str(mi.url), (0.,0), (0, -25), 
 		xycoords='axes fraction', textcoords='offset points', 
 		color='#E6DBff', va='top', fontstyle='italic')#, fontsize=14)
