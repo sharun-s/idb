@@ -29,9 +29,13 @@ with open(sys.argv[1]) as csvfile:
 			#pass
 			if row[0].lower()=='National Indicator is under development'.lower():
 				master[lastg]['targets'][lastt]['indev']=True
-			else:	
-				master[lastg]['targets'][lastt]['indicators'][lastindi]['val'].extend(row[2:])
-		
+			else:
+				try:
+					master[lastg]['targets'][lastt]['indicators'][lastindi]['val'].extend(row[2:])
+				except KeyError as e:
+					print(row)
+					raise e	
+				
 with open(sys.argv[1].replace('.csv','.json'), "w") as write_file:
 	json.dump(master, write_file)			
 		

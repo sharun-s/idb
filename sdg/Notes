@@ -1,0 +1,22 @@
+1. # Gets 25 pages? of tables at a time
+python3 getFromtabl.py data/SDGProgressReport2020.pdf 320 1
+
+2. egrep "Tamil|Karna|Keral|Andhra|Telan" *.csv >south_summary.csv
+
+3. right now sdg1 dir has a txt2csv that generates graph [shld really be csv2g?] based on southsummary.csv and sdg1_meta.csv
+python3 txt2csv.py
+
+4. Used to get meta info for each graph
+python3 getMetatabls.py data/SDGProgressReport2020.pdf '112-121' 1 sdg1_meta.csv
+python3 getMetatabls.py data/SDGProgressReport2020.pdf '122-130' 1 sdg2_meta.csv
+
+5. To get National stats csv
+t=camelot.read_pdf(r'data/SDGProgressReport2020.pdf',pages='72-109')
+df=p.concat([i.df for i in t])
+df.to_csv('national.csv',index=False)
+
+sed -n -e '/^Goal 3/,/^Goal 4/{ /^Goal 4/d; p;}' national.csv > national_sdg3.csv
+
+6. parse_national.py - takes a csv file camelot output and converts it into json
+
+***NOTE creating hierarchical json was simpler with parse_national than doing it through refine or pandas
