@@ -1,0 +1,1290 @@
+#Group,Detail,Sub-detail,Desc
+1,00,00,Central Receipts
+1,01,00,Share in Central Taxes
+1,01,01,Corporation Tax
+1,01,02,Taxes other than Corporation Tax
+1,01,03,Income and Expenditure Tax
+1,01,04,Wealth Tax
+1,01,05,Customs
+1,01,06,Union Excise Duties
+1,01,07,Service Tax
+1,01,08,Other Taxes and Duties
+1,01,09,Goods and Services Tax (GST)
+1,09,00,Finance Commission Grants
+1,09,01,Finance Commission Grants for Panchayati Raj Institutions - Rural
+1,09,02,Finance Commission Grants for Panchayati Raj Institutions - Urban
+1,09,03,Finance Commission Grants for State Disaster Response Fund
+1,10,00,National Disaster Response Fund
+1,10,01,Flood
+1,10,02,Drought
+1,10,03,Cyclone
+1,10,04,Earthquake
+1,10,05,Tsunami
+1,11,00,Compensation in lieu of Tax Losses
+1,11,01,Value Added Tax (VAT)
+1,11,02,Central Sales Tax (CST)
+1,11,03,Goods and Services Tax (GST)
+1,12,00,NITI AAYOG/ Planning Commission Grants
+1,12,01,General
+1,13,00,Agriculture
+1,13,01,Indivisible - Capital Grants
+1,13,05,Indivisible - Current Grants
+1,13,21,General Category - Capital Grants
+1,13,25,General Category - Current Grants
+1,13,41,Scheduled Castes - Capital Grants
+1,13,45,Scheduled Castes - Current Grants
+1,13,61,Scheduled Tribes - Capital Grants
+1,13,65,Scheduled Tribes - Current Grants
+1,14,00,Horticulture
+1,14,01,Indivisible - Capital Grants
+1,14,05,Indivisible - Current Grants
+1,14,21,General Category - Capital Grants
+1,14,25,General Category - Current Grants
+1,14,41,Scheduled Castes - Capital Grants
+1,14,45,Scheduled Castes - Current Grants
+1,14,61,Scheduled Tribes - Capital Grants
+1,14,65,Scheduled Tribes - Current Grants
+1,15,00,Animal Husbandry
+1,15,01,Indivisible - Capital Grants
+1,15,05,Indivisible - Current Grants
+1,15,21,General Category - Capital Grants
+1,15,25,General Category - Current Grants
+1,15,41,Scheduled Castes - Capital Grants
+1,15,45,Scheduled Castes - Current Grants
+1,15,61,Scheduled Tribes - Capital Grants
+1,15,65,Scheduled Tribes - Current Grants
+1,16,00,Dairy Development
+1,16,01,Indivisible - Capital Grants
+1,16,05,Indivisible - Current Grants
+1,16,21,General Category - Capital Grants
+1,16,25,General Category - Current Grants
+1,16,41,Scheduled Castes - Capital Grants
+1,16,45,Scheduled Castes - Current Grants
+1,16,61,Scheduled Tribes - Capital Grants
+1,16,65,Scheduled Tribes - Current Grants
+1,17,00,Fisheries
+1,17,01,Indivisible - Capital Grants
+1,17,05,Indivisible - Current Grants
+1,17,21,General Category - Capital Grants
+1,17,25,General Category - Current Grants
+1,17,41,Scheduled Castes - Capital Grants
+1,17,45,Scheduled Castes - Current Grants
+1,17,61,Scheduled Tribes - Capital Grants
+1,17,65,Scheduled Tribes - Current Grants
+1,18,00,Irrigation
+1,18,01,Indivisible - Capital Grants
+1,18,05,Indivisible - Current Grants
+1,18,21,General Category - Capital Grants
+1,18,25,General Category - Current Grants
+1,18,41,Scheduled Castes - Capital Grants
+1,18,45,Scheduled Castes - Current Grants
+1,18,61,Scheduled Tribes - Capital Grants
+1,18,65,Scheduled Tribes - Current Grants
+1,19,00,Arts and Culture
+1,19,01,Indivisible - Capital Grants
+1,19,05,Indivisible - Current Grants
+1,19,21,General Category - Capital Grants
+1,19,25,General Category - Current Grants
+1,19,41,Scheduled Castes - Capital Grants
+1,19,45,Scheduled Castes - Current Grants
+1,19,61,Scheduled Tribes - Capital Grants
+1,19,65,Scheduled Tribes - Current Grants
+1,20,00,Census and Statistics
+1,20,01,Indivisible - Capital Grants
+1,20,05,Indivisible - Current Grants
+1,20,21,General Category - Capital Grants
+1,20,25,General Category - Current Grants
+1,20,41,Scheduled Castes - Capital Grants
+1,20,45,Scheduled Castes - Current Grants
+1,20,61,Scheduled Tribes - Capital Grants
+1,20,65,Scheduled Tribes - Current Grants
+1,21,00,Civil Supplies and Consumer Protection
+1,21,01,Indivisible - Capital Grants
+1,21,05,Indivisible - Current Grants
+1,21,21,General Category - Capital Grants
+1,21,25,General Category - Current Grants
+1,21,41,Scheduled Castes - Capital Grants
+1,21,45,Scheduled Castes - Current Grants
+1,21,61,Scheduled Tribes - Capital Grants
+1,21,65,Scheduled Tribes - Current Grants
+1,22,00,Food Processing
+1,22,01,Indivisible - Capital Grants
+1,22,05,Indivisible - Current Grants
+1,22,21,General Category - Capital Grants
+1,22,25,General Category - Current Grants
+1,22,41,Scheduled Castes - Capital Grants
+1,22,45,Scheduled Castes - Current Grants
+1,22,61,Scheduled Tribes - Capital Grants
+1,22,65,Scheduled Tribes - Current Grants
+1,23,00,Elementary Education
+1,23,01,Indivisible - Capital Grants
+1,23,05,Indivisible - Current Grants
+1,23,21,General Category - Capital Grants
+1,23,25,General Category - Current Grants
+1,23,41,Scheduled Castes - Capital Grants
+1,23,45,Scheduled Castes - Current Grants
+1,23,61,Scheduled Tribes - Capital Grants
+1,23,65,Scheduled Tribes - Current Grants
+1,24,00,Nutritious Meal Programme
+1,24,01,Indivisible - Capital Grants
+1,24,05,Indivisible - Current Grants
+1,24,21,General Category - Capital Grants
+1,24,25,General Category - Current Grants
+1,24,41,Scheduled Castes - Capital Grants
+1,24,45,Scheduled Castes - Current Grants
+1,24,61,Scheduled Tribes - Capital Grants
+1,24,65,Scheduled Tribes - Current Grants
+1,25,00,Secondary Education
+1,25,01,Indivisible - Capital Grants
+1,25,05,Indivisible - Current Grants
+1,25,21,General Category - Capital Grants
+1,25,25,General Category - Current Grants
+1,25,41,Scheduled Castes - Capital Grants
+1,25,45,Scheduled Castes - Current Grants
+1,25,61,Scheduled Tribes - Capital Grants
+1,25,65,Scheduled Tribes - Current Grants
+1,26,00,Higher Education
+1,26,01,Indivisible - Capital Grants
+1,26,05,Indivisible - Current Grants
+1,26,21,General Category - Capital Grants
+1,26,25,General Category - Current Grants
+1,26,41,Scheduled Castes - Capital Grants
+1,26,45,Scheduled Castes - Current Grants
+1,26,61,Scheduled Tribes - Capital Grants
+1,26,65,Scheduled Tribes - Current Grants
+1,27,00,Employment Guarantee Programmes
+1,27,01,Indivisible - Capital Grants
+1,27,05,Indivisible - Current Grants
+1,27,21,General Category - Capital Grants
+1,27,25,General Category - Current Grants
+1,27,41,Scheduled Castes - Capital Grants
+1,27,45,Scheduled Castes - Current Grants
+1,27,61,Scheduled Tribes - Capital Grants
+1,27,65,Scheduled Tribes - Current Grants
+1,28,00,Other Livelihood Programmes
+1,28,01,Indivisible - Capital Grants
+1,28,05,Indivisible - Current Grants
+1,28,21,General Category - Capital Grants
+1,28,25,General Category - Current Grants
+1,28,41,Scheduled Castes - Capital Grants
+1,28,45,Scheduled Castes - Current Grants
+1,28,61,Scheduled Tribes - Capital Grants
+1,28,65,Scheduled Tribes - Current Grants
+1,29,00,Information Technology
+1,29,01,Indivisible - Capital Grants
+1,29,05,Indivisible - Current Grants
+1,29,21,General Category - Capital Grants
+1,29,25,General Category - Current Grants
+1,29,41,Scheduled Castes - Capital Grants
+1,29,45,Scheduled Castes - Current Grants
+1,29,61,Scheduled Tribes - Capital Grants
+1,29,65,Scheduled Tribes - Current Grants
+1,30,00,Energy
+1,30,01,Indivisible - Capital Grants
+1,30,05,Indivisible - Current Grants
+1,30,21,General Category - Capital Grants
+1,30,25,General Category - Current Grants
+1,30,41,Scheduled Castes - Capital Grants
+1,30,45,Scheduled Castes - Current Grants
+1,30,61,Scheduled Tribes - Capital Grants
+1,30,65,Scheduled Tribes - Current Grants
+1,31,00,Environment
+1,31,01,Indivisible - Capital Grants
+1,31,05,Indivisible - Current Grants
+1,31,21,General Category - Capital Grants
+1,31,25,General Category - Current Grants
+1,31,41,Scheduled Castes - Capital Grants
+1,31,45,Scheduled Castes - Current Grants
+1,31,61,Scheduled Tribes - Capital Grants
+1,31,65,Scheduled Tribes - Current Grants
+1,32,00,Forestry and Wildlife
+1,32,01,Indivisible - Capital Grants
+1,32,05,Indivisible - Current Grants
+1,32,21,General Category - Capital Grants
+1,32,25,General Category - Current Grants
+1,32,41,Scheduled Castes - Capital Grants
+1,32,45,Scheduled Castes - Current Grants
+1,32,61,Scheduled Tribes - Capital Grants
+1,32,65,Scheduled Tribes - Current Grants
+1,33,00,External Assistance
+1,33,01,Indivisible - Capital Grants
+1,33,05,Indivisible - Current Grants
+1,33,21,General Category - Capital Grants
+1,33,25,General Category - Current Grants
+1,33,41,Scheduled Castes - Capital Grants
+1,33,45,Scheduled Castes - Current Grants
+1,33,61,Scheduled Tribes - Capital Grants
+1,33,65,Scheduled Tribes - Current Grants
+1,34,00,Flood Control
+1,34,01,Indivisible - Capital Grants
+1,34,05,Indivisible - Current Grants
+1,34,21,General Category - Capital Grants
+1,34,25,General Category - Current Grants
+1,34,41,Scheduled Castes - Capital Grants
+1,34,45,Scheduled Castes - Current Grants
+1,34,61,Scheduled Tribes - Capital Grants
+1,34,65,Scheduled Tribes - Current Grants
+1,35,00,Handloom Development
+1,35,01,Indivisible - Capital Grants
+1,35,05,Indivisible - Current Grants
+1,35,21,General Category - Capital Grants
+1,35,25,General Category - Current Grants
+1,35,41,Scheduled Castes - Capital Grants
+1,35,45,Scheduled Castes - Current Grants
+1,35,61,Scheduled Tribes - Capital Grants
+1,35,65,Scheduled Tribes - Current Grants
+1,36,00,Health and Family Welfare
+1,36,01,Indivisible - Capital Grants
+1,36,05,Indivisible - Current Grants
+1,36,21,General Category - Capital Grants
+1,36,25,General Category - Current Grants
+1,36,41,Scheduled Castes - Capital Grants
+1,36,45,Scheduled Castes - Current Grants
+1,36,61,Scheduled Tribes - Capital Grants
+1,36,65,Scheduled Tribes - Current Grants
+1,37,00,Health - National Health Mission
+1,37,01,Indivisible - Capital Grants
+1,37,05,Indivisible - Current Grants
+1,37,21,General Category - Capital Grants
+1,37,25,General Category - Current Grants
+1,37,41,Scheduled Castes - Capital Grants
+1,37,45,Scheduled Castes - Current Grants
+1,37,61,Scheduled Tribes - Capital Grants
+1,37,65,Scheduled Tribes - Current Grants
+1,38,00,Health - Disease Control
+1,38,01,Indivisible - Capital Grants
+1,38,05,Indivisible - Current Grants
+1,38,21,General Category - Capital Grants
+1,38,25,General Category - Current Grants
+1,38,41,Scheduled Castes - Capital Grants
+1,38,45,Scheduled Castes - Current Grants
+1,38,61,Scheduled Tribes - Capital Grants
+1,38,65,Scheduled Tribes - Current Grants
+1,39,00,Hygiene and Sanitation
+1,39,01,Indivisible - Capital Grants
+1,39,05,Indivisible - Current Grants
+1,39,21,General Category - Capital Grants
+1,39,25,General Category - Current Grants
+1,39,41,Scheduled Castes - Capital Grants
+1,39,45,Scheduled Castes - Current Grants
+1,39,61,Scheduled Tribes - Capital Grants
+1,39,65,Scheduled Tribes - Current Grants
+1,40,00,Industries and Commerce
+1,40,01,Indivisible - Capital Grants
+1,40,05,Indivisible - Current Grants
+1,40,21,General Category - Capital Grants
+1,40,25,General Category - Current Grants
+1,40,41,Scheduled Castes - Capital Grants
+1,40,45,Scheduled Castes - Current Grants
+1,40,61,Scheduled Tribes - Capital Grants
+1,40,65,Scheduled Tribes - Current Grants
+1,41,00,"Micro, Medium and Small Scale Industries"
+1,41,01,Indivisible - Capital Grants
+1,41,05,Indivisible - Current Grants
+1,41,21,General Category - Capital Grants
+1,41,25,General Category - Current Grants
+1,41,41,Scheduled Castes - Capital Grants
+1,41,45,Scheduled Castes - Current Grants
+1,41,61,Scheduled Tribes - Capital Grants
+1,41,65,Scheduled Tribes - Current Grants
+1,42,00,Land Reforms
+1,42,01,Indivisible - Capital Grants
+1,42,05,Indivisible - Current Grants
+1,42,21,General Category - Capital Grants
+1,42,25,General Category - Current Grants
+1,42,41,Scheduled Castes - Capital Grants
+1,42,45,Scheduled Castes - Current Grants
+1,42,61,Scheduled Tribes - Capital Grants
+1,42,65,Scheduled Tribes - Current Grants
+1,43,00,Judiciary
+1,43,01,Indivisible - Capital Grants
+1,43,05,Indivisible - Current Grants
+1,43,21,General Category - Capital Grants
+1,43,25,General Category - Current Grants
+1,43,41,Scheduled Castes - Capital Grants
+1,43,45,Scheduled Castes - Current Grants
+1,43,61,Scheduled Tribes - Capital Grants
+1,43,65,Scheduled Tribes - Current Grants
+1,44,00,Major Road Works
+1,44,01,Indivisible - Capital Grants
+1,44,05,Indivisible - Current Grants
+1,44,21,General Category - Capital Grants
+1,44,25,General Category - Current Grants
+1,44,41,Scheduled Castes - Capital Grants
+1,44,45,Scheduled Castes - Current Grants
+1,44,61,Scheduled Tribes - Capital Grants
+1,44,65,Scheduled Tribes - Current Grants
+1,45,00,Other Road Works
+1,45,01,Indivisible - Capital Grants
+1,45,05,Indivisible - Current Grants
+1,45,21,General Category - Capital Grants
+1,45,25,General Category - Current Grants
+1,45,41,Scheduled Castes - Capital Grants
+1,45,45,Scheduled Castes - Current Grants
+1,45,61,Scheduled Tribes - Capital Grants
+1,45,65,Scheduled Tribes - Current Grants
+1,46,00,Police and Prisons
+1,46,01,Indivisible - Capital Grants
+1,46,05,Indivisible - Current Grants
+1,46,21,General Category - Capital Grants
+1,46,25,General Category - Current Grants
+1,46,41,Scheduled Castes - Capital Grants
+1,46,45,Scheduled Castes - Current Grants
+1,46,61,Scheduled Tribes - Capital Grants
+1,46,65,Scheduled Tribes - Current Grants
+1,47,00,Refugees Relief
+1,47,01,Indivisible - Capital Grants
+1,47,05,Indivisible - Current Grants
+1,47,21,General Category - Capital Grants
+1,47,25,General Category - Current Grants
+1,47,41,Scheduled Castes - Capital Grants
+1,47,45,Scheduled Castes - Current Grants
+1,47,61,Scheduled Tribes - Capital Grants
+1,47,65,Scheduled Tribes - Current Grants
+1,48,00,Rural Housing
+1,48,01,Indivisible - Capital Grants
+1,48,05,Indivisible - Current Grants
+1,48,21,General Category - Capital Grants
+1,48,25,General Category - Current Grants
+1,48,41,Scheduled Castes - Capital Grants
+1,48,45,Scheduled Castes - Current Grants
+1,48,61,Scheduled Tribes - Capital Grants
+1,48,65,Scheduled Tribes - Current Grants
+1,49,00,Other Rural Development Programmes
+1,49,01,Indivisible - Capital Grants
+1,49,05,Indivisible - Current Grants
+1,49,21,General Category - Capital Grants
+1,49,25,General Category - Current Grants
+1,49,41,Scheduled Castes - Capital Grants
+1,49,45,Scheduled Castes - Current Grants
+1,49,61,Scheduled Tribes - Capital Grants
+1,49,65,Scheduled Tribes - Current Grants
+1,50,00,Scholarships and Stipends
+1,50,01,Indivisible - Capital Grants
+1,50,05,Indivisible - Current Grants
+1,50,21,General Category - Capital Grants
+1,50,25,General Category - Current Grants
+1,50,41,Scheduled Castes - Capital Grants
+1,50,45,Scheduled Castes - Current Grants
+1,50,61,Scheduled Tribes - Capital Grants
+1,50,65,Scheduled Tribes - Current Grants
+1,51,00,Capacity Building and Training
+1,51,01,Indivisible - Capital Grants
+1,51,05,Indivisible - Current Grants
+1,51,21,General Category - Capital Grants
+1,51,25,General Category - Current Grants
+1,51,41,Scheduled Castes - Capital Grants
+1,51,45,Scheduled Castes - Current Grants
+1,51,61,Scheduled Tribes - Capital Grants
+1,51,65,Scheduled Tribes - Current Grants
+1,52,00,Skill Development
+1,52,01,Indivisible - Capital Grants
+1,52,05,Indivisible - Current Grants
+1,52,21,General Category - Capital Grants
+1,52,25,General Category - Current Grants
+1,52,41,Scheduled Castes - Capital Grants
+1,52,45,Scheduled Castes - Current Grants
+1,52,61,Scheduled Tribes - Capital Grants
+1,52,65,Scheduled Tribes - Current Grants
+1,53,00,Social Security Pensions
+1,53,01,Indivisible - Capital Grants
+1,53,05,Indivisible - Current Grants
+1,53,21,General Category - Capital Grants
+1,53,25,General Category - Current Grants
+1,53,41,Scheduled Castes - Capital Grants
+1,53,45,Scheduled Castes - Current Grants
+1,53,61,Scheduled Tribes - Capital Grants
+1,53,65,Scheduled Tribes - Current Grants
+1,54,00,Special Component Plan
+1,54,01,Indivisible - Capital Grants
+1,54,05,Indivisible - Current Grants
+1,54,21,General Category - Capital Grants
+1,54,25,General Category - Current Grants
+1,54,41,Scheduled Castes - Capital Grants
+1,54,45,Scheduled Castes - Current Grants
+1,54,61,Scheduled Tribes - Capital Grants
+1,54,65,Scheduled Tribes - Current Grants
+1,55,00,Tourism/ Heritage
+1,55,01,Indivisible - Capital Grants
+1,55,05,Indivisible - Current Grants
+1,55,21,General Category - Capital Grants
+1,55,25,General Category - Current Grants
+1,55,41,Scheduled Castes - Capital Grants
+1,55,45,Scheduled Castes - Current Grants
+1,55,61,Scheduled Tribes - Capital Grants
+1,55,65,Scheduled Tribes - Current Grants
+1,56,00,Welfare of OBCs - Other Schemes
+1,56,01,Indivisible - Capital Grants
+1,56,05,Indivisible - Current Grants
+1,56,21,General Category - Capital Grants
+1,56,25,General Category - Current Grants
+1,56,41,Scheduled Castes - Capital Grants
+1,56,45,Scheduled Castes - Current Grants
+1,56,61,Scheduled Tribes - Capital Grants
+1,56,65,Scheduled Tribes - Current Grants
+1,58,00,Tribal Area Development
+1,58,01,Indivisible - Capital Grants
+1,58,05,Indivisible - Current Grants
+1,58,21,General Category - Capital Grants
+1,58,25,General Category - Current Grants
+1,58,41,Scheduled Castes - Capital Grants
+1,58,45,Scheduled Castes - Current Grants
+1,58,61,Scheduled Tribes - Capital Grants
+1,58,65,Scheduled Tribes - Current Grants
+1,59,00,Urban Housing
+1,59,01,Indivisible - Capital Grants
+1,59,05,Indivisible - Current Grants
+1,59,21,General Category - Capital Grants
+1,59,25,General Category - Current Grants
+1,59,41,Scheduled Castes - Capital Grants
+1,59,45,Scheduled Castes - Current Grants
+1,59,61,Scheduled Tribes - Capital Grants
+1,59,65,Scheduled Tribes - Current Grants
+1,60,00,Urban Infrastructure (I.T.)
+1,60,01,Indivisible - Capital Grants
+1,60,05,Indivisible - Current Grants
+1,60,21,General Category - Capital Grants
+1,60,25,General Category - Current Grants
+1,60,41,Scheduled Castes - Capital Grants
+1,60,45,Scheduled Castes - Current Grants
+1,60,61,Scheduled Tribes - Capital Grants
+1,60,65,Scheduled Tribes - Current Grants
+1,61,00,Other Urban Development Programmes
+1,61,01,Indivisible - Capital Grants
+1,61,05,Indivisible - Current Grants
+1,61,21,General Category - Capital Grants
+1,61,25,General Category - Current Grants
+1,61,41,Scheduled Castes - Capital Grants
+1,61,45,Scheduled Castes - Current Grants
+1,61,61,Scheduled Tribes - Capital Grants
+1,61,65,Scheduled Tribes - Current Grants
+1,62,00,Water Supply
+1,62,01,Indivisible - Capital Grants
+1,62,05,Indivisible - Current Grants
+1,62,21,General Category - Capital Grants
+1,62,25,General Category - Current Grants
+1,62,41,Scheduled Castes - Capital Grants
+1,62,45,Scheduled Castes - Current Grants
+1,62,61,Scheduled Tribes - Capital Grants
+1,62,65,Scheduled Tribes - Current Grants
+1,63,00,Child Welfare
+1,63,01,Indivisible - Capital Grants
+1,63,05,Indivisible - Current Grants
+1,63,21,General Category - Capital Grants
+1,63,25,General Category - Current Grants
+1,63,41,Scheduled Castes - Capital Grants
+1,63,45,Scheduled Castes - Current Grants
+1,63,61,Scheduled Tribes - Capital Grants
+1,63,65,Scheduled Tribes - Current Grants
+1,64,00,Women Development
+1,64,01,Indivisible - Capital Grants
+1,64,05,Indivisible - Current Grants
+1,64,21,General Category - Capital Grants
+1,64,25,General Category - Current Grants
+1,64,41,Scheduled Castes - Capital Grants
+1,64,45,Scheduled Castes - Current Grants
+1,64,61,Scheduled Tribes - Capital Grants
+1,64,65,Scheduled Tribes - Current Grants
+1,65,00,Youth Affairs and Sports
+1,65,01,Indivisible - Capital Grants
+1,65,05,Indivisible - Current Grants
+1,65,21,General Category - Capital Grants
+1,65,25,General Category - Current Grants
+1,65,41,Scheduled Castes - Capital Grants
+1,65,45,Scheduled Castes - Current Grants
+1,65,61,Scheduled Tribes - Capital Grants
+1,65,65,Scheduled Tribes - Current Grants
+1,66,00,Differently abled persons
+1,66,01,Indivisible - Capital Grants
+1,66,05,Indivisible - Current Grants
+1,66,21,General Category - Capital Grants
+1,66,25,General Category - Current Grants
+1,66,41,Scheduled Castes - Capital Grants
+1,66,45,Scheduled Castes - Current Grants
+1,66,61,Scheduled Tribes - Capital Grants
+1,66,65,Scheduled Tribes - Current Grants
+1,67,00,Minorities Welfare
+1,67,01,Indivisible - Capital Grants
+1,67,05,Indivisible - Current Grants
+1,67,21,General Category - Capital Grants
+1,67,25,General Category - Current Grants
+1,67,41,Scheduled Castes - Capital Grants
+1,67,45,Scheduled Castes - Current Grants
+1,67,61,Scheduled Tribes - Capital Grants
+1,67,65,Scheduled Tribes - Current Grants
+1,68,00,Technical Education
+1,68,01,Indivisible - Capital Grants
+1,68,05,Indivisible - Current Grants
+1,68,21,General Category - Capital Grants
+1,68,25,General Category - Current Grants
+1,68,41,Scheduled Castes - Capital Grants
+1,68,45,Scheduled Castes - Current Grants
+1,68,61,Scheduled Tribes - Capital Grants
+1,68,65,Scheduled Tribes - Current Grants
+1,69,00,Drinking Water
+1,69,01,Indivisible - Capital Grants
+1,69,05,Indivisible - Current Grants
+1,69,21,General Category - Capital Grants
+1,69,25,General Category - Current Grants
+1,69,41,Scheduled Castes - Capital Grants
+1,69,45,Scheduled Castes - Current Grants
+1,69,61,Scheduled Tribes - Capital Grants
+1,69,65,Scheduled Tribes - Current Grants
+1,77,00,Deduct - Refund of Unspent Grants
+1,77,05,Indivisible - Current Grants
+1,99,00,Other Grants
+1,99,01,Indivisible - Capital Grants
+1,99,05,Indivisible - Current Grants
+1,99,21,General Category - Capital Grants
+1,99,25,General Category - Current Grants
+1,99,41,Scheduled Castes - Capital Grants
+1,99,45,Scheduled Castes - Current Grants
+1,99,61,Scheduled Tribes - Capital Grants
+1,99,65,Scheduled Tribes - Current Grants
+2,00,00,State Resources (SOTR/SONTR/Cap Receipts)
+2,01,00,Excess due to Mistake / Inadvertence
+2,01,01,Excess due to Mistake / Inadvertence
+2,02,00,Exports
+2,02,01,Exports
+2,03,00,Deemed Exports
+2,03,01,Deemed Exports
+2,04,00,Provisional Assesments
+2,04,01,Provisional Assesments
+2,05,00,Pre-deposit for filing appeals
+2,05,01,Pre-deposit for filing appeals
+2,06,00,Duty paid during investigation
+2,06,01,Duty paid during investigation
+2,07,00,Purchase made by Embassies
+2,07,01,Purchase made by Embassies
+2,08,00,Accumulated credit due to inverted duty structure
+2,08,01,Accumulated credit due to inverted duty structure
+2,09,00,Year end or volume based incentives
+2,09,01,Year end or volume based incentives
+2,10,00,International Tourists
+2,10,01,International Tourists
+2,11,00,Others
+2,11,01,Others
+2,14,00,Taxes
+2,14,01,Inter-State Sales Tax (Central Sales Tax)
+2,14,02,State Goods and Service Tax
+2,14,03,Integrated Goods and Service Tax
+2,14,06,Value Added Tax
+2,14,07,General Sales Tax
+2,14,16,Non-Value Added Tax-Petroleum Goods
+2,14,17,Non-Value Added Tax-Sugar Cane
+2,14,18,Non-Value Added Tax-Tobacco and Tobacco Products
+2,14,19,Non-Value Added Tax-Other Goods
+2,14,31,State Excise
+2,14,41,Registration
+2,14,56,Vehicles Tax
+2,14,66,Taxes on Goods and Passengers
+2,14,71,Electricity Tax
+2,14,76,Entertainment Tax
+2,14,81,Betting Tax
+2,14,86,Luxury Tax
+2,14,91,Land Tax
+2,14,95,Fiscal Fines and Penalty
+2,14,97,"Forfeiture, Seizure, Confiscation, etc"
+2,14,99,Others
+2,15,00,"Levy, Cess, Surcharge, etc. on Taxes"
+2,15,01,Inter-State Sales Tax (Central Sales Tax)
+2,15,06,Value Added Tax
+2,15,07,General Sales Tax
+2,15,16,Non-Value Added Tax-Petroleum Goods
+2,15,17,Non-Value Added Tax-Sugar Cane
+2,15,18,Non-Value Added Tax-Tobacco and Tobacco Products
+2,15,19,Non-Value Added Tax-Other Goods
+2,15,31,State Excise
+2,15,32,Licence Fee
+2,15,39,Duty
+2,15,41,Registration
+2,15,51,Stamps
+2,15,56,Vehicles Tax
+2,15,66,Taxes on Goods and Passengers
+2,15,71,Electricity Tax
+2,15,76,Entertainment Tax
+2,15,77,Deduct-Refunds
+2,15,81,Betting Tax
+2,15,86,Luxury Tax
+2,15,91,Land Tax
+2,15,95,Fiscal Fines and Penalty
+2,15,97,"Forfeiture, Seizure, Confiscation, etc"
+2,15,99,Others
+2,16,00,Taxation Fees
+2,16,01,Inter-State Sales Tax (Central Sales Tax)
+2,16,03,Taxes
+2,16,06,Value Added Tax
+2,16,07,General Sales Tax
+2,16,16,Non-Value Added Tax-Petroleum Goods
+2,16,17,Non-Value Added Tax-Sugar Cane
+2,16,18,Non-Value Added Tax-Tobacco and Tobacco Products
+2,16,19,Non-Value Added Tax-Other Goods
+2,16,31,State Excise
+2,16,32,Vend Fee
+2,16,33,Additional Vend Fee
+2,16,34,Licence Fee
+2,16,41,Registration
+2,16,51,Stamps
+2,16,56,Vehicles Tax
+2,16,66,Taxes on Goods and Passengers
+2,16,71,Electricity Tax
+2,16,72,Inspection Fees - Electricity Charges
+2,16,76,Entertainment Tax
+2,16,81,Betting Tax
+2,16,86,Luxury Tax
+2,16,91,Land Tax
+2,16,95,Fiscal Fines and Penalty
+2,16,97,"Forfeiture, Seizure, Confiscation, etc"
+2,16,99,Others
+2,17,00,Stamps Duty
+2,17,01,Judicial-in lieu of Court Fees
+2,17,02,Judicial-Copy Stamp Papers
+2,17,21,Non-Judicial-Hundy Stamps
+2,17,22,Non-Judicial-Adhesive Revenue Stamps
+2,17,23,Non-Judicial-Other Stamps
+2,17,41,Duties-Other Stamps
+2,17,42,Duties-Unstamped/ Insufficiently stamped
+2,17,95,Fiscal Fines and Penalty
+2,17,97,"Forfeiture, Seizure, Confiscation, etc"
+2,17,99,Others
+2,18,00,Taxation Service Charges
+2,18,01,Vehicles Tax
+2,18,95,Fiscal Fines and Penalty
+2,18,97,"Forfeiture, Seizure, Confiscation, etc"
+2,18,99,Others
+2,19,00,Taxes - Refunds
+2,19,01,Excess due to Mistake / Inadvertence
+2,19,02,Exports
+2,19,03,Deemed Exports
+2,19,04,Provisional Assesments
+2,19,05,Pre-Deposits for filing appeals
+2,19,06,Duty paid during Investigation
+2,19,07,Purchases made by Embassies
+2,19,08,Accumulated credit due to Inverted
+2,19,09,Year end or volume based incentives
+2,19,10,International Tourists
+2,19,99,Others
+2,21,00,Receipts from Central Government
+2,21,01,Education (for SSA & RMSA)
+2,21,02,Handlooms & Textiles
+2,21,03,Health & Family Welfare (NRHM-Construction& Sterlization
+Programme)
+2,21,04,Police
+2,21,05,Highways
+2,21,06,Electricity
+2,21,07,Training
+2,21,08,Grants
+2,21,09,"Tourism, Culture and Religious Endowments"
+2,21,10,Administration of Justice
+2,21,99,Others
+2,22,00,Subsidies
+2,22,01,National Cooperative Development Corporation
+2,22,99,Others
+2,23,00,Contributions and Donations
+2,23,01,Leave Salary
+2,23,02,Pension
+2,23,03,Gratuity
+2,23,04,Provident Funds
+2,23,05,New Pension Scheme
+2,23,21,Local Bodies
+2,23,22,Elementary Schools
+2,23,23,Matriculation Schools
+2,23,24,Endowments/ Public
+2,23,25,Employees' State Insurance Corporation
+2,23,39,Private Individuals
+2,23,40,Other Institutions
+2,23,41,Donations
+2,23,99,Others
+2,24,00,Subscriptions
+2,24,01,New Health Insurance Scheme-Employees
+2,24,02,New Health Insurance Scheme-Pensioners
+2,24,03,Family Benefit Fund
+2,24,04,Group Insurance
+2,24,95,Fiscal Fines and Penalty
+2,24,99,Others
+2,25,00,Interest
+2,25,01,Investments
+2,25,02,Premium
+2,25,03,Deposits
+2,25,04,Accrued Interest
+2,25,11,Public Sector Undertakings/ Boards/ Corporations
+2,25,12,Local Bodies
+2,25,13,Co-Operative Institutions
+2,25,14,Universities
+2,25,15,Work Advances
+2,25,30,Loans controlled by Heads of Department
+2,25,31,House Building Advances
+2,25,32,Advance for the Purchase of Motor Cars
+2,25,33,Advance for the Purchase of conveyance other than MotorCars
+2,25,34,Advance for the purchase of Warm Clothing
+2,25,35,Advance for the celebration of marriage
+2,25,36,Advance for the purchase of Computers
+2,25,61,Belated Remittances
+2,25,62,Unspent Balance
+2,25,96,Penal Interest
+2,25,99,Others
+2,26,00,Dividends
+2,26,01,Public Sector Undertakings/ Boards/ Corporations
+2,26,02,Co-Operative Institutions
+2,26,03,Other Institutions
+2,26,95,Fiscal Fines and Penalty
+2,26,99,Others
+2,27,00,Non-Taxation Fees
+2,27,01,Admission
+2,27,02,Adjudication/ Arbitration
+2,27,03,Advertisement & Publicity
+2,27,04,Affiliation
+2,27,05,Application
+2,27,06,Audit
+2,27,07,Berthing
+2,27,08,Certificates/ Records
+2,27,09,Collections
+2,27,10,Court
+2,27,11,Copying
+2,27,12,Entrance
+2,27,13,Examination
+2,27,14,Execution
+2,27,15,Ferrying
+2,27,16,Film Shooting
+2,27,17,Forensic Services
+2,27,18,Hostels
+2,27,19,Inspection/ Verification
+2,27,20,Laboratories
+2,27,21,Labour Laws
+2,27,22,Licence
+2,27,23,Liquidation
+2,27,24,Market
+2,27,25,Medical
+2,27,26,Nomination
+2,27,27,Processing
+2,27,28,Publication
+2,27,29,Registration
+2,27,30,Regularisation
+2,27,31,Retotalling/ Revaluation
+2,27,32,Stamping Weights & Measures
+2,27,33,Supervision
+2,27,34,Testing
+2,27,35,Toll
+2,27,36,Training
+2,27,37,Tuition
+2,27,38,Upkeep of Fire Arms
+2,27,39,Translation and Printing Fees
+2,27,40,Data Processing
+2,27,41,Colleges
+2,27,42,Navigation
+2,27,43,"Percentages, Commissions and other remuneration"
+2,27,95,Fiscal Fines and Penalty
+2,27,97,"Forfeiture, Seizure, Confiscation, etc"
+2,27,99,Others
+2,28,00,Guarantee Fees
+2,28,01,Public Sector Undertakings/ Boards/ Coporations
+2,28,02,Co-Operative Institutions
+2,28,03,Local Bodies
+2,28,95,Fiscal Fines and Penalty
+2,28,99,Others
+2,29,00,Fines & Penalties
+2,29,01,Health & Family Welfare
+2,29,02,Judicial
+2,29,03,Labour
+2,29,04,Motor Vehicles
+2,29,05,Police
+2,29,06,Government
+2,29,07,Payable to Local Bodies
+2,29,97,"Forfeiture, Seizure, Confiscation, etc"
+2,29,99,Others
+2,30,00,Inter-Account Transfers
+2,30,01,Inter-Account Transfers
+2,31,00,Receipt of Rent / Hire Charges/ Lease
+2,31,01,Rent for Government Quarters-Employees
+2,31,02,Rent for Government Quarters-Other than employees
+2,31,03,Rent from Guest Houses
+2,31,04,Rent from Others
+2,31,21,Hire Charges of Machinery & Equipments
+2,31,22,Hire Charges of Tools & Plants
+2,31,41,Lease of Land
+2,31,42,Lease of Buildings
+2,31,43,Lease of Machinery and Equipments
+2,31,44,Lease of Irrigation Canals
+2,31,45,Lease of Avenue Trees
+2,31,46,Lease of Fisheries
+2,31,95,Fiscal Fines and Penalty
+2,31,97,"Forfeiture, Seizure, Confiscation, etc"
+2,31,99,Others
+2,32,00,Royalty
+2,32,01,Ferrous
+2,32,21,Non-Ferrous
+2,32,41,Metallic
+2,32,61,Mines & Quarries
+2,32,95,Fiscal Fines and Penalty
+2,32,97,"Forfeiture, Seizure, Confiscation, etc"
+2,32,99,Others
+2,33,00,Professional and Special Services
+2,33,01,Arts & Culture
+2,33,02,Education
+2,33,03,Fire Services
+2,33,04,Geology
+2,33,05,Highways
+2,33,06,Judicial
+2,33,07,Medical
+2,33,08,Police
+2,33,09,Public Works-Buildings
+2,33,10,Public Works-Irrigation
+2,33,11,Workshops
+2,33,95,Fiscal Fines and Penalty
+2,33,97,"Forfeiture, Seizure, Confiscation, etc"
+2,33,99,Others
+2,34,00,Centage Charges
+2,34,01,Collected by Highways
+2,34,02,Collected by Public Works-Buildings
+2,34,03,Collected by Public Works-Irrigation
+2,34,95,Fiscal Fines and Penalty
+2,34,99,Others
+2,35,00,Writes off and Gains
+2,35,01,Central Government
+2,35,02,Central Agencies
+2,35,03,Financial Institutions
+2,35,04,Unclaimed Open Market Loans
+2,35,05,Unclaimed/ Forfeited Bonds
+2,35,99,Others
+2,36,00,Compensation
+2,36,01,Moveable Properties
+2,36,41,Immoveable Properties
+2,36,99,Others
+2,37,00,Sale Proceeds
+2,37,01,Agriculture
+2,37,02,Horticulture
+2,37,03,Animal Husbandry
+2,37,04,Dairying
+2,37,05,Canal Plantations-Irrigation
+2,37,06,Condemned Vehicles
+2,37,07,Correctional Homes Produces
+2,37,08,Dead Stock and other Waste Articles
+2,37,09,Electoral Rolls
+2,37,10,Empty Gunny Bags
+2,37,11,Fisheries
+2,37,12,Forest Produces
+2,37,13,"Forms, Publications, Gazettes, etc"
+2,37,14,Jail Manufacture
+2,37,15,Journals
+2,37,16,Land & Buildings
+2,37,17,Leprosy & Beggar Rehabilitation Homes Produce
+2,37,18,Medicine
+2,37,19,Old Stores & Materials
+2,37,20,Tender
+2,37,21,Vehicles
+2,37,22,Water
+2,37,23,Fuel by Government Petrol Pumps
+2,37,24,Weights and Measures
+2,37,25,Industrial Purpose
+2,37,95,Fiscal Fines and Penalty
+2,37,99,Others
+2,38,00,State Lotteries/ Raffles
+2,38,01,Sale of Lotteries
+2,38,95,Fiscal Fines and Penalty
+2,38,97,"Forfeiture, Seizure, Confiscation, etc"
+2,38,99,Others
+2,39,00,Stationery & Printing
+2,39,01,Stationery Supply
+2,39,02,Printing Charges
+2,39,03,Lamination Charges
+2,39,95,Fiscal Fines and Penalty
+2,39,99,Others
+2,40,00,Transport Charges
+2,40,01,Use of Government Vehicles
+2,40,99,Others
+2,41,00,Lapsed Deposits
+2,41,01,Lapsed Deposits
+2,41,02,Unclaimed Deposits
+2,41,03,Forfeited Deposits
+2,41,99,Others
+2,42,00,Recoveries
+2,42,01,Guard Services
+2,42,02,Tamil Nadu Special Police Battalion-Govt. of India
+2,42,03,Tamil Nadu Special Police Battalion-Other State Govts.
+2,42,04,Railway Police
+2,42,05,Election Expenses
+2,42,06,Establishment Charges
+2,42,07,Fuel Charges
+2,42,08,Hire Purchase
+2,42,09,Local Bodies
+2,42,10,Telephone Charges
+2,42,11,Railways
+2,42,12,Electricity
+2,42,13,Land Revenue
+2,42,14,Overpayments
+2,42,95,Fiscal Fines and Penalty
+2,42,99,Others
+2,43,00,Infrastructure & Amenities Charges
+2,43,01,Urban
+2,43,02,Rural
+2,43,03,Fund
+2,43,95,Fiscal Fines and Penalty
+2,43,99,Others
+2,44,00,Premium Floor Space Index Charges
+2,44,01,Urban
+2,44,95,Fiscal Fines and Penalty
+2,44,99,Others
+2,45,00,Open Space Reservation Area
+2,45,01,Urban
+2,45,95,Fiscal Fines and Penalty
+2,45,99,Others
+2,77,00,Deduct Refunds
+2,77,01,Excess Remittances/ Recoveries
+2,77,02,Exporters under State Value Added Tax Act
+2,77,03,Others under State Value Added Tax Act
+2,77,04,Stamps Duty and Registration Fees to Local Bodies
+2,77,05,Entertainment Tax to Local Bodies
+2,77,06,Seigniorage Fee for Sand Quarrying to Local Bodies
+2,77,07,Income from Minor Minerals to Local Bodies
+2,77,11,Land Tax and Cess for Local Bodies
+2,77,12,Cesses in Permanently Settled Estates and Shorta
+2,77,13,Spoiled Stamps
+2,77,14,Stamps received from Deceased Vendors
+2,77,99,Others
+2,78,00,Pro-rata adjustments
+2,78,01,Buildings
+2,78,02,Irrigation
+2,78,03,Highways
+2,89,00,Old Data Conversion
+2,89,01,Old Data
+2,90,00,Miscellaneous Revenue Receipts
+2,90,01,Miscellaneous Receipts
+2,91,00,Sale of Assets
+2,91,01,Lands
+2,91,02,Buildings
+2,91,03,Others
+2,92,00,Bonus Shares
+2,92,01,Public Sector Undertakings/Boards/Corporations
+2,92,02,Co-Operative Institutions
+2,92,03,Other Institutions
+2,93,00,Disinvestment Proceeds
+2,93,01,Public Sector Undertakings/Boards/Corporations
+2,93,02,Co-Operative Institutions
+2,93,03,Other Institutions
+2,99,00,Miscellaneous Capital Receipts
+2,99,01,Others
+3,00,00,Revenue Expenditure
+3,01,00,Salaries
+3,01,01,Pay
+3,01,02,Medical Allowance
+3,01,03,Medical Charges
+3,01,04,Other Allowances
+3,01,05,Interim Relief
+3,01,06,House Rent Allowance
+3,01,07,Travel Concession
+3,01,08,City Compensatory Allowance
+3,01,09,Honorarium
+3,02,00,Wages
+3,02,01,Wages
+3,03,00,Dearness Allowance
+3,03,01,Dearness Allowance
+3,03,02,Dearness Allowance Arrears
+3,03,03,Dearness Pay
+3,04,00,Travel Expenses
+3,04,01,Tour Travelling Allowances
+3,04,02,Transfer Travelling Allowances
+3,04,03,Fixed Travelling Allowance
+3,05,00,Office Expenses
+3,05,01,Telephone Charges
+3,05,02,Other Contingencies
+3,05,03,Electricity Charges
+3,05,04,Service Postage & Postal Expenditure
+3,05,05,Furniture
+3,05,06,Investigation Charges
+3,06,00,"Rent, Rates and Taxes"
+3,06,01,Rent
+3,06,02,Property tax
+3,06,03,Water Charges
+3,06,04,Lease for Land
+3,06,05,Others
+3,06,06,Banking Cash Transaction Tax
+3,06,07,Annuity / Lease rent for supply of furniture
+3,07,00,Publications
+3,07,01,Publications
+3,08,00,Advertising and Publicity
+3,08,01,Advertisement Charges - Voted
+3,08,02,Exhibition
+3,08,03,Demonstration
+3,08,09,Others
+3,08,51,Advertisement Charges - Charged
+3,09,00,Grants-in-Aid
+3,09,01,Grants for Current Expenditure
+3,09,02,Grants for Creation of Capital Assets
+3,09,03,Grants for Specific Schemes
+3,09,04,Grants for Debt Servicing
+3,09,09,Others
+3,10,00,Contributions
+3,10,01,Contribution to Specific Fund
+3,10,02,Insurance Premium
+3,10,09,Others
+3,11,00,Subsidies
+3,11,01,Individual Based Subsidy
+3,11,02,General Subsidy
+3,11,09,Others
+3,12,00,Scholarships and Stipends
+3,12,01,Pre-Matric
+3,12,02,Post-Matric
+3,12,09,Others
+3,13,00,Hospitality / Entertainment Expenditure 
+3,13,01,Hospitality / Entertainment Expenditure
+3,14,00,Sumptuary Allowances 
+3,14,01,Sumptuary Allowances
+3,15,00,Secret Service Expenditure
+3,15,01,Secret Service Expenditure
+3,16,00,Major Works
+3,16,01,Major Works
+3,17,00,Minor Works
+3,17,01,Minor Works
+3,18,00,Maintenance
+3,18,01,Periodical Maintenance
+3,18,02,Special Maintenance
+3,18,03,Work Charge Establishment
+3,18,04,Wages
+3,18,09,Others
+3,19,00,Machinery and Equipments
+3,19,01,Purchase
+3,19,02,Renewal and Replacement
+3,19,03,Maintenance
+3,19,04,Lease Rent
+3,20,00,Tools and Plant
+3,20,01,Purchase
+3,20,02,Renewal and Replacement
+3,20,03,Maintenance
+3,21,00,Motor Vehicles
+3,21,01,Purchase
+3,21,02,Maintenance of Functional Vehicles
+3,21,03,Hire Charges
+3,21,04,Lease Rent
+3,22,00,Investments
+3,22,01,Investments
+3,23,00,Loans
+3,23,01,Loans
+3,24,00,Materials and Supplies
+3,24,01,Materials and Supplies
+3,25,00,Interest
+3,25,01,Interest - Voted
+3,25,51,Interest - Charged
+3,26,00,Dividends
+3,26,01,Dividends
+3,27,00,Pensions
+3,27,01,Basic Pension
+3,27,02,Commutation
+3,27,03,Pension Arrears
+3,27,04,Commutation Arrears
+3,27,05,Social Security Pensions
+3,27,06,Family Pension
+3,27,07,Interim Relief
+3,27,09,Others
+3,28,00,Gratuities
+3,28,01,Gratuities
+3,29,00,Depreciation
+3,29,01,Depreciation
+3,30,00,Inter-Account Transfers
+3,30,01,Inter-Account Transfers - Voted
+3,30,02,Inter-Account Transfers - Pro-Rata Charges
+3,30,51,Inter-Account Transfers - Charged
+3,31,00,Writes off and Losses
+3,31,01,Writes off and Losses
+3,32,00,Suspense
+3,32,01,Purchase - Debit
+3,32,02,Purchase - Credit
+3,32,03,Stock - Debit
+3,32,04,Stock - Credit
+3,32,05,Misc. P.W. Advances-Debit
+3,32,06,Misc. P.W. Advances-Credit
+3,32,07,Workshop Suspense - Debit
+3,32,08,Workshop Suspense-Credit
+3,33,00,Payments for Professional and Special Services
+3,33,01,Pleaders Fees
+3,33,02,Remuneration
+3,33,03,Special Service
+3,33,04,Contract Payment
+3,33,09,Other Payments - Voted
+3,33,59,Other Payments - Charged
+3,34,00,Other Charges
+3,34,01,Other Items
+3,34,02,Purchase of Books & Periodicals to Libraries etc
+3,35,00,Royalty
+3,35,01,Royalty
+3,36,00,International Programmes
+3,36,01,International Programmes
+3,37,00,Payments out of Discretionary Grants for High Dignatories
+3,37,01,Payments out of Discretionary Grants for High Dignitaries
+3,38,00,Deputation - Travel Abroad of Scientists
+3,38,01,Deputation - Travel Abroad of Scientists
+3,39,00,Rewards
+3,39,01,Rewards
+3,40,00,Discount on Loans
+3,40,01,Discount on Loans - Voted
+3,40,51,Discount on Loans - Charged
+3,41,00,Other Discounts
+3,41,01,Discounts paid to Stamp Vendors
+3,41,02,Commission paid to Stock Holding Corporation of India Limited
+3,42,00,Service or Commitment Charges
+3,42,01,Service or Commitment Charges-Voted
+3,42,51,Service or Commitment Charges - Charged
+3,43,00,Cost of Ration
+3,43,01,Cost of Ration
+3,44,00,Arms and Ammunition
+3,44,01,Purchase
+3,44,02,Maintenance
+3,45,00,"Petroleum, Oil and Lubricant"
+3,45,01,"Petroleum, Oil and Lubricant"
+3,46,00,"Clothing, Tentage and Stores"
+3,46,01,"Clothing, Tentage and Stores"
+3,47,00,Stores and Equipments
+3,47,01,Stores - Voted
+3,47,02,Equipments - Voted
+3,47,03,X-rays - Voted
+3,47,51,Stores - Charged
+3,47,52,Equipments - Charged
+3,47,53,X-rays - Charged
+3,48,00,Foreign Allowances
+3,48,01,Foreign Allowances
+3,49,00,Festival Advances
+3,49,01,Festival Advances-Debit
+3,49,02,Festival Advances-Credit
+3,50,00,Ascances
+3,50,01,Advances
+3,51,00,Compensation
+3,51,01,Claims under no fault liability - principal charges - Voted
+3,51,02,Other Compensations - Voted
+3,51,51,Claims under no fault liability - principal charges - Charged
+3,51,52,Other Compensations - Charged
+3,52,00,Gifts
+3,52,01,Gifts
+3,53,00,Reserves
+3,53,01,Reserves
+3,54,00,Expenses on Conducted Tours
+3,54,01,Expenses on Conducted Tours
+3,55,00,Fees to Staff Artists
+3,55,01,Fees to Staff Artists
+3,56,00,Feeding and Cash Doles
+3,56,01,Feeding and Cash Doles
+3,57,00,Purchase of Food Grains
+3,57,01,Purchase of Food Grains
+3,58,00,Central State Transfer of Resources
+3,58,01,Central State Transfer of Resources
+3,59,00,Prizes and Awards
+3,59,01,Prizes and Awards
+3,60,00,T.A./D.A.to Non-Official Members
+3,60,01,T.A./D.A.to Non-Official Members
+3,61,00,Refunds
+3,61,01,Refunds
+3,62,00,Notional Value of Gifts Received
+3,62,01,Notional Value of Gifts Received
+3,63,00,Customs Duty
+3,63,01,Customs Duty
+3,64,00,Lands
+3,64,01,Lands - Voted
+3,64,51,Lands - Charged
+3,66,00,Medicine
+3,66,01,Medicine
+3,67,00,Feeding/Dietary Charges
+3,67,01,Rice
+3,67,02,Dhal
+3,67,03,Oil
+3,67,04,"Vegetables, Condiments"
+3,67,05,Eggs
+3,67,06,Potato
+3,67,07,Curry Leaf Powder
+3,67,08,Banana
+3,67,09,Others
+3,68,00,"Cost of Books/Note Books/Slates, etc."
+3,68,01,"Cost of Books/Note Books/Slates, etc."
+3,69,00,Procurement of Agricultural Inputs
+3,69,01,Procurement of Agricultural Inputs
+3,70,00,Unemployment Relief
+3,70,01,Unemployment Relief
+3,71,00,Printing Charges
+3,71,01,Printing Charges - Voted
+3,71,51,Printing Charges - Charged
+3,72,00,Training
+3,72,01,Training
+3,73,00,Transport Charges
+3,73,01,Transport Charges
+3,74,00,Purchase and Upkeep of Animals
+3,74,01,Purchase and Upkeep of Animals
+3,75,00,Working Expenses
+3,75,01,Working Expenses
+3,76,00,Computer and Accessories
+3,76,01,Purchase
+3,76,02,Maintenance
+3,76,03,Stationery
+3,77,00,Deduct-Recoveries
+3,77,02,Recoveries of Overpayments / Remittance of excess drawals-Voted
+3,77,03,Other Recoveries
+3,77,52,Recoveries of Overpayments / Remittance of excess drawals-Charged
+3,78,00,Deduct-Recoveries (Suspense)
+3,78,01,Deduct-Recoveries (Suspense)
+3,79,00,Salary Grants
+3,79,01,Pay
+3,79,02,Medical Allowance
+3,79,03,Medical Charges
+3,79,04,Other Allowances
+3,79,05,Interim Relief / Arrears
+3,79,06,House Rent Allowances
+3,79,07,Travel Concession
+3,79,08,City Compensatory Allowance
+3,79,09,Dearness Allowance
+3,80,00,Lumpsum Provision
+3,80,01,Lumpsum Provision
+3,99,00,Miscellaneous
+3,99,01,Miscellaneous
+4,00,00,Capital Expenditure
+4,16,00,Major Works
+4,16,01,Major Works
+4,19,00,Machinery and Equipments
+4,19,01,Purchase
+4,19,02,Renewal and Replacement
+4,20,00,Tools and Plant
+4,20,01,Purchase
+4,20,02,Renewal and Replacement
+4,22,00,Investments
+4,22,01,Investments
+4,30,00,Inter-Account Transfers
+4,30,01,Inter-Account Transfers
+4,30,02,Inter-Account Transfers - Pro-Rata Charges
+4,51,00,Compensation
+4,51,01,Claims under no fault liability - principal charges - Voted
+4,51,02,Other Compensations - Voted
+4,51,51,Claims under no fault liability - principal charges - Charged
+4,51,52,Other Compensations - Charged
+4,64,00,Lands
+4,64,01,Lands - Voted
+4,64,51,Lands - Charged
+4,65,00,Buildings
+4,65,01,Buildings
+4,77,00,Deduct-Recoveries
+4,77,02,Recoveries of Overpayments / Remittance of excess drawals
+4,77,03,Other Recoveries
+4,99,00,Miscellaneous
+4,99,01,Miscellaneous
+5,00,00,Loans and Advances    
+5,01,00,Receipts
+5,01,01,Bearing Interest
+5,01,02,Not Bearing Interest
+5,02,00,Outgo
+5,02,01,Bearing Interest
+5,02,02,Not Bearing Interest
+6,00,00,Public Debt
+6,01,00,Receipts
+6,01,51,Bearing Interest-Charged
+6,01,52,Not Bearing Interest-Charged
+6,02,00,Outgo
+6,02,51,Bearing Interest-Charged
+6,02,52,Not Bearing Interest-Charged
+7,00,00,Contingency Fund
+7,01,00,Receipts
+7,01,01,Bearing Interest
+7,01,02,Not Bearing Interest
+7,02,00,Outgo
+7,02,01,Bearing Interest
+7,02,02,Not Bearing Interest
+8,00,00,Public Accounts
+8,01,00,Receipts
+8,01,01,Bearing Interest
+8,01,02,Not Bearing Interest
+8,02,00,Outgo
+8,02,01,Bearing Interest
+8,02,02,Not Bearing Interest
