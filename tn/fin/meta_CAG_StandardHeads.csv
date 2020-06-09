@@ -1,7 +1,13 @@
 #CONSOLIDATED FUND – REVENUE
 #RECEIPT HEADS (REVENUE ACCOUNT)
 #A. Tax Revenue
-#(a) Taxes on Income and Expenditure
+#(a) Goods and Services Tax
+0005.Central Goods and Services Tax (CGST)
+0006.State Goods and Services Tax(SGST)
+0007.Union Territory Goods and Services Tax(UTGST)
+0008.Integrated Goods and Services Tax(IGST)
+0009.Goods and Services Tax Compensation Cess
+#(b) Taxes on Income and Expenditure
 0020.Corporation Tax
 0021.Taxes on Income other than Corporation Tax
 0022.Taxes on Agricultural Income
@@ -9,14 +15,14 @@
 0024.Interest Tax
 0026.Fringe Benefit Tax
 0028.Other Taxes on Income and Expenditure
-#(b) Taxes on Property ,Capital and other transactions
+#(c) Taxes on Property ,Capital and other transactions
 0029.Land Revenue
 0030.Stamps and Registration Fees
 0031.Miscellaneous Tax Receipts
 0032.Taxes on Wealth
 0034.Securities Transaction Tax
 0035.Taxes on Immovable Property other than Agricultural Land
-#(c) Taxes on Commodities and Services
+#(d) Taxes on Commodities and Services
 0036.Commodities Transaction Tax
 0037.Customs
 0038.Union Excise Duties
@@ -385,7 +391,7 @@
 6003. Internal Debt of the State Government
 6004. Loans and Advances from the Central Government
 6005. External Debt Suspense
-#. Loans and Advances
+#F. Loans and Advances
 6075. Loans for Miscellaneous General Services
 6202. Loans for Education, Sports, Art and Culture
 6210. Loans for Medical and Public Health
@@ -551,6 +557,7 @@
 8679.Accounts with Governments of other Countries
 #(e) Miscellaneous
 8680.Miscellaneous Government Accounts
+#M. Remittances
 #(a) Money Orders and other Remittances
 8781.Money Orders
 8782.Cash Remittances and adjustments between officers rendering accounts to the same Accounts Officer
