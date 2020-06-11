@@ -21,16 +21,16 @@ def get_edges(treedict, parent=None):
 				nodes[child]='n'+str(len(nodes))
 			edges.append((nodes[parent],nodes[child]))
 
-get_edges(data)
-print('digraph g {');
-print('graph [rankdir = "LR", nodesep=0.1, ranksep=0.3];');
+get_edges(data)#["CONSOLIDATED FUND – REVENUE"])
+print('graph g {');
+#print('graph [rankdir = "LR", nodesep=0.1, ranksep=0.3];');
 #print('graph [ nodesep=0.1, ranksep=0.3];');
-print('node [fontsize = "10", shape = "record", height=0.1, color=lightblue2];');
+print('node [fontsize = "16", shape = "record", height=0.1, color=lightblue2];');
 print('edge [];');
 
 #print('strict digraph tree {')
 for node in nodes:
 	print(nodes[node] + '[label="' + node + '"];');
 for row in edges:
-    print('    {0} -> {1};'.format(*row))
+    print('    {0} -- {1};'.format(*row))
 print('}')
