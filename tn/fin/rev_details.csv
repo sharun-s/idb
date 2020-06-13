@@ -1,4 +1,4 @@
-#head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
 0005-00,CENTRAL GOODS AND SERVICES TAX (CGST),,,,
 901,Share of net proceeds assigned to States,,,,
 AA,Central Goods and Services Tax (CGST) [1610],,,,
@@ -19,7 +19,7 @@ AA,State Goods and Services Tax (SGST) [1002],,,,
 AA,Total AA,"1,27","1,78","1,78","2,03"
 AB,Collections [1002],,,,
 214,Taxes,"24,283,21,81","26,980,43,35","28,490,59,51","31,557,46,81",0006 00 101 AB 21400
-02,State Goods and Service Tax,,"24,283,21,81","26,980,43,35","28,490,59,51","31,557,46,81",0006 00 101 AB 21402
+02,State Goods and Service Tax,"24,283,21,81","26,980,43,35","28,490,59,51","31,557,46,81",0006 00 101 AB 21402
 AB,Total AB,"24,283,21,81","26,980,43,35","28,490,59,51","31,557,46,81"
 AC,Deduct Refunds [1002],,,,
 201,Excess due to Mistake/Inadvertence,"- 147,30,42","- 166,32,33","- 59,21,69","- 67,50,73",0006 00 101 AC 20100
@@ -121,7 +121,7 @@ AA,Provisional / Ad-hoc settlement from IGST Fund [1002],,,,
 03,Integrated Goods and Service Tax,"4,842,81,79","6,227,34,10","6,083,12,37","2,291,54,10",0006 00 110 AA 21403
 AA,Total AA,"4,842,81,79","6,227,34,10","6,083,12,37","2,291,54,10"
 AC,Adjustment against provisional / advance settlement of Integrated Goods and Services Tax (IGST) [1002],,,,
-215,"Levy, Cess, Surcharge, etc. on Taxes"",- 260",80,"00""",- 1,"- 1,374,35,69","- 1,001,49,69",0006 00 110 AC 21500
+215,"Levy, Cess, Surcharge, etc. on Taxes","- 260,80,00",- 1,"- 1,374,35,69","- 1,001,49,69",0006 00 110 AC 21500
 77,Deduct-Refunds,"- 260,80,00",- 1,"- 1,374,35,69","- 1,001,49,69",0006 00 110 AC 21577
 AC,Total AC,"- 260,80,00",- 1,"- 1,374,35,69","- 1,001,49,69"
 AD,Deductions from provisional settlement of Integrated Goods and Services Tax (IGST) [1002],,,,
@@ -182,12 +182,12 @@ AB,Total AB,,,"- 1,053,29,00",
 0022-00,TAXES ON AGRICULTURAL INCOME,,,,,
 101,Tax Collections,,,,,
 AA,Taxes on Agricultural Income [4104],,,,,
-214,Taxes,,"10,22","14,46","14,46","15,18",0022 00 101 AA 21400
-99,Others,,"10,22","14,46","14,46","15,18",0022 00 101 AA 21499
+214,Taxes,"10,22","14,46","14,46","15,18",0022 00 101 AA 21400
+99,Others,"10,22","14,46","14,46","15,18",0022 00 101 AA 21499
 AA,Total AA,"10,22","14,46","14,46","15,18"
 AB,Deduct - Refunds [4104],,,,,
-277,Deduct / Refunds,,,- 1,- 1,- 1,0022 00 101 AB 27700
-99,Others,,,- 1,- 1,- 1,0022 00 101 AB 27799
+277,Deduct / Refunds,,- 1,- 1,- 1,0022 00 101 AB 27700
+99,Others,,- 1,- 1,- 1,0022 00 101 AB 27799
 AB,Total AB,,- 1,- 1,- 1
 101,Total 101,"10,22","14,45","14,45","15,17"
 0022,Total 0022,"10,22","14,45","14,45","15,17"
@@ -233,65 +233,65 @@ AI,Total AI,15,5,5,6
 101,Total 101,"19,32,73","14,16,17","14,90,86","15,65,41"
 104,Receipts from Management of Ex-Zamindari Estates,,,,,
 AB,"Receipts under the Tamil Nadu Estates (Abolition and conversion into Ryotwari) Act, 1948 [4106]",,,,,
-216,Taxation Fees,,"8,10","40,83","46,95","53,99",0029 00 104 AB 21600
-03,Taxes,,"8,10","40,83","46,95","53,99",0029 00 104 AB 21603
+216,Taxation Fees,"8,10","40,83","46,95","53,99",0029 00 104 AB 21600
+03,Taxes,"8,10","40,83","46,95","53,99",0029 00 104 AB 21603
 AB,Total AB,"8,10","40,83","46,95","53,99"
 104,Total 104,"8,10","40,83","46,95","53,99"
 107,,Sale proceeds of Waste Lands and Redemption of Land Tax,,,,
 AA,Other Receipts [4106],,,,,
-214,Taxes,,"86,48,67","102,84,20","106,02,76","111,32,89",0029 00 107 AA 21400
-99,Others,,"86,48,67","102,84,20","106,02,76","111,32,89",0029 00 107 AA 21499
+214,Taxes,"86,48,67","102,84,20","106,02,76","111,32,89",0029 00 107 AA 21400
+99,Others,"86,48,67","102,84,20","106,02,76","111,32,89",0029 00 107 AA 21499
 AA,Total AA,"86,48,67","102,84,20","106,02,76","111,32,89"
 AS,Sale Proceeds of Wastelands and Redemption of Land Tax [4106],,,,,
-214,Taxes,,"9,93,35","86,33,76","97,85,64","136,90,23",0029 00 107 AS 21400
-91,Land Tax,,"9,93,35","86,33,76","97,85,64","136,90,23",0029 00 107 AS 21491
+214,Taxes,"9,93,35","86,33,76","97,85,64","136,90,23",0029 00 107 AS 21400
+91,Land Tax,"9,93,35","86,33,76","97,85,64","136,90,23",0029 00 107 AS 21491
 AS,Total AS,"9,93,35","86,33,76","97,85,64","136,90,23"
 107,Total 107,"96,42,02","189,17,96","203,88,40","248,23,12"
 501,Services and Service Fees,,,,,
 AA,Collection of Payments for services rendered [4102],,,,,
-214,Taxes,,"5,13",1,"2,46","2,58",0029 00 501 AA 21400
-99,Others,,"5,13",1,"2,46","2,58",0029 00 501 AA 21499
+214,Taxes,"5,13",1,"2,46","2,58",0029 00 501 AA 21400
+99,Others,"5,13",1,"2,46","2,58",0029 00 501 AA 21499
 AA,Total AA,"5,13",1,"2,46","2,58"
 501,Total 501,"5,13",1,"2,46","2,58"
 800,Other Receipts,,,,,
 AA,Receipts in connection with Survey and Settlement Operations [4105],,,,,
-214,Taxes,,"14,92,15","23,74,31","12,30,15","12,60,90",0029 00 800 AA 21400
-99,Others,,"14,92,15","23,74,31","12,30,15","12,60,90",0029 00 800 AA 21499
+214,Taxes,"14,92,15","23,74,31","12,30,15","12,60,90",0029 00 800 AA 21400
+99,Others,"14,92,15","23,74,31","12,30,15","12,60,90",0029 00 800 AA 21499
 AA,Total AA,"14,92,15","23,74,31","12,30,15","12,60,90"
 AB,Recovery of Land Cess [4102],,,,,
-214,Taxes,,"13,70","4,16","12,40","13,02",0029 00 800 AB 21400
-99,Others,,"13,70","4,16","12,40","13,02",0029 00 800 AB 21499
+214,Taxes,"13,70","4,16","12,40","13,02",0029 00 800 AB 21400
+99,Others,"13,70","4,16","12,40","13,02",0029 00 800 AB 21499
 AB,Total AB,"13,70","4,16","12,40","13,02"
 AC,Land Value of Dharkast Lands [4106],,,,,
-214,Taxes,,"25,51,40","98,01,79","26,78,97","29,46,87",0029 00 800 AC 21400
+214,Taxes,"25,51,40","98,01,79","26,78,97","29,46,87",0029 00 800 AC 21400
 AC,Total AC,"25,51,40","98,01,79","26,78,97","29,46,87"
 AD,Receipts under Estates Abolition Act [4106],,,,,
-214,Taxes,,"34,17","90,44","1,04,01","1,19,61",0029 00 800 AD 21400
-99,Others,,"34,17","90,44","1,04,01","1,19,61",0029 00 800 AD 21499
+214,Taxes,"34,17","90,44","1,04,01","1,19,61",0029 00 800 AD 21400
+99,Others,"34,17","90,44","1,04,01","1,19,61",0029 00 800 AD 21499
 AD,Total AD,"34,17","90,44","1,04,01","1,19,61"
 AE,Rent of Buildings [4102],,,,,
-214,Taxes,,"21,03","21,61","25,00","26,25",0029 00 800 AE 21400
-99,Others,,"21,03","21,61","25,00","26,25",0029 00 800 AE 21499
+214,Taxes,"21,03","21,61","25,00","26,25",0029 00 800 AE 21400
+99,Others,"21,03","21,61","25,00","26,25",0029 00 800 AE 21499
 AE,Total AE,"21,03","21,61","25,00","26,25"
 AF,Timber and other minor produce removed from unreserved lands by consumers or purchasers [4102],,,,,
-214,Taxes,,"71,07","30,93","1,50,00","1,57,50",0029 00 800 AF 21400
-99,Others,,"71,07","30,93","1,50,00","1,57,50",0029 00 800 AF 21499
+214,Taxes,"71,07","30,93","1,50,00","1,57,50",0029 00 800 AF 21400
+99,Others,"71,07","30,93","1,50,00","1,57,50",0029 00 800 AF 21499
 AF,Total AF,"71,07","30,93","1,50,00","1,57,50"
 AG,"Receipts under Tamil Nadu Land Reforms (Fixing of ceiling on land) Act, 1961 [4103]",,,,,
-214,Taxes,,"7,38","49,26","49,26","51,72",0029 00 800 AG 21400
-99,Others,,"7,38","49,26","49,26","51,72",0029 00 800 AG 21499
+214,Taxes,"7,38","49,26","49,26","51,72",0029 00 800 AG 21400
+99,Others,"7,38","49,26","49,26","51,72",0029 00 800 AG 21499
 AG,Total AG,"7,38","49,26","49,26","51,72"
 AH,"Receipts under Tamil Nadu Occupants of Kudiyiruppu (Conferment of Ownership) Act, 1971 [4103]",,,,,
-214,Taxes,,"10,38","6,64","6,64","6,97",0029 00 800 AH 21400
-99,Others,,"10,38","6,64","6,64","6,97",0029 00 800 AH 21499
+214,Taxes,"10,38","6,64","6,64","6,97",0029 00 800 AH 21400
+99,Others,"10,38","6,64","6,64","6,97",0029 00 800 AH 21499
 AH,Total AH,"10,38","6,64","6,64","6,97"
 AI,Receipts from Quarries and Minerals [4102],,,,,
-214,Taxes,,"5,66","1,43","7,50","7,88",0029 00 800 AI 21400
-99,Others,,"5,66","1,43","7,50","7,88",0029 00 800 AI 21499
+214,Taxes,"5,66","1,43","7,50","7,88",0029 00 800 AI 21400
+99,Others,"5,66","1,43","7,50","7,88",0029 00 800 AI 21499
 AI,Total AI,"5,66","1,43","7,50","7,88"
 AJ,Reduced Rent [4102],,,,,
-214,Taxes,,"16,61","29,38","2,73","2,87",0029 00 800 AJ 21400
-99,Others,,"16,61","29,38","2,73","2,87",0029 00 800 AJ 21499
+214,Taxes,"16,61","29,38","2,73","2,87",0029 00 800 AJ 21400
+99,Others,"16,61","29,38","2,73","2,87",0029 00 800 AJ 21499
 AJ,Total AJ,"16,61","29,38","2,73","2,87"
 AK,Minor Forest Produce - Sale of Timber [4102],,,,
 214,Taxes,"27,41","18,60","13,08","13,73",0029 00 800 AK 21400
@@ -413,24 +413,24 @@ AB,Total AB,"6,00,23","- 56,03","- 56,03","- 61,63"
 104,Total 104,"3,751,32,41","4,687,11,94","4,687,11,94","5,155,83,14"
 800,Other Receipts,,,,,
 AA,Fees for Copies of Registered Documents [1101],,,,
-216,Taxation Fees,,"80,79,35","57,63,05","57,63,05","63,39,36",0030 03 800 AA 21600
-41,Registration,,"80,79,35","57,63,05","57,63,05","63,39,36",0030 03 800 AA 21641
+216,Taxation Fees,"80,79,35","57,63,05","57,63,05","63,39,36",0030 03 800 AA 21600
+41,Registration,"80,79,35","57,63,05","57,63,05","63,39,36",0030 03 800 AA 21641
 AA,Total AA,"80,79,35","57,63,05","57,63,05","63,39,36"
 AB,Search Fees [1101],,,,,
-216,Taxation Fees,,"129,64,96","182,94,04","182,94,04","201,23,44",0030 03 800 AB 21600
-41,Registration,,"129,64,96","182,94,04","182,94,04","201,23,44",0030 03 800 AB 21641
+216,Taxation Fees,"129,64,96","182,94,04","182,94,04","201,23,44",0030 03 800 AB 21600
+41,Registration,"129,64,96","182,94,04","182,94,04","201,23,44",0030 03 800 AB 21641
 AB,Total AB,"129,64,96","182,94,04","182,94,04","201,23,44"
 AF,Other items [1101],,,,,
-216,Taxation Fees,,"21,91,74","17,42,06","17,42,06","19,16,27",0030 03 800 AF 21600
-99,Others,,"21,91,74","17,42,06","17,42,06","19,16,27",0030 03 800 AF 21699
+216,Taxation Fees,"21,91,74","17,42,06","17,42,06","19,16,27",0030 03 800 AF 21600
+99,Others,"21,91,74","17,42,06","17,42,06","19,16,27",0030 03 800 AF 21699
 AF,Total AF,"21,91,74","17,42,06","17,42,06","19,16,27"
 AG,Deduct - Refunds [1101],,,,,
-277,Deduct / Refunds,,"9,53","- 97,74","- 97,74","- 1,07,51",0030 03 800 AG 27700
-99,Others,,"9,53","- 97,74","- 97,74","- 1,07,51",0030 03 800 AG 27799
+277,Deduct / Refunds,"9,53","- 97,74","- 97,74","- 1,07,51",0030 03 800 AG 27700
+99,Others,"9,53","- 97,74","- 97,74","- 1,07,51",0030 03 800 AG 27799
 AG,Total AG,"9,53","- 97,74","- 97,74","- 1,07,51"
 AH,Fees for the Soft Copy of the Registration Process [1101],,,,,
-216,Taxation Fees,,"18,55,87","43,56,44","43,56,44","47,92,08",0030 03 800 AH 21600
-41,Registration,,"18,55,87","43,56,44","43,56,44","47,92,08",0030 03 800 AH 21641
+216,Taxation Fees,"18,55,87","43,56,44","43,56,44","47,92,08",0030 03 800 AH 21600
+41,Registration,"18,55,87","43,56,44","43,56,44","47,92,08",0030 03 800 AH 21641
 AH,Total AH,"18,55,87","43,56,44","43,56,44","47,92,08"
 800,Total 800,"251,01,45","300,57,85","300,57,85","330,63,64"
 03,Total 03,"4,002,33,86","4,987,69,79","4,987,69,79","5,486,46,78"
@@ -448,11 +448,10 @@ AC,Total AC,,,"69,00",
 901,Total 901,"3,92,06","- 30,00","39,00","- 33,00"
 0032,Total 0032,"3,92,06","- 30,00","39,00","- 33,00"
 0035-00,,TAXES ON IMMOVABLE PROPERTY OTHER THAN AGRICULTURAL LAND,,,,
-,,,,,,,
 101,Ordinary Collections,,,,,
 AA,Gross Collections - Urban Areas [4107],,,,,
-214,Taxes,,"10,33,99","13,65,00","13,00,00","13,65,00",0035 00 101 AA 21400
-99,Others,,"10,33,99","13,65,00","13,00,00","13,65,00",0035 00 101 AA 21499
+214,Taxes,"10,33,99","13,65,00","13,00,00","13,65,00",0035 00 101 AA 21400
+99,Others,"10,33,99","13,65,00","13,00,00","13,65,00",0035 00 101 AA 21499
 AA,Total AA,"10,33,99","13,65,00","13,00,00","13,65,00"
 101,Total 101,"10,33,99","13,65,00","13,00,00","13,65,00"
 0035,Total 0035,"10,33,99","13,65,00","13,00,00","13,65,00"
@@ -484,7 +483,7 @@ AB,Total AB,,,"- 430,71,00",
 0038,Total 0038,"1,443,22,03","1,310,74,00","767,95,00","1,339,60,00"
 0039-00,STATE EXCISE,,,,
 101,Country Spirits AB Licence Fees for the Sale of Distillery Spirits (Arrack Rental) [3701],,,,
-215,"Levy, Cess, Surcharge, etc. on Taxes"",63","29""","51,74","51,74","56,92",0039 00 101 AB 21500
+215,"Levy, Cess, Surcharge, etc. on Taxes","63,29","51,74","51,74","56,92",0039 00 101 AB 21500
 31,State Excise,"63,29","51,74","51,74","56,92",0039 00 101 AB 21531
 AB,Total AB,"63,29","51,74","51,74","56,92"
 AG,Deduct - Refunds [3701],,,,
@@ -494,30 +493,31 @@ AG,Total AG,21,6,6,7
 101,Total 101,"63,50","51,80","51,80","56,99"
 102,Country fermented Liquors,,,,
 AC,Toddy Rental [3701],,,,
-215,"Levy, Cess, Surcharge, etc. on Taxes"",12","75""","9,25","9,25","10,18",0039 00 102 AC 21500
+215,"Levy, Cess, Surcharge, etc. on Taxes","12,75","9,25","9,25","10,18",0039 00 102 AC 21500
 31,State Excise,"12,75","9,25","9,25","10,18",0039 00 102 AC 21531
 AC,Total AC,"12,75","9,25","9,25","10,18"
 102,Total 102,"12,75","9,25","9,25","10,18"
-103,"Malt Liquor AA Duty on Beer manufactured in,India [3701]",,,,
-215,"Levy, Cess, Surcharge, etc. on Taxes"",240",74,"36""","275,79,07","275,79,07","401,36,98",0039 00 103 AA 21500
+103,"Malt Liquor",,,, 
+AA,"Duty on Beer manufactured in,India [3701]",,,,
+215,"Levy, Cess, Surcharge, etc. on Taxes","240,74,36" ,"275,79,07","275,79,07","401,36,98",0039 00 103 AA 21500
 31,State Excise,"240,74,36","275,79,07","275,79,07","401,36,98",0039 00 103 AA 21531
 AA,Total AA,"240,74,36","275,79,07","275,79,07","401,36,98"
 AB,Vend Fees [3701],,,,
-215,"Levy, Cess, Surcharge, etc. on Taxes"",18",00,"58""",97,97,"1,07",0039 00 103 AB 21500
+215,"Levy, Cess, Surcharge, etc. on Taxes","18,00,58",97,97,"1,07",0039 00 103 AB 21500
 31,State Excise,"18,00,58",97,97,"1,07",0039 00 103 AB 21531
 AB,Total AB,"18,00,58",97,97,"1,07"
 AE,Licence Fee on Brewery [3701],,,,
-215,"Levy, Cess, Surcharge, etc. on Taxes"",68","58""","55,30","55,30","60,83",0039 00 103 AE 21500
+215,"Levy, Cess, Surcharge, etc. on Taxes","68,58","55,30","55,30","60,83",0039 00 103 AE 21500
 31,State Excise,"68,58","55,30","55,30","60,83",0039 00 103 AE 21531
 AE,Total AE,"68,58","55,30","55,30","60,83"
 103,Total 103,"259,43,52","276,35,34","276,35,34","401,98,88"
 105,Foreign Liquors and Spirits,,,,
 AA,Duty on Wines and Spirits Manufactured in India including Medicated Wines [3701],,,,
-215,"Levy, Cess, Surcharge, etc. on Taxes"",6",014,79,"43""","6,376,72,71","6,376,72,71","7,025,14,48",0039 00 105 AA 21500
+215,"Levy, Cess, Surcharge, etc. on Taxes","6,014,79,43","6,376,72,71","6,376,72,71","7,025,14,48",0039 00 105 AA 21500
 31,State Excise,"6,014,79,43","6,376,72,71","6,376,72,71","7,025,14,48",0039 00 105 AA 21531
 AA,Total AA,"6,014,79,43","6,376,72,71","6,376,72,71","7,025,14,48"
 AB,Licence Fees and Privilege Fees [3701],,,,
-215,"Levy, Cess, Surcharge, etc. on Taxes"",95",09,"42""","73,92,00","73,92,00","81,31,20",0039 00 105 AB 21500
+215,"Levy, Cess, Surcharge, etc. on Taxes","95,09,42","73,92,00","73,92,00","81,31,20",0039 00 105 AB 21500
 31,State Excise,"95,09,42","73,92,00","73,92,00","81,31,20",0039 00 105 AB 21531
 AB,Total AB,"95,09,42","73,92,00","73,92,00","81,31,20"
 AD,Vend Fee on Foreign Liquor and Spirits [3701],,,,
@@ -529,15 +529,15 @@ AE,Deduct - Refunds [3701],,,,
 99,Others,"- 1,58,78","- 27,98","- 27,98","- 30,78",0039 00 105 AE 27799
 AE,Total AE,"- 1,58,78","- 27,98","- 27,98","- 30,78"
 AF,"Import Licence (Permit) Fee on,Indian Made Foreign Liquors [3701]",,,,
-215,"Levy, Cess, Surcharge, etc. on Taxes"",11",06,"99""","13,90,98","13,90,98","18,30,08",0039 00 105 AF 21500
+215,"Levy, Cess, Surcharge, etc. on Taxes","11,06,99","13,90,98","13,90,98","18,30,08",0039 00 105 AF 21500
 31,State Excise,"11,06,99","13,90,98","13,90,98","18,30,08",0039 00 105 AF 21531
 AF,Total AF,"11,06,99","13,90,98","13,90,98","18,30,08"
 AG,"Licence Fee under Tamil Nadu Liquor Retail Vending (in shops and bars) Rules, 2003, [3701]",,,,
-215,"Levy, Cess, Surcharge, etc. on Taxes"",10","39""","2,06","2,27","2,27",0039 00 105 AG 21500
+215,"Levy, Cess, Surcharge, etc. on Taxes","10,39","2,06","2,27","2,27",0039 00 105 AG 21500
 31,State Excise,"10,39","2,06","2,27","2,27",0039 00 105 AG 21531
 AG,Total AG,"10,39","2,06","2,27","2,27"
 AH,"Tender Amount collected under Rule 9A of Tamil Nadu Liquor retail vending (in shops and bars) Rules, 2003 [3701]",,,,
-215,"Levy, Cess, Surcharge, etc. on Taxes"",305",76,"73""","328,20,70","328,20,70","391,02,77",0039 00 105 AH 21500
+215,"Levy, Cess, Surcharge, etc. on Taxes","305,76,73","328,20,70","328,20,70","391,02,77",0039 00 105 AH 21500
 31,State Excise,"305,76,73","328,20,70","328,20,70","391,02,77",0039 00 105 AH 21531
 AH,Total AH,"305,76,73","328,20,70","328,20,70","391,02,77"
 105,Total 105,"6,426,79,54","6,797,87,16","6,797,87,37","7,521,40,38"
@@ -565,11 +565,11 @@ AK,Total AK,"1,43,29","1,46,38","1,46,38","1,81,02"
 106,Total 106,"3,83,67","2,39,31","2,39,31","2,83,27"
 107,"Medicinal and Toilet Preparations containing Alcohol, Opium, etc.",,,,
 AA,Duty on Spirits used in the manufacture of Medicines and Rectified Spirits and Absolute Alcohol used for Medical Purposes [3701],,,,
-215,"Levy, Cess, Surcharge, etc. on Taxes"",1","28""","5,38,13","5,38,13","6,91,95",0039 00 107 AA 21500
+215,"Levy, Cess, Surcharge, etc. on Taxes,"1,28","5,38,13","5,38,13","6,91,95",0039 00 107 AA 21500
 31,State Excise,"1,28","5,38,13","5,38,13","6,91,95",0039 00 107 AA 21531
 AA,Total AA,"1,28","5,38,13","5,38,13","6,91,95"
 AB,"Spirits for other Commercial, Scientific and Industrial Purposes [3701]",,,,
-215,"Levy, Cess, Surcharge, etc. on Taxes"",9","64""","1,33,42","1,33,42","2,46,77",0039 00 107 AB 21500
+215,"Levy, Cess, Surcharge, etc. on Taxes","9,64","1,33,42","1,33,42","2,46,77",0039 00 107 AB 21500
 31,State Excise,"9,64","1,33,42","1,33,42","2,46,77",0039 00 107 AB 21531
 AB,Total AB,"9,64","1,33,42","1,33,42","2,46,77"
 AC,Duty on Asavas and Arishtas [3701],,,,
@@ -577,7 +577,7 @@ AC,Duty on Asavas and Arishtas [3701],,,,
 39,Duty,18,5,5,6,0039 00 107 AC 21539
 AC,Total AC,18,5,5,6
 AD,Licence Fees [3701],,,,
-215,"Levy, Cess, Surcharge, etc. on Taxes"",12","70""","3,86","3,86","4,25",0039 00 107 AD 21500
+215,"Levy, Cess, Surcharge, etc. on Taxes","12,70","3,86","3,86","4,25",0039 00 107 AD 21500
 32,Licence Fees,"12,70","3,86","3,86","4,25",0039 00 107 AD 21532
 AD,Total AD,"12,70","3,86","3,86","4,25"
 107,Total 107,"23,80","6,75,46","6,75,46","9,43,03"
@@ -590,7 +590,7 @@ AA,Opium [3701],,,,
 99,Others,92,,,,0039 00 108 AA 21699
 AA,Total AA,"2,14",85,85,94
 AB,Deduct - Refunds [3701],,,,
-215,"Levy, Cess, Surcharge, etc. on Taxes"",7","15""","4,40","4,40","4,84",0039 00 108 AB 21500
+215,"Levy, Cess, Surcharge, etc. on Taxes","7,15","4,40","4,40","4,84",0039 00 108 AB 21500
 277,Deduct / Refunds,77,- 1,- 1,- 2,0039 00 108 AB 27700
 99,Others,77,- 1,- 1,- 2,0039 00 108 AB 27799
 AB,Total AB,"7,92","4,39","4,39","4,82"
@@ -609,15 +609,15 @@ AE,Total AE,"1,90","3,99","3,99","4,39"
 108,Total 108,"13,05","13,35","13,35","14,69"
 150,Fines and Confiscations,,,,
 AA,Fines Levied and Collected from Arrack and Toddy Shops [3701],,,,
-215,"Levy, Cess, Surcharge, etc. on Taxes"",6","60""","10,60","10,60","11,66",0039 00 150 AA 21500
+215,"Levy, Cess, Surcharge, etc. on Taxes","6,60","10,60","10,60","11,66",0039 00 150 AA 21500
 31,State Excise,"6,60","10,60","10,60","11,66",0039 00 150 AA 21531
 AA,Total AA,"6,60","10,60","10,60","11,66"
 AB,Fines and sale proceeds of Confiscated Foreign Liquors and Indian Liquors [3701],,,,
-215,"Levy, Cess, Surcharge, etc. on Taxes"",1",73,"72""","2,88,75","2,88,75","3,17,63",0039 00 150 AB 21500
+215,"Levy, Cess, Surcharge, etc. on Taxes","1,73,72","2,88,75","2,88,75","3,17,63",0039 00 150 AB 21500
 31,State Excise,"1,73,72","2,88,75","2,88,75","3,17,63",0039 00 150 AB 21531
 AB,Total AB,"1,73,72","2,88,75","2,88,75","3,17,63"
 AC,Other Fines and Forfeitures [3701],,,,
-215,"Levy, Cess, Surcharge, etc. on Taxes"",1",38,"72""","2,01,63","2,01,63","2,51,80",0039 00 150 AC 21500
+215,"Levy, Cess, Surcharge, etc. on Taxes","1,38,72","2,01,63","2,01,63","2,51,80",0039 00 150 AC 21500
 97,"Forfeiture, Seizure,Confiscation, etc","1,38,72","2,01,63","2,01,63","2,51,80",0039 00 150 AC 21597
 AC,Total AC,"1,38,72","2,01,63","2,01,63","2,51,80"
 AD,Deduct - Refunds [3701],,,,
@@ -625,25 +625,25 @@ AD,Deduct - Refunds [3701],,,,
 99,Others,10,5,5,6,0039 00 150 AD 27799
 AD,Total AD,10,5,5,6
 AE,Receipts of loan amount recovered from the Prohibition offenders [3701],,,,
-215,"Levy, Cess, Surcharge, etc. on Taxes"",20","93""","37,67","37,67","41,44",0039 00 150 AE 21500
+215,"Levy, Cess, Surcharge, etc. on Taxes","20,93","37,67","37,67","41,44",0039 00 150 AE 21500
 31,State Excise,"20,93","37,67","37,67","41,44",0039 00 150 AE 21531
 AE,Total AE,"20,93","37,67","37,67","41,44"
 150,Total 150,"3,40,07","5,38,70","5,38,70","6,22,59"
 501,Services and Service Fees,,,,
 AA,Contributions towards Leave Salary - Officers lent on Foreign Service [3701],,,,
-215,"Levy, Cess, Surcharge, etc. on Taxes"",88","89""","93,94","93,94","1,03,34",0039 00 501 AA 21500
+215,"Levy, Cess, Surcharge, etc. on Taxes","88,89","93,94","93,94","1,03,34",0039 00 501 AA 21500
 31,State Excise,"88,89","93,94","93,94","1,03,34",0039 00 501 AA 21531
 AA,Total AA,"88,89","93,94","93,94","1,03,34"
 AB,Cost of Establishment Charges [3701],,,,
-215,"Levy, Cess, Surcharge, etc. on Taxes"",11",27,"62""","12,49,44","12,49,44","13,74,39",0039 00 501 AB 21500
+215,"Levy, Cess, Surcharge, etc. on Taxes","11,27,62","12,49,44","12,49,44","13,74,39",0039 00 501 AB 21500
 31,State Excise,"11,27,62","12,49,44","12,49,44","13,74,39",0039 00 501 AB 21531
 AB,Total AB,"11,27,62","12,49,44","12,49,44","13,74,39"
 AC,Payment of Administrative Service Fee [3701],,,,
-215,"Levy, Cess, Surcharge, etc. on Taxes"",8",77,"10""","11,77,35","11,77,35","12,95,09",0039 00 501 AC 21500
+215,"Levy, Cess, Surcharge, etc. on Taxes","8,77,10","11,77,35","11,77,35","12,95,09",0039 00 501 AC 21500
 31,State Excise,"8,77,10","11,77,35","11,77,35","12,95,09",0039 00 501 AC 21531
 AC,Total AC,"8,77,10","11,77,35","11,77,35","12,95,09"
 AD,Export Fees [3701],,,,
-215,"Levy, Cess, Surcharge, etc. on Taxes"",5",90,"95""","5,40,88","5,40,88","5,94,97",0039 00 501 AD 21500
+215,"Levy, Cess, Surcharge, etc. on Taxes","5,90,95","5,40,88","5,40,88","5,94,97",0039 00 501 AD 21500
 31,State Excise,"5,90,95","5,40,88","5,40,88","5,94,97",0039 00 501 AD 21531
 AD,Total AD,"5,90,95","5,40,88","5,40,88","5,94,97"
 501,Total 501,"26,84,56","30,61,61","30,61,61","33,67,79"
@@ -653,36 +653,36 @@ AC,Molasses Licence Fees [3701],,,,
 34,Licence Fee,"96,66",,,,0039 00 800 AC 21634
 AC,Total AC,"96,66",,,
 AD,Miscellaneous [3701],,,,
-215,"Levy, Cess, Surcharge, etc. on Taxes"",1",20,"44""","1,87,64","1,87,64","2,06,41",0039 00 800 AD 21500
+215,"Levy, Cess, Surcharge, etc. on Taxes","1,20,44","1,87,64","1,87,64","2,06,41",0039 00 800 AD 21500
 99,Others,"1,20,44","1,87,64","1,87,64","2,06,41",0039 00 800 AD 21599
 AD,Total AD,"1,20,44","1,87,64","1,87,64","2,06,41"
 AE,"Fees for Permits for Personal Consumption of Liquor under Tamil Nadu Prohibition Act, 1937 [3701]",,,,
-215,"Levy, Cess, Surcharge, etc. on Taxes"",3","37""","1,19","1,19","1,31",0039 00 800 AE 21500
+215,"Levy, Cess, Surcharge, etc. on Taxes","3,37","1,19","1,19","1,31",0039 00 800 AE 21500
 31,State Excise,"3,37","1,19","1,19","1,31",0039 00 800 AE 21531
 AE,Total AE,"3,37","1,19","1,19","1,31"
 AF,"Licence Fee under the Spirituous Essences Rules, Choloro Hydrate and other Rules [3701]",,,,
-215,"Levy, Cess, Surcharge, etc. on Taxes"",1","99""",82,82,91,0039 00 800 AF 21500
+215,"Levy, Cess, Surcharge, etc. on Taxes","1,99",82,82,91,0039 00 800 AF 21500
 31,State Excise,"1,99",82,82,91,0039 00 800 AF 21531
 AF,Total AF,"1,99",82,82,91
 AJ,Cost of Labels [3701],,,,
-215,"Levy, Cess, Surcharge, etc. on Taxes"",108",86,"45""","111,79,78","111,79,78","122,97,76",0039 00 800 AJ 21500
+215,"Levy, Cess, Surcharge, etc. on Taxes","108,86,45","111,79,78","111,79,78","122,97,76",0039 00 800 AJ 21500
 31,State Excise,"108,86,45","111,79,78","111,79,78","122,97,76",0039 00 800 AJ 21531
 AJ,Total AJ,"108,86,45","111,79,78","111,79,78","122,97,76"
 AN,"Collection of Registration, Renewal and Label fees [3701]",,,,
-215,"Levy, Cess, Surcharge, etc. on Taxes"",5",62,"46""","5,42,25","5,42,25","6,96,48",0039 00 800 AN 21500
+215,"Levy, Cess, Surcharge, etc. on Taxes","5,62,46","5,42,25","5,42,25","6,96,48",0039 00 800 AN 21500
 31,State Excise,"5,62,46","5,42,25","5,42,25","6,96,48",0039 00 800 AN 21531
 AN,Total AN,"5,62,46","5,42,25","5,42,25","6,96,48"
 AO,Special fees on liquor imported from other States and from other Countries [3701],,,,
-215,"Levy, Cess, Surcharge, etc. on Taxes"",24",51,"22""","21,10,37","21,10,37","23,21,41",0039 00 800 AO 21500
+215,"Levy, Cess, Surcharge, etc. on Taxes","24,51,22","21,10,37","21,10,37","23,21,41",0039 00 800 AO 21500
 31,State Excise,"24,51,22","21,10,37","21,10,37","23,21,41",0039 00 800 AO 21531
 AO,Total AO,"24,51,22","21,10,37","21,10,37","23,21,41"
 AQ,Licence fees for the possession and sale of molasses [3701],,,,,
-216,Taxation Fees,,"13,04","13,27","13,27","14,60",0039 00 800 AQ 21600
-34,Licence Fee,,"13,04","13,27","13,27","14,60",0039 00 800 AQ 21634
+216,Taxation Fees,"13,04","13,27","13,27","14,60",0039 00 800 AQ 21600
+34,Licence Fee,"13,04","13,27","13,27","14,60",0039 00 800 AQ 21634
 AQ,Total AQ,"13,04","13,27","13,27","14,60"
 AR,Licence fees for the possession and use of molasses [3701],,,,,
-216,Taxation Fees,,"31,95","1,85,26","1,85,26","2,03,79",0039 00 800 AR 21600
-34,Licence Fee,,"31,95","1,85,26","1,85,26","2,03,79",0039 00 800 AR 21634
+216,Taxation Fees,"31,95","1,85,26","1,85,26","2,03,79",0039 00 800 AR 21600
+34,Licence Fee,"31,95","1,85,26","1,85,26","2,03,79",0039 00 800 AR 21634
 AR,Total AR,"31,95","1,85,26","1,85,26","2,03,79"
 800,Total 800,"141,67,58","142,20,58","142,20,58","157,42,67"
 0039,Total 0039,"6,863,12,04","7,262,32,56","7,262,32,77","8,133,80,47"
@@ -726,7 +726,7 @@ AG,Appeal Fees under Sales Tax Appellate Tribunal [1002],,,,
 07,General Sales Tax,"5,79",8,"39,60","37,62",0040 00 102 AG 21607
 AG,Total AG,"5,79",8,"39,60","37,62"
 AI,Infrastructure - Surcharge on Sales Tax [1002],,,,
-215,"Levy, Cess, Surcharge, etc. on Taxes"",13","97""","11,03","2,54,07","2,66,77",0040 00 102 AI 21500
+215,"Levy, Cess, Surcharge, etc. on Taxes","13,97","11,03","2,54,07","2,66,77",0040 00 102 AI 21500
 07,General Sales Tax,"13,97","11,03","2,54,07","2,66,77",0040 00 102 AI 21507
 AI,Total AI,"13,97","11,03","2,54,07","2,66,77"
 AK,Tax Collections under State Value Added Tax Act [1002],,,,
@@ -752,11 +752,11 @@ AP,Tobacco and Tobacco Products [1002],,,,
 AP,Total AP,,"83,18","42,48","42,48"
 AQ,Tax collection from the sale of  IMFL and  Beer [1002],,,,
 214,Taxes,"24,314,86,95","26,576,02,50","27,232,65,40","31,589,87,86",0040 00 102 AQ 21400
-19,Non-Value Added Tax-Other Goods,,"24,314,86,95  26,576,02,50  27,232,65,40  31,589,87,86",0040 00 102 AQ 21419,,
+19,Non-Value Added Tax-Other Goods,"24,314,86,95","26,576,02,50","27,232,65,40","31,589,87,86",0040 00 102 AQ 21419
 AQ,Total AQ,"24,314,86,95","26,576,02,50","27,232,65,40","31,589,87,86"
 AT,Tax collection from the sale of Petroleum goods [1002],,,,
 214,Taxes,"17,831,97,75","20,984,32,00","20,595,40,99","23,800,89,38",0040 00 102 AT 21400
-16,Non-Value Added Tax-Petroleum," Goods""17",831,97,"75""","20,984,32,00","20,595,40,99","23,800,89,38",0040 00 102 AT 21416
+16,"Non-Value Added Tax-Petroleum, Goods","17,831,97,75","20,984,32,00","20,595,40,99","23,800,89,38",0040 00 102 AT 21416
 AT,Total AT,"17,831,97,75","20,984,32,00","20,595,40,99","23,800,89,38"
 102,Total 102,"42,258,51,00","47,598,43,54","47,889,90,61","55,455,68,23"
 111,Value Added Tax (VAT) Receipts,,,,
@@ -770,53 +770,53 @@ AB,"Licence Fees, Registration Fees, Penalties and Other Receipts under State Va
 AB,Total AB,"21,79,75","11,58,91","10,62,02","11,15,12"
 AG,Refunds to Exporters under State Value Added Tax Act [1002],,,,
 277,Deduct / Refunds,"- 369,24,17","- 474,09,09","- 109,50,81","- 114,98,36",0040 00 111 AG 27700
-02,"Exporters under State Value Added Tax Act""- 369",24,"17""","- 474,09,09","- 109,50,81","- 114,98,36",0040 00 111 AG 27702
+02,"Exporters under State Value Added Tax Act","-369,24,17","- 474,09,09","-109,50,81","-114,98,36",0040 00 111 AG 27702
 AG,Total AG,"- 369,24,17","- 474,09,09","- 109,50,81","- 114,98,36"
 AH,Other Refunds under State Value Added Tax Act [1002],,,,
 277,Deduct / Refunds,"- 126,91,24","- 221,08,04","- 177,53,59","- 186,41,27",0040 00 111 AH 27700
 03,Others under State Value Added Tax Act,"- 126,91,24","- 221,08,04","- 177,53,59","- 186,41,27",0040 00 111 AH 27703
 AI,Appeal Fees to Appellate Assistant Commissioner under State Value Added Tax Act [1002],,,,,
-216,Taxation Fees,,"12,40","2,49,17","79,73","83,72",0040 00 111 AI 21600
-99,Others,,"12,40","2,49,17","79,73","83,72",0040 00 111 AI 21699
+216,Taxation Fees,"12,40","2,49,17","79,73","83,72",0040 00 111 AI 21600
+99,Others,"12,40","2,49,17","79,73","83,72",0040 00 111 AI 21699
 AI,Total AI,"12,40","2,49,17","79,73","83,72"
 AJ,Appeal Fees to Appellate Tribunal under State Value Added Tax Act [1002],,,,,
-216,Taxation Fees,,"11,61","18,00","3,79","3,98",0040 00 111 AJ 21600
-99,Others,,"11,61","18,00","3,79","3,98",0040 00 111 AJ 21699
+216,Taxation Fees,"11,61","18,00","3,79","3,98",0040 00 111 AJ 21600
+99,Others,"11,61","18,00","3,79","3,98",0040 00 111 AJ 21699
 AJ,Total AJ,"11,61","18,00","3,79","3,98"
 111,Total 111,"- 122,81,28","- 195,59,76","38,61,20","40,54,25"
 0040,Total 0040,"42,701,07,34","48,033,64,65","48,452,38,91","56,046,28,95"
 0041-00,TAXES ON VEHICLES,,,,,
 101,Receipts under the Indian Motor Vehicles Act,,,,,
 AA,"Fees for Registration of licences, badges, permits, fitness certificates etc. [2501]",,,,,
-214,Taxes,,"623,04,37","841,16,63","672,88,74","684,95,31",0041 00 101 AA 21400
-56,Vehicles Tax,,"623,04,37","841,16,63","672,88,74","684,95,31",0041 00 101 AA 21456
+214,Taxes,"623,04,37","841,16,63","672,88,74","684,95,31",0041 00 101 AA 21400
+56,Vehicles Tax,"623,04,37","841,16,63","672,88,74","684,95,31",0041 00 101 AA 21456
 AA,Total AA,"623,04,37","841,16,63","672,88,74","684,95,31"
 101,Total 101,"623,04,37","841,16,63","672,88,74","684,95,31"
 102,Receipts under the State Motor Vehicles Taxation Act,,,,,
 AA,"Receipts under the Tamil Nadu Motor Vehicles Taxation Act, 1974 [2501]",,,,,
-214,Taxes,,"4,571,07,35","5,219,61,52","4,936,75,89","5,580,66,69",0041 00 102 AA 21400
-56,Vehicles Tax,,"4,571,07,35","5,219,61,52","4,936,75,89","5,580,66,69",0041 00 102 AA 21456
+214,Taxes,"4,571,07,35","5,219,61,52","4,936,75,89","5,580,66,69",0041 00 102 AA 21400
+56,Vehicles Tax,"4,571,07,35","5,219,61,52","4,936,75,89","5,580,66,69",0041 00 102 AA 21456
 AA,Total AA,"4,571,07,35","5,219,61,52","4,936,75,89","5,580,66,69"
 AB,Surcharge on Motor Vehicles Tax [2501],,,,,
-214,Taxes,,"26,90,43","44,88,55","29,05,67","33,10,03",0041 00 102 AB 21400
-56,Vehicles Tax,,"26,90,43","44,88,55","29,05,67","33,10,03",0041 00 102 AB 21456
+214,Taxes,"26,90,43","44,88,55","29,05,67","33,10,03",0041 00 102 AB 21400
+56,Vehicles Tax,"26,90,43","44,88,55","29,05,67","33,10,03",0041 00 102 AB 21456
 AB,Total AB,"26,90,43","44,88,55","29,05,67","33,10,03"
 AC,Deduct - Refunds [2501],,,,,
-277,Deduct / Refunds,,"- 1,16,98","- 94,41","- 1,26,34","- 1,29,36",0041 00 102 AC 27700
-99,Others,,"- 1,16,98","- 94,41","- 1,26,34","- 1,29,36",0041 00 102 AC 27799
+277,Deduct / Refunds,"- 1,16,98","- 94,41","- 1,26,34","- 1,29,36",0041 00 102 AC 27700
+99,Others,"- 1,16,98","- 94,41","- 1,26,34","- 1,29,36",0041 00 102 AC 27799
 AC,Total AC,"- 1,16,98","- 94,41","- 1,26,34","- 1,29,36"
 AE,Receipts under Green Tax [2501],,,,,
-214,Taxes,,"31,09,07","47,19,58","33,57,80","88,18,91",0041 00 102 AE 21400
-56,Vehicles Tax,,"31,09,07","47,19,58","33,57,80","88,18,91",0041 00 102 AE 21456
+214,Taxes,"31,09,07","47,19,58","33,57,80","88,18,91",0041 00 102 AE 21400
+56,Vehicles Tax,"31,09,07","47,19,58","33,57,80","88,18,91",0041 00 102 AE 21456
 AE,Total AE,"31,09,07","47,19,58","33,57,80","88,18,91"
 AF,Receipts under Road Safety Tax [2501],,,,,
-214,Taxes,,"104,05,88","106,94,71","112,39,58","272,88,15",0041 00 102 AF 21400
-56,Vehicles Tax,,"104,05,88","106,94,71","112,39,58","272,88,15",0041 00 102 AF 21456
-225,Interest,,"1,13",,,,0041 00 102 AF 22500
-62,Unspent Balance,,"1,13",,,,0041 00 102 AF 22562
+214,Taxes,"104,05,88","106,94,71","112,39,58","272,88,15",0041 00 102 AF 21400
+56,Vehicles Tax,"104,05,88","106,94,71","112,39,58","272,88,15",0041 00 102 AF 21456
+225,Interest,"1,13",,,,0041 00 102 AF 22500
+62,Unspent Balance,"1,13",,,,0041 00 102 AF 22562
 AF,Total AF,"104,07,01","106,94,71","112,39,58","272,88,15"
 AG,Receipts on the Composite Tax on National Permit Vehicles [2501],,,,,
-214,Taxes,,"68,91,43","75,86,33","74,42,75","75,96,65",0041 00 102 AG 21400
+214,Taxes,"68,91,43","75,86,33","74,42,75","75,96,65",0041 00 102 AG 21400
 AG,Total AG,"68,91,43","75,86,33","74,42,75","75,96,65"
 102,Total 102,"4,800,88,31","5,493,56,28","5,184,95,35","6,049,51,07"
 800,Other Receipts,,,,
@@ -836,7 +836,7 @@ AH,Total AH,"57,05,19","86,45,51","61,61,61","64,94,53"
 0041,Total 0041,"5,572,80,32","6,510,70,00","6,018,62,75","6,897,72,91"
 0042-00,TAXES ON GOODS AND PASSENGERS,,,,
 106,Taxes on Entry of Goods into Local Areas AA Taxes on Entry of Goods into Local Areas [1002],,,,
-215,"Levy, Cess, Surcharge, etc. on Taxes"",2",84,"84""",1,"13,78,26","14,47,17",0042 00 106 AA 21500
+215,"Levy, Cess, Surcharge, etc. on Taxes","2,84,84",1,"13,78,26","14,47,17",0042 00 106 AA 21500
 66,Taxes on Goods and Passengers,"2,84,84",1,"13,78,26","14,47,17",0042 00 106 AA 21566
 AA,Total AA,"2,84,84",1,"13,78,26","14,47,17"
 106,Total 106,"2,84,84",1,"13,78,26","14,47,17"
@@ -929,7 +929,7 @@ AB,Other Receipts [1002],,,,
 AB,Total AB,"4,63","1,57","2,76","2,90"
 AD,Deduct - Refunds to Local Bodies -Controlled by Commissioner of Commercial Taxes [1002],,,,
 277,Deduct / Refunds,"- 20,98,48","- 19,17,50","- 22,01,06","- 23,13,65",0045 00 101 AD 27700
-05,Entertainment Tax to Local,"Bodies""- 20",98,"48""","- 19,17,50","- 22,01,06","- 23,13,65",0045 00 101 AD 27705
+05,"Entertainment Tax to Local,Bodies","- 20,98,48","- 19,17,50","- 22,01,06","- 23,13,65",0045 00 101 AD 27705
 AD,Total AD,"- 20,98,48","- 19,17,50","- 22,01,06","- 23,13,65"
 AE,Tax Collections - controlled by Land Administration [1002],,,,
 216,Taxation Fees,"- 3,00",,,,0045 00 101 AE 21600
@@ -966,7 +966,7 @@ AA,Total AA,"2,48,11","3,09,39","1,10,49","1,16,01"
 105,Total 105,"2,48,11","3,09,39","1,10,49","1,16,01"
 114,"Receipts under the Sugarcane (Regulation, Supply and Purchase) Control Act",,,,
 AA,Other Receipts [2703],,,,
-215,"Levy, Cess, Surcharge, etc. on Taxes"",3",70,"19""","4,55,95","4,80,51","4,55,95",0045 00 114 AA 21500
+215,"Levy, Cess, Surcharge, etc. on Taxes","3,70,19","4,55,95","4,80,51","4,55,95",0045 00 114 AA 21500
 17,Non-Value Added Tax-Sugar Cane,"3,70,19","4,55,95","4,80,51","4,55,95",0045 00 114 AA 21517
 AA,Total AA,"3,70,19","4,55,95","4,80,51","4,55,95"
 114,Total 114,"3,70,19","4,55,95","4,80,51","4,55,95"
@@ -983,8 +983,8 @@ AC,Total AC,,,"16,72,00",
 0046-00,"CURRENCY, COINAGE AND MINT",,,,,
 105,Mint Receipts,,,,,
 AA,Sale of Dr.M.G.R. Commemorative Coins [3801],,,,,
-237,Sale Proceeds,,,,61,61,0046 00 105 AA 23700
-99,Others,,,,61,61,0046 00 105 AA 23799
+237,Sale Proceeds,,,61,61,0046 00 105 AA 23700
+99,Others,,,61,61,0046 00 105 AA 23799
 AA,Total AA,,,61,61
 105,Total 105,,,61,61
 0046,Total 0046,,,61,61
@@ -1404,7 +1404,7 @@ AG,Total AG,"- 7,98","- 7,56","- 7,56","- 7,56"
 900,Total 900,"- 8,57","- 7,56","- 7,56","- 7,56"
 04,Total 04,"6,875,20,96","4,463,11,34","5,140,22,65","5,395,93,90"
 0049,Total 0049,"6,875,20,96","4,463,11,34","5,140,22,65","5,395,93,90"
-0050-00,DIVIDENDS AND PROFITS,,,,,,
+0050-00,DIVIDENDS AND PROFITS,,,,,
 101,Dividends from Public Sector Undertakings AA Tamil Nadu Industrial Investment Corporation [2702],,,,
 226,Dividends,"3,04,68","10,00,00","3,03,52","10,00,00",0050 00 101 AA 22600
 01,Public Sector Undertakings/Boards/ Corporations,"3,04,68","10,00,00","3,03,52","10,00,00",0050 00 101 AA 22601
@@ -1490,57 +1490,57 @@ BK,Total BK,"1,22,24","1,32,75","1,32,75","1,32,75"
 101,Total 101,"148,33,82","161,89,85","177,84,25","194,49,93"
 200,Dividends from other Investments,,,,
 AA,Industrial Co-operative Institutions [2702],,,,
-226,Dividends"55,93","60,60","48,99","60,60",0050 00 200 AA 22600
-02,Co-Operative Institutions"55,93","60,60","48,99","60,60",0050 00 200 AA 22602
+226,Dividends,"55,93","60,60","48,99","60,60",0050 00 200 AA 22600
+02,Co-Operative Institutions,"55,93","60,60","48,99","60,60",0050 00 200 AA 22602
 AA,Total AA,"55,93","60,60","48,99","60,60"
 AC,Other Co-operative Institutions [1202],,,,
-226,Dividends"4,32,95","2,66,12","2,66,12","2,66,12",0050 00 200 AC 22600
-02,Co-Operative Institutions"4,32,95","2,66,12","2,66,12","2,66,12",0050 00 200 AC 22602
+226,Dividends,"4,32,95","2,66,12","2,66,12","2,66,12",0050 00 200 AC 22600
+02,Co-Operative Institutions,"4,32,95","2,66,12","2,66,12","2,66,12",0050 00 200 AC 22602
 AC,Total AC,"4,32,95","2,66,12","2,66,12","2,66,12"
 AE,Weavers Co-operative Institutions [1702],,,
 227,Non-Taxation Fees3,"1,00","2,00","2,00",0050 00 200 AE 22700
 09,Collections3,"1,00","2,00","2,00",0050 00 200 AE 22709
 AE,Total AE,3,"1,00","2,00","2,00"
 AG,Housing Co-operative Institutions [2603],,,
-226,Dividends"1,00","1,90","1,90","1,90",0050 00 200 AG 22600
-02,Co-Operative Institutions"1,00","1,90","1,90","1,90",0050 00 200 AG 22602
-AG,Total AG,"1,00","1,90","1,90","1,90",,
-"AL Ramaraju Surgical Cotton Mills Limited, Rajapalayam [1702]",,,,
-226,Dividends"7,08",27,27,27,0050 00 200 AL 22600
-03,Other Institutions"7,08",27,27,27,0050 00 200 AL 22603
-AL,Total AL,"7,08",27,27,27,,
+226,Dividends,"1,00","1,90","1,90","1,90",0050 00 200 AG 22600
+02,Co-Operative Institutions,"1,00","1,90","1,90","1,90",0050 00 200 AG 22602
+AG,Total AG,"1,00","1,90","1,90","1,90",
+AL,"Ramaraju Surgical Cotton Mills Limited, Rajapalayam [1702]",,,,
+226,Dividends,"7,08",27,27,27,0050 00 200 AL 22600
+03,Other Institutions,"7,08",27,27,27,0050 00 200 AL 22603
+AL,Total AL,"7,08",27,27,27,
 AM,Madras Cements Limited Rajapalayam [2702],,,,
-226,Dividends"2,40,00","2,40,00","2,40,00","2,40,00",0050 00 200 AM 22600
-02,Co-Operative Institutions"2,40,00","2,40,00","2,40,00","2,40,00",0050 00 200 AM 22602
+226,Dividends,"2,40,00","2,40,00","2,40,00","2,40,00",0050 00 200 AM 22600
+02,Co-Operative Institutions,"2,40,00","2,40,00","2,40,00","2,40,00",0050 00 200 AM 22602
 AM,Total AM,"2,40,00","2,40,00","2,40,00","2,40,00"
 AY,Sericulture Co-operative Institutions [1802],,,,
 226,Dividends,15,15,15,0050 00 200 AY 22600
 02,Co-Operative Institutions,15,15,15,0050 00 200 AY 22602
 AY,Total AY,,15,15,15
 AZ,NABKISAN Finance Limited (NKFL) [1601],,,
-226,Dividends"27,00","30,00","34,40","34,40",0050 00 200 AZ 22600
-02,Co-Operative Institutions"27,00","30,00","34,40","34,40",0050 00 200 AZ 22602
+226,Dividends,"27,00","30,00","34,40","34,40",0050 00 200 AZ 22600
+02,Co-Operative Institutions,"27,00","30,00","34,40","34,40",0050 00 200 AZ 22602
 AZ,Total AZ,"27,00","30,00","34,40","34,40"
 200,Total 200,"7,63,99","6,00,04","5,93,83","6,05,44"
 0051-00,PUBLIC SERVICE COMMISSION,,,,,
 105,Tamil Nadu  Public Service Commission - Examination Fees,,,,
 AA,Examination Fees [3504],,,,,
-227,Non-Taxation Fees,,"10,11,18","34,67,89","16,18,55","17,80,41",0051 00 105 AA 22700
-13,Examination,,"10,11,18","34,67,89","16,18,55","17,80,41",0051 00 105 AA 22713
+227,Non-Taxation Fees,"10,11,18","34,67,89","16,18,55","17,80,41",0051 00 105 AA 22700
+13,Examination,"10,11,18","34,67,89","16,18,55","17,80,41",0051 00 105 AA 22713
 AA,Total AA,"10,11,18","34,67,89","16,18,55","17,80,41"
 AB,Other Receipts [3504],,,,,
-227,Non-Taxation Fees,,"3,16,57","12,22,22","10,08,45","11,09,30",0051 00 105 AB 22700
-05,Application,,"3,16,57","12,22,22","10,08,45","11,09,30",0051 00 105 AB 22705
-237,Sale Proceeds,,"10,78","5,94","90,00","60,00",0051 00 105 AB 23700
+227,Non-Taxation Fees,"3,16,57","12,22,22","10,08,45","11,09,30",0051 00 105 AB 22700
+05,Application,"3,16,57","12,22,22","10,08,45","11,09,30",0051 00 105 AB 22705
+237,Sale Proceeds,"10,78","5,94","90,00","60,00",0051 00 105 AB 23700
 08,Dead Stock and other Waste Articles,"10,78","5,94","90,00","60,00",0051 00 105 AB 23708
-242,Recoveries,,"12,81","15,26",1,1,0051 00 105 AB 24200
-14,OverPayments,,"12,81","15,26",1,1,0051 00 105 AB 24214
+242,Recoveries,"12,81","15,26",1,1,0051 00 105 AB 24200
+14,OverPayments,"12,81","15,26",1,1,0051 00 105 AB 24214
 AB,Total AB,"3,40,16","12,43,42","10,98,46","11,69,31"
 105,Total 105,"13,51,34","47,11,31","27,17,01","29,49,72"
 800,Other Receipts,,,,,
 AB,Reimbursement of salaries to the staff of TRB [4309],,,,,
-223,Contribution and Donation,,"55,25","50,07",27,28,0051 00 800 AB 22300
-01,Leave Salary,,"55,25","50,07",27,28,0051 00 800 AB 22301
+223,Contribution and Donation,"55,25","50,07",27,28,0051 00 800 AB 22300
+01,Leave Salary,"55,25","50,07",27,28,0051 00 800 AB 22301
 AB,Total AB,"55,25","50,07",27,28
 800,Total 800,"55,25","50,07",27,28
 0051,Total 0051,"14,06,59","47,61,38","27,17,28","29,50,00"
@@ -1633,28 +1633,28 @@ AD,Cost of condemned police vehicles sold in public auction [2202],,,,
 06,Condemned Vehicles,"35,04","34,80","40,00","40,00",0055 00 800 AD 23706
 AD,Total AD,"35,04","34,80","40,00","40,00"
 AE,Miscellaneous [2202],,,
-290,Miscellaneous Revenue Receipts"5,93,63","10,00,00","6,17,40","6,30,03",0055 00 800 AE 29000
-01,Miscellaneous Receipts"5,93,63","10,00,00","6,17,40","6,30,03",0055 00 800 AE 29001
+290,Miscellaneous Revenue Receipts,"5,93,63","10,00,00","6,17,40","6,30,03",0055 00 800 AE 29000
+01,Miscellaneous Receipts,"5,93,63","10,00,00","6,17,40","6,30,03",0055 00 800 AE 29001
 AE,Total AE,"5,93,63","10,00,00","6,17,40","6,30,03"
 AF,Recovery of charges for use of Government Vehicles [2202],,,
-227,Non-Taxation Fees"21,14","28,00","28,29","29,42",0055 00 800 AF 22700
-09,Collections"21,14","28,00","28,29","29,42",0055 00 800 AF 22709
+227,Non-Taxation Fees,"21,14","28,00","28,29","29,42",0055 00 800 AF 22700
+09,Collections,"21,14","28,00","28,29","29,42",0055 00 800 AF 22709
 AF,Total AF,"21,14","28,00","28,29","29,42"
 AG,Collection of Payments for services rendered [2202],,,,
-233,Professional and Special Services"10,28,98","25,00,00","25,00,00","27,50,00",0055 00 800 AG 23300
-08,Police"10,28,98","25,00,00","25,00,00","27,50,00",0055 00 800 AG 23308
+233,Professional and Special Services,"10,28,98","25,00,00","25,00,00","27,50,00",0055 00 800 AG 23300
+08,Police,"10,28,98","25,00,00","25,00,00","27,50,00",0055 00 800 AG 23308
 AG,Total AG,"10,28,98","25,00,00","25,00,00","27,50,00"
 AI,Collection of Payments for the services rendered by the Temple Protection Force [2202],,,
-242,Recoveries"1,28,63","75,00","1,41,72","1,47,38",0055 00 800 AI 24200
-01,Guard Services"1,28,63","75,00","1,41,72","1,47,38",0055 00 800 AI 24201
+242,Recoveries,"1,28,63","75,00","1,41,72","1,47,38",0055 00 800 AI 24200
+01,Guard Services,"1,28,63","75,00","1,41,72","1,47,38",0055 00 800 AI 24201
 AI,Total AI,"1,28,63","75,00","1,41,72","1,47,38"
 AJ,Collection of Application Fees etc. by the Tamil Nadu Uniformed Services Recruitment Board [2210],,,
-227,Non-Taxation Fees"3,50,90","5,00","18,29,57","20,12,53",0055 00 800 AJ 22700
-05,Application"3,50,90","5,00","18,29,57","20,12,53",0055 00 800 AJ 22705
+227,Non-Taxation Fees,"3,50,90","5,00","18,29,57","20,12,53",0055 00 800 AJ 22700
+05,Application,"3,50,90","5,00","18,29,57","20,12,53",0055 00 800 AJ 22705
 AJ,Total AJ,"3,50,90","5,00","18,29,57","20,12,53"
 AK,Receipts from Forensic Science Department [2209],,,,
-227,Non-Taxation Fees"11,08,59","10,97,26","10,75,68","10,75,68",0055 00 800 AK 22700
-99,Others"11,08,59","10,97,26","10,75,68","10,75,68",0055 00 800 AK 22799
+227,Non-Taxation Fees,"11,08,59","10,97,26","10,75,68","10,75,68",0055 00 800 AK 22700
+99,Others,"11,08,59","10,97,26","10,75,68","10,75,68",0055 00 800 AK 22799
 AK,Total AK,"11,08,59","10,97,26","10,75,68","10,75,68"
 AN,Collection of Towing Charges [2202],,,,
 231,Receipt of Rent / Hire Charges/ Lease,"55,27","4,50,00","2,51,05","2,61,09",0055 00 800 AN 23100
@@ -1714,7 +1714,7 @@ AA,"Sale of Gazettes, etc. [3001]",,,,
 AA,Total AA,"30,31","2,00,00","2,00,00","2,00,00"
 102,Total 102,"30,31","2,00,00","2,00,00","2,00,00"
 200,Other Press Receipts,,,, 
-AA,"Cost of Printing work done for other Government Departments, Electricity Board,etc. [3001],,,,
+AA,"Cost of Printing work done for other Government Departments, Electricity Board,etc. [3001]",,,,
 239,Stationery & Printing,"27,08,95","10,00,00","23,27,48","25,60,23",0058 00 200 AA 23900
 02,Printing Charges,"27,08,95","10,00,00","23,27,48","25,60,23",0058 00 200 AA 23902
 AA,Total AA,"27,08,95","10,00,00","23,27,48","25,60,23"
@@ -1845,29 +1845,29 @@ AD,Total AD,"1,18,39","1,02,05","1,00,70","1,00,70"
 800,Other Receipts,,,
 AA,Sale proceeds of unclaimed and escheated property [0301],,,
 237,Sale Proceeds,"47,46","86,77","58,00","58,00",0070 01 800 AA 23700
-08,Dead Stock and other Waste Articles, "47,46","86,77","58,00","58,00",0070 01 800 AA 23708
-AA,Total AA,"47,46","86,77","58,00","58,00"
-AB,Recoveries of overpayments [0301],,,
-242,Recoveries"4,58","3,00","6,00","3,00",0070 01 800 AB 24200
-14,OverPayments"4,58","3,00","6,00","3,00",0070 01 800 AB 24214
+08,Dead Stock and other Waste Articles,"47,46","86,77","58,00","58,00",0070 01 800 AA 23708
+AA,Total AA,"47,46","86,77","58,00","58,00",
+AB,Recoveries of overpayments [0301],,,,
+242,Recoveries,"4,58","3,00","6,00","3,00",0070 01 800 AB 24200
+14,OverPayments,"4,58","3,00","6,00","3,00",0070 01 800 AB 24214
 AB,Total AB,"4,58","3,00","6,00","3,00"
-AC,Contribution towards leave salary of officers lent to Foreign Service [0301],,,
-223,Contribution and Donation"17,29","1,00","5,00","5,00",0070 01 800 AC 22300
-01,Leave Salary"17,29","1,00","5,00","5,00",0070 01 800 AC 22301
+AC,Contribution towards leave salary of officers lent to Foreign Service [0301],,,,
+223,Contribution and Donation,"17,29","1,00","5,00","5,00",0070 01 800 AC 22300
+01,Leave Salary,"17,29","1,00","5,00","5,00",0070 01 800 AC 22301
 AC,Total AC,"17,29","1,00","5,00","5,00"
 AD,Other Receipts [0301],,,
-227,Non-Taxation Fees"5,52,93","4,00,00","4,00,00","4,00,00",0070 01 800 AD 22700
-99,Others"5,52,93","4,00,00","4,00,00","4,00,00",0070 01 800 AD 22799
-AD,Total AD,"5,52,93","4,00,00","4,00,00","4,00,00"
-AE,"Charges recovered from Post Master General, Chennai towards taxes payable for the Post Office Buildings in the High Court [0301],,,,
+227,Non-Taxation Fees,"5,52,93","4,00,00","4,00,00","4,00,00",0070 01 800 AD 22700
+99,Others,"5,52,93","4,00,00","4,00,00","4,00,00",0070 01 800 AD 22799
+AD,Total AD,"5,52,93","4,00,00","4,00,00","4,00,00",
+AE,"Charges recovered from Post Master General, Chennai towards taxes payable for the Post Office Buildings in the High Court [0301]",,,,
 221,Receipts from Central Government,"1,00,29",1,"4,74","4,74",0070 01 800 AE 22100
-99,Others"1,00,29",1,"4,74","4,74",0070 01 800 AE 22199
+99,Others,"1,00,29",1,"4,74","4,74",0070 01 800 AE 22199
 AE,Total AE,"1,00,29",1,"4,74","4,74"
-AF,Charges recovered from Government of India towards extension of High Court Jurisdiction to Pondicherry State [0301],,,,
+AF,Charges recovered from Government of India towards extension of High Court Jurisdiction to Pondicherry State [0301],,,,,
 221,Receipts from Central Government,"34,17","61,73","34,17","34,17",0070 01 800 AF 22100
-99,Others"34,17","61,73","34,17","34,17",0070 01 800 AF 22199
-AF,Total AF,"34,17","61,73","34,17","34,17"
-AG,Charges recovered from Railway Department towards Railway Magistrates Court [0301],,,,
+99,Others,"34,17","61,73","34,17","34,17",0070 01 800 AF 22199
+AF,Total AF,"34,17","61,73","34,17","34,17",
+AG,Charges recovered from Railway Department towards Railway Magistrates Court [0301],,,,,
 221,Receipts from Central Government,"5,55","2,50","5,55","5,55",0070 01 800 AG 22100
 99,Others,"5,55","2,50","5,55","5,55",0070 01 800 AG 22199
 AG,Total AG,"5,55","2,50","5,55","5,55"
@@ -1982,36 +1982,36 @@ AA,Total AA,"82,27","1,90,00","90,00","90,00"
 118,Total 118,"82,27","1,90,00","90,00","90,00"
 800,Other Receipts,,,
 AA,Village Officers Special Tests [4102],,,
-227,Non-Taxation Fees"1,83,89","1,28,42","1,07,52","1,12,90",0070 60 800 AA 22700
-13,Examination"1,83,89","1,28,42","1,07,52","1,12,90",0070 60 800 AA 22713
+227,Non-Taxation Fees,"1,83,89","1,28,42","1,07,52","1,12,90",0070 60 800 AA 22700
+13,Examination,"1,83,89","1,28,42","1,07,52","1,12,90",0070 60 800 AA 22713
 AA,Total AA,"1,83,89","1,28,42","1,07,52","1,12,90"
 AB,"Birth, Death and Marriage Registration Fees [1101]",,,,
-227,Non-Taxation Fees"15,00,35","10,50,00","9,30,53","9,77,06",0070 60 800 AB 22700
-29,Registration"15,00,35","10,50,00","9,30,53","9,77,06",0070 60 800 AB 22729
+227,Non-Taxation Fees,"15,00,35","10,50,00","9,30,53","9,77,06",0070 60 800 AB 22700
+29,Registration,"15,00,35","10,50,00","9,30,53","9,77,06",0070 60 800 AB 22729
 AB,Total AB,"15,00,35","10,50,00","9,30,53","9,77,06"
 AC,"Fees realised under Special Marriages Act, 1954 [1101]",,,,
-227,Non-Taxation Fees"40,22","35,00","2,25,03","2,36,28",0070 60 800 AC 22700
-29,Registration"40,22","35,00","2,25,03","2,36,28",0070 60 800 AC 22729
+227,Non-Taxation Fees,"40,22","35,00","2,25,03","2,36,28",0070 60 800 AC 22700
+29,Registration,"40,22","35,00","2,25,03","2,36,28",0070 60 800 AC 22729
 AC,Total AC,"40,22","35,00","2,25,03","2,36,28"
 AD,"Fees realised under Societies Registration Act1860 [1101]",,,,
-227,Non-Taxation Fees"11,76,49","10,51,98","11,04,79","11,60,03",0070 60 800 AD 22700
-29,Registration"11,76,49","10,51,98","11,04,79","11,60,03",0070 60 800 AD 22729
+227,Non-Taxation Fees,"11,76,49","10,51,98","11,04,79","11,60,03",0070 60 800 AD 22700
+29,Registration,"11,76,49","10,51,98","11,04,79","11,60,03",0070 60 800 AD 22729
 AD,Total AD,"11,76,49","10,51,98","11,04,79","11,60,03"
 AE,Fees realised under Hindu Marriage (Registration) Rules 1967 [1101]",,,,
-227,Non-Taxation Fees"1,19,12","1,00,00","78,36","82,28",0070 60 800 AE 22700
-29,Registration"1,19,12","1,00,00","78,36","82,28",0070 60 800 AE 22729
+227,Non-Taxation Fees,"1,19,12","1,00,00","78,36","82,28",0070 60 800 AE 22700
+29,Registration,"1,19,12","1,00,00","78,36","82,28",0070 60 800 AE 22729
 AE,Total AE,"1,19,12","1,00,00","78,36","82,28"
 AF,Purchase Licence Fee under Tamil Nadu Warehouses Act 1953 [1301],,,
-227,Non-Taxation Fees"5,96","4,05",16,16,0070 60 800 AF 22700
-22,Licence"5,96","4,05",16,16,0070 60 800 AF 22722
+227,Non-Taxation Fees,"5,96","4,05",16,16,0070 60 800 AF 22700
+22,Licence,"5,96","4,05",16,16,0070 60 800 AF 22722
 AF,Total AF,"5,96","4,05",16,16
 AG,Pound Fund Receipts [4102],,,
-227,Non-Taxation Fees13,2,"11,86","12,45",0070 60 800 AG 22700
-99,Others13,2,"11,86","12,45",0070 60 800 AG 22799
+227,Non-Taxation Fees,13,2,"11,86","12,45",0070 60 800 AG 22700
+99,Others,13,2,"11,86","12,45",0070 60 800 AG 22799
 AG,Total AG,13,2,"11,86","12,45"
 AH,"Other Items of Fees, Fines etc [4102]",,,,
-227,Non-Taxation Fees"21,70","16,32","67,92","71,32",0070 60 800 AH 22700
-99,Others"21,70","16,32","67,92","71,32",0070 60 800 AH 22799
+227,Non-Taxation Fees,"21,70","16,32","67,92","71,32",0070 60 800 AH 22700
+99,Others,"21,70","16,32","67,92","71,32",0070 60 800 AH 22799
 AH,Total AH,"21,70","16,32","67,92","71,32"
 AI,Recovery from the Central Government towards expenditure in connection with the propagation of Small Savings Scheme [1604],,,
 221,Receipts from Central Government,5,"24,28,35",7,7,0070 60 800 AI 22100
@@ -2092,26 +2092,26 @@ DH,Sale proceeds of the confiscated vehicles sold in Public auction [2202],,,,
 21,Vehicles,"55,55","1,25,00","57,77","60,08",0070 60 800 DH 23721
 DH,Total DH,"55,55","1,25,00","57,77","60,08"
 DI,Receipts under the control of Chief Electrical Inspectorate [1402],,,,,
-237,Sale Proceeds,,28,30,,1,0070 60 800 DI 23700
-20,Tender,,28,30,,1,0070 60 800 DI 23720
+237,Sale Proceeds,28,30,,1,0070 60 800 DI 23700
+20,Tender,28,30,,1,0070 60 800 DI 23720
 DI,Total DI,28,30,,1
 DM,"Fees realised under Tamil Nadu Registration of Marriages Act, 2009 [1101]",,,,,
-227,Non-Taxation Fees,,"2,83,63","3,00,00","88,61","93,04",0070 60 800 DM 22700
-29,Registration,,"2,83,63","3,00,00","88,61","93,04",0070 60 800 DM 22729
+227,Non-Taxation Fees,"2,83,63","3,00,00","88,61","93,04",0070 60 800 DM 22700
+29,Registration,"2,83,63","3,00,00","88,61","93,04",0070 60 800 DM 22729
 DM,Total DM,"2,83,63","3,00,00","88,61","93,04"
 EA,"Receipts from Civil Service Training Institute, Bhavanisagar [3507]",,,,,
-227,Non-Taxation Fees,,"52,51",,,,0070 60 800 EA 22700
-99,Others,,"52,51",,,,0070 60 800 EA 22799
+227,Non-Taxation Fees,"52,51",,,,0070 60 800 EA 22700
+99,Others,"52,51",,,,0070 60 800 EA 22799
 EA,Total EA,"52,51",,,
 EB,Reimbursement from UNDP for implementation of Human Development Bridging Inequalities Project [3604],,,,,
-290,Miscellaneous Revenue Receipts,,"8,20","88,36","88,36","88,36",0070 60 800 EB 29000
-01,Miscellaneous Receipts,,"8,20","88,36","88,36","88,36",0070 60 800 EB 29001
+290,Miscellaneous Revenue Receipts,"8,20","88,36","88,36","88,36",0070 60 800 EB 29000
+01,Miscellaneous Receipts,"8,20","88,36","88,36","88,36",0070 60 800 EB 29001
 EB,Total EB,"8,20","88,36","88,36","88,36"
 800,Total 800,"98,48,46","128,93,08","118,20,05","124,04,67"
 900,Deduct-Refunds,,,,,
 AA,Receipts of Fire Service Department [2301],,,,,
-277,Deduct Refunds,,"- 75,00,00",,,,0070 60 900 AA 27700
-99,Others,,"- 75,00,00",,,,0070 60 900 AA 27799
+277,Deduct Refunds,"- 75,00,00",,,,0070 60 900 AA 27700
+99,Others,"- 75,00,00",,,,0070 60 900 AA 27799
 AA,Total AA,"- 75,00,00",,,
 900,Total 900,"- 75,00,00",,,
 60,Total 60,"84,58,18","182,97,10","175,35,39","184,13,15"
@@ -2153,7 +2153,7 @@ AH,Recovery of Pensionary charges from Commercial Departments and undertakings [
 AH,Total AH,"5,16,48","14,61","5,13,24","5,38,88"
 AI,Other contributions [4001],,,,
 223,Contribution and Donation,"2,31,63","2,44,39","2,21,78","2,32,87",0071 01 101 AI 22300
-99,Others,,"2,31,63","2,44,39","2,21,78","2,32,87",0071 01 101 AI 22399
+99,Others,"2,31,63","2,44,39","2,21,78","2,32,87",0071 01 101 AI 22399
 AI,Total AI,"2,31,63","2,44,39","2,21,78","2,32,87"
 AJ,Other Commercial Departments [4001],,,,
 290,Miscellaneous Revenue Receipts,16,24,24,24,0071 01 101 AJ 29000
@@ -2169,8 +2169,8 @@ AM,Recovery of Provident Fund and Pensionery contributions in respect of Teachin
 AM,Total AM,11,"1,00",15,20
 101,Total 101,"37,95,02","26,96,90","36,37,30","36,71,96"
 800,Other Receipts AA Recovery of Pensionary charges from other Governments [1602],,,,
-242,Recoveries,,"30,39","9,52","7,90","7,90",0071 01 800 AA 24200
-99,Others,,"30,39","9,52","7,90","7,90",0071 01 800 AA 24299
+242,Recoveries,"30,39","9,52","7,90","7,90",0071 01 800 AA 24200
+99,Others,"30,39","9,52","7,90","7,90",0071 01 800 AA 24299
 AA,Total AA,"30,39","9,52","7,90","7,90"
 AC,Other Receipts [1612],,,,
 278,Pro-rata adjustments,66,99,"2,57","2,70",0071 01 800 AC 27800
@@ -2180,7 +2180,7 @@ AC,Total AC,66,99,"2,57","2,70"
 900,Deduct-Refunds,,,,
 AA,Deduct - Refunds [5000],,,,
 277,Deduct / Refunds,"- 1,32",,,,0071 01 900 AA 27700
-99,Others,,"- 1,32",,,,0071 01 900 AA 27799
+99,Others,"- 1,32",,,,0071 01 900 AA 27799
 AA,Total AA,"- 1,32",,,
 900,Total 900,"- 1,32",,,
 01,Total 01,"38,24,75","27,07,41","36,47,77","36,82,56"
@@ -2195,7 +2195,7 @@ AA,Total AA,"26,46,85","15,05,00","16,00,00","16,00,00"
 103,State Lotteries,,,,
 AA,Tamil Nadu Raffle [1604],,,,
 238,State Lotteries/ Raffles,8,12,12,12,0075 00 103 AA 23800
-99,Others,,8,12,12,12,0075 00 103 AA 23899
+99,Others,8,12,12,12,0075 00 103 AA 23899
 AA,Total AA,8,12,12,12
 103,Total 103,8,12,12,12
 105,Sale of land and  property,,,,
@@ -2218,7 +2218,7 @@ AA,Sale of Old Stores and Materials [3001],,,,
 AA,Total AA,"33,42","50,00","41,02","43,07"
 AB,Recoveries of overpayments [3604],,,,
 242,Recoveries,"15,71",1,"2,60,36",1,0075 00 800 AB 24200
-99,Others,,"15,71",1,"2,60,36",1,0075 00 800 AB 24299
+99,Others,"15,71",1,"2,60,36",1,0075 00 800 AB 24299
 AB,Total AB,"15,71",1,"2,60,36",1
 AC,Treasure Trove [4102],,,,
 227,Non-Taxation Fees,"1,45",5,"1,35","1,35",0075 00 800 AC 22700
@@ -2309,27 +2309,27 @@ BK,Collection of fees under Tamil Nadu Registrar for Information [1602],,,,
 03,Advertisement & Publicity,"37,46","1,50,00","28,32","29,74",0075 00 800 BK 22703
 BK,Total BK,"37,46","1,50,00","28,32","29,74"
 BM,Subscription of Government Employees towards New Health Insurance Scheme (NHIS) [1602],,,,,
-224,Subscriptions,,"179,60,44","178,66,33","193,60,56","212,96,62",0075 00 800 BM 22400
-01,New Health Insurance Scheme-Employees,,"179,60,44","178,66,33","193,60,56","212,96,62",0075 00 800 BM 22401
+224,Subscriptions,"179,60,44","178,66,33","193,60,56","212,96,62",0075 00 800 BM 22400
+01,New Health Insurance Scheme-Employees,"179,60,44","178,66,33","193,60,56","212,96,62",0075 00 800 BM 22401
 BM,Total BM,"179,60,44","178,66,33","193,60,56","212,96,62"
 BN,Subscription of Employees of Local Bodies towards New Health Insurance Scheme (NHIS) [1602],,,,,
-224,Subscriptions,,"8,91,40","6,88,83","38,28,37","19,16,16",0075 00 800 BN 22400
-01,New Health Insurance Scheme-Employees,,"8,91,40","6,88,83","38,28,37","19,16,16",0075 00 800 BN 22401
+224,Subscriptions,"8,91,40","6,88,83","38,28,37","19,16,16",0075 00 800 BN 22400
+01,New Health Insurance Scheme-Employees,"8,91,40","6,88,83","38,28,37","19,16,16",0075 00 800 BN 22401
 BN,Total BN,"8,91,40","6,88,83","38,28,37","19,16,16"
 BO,Subscription of Employees of Public Sector Undertakings and Statutory Boards towards New Health Insurance Scheme (NHIS) [1602],,,,,
-224,Subscriptions,,"53,26,32","18,71,44","18,52,05","20,37,26",0075 00 800 BO 22400
-01,New Health Insurance Scheme-Employees,,"53,26,32","18,71,44","18,52,05","20,37,26",0075 00 800 BO 22401
+224,Subscriptions,"53,26,32","18,71,44","18,52,05","20,37,26",0075 00 800 BO 22400
+01,New Health Insurance Scheme-Employees,"53,26,32","18,71,44","18,52,05","20,37,26",0075 00 800 BO 22401
 BO,Total BO,"53,26,32","18,71,44","18,52,05","20,37,26"
 BP,Subscription of State Government Universities Employees towards New Health Insurance Scheme (NHIS) [1602],,,,,
-224,Subscriptions,,"5,24,22","81,10","1,79,94","1,79,94",0075 00 800 BP 22400
-01,New Health Insurance Scheme-Employees,,"5,24,22","81,10","1,79,94","1,79,94",0075 00 800 BP 22401
+224,Subscriptions,"5,24,22","81,10","1,79,94","1,79,94",0075 00 800 BP 22400
+01,New Health Insurance Scheme-Employees,"5,24,22","81,10","1,79,94","1,79,94",0075 00 800 BP 22401
 BP,Total BP,"5,24,22","81,10","1,79,94","1,79,94"
 BQ,Subscription of Employees in Non-Standard Scales of Pay towards New Health Insurance Scheme (NHIS) [1602],,,,,
-224,Subscriptions,,"6,64","7,13","45,35","7,20",0075 00 800 BQ 22400
-01,New Health Insurance Scheme-Employees,,"6,64","7,13","45,35","7,20",0075 00 800 BQ 22401
+224,Subscriptions,"6,64","7,13","45,35","7,20",0075 00 800 BQ 22400
+01,New Health Insurance Scheme-Employees,"6,64","7,13","45,35","7,20",0075 00 800 BQ 22401
 BQ,Total BQ,"6,64","7,13","45,35","7,20"
 BR,Receipts of Hire Charges for the use of Government Aircraft / Helicopter [3801],,,,,
-231,Receipt of Rent / Hire,,,,"11,05",,0075 00 800 BR 23100
+231,Receipt of Rent / Hire,,,"11,05",,0075 00 800 BR 23100
 BR,Total BR,,,"11,05",
 BS,Receipts under Adjudication under the Information Technology Act 2000 [3101],,,,
 227,Non-Taxation Fees,,43,18,26,0075 00 800 BS 22700
@@ -2353,8 +2353,8 @@ BY,Total BY,"212,91,07","280,31,98","278,83,05","306,71,36"
 01,Lapsed Deposits,"- 32,58",1,1,1,0075 00 900 AA 24101
 AA,Total AA,"- 32,58",1,1,1
 AG,Recovery from  the Reserve bank of India towards Prizes paid for Prize winner bonds [1612],,,,
-242,Recoveries,,"- 3,67",,,,0075 00 900 AG 24200
-99,Others,,"- 3,67",,,,0075 00 900 AG 24299
+242,Recoveries,"- 3,67",,,,0075 00 900 AG 24200
+99,Others,"- 3,67",,,,0075 00 900 AG 24299
 AG,Total AG,"- 3,67",,,
 AU,Miscellaneous Receipts [1602],,,,
 277,Deduct / Refunds,,,1,1,0075 00 900 AU 27700
@@ -2445,8 +2445,8 @@ AB,Total AB,"1,97,45","3,67,00","2,18,66","2,40,72"
 AC,Other Receipts [2002],,,,
 227,Non-Taxation Fees,"1,01,53","3,27,00","45,53","47,80",0202 01 103 AC 22700
 01,Admission,"1,01,53","3,27,00","45,53","47,80",0202 01 103 AC 22701
-242,Recoveries,,"17,22","35,00","20,00","22,00",0202 01 103 AC 24200
-99,Others,,"17,22","35,00","20,00","22,00",0202 01 103 AC 24299
+242,Recoveries,"17,22","35,00","20,00","22,00",0202 01 103 AC 24200
+99,Others,"17,22","35,00","20,00","22,00",0202 01 103 AC 24299
 AC,Total AC,"1,18,75","3,62,00","65,53","69,80"
 AE,Receipts under the control of the Director of Legal Studies [3302],,,,
 227,Non-Taxation Fees,"39,39","41,00","1,27,07","1,30,92",0202 01 103 AE 22700
@@ -2480,34 +2480,34 @@ AC,Application Fees for Evaluation of Secondary Grade Teachers Training Certific
 08,Certificates/ Records,58,10,10,10,0202 01 600 AC 22708
 AC,Total AC,58,10,10,10
 AG,Collection of affiliation fees is respect of Self Financing Private Teacher Training Institutes [4307],,,,,
-227,Non-Taxation Fees,,"1,20",10,"1,83","1,92",0202 01 600 AG 22700
-04,Affiliation,,"1,20",10,"1,83","1,92",0202 01 600 AG 22704
+227,Non-Taxation Fees,"1,20",10,"1,83","1,92",0202 01 600 AG 22700
+04,Affiliation,"1,20",10,"1,83","1,92",0202 01 600 AG 22704
 AG,Total AG,"1,20",10,"1,83","1,92"
 600,Total 600,"67,08","40,20","41,93","43,02"
 01,Total 01,"1,438,98,00","1,136,38,13","1,548,98,44","1,700,76,39"
 02,Technical Education,,,,,
 101,Tuitions and Other Fees,,,,,
 AA,Tuition and Other Fees [2003],,,,,
-227,Non-Taxation Fees,,"81,37","1,60,00","1,20,00","1,25,00",0202 02 101 AA 22700
-37,Tuition,,"81,37","1,60,00","1,20,00","1,25,00",0202 02 101 AA 22737
+227,Non-Taxation Fees,"81,37","1,60,00","1,20,00","1,25,00",0202 02 101 AA 22700
+37,Tuition,"81,37","1,60,00","1,20,00","1,25,00",0202 02 101 AA 22737
 AA,Total AA,"81,37","1,60,00","1,20,00","1,25,00"
 AB,Examinations conducted by the Director of Technical Education -Engineering Colleges [2003],,,,,
-227,Non-Taxation Fees,,"26,27,20","55,50,00","56,12,41","61,73,65",0202 02 101 AB 22700
-13,Examination,,"26,27,20","55,50,00","56,12,41","61,73,65",0202 02 101 AB 22713
+227,Non-Taxation Fees,"26,27,20","55,50,00","56,12,41","61,73,65",0202 02 101 AB 22700
+13,Examination,"26,27,20","55,50,00","56,12,41","61,73,65",0202 02 101 AB 22713
 AB,Total AB,"26,27,20","55,50,00","56,12,41","61,73,65"
 AC,Examinations conducted by the Director of Technical Education - Polytechnics [2003],,,,,
-227,Non-Taxation Fees,,"69,31,62","41,34,88","116,72,28","128,39,51",0202 02 101 AC 22700
-13,Examination,,"69,31,62","41,34,88","116,72,28","128,39,51",0202 02 101 AC 22713
+227,Non-Taxation Fees,"69,31,62","41,34,88","116,72,28","128,39,51",0202 02 101 AC 22700
+13,Examination,"69,31,62","41,34,88","116,72,28","128,39,51",0202 02 101 AC 22713
 AC,Total AC,"69,31,62","41,34,88","116,72,28","128,39,51"
 101,Total 101,"96,40,19","98,44,88","174,04,69","191,38,16"
 501,Services and Service Fees,,,,,
 AA,Service charges collected for work executed for parties [2003],,,,,
-234,Centage Charges,,"8,98,07","13,00,00","10,00,00","10,50,00",0202 02 501 AA 23400
+234,Centage Charges,"8,98,07","13,00,00","10,00,00","10,50,00",0202 02 501 AA 23400
 02,Collected by Public Works-Buildings,"8,98,07","13,00,00","10,00,00","10,50,00",0202 02 501 AA 23402
 AA,Total AA,"8,98,07","13,00,00","10,00,00","10,50,00"
 AB,Charges Collected for services rendered [2003],,,,,
-234,Centage Charges,,"13,54","3,00","3,00","3,25",0202 02 501 AB 23400
-99,Others,,"13,54","3,00","3,00","3,25",0202 02 501 AB 23499
+234,Centage Charges,"13,54","3,00","3,00","3,25",0202 02 501 AB 23400
+99,Others,"13,54","3,00","3,00","3,25",0202 02 501 AB 23499
 AB,Total AB,"13,54","3,00","3,00","3,25"
 ,,,"9,11,61","13,03,00","10,03,00","10,53,25"
 800,Other Receipts,,,,
@@ -2531,7 +2531,7 @@ AG,Total AG,80,"1,20","1,20","1,20"
 101,"Physical Education, Sports and Youth Welfare",,,,
 AA,Physical Education Sports and Youth Services [4303],,,,
 233,Professional and Special Services,"18,21","17,00","34,55","34,55",0202 03 101 AA 23300
-99,Others,,"18,21","17,00","34,55","34,55",0202 03 101 AA 23399
+99,Others,"18,21","17,00","34,55","34,55",0202 03 101 AA 23399
 AA,Total AA,"18,21","17,00","34,55","34,55"
 101,Total 101,"18,21","17,00","34,55","34,55"
 800,Other Receipts,,,, 
@@ -2555,7 +2555,7 @@ AB,Total AB,"34,15","5,00","5,00","5,50"
 102,Public Libraries,,,,
 AA,Receipts of the Connemara Public Library [4305],,,,
 224,Subscriptions,"19,14","20,00","20,00","20,00",0202 04 102 AA 22400
-99,Others,,"19,14","20,00","20,00","20,00",0202 04 102 AA 22499
+99,Others,"19,14","20,00","20,00","20,00",0202 04 102 AA 22499
 AA,Total AA,"19,14","20,00","20,00","20,00"
 AD,Other Receipts [4305],,,,
 237,Sale Proceeds,"3,23","5,00","3,25","5,00",0202 04 102 AD 23700
@@ -2574,7 +2574,7 @@ AG,Total AG,"2,34,02","7,22,36","5,00,00","5,00,00"
 AA Tamil Nadu Government College of Music [2905],,,,
 227,Non-Taxation Fees,"10,75","3,16","3,23","3,24",0202 04 800 AA 22700
 37,Tuition,"6,33","3,06","3,06","3,06",0202 04 800 AA 22737
-99,Others,,"4,42",10,17,18,0202 04 800 AA 22799
+99,Others,"4,42",10,17,18,0202 04 800 AA 22799
 AA,Total AA,"10,75","3,16","3,23","3,24"
 AC,Collection of Payments for services rendered [2005],,,,
 227,Non-Taxation Fees,"6,06","5,00","5,00","5,00",0202 04 800 AC 22700
@@ -2590,7 +2590,7 @@ AD,Total AD,"1,26,91","2,10,00","2,54,00","2,61,02"
 AH,Receipts from Director of Art and Culture [2905],,,,
 227,Non-Taxation Fees,"18,78","10,17","10,21","10,28",0202 04 800 AH 22700
 37,Tuition,"9,73","10,07","10,07","10,07",0202 04 800 AH 22737
-99,Others,,"9,05",10,14,21,0202 04 800 AH 22799
+99,Others,"9,05",10,14,21,0202 04 800 AH 22799
 AH,Total AH,"18,78","10,17","10,21","10,28"
 800,Total 800,"1,62,50","2,28,33","2,72,44","2,79,54"
 04,Total 04,"10,40,31","11,80,74","10,00,74","10,20,09"
@@ -2598,7 +2598,7 @@ AH,Total AH,"18,78","10,17","10,21","10,28"
 800,Other Receipts,,,,
 AG,Receipts towards National Manpower information system [3602],,,,
 227,Non-Taxation Fees,6,9,18,18,0202 60 800 AG 22700
-99,Others,,6,9,18,18,0202 60 800 AG 22799
+99,Others,6,9,18,18,0202 60 800 AG 22799
 AG,Total AG,6,9,18,18
 800,Total 800,6,9,18,18
 60,Total 60,6,9,18,18
@@ -2641,11 +2641,11 @@ AA,Total AA,"450,82,16","501,47,25","542,70,48","596,97,53"
 AC,Receipts to be shared between the State Government and the Employees State Insurance Corporation in the ratio of,,,,
 ,1:7 [3205],,,,
 227,Non-Taxation Fees,"2,58,49","1,12,00","2,16,40","2,27,22",0210 01 101 AC 22700
-06,Audit,,"2,58,49","1,12,00","2,16,40","2,27,22",0210 01 101 AC 22706
+06,Audit,"2,58,49","1,12,00","2,16,40","2,27,22",0210 01 101 AC 22706
 AC,Total AC,"2,58,49","1,12,00","2,16,40","2,27,22"
 AE,Receipts towards Hospital stoppages in respect of Insured persons under Employees State Insurance Scheme - Director of Medical and Rural Health Services [1902],,,,
 227,Non-Taxation Fees,"22,22","1,05","2,55","2,55",0210 01 101 AE 22700
-99,Others,,"22,22","1,05","2,55","2,55",0210 01 101 AE 22799
+99,Others,"22,22","1,05","2,55","2,55",0210 01 101 AE 22799
 AE,Total AE,"22,22","1,05","2,55","2,55"
 AF,Receipts towards Hospital stoppages in respect of Insured persons under Employees State Insurance Scheme - Director of Medical Education [1903],,,,
 227,Non-Taxation Fees,"6,13","18,55","5,93","6,23",0210 01 101 AF 22700
@@ -2653,7 +2653,7 @@ AF,Receipts towards Hospital stoppages in respect of Insured persons under Emplo
 AF,Total AF,"6,13","18,55","5,93","6,23"
 AG,Penalty for the belated supply of medicines [3205],,,,
 229,Fines & Penalties,"73,98","30,00","13,58","13,58",0210 01 101 AG 22900
-99,Others,,"73,98","30,00","13,58","13,58",0210 01 101 AG 22999
+99,Others,"73,98","30,00","13,58","13,58",0210 01 101 AG 22999
 AG,Total AG,"73,98","30,00","13,58","13,58"
 AH,Rent receipt from the employees occupying ESI quarters [3205],,,,
 231,Receipt of Rent / Hire Charges/ Lease,"2,09,01","4,10,00","2,37,32","2,49,19",0210 01 101 AH 23100
@@ -2775,29 +2775,29 @@ BJ,Total BJ,"14,19",,"16,40","16,40"
 02,Rural Health Services,,,,,
 101,Receipts / contributions from patients and others,,,,,
 AA,Fees for receiving X-Ray copy and CD in Primary Health Centres [1904],,,,,
-227,Non-Taxation Fees,,"3,13","8,31","3,50","3,50",0210 02 101 AA 22700
-25,Medical,,"3,13","8,31","3,50","3,50",0210 02 101 AA 22725
+227,Non-Taxation Fees,"3,13","8,31","3,50","3,50",0210 02 101 AA 22700
+25,Medical,"3,13","8,31","3,50","3,50",0210 02 101 AA 22725
 AA,Total AA,"3,13","8,31","3,50","3,50"
 101,Total 101,"3,13","8,31","3,50","3,50"
 800,Other Receipts,,,,,
 AD,Receipts from Government of India for National Rural Health Mission (NRHM) [1909],,,,,
 221,Receipts from Central Government,"151,29,79","152,01,88","222,34,98","244,58,48",0210 02 800 AD 22100
-03,Health & Family Welfare (NRHM-Construction& Sterlization Programme),,"151,29,79","152,01,88","222,34,98","244,58,48",0210 02 800 AD 22103
+03,Health & Family Welfare (NRHM-Construction& Sterlization Programme),"151,29,79","152,01,88","222,34,98","244,58,48",0210 02 800 AD 22103
 AD,Total AD,"151,29,79","152,01,88","222,34,98","244,58,48"
 800,Total 800,"151,29,79","152,01,88","222,34,98","244,58,48"
 02,Total 02,"151,32,92","152,10,19","222,38,48","244,61,98"
 03,Medical Education Training and Research,,,,,
 102,Homoeopathy,,,,,
 AA,Homoeopathy [1907],,,,,
-227,Non-Taxation Fees,,"5,02","2,00","4,00","4,00",0210 03 102 AA 22700
-37,Tuition,,"5,02","2,00","4,00","4,00",0210 03 102 AA 22737
+227,Non-Taxation Fees,"5,02","2,00","4,00","4,00",0210 03 102 AA 22700
+37,Tuition,"5,02","2,00","4,00","4,00",0210 03 102 AA 22737
 AA,Total AA,"5,02","2,00","4,00","4,00"
 102,Total 102,"5,02","2,00","4,00","4,00"
 105,Allopathy,,,,,
 AA,Fees - Medical Schools and Colleges [1903],,,,,
-227,Non-Taxation Fees,,"23,21,30","14,47,19","21,29,73","22,36,21",0210 03 105 AA 22700
-01,Admission,,"17,75,89","11,73,83","19,62,07","20,60,17",0210 03 105 AA 22701
-05,Application,,"5,45,41","2,73,36","1,67,66","1,76,04",0210 03 105 AA 22705
+227,Non-Taxation Fees,"23,21,30","14,47,19","21,29,73","22,36,21",0210 03 105 AA 22700
+01,Admission,"17,75,89","11,73,83","19,62,07","20,60,17",0210 03 105 AA 22701
+05,Application,"5,45,41","2,73,36","1,67,66","1,76,04",0210 03 105 AA 22705
 AA,Total AA,"23,21,30","14,47,19","21,29,73","22,36,21"
 105,Total 105,"23,21,30","14,47,19","21,29,73","22,36,21"
 800,Other Receipts,,,,
@@ -2886,8 +2886,8 @@ AE,Total AE,"3,77,88","1,52,08","3,77,88","4,00,00"
 AK,Prathanmantri Jan Arogya Yojana (PMJAY). [1910],,,,
 221,Receipts from Central Government,,,"260,75,00","286,82,50",0210 80 800 AK 22100
 03,Health & Family Welfare(NRHM-Construction&Sterlization Programme),,,"260,75,00","286,82,50",0210 80 800 AK 22103
-225,Interest,,,,"1,05,23","1,05,23",0210 80 800 AK 22500
-04,Accrued interest,,,,"1,05,23","1,05,23",0210 80 800 AK 22504
+225,Interest,,,"1,05,23","1,05,23",0210 80 800 AK 22500
+04,Accrued interest,,,"1,05,23","1,05,23",0210 80 800 AK 22504
 AK,Total AK,,,"261,80,23","287,87,73"
 800,Total 800,"3,77,88","1,52,08","265,58,11","291,87,73"
 80,Total 80,"3,77,88","1,52,08","265,58,11","291,87,73"
@@ -2900,7 +2900,7 @@ AA,Other Receipts [1905],,,,
 AA,Total AA,"4,73","5,00","10,00",1
 AB,Contribution to Tamil Nadu Family Welfare Miscellaneous Purpose Fund from the compensation amount [1905],,,,
 235,Writes off and Gains,,1,1,1,0211 00 800 AB 23500
-99,Others,,,1,1,1,0211 00 800 AB 23599
+99,Others,,1,1,1,0211 00 800 AB 23599
 AB,Total AB,,1,1,1
 AD,Deduct - Refunds [1905],,,,
 277,Deduct Refunds,,,1,"5,00",0211 00 800 AD 27700
@@ -2940,12 +2940,12 @@ AO,Total AO,,,"2,70",1
 01,WATER-SUPPLY,,,,,
 800,Other Receipts,,,,,
 AA,Contributions [1904],,,,,
-223,Contribution and Donation,,"1,43","5,10","5,10","6,50",0215 01 800 AA 22300
-21,Local Bodies,,"1,43","5,10","5,10","6,50",0215 01 800 AA 22321
+223,Contribution and Donation,"1,43","5,10","5,10","6,50",0215 01 800 AA 22300
+21,Local Bodies,"1,43","5,10","5,10","6,50",0215 01 800 AA 22321
 AA,Total AA,"1,43","5,10","5,10","6,50"
 AF,Other Public Health Receipts [1904],,,,,
-227,Non-Taxation Fees,,"38,17","38,00","38,00","38,00",0215 01 800 AF 22700
-20,Laboratories,,"38,17","38,00","38,00","38,00",0215 01 800 AF 22720
+227,Non-Taxation Fees,"38,17","38,00","38,00","38,00",0215 01 800 AF 22700
+20,Laboratories,"38,17","38,00","38,00","38,00",0215 01 800 AF 22720
 AF,Total AF,"38,17","38,00","38,00","38,00"
 800,Total 800,"39,60","43,10","43,10","44,50"
 01,Total 01,"39,60","43,10","43,10","44,50"
@@ -3025,7 +3025,7 @@ AF,Lease rent from CMDA for leasing out of CMBT Project [2604],,,,
 AF,Total AF,"3,82,66","5,50,00","5,50,00","5,50,00"
 AH,Receipts under Infrastructure and Basic Amenities Charges [2604],,,,
 243,Infrastructure & Amenities Charges,"426,93,06","525,00,00","525,00,00","525,00,00",0217 60 800 AH 24300
-99,Others,,"426,93,06","525,00,00","525,00,00","525,00,00",0217 60 800 AH 24399
+99,Others,"426,93,06","525,00,00","525,00,00","525,00,00",0217 60 800 AH 24399
 AH,Total AH,"426,93,06","525,00,00","525,00,00","525,00,00"
 AI,Municipal Urban Development Fund - Loan Balance Remittance by Tamil Nadu Urban Development Finance (TUIFSL) [3402],,,,
 290,Miscellaneous Revenue Receipts,"14,18",1,"9,15","9,15",0217 60 800 AI 29000
@@ -3039,7 +3039,7 @@ AJ,Receipts realised as Premium Floor Space Index Charges [2604],,,,
 AJ,Total AJ,"180,27,68","284,00,00","250,00,00","284,00,00"
 AM,Amount collected in lieu of Open Space Reservation (OSR) Area [2602],,,,
 245,Open Space Reservation Area,"11,61,82","20,17,31","20,17,31","20,17,31",0217 60 800 AM 24500
-01,Urban,,"11,61,82","20,17,31","20,17,31","20,17,31",0217 60 800 AM 24501
+01,Urban,"11,61,82","20,17,31","20,17,31","20,17,31",0217 60 800 AM 24501
 AM,Total AM,"11,61,82","20,17,31","20,17,31","20,17,31"
 AP,Collection of Front End Fees at 1 percent on the loan amount paid by TNUDF [3402],,,,
 290,Miscellaneous Revenue Receipts,"2,25,00","4,00,00","4,50,00","4,50,00",0217 60 800 AP 29000
@@ -3077,7 +3077,7 @@ AA,Fees from Film and Television Institute of Tamil Nadu [2802],,,,
 AA,Total AA,"46,49","74,23","74,23","74,23"
 AB,Receipts from Tamil Nadu Films Division and Photo Unit [2802],,,,
 237,Sale Proceeds,"1,48","2,00","2,00","2,00",0220 01 102 AB 23700
-99,Others,,"1,48","2,00","2,00","2,00",0220 01 102 AB 23799
+99,Others,"1,48","2,00","2,00","2,00",0220 01 102 AB 23799
 AB,Total AB,"1,48","2,00","2,00","2,00"
 AC,"Application Fees under Tamil Nadu Subsidy to Film Rules, 1977 [2802]",,,,
 227,Non-Taxation Fees,"72,44","1,00",10,10,0220 01 102 AC 22700
@@ -3102,7 +3102,7 @@ AA,Total AA,"4,81","12,00","12,00","12,00"
 106,Total 106,"4,81","12,00","12,00","12,00"
 113,Receipts from other Publications AA Receipts from Other Publications [2802],,,,
 224,Subscriptions,"76,86","72,00","72,00","72,00",0220 60 113 AA 22400
-99,Others,,"76,86","72,00","72,00","72,00",0220 60 113 AA 22499
+99,Others,"76,86","72,00","72,00","72,00",0220 60 113 AA 22499
 AA,Total AA,"76,86","72,00","72,00","72,00"
 113,Total 113,"76,86","72,00","72,00","72,00"
 800,Other Receipts,,,, 
@@ -3177,7 +3177,7 @@ AA,Licence Fees [3204],,,,
 AA,Total AA,"100,45,22","101,20,00","101,20,00","111,32,00"
 AB,Other than Licence Fees [3204],,,,
 227,Non-Taxation Fees,"15,56","13,00","30,52","30,52",0230 00 104 AB 22700
-99,Others,,"15,56","13,00","30,52","30,52",0230 00 104 AB 22799
+99,Others,"15,56","13,00","30,52","30,52",0230 00 104 AB 22799
 AB,Total AB,"15,56","13,00","30,52","30,52"
 AC,Medical Examination Fees [3204],,,,
 227,Non-Taxation Fees,"3,25,37","3,75,00","3,81,88","3,81,88",0230 00 104 AC 22700
@@ -3209,7 +3209,8 @@ AB,Registration Fees under Contract Labour Act - Building and other Construction
 290,Miscellaneous Revenue Receipts,,"10,06","10,06","10,06",0230 00 106 AB 29000
 01,Miscellaneous Receipts,,"10,06","10,06","10,06",0230 00 106 AB 29001
 AB,Total AB,"10,94","25,06","54,08","54,08"
-AC,Licence Fees under the Inter-State Migrant Workmen Act - Building and other Construction Works (BOCW) - (Directorate of Industrial Safety and Health (DISH)) [3204],,,,227 Non-Taxation Fees,"3,94","15,00","42,50","42,50",0230 00 106 AC 22700
+AC,Licence Fees under the Inter-State Migrant Workmen Act - Building and other Construction Works (BOCW) - (Directorate of Industrial Safety and Health (DISH)) [3204],,,,
+227 Non-Taxation Fees,"3,94","15,00","42,50","42,50",0230 00 106 AC 22700
 22,Licence,"3,94","7,50","37,50","37,50",0230 00 106 AC 22722
 29,Registration,,"7,50","5,00","5,00",0230 00 106 AC 22729
 290,Miscellaneous Revenue Receipts,,"2,86","2,86","2,86",0230 00 106 AC 29000
@@ -3238,17 +3239,17 @@ AD,Industrial Schools [3203],,,,
 99,Others,"16,90","1,00","18,63","1,00",0230 00 800 AD 24299
 AD,Total AD,"1,29,50","1,51,00","1,38,63","1,21,00"
 AG,Receipts of Labour Department [3202],,,,,
-227,Non-Taxation Fees,,"27,60","38,50","27,60","38,50",0230 00 800 AG 22700
-99,Others,,"27,60","38,50","27,60","38,50",0230 00 800 AG 22799
+227,Non-Taxation Fees,"27,60","38,50","27,60","38,50",0230 00 800 AG 22700
+99,Others,"27,60","38,50","27,60","38,50",0230 00 800 AG 22799
 AG,Total AG,"27,60","38,50","27,60","38,50"
 AO,Receipts from Craftsmen Training Scheme - Testing and Certification of Skill Workers in Informal Sector [3203],,,,,
-227,Non-Taxation Fees,,"8,67","1,50","1,59,24","1,59,24",0230 00 800 AO 22700
-13,Examination,,"8,67","1,50","1,59,24","1,59,24",0230 00 800 AO 22713
+227,Non-Taxation Fees,"8,67","1,50","1,59,24","1,59,24",0230 00 800 AO 22700
+13,Examination,"8,67","1,50","1,59,24","1,59,24",0230 00 800 AO 22713
 AO,Total AO,"8,67","1,50","1,59,24","1,59,24"
 AT,"Fees realised under Tamil Nadu Building and Other Construction Workers (Regulation of Employment and Conditions of Service) Rules, 2006 [3204]",,,,,
-227,Non-Taxation Fees,,"34,51","31,59","1,21,16","1,22,97",0230 00 800 AT 22700
-22,Licence,,"26,23","31,59","1,21,16","1,21,16",0230 00 800 AT 22722
-29,Registration,,"8,28",,,"1,81",0230 00 800 AT 22729
+227,Non-Taxation Fees,"34,51","31,59","1,21,16","1,22,97",0230 00 800 AT 22700
+22,Licence,"26,23","31,59","1,21,16","1,21,16",0230 00 800 AT 22722
+29,Registration,"8,28",,,"1,81",0230 00 800 AT 22729
 AT,Total AT,"34,51","31,59","1,21,16","1,22,97"
 800,Total 800,"7,32,69","10,07,18","10,14,22","10,09,30"
 0230,Total 0230,"154,86,87","156,77,42","159,66,48","173,25,40"
@@ -3256,32 +3257,32 @@ AT,Total AT,"34,51","31,59","1,21,16","1,22,97"
 01,Rehabilitation,,,,,
 800,Other Receipts,,,,,
 AC,Interest Receipts from Commissionerate of Rehabilitation and Welfare of Non-Resident Tamils on the unspent amount [3804],,,,,
-225,Interest,,,,"1,96,90",1,0235 01 800 AC 22500
-62,Unspent Balance,,,,"1,96,90",1,0235 01 800 AC 22562
+225,Interest,,,"1,96,90",1,0235 01 800 AC 22500
+62,Unspent Balance,,,"1,96,90",1,0235 01 800 AC 22562
 AC,Total AC,,,"1,96,90",1
 800,Total 800,,,"1,96,90",1
 01,Total 01,,,"1,96,90",1
 60,Other Social Security and Welfare Programmes,,,,,
 106,Receipts from Correctional Homes,,,,,
 AA,Approved schools [4502],,,,,
-237,Sale Proceeds,,"3,07","4,53",50,50,0235 60 106 AA 23700
-07,Correctional Homes Produces,,"3,07","4,53",50,50,0235 60 106 AA 23707
+237,Sale Proceeds,"3,07","4,53",50,50,0235 60 106 AA 23700
+07,Correctional Homes Produces,"3,07","4,53",50,50,0235 60 106 AA 23707
 AA,Total AA,"3,07","4,53",50,50
 AB,Other Miscellaneous Receipts [4502],,,,,
-227,Non-Taxation Fees,,"2,79","4,00","3,00","3,00",0235 60 106 AB 22700
-99,Others,,"2,79","4,00","3,00","3,00",0235 60 106 AB 22799
+227,Non-Taxation Fees,"2,79","4,00","3,00","3,00",0235 60 106 AB 22700
+99,Others,"2,79","4,00","3,00","3,00",0235 60 106 AB 22799
 AB,Total AB,"2,79","4,00","3,00","3,00"
 AC,Directorate of Correctional Administration [4502],,,,,
-227,Non-Taxation Fees,,2,"5,00","2,00","2,00",0235 60 106 AC 22700
-99,Others,,2,"5,00","2,00","2,00",0235 60 106 AC 22799
+227,Non-Taxation Fees,2,"5,00","2,00","2,00",0235 60 106 AC 22700
+99,Others,2,"5,00","2,00","2,00",0235 60 106 AC 22799
 AC,Total AC,2,"5,00","2,00","2,00"
 AD,Social Defence Homes [4502],,,,,
-227,Non-Taxation Fees,,4,50,10,10,0235 60 106 AD 22700
-99,Others,,4,50,10,10,0235 60 106 AD 22799
+227,Non-Taxation Fees,4,50,10,10,0235 60 106 AD 22700
+99,Others,4,50,10,10,0235 60 106 AD 22799
 AD,Total AD,4,50,10,10
 AE,Juvenile Guidance Bureau [4502],,,,,
-227,Non-Taxation Fees,,34,"5,00","5,00","5,20",0235 60 106 AE 22700
-99,Others,,34,"5,00","5,00","5,20",0235 60 106 AE 22799
+227,Non-Taxation Fees,34,"5,00","5,00","5,20",0235 60 106 AE 22700
+99,Others,34,"5,00","5,00","5,20",0235 60 106 AE 22799
 AE,Total AE,34,"5,00","5,00","5,20"
 106,Total 106,"6,26","19,03","10,60","10,80"
 800,Other Receipts,,,,
@@ -3319,7 +3320,7 @@ AM,Other Miscellaneous Receipts [4503],,,,
 AM,Total AM,"46,10","1,30,00","1,30,00","1,32,00"
 AN,1 percent recovery under Tamil Nadu Government Employees Special  Family Benefit Fund Scheme [1602],,,,
 224,Subscriptions,"2,86,55","2,50,00","3,00,00","3,00,00",0235 60 800 AN 22400
-99,Others,,"2,86,55","2,50,00","3,00,00","3,00,00",0235 60 800 AN 22499
+99,Others,"2,86,55","2,50,00","3,00,00","3,00,00",0235 60 800 AN 22499
 AN,Total AN,"2,86,55","2,50,00","3,00,00","3,00,00"
 AO,All India Service Family Benefit Fund [1602],,,,
 224,Subscriptions,61,18,12,12,0235 60 800 AO 22400
@@ -3335,7 +3336,7 @@ BC,Sale proceeds of empty gunny bags [4503],,,,
 BC,Total BC,"55,32","70,00","70,00","72,80"
 BD,Other receipts under World Bank assisted Integrated Child Development Project-III [4504],,,,
 227,Non-Taxation Fees,"1,11,68","1,74,18","50,00","50,00",0235 60 800 BD 22700
-99,Others,,"1,11,68","1,74,18","50,00","50,00",0235 60 800 BD 22799
+99,Others,"1,11,68","1,74,18","50,00","50,00",0235 60 800 BD 22799
 BD,Total BD,"1,11,68","1,74,18","50,00","50,00"
 BE,Receipts under the control of Commissioner for Disabled [5202],,,,
 277,Deduct / Refunds,"25,75","30,00","1,80,00","30,00",0235 60 800 BE 27700
@@ -3343,22 +3344,22 @@ BE,Receipts under the control of Commissioner for Disabled [5202],,,,
 BE,Total BE,"25,75","30,00","1,80,00","30,00"
 BG,Receipts from Prisons towards Tamil Nadu Victim Compensation Fund [2401],,,,
 223,Contribution and Donation,"4,43,14","1,60,00","4,32,98","4,32,98",0235 60 800 BG 22300
-99,Others,,"4,43,14","1,60,00","4,32,98","4,32,98",0235 60 800 BG 22399
+99,Others,"4,43,14","1,60,00","4,32,98","4,32,98",0235 60 800 BG 22399
 BG,Total BG,"4,43,14","1,60,00","4,32,98","4,32,98"
 BJ,Grants received for Pradhan Mantri Matru Vandana Yojana (PMMVY) [4504],,,,,
-221,Receipts from Central Government,,"15,67",,,,0235 60 800 BJ 22100
+221,Receipts from Central Government,"15,67",,,,0235 60 800 BJ 22100
 ,,,,,
-08,Grants,,"15,67",,,,0235 60 800 BJ 22108
+08,Grants,"15,67",,,,0235 60 800 BJ 22108
 BJ,Total BJ,"15,67",,,
 BK,State Fund for Persons with Disabilities [5202],,,,,
 223,Contribution and Donation,,1,"23,84","10,01",0235 60 800 BK 22300
-99,Others,,,1,"23,84","10,01",0235 60 800 BK 22399
+99,Others,,1,"23,84","10,01",0235 60 800 BK 22399
 BK,Total BK,,1,"23,84","10,01"
 800,Total 800,"103,63,72","86,53,06","91,59,23","97,44,20"
 900,Deduct-Refunds,,,,,
 AL,Chief Ministers Noon Meal Programme [4503],,,,,
-277,Deduct Refunds,,,,"- 77,79",13,0235 60 900 AL 27700
-99,Others,,,,"- 77,79",13,0235 60 900 AL 27799
+277,Deduct Refunds,,,"- 77,79",13,0235 60 900 AL 27700
+99,Others,,,"- 77,79",13,0235 60 900 AL 27799
 AL,Total AL,,,"- 77,79",13
 900,Total 900,,,"- 77,79",13
 60,Total 60,"103,69,98","86,72,09","90,92,04","97,55,13"
@@ -3396,171 +3397,171 @@ AE,Centage Charges [4701],,,,
 99,Others,"64,15","1,53,09","54,27","56,98",0250 00 800 AE 23499
 AE,Total AE,"64,15","1,53,09","54,27","56,98"
 AG,Rent [4701],,,,,
-231,Receipt of Rent / Hire Charges/ Lease,,"2,48","2,80","2,82","2,96",0250 00 800 AG 23100
-04,Rent from Others,,"2,48","2,80","2,82","2,96",0250 00 800 AG 23104
+231,Receipt of Rent / Hire Charges/ Lease,"2,48","2,80","2,82","2,96",0250 00 800 AG 23100
+04,Rent from Others,"2,48","2,80","2,82","2,96",0250 00 800 AG 23104
 AG,Total AG,"2,48","2,80","2,82","2,96"
 AM,Receipts for the Hindu Religious and Charitable Endowments Fund [4701],,,,
-227,Non-Taxation Fees,,"141,27,29","186,85,50","159,30,65","175,23,72",0250 00 800 AM 22700
-99,Others,,"141,27,29","186,85,50","159,30,65","175,23,72",0250 00 800 AM 22799
+227,Non-Taxation Fees,"141,27,29","186,85,50","159,30,65","175,23,72",0250 00 800 AM 22700
+99,Others,"141,27,29","186,85,50","159,30,65","175,23,72",0250 00 800 AM 22799
 AM,Total AM,"141,27,29","186,85,50","159,30,65","175,23,72"
 800,Total 800,"141,97,47","188,42,74","159,90,87","175,86,94"
 0250,Total 0250,"142,79,48","189,11,65","161,05,38","177,01,45"
 0401-00,CROP HUSBANDRY,,,,,
 103,Seeds,,,,,
 AA,High Yielding Cumbu Seeds [0502],,,,,
-237,Sale Proceeds,,"2,31",1,39,30,0401 00 103 AA 23700
-01,Agriculture,,"2,31",1,39,30,0401 00 103 AA 23701
+237,Sale Proceeds,"2,31",1,39,30,0401 00 103 AA 23700
+01,Agriculture,"2,31",1,39,30,0401 00 103 AA 23701
 AA,Total AA,"2,31",1,39,30
 AB,Receipts from the State Seed Farms [0502],,,,,
-237,Sale Proceeds,,16,1,48,15,0401 00 103 AB 23700
-01,Agriculture,,16,1,48,15,0401 00 103 AB 23701
+237,Sale Proceeds,16,1,48,15,0401 00 103 AB 23700
+01,Agriculture,16,1,48,15,0401 00 103 AB 23701
 AB,Total AB,16,1,48,15
 AC,Distribution of Improved Seeds of Paddy and  Millets [0502],,,,,
-237,Sale Proceeds,,"1,22",1,16,"1,00",0401 00 103 AC 23700
-01,Agriculture,,"1,22",1,16,"1,00",0401 00 103 AC 23701
+237,Sale Proceeds,"1,22",1,16,"1,00",0401 00 103 AC 23700
+01,Agriculture,"1,22",1,16,"1,00",0401 00 103 AC 23701
 AC,Total AC,"1,22",1,16,"1,00"
 AD,Pulses Seed Multiplication Scheme [0502],,,,,
-237,Sale Proceeds,,"2,36",1,"8,54","2,00",0401 00 103 AD 23700
-01,Agriculture,,"2,36",1,"8,54","2,00",0401 00 103 AD 23701
+237,Sale Proceeds,"2,36",1,"8,54","2,00",0401 00 103 AD 23700
+01,Agriculture,"2,36",1,"8,54","2,00",0401 00 103 AD 23701
 AD,Total AD,"2,36",1,"8,54","2,00"
 AE,Receipts from the Seed Processing Unit [0502],,,,,
-237,Sale Proceeds,,22,1,8,10,0401 00 103 AE 23700
-01,Agriculture,,22,1,8,10,0401 00 103 AE 23701
+237,Sale Proceeds,22,1,8,10,0401 00 103 AE 23700
+01,Agriculture,22,1,8,10,0401 00 103 AE 23701
 AE,Total AE,22,1,8,10
 AH,Receipts from Oil Seeds Foundation Seed Farm [0502],,,,,
-237,Sale Proceeds,,50,1,1,10,0401 00 103 AH 23700
-01,Agriculture,,50,1,1,10,0401 00 103 AH 23701
+237,Sale Proceeds,50,1,1,10,0401 00 103 AH 23700
+01,Agriculture,50,1,1,10,0401 00 103 AH 23701
 AH,Total AH,50,1,1,10
 AI,Receipts from Breeder Seed Farm under Oil Seeds Development Scheme [0502],,,,,
-237,Sale Proceeds,,38,1,1,20,0401 00 103 AI 23700
-01,Agriculture,,38,1,1,20,0401 00 103 AI 23701
+237,Sale Proceeds,38,1,1,20,0401 00 103 AI 23700
+01,Agriculture,38,1,1,20,0401 00 103 AI 23701
 AI,Total AI,38,1,1,20
 103,Total 103,"7,15",7,"9,67","3,85"
 105,Sale of Manures and Fertilizers,,,,,
 AC,Sale of Green Manures [0502],,,,,
-237,Sale Proceeds,,"76,30","82,50","75,00","82,50",0401 00 105 AC 23700
-01,Agriculture,,"76,30","82,50","75,00","82,50",0401 00 105 AC 23701
+237,Sale Proceeds,"76,30","82,50","75,00","82,50",0401 00 105 AC 23700
+01,Agriculture,"76,30","82,50","75,00","82,50",0401 00 105 AC 23701
 AC,Total AC,"76,30","82,50","75,00","82,50"
 AD,Receipts from Sale of Micro Nutrient Mixture for Groundnut [0502],,,,,
-237,Sale Proceeds,,"11,80,30","11,29,43","10,70,00","11,23,00",0401 00 105 AD 23700
-01,Agriculture,,"11,80,30","11,29,43","10,70,00","11,23,00",0401 00 105 AD 23701
+237,Sale Proceeds,"11,80,30","11,29,43","10,70,00","11,23,00",0401 00 105 AD 23700
+01,Agriculture,"11,80,30","11,29,43","10,70,00","11,23,00",0401 00 105 AD 23701
 AD,Total AD,"11,80,30","11,29,43","10,70,00","11,23,00"
 AF,Bacterial Culture Packets [0502],,,,,
-237,Sale Proceeds,,"23,10,85","10,71,36","23,10,00","23,10,00",0401 00 105 AF 23700
-01,Agriculture,,"23,10,85","10,71,36","23,10,00","23,10,00",0401 00 105 AF 23701
+237,Sale Proceeds,"23,10,85","10,71,36","23,10,00","23,10,00",0401 00 105 AF 23700
+01,Agriculture,"23,10,85","10,71,36","23,10,00","23,10,00",0401 00 105 AF 23701
 AF,Total AF,"23,10,85","10,71,36","23,10,00","23,10,00"
 AG,Nominal Cost Collection on Distribution of Zinc Sulphate [0502],,,,,
-237,Sale Proceeds,,65,1,1,1,0401 00 105 AG 23700
-01,Agriculture,,65,1,1,1,0401 00 105 AG 23701
+237,Sale Proceeds,65,1,1,1,0401 00 105 AG 23700
+01,Agriculture,65,1,1,1,0401 00 105 AG 23701
 AG,Total AG,65,1,1,1
 105,Total 105,"35,68,10","22,83,30","34,55,01","35,15,51"
 107,Receipts from Plant Protection Services,,,,,
 AA,Plant Protection Services [0502],,,,,
-227,Non-Taxation Fees,,"5,53,41","6,00,00","2,19,42","2,41,36",0401 00 107 AA 22700
-22,Licence,,"5,53,41","6,00,00","2,19,42","2,41,36",0401 00 107 AA 22722
+227,Non-Taxation Fees,"5,53,41","6,00,00","2,19,42","2,41,36",0401 00 107 AA 22700
+22,Licence,"5,53,41","6,00,00","2,19,42","2,41,36",0401 00 107 AA 22722
 AA,Total AA,"5,53,41","6,00,00","2,19,42","2,41,36"
 107,Total 107,"5,53,41","6,00,00","2,19,42","2,41,36"
 108,Receipts from Commercial Crops,,,,,
 AA,Sale of Lint and Seeds-Director of Agriculture [0502],,,,,
-237,Sale Proceeds,,28,1,1,1,0401 00 108 AA 23700
-01,Agriculture,,28,1,1,1,0401 00 108 AA 23701
+237,Sale Proceeds,28,1,1,1,0401 00 108 AA 23700
+01,Agriculture,28,1,1,1,0401 00 108 AA 23701
 AA,Total AA,28,1,1,1
 AG,Cotton Development [0502],,,,,
-237,Sale Proceeds,,,1,"9,48",1,0401 00 108 AG 23700
-01,Agriculture,,,1,"9,48",1,0401 00 108 AG 23701
+237,Sale Proceeds,,1,"9,48",1,0401 00 108 AG 23700
+01,Agriculture,,1,"9,48",1,0401 00 108 AG 23701
 AG,Total AG,,1,"9,48",1
 AH,Oil seeds Development [0502],,,,,
-237,Sale Proceeds,,"1,57",1,1,1,0401 00 108 AH 23700
-01,Agriculture,,"1,57",1,1,1,0401 00 108 AH 23701
+237,Sale Proceeds,"1,57",1,1,1,0401 00 108 AH 23700
+01,Agriculture,"1,57",1,1,1,0401 00 108 AH 23701
 AH,Total AH,"1,57",1,1,1
 AI,Integrated Coconut Development [0502],,,,,
-237,Sale Proceeds,,"117,48,19","14,00,00","12,42,23","18,74,50",0401 00 108 AI 23700
-01,Agriculture,,"117,48,19","14,00,00","12,42,23","18,74,50",0401 00 108 AI 23701
+237,Sale Proceeds,"117,48,19","14,00,00","12,42,23","18,74,50",0401 00 108 AI 23700
+01,Agriculture,"117,48,19","14,00,00","12,42,23","18,74,50",0401 00 108 AI 23701
 AI,Total AI,"117,48,19","14,00,00","12,42,23","18,74,50"
 AL,Sugarcane Development [0502],,,,,
-237,Sale Proceeds,,"3,26","12,00","1,96","2,00",0401 00 108 AL 23700
-01,Agriculture,,"3,26","12,00","1,96","2,00",0401 00 108 AL 23701
+237,Sale Proceeds,"3,26","12,00","1,96","2,00",0401 00 108 AL 23700
+01,Agriculture,"3,26","12,00","1,96","2,00",0401 00 108 AL 23701
 AL,Total AL,"3,26","12,00","1,96","2,00"
 AS,Sale of Tall and Dwarf Hybrid Coconut Seedlings [0502],,,,,
-237,Sale Proceeds,,30,1,26,1,0401 00 108 AS 23700
-01,Agriculture,,30,1,26,1,0401 00 108 AS 23701
+237,Sale Proceeds,30,1,26,1,0401 00 108 AS 23700
+01,Agriculture,30,1,26,1,0401 00 108 AS 23701
 AS,Total AS,30,1,26,1
 AZ,Coconut Seedlings [0502],,,,,
-237,Sale Proceeds,,19,1,1,1,0401 00 108 AZ 23700
-01,Agriculture,,19,1,1,1,0401 00 108 AZ 23701
+237,Sale Proceeds,19,1,1,1,0401 00 108 AZ 23700
+01,Agriculture,19,1,1,1,0401 00 108 AZ 23701
 AZ,Total AZ,19,1,1,1
 BC,Sale proceeds from Extension Wing of Tamil Nadu Co-operative Federation (TANCOF) [0502],,,,
-237,Sale Proceeds,,,1,1,1,0401 00 108 BC 23700
-99,Others,,,1,1,1,0401 00 108 BC 23799
+237,Sale Proceeds,,1,1,1,0401 00 108 BC 23700
+99,Others,,1,1,1,0401 00 108 BC 23799
 BC,Total BC,,1,1,1
 BD,Farmers Contribution under Eryophite Mite Control Scheme [0502],,,,,
-237,Sale Proceeds,,,,1,1,0401 00 108 BD 23700
-01,Agriculture,,,,1,1,0401 00 108 BD 23701
+237,Sale Proceeds,,,1,1,0401 00 108 BD 23700
+01,Agriculture,,,1,1,0401 00 108 BD 23701
 BD,Total BD,,,1,1
 108,Total 108,"117,53,79","14,12,06","12,53,98","18,76,57"
 119,Receipts from Horticulture and Vegetable Crops,,,,,
 AA,Botanical and other Public gardens [0505],,,,,
-227,Non-Taxation Fees,,41,1,3,1,0401 00 119 AA 22700
-12,Entrance,,41,1,3,1,0401 00 119 AA 22712
+227,Non-Taxation Fees,41,1,3,1,0401 00 119 AA 22700
+12,Entrance,41,1,3,1,0401 00 119 AA 22712
 AA,Total AA,41,1,3,1
 AB,Vegetable seed production centre [0505],,,,,
-237,Sale Proceeds,,"1,98",1,1,1,0401 00 119 AB 23700
-02,Horticulture,,"1,98",1,1,1,0401 00 119 AB 23702
+237,Sale Proceeds,"1,98",1,1,1,0401 00 119 AB 23700
+02,Horticulture,"1,98",1,1,1,0401 00 119 AB 23702
 AB,Total AB,"1,98",1,1,1
 AD,State Horticultural Farms [0505],,,,,
-237,Sale Proceeds,,"12,44",1,1,1,0401 00 119 AD 23700
-02,Horticulture,,"12,44",1,1,1,0401 00 119 AD 23702
+237,Sale Proceeds,"12,44",1,1,1,0401 00 119 AD 23700
+02,Horticulture,"12,44",1,1,1,0401 00 119 AD 23702
 AD,Total AD,"12,44",1,1,1
 AL,Miscellaneous Receipts [0505],,,,,
-290,Miscellaneous Revenue Receipts,,"35,84",1,"15,27",1,0401 00 119 AL 29000
-01,Miscellaneous Receipts,,"35,84",1,"15,27",1,0401 00 119 AL 29001
+290,Miscellaneous Revenue Receipts,"35,84",1,"15,27",1,0401 00 119 AL 29000
+01,Miscellaneous Receipts,"35,84",1,"15,27",1,0401 00 119 AL 29001
 AL,Total AL,"35,84",1,"15,27",1
 119,Total 119,"50,67",4,"15,32",4
 120,"Sale, Hire and Services of Agricultural Implements and Machinery including Tractors",,,,
 AB,Tractor Hiring Scheme [0506],,,,,
-231,Receipt of Rent / Charges/ Lease Hire,,"15,26,21","16,00,00","16,00,00","16,00,00",0401 00 120 AB 23100
+231,Receipt of Rent / Charges/ Lease Hire,"15,26,21","16,00,00","16,00,00","16,00,00",0401 00 120 AB 23100
 21,Hire Charges of Machinery & Equipments,"15,26,21","16,00,00","16,00,00","16,00,00",0401 00 120 AB 23121
 AB,Total AB,"15,26,21","16,00,00","16,00,00","16,00,00"
 AD,Sale of pipes and fittings [0502],,,,,
-223,Contribution and Donation,,,1,1,1,0401 00 120 AD 22300
-99,Others,,,1,1,1,0401 00 120 AD 22399
+223,Contribution and Donation,,1,1,1,0401 00 120 AD 22300
+99,Others,,1,1,1,0401 00 120 AD 22399
 AD,Total AD,,1,1,1
 AF,Agricultural Engineering - Receipts [0506],,,,,
-237,Sale Proceeds,,- 6,"1,00","1,50","1,50",0401 00 120 AF 23700
-19,Old Stores & Materials,,- 6,"1,00","1,50","1,50",0401 00 120 AF 23719
+237,Sale Proceeds,- 6,"1,00","1,50","1,50",0401 00 120 AF 23700
+19,Old Stores & Materials,- 6,"1,00","1,50","1,50",0401 00 120 AF 23719
 AG,Agricultural Engineering Workshop - Receipts from Sales [0506],,,,,
-237,Sale Proceeds,,"5,56","1,00","1,00","1,00",0401 00 120 AG 23700
-19,Old Stores & Materials,,"5,56","1,00","1,00","1,00",0401 00 120 AG 23719
+237,Sale Proceeds,"5,56","1,00","1,00","1,00",0401 00 120 AG 23700
+19,Old Stores & Materials,"5,56","1,00","1,00","1,00",0401 00 120 AG 23719
 AG,Total AG,"5,56","1,00","1,00","1,00"
 AH,Other Receipts [0506],,,,,
-237,Sale Proceeds,,"83,81","10,00","10,00","10,00",0401 00 120 AH 23700
-06,Condemned Vehicles,,"83,81","10,00","10,00","10,00",0401 00 120 AH 23706
+237,Sale Proceeds,"83,81","10,00","10,00","10,00",0401 00 120 AH 23700
+06,Condemned Vehicles,"83,81","10,00","10,00","10,00",0401 00 120 AH 23706
 AH,Total AH,"83,81","10,00","10,00","10,00"
 AJ,Post Harvest Technology and Management Scheme [0506],,,,,
-237,Sale Proceeds,,"4,82","1,70",50,50,0401 00 120 AJ 23700
-01,Agriculture,,"4,82","1,70",50,50,0401 00 120 AJ 23701
+237,Sale Proceeds,"4,82","1,70",50,50,0401 00 120 AJ 23700
+01,Agriculture,"4,82","1,70",50,50,0401 00 120 AJ 23701
 AJ,Total AJ,"4,82","1,70",50,50
 120,Total 120,"16,20,34","16,13,71","16,13,01","16,13,01"
 800,Other Receipts,,,,,
 AA,Recoveries of overpayments in Oil Seeds Department [0502],,,,,
-237,Sale Proceeds,,"2,45,25",1,"3,33","3,33",0401 00 800 AA 23700
-01,Agriculture,,"2,45,25",1,"3,33","3,33",0401 00 800 AA 23701
+237,Sale Proceeds,"2,45,25",1,"3,33","3,33",0401 00 800 AA 23700
+01,Agriculture,"2,45,25",1,"3,33","3,33",0401 00 800 AA 23701
 AA,Total AA,"2,45,25",1,"3,33","3,33"
 AJ,Crop yield Competition [0502],,,,,
-237,Sale Proceeds,,"2,65","2,70","2,70","2,80",0401 00 800 AJ 23700
-01,Agriculture,,"2,65","2,70","2,70","2,80",0401 00 800 AJ 23701
+237,Sale Proceeds,"2,65","2,70","2,70","2,80",0401 00 800 AJ 23700
+01,Agriculture,"2,65","2,70","2,70","2,80",0401 00 800 AJ 23701
 AJ,Total AJ,"2,65","2,70","2,70","2,80"
 AK,Miscellaneous [0502],,,,,
-237,Sale Proceeds,,"6,01,40","2,50,00","3,00,00","3,00,00",0401 00 800 AK 23700
-01,Agriculture,,"6,01,40","2,50,00","3,00,00","3,00,00",0401 00 800 AK 23701
+237,Sale Proceeds,"6,01,40","2,50,00","3,00,00","3,00,00",0401 00 800 AK 23700
+01,Agriculture,"6,01,40","2,50,00","3,00,00","3,00,00",0401 00 800 AK 23701
 AK,Total AK,"6,01,40","2,50,00","3,00,00","3,00,00"
 AN,Recoveries of overpayments [0502],,,,,
-237,Sale Proceeds,,"1,82","5,00","1,95","1,95",0401 00 800 AN 23700
-01,Agriculture,,"1,82","5,00","1,95","1,95",0401 00 800 AN 23701
+237,Sale Proceeds,"1,82","5,00","1,95","1,95",0401 00 800 AN 23700
+01,Agriculture,"1,82","5,00","1,95","1,95",0401 00 800 AN 23701
 AN,Total AN,"1,82","5,00","1,95","1,95"
 AO,Contribution towards Leave Salary of Officers lent on Foreign Service [0502],,,,,
-223,Contribution and Donation,,"54,80",72,"1,13,31","54,80",0401 00 800 AO 22300
-01,Leave Salary,,"54,80",72,"1,13,31","54,80",0401 00 800 AO 22301
+223,Contribution and Donation,"54,80",72,"1,13,31","54,80",0401 00 800 AO 22300
+01,Leave Salary,"54,80",72,"1,13,31","54,80",0401 00 800 AO 22301
 237,Sale Proceeds,"13,40",,,,0401 00 800 AO 23700
 01,Agriculture,"13,40",,,,0401 00 800 AO 23701
 AO,Total AO,"68,20",72,"1,13,31","54,80"
@@ -3586,101 +3587,101 @@ BS,Farmers' contribution for construction of Farm Ponds [0506],,,,
 BS,Total BS,"17,08","18,00",1,1
 BT,Receipts from Pradhan Mantri Fasal Bima Yojana (PMFBY) [0502],,,,
 221,Receipts from Central Government,,,1,1,0401 00 800 BT 22100
-99,Others,,,,1,1,0401 00 800 BT 22199
+99,Others,,,1,1,0401 00 800 BT 22199
 BT,Total BT,,,1,1
 800,Total 800,"9,52,95","3,06,56","4,34,70","3,77,05"
 0401,Total 0401,"185,06,41","62,15,74","70,01,11","76,27,39"
 0403-00,ANIMAL HUSBANDRY,,,,,
 102,Receipts from Cattle and Buffalo Development,,,,,
 AA,Livestock Farms [0602],,,,,
-237,Sale Proceeds,,"62,90","85,64","66,00","69,30",0403 00 102 AA 23700
-03,Animal Husbandry,,"62,90","85,64","66,00","69,30",0403 00 102 AA 23703
+237,Sale Proceeds,"62,90","85,64","66,00","69,30",0403 00 102 AA 23700
+03,Animal Husbandry,"62,90","85,64","66,00","69,30",0403 00 102 AA 23703
 AA,Total AA,"62,90","85,64","66,00","69,30"
 AB,Sale of Milk [0602],,,,,
-237,Sale Proceeds,,"1,19,72","1,63,21","1,25,72","1,32,00",0403 00 102 AB 23700
-04,Dairying,,"1,19,72","1,63,21","1,25,72","1,32,00",0403 00 102 AB 23704
+237,Sale Proceeds,"1,19,72","1,63,21","1,25,72","1,32,00",0403 00 102 AB 23700
+04,Dairying,"1,19,72","1,63,21","1,25,72","1,32,00",0403 00 102 AB 23704
 AB,Total AB,"1,19,72","1,63,21","1,25,72","1,32,00"
 102,Total 102,"1,82,62","2,48,85","1,91,72","2,01,30"
 103,Receipts from Poultry Development,,,,,
 AA,Poultry Farms and Poultry Extension Centres [0602],,,,,
-237,Sale Proceeds,,"3,95","11,19","11,75","12,34",0403 00 103 AA 23700
-03,Animal Husbandry,,"3,95","11,19","11,75","12,34",0403 00 103 AA 23703
+237,Sale Proceeds,"3,95","11,19","11,75","12,34",0403 00 103 AA 23700
+03,Animal Husbandry,"3,95","11,19","11,75","12,34",0403 00 103 AA 23703
 AA,Total AA,"3,95","11,19","11,75","12,34"
 AD,Sale of Eggs [0602],,,,,
-237,Sale Proceeds,,"19,39","7,10","7,46","7,83",0403 00 103 AD 23700
-03,Animal Husbandry,,"19,39","7,10","7,46","7,83",0403 00 103 AD 23703
+237,Sale Proceeds,"19,39","7,10","7,46","7,83",0403 00 103 AD 23700
+03,Animal Husbandry,"19,39","7,10","7,46","7,83",0403 00 103 AD 23703
 AD,Total AD,"19,39","7,10","7,46","7,83"
 103,Total 103,"23,34","18,29","19,21","20,17"
 104,Receipts from Sheep and Wool Development,,,,,
 AA,Receipts from Sheep and Wool Development [0602],,,,,
-237,Sale Proceeds,,"23,79","46,42","25,00","26,25",0403 00 104 AA 23700
-03,Animal Husbandry,,"23,79","46,42","25,00","26,25",0403 00 104 AA 23703
+237,Sale Proceeds,"23,79","46,42","25,00","26,25",0403 00 104 AA 23700
+03,Animal Husbandry,"23,79","46,42","25,00","26,25",0403 00 104 AA 23703
 AA,Total AA,"23,79","46,42","25,00","26,25"
 104,Total 104,"23,79","46,42","25,00","26,25"
 105,Receipts from Piggery Development,,,,,
 AA,Piggery Unit [0602],,,,,
-237,Sale Proceeds,,"32,95","42,78","34,61","36,34",0403 00 105 AA 23700
-03,Animal Husbandry,,"32,95","42,78","34,61","36,34",0403 00 105 AA 23703
+237,Sale Proceeds,"32,95","42,78","34,61","36,34",0403 00 105 AA 23700
+03,Animal Husbandry,"32,95","42,78","34,61","36,34",0403 00 105 AA 23703
 AA,Total AA,"32,95","42,78","34,61","36,34"
 105,Total 105,"32,95","42,78","34,61","36,34"
 106,Receipts from Fodder and Feed Development,,,,,
 AA,Fodder Receipt [0602],,,,,
-237,Sale Proceeds,,"33,10","75,67","83,24","91,56",0403 00 106 AA 23700
-03,Animal Husbandry,,"33,10","75,67","83,24","91,56",0403 00 106 AA 23703
+237,Sale Proceeds,"33,10","75,67","83,24","91,56",0403 00 106 AA 23700
+03,Animal Husbandry,"33,10","75,67","83,24","91,56",0403 00 106 AA 23703
 AA,Total AA,"33,10","75,67","83,24","91,56"
 106,Total 106,"33,10","75,67","83,24","91,56"
 110,Grants from Indian Council of Agricultural Research,,,,,
 AA,Grants from Indian Council of Agricultural Research [0602],,,,,
-223,Contribution and Donation,,1,"2,50",1,1,0403 00 110 AA 22300
-40,Other Institutions,,1,"2,50",1,1,0403 00 110 AA 22340
+223,Contribution and Donation,1,"2,50",1,1,0403 00 110 AA 22300
+40,Other Institutions,1,"2,50",1,1,0403 00 110 AA 22340
 AA,Total AA,1,"2,50",1,1
 110,Total 110,1,"2,50",1,1
 800,Other Receipts,,,,,
 AA,Contribution towards Leave Salary of Officers lent on Foreign Service [0602],,,,,
-223,Contribution and Donation,,"7,30","4,00","4,00","4,00",0403 00 800 AA 22300
-01,Leave Salary,,"7,30","4,00","4,00","4,00",0403 00 800 AA 22301
+223,Contribution and Donation,"7,30","4,00","4,00","4,00",0403 00 800 AA 22300
+01,Leave Salary,"7,30","4,00","4,00","4,00",0403 00 800 AA 22301
 AA,Total AA,"7,30","4,00","4,00","4,00"
 AB,"Sale of used animals in the Institute of Veterinary and Preventive Medicine,Ranipet [0602]",,,,,
-237,Sale Proceeds,,"2,42","1,45","2,04","2,08",0403 00 800 AB 23700
-03,Animal Husbandry,,"2,42","1,45","2,04","2,08",0403 00 800 AB 23703
+237,Sale Proceeds,"2,42","1,45","2,04","2,08",0403 00 800 AB 23700
+03,Animal Husbandry,"2,42","1,45","2,04","2,08",0403 00 800 AB 23703
 AB,Total AB,"2,42","1,45","2,04","2,08"
 AC,"Sale of vaccine produced at the Institute of Veterinary and  Preventive Medicine,Ranipet [0602]",,,,,
-237,Sale Proceeds,,"69,94","73,00","28,53","29,10",0403 00 800 AC 23700
-18,Medicine,,"69,94","73,00","28,53","29,10",0403 00 800 AC 23718
-242,Recoveries,,,,3,3,0403 00 800 AC 24200
-14,OverPayments,,,,3,3,0403 00 800 AC 24214
+237,Sale Proceeds,"69,94","73,00","28,53","29,10",0403 00 800 AC 23700
+18,Medicine,"69,94","73,00","28,53","29,10",0403 00 800 AC 23718
+242,Medicine,,,3,3,0403 00 800 AC 24200
+14,OverPayments,,,3,3,0403 00 800 AC 24214
 AC,Total AC,"69,94","73,00","28,56","29,13"
 AD,Recoveries on overpayments [0602],,,,,
-242,Recoveries,,4,3,3,3,0403 00 800 AD 24200
-14,OverPayments,,4,3,3,3,0403 00 800 AD 24214
+242,Medicine,4,3,3,3,0403 00 800 AD 24200
+14,OverPayments,4,3,3,3,0403 00 800 AD 24214
 AD,Total AD,4,3,3,3
 AE,Rent on Buildings [0602],,,,,
-231,Receipt of Rent / Hire Charges/ Lease,,5,2,1,38,0403 00 800 AE 23100
-04,Rent from Others,,5,2,1,38,0403 00 800 AE 23104
+231,Receipt of Rent / Hire Charges/ Lease,5,2,1,38,0403 00 800 AE 23100
+04,Rent from Others,5,2,1,38,0403 00 800 AE 23104
 AE,Total AE,5,2,1,38
 AG,Other Receipts [0602],,,,,
-237,Sale Proceeds,,"76,47","60,00","80,63","84,65",0403 00 800 AG 23700
-03,Animal Husbandry,,"76,47","60,00","80,63","84,65",0403 00 800 AG 23703
+237,Sale Proceeds,"76,47","60,00","80,63","84,65",0403 00 800 AG 23700
+03,Animal Husbandry,"76,47","60,00","80,63","84,65",0403 00 800 AG 23703
 AG,Total AG,"76,47","60,00","80,63","84,65"
 AH,Sale of Meat [0602],,,,,
-237,Sale Proceeds,,"3,98","2,86","2,86","2,86",0403 00 800 AH 23700
-03,Animal Husbandry,,"3,98","2,86","2,86","2,86",0403 00 800 AH 23703
+237,Sale Proceeds,"3,98","2,86","2,86","2,86",0403 00 800 AH 23700
+03,Animal Husbandry,"3,98","2,86","2,86","2,86",0403 00 800 AH 23703
 AH,Total AH,"3,98","2,86","2,86","2,86"
 AJ,Receipts from the Sale Proceeds of Straw [0602],,,,,
-237,Sale Proceeds,,"34,91","12,91","36,65","38,48",0403 00 800 AJ 23700
-03,Animal Husbandry,,"34,91","12,91","36,65","38,48",0403 00 800 AJ 23703
+237,Sale Proceeds,"34,91","12,91","36,65","38,48",0403 00 800 AJ 23700
+03,Animal Husbandry,"34,91","12,91","36,65","38,48",0403 00 800 AJ 23703
 AJ,Total AJ,"34,91","12,91","36,65","38,48"
 AK,Sale proceeds of Liquid Nitrate Straws [0602],,,,,
-237,Sale Proceeds,,"6,19,44","12,06,27","6,50,41","6,82,93",0403 00 800 AK 23700
-03,Animal Husbandry,,"6,19,44","12,06,27","6,50,41","6,82,93",0403 00 800 AK 23703
+237,Sale Proceeds,"6,19,44","12,06,27","6,50,41","6,82,93",0403 00 800 AK 23700
+03,Animal Husbandry,"6,19,44","12,06,27","6,50,41","6,82,93",0403 00 800 AK 23703
 AK,Total AK,"6,19,44","12,06,27","6,50,41","6,82,93"
 AL,Cost recovery of Health cover rendered to pet animals in Government Veterinary Centers [0602],,,,,
-227,Non-Taxation Fees,,"4,67","8,00","1,02","1,02",0403 00 800 AL 22700
-25,Medical,,"4,67","8,00","1,02","1,02",0403 00 800 AL 22725
+227,Non-Taxation Fees,"4,67","8,00","1,02","1,02",0403 00 800 AL 22700
+25,Medical,"4,67","8,00","1,02","1,02",0403 00 800 AL 22725
 AL,Total AL,"4,67","8,00","1,02","1,02"
 AM,Foot and Mouth Vaccine [0602],,,,,
-237,Sale Proceeds,,23,2,2,2,0403 00 800 AM 23700
-18,Medicine,,23,2,2,2,0403 00 800 AM 23718
+237,Sale Proceeds,23,2,2,2,0403 00 800 AM 23700
+18,Medicine,23,2,2,2,0403 00 800 AM 23718
 AM,Total AM,23,2,2,2
 800,Total 800,"8,19,45","13,68,56","8,06,23","8,45,58"
 0403,Total 0403,"11,15,26","18,03,07","11,60,02","12,21,21"
@@ -3742,7 +3743,7 @@ AF,Entrance Fee at Fishing Harbour [0701],,,,
 01,Miscellaneous Receipts,1,1,1,1,0405 00 011 AF 29001
 AF,Total AF,1,1,1,1
 011,Total 011,"3,41,85","2,70,24","2,85,65","2,91,66"
-102,License Fees, Fines, etc.,,,,,
+102,"License Fees, Fines, etc.",,,,,
 AA,Registration Fees [0701],,,,
 227,Non-Taxation Fees,"3,40","2,60","3,50","3,50",0405 00 102 AA 22700
 29,Registration,"3,40","2,60","3,50","3,50",0405 00 102 AA 22729
@@ -3755,11 +3756,11 @@ AB,Licence Fees [0701],,,,
 AB,Total AB,"30,44","33,00","42,00","42,00"
 AC,Other Fees [0701],,,,
 229,Fines & Penalties,"25,78","7,50","15,99","15,99",0405 00 102 AC 22900
-99,Others,,"25,78","7,50","15,99","15,99",0405 00 102 AC 22999
+99,Others,"25,78","7,50","15,99","15,99",0405 00 102 AC 22999
 AC,Total AC,"25,78","7,50","15,99","15,99"
 AF,Other Receipts [0701],,,,
 229,Fines & Penalties,"15,24","21,00","16,00","15,00",0405 00 102 AF 22900
-99,Others,,"15,24","21,00","16,00","15,00",0405 00 102 AF 22999
+99,Others,"15,24","21,00","16,00","15,00",0405 00 102 AF 22999
 AF,Total AF,"15,24","21,00","16,00","15,00"
 102,Total 102,"74,86","64,10","77,49","76,49"
 103,"Sale of Fish, Fish Seeds, etc.,",,,,
@@ -3777,7 +3778,7 @@ AC,Sale of Boats [0701],,,,
 AC,Total AC,2,3,1,1
 AF,Survey-cum-Inshore Fishing Stations [0701],,,,
 231,Receipt of Rent / Hire Charges/ Lease,8,10,40,41,0405 00 103 AF 23100
-99,Others,,8,10,40,41,0405 00 103 AF 23199
+99,Others,8,10,40,41,0405 00 103 AF 23199
 AF,Total AF,8,10,40,41
 103,Total 103,"5,85,59","2,54,70","3,30,74","3,35,14"
 501,Services and Service Fees,,,,
@@ -3813,9 +3814,9 @@ AF,Miscellaneous [0701],,,,
 237,Sale Proceeds,"21,77","4,00","22,20","22,21",0405 00 800 AF 23700
 08,Dead Stock and other Waste Articles,"21,77","4,00","22,20","22,21",0405 00 800 AF 23708
 AF,Total AF,"21,77","4,00","22,20","22,21"
-AI,Sale proceeds of deadstock, waste paper and other articles, the cost of which,was met from office expenses [0701]",,,,
+AI,"Sale proceeds of deadstock, waste paper and other articles, the cost of which,was met from office expenses [0701]",,,,
 237,Sale Proceeds,,1,1,1,0405 00 800 AI 23700
-99,Others,,,1,1,1,0405 00 800 AI 23799
+99,Others,,1,1,1,0405 00 800 AI 23799
 AI,Total AI,,1,1,1
 AM,Other Receipts [0701],,,,
 290,Miscellaneous Revenue Receipts,"32,97","3,00","3,30","3,46",0405 00 800 AM 29000
@@ -3823,8 +3824,8 @@ AM,Total AM,"32,97","3,00","3,30","3,46"
 800,Total 800,"70,64","11,42","44,53","36,80"
 900,Deduct-Refunds,,,,,
 AA,Deduct-Refunds [0701],,,,,
-277,Deduct / Refunds,,"- 13,97",,,,0405 00 900 AA 27700
-99,Others,,"- 13,97",,,,0405 00 900 AA 27799
+277,Deduct / Refunds,"- 13,97",,,,0405 00 900 AA 27700
+99,Others,"- 13,97",,,,0405 00 900 AA 27799
 AA,Total AA,"- 13,97",,,
 900,Total 900,"- 13,97",,,
 0405,Total 0405,"10,60,45","6,02,47","7,40,71","7,42,41"
@@ -3891,7 +3892,7 @@ AK,Receipts from Farm forestry [5401],,,,
 AK,Total AK,"5,93,80","14,97,67","8,54,21","9,12,05"
 AL,Deduct - Farm Forestry Revenue transferred to Panchayats [5401],,,,
 277,Deduct / Refunds,"14,08","- 30,00","- 30,00","- 30,00",0406 01 102 AL 27700
-99,Others,,"14,08","- 30,00","- 30,00","- 30,00",0406 01 102 AL 27799
+99,Others,"14,08","- 30,00","- 30,00","- 30,00",0406 01 102 AL 27799
 AL,Total AL,"14,08","- 30,00","- 30,00","- 30,00"
 102,Total 102,"26,91,21","31,62,06","29,86,45","30,44,00"
 800,Other Receipts,,,,
@@ -3905,7 +3906,7 @@ AB,Rent on Buildings [5401],,,,
 AB,Total AB,"3,09,56","21,98","1,09,34","1,14,31"
 AF,Miscellaneous Receipts [5401],,,,
 229,Fines & Penalties,"32,33,31","12,39,10","35,72,06","39,29,27",0406 01 800 AF 22900
-99,Others,,"32,33,31","12,39,10","35,72,06","39,29,27",0406 01 800 AF 22999
+99,Others,"32,33,31","12,39,10","35,72,06","39,29,27",0406 01 800 AF 22999
 AF,Total AF,"32,33,31","12,39,10","35,72,06","39,29,27"
 AG,Recovery of charges for use of Government Vehicles [5401],,,,
 240,Transport Charges,2,5,"7,46","7,47",0406 01 800 AG 24000
@@ -3913,10 +3914,10 @@ AG,Recovery of charges for use of Government Vehicles [5401],,,,
 AG,Total AG,2,5,"7,46","7,47"
 AH,Interest on arrears to Revenue [5401],,,,
 225,Interest,77,"2,05","1,76,81","1,78,21",0406 01 800 AH 22500
-99,Others,,77,"2,05","1,76,81","1,78,21",0406 01 800 AH 22599
+99,Others,77,"2,05","1,76,81","1,78,21",0406 01 800 AH 22599
 AH,Total AH,77,"2,05","1,76,81","1,78,21"
 AR,Receipts from Mines and Minerals [5401],,,,
-232,Royalty,,"2,57,49","1,76,88","5,55,64","5,83,18",0406 01 800 AR 23200
+232,Royalty,"2,57,49","1,76,88","5,55,64","5,83,18",0406 01 800 AR 23200
 61,Mines & Quarries,"2,57,49","1,76,88","5,55,64","5,83,18",0406 01 800 AR 23261
 AR,Total AR,"2,57,49","1,76,88","5,55,64","5,83,18"
 800,Total 800,"39,25,19","14,71,63","45,27,28","49,22,06"
@@ -3931,20 +3932,20 @@ AA,Total AA,,"- 5,15","- 5,15","- 5,15"
 800,Other Receipts,,,,,
 AM,State Coastal Zone Development Fund [1502],,,,
 290,Miscellaneous Revenue Receipts,"1,33,39","1,00,00","1,00,00","1,00,00",0406 02 800 AM 29000
-01,Miscellaneous Receipts,,"1,33,39","1,00,00","1,00,00","1,00,00",0406 02 800 AM 29001
+01,Miscellaneous Receipts,"1,33,39","1,00,00","1,00,00","1,00,00",0406 02 800 AM 29001
 AM,Total AM,"1,33,39","1,00,00","1,00,00","1,00,00"
 AN,Conservation of Wetlands (NHAI) under Environmental Protection [1502],,,,,
-227,Non-Taxation Fees,,"13,48,99",,,,0406 02 800 AN 22700
-99,Others,,"13,48,99",,,,0406 02 800 AN 22799
+227,Non-Taxation Fees,"13,48,99",,,,0406 02 800 AN 22700
+99,Others,"13,48,99",,,,0406 02 800 AN 22799
 AN,Total AN,"13,48,99",,,
 800,Total 800,"14,82,38","1,00,00","1,00,00","1,00,00"
 02,Total 02,"14,82,38","1,00,00","1,00,00","1,00,00"
 0406,Total 0406,"145,45,74","48,62,85","80,38,13","83,68,93"
 0407,PLANTATIONS,,,,,
-03,Rubber,,,,,,
+03,Rubber,,,,,
 800,"Other Receipts AB Sale proceeds from Slaughter tapping, filling and removal of Rubber trees. [5401]",,,,,
-237,Sale Proceeds,,"60,50",,,,0407 03 800 AB 23700
-01,Agriculture,,"60,50",,,,0407 03 800 AB 23701
+237,Sale Proceeds,"60,50",,,,0407 03 800 AB 23700
+01,Agriculture,"60,50",,,,0407 03 800 AB 23701
 AB,Total AB,"60,50",,,
 800,Total 800,"60,50",,,
 03,Total 03,"60,50",,,
@@ -3960,60 +3961,60 @@ AA,Total AA,"16,61",9,"9,36",9
 0425-00,CO-OPERATION,,,,,
 101,Audit Fees,,,,,
 AA,Cooperation-Audit Fees relates to Director of Co-operative Audit [1607],,,,,
-227,Non-Taxation Fees,,"2,71,52","3,50,00","2,97,55","3,12,43",0425 00 101 AA 22700
-06,Audit,,"2,71,52","3,50,00","2,97,55","3,12,43",0425 00 101 AA 22706
+227,Non-Taxation Fees,"2,71,52","3,50,00","2,97,55","3,12,43",0425 00 101 AA 22700
+06,Audit,"2,71,52","3,50,00","2,97,55","3,12,43",0425 00 101 AA 22706
 AA,Total AA,"2,71,52","3,50,00","2,97,55","3,12,43"
 101,Total 101,"2,71,52","3,50,00","2,97,55","3,12,43"
 800,Other Receipts,,,,,
 AA,Execution Fees-Registrar of Co-operative Societies [1202],,,,,
-227,Non-Taxation Fees,,"40,70","32,16","36,00","38,52",0425 00 800 AA 22700
-14,Execution,,"40,70","32,16","36,00","38,52",0425 00 800 AA 22714
+227,Non-Taxation Fees,"40,70","32,16","36,00","38,52",0425 00 800 AA 22700
+14,Execution,"40,70","32,16","36,00","38,52",0425 00 800 AA 22714
 AA,Total AA,"40,70","32,16","36,00","38,52"
 AB,Liquidation Fees - Industries and Commerce [2702],,,,,
-227,Non-Taxation Fees,,"2,63","5,00","2,70","2,80",0425 00 800 AB 22700
-23,Liquidation,,"2,63","5,00","2,70","2,80",0425 00 800 AB 22723
+227,Non-Taxation Fees,"2,63","5,00","2,70","2,80",0425 00 800 AB 22700
+23,Liquidation,"2,63","5,00","2,70","2,80",0425 00 800 AB 22723
 AB,Total AB,"2,63","5,00","2,70","2,80"
 AC,Arbitration Fees - Industries and Commerce [2702],,,,,
-227,Non-Taxation Fees,,"4,86","5,60","7,00","7,50",0425 00 800 AC 22700
-02,Adjudication/ Arbitration,,"4,86","5,60","7,00","7,50",0425 00 800 AC 22702
+227,Non-Taxation Fees,"4,86","5,60","7,00","7,50",0425 00 800 AC 22700
+02,Adjudication/ Arbitration,"4,86","5,60","7,00","7,50",0425 00 800 AC 22702
 AC,Total AC,"4,86","5,60","7,00","7,50"
 AD,Recoveries of overpayments [1202],,,,,
-242,Recoveries,,"29,42","41,35","3,60","4,00",0425 00 800 AD 24200
-99,Others,,"29,42","41,35","3,60","4,00",0425 00 800 AD 24299
+242,Medicine,"29,42","41,35","3,60","4,00",0425 00 800 AD 24200
+99,Others,"29,42","41,35","3,60","4,00",0425 00 800 AD 24299
 AD,Total AD,"29,42","41,35","3,60","4,00"
 AE,Contribution towards Leave Salary of Officers lent on Foreign Service - Registrar of Co-operative Societies [1202],,,,,
-223,Contribution and Donation,,"1,65,52","2,50,00","2,50,00","2,75,00",0425 00 800 AE 22300
-01,Leave Salary,,"1,65,52","2,50,00","2,50,00","2,75,00",0425 00 800 AE 22301
+223,Contribution and Donation,"1,65,52","2,50,00","2,50,00","2,75,00",0425 00 800 AE 22300
+01,Leave Salary,"1,65,52","2,50,00","2,50,00","2,75,00",0425 00 800 AE 22301
 AE,Total AE,"1,65,52","2,50,00","2,50,00","2,75,00"
-AF,Collection of Cost of Staff etc,under F.R. 127 - Co-operative Audit [1607],,,,,
+AF,"Collection of Cost of Staff etc,under F.R. 127 - Co-operative Audit [1607]",,,,,
 AF,Total AF,"11,82,08","9,50,00","13,69,78","14,38,27"
 AG,Other Miscellaneous Receipts-Registrar of Co-operative Societies [1202],,,,,
-227,Non-Taxation Fees,,"3,17,95","3,00,00","3,00,00","3,00,00",0425 00 800 AG 22700
-99,Others,,"3,17,95","3,00,00","3,00,00","3,00,00",0425 00 800 AG 22799
+227,Non-Taxation Fees,"3,17,95","3,00,00","3,00,00","3,00,00",0425 00 800 AG 22700
+99,Others,"3,17,95","3,00,00","3,00,00","3,00,00",0425 00 800 AG 22799
 AG,Total AG,"3,17,95","3,00,00","3,00,00","3,00,00"
 AH,Supervision Fees - Handlooms and Textiles [1702],,,,,
-227,Non-Taxation Fees,,"3,84","5,00","5,00","5,00",0425 00 800 AH 22700
-33,Supervision,,"3,84","5,00","5,00","5,00",0425 00 800 AH 22733
+227,Non-Taxation Fees,"3,84","5,00","5,00","5,00",0425 00 800 AH 22700
+33,Supervision,"3,84","5,00","5,00","5,00",0425 00 800 AH 22733
 AH,Total AH,"3,84","5,00","5,00","5,00"
 AL,Recovery of charges for use of Government Vehicles [1202],,,,,
-242,Recoveries,,36,"1,00","1,00","1,00",0425 00 800 AL 24200
-07,Fuel Charges,,36,"1,00","1,00","1,00",0425 00 800 AL 24207
+242,Medicine,36,"1,00","1,00","1,00",0425 00 800 AL 24200
+07,Fuel Charges,36,"1,00","1,00","1,00",0425 00 800 AL 24207
 AL,Total AL,36,"1,00","1,00","1,00"
 AM,Fees for Registration of Cooperative Societies-Industries and Commerce [2702],,,,,
-227,Non-Taxation Fees,,"1,62",50,"5,00","2,00",0425 00 800 AM 22700
-29,Registration,,"1,62",50,"5,00","2,00",0425 00 800 AM 22729
+227,Non-Taxation Fees,"1,62",50,"5,00","2,00",0425 00 800 AM 22700
+29,Registration,"1,62",50,"5,00","2,00",0425 00 800 AM 22729
 AM,Total AM,"1,62",50,"5,00","2,00"
 AN,Execution Fees-Handlooms and Textiles [1702],,,,,
-227,Non-Taxation Fees,,2,1,40,40,0425 00 800 AN 22700
-14,Execution,,2,1,40,40,0425 00 800 AN 22714
+227,Non-Taxation Fees,2,1,40,40,0425 00 800 AN 22700
+14,Execution,2,1,40,40,0425 00 800 AN 22714
 AN,Total AN,2,1,40,40
 AP,Liquidation Fees - Registrar of Co-operative Societies [1202],,,,,
-227,Non-Taxation Fees,,"1,25","20,00","10,00","15,00",0425 00 800 AP 22700
-23,Liquidation,,"1,25","20,00","10,00","15,00",0425 00 800 AP 22723
+227,Non-Taxation Fees,"1,25","20,00","10,00","15,00",0425 00 800 AP 22700
+23,Liquidation,"1,25","20,00","10,00","15,00",0425 00 800 AP 22723
 AP,Total AP,"1,25","20,00","10,00","15,00"
 AQ,Liquidation Fees - Handlooms and Textiles [1702],,,,,
-227,Non-Taxation Fees,,"2,36","1,00","2,36","2,36",0425 00 800 AQ 22700
-23,Liquidation,,"2,36","1,00","2,36","2,36",0425 00 800 AQ 22723
+227,Non-Taxation Fees,"2,36","1,00","2,36","2,36",0425 00 800 AQ 22700
+23,Liquidation,"2,36","1,00","2,36","2,36",0425 00 800 AQ 22723
 AQ,Total AQ,"2,36","1,00","2,36","2,36"
 AR,Arbitration Fees - Registrar of Co-operative Societies [1202],,,,
 227,Non-Taxation Fees,"87,42","50,00","80,00","80,00",0425 00 800 AR 22700
@@ -4040,51 +4041,51 @@ AW,Other Miscellaneous Receipts-Industries and Commerce [2702],,,,
 97,"Forfeiture, Seizure,Confiscation, etc",5,50,50,50,0425 00 800 AW 22997
 AW,Total AW,5,50,50,50
 AX,Supervision Fees - Registrar of Co-operative Societies [1202],,,,
-227,Non-Taxation Fees,,3,1,"2,01","2,01",0425 00 800 AX 22700
-01,Admission,,3,,"2,00","2,00",0425 00 800 AX 22701
-33,Supervision,,,1,1,1,0425 00 800 AX 22733
+227,Non-Taxation Fees,3,1,"2,01","2,01",0425 00 800 AX 22700
+01,Admission,3,,"2,00","2,00",0425 00 800 AX 22701
+33,Supervision,,1,1,1,0425 00 800 AX 22733
 AX,Total AX,3,1,"2,01","2,01"
 AY,Grants-in Aid from the National Co-operative Development Corporation-Registrar of Co-operative Societies [1202],,,,,
-222,Subsidies,,"4,00,32","54,60","3,36,71","2,99,27",0425 00 800 AY 22200
+222,Subsidies,"4,00,32","54,60","3,36,71","2,99,27",0425 00 800 AY 22200
 01,National Cooperative Development Corporation,"4,00,32","54,60","3,36,71","2,99,27",0425 00 800 AY 22201
 AY,Total AY,"4,00,32","54,60","3,36,71","2,99,27"
 AZ,Fees for Registration of Cooperative Societies-Registrar of Co-operative Societies [1202],,,,,
-227,Non-Taxation Fees,,"2,47","7,00","7,00","7,00",0425 00 800 AZ 22700
-29,Registration,,"1,13",,,,0425 00 800 AZ 22729
-33,Supervision,,"1,34","7,00","7,00","7,00",0425 00 800 AZ 22733
+227,Non-Taxation Fees,"2,47","7,00","7,00","7,00",0425 00 800 AZ 22700
+29,Registration,"1,13",,,,0425 00 800 AZ 22729
+33,Supervision,"1,34","7,00","7,00","7,00",0425 00 800 AZ 22733
 AZ,Total AZ,"2,47","7,00","7,00","7,00"
 800,Total 800,"25,10,14","18,75,29","25,21,66","25,83,43"
 0425,Total 0425,"27,81,66","22,25,29","28,19,21","28,95,86"
 0435-00,OTHER AGRICULTURAL PROGRAMMES,,,,,
 102,Fees for Quality Control Grading of Agricultural Products,,,,,
 AA,State Laboratories for grading of Agmark products [0503],,,,,
-227,Non-Taxation Fees,,"77,15","64,61","80,00","84,22",0435 00 102 AA 22700
-34,Testing,,"77,15","64,61","80,00","84,22",0435 00 102 AA 22734
+227,Non-Taxation Fees,"77,15","64,61","80,00","84,22",0435 00 102 AA 22700
+34,Testing,"77,15","64,61","80,00","84,22",0435 00 102 AA 22734
 AA,Total AA,"77,15","64,61","80,00","84,22"
 AB,Grading and Marking Fees [0503],,,,,
-227,Non-Taxation Fees,,"2,54,41","2,47","3,00","3,00",0435 00 102 AB 22700
-34,Testing,,"2,54,41","2,47","3,00","3,00",0435 00 102 AB 22734
+227,Non-Taxation Fees,"2,54,41","2,47","3,00","3,00",0435 00 102 AB 22700
+34,Testing,"2,54,41","2,47","3,00","3,00",0435 00 102 AB 22734
 AB,Total AB,"2,54,41","2,47","3,00","3,00"
 AC,Superior Cotton,,,,,
 ,,Certification Scheme [0503],,,,
-227,Non-Taxation Fees,,29,30,35,35,0435 00 102 AC 22700
-34,Testing,,29,30,35,35,0435 00 102 AC 22734
+227,Non-Taxation Fees,29,30,35,35,0435 00 102 AC 22700
+34,Testing,29,30,35,35,0435 00 102 AC 22734
 AC,Total AC,29,30,35,35
 AE,Fertilizer control order [0502],,,,,
-227,Non-Taxation Fees,,"89,13","74,50","81,95","89,40",0435 00 102 AE 22700
-22,Licence,,"89,13","74,50","81,95","89,40",0435 00 102 AE 22722
+227,Non-Taxation Fees,"89,13","74,50","81,95","89,40",0435 00 102 AE 22700
+22,Licence,"89,13","74,50","81,95","89,40",0435 00 102 AE 22722
 AE,Total AE,"89,13","74,50","81,95","89,40"
 AF,Seed Certification [0504],,,,,
-227,Non-Taxation Fees,,"2,56,01","2,87,00","2,82,40","3,11,00",0435 00 102 AF 22700
-29,Registration,,"2,56,01","2,87,00","2,82,40","3,11,00",0435 00 102 AF 22729
+227,Non-Taxation Fees,"2,56,01","2,87,00","2,82,40","3,11,00",0435 00 102 AF 22700
+29,Registration,"2,56,01","2,87,00","2,82,40","3,11,00",0435 00 102 AF 22729
 AF,Total AF,"2,56,01","2,87,00","2,82,40","3,11,00"
 AG,Receipt from sale of Blue Green Algae [0503],,,,,
-227,Non-Taxation Fees,,"11,03","15,15","14,43","15,15",0435 00 102 AG 22700
-22,Licence,,"11,03","15,15","14,43","15,15",0435 00 102 AG 22722
+227,Non-Taxation Fees,"11,03","15,15","14,43","15,15",0435 00 102 AG 22700
+22,Licence,"11,03","15,15","14,43","15,15",0435 00 102 AG 22722
 AG,Total AG,"11,03","15,15","14,43","15,15"
 AI,Organic Certification and Quality Control [0509],,,,,
-227,Non-Taxation Fees,,"14,70","11,90","17,27","19,00",0435 00 102 AI 22700
-29,Registration,,"14,70","11,90","17,27","19,00",0435 00 102 AI 22729
+227,Non-Taxation Fees,"14,70","11,90","17,27","19,00",0435 00 102 AI 22700
+29,Registration,"14,70","11,90","17,27","19,00",0435 00 102 AI 22729
 AI,Total AI,"14,70","11,90","17,27","19,00"
 102,Total 102,"7,02,72","4,55,93","4,79,40","5,22,12"
 104,Soil and water conservation,,,,
@@ -4111,45 +4112,45 @@ AC,"Receipts from Agricultural Marketing Boards, towards the reimbursement of sa
 AC,Total AC,"4,54,46","7,77,39","6,46,96","6,82,00"
 800,Total 800,"35,92,23","66,39,26","59,87,46","65,56,25"
 0435,Total 0435,"42,94,96","70,95,20","64,66,88","70,78,39"
-,,0515-00 OTHER RURAL DEVELOPMENT PROGRAMMES,,,,,
+0515-00,OTHER RURAL DEVELOPMENT PROGRAMMES,,,,,
 101,Receipts under Panchayati Raj Acts,,,,,
 AA,Receipts under Panchayat Raj Acts [4202],,,,,
-225,Interest,,1,5,5,5,0515 00 101 AA 22500
-99,Others,,1,5,5,5,0515 00 101 AA 22599
+225,Interest,1,5,5,5,0515 00 101 AA 22500
+99,Others,1,5,5,5,0515 00 101 AA 22599
 AA,Total AA,1,5,5,5
 101,Total 101,1,5,5,5
 800,Other Receipts,,,,,
 AB,Receipts on account of State Institute for Community Development [4202],,,,,
-225,Interest,,,1,25,20,0515 00 800 AB 22500
-99,Others,,,1,25,20,0515 00 800 AB 22599
+225,Interest,,1,25,20,0515 00 800 AB 22500
+99,Others,,1,25,20,0515 00 800 AB 22599
 AB,Total AB,,1,25,20
 AC,Receipts on account of other Trading schemes [4202],,,,,
-231,Receipt of Rent / Hire Charges/ Lease,,"9,29","5,00","13,39","5,00",0515 00 800 AC 23100
-99,Others,,"9,29","5,00","13,39","5,00",0515 00 800 AC 23199
+231,Receipt of Rent / Hire Charges/ Lease,"9,29","5,00","13,39","5,00",0515 00 800 AC 23100
+99,Others,"9,29","5,00","13,39","5,00",0515 00 800 AC 23199
 AC,Total AC,"9,29","5,00","13,39","5,00"
 AD,Miscellaneous Receipts [4202],,,,,
-225,Interest,,"79,97","30,00","5,00","5,00",0515 00 800 AD 22500
-99,Others,,"79,97","30,00","5,00","5,00",0515 00 800 AD 22599
+225,Interest,"79,97","30,00","5,00","5,00",0515 00 800 AD 22500
+99,Others,"79,97","30,00","5,00","5,00",0515 00 800 AD 22599
 AD,Total AD,"79,97","30,00","5,00","5,00"
 AE,Other recoveries from Panchayats [4202],,,,,
-242,Recoveries,,,1,1,1,0515 00 800 AE 24200
-99,Others,,,1,1,1,0515 00 800 AE 24299
+242,Recoveries,,1,1,1,0515 00 800 AE 24200
+99,Others,,1,1,1,0515 00 800 AE 24299
 AE,Total AE,,1,1,1
 AF,Recoveries on account of use of Government Vehicles [4202],,,,,
-237,Sale Proceeds,,1,5,10,1,0515 00 800 AF 23700
-21,Vehicles,,1,5,10,1,0515 00 800 AF 23721
+237,Sale Proceeds,1,5,10,1,0515 00 800 AF 23700
+21,Vehicles,1,5,10,1,0515 00 800 AF 23721
 AF,Total AF,1,5,10,1
 AO,Leave Salary Contributions [4202],,,,,
-223,Contribution and Donation,,"6,53","34,00","35,00","34,00",0515 00 800 AO 22300
-01,Leave Salary,,"6,53","34,00","35,00","34,00",0515 00 800 AO 22301
+223,Contribution and Donation,"6,53","34,00","35,00","34,00",0515 00 800 AO 22300
+01,Leave Salary,"6,53","34,00","35,00","34,00",0515 00 800 AO 22301
 AO,Total AO,"6,53","34,00","35,00","34,00"
 AQ,Receipts on account of State Institute of Rural Development [4202],,,,,
 221,Receipts from Central Government,"20,00","50,00","50,00","50,00",0515 00 800 AQ 22100
-99,Others,,"20,00","50,00","50,00","50,00",0515 00 800 AQ 22199
+99,Others,"20,00","50,00","50,00","50,00",0515 00 800 AQ 22199
 AQ,Total AQ,"20,00","50,00","50,00","50,00"
 AV,Accrued interest from MLACDS [4202],,,,,
-225,Interest,,,"50,00",1,10,0515 00 800 AV 22500
-62,Unspent Balance,,,"50,00",1,10,0515 00 800 AV 22562
+225,Interest,,"50,00",1,10,0515 00 800 AV 22500
+62,Unspent Balance,,"50,00",1,10,0515 00 800 AV 22562
 AV,Total AV,,"50,00",1,10
 800,Total 800,"1,15,80","1,69,07","1,03,76","94,32"
 0515,Total 0515,"1,15,81","1,69,12","1,03,81","94,37"
@@ -4167,96 +4168,96 @@ AD,Total AD,1,1,1,1
 01,Major Irrigation - Commercial,,,,,
 101,Cauvery Delta System,,,,,
 AB,Sale Proceeds from canal plantations [4001],,,,,
-237,Sale Proceeds,,"22,57","18,45","19,20","20,61",0701 01 101 AB 23700
-05,Canal Plantations-Irrigation,,"22,57","18,45","19,20","20,61",0701 01 101 AB 23705
+237,Sale Proceeds,"22,57","18,45","19,20","20,61",0701 01 101 AB 23700
+05,Canal Plantations-Irrigation,"22,57","18,45","19,20","20,61",0701 01 101 AB 23705
 AB,Total AB,"22,57","18,45","19,20","20,61"
 AE,Other Receipts [4001],,,,,
-290,Miscellaneous Revenue Receipts,,"2,54,88","3,14,57","12,38,66","13,02,07",0701 01 101 AE 29000
-01,Miscellaneous Receipts,,"2,54,88","3,14,57","12,38,66","13,02,07",0701 01 101 AE 29001
+290,Miscellaneous Revenue Receipts,"2,54,88","3,14,57","12,38,66","13,02,07",0701 01 101 AE 29000
+01,Miscellaneous Receipts,"2,54,88","3,14,57","12,38,66","13,02,07",0701 01 101 AE 29001
 AE,Total AE,"2,54,88","3,14,57","12,38,66","13,02,07"
 AF,Rent [4001],,,,,
 231,Receipt of Rent / Hire Charges/ Lease,"3,06","3,87","15,82,41","17,40,65",0701 01 101 AF 23100
-04,Rent from Others,,"3,06","3,87","15,82,41","17,40,65",0701 01 101 AF 23104
+04,Rent from Others,"3,06","3,87","15,82,41","17,40,65",0701 01 101 AF 23104
 AF,Total AF,"3,06","3,87","15,82,41","17,40,65"
 101,Total 101,"2,80,51","3,36,89","28,40,27","30,63,33"
 102,Periyar Irrigation System,,,,,
 AA,Sale of Water for other purposes [4001],,,,,
-237,Sale Proceeds,,"1,21",1,3,3,0701 01 102 AA 23700
-22,Water,,"1,21",1,3,3,0701 01 102 AA 23722
+237,Sale Proceeds,"1,21",1,3,3,0701 01 102 AA 23700
+22,Water,"1,21",1,3,3,0701 01 102 AA 23722
 AA,Total AA,"1,21",1,3,3
 AC,Other Receipts [4001],,,,,
-290,Miscellaneous Revenue Receipts,,"52,68","76,00","76,00","79,80",0701 01 102 AC 29000
-01,Miscellaneous Receipts,,"52,68","76,00","76,00","79,80",0701 01 102 AC 29001
+290,Miscellaneous Revenue Receipts,"52,68","76,00","76,00","79,80",0701 01 102 AC 29000
+01,Miscellaneous Receipts,"52,68","76,00","76,00","79,80",0701 01 102 AC 29001
 AC,Total AC,"52,68","76,00","76,00","79,80"
 102,Total 102,"53,89","76,01","76,03","79,83"
 103,Parambikulam-Aliyar Project,,,,,
 AA,Sale of Water for other purposes [4001],,,,,
-237,Sale Proceeds,,"1,45","14,80","14,80","15,54",0701 01 103 AA 23700
-22,Water,,"1,45","14,80","14,80","15,54",0701 01 103 AA 23722
+237,Sale Proceeds,"1,45","14,80","14,80","15,54",0701 01 103 AA 23700
+22,Water,"1,45","14,80","14,80","15,54",0701 01 103 AA 23722
 AA,Total AA,"1,45","14,80","14,80","15,54"
 AB,Sale of Water for domestic purposes [4001],,,,,
-237,Sale Proceeds,,"5,46",60,"1,16","1,22",0701 01 103 AB 23700
-22,Water,,"5,46",60,"1,16","1,22",0701 01 103 AB 23722
+237,Sale Proceeds,"5,46",60,"1,16","1,22",0701 01 103 AB 23700
+22,Water,"5,46",60,"1,16","1,22",0701 01 103 AB 23722
 AB,Total AB,"5,46",60,"1,16","1,22"
 AC,Other items [4001],,,,,
-290,Miscellaneous Revenue Receipts,,"78,36","2,00,00","90,66","95,19",0701 01 103 AC 29000
-01,Miscellaneous Receipts,,"78,36","2,00,00","90,66","95,19",0701 01 103 AC 29001
+290,Miscellaneous Revenue Receipts,"78,36","2,00,00","90,66","95,19",0701 01 103 AC 29000
+01,Miscellaneous Receipts,"78,36","2,00,00","90,66","95,19",0701 01 103 AC 29001
 AC,Total AC,"78,36","2,00,00","90,66","95,19"
 AD,Other Receipts [4001],,,,,
-290,Miscellaneous Revenue Receipts,,"46,34","2,00,00","1,02,60","1,07,73",0701 01 103 AD 29000
-01,Miscellaneous Receipts,,"46,34","2,00,00","1,02,60","1,07,73",0701 01 103 AD 29001
+290,Miscellaneous Revenue Receipts,"46,34","2,00,00","1,02,60","1,07,73",0701 01 103 AD 29000
+01,Miscellaneous Receipts,"46,34","2,00,00","1,02,60","1,07,73",0701 01 103 AD 29001
 AD,Total AD,"46,34","2,00,00","1,02,60","1,07,73"
 103,Total 103,"1,31,61","4,15,40","2,09,22","2,19,68"
 01,Total 01,"4,66,01","8,28,30","31,25,52","33,62,84"
 03,Medium Irrigation - Commercial,,,,,
 101,Thadappalli Channel,,,,,
 AA,Other Receipts [4001],,,,,
-290,Miscellaneous Revenue Receipts,,"45,10","33,00","45,00","47,25",0701 03 101 AA 29000
-01,Miscellaneous Receipts,,"45,10","33,00","45,00","47,25",0701 03 101 AA 29001
+290,Miscellaneous Revenue Receipts,"45,10","33,00","45,00","47,25",0701 03 101 AA 29000
+01,Miscellaneous Receipts,"45,10","33,00","45,00","47,25",0701 03 101 AA 29001
 AA,Total AA,"45,10","33,00","45,00","47,25"
 AB,Sale Proceeds from canal plantations [4001],,,,,
-237,Sale Proceeds,,36,"49,50",70,"1,00",0701 03 101 AB 23700
-05,Canal Plantations-Irrigation,,36,"49,50",70,"1,00",0701 03 101 AB 23705
+237,Sale Proceeds,36,"49,50",70,"1,00",0701 03 101 AB 23700
+05,Canal Plantations-Irrigation,36,"49,50",70,"1,00",0701 03 101 AB 23705
 AB,Total AB,36,"49,50",70,"1,00"
 101,Total 101,"45,46","82,50","45,70","48,25"
 102,Kalingarayan Channel,,,,,
 AA,Other Receipts [4001],,,,,
-290,Miscellaneous Revenue Receipts,,"10,12","2,20","2,20","2,31",0701 03 102 AA 29000
-01,Miscellaneous Receipts,,"10,12","2,20","2,20","2,31",0701 03 102 AA 29001
+290,Miscellaneous Revenue Receipts,"10,12","2,20","2,20","2,31",0701 03 102 AA 29000
+01,Miscellaneous Receipts,"10,12","2,20","2,20","2,31",0701 03 102 AA 29001
 AA,Total AA,"10,12","2,20","2,20","2,31"
 AB,Sale Proceeds from canal plantations [4001],,,,,
-237,Sale Proceeds,,36,"1,43",45,47,0701 03 102 AB 23700
-05,Canal Plantations-Irrigation,,36,"1,43",45,47,0701 03 102 AB 23705
+237,Sale Proceeds,36,"1,43",45,47,0701 03 102 AB 23700
+05,Canal Plantations-Irrigation,36,"1,43",45,47,0701 03 102 AB 23705
 AB,Total AB,36,"1,43",45,47
 102,Total 102,"10,48","3,63","2,65","2,78"
 103,Sethiatope Anicut,,,,,
 AA,Sale Proceeds from canal plantations [4001],,,,,
-237,Sale Proceeds,,38,40,40,42,0701 03 103 AA 23700
-05,Canal Plantations-Irrigation,,38,40,40,42,0701 03 103 AA 23705
+237,Sale Proceeds,38,40,40,42,0701 03 103 AA 23700
+05,Canal Plantations-Irrigation,38,40,40,42,0701 03 103 AA 23705
 AA,Total AA,38,40,40,42
 AB,Other Receipts [4001],,,,,
-290,Miscellaneous Revenue Receipts,,19,3,3,4,0701 03 103 AB 29000
-01,Miscellaneous Receipts,,19,3,3,4,0701 03 103 AB 29001
+290,Miscellaneous Revenue Receipts,19,3,3,4,0701 03 103 AB 29000
+01,Miscellaneous Receipts,19,3,3,4,0701 03 103 AB 29001
 AB,Total AB,19,3,3,4
 103,Total 103,57,43,43,46
 104,Melmathur Anicut,,,,,
 AA,Sale Proceeds from canal plantations [4001],,,,,
-237,Sale Proceeds,,"2,20",12,16,18,0701 03 104 AA 23700
-05,Canal Plantations-Irrigation,,"2,20",12,16,18,0701 03 104 AA 23705
+237,Sale Proceeds,"2,20",12,16,18,0701 03 104 AA 23700
+05,Canal Plantations-Irrigation,"2,20",12,16,18,0701 03 104 AA 23705
 AA,Total AA,"2,20",12,16,18
 AB,Other Receipts [4001],,,,,
-290,Miscellaneous Revenue Receipts,,7,70,70,74,0701 03 104 AB 29000
-01,Miscellaneous Receipts,,7,70,70,74,0701 03 104 AB 29001
+290,Miscellaneous Revenue Receipts,7,70,70,74,0701 03 104 AB 29000
+01,Miscellaneous Receipts,7,70,70,74,0701 03 104 AB 29001
 AB,Total AB,7,70,70,74
 104,Total 104,"2,27",82,86,92
 105,Vridhachalam Anicut,,,,,
 AA,Sale Proceeds from canal plantations [4001],,,,,
-237,Sale Proceeds,,9,33,37,40,0701 03 105 AA 23700
-05,Canal Plantations-Irrigation,,9,33,37,40,0701 03 105 AA 23705
+237,Sale Proceeds,9,33,37,40,0701 03 105 AA 23700
+05,Canal Plantations-Irrigation,9,33,37,40,0701 03 105 AA 23705
 AA,Total AA,9,33,37,40
 AB,Other Receipts [4001],,,,,
-290,Miscellaneous Revenue Receipts,,10,"1,37","1,44","1,52",0701 03 105 AB 29000
-01,Miscellaneous Receipts,,10,"1,37","1,44","1,52",0701 03 105 AB 29001
+290,Miscellaneous Revenue Receipts,10,"1,37","1,44","1,52",0701 03 105 AB 29000
+01,Miscellaneous Receipts,10,"1,37","1,44","1,52",0701 03 105 AB 29001
 AB,Total AB,10,"1,37","1,44","1,52"
 105,Total 105,19,"1,70","1,81","1,92"
 106,Lower Coleroon Anicut,,,,
@@ -4298,65 +4299,66 @@ AB,Total AB,"7,32","22,42","7,90","8,30"
 110,Total 110,"45,96","72,22","58,69","64,17"
 112,Palar Anicut Irrigation System,,,,,
 AA,Sale Proceeds from canal plantations [4001],,,,,
-237,Sale Proceeds,,"2,42","1,00","1,00","1,10",0701 03 112 AA 23700
-05,Canal Plantations-Irrigation,,"2,42","1,00","1,00","1,10",0701 03 112 AA 23705
+237,Sale Proceeds,"2,42","1,00","1,00","1,10",0701 03 112 AA 23700
+05,Canal Plantations-Irrigation,"2,42","1,00","1,00","1,10",0701 03 112 AA 23705
 AA,Total AA,"2,42","1,00","1,00","1,10"
 AB,Other Receipts [4001],,,,,
-290,Miscellaneous Revenue Receipts,,,10,56,59,0701 03 112 AB 29000
-01,Miscellaneous Receipts,,,10,56,59,0701 03 112 AB 29001
+290,Miscellaneous Revenue Receipts,,10,56,59,0701 03 112 AB 29000
+01,Miscellaneous Receipts,,10,56,59,0701 03 112 AB 29001
 AB,Total AB,,10,56,59
 AC,Rent [4001],,,,,
-231,Receipt of Rent / Hire Charges/ Lease,,27,50,50,53,0701 03 112 AC 23100,,04 Rent from Others,,27,50,50,53,0701 03 112 AC 23104
+231,Receipt of Rent / Hire Charges/ Lease,27,50,50,53,0701 03 112 AC 23100
+04,Rentfrom Others,27,50,50,53,0701 03 112 AC 23104
 AC,Total AC,27,50,50,53
 112,Total 112,"2,69","1,60","2,06","2,22"
 113,Pilandurai Anicut,,,,,
 AA,Sale Proceeds from canal plantations [4001],,,,,
-237,Sale Proceeds,,10,44,44,57,0701 03 113 AA 23700
-05,Canal Plantations-Irrigation,,10,44,44,57,0701 03 113 AA 23705
+237,Sale Proceeds,10,44,44,57,0701 03 113 AA 23700
+05,Canal Plantations-Irrigation,10,44,44,57,0701 03 113 AA 23705
 AA,Total AA,10,44,44,57
 AB,Other Receipts [4001],,,,,
-290,Miscellaneous Revenue Receipts,,,"1,70","1,70","1,90",0701 03 113 AB 29000
-01,Miscellaneous Receipts,,,"1,70","1,70","1,90",0701 03 113 AB 29001
+290,Miscellaneous Revenue Receipts,,"1,70","1,70","1,90",0701 03 113 AB 29000
+01,Miscellaneous Receipts,,"1,70","1,70","1,90",0701 03 113 AB 29001
 AB,Total AB,,"1,70","1,70","1,90"
 113,Total 113,10,"2,14","2,14","2,47"
 114,Barur Tank,,,,,
 AB,Rent [4001],,,,,
-231,Receipt of Rent / Hire Charges/ Lease,,19,9,20,59,0701 03 114 AB 23100
-04,Rent from Others,,19,9,20,59,0701 03 114 AB 23104
+231,Receipt of Rent / Hire Charges/ Lease,19,9,20,59,0701 03 114 AB 23100
+04,Rent from Others,19,9,20,59,0701 03 114 AB 23104
 AB,Total AB,19,9,20,59
 114,Total 114,19,9,20,59
 115,Tholudur Reservoir,,,,,
 AA,Sale Proceeds from canal plantations [4001],,,,,
-237,Sale Proceeds,,,9,9,12,0701 03 115 AA 23700
-05,Canal Plantations-Irrigation,,,9,9,12,0701 03 115 AA 23705
+237,Sale Proceeds,,9,9,12,0701 03 115 AA 23700
+05,Canal Plantations-Irrigation,,9,9,12,0701 03 115 AA 23705
 AA,Total AA,,9,9,12
 AB,Other Receipts [4001],,,,,
-231,Receipt of Rent / Hire Charges/ Lease,,2,"4,02","4,02","4,22",0701 03 115 AB 23100
-04,Rent from Others,,2,"4,02","4,02","4,22",0701 03 115 AB 23104
+231,Receipt of Rent / Hire Charges/ Lease,2,"4,02","4,02","4,22",0701 03 115 AB 23100
+04,Rent from Others,2,"4,02","4,02","4,22",0701 03 115 AB 23104
 AB,Total AB,2,"4,02","4,02","4,22"
 115,Total 115,2,"4,11","4,11","4,34"
 116,Lower Bhavani Project,,,,,
 AA,Sale of Water for other purposes [4001],,,,,
-237,Sale Proceeds,,"1,91,17","99,00","3,50,00","3,80,00",0701 03 116 AA 23700
-22,Water,,"1,91,17","99,00","3,50,00","3,80,00",0701 03 116 AA 23722
+237,Sale Proceeds,"1,91,17","99,00","3,50,00","3,80,00",0701 03 116 AA 23700
+22,Water,"1,91,17","99,00","3,50,00","3,80,00",0701 03 116 AA 23722
 AA,Total AA,"1,91,17","99,00","3,50,00","3,80,00"
 AB,Sale Proceeds from canal plantations [4001],,,,,
-237,Sale Proceeds,,"9,23","32,90","6,84","7,40",0701 03 116 AB 23700
-05,Canal Plantations-Irrigation,,"9,23","32,90","6,84","7,40",0701 03 116 AB 23705
+237,Sale Proceeds,"9,23","32,90","6,84","7,40",0701 03 116 AB 23700
+05,Canal Plantations-Irrigation,"9,23","32,90","6,84","7,40",0701 03 116 AB 23705
 AB,Total AB,"9,23","32,90","6,84","7,40"
 AC,Other Receipts [4001],,,,,
-290,Miscellaneous Revenue Receipts,,"1,06,70","1,94,30","1,94,30","2,04,01",0701 03 116 AC 29000
-01,Miscellaneous Receipts,,"1,06,70","1,94,30","1,94,30","2,04,01",0701 03 116 AC 29001
+290,Miscellaneous Revenue Receipts,"1,06,70","1,94,30","1,94,30","2,04,01",0701 03 116 AC 29000
+01,Miscellaneous Receipts,"1,06,70","1,94,30","1,94,30","2,04,01",0701 03 116 AC 29001
 AC,Total AC,"1,06,70","1,94,30","1,94,30","2,04,01"
 116,Total 116,"3,07,10","3,26,20","5,51,14","5,91,41"
 117,Cauvery-Mettur Project,,,,,
 AE,Other Receipts [4001],,,,,
-290,Miscellaneous Revenue Receipts,,"80,93","70,00","70,00","73,50",0701 03 117 AE 29000
-01,Miscellaneous Receipts,,"80,93","70,00","70,00","73,50",0701 03 117 AE 29001
+290,Miscellaneous Revenue Receipts,"80,93","70,00","70,00","73,50",0701 03 117 AE 29000
+01,Miscellaneous Receipts,"80,93","70,00","70,00","73,50",0701 03 117 AE 29001
 AE,Total AE,"80,93","70,00","70,00","73,50"
 AF,Rent [4001],,,,,
-231,Receipt of Rent / Hire Charges/ Lease,,"8,67","7,00","7,00","7,35",0701 03 117 AF 23100
-04,Rent from Others,,"8,67","7,00","7,00","7,35",0701 03 117 AF 23104
+231,Receipt of Rent / Hire Charges/ Lease,"8,67","7,00","7,00","7,35",0701 03 117 AF 23100
+04,Rent from Others,"8,67","7,00","7,00","7,35",0701 03 117 AF 23104
 AF,Total AF,"8,67","7,00","7,00","7,35"
 117,Total 117,"89,60","77,00","77,00","80,85"
 118,Mettur Canal,,,,
@@ -4398,168 +4400,168 @@ AB,Total AB,,"19,00","19,00","19,00"
 120,Total 120,"4,89","1,29,00","27,66","28,09"
 121,Manimuthar Project,,,,,
 AA,Sale Proceeds from canal plantations [4001],,,,,
-237,Sale Proceeds,,"1,16","2,10","1,50","1,58",0701 03 121 AA 23700
-05,Canal Plantations-Irrigation,,"1,16","2,10","1,50","1,58",0701 03 121 AA 23705
+237,Sale Proceeds,"1,16","2,10","1,50","1,58",0701 03 121 AA 23700
+05,Canal Plantations-Irrigation,"1,16","2,10","1,50","1,58",0701 03 121 AA 23705
 AA,Total AA,"1,16","2,10","1,50","1,58"
 AB,Other Receipts [4001],,,,,
-290,Miscellaneous Revenue Receipts,,"10,98","30,00","13,53","17,50",0701 03 121 AB 29000
-01,Miscellaneous Receipts,,"10,98","30,00","13,53","17,50",0701 03 121 AB 29001
+290,Miscellaneous Revenue Receipts,"10,98","30,00","13,53","17,50",0701 03 121 AB 29000
+01,Miscellaneous Receipts,"10,98","30,00","13,53","17,50",0701 03 121 AB 29001
 AB,Total AB,"10,98","30,00","13,53","17,50"
 121,Total 121,"12,14","32,10","15,03","19,08"
 122,Kattalai Project System,,,,,
 AA,Sale Proceeds from canal plantations [4001],,,,,
-237,Sale Proceeds,,68,"5,79","5,79","6,08",0701 03 122 AA 23700
-05,Canal Plantations-Irrigation,,68,"5,79","5,79","6,08",0701 03 122 AA 23705
+237,Sale Proceeds,68,"5,79","5,79","6,08",0701 03 122 AA 23700
+05,Canal Plantations-Irrigation,68,"5,79","5,79","6,08",0701 03 122 AA 23705
 AA,Total AA,68,"5,79","5,79","6,08"
 AB,Sale of Water for other purposes [4001],,,,,
-231,Receipt of Rent / Hire Charges/ Lease,,48,"11,58","11,58","12,16",0701 03 122 AB 23100
-04,Rent from Others,,48,"11,58","11,58","12,16",0701 03 122 AB 23104
+231,Receipt of Rent / Hire Charges/ Lease,48,"11,58","11,58","12,16",0701 03 122 AB 23100
+04,Rent from Others,48,"11,58","11,58","12,16",0701 03 122 AB 23104
 AB,Total AB,48,"11,58","11,58","12,16"
 AC,Other Receipts [4001],,,,,
-290,Miscellaneous Revenue Receipts,,"6,07","1,16","1,16","1,22",0701 03 122 AC 29000
-01,Miscellaneous Receipts,,"6,07","1,16","1,16","1,22",0701 03 122 AC 29001
+290,Miscellaneous Revenue Receipts,"6,07","1,16","1,16","1,22",0701 03 122 AC 29000
+01,Miscellaneous Receipts,"6,07","1,16","1,16","1,22",0701 03 122 AC 29001
 AC,Total AC,"6,07","1,16","1,16","1,22"
 122,Total 122,"7,23","18,53","18,53","19,46"
 123,New Kattalai High - Level Canal,,,,,
 AB,Sale Proceeds from canal plantations [4001],,,,,
-237,Sale Proceeds,,44,"1,18","1,18","1,24",0701 03 123 AB 23700
-05,Canal Plantations-Irrigation,,44,"1,18","1,18","1,24",0701 03 123 AB 23705
+237,Sale Proceeds,44,"1,18","1,18","1,24",0701 03 123 AB 23700
+05,Canal Plantations-Irrigation,44,"1,18","1,18","1,24",0701 03 123 AB 23705
 AB,Total AB,44,"1,18","1,18","1,24"
 AC,Other Receipts [4001],,,,,
-290,Miscellaneous Revenue Receipts,,80,"1,74","1,74","1,83",0701 03 123 AC 29000
-01,Miscellaneous Receipts,,80,"1,74","1,74","1,83",0701 03 123 AC 29001
+290,Miscellaneous Revenue Receipts,80,"1,74","1,74","1,83",0701 03 123 AC 29000
+01,Miscellaneous Receipts,80,"1,74","1,74","1,83",0701 03 123 AC 29001
 AC,Total AC,80,"1,74","1,74","1,83"
 123,Total 123,"1,24","2,92","2,92","3,07"
 124,Pullambadi Canal,,,,,
 AB,Sale Proceeds from canal plantations [4001],,,,,
-237,Sale Proceeds,,9,13,13,14,0701 03 124 AB 23700
-05,Canal Plantations-Irrigation,,9,13,13,14,0701 03 124 AB 23705
+237,Sale Proceeds,9,13,13,14,0701 03 124 AB 23700
+05,Canal Plantations-Irrigation,9,13,13,14,0701 03 124 AB 23705
 AB,Total AB,9,13,13,14
 AC,Other Receipts [4001],,,,,
-290,Miscellaneous Revenue Receipts,,59,13,"1,08","1,13",0701 03 124 AC 29000
-01,Miscellaneous Receipts,,59,13,"1,08","1,13",0701 03 124 AC 29001
+290,Miscellaneous Revenue Receipts,59,13,"1,08","1,13",0701 03 124 AC 29000
+01,Miscellaneous Receipts,59,13,"1,08","1,13",0701 03 124 AC 29001
 AC,Total AC,59,13,"1,08","1,13"
 124,Total 124,68,26,"1,21","1,27"
 125,Vaigai Project,,,,,
 AA,Other Receipts [4001],,,,,
-290,Miscellaneous Revenue Receipts,,"27,91","31,00","31,00","32,55",0701 03 125 AA 29000
-01,Miscellaneous Receipts,,"27,91","31,00","31,00","32,55",0701 03 125 AA 29001
+290,Miscellaneous Revenue Receipts,"27,91","31,00","31,00","32,55",0701 03 125 AA 29000
+01,Miscellaneous Receipts,"27,91","31,00","31,00","32,55",0701 03 125 AA 29001
 AA,Total AA,"27,91","31,00","31,00","32,55"
 125,Total 125,"27,91","31,00","31,00","32,55"
 127,Manjalar Project,,,,,
 AA,Other Receipts [4001],,,,,
-290,Miscellaneous Revenue Receipts,,"1,56","12,32","2,00","2,10",0701 03 127 AA 29000
-01,Miscellaneous Receipts,,"1,56","12,32","2,00","2,10",0701 03 127 AA 29001
+290,Miscellaneous Revenue Receipts,"1,56","12,32","2,00","2,10",0701 03 127 AA 29000
+01,Miscellaneous Receipts,"1,56","12,32","2,00","2,10",0701 03 127 AA 29001
 AA,Total AA,"1,56","12,32","2,00","2,10"
 AD,Rent [4001],,,,,
-231,Receipt of Rent / Hire Charges/ Lease,,,"2,42","2,10","2,20",0701 03 127 AD 23100
-04,Rent from Others,,,"2,42","2,10","2,20",0701 03 127 AD 23104
+231,Receipt of Rent / Hire Charges/ Lease,,"2,42","2,10","2,20",0701 03 127 AD 23100
+04,Rent from Others,,"2,42","2,10","2,20",0701 03 127 AD 23104
 AD,Total AD,,"2,42","2,10","2,20"
 127,Total 127,"1,56","14,74","4,10","4,30"
 128,Poiney Anicut,,,,,
 AA,Other Receipts [4001],,,,,
-290,Miscellaneous Revenue Receipts,,,1,1,1,0701 03 128 AA 29000
-01,Miscellaneous Receipts,,,1,1,1,0701 03 128 AA 29001
+290,Miscellaneous Revenue Receipts,,1,1,1,0701 03 128 AA 29000
+01,Miscellaneous Receipts,,1,1,1,0701 03 128 AA 29001
 AA,Total AA,,1,1,1
 128,Total 128,,1,1,1
 129,Cheyyar Anicut,,,,,
 AA,Sale Proceeds from canal plantations [4001],,,,,
-237,Sale Proceeds,,7,"6,72",21,22,0701 03 129 AA 23700
-05,Canal Plantations-Irrigation,,7,"6,72",21,22,0701 03 129 AA 23705
+237,Sale Proceeds,7,"6,72",21,22,0701 03 129 AA 23700
+05,Canal Plantations-Irrigation,7,"6,72",21,22,0701 03 129 AA 23705
 AA,Total AA,7,"6,72",21,22
 AB,Other Receipts [4001],,,,,
-290,Miscellaneous Revenue Receipts,,23,"2,75",27,30,0701 03 129 AB 29000
-01,Miscellaneous Receipts,,23,"2,75",27,30,0701 03 129 AB 29001
+290,Miscellaneous Revenue Receipts,23,"2,75",27,30,0701 03 129 AB 29000
+01,Miscellaneous Receipts,23,"2,75",27,30,0701 03 129 AB 29001
 AB,Total AB,23,"2,75",27,30
 129,Total 129,30,"9,47",48,52
 130,Arakkankottai Channel,,,,,
 AA,Other Receipts [4001],,,,,
-290,Miscellaneous Revenue Receipts,,"2,17","16,00","4,26","4,50",0701 03 130 AA 29000
-01,Miscellaneous Receipts,,"2,17","16,00","4,26","4,50",0701 03 130 AA 29001
+290,Miscellaneous Revenue Receipts,"2,17","16,00","4,26","4,50",0701 03 130 AA 29000
+01,Miscellaneous Receipts,"2,17","16,00","4,26","4,50",0701 03 130 AA 29001
 AA,Total AA,"2,17","16,00","4,26","4,50"
 AB,Sale Proceeds from canal plantations [4001],,,,,
-237,Sale Proceeds,,47,"2,75",50,"1,20",0701 03 130 AB 23700
-05,Canal Plantations-Irrigation,,47,"2,75",50,"1,20",0701 03 130 AB 23705
+237,Sale Proceeds,47,"2,75",50,"1,20",0701 03 130 AB 23700
+05,Canal Plantations-Irrigation,47,"2,75",50,"1,20",0701 03 130 AB 23705
 AB,Total AB,47,"2,75",50,"1,20"
 130,Total 130,"2,64","18,75","4,76","5,70"
 131,Amaravathi Reservoir Project,,,,,
 AA,Sale of Water for other purposes [4001],,,,,
-237,Sale Proceeds,,"47,72","42,50","42,50","50,00",0701 03 131 AA 23700
-22,Water,,"47,72","42,50","42,50","50,00",0701 03 131 AA 23722
+237,Sale Proceeds,"47,72","42,50","42,50","50,00",0701 03 131 AA 23700
+22,Water,"47,72","42,50","42,50","50,00",0701 03 131 AA 23722
 AA,Total AA,"47,72","42,50","42,50","50,00"
 AB,Other Receipts [4001],,,,,
-231,Receipt of Rent / Hire Charges/ Lease,,"16,80","36,00","36,00","37,80",0701 03 131 AB 23100
-04,Rent from Others,,"16,80","36,00","36,00","37,80",0701 03 131 AB 23104
+231,Receipt of Rent / Hire Charges/ Lease,"16,80","36,00","36,00","37,80",0701 03 131 AB 23100
+04,Rent from Others,"16,80","36,00","36,00","37,80",0701 03 131 AB 23104
 AB,Total AB,"16,80","36,00","36,00","37,80"
 AE,Rent [4001],,,,,
-290,Miscellaneous Revenue Receipts,,"1,29","11,00","11,00","12,00",0701 03 131 AE 29000
-01,Miscellaneous Receipts,,"1,29","11,00","11,00","12,00",0701 03 131 AE 29001
+290,Miscellaneous Revenue Receipts,"1,29","11,00","11,00","12,00",0701 03 131 AE 29000
+01,Miscellaneous Receipts,"1,29","11,00","11,00","12,00",0701 03 131 AE 29001
 AE,Total AE,"1,29","11,00","11,00","12,00"
 131,Total 131,"65,81","89,50","89,50","99,80"
 132,Nandiar System,,,,,
 AA,Sale Proceeds from canal plantations [4001],,,,,
-237,Sale Proceeds,,4,27,27,28,0701 03 132 AA 23700
-05,Canal Plantations-Irrigation,,4,27,27,28,0701 03 132 AA 23705
+237,Sale Proceeds,4,27,27,28,0701 03 132 AA 23700
+05,Canal Plantations-Irrigation,4,27,27,28,0701 03 132 AA 23705
 AA,Total AA,4,27,27,28
 AB,Other Receipts [4001],,,,,
-290,Miscellaneous Revenue Receipts,,11,3,42,44,0701 03 132 AB 29000
-01,Miscellaneous Receipts,,11,3,42,44,0701 03 132 AB 29001
+290,Miscellaneous Revenue Receipts,11,3,42,44,0701 03 132 AB 29000
+01,Miscellaneous Receipts,11,3,42,44,0701 03 132 AB 29001
 AB,Total AB,11,3,42,44
 132,Total 132,15,30,69,72
 133,Thirukoilur System,,,,,
 AA,Sale of Water for other purposes [4001],,,,,
-237,Sale Proceeds,,,"11,00",1,1,0701 03 133 AA 23700
-22,Water,,,"11,00",1,1,0701 03 133 AA 23722
+237,Sale Proceeds,,"11,00",1,1,0701 03 133 AA 23700
+22,Water,,"11,00",1,1,0701 03 133 AA 23722
 AA,Total AA,,"11,00",1,1
 AB,Other Receipts [4001],,,,,
-290,Miscellaneous Revenue Receipts,,,63,66,75,0701 03 133 AB 29000
-01,Miscellaneous Receipts,,,63,66,75,0701 03 133 AB 29001
+290,Miscellaneous Revenue Receipts,,63,66,75,0701 03 133 AB 29000
+01,Miscellaneous Receipts,,63,66,75,0701 03 133 AB 29001
 AB,Total AB,,63,66,75
 AE,Sale Proceeds from canal plantations [4001],,,,,
-237,Sale Proceeds,,,50,50,50,0701 03 133 AE 23700
-05,Canal Plantations-Irrigation,,,50,50,50,0701 03 133 AE 23705
+237,Sale Proceeds,,50,50,50,0701 03 133 AE 23700
+05,Canal Plantations-Irrigation,,50,50,50,0701 03 133 AE 23705
 AE,Total AE,,50,50,50
 133,Total 133,,"12,13","1,17","1,26"
 134,Manimuktha Nadhi Project,,,,,
 AA,Other Receipts [4001],,,,,
-290,Miscellaneous Revenue Receipts,,5,60,60,65,0701 03 134 AA 29000
-01,Miscellaneous Receipts,,5,60,60,65,0701 03 134 AA 29001
+290,Miscellaneous Revenue Receipts,5,60,60,65,0701 03 134 AA 29000
+01,Miscellaneous Receipts,5,60,60,65,0701 03 134 AA 29001
 AA,Total AA,5,60,60,65
 AE,Sale Proceeds from canal plantations [4001],,,,,
-237,Sale Proceeds,,,16,16,20,0701 03 134 AE 23700
-05,Canal Plantations-Irrigation,,,16,16,20,0701 03 134 AE 23705
+237,Sale Proceeds,,16,16,20,0701 03 134 AE 23700
+05,Canal Plantations-Irrigation,,16,16,20,0701 03 134 AE 23705
 AE,Total AE,,16,16,20
 134,Total 134,5,76,76,85
 135,Gomukhi Nadhi Project,,,,,
 AA,Sale Proceeds from canal plantations [4001],,,,,
-237,Sale Proceeds,,31,56,56,60,0701 03 135 AA 23700
-05,Canal Plantations-Irrigation,,31,56,56,60,0701 03 135 AA 23705
+237,Sale Proceeds,31,56,56,60,0701 03 135 AA 23700
+05,Canal Plantations-Irrigation,31,56,56,60,0701 03 135 AA 23705
 AA,Total AA,31,56,56,60
 AB,Other Receipts [4001],,,,,
-290,Miscellaneous Revenue Receipts,,2,67,67,70,0701 03 135 AB 29000
-01,Miscellaneous Receipts,,2,67,67,70,0701 03 135 AB 29001
+290,Miscellaneous Revenue Receipts,2,67,67,70,0701 03 135 AB 29000
+01,Miscellaneous Receipts,2,67,67,70,0701 03 135 AB 29001
 AB,Total AB,2,67,67,70
 135,Total 135,33,"1,23","1,23","1,30"
 136,Vidur Reservoir Project,,,,,
 AA,Sale Proceeds from canal plantations [4001],,,,,
-237,Sale Proceeds,,2,24,24,25,0701 03 136 AA 23700
-05,Canal Plantations-Irrigation,,2,24,24,25,0701 03 136 AA 23705
+237,Sale Proceeds,2,24,24,25,0701 03 136 AA 23700
+05,Canal Plantations-Irrigation,2,24,24,25,0701 03 136 AA 23705
 AA,Total AA,2,24,24,25
 AB,Other Receipts [4001],,,,,
-290,Miscellaneous Revenue Receipts,,2,11,11,12,0701 03 136 AB 29000
-01,Miscellaneous Receipts,,2,11,11,12,0701 03 136 AB 29001
+290,Miscellaneous Revenue Receipts,2,11,11,12,0701 03 136 AB 29000
+01,Miscellaneous Receipts,2,11,11,12,0701 03 136 AB 29001
 AB,Total AB,2,11,11,12
 136,Total 136,4,35,35,37
 138,Ponnaiar Scheme,,,,,
 AA,Sale Proceeds from canal plantations [4001],,,,,
-237,Sale Proceeds,,,5,5,5,0701 03 138 AA 23700
-05,Canal Plantations-Irrigation,,,5,5,5,0701 03 138 AA 23705
+237,Sale Proceeds,,5,5,5,0701 03 138 AA 23700
+05,Canal Plantations-Irrigation,,5,5,5,0701 03 138 AA 23705
 AA,Total AA,,5,5,5
 138,Total 138,,5,5,5
 141,Gatana Project System,,,,,
 AA,Other Receipts [4001],,,,,
-290,Miscellaneous Revenue Receipts,,"3,38","4,75","3,50","3,75",0701 03 141 AA 29000
-01,Miscellaneous Receipts,,"3,38","4,75","3,50","3,75",0701 03 141 AA 29001
+290,Miscellaneous Revenue Receipts,"3,38","4,75","3,50","3,75",0701 03 141 AA 29000
+01,Miscellaneous Receipts,"3,38","4,75","3,50","3,75",0701 03 141 AA 29001
 AA,Total AA,"3,38","4,75","3,50","3,75"
 141,Total 141,"3,38","4,75","3,50","3,75"
 142,Ramanadhi Project System,,,,
@@ -4770,32 +4772,32 @@ AC,Total AC,1,80,80,84
 172,Total 172,6,"1,02","1,07","1,22"
 173,Noyyal Oarathupalayam Reservoir system,,,,,
 AA,Sale proceeds from canal plantations and lease of land [4001],,,,,
-237,Sale Proceeds,,38,"1,00",38,40,0701 03 173 AA 23700
-05,Canal Plantations-Irrigation,,38,"1,00",38,40,0701 03 173 AA 23705
+237,Sale Proceeds,38,"1,00",38,40,0701 03 173 AA 23700
+05,Canal Plantations-Irrigation,38,"1,00",38,40,0701 03 173 AA 23705
 AA,Total AA,38,"1,00",38,40
 AB,Other Receipts [4001],,,,,
-290,Miscellaneous Revenue Receipts,,23,75,22,30,0701 03 173 AB 29000
-01,Miscellaneous Receipts,,23,75,22,30,0701 03 173 AB 29001
+290,Miscellaneous Revenue Receipts,23,75,22,30,0701 03 173 AB 29000
+01,Miscellaneous Receipts,23,75,22,30,0701 03 173 AB 29001
 AB,Total AB,23,75,22,30
 173,Total 173,61,"1,75",60,70
 174,Noyyal Reservoir system,,,,,
 AB,Sale Proceeds from canal plantations [4001],,,,,
-237,Sale Proceeds,,,61,32,64,0701 03 174 AB 23700
-05,Canal Plantations-Irrigation,,,61,32,64,0701 03 174 AB 23705
+237,Sale Proceeds,,61,32,64,0701 03 174 AB 23700
+05,Canal Plantations-Irrigation,,61,32,64,0701 03 174 AB 23705
 AB,Total AB,,61,32,64
 AC,Other Receipts [4001],,,,,
-290,Miscellaneous Revenue Receipts,,"2,08","3,80","1,34","2,65",0701 03 174 AC 29000
-01,Miscellaneous Receipts,,"2,08","3,80","1,34","2,65",0701 03 174 AC 29001
+290,Miscellaneous Revenue Receipts,"2,08","3,80","1,34","2,65",0701 03 174 AC 29000
+01,Miscellaneous Receipts,"2,08","3,80","1,34","2,65",0701 03 174 AC 29001
 AC,Total AC,"2,08","3,80","1,34","2,65"
 174,Total 174,"2,08","4,41","1,66","3,29"
 175,Kuthiraiyar System,,,,,
 AA,Rent [4001],,,,,
-231,Receipt of Rent / Hire Charges/ Lease,,,5,5,10,0701 03 175 AA 23100
-04,Rent from Others,,,5,5,10,0701 03 175 AA 23104
+231,Receipt of Rent / Hire Charges/ Lease,,5,5,10,0701 03 175 AA 23100
+04,Rent from Others,,5,5,10,0701 03 175 AA 23104
 AA,Total AA,,5,5,10
 AB,Other Receipts [4001],,,,,
-290,Miscellaneous Revenue Receipts,,81,"1,10","1,10","1,20",0701 03 175 AB 29000
-01,Miscellaneous Receipts,,81,"1,10","1,10","1,20",0701 03 175 AB 29001
+290,Miscellaneous Revenue Receipts,81,"1,10","1,10","1,20",0701 03 175 AB 29000
+01,Miscellaneous Receipts,81,"1,10","1,10","1,20",0701 03 175 AB 29001
 AB,Total AB,81,"1,10","1,10","1,20"
 175,Total 175,81,"1,15","1,15","1,30"
 176,Kodaganar System,,,,
@@ -4853,7 +4855,7 @@ AK,Total AK,"5,88,47","1,77,72","2,59,75","2,72,74"
 0701,Total 0701,"44,69,90","98,82,51","72,06,37","98,92,01"
 0702,MINOR IRRIGATION,,,,
 02,Ground water,,,,,
-101,Receipts from Tube Wells AB Pumping and boring of wells, private tube wells and,deepening of wells and tanks,[0506],,,,
+101,"Receipts from Tube Wells AB Pumping and boring of wells, private tube wells and,deepening of wells and tanks,[0506]",,,,
 231,Receipt of Rent / Hire Charges/ Lease,"89,02","75,00","72,00","75,00",0702 02 101 AB 23100
 21,Hire Charges of Machinery & Equipments,"89,02","75,00","72,00","75,00",0702 02 101 AB 23121
 AB,Total AB,"89,02","75,00","72,00","75,00"
@@ -4873,7 +4875,7 @@ AD,Ground Water Survey - Public Works (Ground Water) [4002],,,,
 AD,Total AD,"86,96","75,06","99,19","1,04,15"
 AF,Ground Water Survey - Agricultural Engineering [0506],,,,
 233,Professional and Special Services,"19,95","11,60","15,00","15,00",0702 02 800 AF 23300
-04,Geology,,"19,95","11,60","15,00","15,00",0702 02 800 AF 23304
+04,Geology,"19,95","11,60","15,00","15,00",0702 02 800 AF 23304
 AF,Total AF,"19,95","11,60","15,00","15,00"
 AH,Sale proceeds from Data Dissemination - Controlled by the Chief Engineer (WRO)PWD-Ground Water [4002],,,,
 290,Miscellaneous Revenue Receipts,2,3,3,3,0702 02 800 AH 29000
@@ -4894,22 +4896,22 @@ AB,Total AB,"2,89,88",1,1,1
 0802-00,PETROLEUM,,,,,
 104,Receipts under the Petroleum Act,,,,,
 AC,Other Receipts [2704],,,,,
-227,Non-Taxation Fees,,"2,35",75,"1,20","1,26",0802 00 104 AC 22700
-99,Others,,"2,35",75,"1,20","1,26",0802 00 104 AC 22799
+227,Non-Taxation Fees,"2,35",75,"1,20","1,26",0802 00 104 AC 22700
+99,Others,"2,35",75,"1,20","1,26",0802 00 104 AC 22799
 AC,Total AC,"2,35",75,"1,20","1,26"
 104,Total 104,"2,35",75,"1,20","1,26"
 0802,Total 0802,"2,35",75,"1,20","1,26"
-,,0810-00 NON-CONVENTIONAL SOURCES OF ENERGY,,,,,
+0810-00,NON-CONVENTIONAL SOURCES OF ENERGY,,,,,
 102,Solar,,,,,
 AC,Receipts from Ministry of New and Renewable Energy for Solar Power Pumping System linked with appropriate Micro Irrigation System (Drip/Sprinklers/Mini Sprinklers) [0506],,,,,
 221,Receipts from Central Government,,"8,50,00","18,76,75",1,0810 00 102 AC 22100
-99,Others,,,"8,50,00","18,76,75",1,0810 00 102 AC 22199
+99,Others,,"8,50,00","18,76,75",1,0810 00 102 AC 22199
 AC,Total AC,,"8,50,00","18,76,75",1
 102,Total 102,,"8,50,00","18,76,75",1
 800,Other Receipts,,,,,
 AA,Other Receipts [2704],,,,,
-290,Miscellaneous Revenue Receipts,,"68,93",1,1,1,0810 00 800 AA 29000
-01,Miscellaneous Receipts,,"68,93",1,1,1,0810 00 800 AA 29001
+290,Miscellaneous Revenue Receipts,"68,93",1,1,1,0810 00 800 AA 29000
+01,Miscellaneous Receipts,"68,93",1,1,1,0810 00 800 AA 29001
 AA,Total AA,"68,93",1,1,1
 800,Total 800,"68,93",1,1,1
 0810,Total 0810,"68,93","8,50,01","18,76,76",2
@@ -4936,54 +4938,54 @@ AA,Total AA,"51,82","56,65","60,00","63,00"
 AG,"Ceramic Training School, Virudhachalam [2702]",,,,
 227,Non-Taxation Fees,"15,72","1,00","1,08","1,08",0851 00 102 AG 22700
 01,Admission,,"1,00","1,08","1,08",0851 00 102 AG 22701
-10,Court,,"15,72",,,,0851 00 102 AG 22710
+10,Court,"15,72",,,,0851 00 102 AG 22710
 AG,Total AG,"15,72","1,00","1,08","1,08"
 AI,"Tool and Die-Designing Training centre, Dindigul [2702]",,,,
 227,Non-Taxation Fees,"2,47",30,30,30,0851 00 102 AI 22700
 01,Admission,8,30,30,30,0851 00 102 AI 22701
-10,Court,,"2,39",,,,0851 00 102 AI 22710
+10,Court,"2,39",,,,0851 00 102 AI 22710
 AI,Total AI,"2,47",30,30,30
 AJ,Central Service and Repair Cell for Electro Medical Equipment [2702],,,,
 227,Non-Taxation Fees,"1,40,41","1,62,28","1,62,28","1,62,28",0851 00 102 AJ 22700
 34,Testing,"1,40,41","1,62,28","1,62,28","1,62,28",0851 00 102 AJ 22734
 AJ,Total AJ,"1,40,41","1,62,28","1,62,28","1,62,28"
 AK,Technical Training Centre Guindy [2702],,,,,
-227,Non-Taxation Fees,,33,33,33,33,0851 00 102 AK 22700
-01,Admission,,33,33,33,33,0851 00 102 AK 22701
+227,Non-Taxation Fees,33,33,33,33,0851 00 102 AK 22700
+01,Admission,33,33,33,33,0851 00 102 AK 22701
 AK,Total AK,33,33,33,33
 AL,Other items [2702],,,,,
-290,Miscellaneous Revenue Receipts,,"36,91","30,00","75,00","50,00",0851 00 102 AL 29000
-01,Miscellaneous Receipts,,"36,91","30,00","75,00","50,00",0851 00 102 AL 29001
+290,Miscellaneous Revenue Receipts,"36,91","30,00","75,00","50,00",0851 00 102 AL 29000
+01,Miscellaneous Receipts,"36,91","30,00","75,00","50,00",0851 00 102 AL 29001
 AL,Total AL,"36,91","30,00","75,00","50,00"
 AM,"Scientific Glass Apparatus Factory, Coimbatore [2702]",,,,,
-227,Non-Taxation Fees,,,"1,47",10,10,0851 00 102 AM 22700
-36,Training,,,"1,47",10,10,0851 00 102 AM 22736
+227,Non-Taxation Fees,,"1,47",10,10,0851 00 102 AM 22700
+36,Training,,"1,47",10,10,0851 00 102 AM 22736
 AM,Total AM,,"1,47",10,10
 AQ,Regional Testing Laboratories (Analytical Testing Fees) [2702],,,,,
-227,Non-Taxation Fees,,"3,01,83","3,32,97","3,32,97","3,32,97",0851 00 102 AQ 22700
-34,Testing,,"3,01,83","3,32,97","3,32,97","3,32,97",0851 00 102 AQ 22734
+227,Non-Taxation Fees,"3,01,83","3,32,97","3,32,97","3,32,97",0851 00 102 AQ 22700
+34,Testing,"3,01,83","3,32,97","3,32,97","3,32,97",0851 00 102 AQ 22734
 AQ,Total AQ,"3,01,83","3,32,97","3,32,97","3,32,97"
 AR,"Central Electrical Testing Laboratory, Kakkalur [2702]",,,,,
-227,Non-Taxation Fees,,"36,28","42,56","42,56","42,56",0851 00 102 AR 22700
-34,Testing,,"36,28","42,56","42,56","42,56",0851 00 102 AR 22734
+227,Non-Taxation Fees,"36,28","42,56","42,56","42,56",0851 00 102 AR 22700
+34,Testing,"36,28","42,56","42,56","42,56",0851 00 102 AR 22734
 AR,Total AR,"36,28","42,56","42,56","42,56"
 AW,"Common Facility Centre, Coimbatore [2702]",,,,,
-227,Non-Taxation Fees,,49,55,55,55,0851 00 102 AW 22700
-34,Testing,,49,55,55,55,0851 00 102 AW 22734
+227,Non-Taxation Fees,49,55,55,55,0851 00 102 AW 22700
+34,Testing,49,55,55,55,0851 00 102 AW 22734
 AW,Total AW,49,55,55,55
 102,Total 102,"5,86,26","6,28,11","6,75,17","6,53,17"
 107,Sericulture Industries,,,,,
 AA,Sericulture [1802],,,,,
-237,Sale Proceeds,,"4,58,75","5,50,00","5,80,00","5,80,00",0851 00 107 AA 23700
-99,Others,,"4,58,75","5,50,00","5,80,00","5,80,00",0851 00 107 AA 23799
+237,Sale Proceeds,"4,58,75","5,50,00","5,80,00","5,80,00",0851 00 107 AA 23700
+99,Others,"4,58,75","5,50,00","5,80,00","5,80,00",0851 00 107 AA 23799
 AA,Total AA,"4,58,75","5,50,00","5,80,00","5,80,00"
 AB,Rent on Buildings [1802],,,,,
 231,Receipt of Rent / Hire Charges/ Lease,"56,88","50,00","57,99","57,99",0851 00 107 AB 23100
 01,Rent for Government Quarters-Employees,"56,88","50,00","57,99","57,99",0851 00 107 AB 23101
 AB,Total AB,"56,88","50,00","57,99","57,99"
 AC,Recoveries from sericulturists [1802],,,,
-242,Recoveries,,4,1,5,5,0851 00 107 AC 24200
-99,Others,,4,1,5,5,0851 00 107 AC 24299
+242,Medicine,4,1,5,5,0851 00 107 AC 24200
+99,Others,4,1,5,5,0851 00 107 AC 24299
 AC,Total AC,4,1,5,5
 AD,Other Receipts [1802],,,,
 237,Sale Proceeds,"34,99","11,00","3,00","11,00",0851 00 107 AD 23700
@@ -5014,15 +5016,15 @@ AB,Handlooms and Textiles [1702],,,,
 61,Belated Remittances,"1,42,73",,,,0851 00 800 AB 22561
 AB,Total AB,"2,33,23","15,00","87,25","87,25"
 AE,Powerloom [1702],,,,,
-227,Non-Taxation Fees,,"14,45","10,40","40,00","10,40",0851 00 800 AE 22700
-29,Registration,,"14,45","10,40","40,00","10,40",0851 00 800 AE 22729
+227,Non-Taxation Fees,"14,45","10,40","40,00","10,40",0851 00 800 AE 22700
+29,Registration,"14,45","10,40","40,00","10,40",0851 00 800 AE 22729
 AE,Total AE,"14,45","10,40","40,00","10,40"
 AG,Forfeiture of the contribution made by the Government of India and interest thereon to the funds formed under Co-operative Handloom Weavers Savings and Security Scheme [1702],,,,,
-235,Writes off and Gains,,"1,05,09","70,00","1,00,00","1,00,00",0851 00 800 AG 23500
-99,Others,,"1,05,09","70,00","1,00,00","1,00,00",0851 00 800 AG 23599
+235,Writes off and Gains,"1,05,09","70,00","1,00,00","1,00,00",0851 00 800 AG 23500
+99,Others,"1,05,09","70,00","1,00,00","1,00,00",0851 00 800 AG 23599
 AG,Total AG,"1,05,09","70,00","1,00,00","1,00,00"
 AL,Receipts from National Co-operative Development Corporation (NCDC) [1702],,,,,
-222,Subsidies,,67,1,50,50,0851 00 800 AL 22200
+222,Subsidies,67,1,50,50,0851 00 800 AL 22200
 01,National Cooperative Development Corporation,67,1,50,50,0851 00 800 AL 22201
 AL,Total AL,67,1,50,50
 800,Total 800,"5,35,80","4,45,41","5,77,75","5,48,15"
@@ -5066,7 +5068,7 @@ AA,Quarries and minerals [2704],,,,
 05,Application,"3,63,80","3,00,00","38,69,43","42,56,37",0853 00 102 AA 22705
 AA,Total AA,"3,63,80","3,00,00","38,69,43","42,56,37"
 AB,Rents and Royalties [2704],,,,
-232,Royalty,,"998,91,34","1,100,00,00","1,000,00,00","1,100,00,00",0853 00 102 AB 23200
+232,Royalty,"998,91,34","1,100,00,00","1,000,00,00","1,100,00,00",0853 00 102 AB 23200
 61,Mines & Quarries,"998,91,34","1,100,00,00","1,000,00,00","1,100,00,00",0853 00 102 AB 23261
 AB,Total AB,"998,91,34","1,100,00,00","1,000,00,00","1,100,00,00"
 102,Total 102,"1,002,55,14","1,103,00,00","1,038,69,43","1,142,56,37"
@@ -5096,8 +5098,8 @@ AC,Miscellaneous Receipts [2704],,,,
 97,"Forfeiture, Seizure,Confiscation, etc","110,94,39","110,00,00","110,00,00","121,00,00",0853 00 800 AC 22997
 AC,Total AC,"110,94,39","110,00,00","110,00,00","121,00,00"
 AE,Receipts from Sand Quarry operations [2704],,,,
-232,Royalty,,"16,61,52","350,00,00","75,89,79","350,00,00",0853 00 800 AE 23200
-99,Others,,"16,61,52","350,00,00","75,89,79","350,00,00",0853 00 800 AE 23299
+232,Royalty,"16,61,52","350,00,00","75,89,79","350,00,00",0853 00 800 AE 23200
+99,Others,"16,61,52","350,00,00","75,89,79","350,00,00",0853 00 800 AE 23299
 AE,Total AE,"16,61,52","350,00,00","75,89,79","350,00,00"
 AF,Sand Loading and Unloading charges [2704],,,,
 227,Non-Taxation Fees,"63,66,08","520,00,00","186,95,34","523,70,47",0853 00 800 AF 22700
@@ -5107,12 +5109,12 @@ AF,Total AF,"63,66,08","520,00,00","186,95,34","523,70,47"
 900,Deduct-Refunds,,,,
 AA,Deduct - Refunds [2704],,,,
 277,Deduct / Refunds,"- 44,46,49",- 1,"- 50,00,00",- 1,0853 00 900 AA 27700
-99,Others,,"- 44,46,49",- 1,"- 50,00,00",- 1,0853 00 900 AA 27799
+99,Others,"- 44,46,49",- 1,"- 50,00,00",- 1,0853 00 900 AA 27799
 AA,Total AA,"- 44,46,49",- 1,"- 50,00,00",- 1
 AB,Refund of seigniorage fee to Local Bodies for Sand Quarrying [2704],,,,
 277,Deduct / Refunds,"- 2,11,33","- 39,60,83","- 25,00,00","- 25,76,80",0853 00 900 AB 27700
 06,Seigniorage Fee for Sand Quarrying to Local Bodies,,"- 39,60,83","- 25,00,00","- 25,76,80",0853 00 900 AB 27706
-99,Others,,"- 2,11,33",,,,0853 00 900 AB 27799
+99,Others,"- 2,11,33",,,,0853 00 900 AB 27799
 AB,Total AB,"- 2,11,33","- 39,60,83","- 25,00,00","- 25,76,80"
 AC,Amount payable to Local Bodies apportional to quarry lease income from Minor Mineral [2704],,,,
 277,Deduct / Refunds,"- 189,91,48","- 98,33,19","- 154,73,63",- 2,0853 00 900 AC 27700
@@ -5121,11 +5123,11 @@ AC,Total AC,"- 189,91,48","- 98,33,19","- 154,73,63",- 2
 900,Total 900,"- 236,49,30","- 137,94,03","- 229,73,63","- 25,76,83"
 0853,Total 0853,"1,057,45,25","1,987,50,00","1,282,25,01","2,222,35,12"
 1051,PORTS AND LIGHTHOUSES,,,,,
-80,General,,,,,,
+80,General,,,,,
 800,Other Receipts,,,,,
 AH,Lease Rent from Tamil Nadu Maritime Board [2109],,,,,
-231,Receipt of Rent / Hire Charges/ Lease,,"2,95,80","3,65,00","3,65,00","4,00,00",1051 80 800 AH 23100
-41,Lease of Land,,"2,95,80","3,65,00","3,65,00","4,00,00",1051 80 800 AH 23141
+231,Receipt of Rent / Hire Charges/ Lease,"2,95,80","3,65,00","3,65,00","4,00,00",1051 80 800 AH 23100
+41,Lease of Land,"2,95,80","3,65,00","3,65,00","4,00,00",1051 80 800 AH 23141
 AH,Total AH,"2,95,80","3,65,00","3,65,00","4,00,00"
 800,Total 800,"2,95,80","3,65,00","3,65,00","4,00,00"
 80,Total 80,"2,95,80","3,65,00","3,65,00","4,00,00"
@@ -5162,25 +5164,25 @@ AE,Miscellaneous Receipts [2103],,,,
 97,"Forfeiture, Seizure,Confiscation, etc","54,38","10,00","7,74,48","8,51,93",1054 00 800 AE 22797
 99,Others,"51,74,85",,,,1054 00 800 AE 22799
 234,Centage Charges,"12,35,58","107,00,00","28,24,71","31,07,18",1054 00 800 AE 23400
-237,Sale Proceeds,,"4,76,92","40,00","8,47,98","9,31,78",1054 00 800 AE 23700
-19,Old Stores & Materials,,"81,28","10,00","10,00","10,00",1054 00 800 AE 23719
-20,Tender,,"3,95,64","30,00","8,37,98","9,21,78",1054 00 800 AE 23720
+237,Sale Proceeds,"4,76,92","40,00","8,47,98","9,31,78",1054 00 800 AE 23700
+19,Old Stores & Materials,"81,28","10,00","10,00","10,00",1054 00 800 AE 23719
+20,Tender,"3,95,64","30,00","8,37,98","9,21,78",1054 00 800 AE 23720
 AE,Total AE,"77,34,03","107,70,00","45,97,17","50,45,89"
 AF,Receipts from Chennai Corporation towards improvement / maintenance of Chennai City Roads [2103],,,,,
-242,Recoveries,,"3,00",25,25,25,1054 00 800 AF 24200
-09,Local Bodies,,"3,00",25,25,25,1054 00 800 AF 24209
+242,Medicine,"3,00",25,25,25,1054 00 800 AF 24200
+09,Local Bodies,"3,00",25,25,25,1054 00 800 AF 24209
 AF,Total AF,"3,00",25,25,25
 AP,Hire Charges of Tools and Plants [2103],,,,,
-231,Receipt of Rent / Hire Charges/ Lease,,"42,68","1,19,00","50,00","50,00",1054 00 800 AP 23100
+231,Receipt of Rent / Hire Charges/ Lease,"42,68","1,19,00","50,00","50,00",1054 00 800 AP 23100
 21,Hire Charges of Machinery & Equipments,"42,68","1,19,00","50,00","50,00",1054 00 800 AP 23121
 AP,Total AP,"42,68","1,19,00","50,00","50,00"
 AS,Receipts from Avenues [2103],,,,,
-290,Miscellaneous Revenue Receipts,,"2,46,66","4,05,00","1,50,00","2,00,00",1054 00 800 AS 29000
-01,Miscellaneous Receipts,,"2,46,66","4,05,00","1,50,00","2,00,00",1054 00 800 AS 29001
+290,Miscellaneous Revenue Receipts,"2,46,66","4,05,00","1,50,00","2,00,00",1054 00 800 AS 29000
+01,Miscellaneous Receipts,"2,46,66","4,05,00","1,50,00","2,00,00",1054 00 800 AS 29001
 AS,Total AS,"2,46,66","4,05,00","1,50,00","2,00,00"
 AT,Contribution for gratuity of Work Charged Establishment [2103],,,,,
-223,Contribution and Donation,,"1,56","5,00",50,50,1054 00 800 AT 22300
-03,Gratuity,,"1,56","5,00",50,50,1054 00 800 AT 22303
+223,Contribution and Donation,"1,56","5,00",50,50,1054 00 800 AT 22300
+03,Gratuity,"1,56","5,00",50,50,1054 00 800 AT 22303
 AT,Total AT,"1,56","5,00",50,50
 800,Total 800,"141,51,65","153,32,25","91,80,98","98,09,71"
 1054,Total 1054,"143,12,57","154,43,25","93,52,98","100,02,71"
@@ -5206,10 +5208,10 @@ AB,Total AB,"7,76","21,59","21,59","21,59"
 1452-00,TOURISM,,,,,
 800,Other Receipts,,,,,
 AA,Other Receipts [2902],,,,,
-225,Interest,,"38,84",,,,1452 00 800 AA 22500
-62,Unspent Balance,,"38,84",,,,1452 00 800 AA 22562
-290,Miscellaneous Revenue Receipts,,"20,76","32,00","50,00","52,00",1452 00 800 AA 29000
-01,Miscellaneous Receipts,,"20,76","32,00","50,00","52,00",1452 00 800 AA 29001
+225,Interest,"38,84",,,,1452 00 800 AA 22500
+62,Unspent Balance,"38,84",,,,1452 00 800 AA 22562
+290,Miscellaneous Revenue Receipts,"20,76","32,00","50,00","52,00",1452 00 800 AA 29000
+01,Miscellaneous Receipts,"20,76","32,00","50,00","52,00",1452 00 800 AA 29001
 AA,Total AA,"59,60","32,00","50,00","52,00"
 800,Total 800,"59,60","32,00","50,00","52,00"
 1452,Total 1452,"59,60","32,00","50,00","52,00"
@@ -5244,10 +5246,10 @@ AH,Differential Cost on Sale [1301],,,,
 09,Collections,"5,26","1,00",1,1,1456 00 800 AH 22709
 AH,Total AH,"5,26","1,00",1,1
 800,Total 800,"2,60,35","2,13,20","1,43,25","1,42,29"
-900,Deduct-Refunds,,,,,
+900,Deduct-Refunds,,,,
 AA,Deduct - Refunds [1301],,,,
-277,Deduct / Refunds,,"- 2,98",,,,1456 00 900 AA 27700
-99,Others,,"- 2,98",,,,1456 00 900 AA 27799
+277,Deduct / Refunds,"- 2,98",,,,1456 00 900 AA 27700
+99,Others,"- 2,98",,,,1456 00 900 AA 27799
 AA,Total AA,"- 2,98",,,
 900,Total 900,"- 2,98",,,
 1456,Total 1456,"2,57,37","2,13,20","1,43,25","1,42,29"
@@ -5287,7 +5289,7 @@ AB,Other than Licence Fees [3202],,,,
 229,Fines & Penalties,,"3,00,00","3,00,00","3,00,00",1475 00 800 AB 22900
 03,Labour,,"3,00,00","3,00,00","3,00,00",1475 00 800 AB 22903
 237,Sale Proceeds,"1,19,82","2,03,11",10,10,1475 00 800 AB 23700
-99,Others,,"1,19,82","2,03,11",10,10,1475 00 800 AB 23799
+99,Others,"1,19,82","2,03,11",10,10,1475 00 800 AB 23799
 AB,Total AB,"2,30,77","5,13,11","3,10,10","3,10,10"
 AC,Receipts of the Department of Statistics [3602],,,,
 290,Miscellaneous Revenue Receipts,"45,46",1,"25,00","25,00",1475 00 800 AC 29000
@@ -5295,7 +5297,7 @@ AC,Receipts of the Department of Statistics [3602],,,,
 AC,Total AC,"45,46",1,"25,00","25,00"
 AO,Receipts from Government of India towards compiling the satellite accounts of non-profit institution in Tamilnadu. [3602],,,,
 221,Receipts from Central Government,"5,77",1,"2,10","2,10",1475 00 800 AO 22100
-99,Others,,"5,77",1,"2,10","2,10",1475 00 800 AO 22199
+99,Others,"5,77",1,"2,10","2,10",1475 00 800 AO 22199
 AO,Total AO,"5,77",1,"2,10","2,10"
 800,Total 800,"2,90,31","5,20,13","3,44,20","3,45,20"
 1475,Total 1475,"69,11,76","87,50,21","66,85,32","73,13,47"
@@ -5303,18 +5305,18 @@ AO,Total AO,"5,77",1,"2,10","2,10"
 03,GRANTS FOR CENTRAL PLAN SCHEMES,,,,
 900,Deduct-Refunds AC Strengthening of Consumer Disputes Redressal Agencies [1301],,,,
 177,Deduct - Refund of Unspent Grants,"- 1,26",,,,1601 03 900 AC 17700
-05,Entertainment Tax to Local," Bodies""- 1","26""",,,,1601 03 900 AC 17705
+05,"Entertainment Tax to Local,Bodies","- 1,26",,,,1601 03 900 AC 17705
 AC,Total AC,"- 1,26",,,
 900,Total 900,"- 1,26",,,
 03,Total 03,"- 1,26",,,
 04,GRANTS FOR CENTRALLY SPONSORED PLAN SCHEMES,,,,
 900,Deduct - Refunds AC Scholarship to students from Non-Hindi Speaking State for Post Matric [4302],,,,
 177,Deduct - Refund of Unspent Grants,"- 40,11",,,,1601 04 900 AC 17700
-05,Entertainment Tax to Local," Bodies""- 40","11""",,,,1601 04 900 AC 17705
+05,"Entertainment Tax to Local, Bodies","- 40,11",,,,1601 04 900 AC 17705
 AC,Total AC,"- 40,11",,,
 AS,National Control Programme of Peste des Petits Ruminants (NCPPPR) [0602],,,,
 177,Deduct - Refund of Unspent Grants,"- 83,19",,,,1601 04 900 AS 17700
-05,Entertainment Tax to Local," Bodies""- 83","19""",,,,1601 04 900 AS 17705
+05,"Entertainment Tax to Local, Bodies","- 83,19",,,,1601 04 900 AS 17705
 AS,Total AS,"- 83,19",,,
 900,Total 900,"- 1,23,30",,,
 04,Total 04,"- 1,23,30",,,
@@ -5449,7 +5451,7 @@ BG,Sub-Mission on Agriculture Extension and Farmers Training [0502],,,,
 25,General Category - Current Grants,"45,40,90","53,17,00","39,51,80","41,49,39",1601 06 101 BG 11325
 BG,Total BG,"45,40,90","53,17,00","39,51,80","41,49,39"
 BH,Mahatma Gandhi National Rural Employment Guarantee Scheme [4202],,,,
-127,Employment Guarantee," Programmes""1",166,31,"80""","1,275,00,00","1,275,00,00","1,275,00,00",1601 06 101 BH 12700
+127,"Employment Guarantee, Programmes","1,166,31,80","1,275,00,00","1,275,00,00","1,275,00,00",1601 06 101 BH 12700
 01,Indivisible - Capital Grants,"1,166,31,80","1,275,00,00","1,275,00,00","1,275,00,00",1601 06 101 BH 12701
 BH,Total BH,"1,166,31,80","1,275,00,00","1,275,00,00","1,275,00,00"
 BI,Swachh Bharat Abhiyan (Nirmal Bharat Abhiyan) - Rural [4202],,,,
@@ -5902,7 +5904,7 @@ AG,"Disaster Preparedness,Other Disaster Management Projects including School Sa
 109,Finance Commission Grants,"50,74",,,,1601 08 113 AG 10900
 03,Finance Commission Grants for State Disaster Response Fund,"50,74",,,,1601 08 113 AG 10903
 199,Other Grants,,,"28,40","16,80",1601 08 113 AG 19900
-01,Others,,,,"28,40","16,80",1601 08 113 AG 19901
+01,Others,,,"28,40","16,80",1601 08 113 AG 19901
 AG,Total AG,"50,74",,"28,40","16,80"
 AH,Grants to States for Strengthening of Forensic Science Laboratories [2209],,,,
 146,Police and Prisons,"2,44,00",,,,1601 08 113 AH 14600
