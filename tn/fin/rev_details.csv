@@ -1020,7 +1020,7 @@ AA,Other Receipts [1612],,,,
 11,Public Sector Undertakings/Boards/ Corporations,"729,19,93","340,73,60","343,23,28","157,38,52",0049 04 110 AA 22511
 AA,Total AA,"729,19,93","340,73,60","343,23,28","157,38,52"
 110,Total 110,"729,19,93","340,73,60","343,23,28","157,38,52"
-190,Interest from Public Sector and,Other Undertakings,,,, 
+190,"Interest from Public Sector and,Other Undertakings",,,, 
 AB,Loans to Tamil Nadu Slum Clearance Board [2606],,,,
 290,Miscellaneous Revenue Receipts,1,1,1,1,0049 04 190 AB 29000
 01,Miscellaneous Receipts,1,1,1,1,0049 04 190 AB 29001
@@ -2509,7 +2509,7 @@ AB,Charges Collected for services rendered [2003],,,,,
 234,Centage Charges,"13,54","3,00","3,00","3,25",0202 02 501 AB 23400
 99,Others,"13,54","3,00","3,00","3,25",0202 02 501 AB 23499
 AB,Total AB,"13,54","3,00","3,00","3,25"
-,,,"9,11,61","13,03,00","10,03,00","10,53,25"
+501,Total 501,"9,11,61","13,03,00","10,03,00","10,53,25"
 800,Other Receipts,,,,
 AA,Miscellaneous Receipts in Engineering Colleges [2003],,,,
 290,Miscellaneous Revenue Receipts,"55,43","29,00","3,30,00","3,51,00",0202 02 800 AA 29000
