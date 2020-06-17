@@ -99,6 +99,7 @@ AA,State Goods and Services Tax (SGST) [1002],,,,
 214,Taxes,,1,,,0006 00 107 AA 21400
 02,State Goods and Service Tax,,1,,,0006 00 107 AA 21402
 AA,Total AA,,1,,
+107,Total 107,,1,,
 108,Apportionment of IGST-Transfer-in of Penalty Component to SGST,,,,
 AA,State Goods and Services Tax (SGST) [1002],,,,
 214,Taxes,,1,,,0006 00 108 AA 21400
@@ -166,8 +167,7 @@ AC,Arrear receipts for the previous year [1601],,,,
 AC,Total AC,,,"87,46,00",
 901,Total 901,"10,654,53,06","11,003,97,00","8,998,76,00","10,104,36,00"
 0020,Total 0020,"10,654,53,06","11,003,97,00","8,998,76,00","10,104,36,00"
-0021-00,TAXES ON INCOME,,,,
-OTHER,THAN CORPORATE TAX,,,,
+0021-00,TAXES ON INCOME OTHER,THAN CORPORATE TAX,,,,
 901,Share of net proceeds assigned to States,,,,
 AA,Share of Net Proceeds assigned to States [1610],,,,
 101,Share in Central Taxes,"7,846,61,59","9,245,43,00","8,104,42,00","9,395,25,00",0021 00 901 AA 10100
@@ -382,6 +382,7 @@ AB,Total AB,"4,104,08,19","4,541,72,55","4,541,72,55","4,995,89,81"
 AC,Other items [1101],,,,
 217,Stamps Duty,"48,10,50","73,98,60","73,98,60","81,38,46",0030 02 103 AC 21700
 41,Duties-Other Stamps,"48,10,50","73,98,60","73,98,60","81,38,46",0030 02 103 AC 21741
+AC,Total AC,"48,10,50","73,98,60","73,98,60","81,38,46"
 103,Total 103,"4,190,59,70","4,616,20,63","4,616,20,63","5,077,82,70"
 800,Other Receipts,,,,
 AA,Fines and Penalties [1101],,,,
@@ -775,6 +776,7 @@ AG,Total AG,"- 369,24,17","- 474,09,09","- 109,50,81","- 114,98,36"
 AH,Other Refunds under State Value Added Tax Act [1002],,,,
 277,Deduct / Refunds,"- 126,91,24","- 221,08,04","- 177,53,59","- 186,41,27",0040 00 111 AH 27700
 03,Others under State Value Added Tax Act,"- 126,91,24","- 221,08,04","- 177,53,59","- 186,41,27",0040 00 111 AH 27703
+AH,Total AH,"- 126,91,24","- 221,08,04","- 177,53,59","- 186,41,27"
 AI,Appeal Fees to Appellate Assistant Commissioner under State Value Added Tax Act [1002],,,,,
 216,Taxation Fees,"12,40","2,49,17","79,73","83,72",0040 00 111 AI 21600
 99,Others,"12,40","2,49,17","79,73","83,72",0040 00 111 AI 21699
@@ -979,6 +981,7 @@ AC,Arrear receipts for the previous year [1601],,,,
 101,Share in Central Taxes,,,"16,72,00",,0045 00 901 AC 10100
 08,Other Taxes and Duties,,,"16,72,00",,0045 00 901 AC 10108
 AC,Total AC,,,"16,72,00",
+901,Total 901,"15,74,35",,,
 0045,Total 0045,"1,38,41","- 9,34,65","2,75,99","- 15,16,80"
 0046-00,"CURRENCY, COINAGE AND MINT",,,,,
 105,Mint Receipts,,,,,
@@ -1927,7 +1930,7 @@ AF,Total AF,"25,11","36,27","36,00","36,00"
 02,Total 02,"32,49,35","3,54,10","140,48,33","147,48,69"
 60,Other Services,,,,
 101,Receipts from the Central Government for Administration of Central Acts and Regulations,,,, 
-AI Reimbursement for Special Judge Courts set up for exclusively for the trial cases of CBI [0301],,,,
+AI,Reimbursement for Special Judge Courts set up for exclusively for the trial cases of CBI [0301],,,,
 221,Receipts from Central Government,"16,18,45",,"8,24,80","8,24,80",0070 60 101 AI 22100
 10,Administration of Justice,"16,18,45",,"8,24,80","8,24,80",0070 60 101 AI 22110
 AI,Total AI,"16,18,45",,"8,24,80","8,24,80"
@@ -2033,7 +2036,7 @@ AM,Recoveries from Central Government towards Leave Salary contribution of staff
 223,Contribution and Donation,"2,32",61,"11,03","11,03",0070 60 800 AM 22300
 01,Leave Salary,"2,32",61,"11,03","11,03",0070 60 800 AM 22301
 AM,Total AM,"2,32",61,"11,03","11,03"
-"AO Rent, Rates and Taxes [1612]",,,,
+AO,"Rent, Rates and Taxes [1612]",,,,
 231,Receipt of Rent / Hire Charges/ Lease,1,1,"30,01","31,21",0070 60 800 AO 23100
 99,Others,1,1,"30,01","31,21",0070 60 800 AO 23199
 AO,Total AO,1,1,"30,01","31,21"
@@ -2535,7 +2538,7 @@ AA,Physical Education Sports and Youth Services [4303],,,,
 AA,Total AA,"18,21","17,00","34,55","34,55"
 101,Total 101,"18,21","17,00","34,55","34,55"
 800,Other Receipts,,,, 
-AA Receipts from National Cadet,Corps (NCC) [4903],,,,
+AA,Receipts from National Cadet,Corps (NCC) [4903],,,,
 227,Non-Taxation Fees,"7,53","4,92","4,92","4,92",0202 03 800 AA 22700
 36,Training,"7,53","4,92","4,92","4,92",0202 03 800 AA 22736
 AA,Total AA,"7,53","4,92","4,92","4,92"
@@ -2571,7 +2574,7 @@ AG,Reimbursement of Establishment Charges from Local Library Authority Funds (LL
 AG,Total AG,"2,34,02","7,22,36","5,00,00","5,00,00"
 102,Total 102,"2,57,18","7,47,41","5,23,30","5,25,05"
 800,Other Receipts,,,, 
-AA Tamil Nadu Government College of Music [2905],,,,
+AA,Tamil Nadu Government College of Music [2905],,,,
 227,Non-Taxation Fees,"10,75","3,16","3,23","3,24",0202 04 800 AA 22700
 37,Tuition,"6,33","3,06","3,06","3,06",0202 04 800 AA 22737
 99,Others,"4,42",10,17,18,0202 04 800 AA 22799
@@ -2633,13 +2636,12 @@ AH,Hospital Receipts - Controlled by the Director of Medical Education [1903],,,
 25,Medical,"4,43,44","3,03,37","3,57,09","3,74,94",0210 01 020 AH 22725
 AH,Total AH,"7,51,68","6,18,37","7,16,53","7,40,91"
 020,Total 020,"10,03,88","8,28,63","9,44,52","9,64,64"
-101,Receipts from Employees' State Insurance Scheme,,,,
-AA,Recoveries from the Employees State Insurance Corporation - Director of Medical and Rural Health Services [3205],,,,
+101,"Receipts from Employees' State Insurance Scheme",,,,
+AA,"Recoveries from the Employees State Insurance Corporation - Director of Medical and Rural Health Services [3205]",,,,
 223,Contribution and Donation,"450,82,16","501,47,25","542,70,48","596,97,53",0210 01 101 AA 22300
-25,Employees' State Insurance Corporation,"450,82,16","501,47,25","542,70,48","596,97,53",0210 01 101 AA 22325
+25,"Employees State Insurance Corporation","450,82,16","501,47,25","542,70,48","596,97,53",0210 01 101 AA 22325
 AA,Total AA,"450,82,16","501,47,25","542,70,48","596,97,53"
-AC,Receipts to be shared between the State Government and the Employees State Insurance Corporation in the ratio of,,,,
-,1:7 [3205],,,,
+AC,"Receipts to be shared between the State Government and the Employees State Insurance Corporation in the ratio of 1:7 [3205]",,,,
 227,Non-Taxation Fees,"2,58,49","1,12,00","2,16,40","2,27,22",0210 01 101 AC 22700
 06,Audit,"2,58,49","1,12,00","2,16,40","2,27,22",0210 01 101 AC 22706
 AC,Total AC,"2,58,49","1,12,00","2,16,40","2,27,22"
@@ -3348,7 +3350,6 @@ BG,Receipts from Prisons towards Tamil Nadu Victim Compensation Fund [2401],,,,
 BG,Total BG,"4,43,14","1,60,00","4,32,98","4,32,98"
 BJ,Grants received for Pradhan Mantri Matru Vandana Yojana (PMMVY) [4504],,,,,
 221,Receipts from Central Government,"15,67",,,,0235 60 800 BJ 22100
-,,,,,
 08,Grants,"15,67",,,,0235 60 800 BJ 22108
 BJ,Total BJ,"15,67",,,
 BK,State Fund for Persons with Disabilities [5202],,,,,
@@ -3365,7 +3366,7 @@ AL,Total AL,,,"- 77,79",13
 60,Total 60,"103,69,98","86,72,09","90,92,04","97,55,13"
 0235,Total 0235,"103,69,98","86,72,09","92,88,94","97,55,14"
 0250-00,OTHER SOCIAL SERVICES,,,,
-"102 Welfare of Scheduled Castes,Scheduled Tribes and Other Backward Classes",,,,
+102,Welfare of Scheduled Castes,Scheduled Tribes and Other Backward Classes",,,,
 AA,Receipts relating to Backward Classes Department [0902],,,,
 237,Sale Proceeds,"58,77","54,25","99,85","99,85",0250 00 102 AA 23700
 19,Old Stores & Materials,"58,77","54,25","99,85","99,85",0250 00 102 AA 23719
@@ -3529,6 +3530,7 @@ AD,Total AD,,1,1,1
 AF,Agricultural Engineering - Receipts [0506],,,,,
 237,Sale Proceeds,- 6,"1,00","1,50","1,50",0401 00 120 AF 23700
 19,Old Stores & Materials,- 6,"1,00","1,50","1,50",0401 00 120 AF 23719
+AF,Total AF,- 6,"1,00","1,50","1,50"
 AG,Agricultural Engineering Workshop - Receipts from Sales [0506],,,,,
 237,Sale Proceeds,"5,56","1,00","1,00","1,00",0401 00 120 AG 23700
 19,Old Stores & Materials,"5,56","1,00","1,00","1,00",0401 00 120 AG 23719
@@ -4066,8 +4068,7 @@ AB,Grading and Marking Fees [0503],,,,,
 227,Non-Taxation Fees,"2,54,41","2,47","3,00","3,00",0435 00 102 AB 22700
 34,Testing,"2,54,41","2,47","3,00","3,00",0435 00 102 AB 22734
 AB,Total AB,"2,54,41","2,47","3,00","3,00"
-AC,Superior Cotton,,,,,
-,,Certification Scheme [0503],,,,
+AC,Superior Cotton Certification Scheme [0503],,,,
 227,Non-Taxation Fees,29,30,35,35,0435 00 102 AC 22700
 34,Testing,29,30,35,35,0435 00 102 AC 22734
 AC,Total AC,29,30,35,35
@@ -4881,6 +4882,7 @@ AH,Sale proceeds from Data Dissemination - Controlled by the Chief Engineer (WRO
 290,Miscellaneous Revenue Receipts,2,3,3,3,0702 02 800 AH 29000
 01,Miscellaneous Receipts,2,3,3,3,0702 02 800 AH 29001
 AH,Total AH,2,3,3,3
+800,Total 800,"1,91,58","92,69","1,44,22","1,49,18"
 02,Total 02,"2,80,60","1,67,69","2,16,22","2,24,18"
 0702,Total 0702,"2,80,60","1,67,69","2,16,22","2,24,18"
 0801,POWER,,,,
@@ -5261,7 +5263,7 @@ AA,Fees for Stamping Weights and,Measures [3202],,,,
 AA,Total AA,"32,86,61","50,00,00","38,42,88","42,27,17"
 106,Total 106,"32,86,61","50,00,00","38,42,88","42,27,17"
 200,Regulation of Other Business Undertakings,,,,
-"AA Administration of Indian Partnership Act, 1932 [1101]",,,,
+AA,"Administration of Indian Partnership Act, 1932 [1101]",,,,
 227,Non-Taxation Fees,"2,49,85","1,47,42","1,14,38","1,20,10",1475 00 200 AA 22700
 29,Registration,"2,49,85","1,47,42","1,14,38","1,20,10",1475 00 200 AA 22729
 AA,Total AA,"2,49,85","1,47,42","1,14,38","1,20,10"
@@ -5273,7 +5275,7 @@ AD,"Receipts under Administration of Pawn Brokers Act, 1943 [4102]",,,,
 227,Non-Taxation Fees,"72,21","70,00","14,62","15,35",1475 00 200 AD 22700
 99,Others,"72,21","70,00","14,62","15,35",1475 00 200 AD 22799
 AD,Total AD,"72,21","70,00","14,62","15,35"
-"AE Fees realised in the Administration of Tamil Nadu Chit Funds Act, 1982 [1101]",,,,
+AE,"Fees realised in the Administration of Tamil Nadu Chit Funds Act, 1982 [1101]",,,,
 227,Non-Taxation Fees,"29,98,90","30,00,00","23,58,87","25,94,76",1475 00 200 AE 22700
 29,Registration,"29,98,90","30,00,00","23,58,87","25,94,76",1475 00 200 AE 22729
 AE,Total AE,"29,98,90","30,00,00","23,58,87","25,94,76"
@@ -5352,6 +5354,7 @@ AG,Total AG,"420,54,58","434,75,00","449,45,97","449,45,97"
 AH,Sarva Shiksha Abhiyan - General Component [4308],,,,
 123,Elementary Education,"1,061,38,15","1,177,24,58","1,800,00,00","1,800,00,00",1601 06 101 AH 12300
 25,General Category - Current Grants,"1,061,38,15","1,177,24,58","1,800,00,00","1,800,00,00",1601 06 101 AH 12325
+AH,Total AH,"1,061,38,15","1,177,24,58","1,800,00,00","1,800,00,00"
 AI,District and other Roads (Pradhan Mantri Gramin Sadak Yojana (PMGSY) [4202],,,,
 145,Other Road Works,"619,14,00","355,00,00","723,20,00","795,52,00",1601 06 101 AI 14500
 01,Indivisible - Capital Grants,"619,14,00","355,00,00","723,20,00","795,52,00",1601 06 101 AI 14501
@@ -5599,8 +5602,7 @@ CS,Implementation of Management Action Plan (MAP) in Biosphere Reserves [5401],,
 131,Environment,"1,68,83","1,92,21","4,06,87","7,26,98",1601 06 101 CS 13100
 05,Indivisible - Current Grants,"1,68,83","1,92,21","4,06,87","7,26,98",1601 06 101 CS 13105
 CS,Total CS,"1,68,83","1,92,21","4,06,87","7,26,98"
-CT,Construction of Hostels for,,,,
-OBC,Boys & Girls [0902],,,,
+CT,Construction of Hostels for OBC,Boys & Girls [0902],,,,
 156,Welfare of OBCs - Other Schemes,,1,"10,57,50",1,1601 06 101 CT 15600
 01,Indivisible - Capital Grants,,1,"10,57,50",1,1601 06 101 CT 15601
 CT,Total CT,,1,"10,57,50",1
@@ -5655,6 +5657,7 @@ DG,Total DG,,2,2,2
 DH,National Education Mission-NEM (Rashtriya Uchchatar Shiksha Abhiyan-RUSA) (National Higher Education Mission-NHEM) [4307],,,,
 126,Higher Education,"44,80,00","54,09,00","130,18,50","54,09,00",1601 06 101 DH 12600
 25,General Category - Current Grants,"44,80,00","54,09,00","130,18,50","54,09,00",1601 06 101 DH 12625
+DH,Total DH,"44,80,00","54,09,00","130,18,50","54,09,00"
 DI,Pradhan Mantri Awaas Yojana (Urban) Grants received through Building Material and Technical Promotion Council (BMTPC) [2606],,,,
 159,Urban Housing,"328,21,63",,,,1601 06 101 DI 15900
 05,Indivisible - Current Grants,"328,21,63",,,,1601 06 101 DI 15905
@@ -5824,6 +5827,7 @@ AA,Cost Adjustment for Commodity Grant Flexi Pool for Communicable Diseases [190
 125,,"64,36,39",,,,1601 06 117 AA 12500
 01,,"64,36,39",,,,1601 06 117 AA 12501
 AA,Total AA,"64,36,39",,,
+117,Total 117,"64,36,39",,,
 06,Total 06,"14,820,26,46","13,365,24,94","15,582,75,18","15,819,81,37"
 07,FINANCE COMMISSION GRANTS,,,,
 101,Post Devolution Revenue Deficit Grant,,,,
