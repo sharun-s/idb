@@ -25,7 +25,10 @@ def endtree(i,root,overshoot):
 
 def findend(h,i):
 	idx=df[df['head'].str.contains(h,na=False)].index.to_list()
-	return idx[idx.index(i)+1]
+	j=idx.index(i)+1
+	while df.ix[idx[j]]['desc'] != 'Total '+h:
+		j=j+1
+	return idx[j]
 
 
 #df[df['head'].str.startswith('77777',na=False)].index
@@ -55,26 +58,24 @@ def genTree(i, overshoot, root=None,subgroup=False):
 		# group detected
 		elif not p.isna(dpcode) and dpcode.endswith('00'):
 			if subgroup: # this indicates end of prev subgroup
-				print('new sub found but prev subgrp needs to be added')
+				#dprint('new sub found but prev subgrp needs to be added')
 				return i-1,parent_tree
-			print('grouping',head)
+			#dprint('grouping',head)
 			parent_tree[head]={'desc':desc}
 			parent_tree[head].update(data.to_dict())
 			i,t=genTree(i+1,overshoot,head,subgroup=True)
 			parent_tree[head].update(t)
-			#pprint(dict_parent)
-			print('ungrouped')
-			#return i,parent_tree
+			#dprint('ungrouped')
 		# end of group total
 		elif p.isna(dpcode) and desc.startswith('Total'):
 			if subgroup:
-				print('total found so prev sub needs to be added')
+				#dprint('total found so prev sub needs to be added')
 				return i-1,parent_tree
 			#parent_tree[head]={'desc':desc}
 			parent_tree[desc]=data.to_dict()
 		else:
 			#node is child
-			print('adding '+head)
+			#dprint('adding '+head)
 			parent_tree[head]={'desc':desc}
 			parent_tree[head].update(data.to_dict())
 		#pprint(dict_parent)
@@ -82,6 +83,7 @@ def genTree(i, overshoot, root=None,subgroup=False):
 			break;
 		else:
 			i=i+1
+			print(i)
 	return i,parent_tree
 
 def dp2node(head,desc,data,dpcode):
@@ -111,9 +113,6 @@ def df2json(start):
 		else:
 			dp2node(head,desc,data,dpcode)
 
-
-
-
 def dict_generator(indict, pre=None):
     pre = pre[:] if pre else []
     if isinstance(indict, dict):
@@ -141,12 +140,12 @@ def walk(node,parent=None,level=0):
 			idx=df[df['head'].str.startswith(key,na=False)].index
 			if not idx.empty and len(idx)==2:
 				i,t=genTree(idx[0],overshoot=idx[1])
-				#pprint(t)
+				#print(i,)
+				dump(df.ix[idx[0]]['desc'].replace(' ','_').capitalize()+'.json',t)
 			else:
 				print('CHECK ',key)
 
 from pprint import pprint
-#walk(h)
 def dump(name,data):
 	f=open(name,'w')
 	tmp=json.dumps(data)
@@ -154,6 +153,8 @@ def dump(name,data):
 	f.close()
 
 
-l=genTree(3687,3721)
-dump('dairy.json',l[1])
+#l=genTree(3687,3721)
+#dump('dairy.json',l[1])
+
+walk(h)
 

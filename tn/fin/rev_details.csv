@@ -167,7 +167,7 @@ AC,Arrear receipts for the previous year [1601],,,,
 AC,Total AC,,,"87,46,00",
 901,Total 901,"10,654,53,06","11,003,97,00","8,998,76,00","10,104,36,00"
 0020,Total 0020,"10,654,53,06","11,003,97,00","8,998,76,00","10,104,36,00"
-0021-00,TAXES ON INCOME OTHER,THAN CORPORATE TAX,,,,
+0021-00,"TAXES ON INCOME OTHER,THAN CORPORATE TAX",,,,
 901,Share of net proceeds assigned to States,,,,
 AA,Share of Net Proceeds assigned to States [1610],,,,
 101,Share in Central Taxes,"7,846,61,59","9,245,43,00","8,104,42,00","9,395,25,00",0021 00 901 AA 10100
@@ -191,7 +191,7 @@ AB,Deduct - Refunds [4104],,,,,
 AB,Total AB,,- 1,- 1,- 1
 101,Total 101,"10,22","14,45","14,45","15,17"
 0022,Total 0022,"10,22","14,45","14,45","15,17"
-0028-00,OTHER TAXES ON INCOME,AND EXPENDITURE,,,,
+0028-00,"OTHER TAXES ON INCOME,AND EXPENDITURE",,,,
 901,Share of net proceeds assigned to States,,,,
 AA,Share of Net Proceeds assigned to States [1610],,,,
 101,Share in Central Taxes,"55,49,00",,,,0028 00 901 AA 10100
@@ -237,7 +237,7 @@ AB,"Receipts under the Tamil Nadu Estates (Abolition and conversion into Ryotwar
 03,Taxes,"8,10","40,83","46,95","53,99",0029 00 104 AB 21603
 AB,Total AB,"8,10","40,83","46,95","53,99"
 104,Total 104,"8,10","40,83","46,95","53,99"
-107,,Sale proceeds of Waste Lands and Redemption of Land Tax,,,,
+107,Sale proceeds of Waste Lands and Redemption of Land Tax,,,,
 AA,Other Receipts [4106],,,,,
 214,Taxes,"86,48,67","102,84,20","106,02,76","111,32,89",0029 00 107 AA 21400
 99,Others,"86,48,67","102,84,20","106,02,76","111,32,89",0029 00 107 AA 21499
@@ -448,7 +448,7 @@ AC,Arrear receipts for the previous year [1601],,,,
 AC,Total AC,,,"69,00",
 901,Total 901,"3,92,06","- 30,00","39,00","- 33,00"
 0032,Total 0032,"3,92,06","- 30,00","39,00","- 33,00"
-0035-00,,TAXES ON IMMOVABLE PROPERTY OTHER THAN AGRICULTURAL LAND,,,,
+0035-00,TAXES ON IMMOVABLE PROPERTY OTHER THAN AGRICULTURAL LAND,,,,
 101,Ordinary Collections,,,,,
 AA,Gross Collections - Urban Areas [4107],,,,,
 214,Taxes,"10,33,99","13,65,00","13,00,00","13,65,00",0035 00 101 AA 21400
