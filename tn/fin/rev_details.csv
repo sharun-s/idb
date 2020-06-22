@@ -1549,7 +1549,7 @@ AB,Total AB,"55,25","50,07",27,28
 0051,Total 0051,"14,06,59","47,61,38","27,17,28","29,50,00"
 0055-00,POLICE,,,,
 101,Police supplied to Other Governments,,,,
-AA,Contribution towards Railway,Police [2202],,,,
+AA,"Contribution towards Railway,Police [2202]",,,,
 223,Contribution and Donation,"24,96,11","42,91,80","41,02,65","45,12,92",0055 00 101 AA 22300
 40,Other Institutions,"24,96,11","42,91,80","41,02,65","45,12,92",0055 00 101 AA 22340
 AA,Total AA,"24,96,11","42,91,80","41,02,65","45,12,92"

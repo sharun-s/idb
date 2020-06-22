@@ -83,7 +83,57 @@ def genTree(i, overshoot, root=None,subgroup=False):
 			break;
 		else:
 			i=i+1
-			print(i)
+			#print(i)
+	return i,parent_tree
+
+def genTree_codestrip(i, overshoot, root=None,subgroup=False):
+	parent_tree={}
+	while True:
+		try:
+			head=df.iloc[i]['head'].split('-')[0]
+			desc=df.iloc[i]['desc'] if not p.isnull(df.iloc[i]['desc']) else head+' MISSING Desc' 
+		except AttributeError as e:
+			print(i,df.iloc[i])
+			raise e
+		#print('p ',i, head,root,subgroup, df.iloc[i]['desc'])
+		data=df.iloc[i][['2018', '2019Est', '2019Rev', '2020Est']]
+		dpcode=df.iloc[i]['dpcode']
+		#node is a header
+		#if data.isnull().all(): < this fails if single empty space exists
+		if data.apply(lambda x:True if p.isnull(x) or x==' ' else False).all():
+			#this is parent[head][head]			
+			parent_tree[desc]={'code':head}
+			end=findend(head, i)
+			i,t=genTree_codestrip(i+1, end,head)#parent_tree[head]
+			parent_tree[desc].update(t)
+		# group detected
+		elif not p.isna(dpcode) and dpcode.endswith('00'):
+			if subgroup: # this indicates end of prev subgroup
+				#dprint('new sub found but prev subgrp needs to be added')
+				return i-1,parent_tree
+			#dprint('grouping',head)
+			parent_tree[desc]={'code':head}
+			parent_tree[desc].update(data.to_dict())
+			i,t=genTree_codestrip(i+1,overshoot,head,subgroup=True)
+			parent_tree[desc].update(t)
+		# end of group total
+		elif p.isna(dpcode) and desc.startswith('Total'):
+			if subgroup:
+				#dprint('total found so prev sub needs to be added')
+				return i-1,parent_tree
+			#parent_tree[head]={'desc':desc}
+			parent_tree[desc]=data.to_dict()
+		else:
+			#node is child
+			#dprint('adding '+head)
+			parent_tree[desc]={'code':head}
+			parent_tree[desc].update(data.to_dict())
+		#pprint(dict_parent)
+		if endtree(i,root,overshoot):
+			break;
+		else:
+			i=i+1
+			#print(i)
 	return i,parent_tree
 
 def dp2node(head,desc,data,dpcode):
@@ -131,19 +181,25 @@ def dict_generator(indict, pre=None):
 # get all sub heads and values
 # iterate over json and check
 def walk(node,parent=None,level=0):
+	tree={}
 	for key in node.keys():
-		print(level*'\t',key)
+		#print(level*'\t',key)
 		if isinstance(node[key],dict):
-			walk(node[key],parent=key,level=level+1)
+			tree[key]={}
+			t=walk(node[key],parent=key,level=level+1)
+			tree[key].update(t)
 		else:
 			k=node[key]
+			tree[k]={}
 			idx=df[df['head'].str.startswith(key,na=False)].index
 			if not idx.empty and len(idx)==2:
-				i,t=genTree(idx[0],overshoot=idx[1])
+				i,t=genTree_codestrip(idx[0],overshoot=idx[1])
+				tree[k].update(t)
 				#print(i,)
-				dump(df.ix[idx[0]]['desc'].replace(' ','_').capitalize()+'.json',t)
+				#dump(df.ix[idx[0]]['head']+'_'+df.ix[idx[0]]['desc'].replace(' ','_').capitalize()+'.json',t)
 			else:
 				print('CHECK ',key)
+	return tree
 
 from pprint import pprint
 def dump(name,data):
@@ -156,5 +212,5 @@ def dump(name,data):
 #l=genTree(3687,3721)
 #dump('dairy.json',l[1])
 
-walk(h)
+t=walk(h)
 
