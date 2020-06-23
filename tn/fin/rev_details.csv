@@ -75,7 +75,7 @@ AB,Deduct Refunds [1002],,,,
 99,Others,"- 1,70",1,"- 1,28","- 1,46",0006 00 104 AB 27799
 AB,Total AB,"- 1,70",1,"- 1,28","- 1,46"
 104,Total 104,"173,82,15","198,14,78","162,51,41","185,26,61"
-105,Input Tax Credit cross utilisation of SGST and IGST AA State Goods and Services Tax,(SGST) [1002],,,,
+105,"Input Tax Credit cross utilisation of SGST and IGST AA State Goods and Services Tax,(SGST) [1002]",,,,
 214,Taxes,,1,"- 2,42","- 2,56",0006 00 105 AA 21400
 02,State Goods and Service Tax,,1,"- 2,42","- 2,56",0006 00 105 AA 21402
 AA,Total AA,,1,"- 2,42","- 2,56"
@@ -1501,8 +1501,8 @@ AC,Other Co-operative Institutions [1202],,,,
 02,Co-Operative Institutions,"4,32,95","2,66,12","2,66,12","2,66,12",0050 00 200 AC 22602
 AC,Total AC,"4,32,95","2,66,12","2,66,12","2,66,12"
 AE,Weavers Co-operative Institutions [1702],,,
-227,Non-Taxation Fees3,"1,00","2,00","2,00",0050 00 200 AE 22700
-09,Collections3,"1,00","2,00","2,00",0050 00 200 AE 22709
+227,Non-Taxation Fees,3,"1,00","2,00","2,00",0050 00 200 AE 22700
+09,Collections,3,"1,00","2,00","2,00",0050 00 200 AE 22709
 AE,Total AE,3,"1,00","2,00","2,00"
 AG,Housing Co-operative Institutions [2603],,,
 226,Dividends,"1,00","1,90","1,90","1,90",0050 00 200 AG 22600
@@ -5305,29 +5305,32 @@ AO,Total AO,"5,77",1,"2,10","2,10"
 1475,Total 1475,"69,11,76","87,50,21","66,85,32","73,13,47"
 1601,GRANTS-IN-AID FROM CENTRAL GOVERNMENT,,,,
 03,GRANTS FOR CENTRAL PLAN SCHEMES,,,,
-900,Deduct-Refunds AC Strengthening of Consumer Disputes Redressal Agencies [1301],,,,
+900,Deduct-Refunds,,,,
+AC,Strengthening of Consumer Disputes Redressal Agencies [1301],,,,
 177,Deduct - Refund of Unspent Grants,"- 1,26",,,,1601 03 900 AC 17700
 05,"Entertainment Tax to Local,Bodies","- 1,26",,,,1601 03 900 AC 17705
 AC,Total AC,"- 1,26",,,
 900,Total 900,"- 1,26",,,
 03,Total 03,"- 1,26",,,
 04,GRANTS FOR CENTRALLY SPONSORED PLAN SCHEMES,,,,
-900,Deduct - Refunds AC Scholarship to students from Non-Hindi Speaking State for Post Matric [4302],,,,
+900,Deduct - Refunds,,,,
+AC,Scholarship to students from Non-Hindi Speaking State for Post Matric [4302],,,,
 177,Deduct - Refund of Unspent Grants,"- 40,11",,,,1601 04 900 AC 17700
 05,"Entertainment Tax to Local, Bodies","- 40,11",,,,1601 04 900 AC 17705
-AC,Total AC,"- 40,11",,,
+AC,Total AC,"- 40,11",,,,
 AS,National Control Programme of Peste des Petits Ruminants (NCPPPR) [0602],,,,
 177,Deduct - Refund of Unspent Grants,"- 83,19",,,,1601 04 900 AS 17700
 05,"Entertainment Tax to Local, Bodies","- 83,19",,,,1601 04 900 AS 17705
 AS,Total AS,"- 83,19",,,
 900,Total 900,"- 1,23,30",,,
 04,Total 04,"- 1,23,30",,,
-06,CENTRALLY SPONSORED SCHEMES 101 Central Assistance / Share,,,,
+06,CENTRALLY SPONSORED SCHEMES,,,, 
+101,Central Assistance / Share,,,,
 AA,Mission for 100 Smart Cities [3402],,,,
 160,Urban Infrastructure (I.T.),"1,238,00,00","700,00,00","500,00,00","540,00,00",1601 06 101 AA 16000
 01,Indivisible - Capital Grants,"1,238,00,00","700,00,00","500,00,00","540,00,00",1601 06 101 AA 16001
 AA,Total AA,"1,238,00,00","700,00,00","500,00,00","540,00,00"
-AB,Infrastructure Maintenance -Maintenance of State / District Family Welfare Bureaus,[1905],,,,
+AB,"Infrastructure Maintenance -Maintenance of State / District Family Welfare Bureaus,[1905]",,,,
 136,Health - Family Welfare,"35,08,86","32,36,68","32,36,68","32,36,68",1601 06 101 AB 13600
 25,General Category - Current Grants,"35,08,86","32,36,68","32,36,68","32,36,68",1601 06 101 AB 13625
 AB,Total AB,"35,08,86","32,36,68","32,36,68","32,36,68"
@@ -5347,8 +5350,8 @@ AF,Infrastructure Maintenance - Revamping of Urban Family Welfare Centres [1905]
 136,Health - Family Welfare,"11,67,76","11,67,76","11,76,88","11,76,88",1601 06 101 AF 13600
 25,General Category - Current Grants,"11,67,76","11,67,76","11,76,88","11,76,88",1601 06 101 AF 13625
 AF,Total AF,"11,67,76","11,67,76","11,76,88","11,76,88"
-AG,National Programme for Mid Day,meals in Schools [4503],,,,
-124,Nutritious Meal Programme,"420,54,58","434,75,00","449,45,97","449,45,97",1601 06 101 AG 12400
+AG,"National Programme for Mid Day,meals in Schools [4503]",,,,
+124,Nutritious Meal Programme","420,54,58","434,75,00","449,45,97","449,45,97",1601 06 101 AG 12400
 05,Indivisible - Current Grants,"420,54,58","434,75,00","449,45,97","449,45,97",1601 06 101 AG 12405
 AG,Total AG,"420,54,58","434,75,00","449,45,97","449,45,97"
 AH,Sarva Shiksha Abhiyan - General Component [4308],,,,
@@ -5602,9 +5605,9 @@ CS,Implementation of Management Action Plan (MAP) in Biosphere Reserves [5401],,
 131,Environment,"1,68,83","1,92,21","4,06,87","7,26,98",1601 06 101 CS 13100
 05,Indivisible - Current Grants,"1,68,83","1,92,21","4,06,87","7,26,98",1601 06 101 CS 13105
 CS,Total CS,"1,68,83","1,92,21","4,06,87","7,26,98"
-CT,Construction of Hostels for OBC,Boys & Girls [0902],,,,
-156,Welfare of OBCs - Other Schemes,,1,"10,57,50",1,1601 06 101 CT 15600
-01,Indivisible - Capital Grants,,1,"10,57,50",1,1601 06 101 CT 15601
+CT,"Construction of Hostels for OBC,Boys & Girls [0902]",,,,
+156,Welfare of OBCs - Other Schemes,1,"10,57,50",1,1601 06 101 CT 15600
+01,Indivisible - Capital Grants,1,"10,57,50",1,1601 06 101 CT 15601
 CT,Total CT,,1,"10,57,50",1
 CU,Assistance to State Scheduled Castes Development Corporations (SCDCs) [0402],,,,
 154,Special Component Plan,,"2,00,00",1,1,1601 06 101 CU 15400
