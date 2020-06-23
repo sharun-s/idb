@@ -2,8 +2,9 @@ import pandas as p
 import json,csv,pprint
 import locale
 locale.setlocale(locale.LC_NUMERIC, '')
-
-f=open('meta_Heads.json')  
+rmbrkt=lambda x:x.replace('(','').replace(')','').replace('.','').replace('-',' ')
+stripbullets=lambda x:re.sub("^[A-Za-z][ \.]+","",x)
+f=open('meta_Heads_simple.json')  
 h=json.load(f)
 f.close()
 
@@ -26,8 +27,12 @@ def endtree(i,root,overshoot):
 def findend(h,i):
 	idx=df[df['head'].str.contains(h,na=False)].index.to_list()
 	j=idx.index(i)+1
-	while df.ix[idx[j]]['desc'] != 'Total '+h:
-		j=j+1
+	try:
+		while df.ix[idx[j]]['desc'] != 'Total '+h:
+			j=j+1
+	except IndexError as e:
+		print(h, i)
+		raise e
 	return idx[j]
 
 
