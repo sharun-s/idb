@@ -1,5 +1,5 @@
 import pandas as p
-import json,csv,pprint
+import json,csv,pprint,sys
 import locale
 locale.setlocale(locale.LC_NUMERIC, '')
 rmbrkt=lambda x:x.replace('(','').replace(')','').replace('.','').replace('-',' ')
@@ -8,7 +8,7 @@ f=open('meta_Heads_simple.json')
 h=json.load(f)
 f.close()
 
-df=p.read_csv('rev_details.csv')
+df=p.read_csv(sys.argv[1])#'rev_details.csv')
 len(df)
 #5971
 
@@ -102,7 +102,10 @@ def genTree_codestrip(i, overshoot, root=None,subgroup=False):
 			raise e
 		#print('p ',i, head,root,subgroup, df.iloc[i]['desc'])
 		data=df.iloc[i][['2018', '2019Est', '2019Rev', '2020Est']]
-		dpcode=df.iloc[i]['dpcode']
+		if 'dpcode' in df.columns:
+			dpcode=df.iloc[i]['dpcode']
+		else:
+			dpcode=None
 		#node is a header
 		#if data.isnull().all(): < this fails if single empty space exists
 		if data.apply(lambda x:True if p.isnull(x) or x==' ' else False).all():
@@ -195,11 +198,13 @@ def walk(node,parent=None,level=0):
 			tree[key].update(t)
 		else:
 			k=node[key]
-			tree[k]={}
+			#tree[k]={}
+			#tree={}
 			idx=df[df['head'].str.startswith(key,na=False)].index
 			if not idx.empty and len(idx)==2:
 				i,t=genTree_codestrip(idx[0],overshoot=idx[1])
-				tree[k].update(t)
+				#tree[k].update(t)
+				tree.update(t)
 				#print(i,)
 				#dump(df.ix[idx[0]]['head']+'_'+df.ix[idx[0]]['desc'].replace(' ','_').capitalize()+'.json',t)
 			else:
@@ -218,4 +223,4 @@ def dump(name,data):
 #dump('dairy.json',l[1])
 
 t=walk(h)
-
+dump(sys.argv[1].replace('csv','json'),t)
