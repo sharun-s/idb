@@ -75,7 +75,8 @@ AB,Deduct Refunds [1002],,,,
 99,Others,"- 1,70",1,"- 1,28","- 1,46",0006 00 104 AB 27799
 AB,Total AB,"- 1,70",1,"- 1,28","- 1,46"
 104,Total 104,"173,82,15","198,14,78","162,51,41","185,26,61"
-105,"Input Tax Credit cross utilisation of SGST and IGST AA State Goods and Services Tax,(SGST) [1002]",,,,
+105,"Input Tax Credit cross utilisation of SGST and IGST",,,, 
+AA,"State Goods and Services Tax,(SGST) [1002]",,,,
 214,Taxes,,1,"- 2,42","- 2,56",0006 00 105 AA 21400
 02,State Goods and Service Tax,,1,"- 2,42","- 2,56",0006 00 105 AA 21402
 AA,Total AA,,1,"- 2,42","- 2,56"
@@ -483,7 +484,8 @@ AB,Total AB,,,"- 430,71,00",
 01,Total 01,"1,443,22,03","1,310,74,00","767,95,00","1,339,60,00"
 0038,Total 0038,"1,443,22,03","1,310,74,00","767,95,00","1,339,60,00"
 0039-00,STATE EXCISE,,,,
-101,Country Spirits AB Licence Fees for the Sale of Distillery Spirits (Arrack Rental) [3701],,,,
+101,Country Spirits,,,, 
+AB,Licence Fees for the Sale of Distillery Spirits (Arrack Rental) [3701],,,,
 215,"Levy, Cess, Surcharge, etc. on Taxes","63,29","51,74","51,74","56,92",0039 00 101 AB 21500
 31,State Excise,"63,29","51,74","51,74","56,92",0039 00 101 AB 21531
 AB,Total AB,"63,29","51,74","51,74","56,92"
@@ -555,7 +557,7 @@ AI,Private Distilleries [3701],,,,
 216,Taxation Fees,"1,57,34","60,14","60,14","66,16",0039 00 106 AI 21600
 34,Licence Fee,"1,57,34","60,14","60,14","66,16",0039 00 106 AI 21634
 AI,Total AI,"1,57,34","60,14","60,14","66,16"
-AJ,Tamil Nadu Denatured Spirit and Methyl Alcohol and Varnish,Rules [3701],,,,
+AJ,"Tamil Nadu Denatured Spirit and Methyl Alcohol and Varnish,Rules [3701]",,,,
 216,Taxation Fees,"31,24","20,25","20,25","22,28",0039 00 106 AJ 21600
 34,Licence Fee,"31,24","20,25","20,25","22,28",0039 00 106 AJ 21634
 AJ,Total AJ,"31,24","20,25","20,25","22,28"
@@ -837,7 +839,8 @@ AH,Total AH,"57,05,19","86,45,51","61,61,61","64,94,53"
 800,Total 800,"148,87,64","175,97,09","160,78,66","163,26,53"
 0041,Total 0041,"5,572,80,32","6,510,70,00","6,018,62,75","6,897,72,91"
 0042-00,TAXES ON GOODS AND PASSENGERS,,,,
-106,Taxes on Entry of Goods into Local Areas AA Taxes on Entry of Goods into Local Areas [1002],,,,
+106,Taxes on Entry of Goods into Local Areas,,,,
+AA,Taxes on Entry of Goods into Local Areas [1002],,,,
 215,"Levy, Cess, Surcharge, etc. on Taxes","2,84,84",1,"13,78,26","14,47,17",0042 00 106 AA 21500
 66,Taxes on Goods and Passengers,"2,84,84",1,"13,78,26","14,47,17",0042 00 106 AA 21566
 AA,Total AA,"2,84,84",1,"13,78,26","14,47,17"
@@ -885,7 +888,8 @@ AB,Deduct - Refunds [1402],,,,
 99,Others,8,- 1,,,0043 00 102 AB 27799
 AB,Total AB,8,- 1,,
 102,Total 102,"11,54,71","13,12,49","12,13,17","12,49,57"
-103,Fees for the Electrical Inspection of Cinema Theatres AA Fees for Electrical Inspection of Cinema Theatres [1402],,,,
+103,Fees for the Electrical Inspection of Cinema Theatres,,,,
+AA,Fees for Electrical Inspection of Cinema Theatres [1402],,,,
 214,Taxes,"4,02",,,,0043 00 103 AA 21400
 71,Electricity Tax,"4,02",,,,0043 00 103 AA 21471
 216,Taxation Fees,,"6,83","6,78","7,14",0043 00 103 AA 21600
@@ -1408,7 +1412,8 @@ AG,Total AG,"- 7,98","- 7,56","- 7,56","- 7,56"
 04,Total 04,"6,875,20,96","4,463,11,34","5,140,22,65","5,395,93,90"
 0049,Total 0049,"6,875,20,96","4,463,11,34","5,140,22,65","5,395,93,90"
 0050-00,DIVIDENDS AND PROFITS,,,,,
-101,Dividends from Public Sector Undertakings AA Tamil Nadu Industrial Investment Corporation [2702],,,,
+101,Dividends from Public Sector Undertakings,,,,
+AA,Tamil Nadu Industrial Investment Corporation [2702],,,,
 226,Dividends,"3,04,68","10,00,00","3,03,52","10,00,00",0050 00 101 AA 22600
 01,Public Sector Undertakings/Boards/ Corporations,"3,04,68","10,00,00","3,03,52","10,00,00",0050 00 101 AA 22601
 AA,Total AA,"3,04,68","10,00,00","3,03,52","10,00,00"
@@ -1623,7 +1628,8 @@ AD,Miscellaneous [2203],,,,
 01,Miscellaneous Receipts,"14,18","1,00,00","22,95","22,95",0055 00 105 AD 29001
 AD,Total AD,"14,18","1,00,00","22,95","22,95"
 105,Total 105,"39,39,58","49,00,00","72,04,56","72,04,56"
-800,Other Receipts AA Recoveries of overpayments [2202],,,,
+800,Other Receipts,,,,
+AA,Recoveries of overpayments [2202],,,,
 242,Recoveries,"54,25",,,,0055 00 800 AA 24200
 99,Others,"54,25",,,,0055 00 800 AA 24299
 AA,Total AA,"54,25",,,
@@ -2171,7 +2177,8 @@ AM,Recovery of Provident Fund and Pensionery contributions in respect of Teachin
 02,Pension,11,"1,00",15,20,0071 01 101 AM 22302
 AM,Total AM,11,"1,00",15,20
 101,Total 101,"37,95,02","26,96,90","36,37,30","36,71,96"
-800,Other Receipts AA Recovery of Pensionary charges from other Governments [1602],,,,
+800,Other Receipts,,,,
+AA,Recovery of Pensionary charges from other Governments [1602],,,,
 242,Recoveries,"30,39","9,52","7,90","7,90",0071 01 800 AA 24200
 99,Others,"30,39","9,52","7,90","7,90",0071 01 800 AA 24299
 AA,Total AA,"30,39","9,52","7,90","7,90"
@@ -2351,7 +2358,8 @@ BY,Subscription from New Health Insurance 2014 for pensioners (including spouse)
 02,New Health Insurance Scheme-Pensioners,"212,91,07","280,31,98","278,83,05","306,71,36",0075 00 800 BY 22402
 BY,Total BY,"212,91,07","280,31,98","278,83,05","306,71,36"
 800,Total 800,"535,03,23","539,93,40","581,94,79","611,84,85"
-900,Deduct-Refunds AA Refund of Lapsed Revenue Deposits [1602],,,,
+900,Deduct-Refunds,,,,
+AA,Refund of Lapsed Revenue Deposits [1602],,,,
 241,Lapsed Deposits,"- 32,58",1,1,1,0075 00 900 AA 24100
 01,Lapsed Deposits,"- 32,58",1,1,1,0075 00 900 AA 24101
 AA,Total AA,"- 32,58",1,1,1
@@ -2980,7 +2988,8 @@ AA,Recoveries under Hire purchase [2606],,,,
 08,Hire Purchase,"1,61,30","1,60,00","1,60,00","1,60,00",0216 02 101 AA 24208
 AA,Total AA,"1,61,30","1,60,00","1,60,00","1,60,00"
 101,Total 101,"1,61,30","1,60,00","1,60,00","1,60,00"
-800,Other Receipts AB Tamil Nadu Shelter Fund [2606],,,,
+800,Other Receipts,,,,
+AB,Tamil Nadu Shelter Fund [2606],,,,
 243,Infrastructure & Amenities Charges,"77,09,12","70,00,00","75,00,00","80,00,00",0216 02 800 AB 24300
 03,Fund,"77,09,12","70,00,00","75,00,00","80,00,00",0216 02 800 AB 24303
 AB,Total AB,"77,09,12","70,00,00","75,00,00","80,00,00"
@@ -3102,7 +3111,8 @@ AA,Receipts from Advertising and Visual Publicity [2802],,,,
 03,Advertisement & Publicity,"4,81","12,00","12,00","12,00",0220 60 106 AA 22703
 AA,Total AA,"4,81","12,00","12,00","12,00"
 106,Total 106,"4,81","12,00","12,00","12,00"
-113,Receipts from other Publications AA Receipts from Other Publications [2802],,,,
+113,Receipts from other Publications,,,,
+AA,Receipts from Other Publications [2802],,,,
 224,Subscriptions,"76,86","72,00","72,00","72,00",0220 60 113 AA 22400
 99,Others,"76,86","72,00","72,00","72,00",0220 60 113 AA 22499
 AA,Total AA,"76,86","72,00","72,00","72,00"
@@ -3945,7 +3955,8 @@ AN,Total AN,"13,48,99",,,
 0406,Total 0406,"145,45,74","48,62,85","80,38,13","83,68,93"
 0407,PLANTATIONS,,,,,
 03,Rubber,,,,,
-800,"Other Receipts AB Sale proceeds from Slaughter tapping, filling and removal of Rubber trees. [5401]",,,,,
+800,"Other Receipts",,,,
+AB,"Sale proceeds from Slaughter tapping, filling and removal of Rubber trees. [5401]",,,,,
 237,Sale Proceeds,"60,50",,,,0407 03 800 AB 23700
 01,Agriculture,"60,50",,,,0407 03 800 AB 23701
 AB,Total AB,"60,50",,,
@@ -4856,7 +4867,8 @@ AK,Total AK,"5,88,47","1,77,72","2,59,75","2,72,74"
 0701,Total 0701,"44,69,90","98,82,51","72,06,37","98,92,01"
 0702,MINOR IRRIGATION,,,,
 02,Ground water,,,,,
-101,"Receipts from Tube Wells AB Pumping and boring of wells, private tube wells and,deepening of wells and tanks,[0506]",,,,
+101,"Receipts from Tube Wells",,,,
+AB,"Pumping and boring of wells, private tube wells and,deepening of wells and tanks,[0506]",,,,
 231,Receipt of Rent / Hire Charges/ Lease,"89,02","75,00","72,00","75,00",0702 02 101 AB 23100
 21,Hire Charges of Machinery & Equipments,"89,02","75,00","72,00","75,00",0702 02 101 AB 23121
 AB,Total AB,"89,02","75,00","72,00","75,00"
@@ -5789,7 +5801,8 @@ AC,"Grants for Sustainable Municipal Infrastructure Financing in Tamil Nadu Phas
 05,Indivisible - Current Grants,"1,85,64",1,1,1,1601 06 102 AC 13305
 AC,Total AC,"1,85,64",1,1,1
 102,Total 102,"1,85,64",1,1,1
-105,Training - Training of Craftsmen and Supervisors AA Vocational Training Improvement Project [4202],,,,
+105,Training - Training of Craftsmen and Supervisors,,,,
+AA,Vocational Training Improvement Project [4202],,,,
 152,Skill Development,"67,85",,,,1601 06 105 AA 15200
 05,Indivisible - Current Grants,"67,85",,,,1601 06 105 AA 15205
 AA,Total AA,"67,85",,,
@@ -5798,7 +5811,8 @@ AB,Upgradation of Government ITIs into model ITIs [3203],,,,
 05,Indivisible - Current Grants,"58,40",1,1,1,1601 06 105 AB 15205
 AB,Total AB,"58,40",1,1,1
 105,Total 105,"1,26,25",1,1,1
-107,Village and Small Industries - Handloom Industries AA National Handloom Development Programme [1702],,,,
+107,Village and Small Industries - Handloom Industries,,,,
+AA,National Handloom Development Programme [1702],,,,
 135,Handloom Development,,1,,,1601 06 107 AA 13500
 05,Indivisible - Current Grants,,1,,,1601 06 107 AA 13505
 AA,Total AA,,1,,
@@ -5839,7 +5853,8 @@ AA,Post Devolution - Revenue Deficit Grant [1601],,,,
 01,Indivisible - Capital Grants,,,,"4,025,00,00",1601 07 101 AA 19901
 AA,Total AA,,,,"4,025,00,00"
 101,Total 101,,,,"4,025,00,00"
-102,Grants for Rural Local Bodies BG General Basic Grants for Panchayat Raj Institutions and Rural Local Bodies as recommended by 14th Finance Commission [1601],,,,
+102,Grants for Rural Local Bodies,,,,
+BG,General Basic Grants for Panchayat Raj Institutions and Rural Local Bodies as recommended by 14th Finance Commission [1601],,,,
 109,Finance Commission Grants,"1,634,99,00","2,369,86,00","2,061,87,00",,1601 07 102 BG 10900
 01,Finance Commission Grants for Panchayati Raj Institutions-Rural,"1,634,99,00","2,369,86,00","2,061,87,00",,1601 07 102 BG 10901
 BG,Total BG,"1,634,99,00","2,369,86,00","2,061,87,00",
@@ -5944,7 +5959,8 @@ AB,Compensation to States for revenue loss due to phasing out of Central Sales T
 02,Central Sales Tax (CST),,1,,,1601 08 118 AB 11102
 AB,Total AB,,1,,
 118,Total 118,,1,,
-121,Grants under proviso to Article 275 (1) of the Constitution AH Scheme under Tribal Sub-Plan [4202],,,,
+121,Grants under proviso to Article 275 (1) of the Constitution,,,,
+AH,Scheme under Tribal Sub-Plan [4202],,,,
 158,Tribal Development,"7,73,57","8,00,00","41,16,78","8,00,00",1601 08 121 AH 15800
 65,Scheduled Tribes - Current Grants,"7,73,57","8,00,00","41,16,78","8,00,00",1601 08 121 AH 15865
 AH,Total AH,"7,73,57","8,00,00","41,16,78","8,00,00"
@@ -5959,7 +5975,8 @@ AJ,Other Schemes - General Components (Anaemia) [1905],,,,
 01,Indivisible - Capital Grants,"38,06",,,,1601 08 130 AJ 13601
 AJ,Total AJ,"38,06",,,
 130,Total 130,"38,06",1,1,1
-156,Crop Husbandry - Agricultural Economics and Statistics AB Integrated Scheme of Agricultural Census and Statistics [3602],,,,
+156,Crop Husbandry - Agricultural Economics and Statistics,,,,
+AB,Integrated Scheme of Agricultural Census and Statistics [3602],,,,
 113,Agriculture,"3,77,19",1,"3,45,27","3,38,28",1601 08 156 AB 11300
 05,Indivisible - Current Grants,"3,77,19",1,"3,45,27","3,38,28",1601 08 156 AB 11305
 AB,Total AB,"3,77,19",1,"3,45,27","3,38,28"
