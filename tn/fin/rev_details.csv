@@ -1129,7 +1129,7 @@ EG,"Interest charges, Commitment charges and other charges in connection with JI
 225,Interest,,,,1,0049 04 190 EG 22500
 11,Public Sector Undertakings/Boards/ Corporations,,,,1,0049 04 190 EG 22511
 EG,Total EG,,,,1
-EJ,Interest on advance payments made by Government to,ELCOT [3101],,,,
+EJ,"Interest on advance payments made by Government to,ELCOT [3101]",,,,
 225,Interest,"7,54,50","9,50,00","17,61,07","18,49,12",0049 04 190 EJ 22500
 11,Public Sector Undertakings/Boards/ Corporations,"7,54,50","9,50,00","17,61,07","18,49,12",0049 04 190 EJ 22511
 EJ,Total EJ,"7,54,50","9,50,00","17,61,07","18,49,12"
@@ -1203,7 +1203,7 @@ AE,Loans under the control of Fisheries Department [0701],,,,
 225,Interest,"1,82,78","2,74,17","2,74,17","2,74,17",0049 04 800 AE 22500
 30,Loans controlled by Heads of Department,"1,82,78","2,74,17","2,74,17","2,74,17",0049 04 800 AE 22530
 AE,Total AE,"1,82,78","2,74,17","2,74,17","2,74,17"
-AF,Loans under the control of the Secretary to Government, Public Department [3801],,,,
+AF,"Loans under the control of the Secretary to Government, Public Department [3801]",,,,
 225,Interest,84,"1,26","1,26","1,26",0049 04 800 AF 22500
 30,Loans controlled by Heads of Department,84,"1,26","1,26","1,26",0049 04 800 AF 22530
 AF,Total AF,84,"1,26","1,26","1,26"
@@ -1217,7 +1217,7 @@ AI,Loans under the control of the Commissioner of Milk Production and Dairy Deve
 225,Interest,"3,50","5,25","91,37","91,37",0049 04 800 AI 22500
 13,Co-Operative Institutions,"3,50","5,25","91,37","91,37",0049 04 800 AI 22513
 AI,Total AI,"3,50","5,25","91,37","91,37"
-AJ,Loans under the control of the,Director of Animal Husbandry [0602],,,,
+AJ,Loans under the control of the Director of Animal Husbandry [0602],,,,
 225,Interest,74,"1,27","4,05","3,05",0049 04 800 AJ 22500
 30,Loans controlled by Heads of Department,74,"1,27","4,05","3,05",0049 04 800 AJ 22530
 AJ,Total AJ,74,"1,27","4,05","3,05"
@@ -1276,7 +1276,7 @@ BX,Interest Receipt on Ways and Means Advance sanctioned to Co-operative Spinnin
 225,Interest,,,,"12,00",0049 04 800 BX 22500
 13,Co-Operative Institutions,,,,"12,00",0049 04 800 BX 22513
 BX,Total BX,,,,"12,00"
-BZ,Interest - Receipt from Tourism,Department [2902],,,,
+BZ,"Interest - Receipt from Tourism Department [2902]",,,,
 225,Interest,"1,91,69","1,60,00","1,60,00","1,60,00",0049 04 800 BZ 22500
 30,Loans controlled by Heads of Department,"1,91,69","1,60,00","1,60,00","1,60,00",0049 04 800 BZ 22530
 BZ,Total BZ,"1,91,69","1,60,00","1,60,00","1,60,00"
@@ -1313,7 +1313,7 @@ CO,Interest Receipts from the Tamil Nadu Urban Development Fund on the units hel
 225,Interest,"12,65,91","12,14,76","12,14,76","12,14,76",0049 04 800 CO 22500
 11,Public Sector Undertakings/Boards/ Corporations,"12,65,91","12,14,76","12,14,76","12,14,76",0049 04 800 CO 22511
 CO,Total CO,"12,65,91","12,14,76","12,14,76","12,14,76"
-CS,Interest Receipts from the loans,controlled by the Director of Public Libraries [4305],,,,
+CS,Interest Receipts from the loans controlled by the Director of Public Libraries [4305],,,,
 225,Interest,31,"6,00,00","5,20,24","4,75,00",0049 04 800 CS 22500
 30,Loans controlled by Heads of Department,31,"6,00,00","5,20,24","4,75,00",0049 04 800 CS 22530
 CS,Total CS,31,"6,00,00","5,20,24","4,75,00"
@@ -1345,7 +1345,7 @@ DE,Miscellaneous receipts from Commissionerate of Economics and Statistics [3602
 225,Interest,"55,22",1,"4,00","4,00",0049 04 800 DE 22500
 62,Unspent Balance,"55,22",1,"4,00","4,00",0049 04 800 DE 22562
 DE,Total DE,"55,22",1,"4,00","4,00"
-DI,Interest receipts from Tamil,Nadu Government Pensioners Health Fund [5000],,,,
+DI,Interest receipts from Tamil Nadu Government Pensioners Health Fund [5000],,,,
 225,Interest,"4,70","2,56","3,21","3,37",0049 04 800 DI 22500
 03,Deposits,"4,70","2,56","3,21","3,37",0049 04 800 DI 22503
 DI,Total DI,"4,70","2,56","3,21","3,37"
@@ -1394,7 +1394,7 @@ EY,Interest Receipts from Commissionerate of Land Reforms [4103],,,,
 225,Interest,"13,01","11,76","13,77","14,46",0049 04 800 EY 22500
 99,Others,"13,01","11,76","13,77","14,46",0049 04 800 EY 22599
 EY,Total EY,"13,01","11,76","13,77","14,46"
-FJ,Interest on Investment with New,Group Superannuation Scheme of Life Insurance Corporation of India [5001],,,,
+FJ,Interest on Investment with New Group Superannuation Scheme of Life Insurance Corporation of India [5001],,,,
 225,Interest,,,"1,128,66,40","2,164,98,48",0049 04 800 FJ 22500
 01,Investments,,,"1,128,66,40","2,164,98,48",0049 04 800 FJ 22501
 FJ,Total FJ,,,"1,128,66,40","2,164,98,48"
@@ -1404,7 +1404,7 @@ AA,"Interest from Departmental Commercial undertakings - Deduct - Refunds [1602]
 277,Deduct Refunds,- 59,,,,0049 04 900 AA 27700
 99,Others,- 59,,,,0049 04 900 AA 27799
 AA,Total AA,- 59,,,
-AG,Other Receipts - Deduct - Refunds,[1602],,,,
+AG,Other Receipts - Deduct - Refunds [1602],,,,
 277,Deduct / Refunds,"- 7,98","- 7,56","- 7,56","- 7,56",0049 04 900 AG 27700
 99,Others,"- 7,98","- 7,56","- 7,56","- 7,56",0049 04 900 AG 27799
 AG,Total AG,"- 7,98","- 7,56","- 7,56","- 7,56"
@@ -3376,7 +3376,7 @@ AL,Total AL,,,"- 77,79",13
 60,Total 60,"103,69,98","86,72,09","90,92,04","97,55,13"
 0235,Total 0235,"103,69,98","86,72,09","92,88,94","97,55,14"
 0250-00,OTHER SOCIAL SERVICES,,,,
-102,Welfare of Scheduled Castes,Scheduled Tribes and Other Backward Classes",,,,
+102,"Welfare of Scheduled Castes,Scheduled Tribes and Other Backward Classes",,,,
 AA,Receipts relating to Backward Classes Department [0902],,,,
 237,Sale Proceeds,"58,77","54,25","99,85","99,85",0250 00 102 AA 23700
 19,Old Stores & Materials,"58,77","54,25","99,85","99,85",0250 00 102 AA 23719
