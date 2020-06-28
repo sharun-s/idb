@@ -953,15 +953,15 @@ AG,Total AG,"10,27","2,33","2,16","2,27"
 102,Betting Tax,,,,
 AA,"Totalizator, Guindy [1002]",,,,
 214,Taxes,34,1,1,1,0045 00 102 AA 21400
-81,Betting Tax,34,1,1,1,0045 00 102 AA 21481
+81,Betting Tax Sub,34,1,1,1,0045 00 102 AA 21481
 AA,Total AA,34,1,1,1
 AB,"Totalizator, Udhagamandalam [1002]",,,,
 214,Taxes,,1,1,1,0045 00 102 AB 21400
-81,Betting Tax,,1,1,1,0045 00 102 AB 21481
+81,Betting Tax Sub,,1,1,1,0045 00 102 AB 21481
 AB,Total AB,,1,1,1
 AC,"Book Makers, Guindy [1002]",,,,
 214,Taxes,,1,1,1,0045 00 102 AC 21400
-81,Betting Tax,,1,1,1,0045 00 102 AC 21481
+81,Betting Tax Sub,,1,1,1,0045 00 102 AC 21481
 AC,Total AC,,1,1,1
 102,Total 102,34,3,3,3
 105,Luxury Tax,,,,
@@ -1734,7 +1734,7 @@ AB,Total AB,7,10,10,10
 AD,Miscellaneous Receipts [3001],,,,
 237,Sale Proceeds,"3,28,71","3,60,00","3,60,00","3,60,00",0058 00 200 AD 23700
 AD,Total AD,"3,28,71","3,60,00","3,60,00","3,60,00"
-AE,Sale proceeds of Patta Pass Books,[3001],,,,
+AE,"Sale proceeds of Patta Pass Books,[3001]",,,,
 237,Sale Proceeds,,,30,30,0058 00 200 AE 23700
 01,Agriculture,,,30,30,0058 00 200 AE 23701
 239,Stationery & Printing,8,30,30,30,0058 00 200 AE 23900
@@ -3165,7 +3165,7 @@ AK,"Fines under Compounding Offences under Tamil Nadu Shops and Establishments A
 229,Fines & Penalties,"3,85","3,80","4,50","4,50",0230 00 101 AK 22900
 03,Labour,"3,85","3,80","4,50","4,50",0230 00 101 AK 22903
 AK,Total AK,"3,85","3,80","4,50","4,50"
-AN,Fines under Compounding of offences under Motor Transport Workers (Tamil Nadu Amendment) Act," 2008. [3202]""",,,,
+AN,"Fines under Compounding of offences under Motor Transport Workers (Tamil Nadu Amendment) Act, 2008. [3202]",,,,
 229,Fines & Penalties,"3,57","3,10","7,15","5,00",0230 00 101 AN 22900
 03,Labour,"3,57","3,10","7,15","5,00",0230 00 101 AN 22903
 AN,Total AN,"3,57","3,10","7,15","5,00"
@@ -3216,13 +3216,13 @@ AT,Total AT,"1,36","1,81","1,81",
 104,Total 104,"128,99,81","133,19,81","133,91,07","146,67,26"
 106,Fees under contract labour,,,,
 AB,Registration Fees under Contract Labour Act - Building and other Construction Works (BOCW) - (Directorate of Industrial Safety and Health (DISH)) [3204],,,,
-227,Non-Taxation Fees,"10,94","15,00","44,02","44,02",0230 00 106 AB 22700
+227,"Non-Taxation Fees","10,94","15,00","44,02","44,02",0230 00 106 AB 22700
 22,Licence,"10,94","7,50","39,02","39,02",0230 00 106 AB 22722
 290,Miscellaneous Revenue Receipts,,"10,06","10,06","10,06",0230 00 106 AB 29000
 01,Miscellaneous Receipts,,"10,06","10,06","10,06",0230 00 106 AB 29001
 AB,Total AB,"10,94","25,06","54,08","54,08"
 AC,Licence Fees under the Inter-State Migrant Workmen Act - Building and other Construction Works (BOCW) - (Directorate of Industrial Safety and Health (DISH)) [3204],,,,
-227 Non-Taxation Fees,"3,94","15,00","42,50","42,50",0230 00 106 AC 22700
+227,Non-Taxation Fees,"3,94","15,00","42,50","42,50",0230 00 106 AC 22700
 22,Licence,"3,94","7,50","37,50","37,50",0230 00 106 AC 22722
 29,Registration,,"7,50","5,00","5,00",0230 00 106 AC 22729
 290,Miscellaneous Revenue Receipts,,"2,86","2,86","2,86",0230 00 106 AC 29000
@@ -5087,7 +5087,7 @@ AB,Rents and Royalties [2704],,,,
 AB,Total AB,"998,91,34","1,100,00,00","1,000,00,00","1,100,00,00"
 102,Total 102,"1,002,55,14","1,103,00,00","1,038,69,43","1,142,56,37"
 104,Mines Department,,,, 
-AB,Processing Fee for seeking clearance under Environmental Impact Assessment (EIA) notification 2006 under the control of Directorate of Geology,and Mining [2704],,,,
+AB,"Processing Fee for seeking clearance under Environmental Impact Assessment (EIA) notification 2006 under the control of Directorate of Geology,and Mining [2704]",,,,
 227,Non-Taxation Fees,"1,53,24","1,91,40","1,00,00","1,60,00",0853 00 104 AB 22700
 27,Processing,"1,53,24","1,91,40","1,00,00","1,60,00",0853 00 104 AB 22727
 AB,Total AB,"1,53,24","1,91,40","1,00,00","1,60,00"
@@ -5269,7 +5269,7 @@ AA,Total AA,"- 2,98",,,
 1456,Total 1456,"2,57,37","2,13,20","1,43,25","1,42,29"
 1475-00,OTHER GENERAL ECONOMIC SERVICES,,,,
 106,Fees for Stamping Weights and Measures,,,,
-AA,Fees for Stamping Weights and,Measures [3202],,,,
+AA,"Fees for Stamping Weights and,Measures [3202]",,,,
 227,Non-Taxation Fees,"32,86,61","50,00,00","38,42,88","42,27,17",1475 00 106 AA 22700
 32,Stamping Weights & Measures,"32,86,61","50,00,00","38,42,88","42,27,17",1475 00 106 AA 22732
 AA,Total AA,"32,86,61","50,00,00","38,42,88","42,27,17"
