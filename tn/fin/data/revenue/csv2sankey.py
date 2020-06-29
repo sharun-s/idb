@@ -45,14 +45,21 @@ try:
 	results=df.sort_values(by=1,ascending=True)
 
 	#squarify.plot(ax=ax, sizes=results.values, label=results.index, alpha=0.8)
-	dia=Sankey(ax=ax,head_angle=180, scale=0.0000001,
+	#print(.001/df[1].sum())
+	dia=Sankey(ax=ax,head_angle=135, offset=0.9,
+		scale=.03/df[1].sum(), shoulder=0.,
+		radius=0.1,
+		#trunklength=1,
+		rotation=-90,
 		#pathlengths=[100]*results.values,
 	    flows=results[1].tolist() + [-1*df[1].sum()],
-		labels=[i[:10] for i in results.index]+[title.replace('"','').capitalize()[:10]], 
+		labels=[i for i in results.index]+['Total'], 
 		orientations=[1. if i > 0 else -1. for i in results.values]+[0.],
 		color="#ffc107").finish()
 	for i in range(0,len(dia[0].texts)):
 		dia[0].texts[i].set_color('#E6DB74')
+		#dia[0].texts[i].set_horizontalalignment('left')
+	plt.tight_layout()
 	fig.savefig('sk_'+sys.argv[1].replace('csv','png'),format='png',facecolor=fig.get_facecolor())
 	#plt.show()
 except Exception as e:
