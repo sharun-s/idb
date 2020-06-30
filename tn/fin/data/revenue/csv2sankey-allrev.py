@@ -35,7 +35,7 @@ def format_indian(t):
 
 from os import listdir
 allfiles=listdir('.')
-csv=[i for i in allfiles if i.endswith('csv') ][:int(sys.argv[1])]#and i.startswith('02')]
+csv=sorted([i for i in allfiles if i.endswith('csv') ])[:int(sys.argv[1])]#and i.startswith('02')]
 print(csv)
 fig = plt.figure(facecolor="#001f3f",figsize=(12,6))
 #fig.suptitle(title.replace('"','').capitalize(), color="#00efde", fontsize=12)
@@ -49,7 +49,7 @@ ax.spines['right'].set_color('white')
 ax.spines['left'].set_color('white')
 ax.get_xaxis().set_visible(False)
 ax.get_yaxis().set_visible(False)
-sk=Sankey(ax=ax,head_angle=270, scale=0.000000001, offset=0.2, shoulder=0.)
+sk=Sankey(ax=ax,head_angle=270, scale=0.000000001, offset=0.25, shoulder=0.)
 sink=[]
 sinklabel=[]
 try:
@@ -57,7 +57,7 @@ try:
 		df=p.read_csv(c,comment='#',header=None)
 
 		df[1]=df[1].apply(lambda x:str(x).replace('- ','-')).apply(lambda x:atof(x) if x!='nan' else 0)
-		
+		df=df[df[1]!=0.0]
 		df.set_index(0,inplace=True)
 		results=df.sort_values(by=1,ascending=True)
 		if all([True if r==0 else False for r in results[1]]):
@@ -70,7 +70,7 @@ try:
 		#pathlengths=[100]*results.values,
 	    flows=sink+[-1*sum(sink)],
 		labels=['']*len(sinklabel)+[format_indian(-1000*sum(sink))], 
-		orientations=[1.]*len(sink) + [0.],
+		orientations=[1.]*len(sink) + [-1.],
 		color="#027368")#,rotation=90)
 	cnt=0
 	for c in csv:
@@ -78,6 +78,7 @@ try:
 			title=f.readline().split(',')[1].strip()
 		df=p.read_csv(c,comment='#',header=None)
 		df[1]=df[1].apply(lambda x:str(x).replace('- ','-')).apply(lambda x:atof(x) if x!='nan' else 0)
+		df=df[df[1]!=0.0]# drop all empty rows
 		df.set_index(0,inplace=True)
 		results=df.sort_values(by=1,ascending=True)
 		if all([True if r==0 else False for r in results[1]]):
@@ -109,10 +110,9 @@ try:
 	# handle total formating
 	t=dia[0].texts[-1]
 	text = t.get_text()
-	#print('***',text)
 	pos=text.find('\n')
 	if pos > -1:
-		t.set_text(text[:pos].title())
+		t.set_text(text[:pos]+'\n TOTAL REVENUE')
 		t.set_color('#ffcc33')	
 	#hide all intermediate text
 	for i in dia[1:-1]:
@@ -131,7 +131,7 @@ try:
 		t.set_wrap(True)
 	#hide join total val
 	dia[-1].texts[-1].set_text('')	
-	plt.text(0.8, 0.1,'Adding '+title.replace('"','').title(), color='#E6DB74', fontsize=14, ha='center', va='center', transform=ax.transAxes)
+	plt.text(0.8, 0.1,title.replace('"','').title(), color='#E6DB74', fontsize=14, ha='center', va='center', transform=ax.transAxes, wrap=True)
 	fig.savefig('grow_'+sys.argv[1]+'.png',format='png',facecolor=fig.get_facecolor())
 except Exception as e:
 	print("error in ",c)

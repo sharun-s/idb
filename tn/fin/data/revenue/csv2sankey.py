@@ -10,6 +10,7 @@ try:
 	df=p.read_csv(sys.argv[1],comment='#',header=None)
 
 	df[1]=df[1].apply(lambda x:str(x).replace('- ','-')).apply(lambda x:atof(x) if x!='nan' else 0)
+	df=df[df[1]!=0.0]
 	#.apply(lambda x:atof(x) if not p.isna(x) else 0.)
 	#df[1].str.replace('- ','-').apply(atof)
 
