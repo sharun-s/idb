@@ -1,0 +1,63 @@
+1611_IntentionalHomicideVictimsPerLak.csv:Andhra Pradesh,2.23,2.31,2.17,1.92
+1611_IntentionalHomicideVictimsPerLak.csv:Karnataka,2.68,2.55,2.31,2.17
+1611_IntentionalHomicideVictimsPerLak.csv:Kerala,1,1.24,0.94,0.88
+1611_IntentionalHomicideVictimsPerLak.csv:Tamil Nadu,2.65,2.25,2.15,2.16
+1611_IntentionalHomicideVictimsPerLak.csv:Telangana,3.31,2.92,2.41,2.2
+1612_VictimsOfViolencePerLak.csv:Andhra Pradesh,59.65,59.18,116.44,108.17
+1612_VictimsOfViolencePerLak.csv:Karnataka,58.93,59.54,94.29,84.12
+1612_VictimsOfViolencePerLak.csv:Kerala,59.29,62.48,119.39,117.58
+1612_VictimsOfViolencePerLak.csv:Tamil Nadu,45.04,40.1,101.52,86.29
+1612_VictimsOfViolencePerLak.csv:Telangana,77.49,79.1,155.3,135.55
+1621_RescuedVictimsOfHumanTrafficking.csv:Andhra Pradesh,1.94,1.72,0.77,0.87
+1621_RescuedVictimsOfHumanTrafficking.csv:Karnataka,1.29,1.57,0.37,0.31
+1621_RescuedVictimsOfHumanTrafficking.csv:Kerala,0.23,1.77,0.65,0.45
+1621_RescuedVictimsOfHumanTrafficking.csv:Tamil Nadu,1.95,3.17,0.26,0.09
+1621_RescuedVictimsOfHumanTrafficking.csv:Telangana,2.42,0.97,1.04,1.37
+1622_CrimesAgainstChildren.csv:Andhra Pradesh,12.71,11.79,15.30,17.89
+1622_CrimesAgainstChildren.csv:Karnataka,20.22,22.74,30.07,34.61
+1622_CrimesAgainstChildren.csv:Kerala,25.52,30.82,38.14,47.75
+1622_CrimesAgainstChildren.csv:Tamil Nadu,12.96,14.14,17.47,25.13
+1622_CrimesAgainstChildren.csv:Telangana,24.15,26.04,32.05,36.11
+1631_CourtsPerLak.csv:Andhra Pradesh and Telangana,0.012,0.011,,0.011,,,0.011,
+1631_CourtsPerLak.csv:Karnataka,0.021,0.021,,0.021,,,0.020,
+1631_CourtsPerLak.csv:Kerala,0.014,0.015,,0.014,,,0.015,
+1631_CourtsPerLak.csv:Tamil Nadu,0.015,0.016,,0.016,,,0.017,
+1632_JudgesPerLak.csv:Andhra Pradesh and Telangana,0.010,0.010,,0.010,,,0.010,
+1632_JudgesPerLak.csv:Karnataka,0.015,0.015,,0.017,,,0.017,
+1632_JudgesPerLak.csv:Kerala,0.012,0.013,,0.012,,,0.013,
+1632_JudgesPerLak.csv:Tamil Nadu,0.014,0.013,,0.013,,,0.013,
+1633_UnsentencedDetainees.csv:Andhra Pradesh,62.1,63.9,67.1,60.1
+1633_UnsentencedDetainees.csv:Karnataka,69.1,70.8,70.1,72.5
+1633_UnsentencedDetainees.csv:Kerala,62.3,60.1,62.5,64.2
+1633_UnsentencedDetainees.csv:Tamil Nadu,55.6,54.7,56.9,67.5
+1633_UnsentencedDetainees.csv:Telangana,56.8,63.1,60.6,57.5
+1641_CasesUnderArmsAct.csv:Andhra Pradesh,128,41,42,54
+1641_CasesUnderArmsAct.csv:Karnataka,136,111,142,122
+1641_CasesUnderArmsAct.csv:Kerala,250,140,215,173
+1641_CasesUnderArmsAct.csv:Tamil Nadu,227,190,152,131
+1641_CasesUnderArmsAct.csv:Telangana,109,87,96,114
+1642_PropertyStolen.csv:Andhra Pradesh,121.1,113.2,127,112.3,55.2,46.5,56.3,49.8,45.6,41.1,44.3,44.4
+1642_PropertyStolen.csv:Karnataka,267.7,276.6,295.3,244.8,104,105,125.3,97.3,38.9,38.1,42.4,39.7
+1642_PropertyStolen.csv:Kerala,96.3,83.1,57.5,66.5,25.5,18.2,20.4,23.4,26.5,22,35.5,35.2
+1642_PropertyStolen.csv:Tamil Nadu,131.2,136.9,151.7,144.2,85.8,91.5,118,96.6,65.4,66.9,77.8,67
+1642_PropertyStolen.csv:Telangana,98.3,113.6,120.4,160.6,56.8,60.9,62.3,113.4,57.8,53.7,51.7,70.6
+1651_Corruption.csv:Andhra Pradesh,0.36,0.32,0.38,0.29
+1651_Corruption.csv:Karnataka,0.42,0.04,0.45,0.58
+1651_Corruption.csv:Kerala,1.06,1.24,0.41,0.41
+1651_Corruption.csv:Tamil Nadu,0.29,0.23,0.34,0.35
+1651_Corruption.csv:Telangana,0.53,0.24,0.15,0.38
+1661_ServicesProvidedOnline.csv:Andhra Pradesh,262,256,221,201
+1661_ServicesProvidedOnline.csv:Karnataka,93,82,82,74
+1661_ServicesProvidedOnline.csv:Kerala,192,180,146,125
+1661_ServicesProvidedOnline.csv:Tamil Nadu,115,109,113,146
+1661_ServicesProvidedOnline.csv:Telangana,228,243,242,220
+1691_Births.csv:Andhra Pradesh,98.4,95.7,96.5
+1691_Births.csv:Karnataka,94.9,100,100
+1691_Births.csv:Kerala,98.1,97.1,98.7
+1691_Births.csv:Tamil Nadu,100,100,91.2
+1691_Births.csv:Telangana,94.6,97.3,97.2
+1692_AadharCoverage.csv:Andhra Pradesh*,96.98,93.6,100.2,93.1
+1692_AadharCoverage.csv:Karnataka,84.74,93.5,96.7,94
+1692_AadharCoverage.csv:Kerala,96.47,101.7,106.6,103
+1692_AadharCoverage.csv:Tamil Nadu,82.71,94.1,97.2,95
+1692_AadharCoverage.csv:Telangana,102.39,104.4,105.1,104.9

@@ -1,0 +1,169 @@
+Goal,Target,Indicator,Desc,Source,Data Reference Period,Periodicity,Unit of Measurement,Latest Data Availability,url
+"16: Promote peaceful and inclusive societies for sustainable development, provide access 
+to justice for all and build effective, accountable and inclusive institutions at all levels.",16.1: Significantly reduce all forms of violence and related death rates everywhere.,"16.1.1: Number of victims of intentional homicide per 100,000 population.","a) Numerator: Number of victims reported under Murder (IPC Section 302 IPC) 
+b) Denominator: Mid-year population during reference year 
+c) multiplier: 1,00,000","Numerator: NCRB, MHA Denominator: ORGI, MHA",2015,Annual,"Rate (per 100,000 population)",2018,Link: http://ncrb.gov.in Publication: Crime in India
+"16: Promote peaceful and inclusive societies for sustainable development, provide access 
+to justice for all and build effective, accountable and inclusive institutions at all levels.",16.1: Significantly reduce all forms of violence and related death rates everywhere.,"16.1.2: Per 1,00,000 Population subjected to physical, psychological or sexual violence in 
+the previous 12 months","a) Numerator: Number of persons reported as victims of physical or psychological or 
+sexual violence during reference year 
+b) Denominator: Mid-year population during reference year 
+c) multiplier: 1,00,000","Numerator - NCRB, MHA 
+Denominator - ORGI, MHA",2015,Annual,"Rate (per 100,000 population)",2018,"Link: http://ncrb.gov.in 
+Publication: Crime in India"
+"16: Promote peaceful and inclusive societies for sustainable development, provide access 
+to justice for all and build effective, accountable and inclusive institutions at all levels.","16.2: End abuse, exploitation, trafficking and all forms of violence against and torture of 
+children.","16.2.1: Number of victims rescued from human trafficking per 100,000 population, by sex, 
+age and form of exploitation","a) Numerator: Number of persons registered as rescued from human trafficking during 
+reference year 
+b) Denominator: Mid-year population during reference year 
+c) multiplier: 100,000","Numerator - NCRB, MHA 
+Denominator - RGI, MHA",2015,Annual,"Rate (per 100,000 population)",2018,Link: http://ncrb.gov.in Publication: Crime in India
+"16: Promote peaceful and inclusive societies for sustainable development, provide access 
+to justice for all and build effective, accountable and inclusive institutions at all levels.","16.2: End abuse, exploitation, trafficking and all forms of violence against and torture of 
+children.",16.2.2: Proportion of Crime Committed against Children during the year (per lakh children),"a) Numerator: Number of victims under crimes against children during reference year 
+b) Denominator: Mid-year population of children during reference year 
+c) multiplier: 100,000","Numerator: NCRB, MHA Denominator: ORGI, MHA",2015,Annual,"Rate (per 100,000 children population)",2018,Link: http://ncrb.gov.in Publication: Crime in India
+"16: Promote peaceful and inclusive societies for sustainable development, provide access 
+to justice for all and build effective, accountable and inclusive institutions at all levels.","16.2: End abuse, exploitation, trafficking and all forms of violence against and torture of 
+children.","16.2.3: Number of Missing Children 
+(similar to Indicator 8.7.2)","a) Numerator: Number of children (under age 18) registered as missing during reference 
+year within the geographical area. 
+b) Denominator: Nil 
+c) multiplier: Nil","NCRB, MHA",2015,Annual,Number,2018,Link: http://ncrb.gov.in Publication: Crime in India
+"16: Promote peaceful and inclusive societies for sustainable development, provide access 
+to justice for all and build effective, accountable and inclusive institutions at all levels.","16.3:Promote the rule of law at the national and international levels and ensure equal 
+access to justice for all.",16.3.1: Number of courts per lakh population,"a
+This indicator is defined as total sanctioned strength of (i) judges in Supreme Court (ii) 
+judges in High Court (iii) Judicial Officers in District and Subordinate Courts per lakh mid-
+year population. 
+) Numerator: Total sanctioned strength of (i) judges in Supreme Court (ii) judges in High 
+Court (iii) Judicial Officers in District and Subordinate Courts. 
+b) Denominator: Mid-year projected population (in Lakhs) 
+c) multiplier: 1,00,000",Ministry of Law and Justice,2016,Annual,Rate per lakh,2019,NA
+"16: Promote peaceful and inclusive societies for sustainable development, provide access 
+to justice for all and build effective, accountable and inclusive institutions at all levels.","16.3:Promote the rule of law at the national and international levels and ensure equal 
+access to justice for all.",16.3.2: Number of Judges (all levels) per lakh population,"a
+This indicator is defined as total working strength of (i) judges in Supreme Court (ii) judges 
+in High Court (iii) Judicial Officers in District and Subordinate Courts per lakh mid-year 
+population. 
+) Numerator: Total working strength of (i) judges in Supreme Court (ii) judges in High Court 
+(iii) Judicial Officers in District and Subordinate Courts. 
+b) Denominator: Mid-year projected population (in Lakhs) 
+c) multiplier: 1,00,000",Ministry of Law and Justice,2016,Annual,Rate per lakh,2019,NA
+"16: Promote peaceful and inclusive societies for sustainable development, provide access 
+to justice for all and build effective, accountable and inclusive institutions at all levels.","16.3: Promote the rule of law at the national and international levels and ensure equal 
+access to justice for all",16.3.3: Unsentenced detainees as a proportion of overall prison population,"a
+ P
+ N
+The total number of persons held in detention who have not yet been sentenced i.e. under 
+trials, as a percentage of the total number of persons held in detention as on 31st Decem-
+ber of the reference year. 
+) Numerator: Total number of under trials as on 31st December of the reference year 
+b) Denominator: Total prison inmates as on 31st December of the reference year 
+c) multiplier: 100 
+risoner1:  Any person confined or committed to jail (other than police custody) as per the 
+order of a competent authority.
+Convicted criminal prisoner or Convicts: Any criminal prisoner under sentence of a Court or 
+Court-martial, and includes a person detained in prison under the provisions of Chapter VIII 
+of the 6 Code of Criminal Procedure, 1882 (10 of 1882) or under the 7 Prisoners Act, 1871 
+(5 of 1871).
+under trial Prisoner: Any person who has been committed to judicial custody and against 
+whom a criminal trial has been initiated by a competent authority (trial is in process and 
+not yet disposed off). 
+Detainees: Any person detained in prison on the orders of the competent authority under 
+the relevant preventive laws. 
+ote: Total prison inmates include convicts, under trials, detainees and other prison 
+inmates. The information is collected by NCRB using a standard proformae from all prisons 
+located in states and UTs through Prison Headquarters on annual basis.","NCRB, MHA",2015,Annual,Percentage,2018,Link: http://ncrb.gov.in Publication: Crime in India
+"16: Promote peaceful and inclusive societies for sustainable development, provide access 
+to justice for all and build effective, accountable and inclusive institutions at all levels.","16.4: By 2030, significantly reduce illicit financial and arms flows, strengthen the recovery 
+and return of stolen assets and combat all forms of organized crime",16.4.1: Number of cases under the Arms Act,"a) Numerator: Total number of cases registered under Arms Act, 1959 during reference 
+year within the geographical area. 
+b) Denominator: Nil 
+c) multiplier: Nil","NCRB, MHA",2015,Annual,Number,2018,Link: http://ncrb.gov.in Publication: Crime in India
+"16: Promote peaceful and inclusive societies for sustainable development, provide access 
+to justice for all and build effective, accountable and inclusive institutions at all levels.","16.4: By 2030, significantly reduce illicit financial and arms flows, strengthen the recovery 
+and return of stolen assets and combat all forms of organized crime",16.4.2: Value of Property Stolen & Recovered and Percentage Recovery,"a) Numerator: Sum of value (in INR Cr.) stolen property recovered during reference year 
+b) Denominator: Sum of value (in INR Cr.) of all property stolen during the reference calen-
+dar year 
+c) multiplier: 1,00,000","NCRB, MHA",2015,Annual,Percentage,2018,Link: http://ncrb.gov.in Publication: Crime in India
+"16: Promote peaceful and inclusive societies for sustainable development, provide access 
+to justice for all and build effective, accountable and inclusive institutions at all levels.",16.5: Substantially reduce corruption and bribery in all their forms.,"16.5.1: Cases reported under Prevention of Corruption Act and related section of IPC per 
+1,00,000 population","a) Numerator: Total number of cases registered under the Prevention of Corruption Act 
+and related sections of IPC. 
+b) Denominator: Mid-year projected population 
+c) multiplier: 1,00,000","NCRB, MHA",2015,Annual,Rate per lakh,2018,Link: http://ncrb.gov.in Publication: Crime in India
+"16: Promote peaceful and inclusive societies for sustainable development, provide access 
+to justice for all and build effective, accountable and inclusive institutions at all levels","16.6: Develop effective, accountable and transparent institutions at all levels",16.6.1: Number of Government services provided online to citizens.,"This indicator shows number of services provided online i.e. through e-transaction to citi-
+zens. The services include certificate, license or permit, land revenue, commercial tax etc. 
+An e-Transaction is a transaction delivering public service using ICT tools to improve 
+access, enhance transparency and reduce response time while also satisfying all of the 
+following four conditions: 
+a. Service is requested through electronic means (self-access or assisted access) including 
+mobile devices 
+b. Workflow/approval process is electronic 
+c. Database is electronic/digitised 
+d. Service delivery is electronic 
+In order to improve access, enhance transparency and reduce response time is termed as 
+an e-Transaction.",Ministry of Electronics & Information Technology,2015-16,Annual,Number,2018-19,http://cic.gov.in/reports/37
+"16: Promote peaceful and inclusive societies for sustainable development, provide access 
+to justice for all and build effective, accountable and inclusive institutions at all levels","16.6: Develop effective, accountable and transparent institutions at all levels",16.6.2: Percentage of RTI queries responded. (similar to Indicator 16.10.1),"This indicator denotes the percentage of cases under the Right to Information Act (RTI) 
+a) Numerator: Total RTI application cases disposed 
+b) Denominator: Total RTI requests for the disposal 
+c) multiplier: 100",Central Information Commission,2015-16,Annual,Percentage,2017-18,http://cic.gov.in/reports/37
+"16: Promote peaceful and inclusive societies for sustainable development, provide access 
+to justice for all and build effective, accountable and inclusive institutions at all levels","16.6: Develop effective, accountable and transparent institutions at all levels","16.6.3: Number of applications filed with institutions coming under Right To Information 
+Act","This indicator denotes the number of cases filed under the RTI Act 
+a) Numerator: Opening Balance of RTI Requests at the beginning of the reference year + 
+number of RTI requests received during the reference year 
+b) Denominator: Nil 
+c) multiplier: Nil",Central Information Commission,2015-16,Annual,Number,2018-19,http://cic.gov.in/reports/37
+"16: Promote peaceful and inclusive societies for sustainable development, provide access 
+to justice for all and build effective, accountable and inclusive institutions at all levels","16.7: Ensure responsive, inclusive, participatory and representative decision-making at all 
+levels","16.7.1: Proportion of seats held by women in national Parliament, State Legislation and 
+Local Self Government (similar to Indicators 5.5.1 and 10.2.2)","a) Numerator: Elected or nominated women representative in Lok Sabha/Rajya Sabha/
+Legislative Assembly/ PRI 
+b) Denominator: Total elected or Nominated representative in Lok Sabha/Rajya Sabha/
+Legislative Assembly/ PRI 
+c) multiplier: 100","1) Election Commission of India 
+2) Ministry of Panchayati Raj",2014-16,Annual,Percentage,2019,"http://eci.nic.in/eci_main1/current/Electoral_Statistics_Pocket_Book2017_18052017.
+pdf http://www.panchayat.gov.in/documents /10198/384335/Representation%20of%20
+Women%20in%20 PRIs.pdf"
+"16: Promote peaceful and inclusive societies for sustainable development, provide access 
+to justice for all and build effective, accountable and inclusive institutions at all levels","16.7: Ensure responsive, inclusive, participatory and representative decision-making at all 
+levels",16.7.2: Proportion of SC/ST persons in the elected bodies,"Proportion of seats held by persons belonging to SCs and STs in Lok Sabha 
+a) Numerator: Number of persons belonging to SCs and STs representative in Lok Sabha 
+b) Denominator: Total representatives in Lok Sabha 
+c) multiplier: 100",Election Commission of India,2014,Annual,In percentage,2014,"http://eci.nic.in/eci_main1/current/Electoral_Statistics_Pocket_Book2017_18052017.
+pdf http://www.panchayat.gov.in/documents /10198/384335/Representation%20of%20
+Women%20in%20 PRIs.pdf"
+"16: Promote peaceful and inclusive societies for sustainable development, provide access 
+to justice for all and build effective, accountable and inclusive institutions at all levels","16.9: By 2030, provide legal identity for all, including birth registration",16.9.1: Percentage of births registered.,"a
+The indicator refers to percentage of births registered with a civil authority out of total 
+birth occurred in a year. The indicator is defined as ‘Level of Registration’ (LOR) of birth 
+for some registration area describing the extent to which registration of such event is 
+complete in that area. LOR is calculated as the number of registered births, deaths to the 
+total number of such events available for registration in that area during the year. For want 
+of actual number of births, deaths available for registration, these 
+are estimated using the Sample Registration System (SRS) birth and the estimated mid-
+year population. The indicator is defined as Level of Registration of Births (LOR) i.e. as the 
+percentage of registered births to the births estimated through SRS. 
+) Numerator: Number of birth registered with civil authority during year. 
+b) Denominator: Number of estimated birth for the year. 
+c) multiplier: 100 
+Where, number of estimated birth events for a year = Mid-year population × Birth Rate 
+from Sample Registration System","Office of Registrar General of India, Ministry of Home Affairs",2015,Annual,Percentage,2017,http://crsorgi.gov.in/web/uploads/download/crs_report%202015_23062017.pdf
+"16: Promote peaceful and inclusive societies for sustainable development, provide access 
+to justice for all and build effective, accountable and inclusive institutions at all levels","16.9: By 2030, provide legal identity for all, including birth registration",16.9.2: Proportion of population covered under Aadhaar.,"The indicator measures numbers of proof of Identities (PoI) issued to the residents of the 
+country. 
+a) Numerator: Number of Aadhaar issued as on 31st March of reference year. 
+b) Denominator: Mid-year projected population 
+c) multiplier: 100",Unique Identification Authority of India,2016,Annual,Percentage,2019,http://crsorgi.gov.in/web/uploads/download/crs_report%202015_23062017.pdf
+"16: Promote peaceful and inclusive societies for sustainable development, provide access 
+to justice for all and build effective, accountable and inclusive institutions at all levels","16.10: Ensure public access to information and protect fundamental freedoms, in accord-
+ance with national legislation and international agreements","16.10.1: Percentage of RTI queries responded. 
+(similar to Indicator 16.6.2)","This indicator denotes the percentage of cases under the Right to Information Act (RTI) 
+a) Numerator: Total RTI application cases disposed 
+b) Denominator: Total RTI requests for the disposal 
+c) multiplier: 100",Central Information Commission,2015-16,Annual,Percentage,2017-18,http://cic.gov.in/reports/37

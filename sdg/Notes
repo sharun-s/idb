@@ -1,22 +1,62 @@
-1. # Gets 25 pages? of tables at a time
+Generate 4 things from the main sdg pdf
+* meta data about each metric - stored sdg1_meta.csv sdg2_meta.csv etc
+* state level data - see sdg1 directory south_summary.csv 
+* national totals - stored as national_sdg1.csv etc
+* graphs for each metric auto generated from metadata + state/group of states
+
+1. Gets tables from pdf save as csv. 
+
+In example start extraction from page 320
+
 python3 getFromtabl.py data/SDGProgressReport2020.pdf 320 1
 
-2. egrep "Tamil|Karna|Keral|Andhra|Telan" *.csv >south_summary.csv
+Will ask user to specify simpler file name 
 
-3. right now sdg1 dir has a txt2csv that generates graph [shld really be csv2g?] based on southsummary.csv and sdg1_meta.csv
-python3 txt2csv.py
+eg: For Indicator 16.9.2 first few lines of table are printed like below. 
+                   0     1     2     3
+1           State/ut  2015  2016  2017
+2     Andhra Pradesh  98.4  95.7  96.5
+3  Arunachal Pradesh   100   100   100
+Proportion of population covered under Aadhaar
+(in percentage)
+Desc: Indicator1692 Suffix:AadharCoverage
 
-4. Used to get meta info for each graph
+At suffix prompt here AadharCoverage is specified and file created is
+Indicator1692_AadharCoverage.csv. Then next table is extracted.
+
+Ctrl+C to stop processing. 
+
+2. Get only reqd data 
+# rename all files removing unnecessary Indicator string
+rename -e 's/Indicator//' *.csv
+#dump required states
+egrep "Tamil|Karna|Keral|Andhra|Telan" *.csv >south_summary.csv
+
+3. Get Meta info - used in add details to graph
 python3 getMetatabls.py data/SDGProgressReport2020.pdf '112-121' 1 sdg1_meta.csv
 python3 getMetatabls.py data/SDGProgressReport2020.pdf '122-130' 1 sdg2_meta.csv
 
-5. To get National stats csv
+4. right now sdg1 dir has a dummy pseudo python script based on southsummary.csv and sdg1_meta.csv that autogenerates graph
+
+python3 csv2g.py 
+
+5. national.csv has national totals
+this is just documenting how it was produced
 t=camelot.read_pdf(r'data/SDGProgressReport2020.pdf',pages='72-109')
 df=p.concat([i.df for i in t])
 df.to_csv('national.csv',index=False)
 
+To generate a specific metric -
 sed -n -e '/^Goal 3/,/^Goal 4/{ /^Goal 4/d; p;}' national.csv > national_sdg3.csv
 
-6. parse_national.py - takes a csv file camelot output and converts it into json
+(hack - this will fail if goal has commas in which case the whole line is quoted so do
+sed -n -e '/^"Goal 16/,/^"Goal 17/{ /^"Goal 17/d; p;}' national.csv > national_sdg16.csv
+
+then open file remove quotes and delete commas in title 
+until main script is done which is never.
+)
+
+6. parse_national.py - takes the csv file abv and convert into json (to be used in graph gen where national totals need to be depicted)
+script will fail if lines are split, commas missing, extra commas etc etc. Manually fix and rerun
 
 ***NOTE creating hierarchical json was simpler with parse_national than doing it through refine or pandas
