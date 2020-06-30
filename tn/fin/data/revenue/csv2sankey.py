@@ -47,10 +47,10 @@ try:
 	#squarify.plot(ax=ax, sizes=results.values, label=results.index, alpha=0.8)
 	#print(.001/df[1].sum())
 	dia=Sankey(ax=ax,head_angle=135, offset=0.9,
-		scale=.03/df[1].sum(), shoulder=0.,
+		scale=.03/df[1].sum(), shoulder=0.,gap=.6,
 		radius=0.1,
 		#trunklength=1,
-		rotation=-90,
+		rotation=90,
 		#pathlengths=[100]*results.values,
 	    flows=results[1].tolist() + [-1*df[1].sum()],
 		labels=[i for i in results.index]+['Total'], 
