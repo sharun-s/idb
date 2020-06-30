@@ -20,7 +20,7 @@ for i in range(int(pg),int(pg)+25):
 	header=tables[0].df[0][0].split(':')
 	outfile=header[0].replace('.','').replace(' ','')
 	print(header[1]) 
-
+	# Ask user to specify simple file name
 	suffix=input('Desc: '+outfile+" Suffix:")
 	#not removing last row cause it has source
 	result=tables[0].df.iloc[startrow:].copy(deep=True)

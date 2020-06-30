@@ -7,6 +7,7 @@ from matplotlib.sankey import Sankey
 locale.setlocale(locale.LC_NUMERIC, '')
 from decimal import Decimal
 import textwrap as tw
+from os import listdir
 
 def fexp(number):
     (sign, digits, exponent) = Decimal(number).as_tuple()
@@ -33,10 +34,10 @@ def format_indian(t):
 	m=fman(t)
 	return "{:.2f}".format(m*dic[ex][1])+" "+dic[ex][0]
 
-from os import listdir
+flat=False # false produces a forest true produces fallen trees
 allfiles=listdir('.')
 csv=sorted([i for i in allfiles if i.endswith('csv') ])[:int(sys.argv[1])]#and i.startswith('02')]
-print(csv)
+#print(csv)
 fig = plt.figure(facecolor="#001f3f",figsize=(12,6))
 #fig.suptitle(title.replace('"','').capitalize(), color="#00efde", fontsize=12)
 title=''
@@ -49,7 +50,7 @@ ax.spines['right'].set_color('white')
 ax.spines['left'].set_color('white')
 ax.get_xaxis().set_visible(False)
 ax.get_yaxis().set_visible(False)
-sk=Sankey(ax=ax,head_angle=270, scale=0.000000001, offset=0.25, shoulder=0.)
+sk=Sankey(ax=ax,head_angle=270, scale=0.000000001, offset=0.25, shoulder=0., margin=2.)#,gap=.45)
 sink=[]
 sinklabel=[]
 try:
@@ -93,12 +94,21 @@ try:
 		for i in results.index:
 			vals.append(i+' '+format_indian(1000*v[vcnt]))
 			vcnt=vcnt+1
+		if flat==True:
+			orios=[1. if i > 0 else 1. for i in results.values]+[-1.]
+		else:
+			orios=[-1. if i > 0 else -1. for i in results.values]+[0.]
+		if cnt==len(csv)-1:
+			alpha=1
+		else:
+			alpha=.3
 		sk.add(
-			#trunklength=.9*cnt,
+			#trunklength=.9,
+			#pathlengths=.3,			
 		    flows=[-1*k for k in v] + [1*df[1].sum()],
 			labels=vals+[''],
-			orientations=[1. if i > 0 else 1. for i in results.values]+[-1.],
-			color="#ffc107", prior=0, connect=(cnt, len(results)))
+			orientations=orios,
+			color="#ffc107", alpha=alpha, prior=0, connect=(cnt, len(results)))
 		cnt=cnt+1
 		#fig.savefig('sk_'+sys.argv[1].replace('csv','png'),format='png',facecolor=fig.get_facecolor())
 		#plt.show()
@@ -125,9 +135,14 @@ try:
 		text=t.get_text()
 		pos=text.find('\n')
 		if pos > -1:
-			t.set_text(tw.fill(tw.dedent(text[:pos]),12).title())
+			if not flat:
+				t.set_text(tw.fill(tw.dedent(text[:pos]),70).title())
+				t.set_ha('left')
+				t.set_wrap('True')
+			else:
+				t.set_text(tw.fill(tw.dedent(text[:pos]),10).title())
 		else:
-			t.set_text(tw.fill(tw.dedent(text),14).title())
+			t.set_text(tw.fill(tw.dedent(text),15).title())
 		t.set_wrap(True)
 	#hide join total val
 	dia[-1].texts[-1].set_text('')	
