@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-import sys,squarify,locale
+import sys,locale,re
 import pandas as p
 from itertools import cycle
 from locale import atof
@@ -35,6 +35,9 @@ def format_indian(t):
 	return "{:.2f}".format(m*dic[ex][1])+" "+dic[ex][0]
 
 flat=False # false produces a forest true produces fallen trees
+# When long labels have to be fit between branches either set this option to True or increase gap parameter of Sankey
+alternateLeaves=False
+
 allfiles=listdir('.')
 csv=sorted([i for i in allfiles if i.endswith('csv') ])[:int(sys.argv[1])]#and i.startswith('02')]
 #print(csv)
@@ -50,7 +53,7 @@ ax.spines['right'].set_color('white')
 ax.spines['left'].set_color('white')
 ax.get_xaxis().set_visible(False)
 ax.get_yaxis().set_visible(False)
-sk=Sankey(ax=ax,head_angle=270, scale=0.000000001, offset=0.25, shoulder=0., margin=2.)#,gap=.45)
+sk=Sankey(ax=ax,head_angle=270, scale=0.000000001, offset=0.25, shoulder=0., margin=2.,gap=.45)
 sink=[]
 sinklabel=[]
 try:
@@ -76,7 +79,9 @@ try:
 	cnt=0
 	for c in csv:
 		with open(c) as f:
-			title=f.readline().split(',')[1].strip()
+			line=f.readline()
+			title=line.split(',')[1].strip().replace('"','').title()
+			code=line.split(',')[0][1:].strip()
 		df=p.read_csv(c,comment='#',header=None)
 		df[1]=df[1].apply(lambda x:str(x).replace('- ','-')).apply(lambda x:atof(x) if x!='nan' else 0)
 		df=df[df[1]!=0.0]# drop all empty rows
@@ -85,8 +90,6 @@ try:
 		if all([True if r==0 else False for r in results[1]]):
 			print("skipping",c)
 			continue 
-		#print([-1*k for k in results[1].tolist()] + [1*df[1].sum()])
-		#print('connecting',cnt, len(results))
 		#vals being added to labels so actual vals coming from flow which get displayed but hard to edit can be hidden
 		vals=[]
 		v=results[1].tolist()
@@ -97,22 +100,21 @@ try:
 		if flat==True:
 			orios=[1. if i > 0 else 1. for i in results.values]+[-1.]
 		else:
-			orios=[-1. if i > 0 else -1. for i in results.values]+[0.]
+			if alternateLeaves:
+				c=cycle([-1.,1.])
+				orios=[next(c) if i > 0 else -1. for i in results.values]+[0.]
+			else:
+				orios=[-1. if i > 0 else -1. for i in results.values]+[0.]
 		if cnt==len(csv)-1:
 			alpha=1
 		else:
 			alpha=.3
 		sk.add(
-			#trunklength=.9,
-			#pathlengths=.3,			
 		    flows=[-1*k for k in v] + [1*df[1].sum()],
 			labels=vals+[''],
 			orientations=orios,
-			color="#ffc107", alpha=alpha, prior=0, connect=(cnt, len(results)))
+			color="#ddcc33", alpha=alpha, prior=0, connect=(cnt, len(results)))
 		cnt=cnt+1
-		#fig.savefig('sk_'+sys.argv[1].replace('csv','png'),format='png',facecolor=fig.get_facecolor())
-		#plt.show()
-
 	dia=sk.finish()
 	#print([i.tips for i in dia])
 	for i in dia[0].texts[:-1]:
@@ -129,15 +131,30 @@ try:
 		for t in i.texts:
 			t.set_text('')
 	#in the final dia
+	c=cycle(['left','right'])
 	for t in dia[-1].texts:
 		t.set_color('#ffcc33')
-		t.set_fontsize(8)
+		if alternateLeaves:
+			# alternateLeaves creates more space between label so fontsize can be larger
+			t.set_fontsize(10)
+		else:
+			t.set_fontsize(8)
 		text=t.get_text()
 		pos=text.find('\n')
 		if pos > -1:
 			if not flat:
-				t.set_text(tw.fill(tw.dedent(text[:pos]),70).title())
-				t.set_ha('left')
+				negative=re.search(r'\-\d+',text[:pos])
+				#print(text)
+				t.set_text(tw.fill(tw.dedent(text[:pos]),50).title())
+				if alternateLeaves:
+					if negative !=None:
+						print('negative',text)
+						t.set_ha('left')
+						#next(c)
+					else:
+						t.set_ha(next(c))
+				else:
+					t.set_ha('left')
 				t.set_wrap('True')
 			else:
 				t.set_text(tw.fill(tw.dedent(text[:pos]),10).title())
@@ -146,7 +163,7 @@ try:
 		t.set_wrap(True)
 	#hide join total val
 	dia[-1].texts[-1].set_text('')	
-	plt.text(0.8, 0.1,title.replace('"','').title(), color='#E6DB74', fontsize=14, ha='center', va='center', transform=ax.transAxes, wrap=True)
+	plt.text(0.8, 0.1,title+' ['+code+']', color='#E6DB74', fontsize=14, ha='center', va='center', transform=ax.transAxes, wrap=True)
 	fig.savefig('grow_'+sys.argv[1]+'.png',format='png',facecolor=fig.get_facecolor())
 except Exception as e:
 	print("error in ",c)
