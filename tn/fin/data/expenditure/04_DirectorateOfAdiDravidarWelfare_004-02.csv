@@ -1,0 +1,863 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2225,"Welfare Of Scheduled Caste, Scheduled Tribes, Other Backward Classes And Minorities",,,,,
+01,Welfare of Scheduled Castes,,,,,
+001,Direction and Administration,,,,,
+#State's Expenditure,,,,,,
+AC,Headquarters Staff - Adi-Dravidar Welfare Department,,,,,2225 01 001 AC 30000
+301,Salaries,"5,55,52","6,59,24","6,46,04","7,52,13",2225 01 001 AC 30100
+01,Pay,"4,77,29","5,62,00","5,62,00","6,65,12",2225 01 001 AC 30101
+02,Medical Allowance,"3,99","4,20","4,00","5,00",2225 01 001 AC 30102
+03,Medical Charges,42,"11,00","2,00","2,00",2225 01 001 AC 30103
+04,Other Allowances,"5,36","6,03","6,03","7,00",2225 01 001 AC 30104
+06,House Rent Allowance,"57,39","58,00","57,00","58,00",2225 01 001 AC 30106
+07,Travel Concession,"1,78","3,00","3,00","3,00",2225 01 001 AC 30107
+08,City Compensatory Allowance,"9,29","15,00","12,00","12,00",2225 01 001 AC 30108
+09,Honorarium,,1,1,1,2225 01 001 AC 30109
+302,Wages,,40,,,2225 01 001 AC 30200
+01,Wages,,40,,,2225 01 001 AC 30201
+303,Dearness Allowance,"48,95","73,06","89,92","1,62,95",2225 01 001 AC 30300
+01,Dearness Allowance,"48,95","73,06","89,92","1,62,95",2225 01 001 AC 30301
+304,Travel Expenses,"3,84","16,84","8,46","8,84",2225 01 001 AC 30400
+01,Tour Travelling Allowances,"3,32","16,00","8,00","8,00",2225 01 001 AC 30401
+02,Transfer Travelling Allowances,52,84,46,84,2225 01 001 AC 30402
+305,Office Expenses,"40,96","43,66","63,80","26,47",2225 01 001 AC 30500
+01,Telephone Charges,"6,54","9,00","9,00","9,00",2225 01 001 AC 30501
+02,Other Contingencies,"32,02","32,19","52,19","15,00",2225 01 001 AC 30502
+04,Service Postage & Postal Expenditure,"2,40","2,46","2,46","2,46",2225 01 001 AC 30504
+05,Furniture,,1,15,1,2225 01 001 AC 30505
+307,Publications,,1,1,1,2225 01 001 AC 30700
+01,Publications,,1,1,1,2225 01 001 AC 30701
+308,Advertising and Publicity,"11,75","17,06","17,72","17,39",2225 01 001 AC 30800
+01,Advertisement Charges,"9,48","15,00","15,00","15,00",2225 01 001 AC 30801
+02,Exhibition,"2,27","2,06","2,72","2,39",2225 01 001 AC 30802
+309,Grants-in-Aid,,3,1,1,2225 01 001 AC 30900
+01,Grants for Current Expenditure,,3,1,1,2225 01 001 AC 30901
+319,Machinery and Equipments,,1,1,1,2225 01 001 AC 31900
+01,Purchase,,1,1,1,2225 01 001 AC 31901
+321,Motor Vehicles,"2,00","1,01","1,01","1,01",2225 01 001 AC 32100
+01,Purchase,,1,1,1,2225 01 001 AC 32101
+02,Maintenance of Functional Vehicles,"2,00","1,00","1,00","1,00",2225 01 001 AC 32102
+324,Materials and Supplies,,1,1,1,2225 01 001 AC 32400
+01,Materials and Supplies,,1,1,1,2225 01 001 AC 32401
+333,Payments for Professional and Special Services,"1,15","1,25",1,1,2225 01 001 AC 33300
+01,Pleaders Fees,,6,1,1,2225 01 001 AC 33301
+04,Contract Payment,"1,15","1,19",,,2225 01 001 AC 33304
+345,"Petroleum, Oil and Lubricant","5,07","14,00","7,00","9,00",2225 01 001 AC 34500
+01,"Petroleum, Oil and Lubricant","5,07","14,00","7,00","9,00",2225 01 001 AC 34501
+349,Festival Advances,13,,,,2225 01 001 AC 34900
+01,Festival Advances-Debit,"3,75","7,45","11,00","11,00",2225 01 001 AC 34901
+02,Festival Advances-Credit,"- 3,62","- 7,45","- 11,00","- 11,00",2225 01 001 AC 34902
+351,Compensation Charged,,1,1,1,2225 01 001 AC 35100
+351,Compensation Voted,,1,1,1,2225 01 001 AC 35100
+02,Other Compensations  - Voted,,1,1,1,2225 01 001 AC 35102
+51,Claims under no fault liability -  principal charges Charged,,1,1,1,2225 01 001 AC 35151
+359,Prizes and Awards,22,35,35,35,2225 01 001 AC 35900
+01,Prizes and Awards,22,35,35,35,2225 01 001 AC 35901
+360,T.A./D.A.to Non-Official Members,,"1,00",1,1,2225 01 001 AC 36000
+01,T.A./D.A.to Non-Official Members,,"1,00",1,1,2225 01 001 AC 36001
+371,Printing Charges,7,7,7,7,2225 01 001 AC 37100
+01,Printing Charges,7,7,7,7,2225 01 001 AC 37101
+376,Computer and Accessories,"10,86","10,01","51,71","7,01",2225 01 001 AC 37600
+01,Purchase,,1,"41,71",1,2225 01 001 AC 37601
+02,Maintenance,"6,86","6,00","6,00","3,00",2225 01 001 AC 37602
+03,Stationery,"4,00","4,00","4,00","4,00",2225 01 001 AC 37603
+AC,Total AC Charged,,1,1,1,
+AC,Total AC Voted,"6,80,52","8,38,02","8,86,15","9,85,29",
+#State's Expenditure Total Charged,,1,1,1,
+#State's Expenditure Total Voted,"6,80,52","8,38,02","8,86,15","9,85,29",
+001,Total 001 Charged,,1,1,1,
+001,Total 001 Voted,"6,80,52","8,38,02","8,86,15","9,85,29",
+190,Assistance to Public Undertakings State's Expenditure,,,,,
+JB,Compensation to Tamil Nadu Adi-Dravidar Housing and Development Corporation for waiver of margin money and interest,,,,,2225 01 190 JB 30000
+309,Grants-in-Aid,"27,94,00",1,1,1,2225 01 190 JB 30900
+09,Others,"27,94,00",1,1,1,2225 01 190 JB 30909
+JB,Total JB,"27,94,00",1,1,1,
+#State's Expenditure Total,"27,94,00",1,1,1,,
+190,Total 190,"27,94,00",1,1,1,
+277,Education,,,,,
+#State's Expenditure,,,,,,
+AA,School Education,,,,,2225 01 277 AA 30000
+301,Salaries,"3,42,40,55","3,26,95,92","3,32,00,59","3,92,93,39",2225 01 277 AA 30100
+01,Pay,"3,20,00,30","3,00,82,00","3,09,28,59","3,67,66,94",2225 01 277 AA 30101
+02,Medical Allowance,"1,62,65","2,32,55","1,63,00","1,82,00",2225 01 277 AA 30102
+03,Medical Charges,,"1,17",,,2225 01 277 AA 30103
+04,Other Allowances,"1,24,63","2,14,20","1,50,00","1,50,00",2225 01 277 AA 30104
+06,House Rent Allowance,"18,12,31","20,20,00","18,13,00","20,31,00",2225 01 277 AA 30106
+07,Travel Concession,"10,40","16,00","16,00","16,45",2225 01 277 AA 30107
+08,City Compensatory Allowance,"1,30,26","1,30,00","1,30,00","1,47,00",2225 01 277 AA 30108
+302,Wages,"7,48","10,25","6,75",1,2225 01 277 AA 30200
+01,Wages,"7,48","10,25","6,75",1,2225 01 277 AA 30201
+303,Dearness Allowance,"31,22,25","39,10,66","49,48,58","90,07,90",2225 01 277 AA 30300
+01,Dearness Allowance,"31,22,25","39,10,66","49,48,58","90,07,90",2225 01 277 AA 30301
+304,Travel Expenses,"39,76","44,71","46,93","52,41",2225 01 277 AA 30400
+01,Tour Travelling Allowances,"38,06","42,71","45,33","48,41",2225 01 277 AA 30401
+02,Transfer Travelling Allowances,"1,70","2,00","1,60","4,00",2225 01 277 AA 30402
+305,Office Expenses,"1,23,38","80,41","1,14,56","1,27,94",2225 01 277 AA 30500
+02,Other Contingencies,"65,05","10,00","12,25","19,25",2225 01 277 AA 30502
+03,Electricity Charges,"54,96","66,49","98,61","1,04,65",2225 01 277 AA 30503
+04,Service Postage & Postal Expenditure,"3,37","3,91","3,69","4,03",2225 01 277 AA 30504
+05,Furniture,,1,1,1,2225 01 277 AA 30505
+306,"Rent, Rates and Taxes","2,78","3,62","4,40","3,40",2225 01 277 AA 30600
+01,Rent,32,62,40,40,2225 01 277 AA 30601
+03,Water Charges,"2,46","3,00","4,00","3,00",2225 01 277 AA 30603
+309,Grants-in-Aid,"5,41,57","5,28,14","4,89,11","4,93,47",2225 01 277 AA 30900
+03,Grants for Specific Schemes,"5,41,57","5,28,13","4,89,11","4,93,47",2225 01 277 AA 30903
+09,Others,,1,,,2225 01 277 AA 30909
+317,Minor Works,"47,64","50,00","50,00","59,00",2225 01 277 AA 31700
+01,Minor Works,"47,64","50,00","50,00","59,00",2225 01 277 AA 31701
+318,Maintenance,"1,78,59","1,89,60","2,03,50","5,03,50",2225 01 277 AA 31800
+01,Periodical Maintenance,"1,78,59","1,89,60","2,03,50","5,03,50",2225 01 277 AA 31801
+319,Machinery and Equipments,,,"8,24",,2225 01 277 AA 31900
+01,Purchase,,,"8,24",,2225 01 277 AA 31901
+324,Materials and Supplies,"4,53","5,75","20,07","11,20",2225 01 277 AA 32400
+01,Materials and Supplies,"4,53","5,75","20,07","11,20",2225 01 277 AA 32401
+333,Payments for Professional and Special Services,15,40,40,"7,15",2225 01 277 AA 33300
+01,Pleaders Fees,15,40,40,40,2225 01 277 AA 33301
+04,Contract Payment,,,,"6,75",2225 01 277 AA 33304
+334,Other Charges,"5,32","5,65","2,97","2,97",2225 01 277 AA 33400
+02,Purchase of Books & Periodicals to Libraries,"5,32","5,65","2,97","2,97",2225 01 277 AA 33402
+339,Rewards,"2,42","1,34","3,46","2,40",2225 01 277 AA 33900
+01,Rewards,"2,42","1,34","3,46","2,40",2225 01 277 AA 33901
+346,"Clothing, Tentage and Stores","12,10,95","13,00,00","13,00,00","13,00,00",2225 01 277 AA 34600
+01,"Clothing, Tentage and Stores","12,10,95","13,00,00","13,00,00","13,00,00",2225 01 277 AA 34601
+349,Festival Advances,"1,83",,,,2225 01 277 AA 34900
+01,Festival Advances-Debit,"1,77,78","2,22,05","4,44,10","4,94,50",2225 01 277 AA 34901
+02,Festival Advances-Credit,"- 1,75,95","- 2,22,05","- 4,44,10","- 4,94,50",2225 01 277 AA 34902
+354,Expenses on Conducted Tours,"50,10","50,50","50,75","50,75",2225 01 277 AA 35400
+01,Expenses on Conducted Tours,"50,10","50,50","50,75","50,75",2225 01 277 AA 35401
+359,Prizes and Awards,,16,16,16,2225 01 277 AA 35900
+01,Prizes and Awards,,16,16,16,2225 01 277 AA 35901
+368,"Cost of Books/Note Books/Slates, etc.","51,81","1,80,00","1,80,00","1,80,00",2225 01 277 AA 36800
+01,"Cost of Books/Note Books/Slates, etc.","51,81","1,80,00","1,80,00","1,80,00",2225 01 277 AA 36801
+372,Training,,76,,"30,53",2225 01 277 AA 37200
+01,Training,,76,,"30,53",2225 01 277 AA 37201
+376,Computer and Accessories,"2,07","2,75","1,56,68","4,00",2225 01 277 AA 37600
+01,Purchase,,,"1,53,93",,2225 01 277 AA 37601
+02,Maintenance,"2,07","2,75","2,75","3,50",2225 01 277 AA 37602
+03,Stationery,,,,50,2225 01 277 AA 37603
+379,Salary Grants,"8,76,79","9,45,84","9,81,84","10,49,38",2225 01 277 AA 37900
+01,Pay,"4,00,97","7,90,04","8,00,75","8,00,00",2225 01 277 AA 37901
+02,Medical Allowance,"3,00","5,72","5,72","6,00",2225 01 277 AA 37902
+04,Other Allowances,,"2,69","2,69","2,70",2225 01 277 AA 37904
+06,House Rent Allowances,"22,65","44,68","44,68","44,68",2225 01 277 AA 37906
+09,Dearness Allowance,"4,50,17","1,02,71","1,28,00","1,96,00",2225 01 277 AA 37909
+AA,Total AA,"4,05,09,97","4,00,06,46","4,17,68,99","5,21,79,56",
+AB,Educational Concessions,,,,,2225 01 277 AB 30000
+312,Scholarships and Stipends,"4,66,86","4,61,56","5,07,96","4,61,56",2225 01 277 AB 31200
+01,Pre-Matric,"1,76,65","1,71,42","1,71,42","1,71,42",2225 01 277 AB 31201
+09,Others,"2,90,21","2,90,14","3,36,54","2,90,14",2225 01 277 AB 31209
+333,Payments for Professional and Special Services,15,67,67,67,2225 01 277 AB 33300
+09,Other Payments,15,67,67,67,2225 01 277 AB 33309
+AB,Total AB,"4,67,01","4,62,23","5,08,63","4,62,23",
+AE,Hostels,,,,,2225 01 277 AE 30000
+301,Salaries,"1,68,07,05","1,72,89,10","1,71,97,50","1,74,89,48",2225 01 277 AE 30100
+01,Pay,"1,56,58,77","1,60,00,00","1,60,00,00","1,62,63,98",2225 01 277 AE 30101
+02,Medical Allowance,"1,42,01","1,50,90","1,42,00","1,45,00",2225 01 277 AE 30102
+04,Other Allowances,"2,09,96","2,43,70","2,49,00","2,70,00",2225 01 277 AE 30104
+06,House Rent Allowance,"7,52,72","8,10,00","7,53,00","7,55,00",2225 01 277 AE 30106
+07,Travel Concession,"6,87","11,50","11,50","11,50",2225 01 277 AE 30107
+08,City Compensatory Allowance,"36,72","73,00","42,00","44,00",2225 01 277 AE 30108
+302,Wages,92,"2,00","1,75",,2225 01 277 AE 30200
+01,Wages,92,"2,00","1,75",,2225 01 277 AE 30201
+303,Dearness Allowance,"15,67,63","20,80,00","25,60,00","39,84,68",2225 01 277 AE 30300
+01,Dearness Allowance,"15,67,63","20,80,00","25,60,00","39,84,68",2225 01 277 AE 30301
+304,Travel Expenses,"30,18","19,04","21,34","21,90",2225 01 277 AE 30400
+01,Tour Travelling Allowances,"29,89","17,00","20,80","20,80",2225 01 277 AE 30401
+02,Transfer Travelling Allowances,29,"2,04",54,"1,10",2225 01 277 AE 30402
+305,Office Expenses,"5,55,60","6,44,12","5,47,13","5,52,04",2225 01 277 AE 30500
+02,Other Contingencies,"30,16","30,00","25,79","30,69",2225 01 277 AE 30502
+03,Electricity Charges,"5,25,44","6,14,10","5,21,31","5,21,31",2225 01 277 AE 30503
+05,Furniture,,2,3,4,2225 01 277 AE 30505
+306,"Rent, Rates and Taxes","2,01,33","1,94,60","1,70,24","1,81,24",2225 01 277 AE 30600
+01,Rent,"93,57","90,00","64,00","64,00",2225 01 277 AE 30601
+02,Property tax,"26,47","8,82","10,24","10,24",2225 01 277 AE 30602
+03,Water Charges,"81,29","95,78","96,00","1,07,00",2225 01 277 AE 30603
+318,Maintenance,"9,15,85","4,99,40","10,96,50","18,96,50",2225 01 277 AE 31800
+01,Periodical Maintenance,"9,15,85","4,99,40","10,96,50","18,96,50",2225 01 277 AE 31801
+319,Machinery and Equipments,,2,"48,19",1,2225 01 277 AE 31900
+01,Purchase,,2,"35,00",1,2225 01 277 AE 31901
+04,Lease Rent,,,"13,19",,2225 01 277 AE 31904
+324,Materials and Supplies,"1,15,55","1,16,75","2,43,25","2,05,57",2225 01 277 AE 32400
+01,Materials and Supplies,"1,15,55","1,16,75","2,43,25","2,05,57",2225 01 277 AE 32401
+333,Payments for Professional and Special Services,"3,27,03","4,24,80","3,32,32","4,44,99",2225 01 277 AE 33300
+01,Pleaders Fees,"2,76",25,1,1,2225 01 277 AE 33301
+03,Special Service,,,,"1,26,40",2225 01 277 AE 33303
+04,Contract Payment,"3,24,27","4,24,55","3,32,31","3,18,58",2225 01 277 AE 33304
+334,Other Charges,"5,51,54","5,68,12","5,15,66","5,15,66",2225 01 277 AE 33400
+01,Other Items,"5,41,45","5,56,77","5,04,93","5,04,93",2225 01 277 AE 33401
+02,Purchase  of  Books & Periodicals to Libraries"10,09","11,35","10,73","10,73",2225 01 277 AE 33402
+342,Service or Commitment Charges,,3,1,1,2225 01 277 AE 34200
+01,Service or Commitment Charges,,3,1,1,2225 01 277 AE 34201
+346,"Clothing, Tentage and Stores",,"1,53","2,14,79",1,2225 01 277 AE 34600
+01,"Clothing, Tentage and Stores",,"1,53","2,14,79",1,2225 01 277 AE 34601
+347,Stores and Equipments,,2,2,2,2225 01 277 AE 34700
+01,Stores - Voted,,2,2,2,2225 01 277 AE 34701
+349,Festival Advances,"- 6,18",,,,2225 01 277 AE 34900
+01,Festival Advances-Debit,"1,49,05","2,64,10","5,28,20","5,54,60",2225 01 277 AE 34901
+02,Festival Advances-Credit,"- 1,55,23","- 2,64,10","- 5,28,20","- 5,54,60",2225 01 277 AE 34902
+367,Feeding/Dietary Charges,"73,21,40","76,54,01","73,26,00","73,30,00",2225 01 277 AE 36700
+09,Others,"73,21,40","76,54,01","73,26,00","73,30,00",2225 01 277 AE 36709
+368,"Cost of Books/Note Books/Slates, etc.",,,,"14,06",2225 01 277 AE 36800
+01,"Cost of Books/Note Books/Slates, etc.",,,,"14,06",2225 01 277 AE 36801
+372,Training,,,"39,60",,2225 01 277 AE 37200
+01,Training,,,"39,60",,2225 01 277 AE 37201
+376,Computer and Accessories,,2,1,1,2225 01 277 AE 37600
+01,Purchase,,2,1,1,2225 01 277 AE 37601
+AE,Total AE,"2,83,87,90","2,94,93,56","3,03,14,31","3,26,36,18",
+AG,Award of Prizes to Adi-dravidar welfare schools,,,,,2225 01 277 AG 30000
+359,Prizes and Awards,"37,40","81,41","81,41","81,41",2225 01 277 AG 35900
+01,Prizes and Awards,"37,40","81,41","81,41","81,41",2225 01 277 AG 35901
+AG,Total AG,"37,40","81,41","81,41","81,41",
+AH,Compensation to Universities,,,,,2225 01 277 AH 30000
+309,Grants-in-Aid,"9,32,46","7,72,40","9,17,15","7,79,90",2225 01 277 AH 30900
+01,Grants for Current Expenditure,"6,82,48","7,43,40","8,88,15","7,50,90",2225 01 277 AH 30901
+03,Grants for Specific Schemes,"2,49,98","29,00","29,00","29,00",2225 01 277 AH 30903
+AH,Total AH,"9,32,46","7,72,40","9,17,15","7,79,90",
+AV,Special Scholarship Scheme to Scheduled Caste / Scheduled Tribe students who are at post-matric level,,,,,2225 01 277 AV 30000
+312,Scholarships and Stipends,"82,85,41","82,74,42","1,56,99,54","86,62,06",2225 01 277 AV 31200
+02,Post-Matric,"82,85,41","82,74,42","1,56,99,54","86,62,06",2225 01 277 AV 31202
+AV,Total AV,"82,85,41","82,74,42","1,56,99,54","86,62,06",
+BA,Supply of Sports articles and development of play grounds to Adi-Dravidar Welfare High Schools/Higher Secondary Schools,,,,,2225 01 277 BA 30000
+324,Materials and Supplies,"1,70","1,50","2,00","2,00",2225 01 277 BA 32400
+01,Materials and Supplies,"1,70","1,50","2,00","2,00",2225 01 277 BA 32401
+BA,Total BA,"1,70","1,50","2,00","2,00",
+BB,Payment to the Teachers working under Sarva Siksha Abiyan Scheme (SSA),,,,,2225 01 277 BB 30000
+301,Salaries,"43,74","61,45","57,75","82,75",2225 01 277 BB 30100
+01,Pay,"41,74","55,00","55,00","80,00",2225 01 277 BB 30101
+02,Medical Allowance,15,40,15,15,2225 01 277 BB 30102
+04,Other Allowances,1,,,,2225 01 277 BB 30104
+06,House Rent Allowance,"1,67","5,25","2,00","2,00",2225 01 277 BB 30106
+07,Travel Concession,7,30,30,30,2225 01 277 BB 30107
+08,City Compensatory Allowance,10,50,30,30,2225 01 277 BB 30108
+303,Dearness Allowance,"4,82","7,15","8,80","19,60",2225 01 277 BB 30300
+01,Dearness Allowance,"4,82","7,15","8,80","19,60",2225 01 277 BB 30301
+304,Travel Expenses,12,30,30,30,2225 01 277 BB 30400
+01,Tour Travelling Allowances,12,20,20,20,2225 01 277 BB 30401
+02,Transfer Travelling Allowances,,10,10,10,2225 01 277 BB 30402
+349,Festival Advances,- 4,,,,2225 01 277 BB 34900
+01,Festival Advances-Debit,,55,"1,10","1,10",2225 01 277 BB 34901
+02,Festival Advances-Credit,- 4,- 55,"- 1,10","- 1,10",2225 01 277 BB 34902
+BB,Total BB,"48,64","68,90","66,85","1,02,65",
+BC,Purchase of Laboratory Equipments to Adi Dravidar Welfare Schools,,,,,2225 01 277 BC 30000
+319,Machinery and Equipments,,1,1,1,2225 01 277 BC 31900
+01,Purchase,,1,1,1,2225 01 277 BC 31901
+324,Materials and Supplies,,1,1,1,2225 01 277 BC 32400
+01,Materials and Supplies,,1,1,1,2225 01 277 BC 32401
+BC,Total BC,2,2,2,,
+BD,Compensation to Government Aided Polytechnics / Engineering Colleges,,,,,2225 01 277 BD 30000
+309,Grants-in-Aid,,1,1,1,2225 01 277 BD 30900
+03,Grants for Specific Schemes,,1,1,1,2225 01 277 BD 30903
+BD,Total BD,1,1,1,,
+BE,Scouts and Guides Movement,,,,,2225 01 277 BE 30000
+309,Grants-in-Aid,"1,20,95","1,15,48","22,92","22,48",2225 01 277 BE 30900
+01,Grants for Current Expenditure,"1,20,95","1,15,48","22,92","22,48",2225 01 277 BE 30901
+BE,Total BE,"1,20,95","1,15,48","22,92","22,48",
+BF,Award of Prizes to Best Adi-Dravidar Higher Secondary School and Tribal Residential Higher Secondary Schools to improve quality of education,,,,,2225 01 277 BF 30000
+359,Prizes and Awards,"5,00","5,00","5,00","5,00",2225 01 277 BF 35900
+01,Prizes and Awards,"5,00","5,00","5,00","5,00",2225 01 277 BF 35901
+BF,Total BF,"5,00","5,00","5,00","5,00",
+JJ,Upgrading of Adi-Dravidar Welfare Primary Schools into Middle Schools,,,,,2225 01 277 JJ 30000
+301,Salaries,"4,66,94","2,59,28","2,60,81",,2225 01 277 JJ 30100
+01,Pay,"4,42,65","2,40,00","2,40,01",,2225 01 277 JJ 30101
+02,Medical Allowance,"2,11","1,48","2,25",,2225 01 277 JJ 30102
+04,Other Allowances,97,"1,05","1,05",,2225 01 277 JJ 30104
+06,House Rent Allowance,"20,53","15,25","16,00",,2225 01 277 JJ 30106
+08,City Compensatory Allowance,68,"1,50","1,50",,2225 01 277 JJ 30108
+303,Dearness Allowance,"38,69","31,20","38,40",,2225 01 277 JJ 30300
+01,Dearness Allowance,"38,69","31,20","38,40",,2225 01 277 JJ 30301
+305,Office Expenses,50,1,1,,2225 01 277 JJ 30500
+02,Other Contingencies,50,1,1,,2225 01 277 JJ 30502
+349,Festival Advances,71,,,,2225 01 277 JJ 34900
+01,Festival Advances-Debit,"2,65","2,10","5,40",,2225 01 277 JJ 34901
+02,Festival Advances-Credit,"- 1,94","- 2,10","- 5,40",,2225 01 277 JJ 34902
+JJ,Total JJ,"5,06,84","2,90,49","2,99,22",,
+JL,Upgrading of Adi-Dravidar Welfare High Schools into Higher Secondary Schools,,,,,2225 01 277 JL 30000
+301,Salaries,"13,02,58","13,88,20","13,87,91",,2225 01 277 JL 30100
+01,Pay,"12,35,64","13,18,00","13,18,01",,2225 01 277 JL 30101
+02,Medical Allowance,"5,07","5,50","5,10",,2225 01 277 JL 30102
+04,Other Allowances,83,20,50,,2225 01 277 JL 30104
+06,House Rent Allowance,"57,49","60,00","60,00",,2225 01 277 JL 30106
+08,City Compensatory Allowance,"3,55","4,50","4,30",,2225 01 277 JL 30108
+303,Dearness Allowance,"1,13,16","1,71,34","2,10,88",,2225 01 277 JL 30300
+01,Dearness Allowance,"1,13,16","1,71,34","2,10,88",,2225 01 277 JL 30301
+305,Office Expenses,"2,26",51,51,,2225 01 277 JL 30500
+02,Other Contingencies,"2,26",50,50,,2225 01 277 JL 30502
+05,Furniture,,1,1,,2225 01 277 JL 30505
+319,Machinery and Equipments,,1,1,,2225 01 277 JL 31900
+01,Purchase,,1,1,,2225 01 277 JL 31901
+324,Materials and Supplies,3,1,1,,2225 01 277 JL 32400
+01,Materials and Supplies,3,1,1,,2225 01 277 JL 32401
+349,Festival Advances,- 6,,,,2225 01 277 JL 34900
+01,Festival Advances-Debit,"4,70","7,50","15,00",,2225 01 277 JL 34901
+02,Festival Advances-Credit,"- 4,76","- 7,50","- 15,00",,2225 01 277 JL 34902
+376,Computer and Accessories,"1,39","1,46","1,46",,2225 01 277 JL 37600
+01,Purchase,,1,1,,2225 01 277 JL 37601
+02,Maintenance,96,"1,00","1,00",,2225 01 277 JL 37602
+03,Stationery,43,45,45,,2225 01 277 JL 37603
+JL,Total JL,"14,19,36","15,61,53","16,00,78",,
+JS,"Free Education to Students of SC/ST/SC Converts to Christianity studying in B.A.,B.Sc.,.B.Com., Courses Scholarships and Stipends",,,,,2225 01 277 JS 30000
+312,Scholarships and Stipends,"5,00","4,00","4,00","5,00",2225 01 277 JS 31200
+02,Post-Matric,"5,00","4,00","4,00","5,00",2225 01 277 JS 31202
+JS,Total JS,"5,00","4,00","4,00","5,00",
+JX,Special Incentive Scheme to promote literacy among scheduled caste girls studying in standard III to V,,,,,2225 01 277 JX 30000
+339,Rewards,"11,33,96","11,47,04","11,30,15","11,47,04",2225 01 277 JX 33900
+01,Rewards,"11,33,96","11,47,04","11,30,15","11,47,04",2225 01 277 JX 33901
+JX,Total JX,"11,33,96","11,47,04","11,30,15","11,47,04",
+JY,Special incentive scheme to promote literacy among scheduled caste girls studying VI standard to VIII standard,,,,,2225 01 277 JY 30000
+339,Rewards,"35,44,79","34,37,43","34,37,43","34,37,43",2225 01 277 JY 33900
+01,Rewards,"35,44,79","34,37,43","34,37,43","34,37,43",2225 01 277 JY 33901
+JY,Total JY,"35,44,79","34,37,43","34,37,43","34,37,43",
+KB,Chief Minister's Merit Award to Adi-Dravidar students for pursuing college studies,,,,,2225 01 277 KB 30000
+312,Scholarships and Stipends,"37,04","66,00","66,00","66,00",2225 01 277 KB 31200
+02,Post-Matric,"37,04","66,00","66,00","66,00",2225 01 277 KB 31202
+KB,Total KB,"37,04","66,00","66,00","66,00",
+KC,Provision of Lab Equipment to Adi-Dravidar Welfare High Schools,,,,,2225 01 277 KC 30000
+319,Machinery and Equipments,,1,,,2225 01 277 KC 31900
+01,Purchase,,1,,,2225 01 277 KC 31901
+KC,Total KC,1,,,,
+KE,Opening of Adi-Dravidar Welfare Post Graduate Hostels,,,,,2225 01 277 KE 30000
+301,Salaries,"2,67,72",,,,2225 01 277 KE 30100
+01,Pay,"2,52,38",,,,2225 01 277 KE 30101
+02,Medical Allowance,"1,68",,,,2225 01 277 KE 30102
+04,Other Allowances,82,,,,2225 01 277 KE 30104
+06,House Rent Allowance,"11,56",,,,2225 01 277 KE 30106
+07,Travel Concession,14,,,,2225 01 277 KE 30107
+08,City Compensatory Allowance,"1,14",,,,2225 01 277 KE 30108
+303,Dearness Allowance,"18,29",,,,2225 01 277 KE 30300
+01,Dearness Allowance,"18,29",,,,2225 01 277 KE 30301
+305,Office Expenses,"8,27",,,,2225 01 277 KE 30500
+02,Other Contingencies,63,,,,2225 01 277 KE 30502
+03,Electricity Charges,"7,64",,,,2225 01 277 KE 30503
+306,"Rent, Rates and Taxes","4,04",,,,2225 01 277 KE 30600
+03,Water Charges,"4,04",,,,2225 01 277 KE 30603
+324,Materials and Supplies,59,,,,2225 01 277 KE 32400
+01,Materials and Supplies,59,,,,2225 01 277 KE 32401
+334,Other Charges,"4,84",,,,2225 01 277 KE 33400
+01,Other Items,"4,62",,,,2225 01 277 KE 33401
+02,Purchase  of  Books & Periodicals to Libraries,22,,,,2225 01 277 KE 33402
+349,Festival Advances,- 87,,,,2225 01 277 KE 34900
+01,Festival Advances-Debit,95,,,,2225 01 277 KE 34901
+02,Festival Advances-Credit,"- 1,82",,,,2225 01 277 KE 34902
+367,Feeding/Dietary Charges,"52,31",,,,2225 01 277 KE 36700
+09,Others,"52,31",,,,2225 01 277 KE 36709
+KE,Total KE,"3,55,19",,,,
+KF,Upgrading of Adi-Dravidar Welfare Middle schools into High Schools,,,,,2225 01 277 KF 30000
+301,Salaries,"27,06,33","25,16,30","25,47,11",,2225 01 277 KF 30100
+01,Pay,"25,25,80","23,77,00","23,77,01",,2225 01 277 KF 30101
+02,Medical Allowance,"11,32","10,80","11,40",,2225 01 277 KF 30102
+04,Other Allowances,"18,16","2,00","7,20",,2225 01 277 KF 30104
+06,House Rent Allowance,"1,39,02","1,15,00","1,40,00",,2225 01 277 KF 30106
+07,Travel Concession,85,"2,00","2,00",,2225 01 277 KF 30107
+08,City Compensatory Allowance,"11,18","9,50","9,50",,2225 01 277 KF 30108
+303,Dearness Allowance,"2,46,31","3,09,01","3,80,32",,2225 01 277 KF 30300
+01,Dearness Allowance,"2,46,31","3,09,01","3,80,32",,2225 01 277 KF 30301
+304,Travel Expenses,"1,32","2,10","3,38",,2225 01 277 KF 30400
+01,Tour Travelling Allowances,"1,16","1,50","3,08",,2225 01 277 KF 30401
+02,Transfer Travelling Allowances,16,60,30,,2225 01 277 KF 30402
+305,Office Expenses,"1,96","1,01","1,01",,2225 01 277 KF 30500
+02,Other Contingencies,"1,96","1,00","1,00",,2225 01 277 KF 30502
+05,Furniture,,1,1,,2225 01 277 KF 30505
+319,Machinery and Equipments,,1,1,,2225 01 277 KF 31900
+01,Purchase,,1,1,,2225 01 277 KF 31901
+324,Materials and Supplies,37,60,60,,2225 01 277 KF 32400
+01,Materials and Supplies,37,60,60,,2225 01 277 KF 32401
+349,Festival Advances,- 59,,,,2225 01 277 KF 34900
+01,Festival Advances-Debit,"10,30","15,20","29,90",,2225 01 277 KF 34901
+02,Festival Advances-Credit,"- 10,89","- 15,20","- 29,90",,2225 01 277 KF 34902
+376,Computer and Accessories,"1,37","1,70","1,70",,2225 01 277 KF 37600
+02,Maintenance,"1,08","1,25","1,25",,2225 01 277 KF 37602
+03,Stationery,29,45,45,,2225 01 277 KF 37603
+KF,Total KF,"29,57,07","28,30,73","29,34,13",,
+KH,Abroad Scholarship to Scheduled Caste/Scheduled Tribe Students for higher studies,,,,,2225 01 277 KH 30000
+312,Scholarships and Stipends,,"30,00","30,00","30,60",2225 01 277 KH 31200
+02,Post-Matric,,"30,00","30,00","30,60",2225 01 277 KH 31202
+KH,Total KH,"30,00","30,00","30,60",,
+KJ,Free Supply of Bicycles to all girl students belonging to Scheduled Caste / Scheduled Tribes / Scheduled Caste Converts to Christianity studying in Standard XI and XII in the Government / Government Aided Higher Secondary Schools,,,,,2225 01 277 KJ 30000
+309,Grants-in-Aid,"62,15,35","38,31,58","71,06,89","38,31,58",2225 01 277 KJ 30900
+03,Grants for Specific Schemes,"62,15,35","38,31,58","71,06,89","38,31,58",2225 01 277 KJ 30903
+KJ,Total KJ,"62,15,35","38,31,58","71,06,89","38,31,58",
+KK,Free Education to the Students of SC / ST / SC converts to Christianity Girls Students studying P.G.Courses,,,,,2225 01 277 KK 30000
+312,Scholarships and Stipends,"5,00","2,50","2,50","5,00",2225 01 277 KK 31200
+02,Post-Matric,"5,00","2,50","2,50","5,00",2225 01 277 KK 31202
+KK,Total KK,"5,00","2,50","2,50","5,00",
+KL,"Assistance to SC / ST /SC,converts to Christianity for Higher Educational Special Scholarship Scheme",,,,,2225 01 277 KL 30000
+309,Grants-in-Aid,"18,52,80","26,19,54","18,50,00","18,00,00",2225 01 277 KL 30900
+03,Grants for Specific Schemes,"18,52,80","26,19,54","18,50,00","18,00,00",2225 01 277 KL 30903
+KL,Total KL,"18,52,80","26,19,54","18,50,00","18,00,00",
+KM,Educational Concessions,,,,,2225 01 277 KM 30000
+312,Scholarships and Stipends,"3,61,49,96","11,05,44,21","15,34,14,87","15,34,14,87",2225 01 277 KM 31200
+01,Pre-Matric,"7,95,29","8,00,00","7,69,04","7,69,04",2225 01 277 KM 31201
+02,Post-Matric,"3,53,54,67","10,97,44,21","15,26,45,83","15,26,45,83",2225 01 277 KM 31202
+KM,Total KM,"3,61,49,96","11,05,44,21","15,34,14,87","15,34,14,87",
+KO,Free Supply of Bicycles to all boy students belonging to Scheduled Castes / Scheduled Tribes / Scheduled Caste converts to Christianity studying in Std XI and XII in the Government / Government Aided Higher Secondary Schools,,,,,2225 01 277 KO 30000
+309,Grants-in-Aid,"47,13,99","30,69,41","54,91,14","30,69,41",2225 01 277 KO 30900
+03,Grants for Specific Schemes,"47,13,99","30,69,41","54,91,14","30,69,41",2225 01 277 KO 30903
+KO,Total KO,"47,13,99","30,69,41","54,91,14","30,69,41",
+KQ,Special coaching to students studying in Standard IX to XII in Adi Dravidar Welfare High Schools and Higher Secondary Schools,,,,,2225 01 277 KQ 30000
+301,Salaries,"83,78","96,71","96,71","96,71",2225 01 277 KQ 30100
+09,Honorarium,"83,78","96,71","96,71","96,71",2225 01 277 KQ 30109
+KQ,Total KQ,"83,78","96,71","96,71","96,71",
+KR,Welfare Schemes for Scheduled Castes,,,,,2225 01 277 KR 30000
+309,Grants-in-Aid,,1,1,1,2225 01 277 KR 30900
+09,Others,,1,1,1,2225 01 277 KR 30909
+KR,Total KR,1,1,1,,
+KS,Educational Assistance for Meritorious Adi-Dravidar / Tribal Students to study in reputed schools,,,,,2225 01 277 KS 30000
+309,Grants-in-Aid,"12,62,77","15,00,00","15,00,00","15,00,00",2225 01 277 KS 30900
+03,Grants for Specific Schemes,"12,62,77","15,00,00","15,00,00","15,00,00",2225 01 277 KS 30903
+KS,Total KS,"12,62,77","15,00,00","15,00,00","15,00,00",
+KV,Smart Class Rooms in Adi - Dravidar/ Tribal Welfare Higher Secondary Schools,,,,,2225 01 277 KV 30000
+376,Computer and Accessories,"1,49,99",2,"1,12,61",2,2225 01 277 KV 37600
+01,Purchase,"1,49,99",1,"1,12,60",1,2225 01 277 KV 37601
+02,Maintenance,,1,1,1,2225 01 277 KV 37602
+KV,Total KV,"1,49,99",2,"1,12,61",2,
+KW,Financial assistance to the Adi-Dravidar / Scheduled Tribe students pursuing Ph.d.,,,,,2225 01 277 KW 30000
+312,Scholarships and Stipends,"6,00,00","6,00,00","6,00,00","6,00,00",2225 01 277 KW 31200
+02,Post-Matric,"6,00,00","6,00,00","6,00,00","6,00,00",2225 01 277 KW 31202
+KW,Total KW,"6,00,00","6,00,00","6,00,00","6,00,00",
+KX,Opening of Adi-Dravidar Welfare ITI and Hostel,,,,,2225 01 277 KX 30000
+301,Salaries,"1,12,06","1,11,64","1,11,73","1,14,30",2225 01 277 KX 30100
+01,Pay,"98,75","98,00","98,00","1,00,00",2225 01 277 KX 30101
+02,Medical Allowance,52,54,55,60,2225 01 277 KX 30102
+03,Medical Charges,38,40,40,40,2225 01 277 KX 30103
+04,Other Allowances,,,48,50,2225 01 277 KX 30104
+06,House Rent Allowance,"11,67","12,50","11,00","11,50",2225 01 277 KX 30106
+07,Travel Concession,74,20,20,20,2225 01 277 KX 30107
+08,City Compensatory Allowance,,,"1,10","1,10",2225 01 277 KX 30108
+303,Dearness Allowance,"15,37","12,74","15,68","24,50",2225 01 277 KX 30300
+01,Dearness Allowance,"15,37","12,74","15,68","24,50",2225 01 277 KX 30301
+304,Travel Expenses,11,50,30,30,2225 01 277 KX 30400
+01,Tour Travelling Allowances,11,30,30,30,2225 01 277 KX 30401
+02,Transfer Travelling Allowances,,20,,,2225 01 277 KX 30402
+305,Office Expenses,93,"1,08","15,13","2,48",2225 01 277 KX 30500
+01,Telephone Charges,19,22,22,22,2225 01 277 KX 30501
+02,Other Contingencies,69,80,"2,00","1,00",2225 01 277 KX 30502
+03,Electricity Charges,,,"1,20","1,20",2225 01 277 KX 30503
+04,Service Postage & Postal Expenditure,5,5,5,5,2225 01 277 KX 30504
+05,Furniture,,1,"11,66",1,2225 01 277 KX 30505
+312,Scholarships and Stipends,,,"17,70","10,00",2225 01 277 KX 31200
+09,Others,,,"17,70","10,00",2225 01 277 KX 31209
+319,Machinery and Equipments,,2,"2,84,54",1,2225 01 277 KX 31900
+01,Purchase,,2,"2,84,54",1,2225 01 277 KX 31901
+321,Motor Vehicles,,,5,5,2225 01 277 KX 32100
+03,Hire Charges,,,5,5,2225 01 277 KX 32103
+324,Materials and Supplies,"1,00",85,"2,50","2,50",2225 01 277 KX 32400
+01,Materials and Supplies,"1,00",85,"2,50","2,50",2225 01 277 KX 32401
+333,Payments for Professional and Special Services,,1,1,1,2225 01 277 KX 33300
+04,Contract Payment,,1,1,1,2225 01 277 KX 33304
+349,Festival Advances,12,,,,2225 01 277 KX 34900
+01,Festival Advances-Debit,55,75,"1,90","2,00",2225 01 277 KX 34901
+02,Festival Advances-Credit,- 43,- 75,"- 1,90","- 2,00",2225 01 277 KX 34902
+367,Feeding/Dietary Charges,,,1,"10,20",2225 01 277 KX 36700
+09,Others,,,1,"10,20",2225 01 277 KX 36709
+KX,Total KX,"1,29,59","1,26,84","4,47,65","1,64,35",
+KY,Establishment of Hostel Management System - Scheme under State Innovation Fund,,,,,2225 01 277 KY 30000
+376,Computer and Accessories,"34,96",1,1,1,2225 01 277 KY 37600
+01,Purchase,"34,96",1,1,1,2225 01 277 KY 37601
+KY,Total KY,"34,96",1,1,1,
+KZ,Opening of Adi-Dravidar Welfare Polytechnic College,,,,,2225 01 277 KZ 30000
+301,Salaries,,30,,,2225 01 277 KZ 30100
+06,House Rent Allowance,,30,,,2225 01 277 KZ 30106
+KZ,Total KZ,,30,,,
+LA,Scheme for Coaching to Scheduled Caste and Scheduled Tribes students for Common Admission Test (CAT),,,,,2225 01 277 LA 30000
+372,Training,,"50,00","50,00","50,00",2225 01 277 LA 37200
+01,Training,,"50,00","50,00","50,00",2225 01 277 LA 37201
+LA,Total LA,,"50,00","50,00","50,00",
+LB,Formation of Centre of Excellence in Academic and Centre of Excellence in Sports to Scheduled Castes students studying in High / Higher Secondary Schools,,,,,2225 01 277 LB 30000
+305,Office Expenses,,,"16,00","5,01",2225 01 277 LB 30500
+02,Other Contingencies,,,"12,15","5,00",2225 01 277 LB 30502
+05,Furniture,,,"3,85",1,2225 01 277 LB 30505
+318,Maintenance,,,"12,01",1,2225 01 277 LB 31800
+02,Special Maintenance,,,"12,01",1,2225 01 277 LB 31802
+319,Machinery and Equipments,,,90,1,2225 01 277 LB 31900
+01,Purchase,,,90,1,2225 01 277 LB 31901
+324,Materials and Supplies,,,"7,00","1,00",2225 01 277 LB 32400
+01,Materials and Supplies,,,"7,00","1,00",2225 01 277 LB 32401
+333,Payments for Professional and Special Services,,,"4,60","4,60",2225 01 277 LB 33300
+04,Contract Payment,,,"4,60","4,60",2225 01 277 LB 33304
+346,"Clothing, Tentage and Stores",,,"3,15","3,15",2225 01 277 LB 34600
+01,"Clothing, Tentage and Stores",,,"3,15","3,15",2225 01 277 LB 34601
+368,"Cost of Books/Note Books/Slates, etc.",,,"1,25","1,25",2225 01 277 LB 36800
+01,"Cost of Books/Note Books/Slates, etc.",,,"1,25","1,25",2225 01 277 LB 36801
+372,Training,,,"3,60","3,60",2225 01 277 LB 37200
+01,Training,,,"3,60","3,60",2225 01 277 LB 37201
+376,Computer and Accessories,,,"1,50",1,2225 01 277 LB 37600
+01,Purchase,,,"1,50",1,2225 01 277 LB 37601
+LB,Total LB,,,"50,01","18,64",
+#State's Expenditure Total,,"13,99,53,88","21,10,89,75","26,96,10,94","26,41,70,17",
+#Central Sector Schemes,,,,,,
+SA,Educational Concessions,,,,,2225 01 277 SA 30000
+312,Scholarships and Stipends,"13,49,92,50","6,34,81,30","2,06,63,73","2,67,43,14",2225 01 277 SA 31200
+01,Pre-Matric,"2,47,86","4,31,00","5,15,05","5,40,80",2225 01 277 SA 31201
+02,Post-Matric,"13,47,44,64","6,30,50,30","2,01,48,68","2,62,02,34",2225 01 277 SA 31202
+SA,Total SA,"13,49,92,50","6,34,81,30","2,06,63,73","2,67,43,14",
+SF,Government of India Pre-Matric Scholarship,,,,,2225 01 277 SF 30000
+312,Scholarships and Stipends,"59,42,89","1,02,63,81","78,88,00","84,00,02",2225 01 277 SF 31200
+01,Pre-Matric,"59,42,89","1,02,63,81","78,88,00","84,00,02",2225 01 277 SF 31201
+SF,Total SF,"59,42,89","1,02,63,81","78,88,00","84,00,02",
+#Central Sector Schemes,Total,"14,09,35,39","7,37,45,11","2,85,51,73","3,51,43,16",
+277,Total 277,"28,08,89,27","28,48,34,86","29,81,62,67","29,93,13,33",
+283,Housing,,,,,
+#State's Expenditure,,,,,,
+JA,House sites / Infrastructure facilities for Adi-Dravidars,,,,,2225 01 283 JA 30000
+308,Advertising and Publicity,"6,52","5,00","5,00","5,00",2225 01 283 JA 30800
+01,Advertisement Charges,"6,52","5,00","5,00","5,00",2225 01 283 JA 30801
+309,Grants-in-Aid,"1,45,64","1,57,50","1,57,50","1,57,50",2225 01 283 JA 30900
+03,Grants for Specific Schemes,"1,45,64","1,57,50","1,57,50","1,57,50",2225 01 283 JA 30903
+333,Payments for Professional and Special Services,"1,61","9,00","9,00","9,00",2225 01 283 JA 33300
+01,Pleaders Fees,"1,61","9,00","9,00","9,00",2225 01 283 JA 33301
+364,Lands Charged,"14,00,00","19,82,45","20,00,00",2225 01 283 JA 36400,
+364,Lands Voted,"26,36,79","6,00,00","6,00,00","6,00,00",2225 01 283 JA 36400
+01,Lands - Voted,"26,36,79","6,00,00","6,00,00","6,00,00",2225 01 283 JA 36401
+51,Lands Charged,"14,00,00","19,82,45","20,00,00",2225 01 283 JA 36451,
+JA,Total JA Charged,"14,00,00","19,82,45","20,00,00",,
+JA,Total JA Voted,"27,90,56","7,71,50","7,71,50","7,71,50",
+#State's Expenditure Total Charged,"14,00,00","19,82,45","20,00,00",,,
+#State's Expenditure Total Voted,"27,90,56","7,71,50","7,71,50","7,71,50",,
+283,Total 283 Charged,"14,00,00","19,82,45","20,00,00",,
+283,Total 283 Voted,"27,90,56","7,71,50","7,71,50","7,71,50",
+793,Special Central Assistance for Scheduled Caste Component Plan Central Sector Schemes Central Sector Sechemes,,,,,
+SB,Implementation of Economic Development Programmes under Scheduled Castes Sub Plan (SCSP),,,,,2225 01 793 SB 30000
+309,Grants-in-Aid,"88,33,00","1,35,00,00","1,00,00,00","1,35,00,00",2225 01 793 SB 30900
+09,Others,"88,33,00","1,35,00,00","1,00,00,00","1,35,00,00",2225 01 793 SB 30909
+SB,Total SB,"88,33,00","1,35,00,00","1,00,00,00","1,35,00,00",
+SD,Infrastructure Development in Scheduled Castes dominated blocks / villages under Scheduled Castes Sub Plan,,,,,2225 01 793 SD 30000
+318,Maintenance,,1,1,1,2225 01 793 SD 31800
+02,Special Maintenance,,1,1,1,2225 01 793 SD 31802
+SD,Total SD,1,1,1,,
+#Central Sector Schemes,Total,"88,33,00","1,35,00,01","1,00,00,01","1,35,00,01",
+793,Total 793,"88,33,00","1,35,00,01","1,00,00,01","1,35,00,01",
+800,Other Expenditure,,,,,
+#State's Expenditure,,,,,,
+AB,Reward to select villages,,,,,2225 01 800 AB 30000
+309,Grants-in-Aid,"2,69,98","3,10,00","3,10,00","3,10,00",2225 01 800 AB 30900
+03,Grants for Specific Schemes,"2,69,98","3,10,00","3,10,00","3,10,00",2225 01 800 AB 30903
+AB,Total AB,"2,69,98","3,10,00","3,10,00","3,10,00",
+BI,"Payment for funeral rites""",,,,,2225 01 800 BI 30000
+309,Grants-in-Aid,"4,61,55","4,97,50","4,97,50","4,97,50",2225 01 800 BI 30900
+03,Grants for Specific Schemes,"4,61,55","4,97,50","4,97,50","4,97,50",2225 01 800 BI 30903
+BI,Total BI,"4,61,55","4,97,50","4,97,50","4,97,50",
+JA,Schemes for coaching of Scheduled Caste and Scheduled Tribes students in Typewriting and Shorthand under Special Component Plan,,,,,2225 01 800 JA 30000
+309,Grants-in-Aid,37,"2,98","2,98",1,2225 01 800 JA 30900
+03,Grants for Specific Schemes,37,"2,98","2,98",1,2225 01 800 JA 30903
+JA,Total JA,37,"2,98","2,98",1,
+JB,Assistance to Technically Trained persons,,,,,2225 01 800 JB 30000
+311,Subsidies,,"1,86,01","1,00,00","1,86,01",2225 01 800 JB 31100
+01,Individual Based Subsidy,,"1,86,01","1,00,00","1,86,01",2225 01 800 JB 31101
+JB,Total JB,"1,86,01","1,00,00","1,86,01",,
+JE,Construction of Community Halls,,,,,2225 01 800 JE 30000
+317,Minor Works,,1,,,2225 01 800 JE 31700
+01,Minor Works,,1,,,2225 01 800 JE 31701
+JE,Total JE,1,,,,
+JI,Scheme for provision of Pathways and Burial grounds,,,,,2225 01 800 JI 30000
+309,Grants-in-Aid,"2,26","3,93","3,93","3,93",2225 01 800 JI 30900
+02,Grants for Creation of Capital Assets,"2,26","3,93","3,93","3,93",2225 01 800 JI 30902
+317,Minor Works,"9,94","11,00","11,00","11,00",2225 01 800 JI 31700
+01,Minor Works,"9,94","11,00","11,00","11,00",2225 01 800 JI 31701
+364,Lands,"34,94","60,91","60,91","60,91",2225 01 800 JI 36400
+01,Lands - Voted,"34,94","60,91","60,91","60,91",2225 01 800 JI 36401
+JI,Total JI,"47,14","75,84","75,84","75,84",
+LX,Dr. Ambedkar award for persons promoting welfare of Scheduled Castes and Scheduled Tribes,,,,,2225 01 800 LX 30000
+359,Prizes and Awards,"1,45","1,50","1,50","1,50",2225 01 800 LX 35900
+01,Prizes and Awards,"1,45","1,50","1,50","1,50",2225 01 800 LX 35901
+LX,Total LX,"1,45","1,50","1,50","1,50",
+#State's Expenditure Total,"7,80,49","10,73,84","9,87,82","10,70,86",,
+#Schemes shared between State and Centre,,,,,,
+UL,"Machinery for the Enforcement of Protection of Civil Rights Act, 1955",,,,,2225 01 800 UL 30000
+301,Salaries,"51,56","53,35","50,05","50,84",2225 01 800 UL 30100
+01,Pay,"45,27","47,19","44,50","44,94",2225 01 800 UL 30101
+02,Medical Allowance,22,30,30,30,2225 01 800 UL 30102
+04,Other Allowances,23,25,25,25,2225 01 800 UL 30104
+06,House Rent Allowance,"5,01","4,50","4,20","4,50",2225 01 800 UL 30106
+07,Travel Concession,,11,,,2225 01 800 UL 30107
+08,City Compensatory Allowance,83,"1,00",80,85,2225 01 800 UL 30108
+303,Dearness Allowance,"3,94","6,13","7,12","11,01",2225 01 800 UL 30300
+01,Dearness Allowance,"3,94","6,13","7,12","11,01",2225 01 800 UL 30301
+304,Travel Expenses,,76,,,2225 01 800 UL 30400
+01,Tour Travelling Allowances,,66,,,2225 01 800 UL 30401
+02,Transfer Travelling Allowances,,10,,,2225 01 800 UL 30402
+305,Office Expenses,"1,21","1,16",50,50,2225 01 800 UL 30500
+02,Other Contingencies,"1,21","1,16",50,50,2225 01 800 UL 30502
+307,Publications,,1,1,1,2225 01 800 UL 30700
+01,Publications,,1,1,1,2225 01 800 UL 30701
+308,Advertising and Publicity,"18,90","19,75","19,75","19,75",2225 01 800 UL 30800
+01,Advertisement Charges,"18,90","19,75","19,75","19,75",2225 01 800 UL 30801
+309,Grants-in-Aid,"1,40","1,55","1,55","1,55",2225 01 800 UL 30900
+01,Grants for Current Expenditure,"1,40","1,55","1,55","1,55",2225 01 800 UL 30901
+319,Machinery and Equipments,,1,,,2225 01 800 UL 31900
+01,Purchase,,1,,,2225 01 800 UL 31901
+321,Motor Vehicles,,1,,,2225 01 800 UL 32100
+02,Maintenance of Functional Vehicles,,1,,,2225 01 800 UL 32102
+333,Payments for Professional and Special Services,,1,,,2225 01 800 UL 33300
+03,Special Service,,1,,,2225 01 800 UL 33303
+345,"Petroleum, Oil and Lubricant",,1,,,2225 01 800 UL 34500
+01,"Petroleum, Oil and Lubricant",,1,,,2225 01 800 UL 34501
+349,Festival Advances,1,,,,2225 01 800 UL 34900
+01,Festival Advances-Debit,25,50,80,80,2225 01 800 UL 34901
+02,Festival Advances-Credit,- 24,- 50,- 80,- 80,2225 01 800 UL 34902
+UL,Total UL,"77,02","82,75","78,98","83,66",
+#Schemes shared between State and Centre Total,"77,02","82,75","78,98","83,66",,
+800,Total 800,"8,57,51","11,56,59","10,66,80","11,54,52",
+902,Deduct - Amount met from Tamil Nadu Special Welfare Fund,,,,,
+#State's Expenditure,,,,,,
+JA,Deduct - Amount met from State Innovation Fund,,,,,2225 01 902 JA 30000
+330,Inter-Account Transfers,"- 34,96",,,,2225 01 902 JA 33000
+01,Inter-Account Transfers,"- 34,96",,,,2225 01 902 JA 33001
+JA,Total JA,"- 34,96",,,,
+#State's Expenditure Total,,"- 34,96",,,,
+902,Total 902,"- 34,96",,,,
+911,Deduct - Recoveries of Overpayments,,,,,
+#State's Expenditure,,,,,,
+AA,School Education,,,,,2225 01 911 AA 30000
+377,Deduct-Recoveries,"- 1,14,42",,,,2225 01 911 AA 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"- 1,14,42",,,,2225 01 911 AA 37702
+AA,Total AA,"- 1,14,42",,,,
+AE,Hostels,,,,,2225 01 911 AE 30000
+377,Deduct-Recoveries,"- 3,03",,,,2225 01 911 AE 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"- 3,03",,,,2225 01 911 AE 37702
+AE,Total AE,"- 3,03",,,,
+AV,Deduct - Recoveries of Overpayments  - Special Sholarship Scheme to Scheduled Caste / Scheduled Tribe Students who are at Post-Matric Level,,,,,2225 01 911 AV 30000
+377,Deduct-Recoveries,"- 1,62,17",,,,2225 01 911 AV 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"- 1,62,17",,,,2225 01 911 AV 37702
+AV,Total AV,"- 1,62,17",,,,
+BI,Deduct - Recoveries of Overpayments - Payment for funeral rites,,,,,2225 01 911 BI 30000
+377,Deduct-Recoveries,"- 1,00",,,,2225 01 911 BI 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"- 1,00",,,,2225 01 911 BI 37702
+BI,Total BI,"- 1,00",,,,
+JA,House sites / Infrastructure facilities for Adi-Dravidars,,,,,2225 01 911 JA 30000
+377,Deduct-Recoveries,"- 4,20",,,,2225 01 911 JA 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"- 4,20",,,,2225 01 911 JA 37702
+JA,Total JA,"- 4,20",,,,
+JX,Special Incentive Scheme to promote literacy among scheduled caste girls studying in standard III to V,,,,,2225 01 911 JX 30000
+377,Deduct-Recoveries,- 32,,,,2225 01 911 JX 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,- 32,,,,2225 01 911 JX 37702
+JX,Total JX,- 32,,,,
+JY,Special incentive scheme to promote literacy among scheduled caste girls studying VI standard to VIII standard,,,,,2225 01 911 JY 30000
+377,Deduct-Recoveries,"- 5,06",,,,2225 01 911 JY 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"- 5,06",,,,2225 01 911 JY 37702
+JY,Total JY,"- 5,06",,,,
+KB,Chief Minister's Merit Award to Adi-Dravidar students for pursuing college studies,,,,,2225 01 911 KB 30000
+377,Deduct-Recoveries,- 15,,,,2225 01 911 KB 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,- 15,,,,2225 01 911 KB 37702
+KB,Total KB,- 15,,,,
+KD,Hostels,,,,,2225 01 911 KD 30000
+377,Deduct-Recoveries,- 16,,,,2225 01 911 KD 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,- 16,,,,2225 01 911 KD 37702
+KD,Total KD,- 16,,,,
+KL,"Assistance to SC / ST / SC,converts to Christianity for Higher Educational Special Scholarship Scheme",,,,,2225 01 911 KL 30000
+377,Deduct-Recoveries,"- 2,44",,,,2225 01 911 KL 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"- 2,44",,,,2225 01 911 KL 37702
+KL,Total KL,"- 2,44",,,,
+KM,Educational Concessions,,,,,2225 01 911 KM 30000
+377,Deduct-Recoveries,- 95,,,,2225 01 911 KM 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,- 95,,,,2225 01 911 KM 37702
+KM,Total KM,- 95,,,,
+KS,Educational Assistance for Meritorious Adi-Dravidar / Tribal Students to study in reputed schools,,,,,2225 01 911 KS 30000
+377,Deduct-Recoveries,"- 1,53",,,,2225 01 911 KS 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"- 1,53",,,,2225 01 911 KS 37702
+KS,Total KS,"- 1,53",,,,
+#State's Expenditure Total,"- 2,95,43",,,,,
+Central Sector Schemes,,,,,,
+SA,Educational Concessions,,,,,2225 01 911 SA 30000
+377,Deduct-Recoveries,- 75,,,,2225 01 911 SA 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,- 75,,,,2225 01 911 SA 37702
+SA,Total SA,- 75,,,,
+SF,Government of India Pre-Matric Scholarship,,,,,2225 01 911 SF 30000
+377,Deduct-Recoveries,- 14,,,,2225 01 911 SF 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,- 14,,,,2225 01 911 SF 37702
+SF,Total SF,- 14,,,,
+#Central Sector Schemes Total,- 89,,,,,
+911,Total 911,"- 2,96,32",,,,
+01,Total 01 Charged,,"14,00,01","19,82,46","20,00,01",
+01,Total 01 Voted,"29,65,13,58","30,11,00,99","31,08,87,14","31,57,24,66",
+80,General,,,,,
+001,Direction and Administration State's Expenditure,,,,,
+AA,District Staff - Adi-Dravidar and Tribal Welfare Department,,,,,2225 80 001 AA 30000
+301,Salaries,"39,66,14","69,64,93","61,74,35","63,13,67",2225 80 001 AA 30100
+01,Pay,"36,56,93","64,86,03","58,45,00","58,44,52",2225 80 001 AA 30101
+02,Medical Allowance,"29,37","44,03","31,49","41,59",2225 80 001 AA 30102
+03,Medical Charges,16,11,20,10,2225 80 001 AA 30103
+04,Other Allowances,"54,95","29,76","30,00","34,53",2225 80 001 AA 30104
+06,House Rent Allowance,"2,07,95","3,76,50","2,32,11","3,49,97",2225 80 001 AA 30106
+07,Travel Concession,"4,37","8,55","8,55","10,55",2225 80 001 AA 30107
+08,City Compensatory Allowance,"12,41","19,95","27,00","32,41",2225 80 001 AA 30108
+302,Wages,"4,03","4,75","4,50",,2225 80 001 AA 30200
+01,Wages,"4,03","4,75","4,50",,2225 80 001 AA 30201
+303,Dearness Allowance,"4,56,34","8,45,90","9,35,20","14,31,91",2225 80 001 AA 30300
+01,Dearness Allowance,"4,56,34","8,45,90","9,35,20","14,31,91",2225 80 001 AA 30301
+304,Travel Expenses,"94,87","1,06,95","1,05,40","1,06,69",2225 80 001 AA 30400
+01,Tour Travelling Allowances,"92,02","1,02,40","1,02,40","1,02,40",2225 80 001 AA 30401
+02,Transfer Travelling Allowances,"2,85","4,55","3,00","4,29",2225 80 001 AA 30402
+305,Office Expenses,"72,21","86,85","90,75","97,72",2225 80 001 AA 30500
+01,Telephone Charges,"11,08","17,50","17,50","17,50",2225 80 001 AA 30501
+02,Other Contingencies,"26,03","29,25","31,44","38,00",2225 80 001 AA 30502
+03,Electricity Charges,"26,35","32,99","33,00","33,00",2225 80 001 AA 30503
+04,Service Postage & Postal Expenditure,"8,65","7,10","8,80","9,21",2225 80 001 AA 30504
+05,Furniture,10,1,1,1,2225 80 001 AA 30505
+306,"Rent, Rates and Taxes","14,48","16,29","9,10","8,80",2225 80 001 AA 30600
+01,Rent,"14,41","14,99","7,00","6,70",2225 80 001 AA 30601
+02,Property tax,7,"1,30","2,10","2,10",2225 80 001 AA 30602
+308,Advertising and Publicity,"6,30","7,00","7,00","7,00",2225 80 001 AA 30800
+02,Exhibition,"6,30","7,00","7,00","7,00",2225 80 001 AA 30802
+321,Motor Vehicles,"6,40","2,58","7,01","7,01",2225 80 001 AA 32100
+01,Purchase,59,2,1,1,2225 80 001 AA 32101
+02,Maintenance of Functional Vehicles,"5,81","2,56","7,00","7,00",2225 80 001 AA 32102
+333,Payments for Professional and Special Services,"72,39","74,10","73,50","80,97",2225 80 001 AA 33300
+01,Pleaders Fees,,10,10,10,2225 80 001 AA 33301
+04,Contract Payment,"72,39","74,00","73,40","80,87",2225 80 001 AA 33304
+345,"Petroleum, Oil and Lubricant","42,90","63,01","62,63","63,59",2225 80 001 AA 34500
+01,"Petroleum, Oil and Lubricant","42,90","63,01","62,63","63,59",2225 80 001 AA 34501
+349,Festival Advances,"1,26",,,,2225 80 001 AA 34900
+01,Festival Advances-Debit,"30,10","56,55","1,13,60","1,14,00",2225 80 001 AA 34901
+02,Festival Advances-Credit,"- 28,84","- 56,55","- 1,13,60","- 1,14,00",2225 80 001 AA 34902
+359,Prizes and Awards,,10,10,10,2225 80 001 AA 35900
+01,Prizes and Awards,,10,10,10,2225 80 001 AA 35901
+372,Training,24,3,1,1,2225 80 001 AA 37200
+01,Training,24,3,1,1,2225 80 001 AA 37201
+376,Computer and Accessories,"10,11","8,01","1,54,17","21,50",2225 80 001 AA 37600
+01,Purchase,,1,"1,44,32",1,2225 80 001 AA 37601
+02,Maintenance,"4,90","4,75","4,75","15,49",2225 80 001 AA 37602
+03,Stationery,"5,21","3,25","5,10","6,00",2225 80 001 AA 37603
+AA,Total AA,"47,47,67","81,80,50","76,23,72","81,38,97",
+#State's Expenditure Total,,"47,47,67","81,80,50","76,23,72","81,38,97",
+001,Total 001,"47,47,67","81,80,50","76,23,72","81,38,97",
+800,Other Expenditure,,,,,
+#State's Expenditure,,,,,,
+JI,Puthirai Vannar Welfare Board,,,,,2225 80 800 JI 30000
+309,Grants-in-Aid,,1,,,2225 80 800 JI 30900
+01,Grants for Current Expenditure,,1,,,2225 80 800 JI 30901
+JI,Total JI,,1,,,
+#State's Expenditure Total,,,1,,,
+800,Total 800,,1,,,
+80,Total 80,"47,47,67","81,80,51","76,23,72","81,38,97",
+2225,Total 2225 Charged,,"14,00,01","19,82,46","20,00,01",
+2225,Total 2225 Voted,"30,12,61,25","30,92,81,50","31,85,10,86","32,38,63,63",
+2235,SOCIAL SECURITY AND WELFARE,,,,,
+01,Rehabilitation,,,,,
+200,Other Relief Measures Schemes shared between State and Centre Schemes shared between State and Centre,,,,,
+UA,Assistance to the people of Scheduled Caste / Scheduled Tribe Community affected by riots,,,,,2235 01 200 UA 30000
+351,Compensation,"16,59,21","11,87,00","37,45,00","20,00,00",2235 01 200 UA 35100
+02,Other Compensations  - Voted,"16,59,21","11,87,00","37,45,00","20,00,00",2235 01 200 UA 35102
+UA,Total UA,"16,59,21","11,87,00","37,45,00","20,00,00",
+#Schemes shared between State and Centre Total,"16,59,21","11,87,00","37,45,00","20,00,00",,
+200,Total 200,"16,59,21","11,87,00","37,45,00","20,00,00",
+911,Deduct - Recoveries of Overpayments Schemes shared between State and Centre,,,,,
+UA,Assistance to the people of Scheduled Caste / Scheduled Tribe Community affected by riots,,,,,2235 01 911 UA 30000
+377,Deduct-Recoveries,"- 13,17",,,,2235 01 911 UA 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"- 13,17",,,,2235 01 911 UA 37702
+UA,Total UA,"- 13,17",,,,
+Schemes shared between State and Centre Total,"- 13,17",,,,,
+911,Total 911,"- 13,17",,,,
+01,Total 01,"16,46,04","11,87,00","37,45,00","20,00,00",
+60,Other Social Security and Welfare Programmes,,,,,
+200,Other Programmes State's Expenditure,,,,,
+KS,Sanitary Workers Welfare Board,,,,,2235 60 200 KS 30000
+309,Grants-in-Aid,,1,1,1,2235 60 200 KS 30900
+03,Grants for Specific Schemes,,1,1,1,2235 60 200 KS 30903
+KS,Total KS,1,1,1,,
+#State's Expenditure Total,,1,1,1,,
+200,Total 200,1,1,1,,
+911,Deduct - Recoveries of Overpayments Central Sector Schemes Central Sector Sechemes,,,,,
+SD,Rehabilitation of bonded Labourers,,,,,2235 60 911 SD 30000
+377,Deduct-Recoveries,"- 23,84",,,,2235 60 911 SD 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"- 23,84",,,,2235 60 911 SD 37702
+SD,Total SD,"- 23,84",,,,
+Central Sector Schemes Total,"- 23,84",,,,,
+911,Total 911,"- 23,84",,,,
+60,Total 60,"- 23,84",1,1,1,
+2235,Total 2235,"16,22,20","11,87,01","37,45,01","20,00,01",
+3604-00,Compensation And Assignments To Local Bodies And Panchayat Raj Institutions,,,,,
+200,Other Miscellaneous Compensations and Assignments State's Expenditure,,,,,
+BR,Devolution Grants to Rural Local Bodies for Providing basic amenities to Adi Dravidar habitations,,,,,3604 00 200 BR 30000
+309,Grants-in-Aid,,"1,00,00,00","1,00,00,00","1,00,00,00",3604 00 200 BR 30900
+01,Grants for Current Expenditure,,"1,00,00,00","1,00,00,00","1,00,00,00",3604 00 200 BR 30901
+BR,Total BR,"1,00,00,00","1,00,00,00","1,00,00,00",,
+#State's Expenditure Total,,"1,00,00,00","1,00,00,00","1,00,00,00",,
+200,Total 200,"1,00,00,00","1,00,00,00","1,00,00,00",,
+00,Total 00,"1,00,00,00","1,00,00,00","1,00,00,00",,
+3604,Total 3604,"1,00,00,00","1,00,00,00","1,00,00,00",,
+4225,"Capital Outlay On Welfare Of Scheduled Castes, Scheduled Tribes, Other Backward Classes And Minorities",,,,,
+01,Welfare of Scheduled Castes,,,,,
+190,Investments in Public Sector and Other Undertakings State's Expenditure,,,,,
+JE,Contribution towards the Share Capital of Tamil Nadu Adi-Dravidar Housing and Development Corporation,,,,,4225 01 190 JE 40000
+422,Investments,,1,1,1,4225 01 190 JE 42200
+01,Investments,,1,1,1,4225 01 190 JE 42201
+JE,Total JE,1,1,1,,
+#State's Expenditure Total,,1,1,1,,
+190,Total 190,1,1,1,,
+277,Education State's Expenditure,,,,,
+AA,Construction of Hostel Buildings for students - Executed by Tamil Nadu Adi-Dravidar Housing Development Corporation with loan assistance from HUDCO,,,,,4225 01 277 AA 40000
+416,Major Works,,1,1,1,4225 01 277 AA 41600
+01,Major Works,,1,1,1,4225 01 277 AA 41601
+AA,Total AA,1,1,1,,
+JA,Construction of Hostels for Scheduled Castes,,,,,4225 01 277 JA 40000
+416,Major Works,"1,86,71",1,"21,90,03","3,62,47",4225 01 277 JA 41600
+01,Major Works,"1,86,71",1,"21,90,03","3,62,47",4225 01 277 JA 41601
+464,Lands,,1,1,1,4225 01 277 JA 46400
+01,Lands - Voted,,1,1,1,4225 01 277 JA 46401
+JA,Total JA,"1,86,71",2,"21,90,04","3,62,48",
+JB,Construction of Adi-Dravidar Welfare School Buildings,,,,,4225 01 277 JB 40000
+416,Major Works,"4,24,06",1,"24,34,77","4,38,83",4225 01 277 JB 41600
+01,Major Works,"4,24,06",1,"24,34,77","4,38,83",4225 01 277 JB 41601
+JB,Total JB,"4,24,06",1,"24,34,77","4,38,83",
+JK,Upgrading infrastructure facilities in High / Higher Secondary Schools of Adi Dravidar and Tribal Welfare Department with loan assistance of NABARD under RIDF XII,,,,,4225 01 277 JK 40000
+416,Major Works,,1,1,1,4225 01 277 JK 41600
+01,Major Works,,1,1,1,4225 01 277 JK 41601
+JK,Total JK,1,1,1,,
+JM,Construction of Hostels with Loan assistance of NABARD,,,,,4225 01 277 JM 40000
+416,Major Works,"5,36,63",1,"4,62,33","9,24,66",4225 01 277 JM 41600
+01,Major Works,"5,36,63",1,"4,62,33","9,24,66",4225 01 277 JM 41601
+JM,Total JM,"5,36,63",1,"4,62,33","9,24,66",
+JN,Upgrading infrastructure facilities in the Schools of Adi-Dravidar and Tribal Welfare Department with loan assistance of NABARD under RIDF,,,,,4225 01 277 JN 40000
+416,Major Works,"14,36,87","1,00,00,00","17,63,46","1,32,36,54",4225 01 277 JN 41600
+01,Major Works,"14,36,87","1,00,00,00","17,63,46","1,32,36,54",4225 01 277 JN 41601
+JN,Total JN,"14,36,87","1,00,00,00","17,63,46","1,32,36,54",
+JO,Construction of Adi-Dravidar Welfare ITI Building,,,,,4225 01 277 JO 40000
+416,Major Works,,,"1,00,00",1,4225 01 277 JO 41600
+01,Major Works,,,"1,00,00",1,4225 01 277 JO 41601
+JO,Total JO,,"1,00,00",1,,
+JQ,Construction of Adi-Dravidar Welfare Polytechnic College Building,,,,,4225 01 277 JQ 40000
+416,Major Works,,1,,,4225 01 277 JQ 41600
+01,Major Works,,1,,,4225 01 277 JQ 41601
+JQ,Total JQ,1,,,,
+#State's Expenditure Total,"25,84,27","1,00,00,07","69,50,62","1,49,62,54",,
+#Central Sector Schemes,,,,,,
+SB,Construction of Girls Hostels for Scheduled Caste / Scheduled Tribes Students,,,,,4225 01 277 SB 40000
+416,Major Works,,1,1,1,4225 01 277 SB 41600
+01,Major Works,,1,1,1,4225 01 277 SB 41601
+SB,Total SB,1,1,1,,
+#Central Sector Schemes Total,,1,1,1,,
+#Schemes shared between State and Centre,,,,,,
+UA,Construction of Buildings for Government Boys Hostels for Scheduled Castes,,,,,4225 01 277 UA 40000
+416,Major Works,,1,1,1,4225 01 277 UA 41600
+01,Major Works,,1,1,1,4225 01 277 UA 41601
+UA,Total UA,1,1,1,,
+#Schemes shared between State and Centre Total,,1,1,1,,
+277,Total 277,"25,84,27","1,00,00,09","69,50,64","1,49,62,56",
+793,Special Central Assistance for Scheduled Caste Component Plan Central Sector Schemes Central Sector Sechemes,,,,,
+SA,Infrastructure Development in Scheduled Castes dominated blocks / villages under Scheduled Castes Sub Plan,,,,,4225 01 793 SA 40000
+416,Major Works,,1,1,1,4225 01 793 SA 41600
+01,Major Works,,1,1,1,4225 01 793 SA 41601
+SA,Total SA,1,1,1,,
+#Central Sector Schemes,Total,,1,1,1,
+793,Total 793,1,1,1,,
+800,Other Expenditure State's Expenditure,,,,,
+JA,Construction of Community Halls,,,,,4225 01 800 JA 40000
+416,Major Works,"1,22,00",1,"4,17,27","4,00,01",4225 01 800 JA 41600
+01,Major Works,"1,22,00",1,"4,17,27","4,00,01",4225 01 800 JA 41601
+JA,Total JA,"1,22,00",1,"4,17,27","4,00,01",
+JB,Provision of Infrastructure facilities in Adi Dravidar Habitations under Rural Infrastructure Development Fund,,,,,4225 01 800 JB 40000
+416,Major Works,,1,1,1,4225 01 800 JB 41600
+01,Major Works,,1,1,1,4225 01 800 JB 41601
+JB,Total JB,1,1,1,,
+JC,Provision of Burial Grounds / Infrastructure facilities to Adi-Dravidars,,,,,4225 01 800 JC 40000
+416,Major Works,,1,,,4225 01 800 JC 41600
+01,Major Works,,1,,,4225 01 800 JC 41601
+JC,Total JC,1,,,,
+JE,Construction of Working Womens Hostels,,,,,4225 01 800 JE 40000
+416,Major Works,,1,"4,40,01",1,4225 01 800 JE 41600
+01,Major Works,,1,"4,40,01",1,4225 01 800 JE 41601
+JE,Total JE,1,"4,40,01",1,,
+#State's Expenditure Total,"1,22,00",4,"8,57,29","4,00,03",,
+800,Total 800,"1,22,00",4,"8,57,29","4,00,03",
+01,Total 01,"27,06,27","1,00,00,15","78,07,95","1,53,62,61",
+4225,Total 4225,"27,06,27","1,00,00,15","78,07,95","1,53,62,61",
