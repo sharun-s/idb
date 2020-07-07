@@ -1,0 +1,39 @@
+#Dept of Agriculture,RevEx,CapEx,Loans,Total 
+#Demand For Grant-Voted (in Thousands),"1,13,87,31,27","3,76,41,77","1,30,75,00","1,18,94,48,04"
+#Appropriations-Charged,15,,,15
+2059,PUBLIC WORKS,"2,58,50","2,66,75","2,68,00","2,70,75"
+2401,CROP HUSBANDRY,"77,93,01,69","86,95,74,64","90,65,39,77","96,49,08,97"
+2402,SOIL AND WATER CONSERVATION,"1,41,90,40","91,96,37","1,75,36,31","4,01,89,27"
+2408,FOOD STORAGE AND WAREHOUSING,,"1,00,00,00","51,61,85","2,43,31,39"
+2415,AGRICULTURAL RESEARCH AND EDUCATION,"4,25,39,64","5,94,87,51","6,59,54,11","6,02,69,75"
+2435,OTHER AGRICULTURAL PROGRAMMES,"2,01,15,48","3,00,04,29","3,12,34,46","2,55,96,39"
+2501,SPECIAL PROGRAMMES FOR RURAL DEVELOPMENT,"1,55,16,60","1,83,87,60","50,98,35",3
+2551,HILL AREAS,"88,01","93,24","1,05,15","1,08,97"
+2702,MINOR IRRIGATION,"7,88,57","8,39,86","9,48,16","9,54,05"
+2705,COMMAND AREA DEVELOPMENT,- 1,34,8,9
+2810,NEW AND RENEWABLE ENERGY,"10,91,11","8,50,00","55,05,31","2,01,33,54"
+3451,SECRETARIAT - ECONOMIC SERVICES,"13,07,86","13,58,88","14,39,04","17,50,98"
+#Total Revenue Expenditure Expected 2020-2021,"1,13,87,31,27"
+4401,CAPITAL OUTLAY ON CROP HUSBANDRY,"79,46,94","83,13,02","89,24,48","1,23,88,18"
+4402,CAPITAL OUTLAY ON SOIL AND WATER CONSERVATION,"32,19,75","1,34,06,04","1,04,22,79","21,59,05"
+4435,CAPITAL OUTLAY ON OTHER AGRICULTURAL PROGRAMMES,"2,36,91,69","2,01,48,89","1,52,10,78","2,30,94,46"
+4705,CAPITAL OUTLAY ON COMMAND AREA DEVELOPMENT,,8,,8
+#Total CapEx Demand 2020-2021,"3,76,41,77"
+6401,LOANS FOR CROP HUSBANDRY,,"1,30,00,00","1,30,00,00","1,30,00,00"
+7610,LOANS TO GOVERNMENT SERVANTS ETC.,"58,50","75,00","75,00","75,00"
+#Total Loan Demand 2020-2021,"1,30,75,00"
+#by Department
+0501,Secretariat Voted,"17,50,98",,"75,00","18,25,98"
+0502,Directorate of Agriculture Charged,11,,,11
+0502,Directorate of Agriculture Voted,"71,00,87,98","1,04,51,12","1,30,00,00","73,35,39,10"
+0503,Directorate of Agricultural Marketing and Agri Business Voted,"5,04,58,58","2,30,94,46",,"7,35,53,04"
+0504,Directorate of Seed Certification Voted,"57,79,26",3,,"57,79,29"
+0505,Directorate of Horticulture and Plantation Crops Charged,2,,,2
+0505,Directorate of Horticulture and Plantation Crops Voted,"20,84,01,09","19,37,02",,"21,03,38,11"
+0506,Agricultural Engineering Department Charged,2,,,2
+0506,Agricultural Engineering Department Voted,"10,39,25,86","21,59,14",,"10,60,85,00"
+0507,Agro Engineering Services Voted,"49,65",,,"49,65"
+0508,"Tamil Nadu Agricultural University,Coimbatore Voted","5,81,85,96",,,"5,81,85,96"
+0509,Directorate of Organic Certification Voted,"91,91",,,"91,91"
+05,Total Charged,15,,,15
+05,Total Voted,"1,13,87,31,27","3,76,41,77","1,30,75,00","1,18,94,48,04"

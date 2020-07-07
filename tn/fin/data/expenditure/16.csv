@@ -1,0 +1,36 @@
+2047,OTHER FISCAL SERVICES,"10,19,21","11,07,57","11,04,82","12,08,93"
+2052,SECRETARIAT - GENERAL SERVICES,"56,03,45","31,05,20","59,11,99","87,82,46"
+2054,TREASURY AND ACCOUNTS ADMINISTRATION,"3,68,76,81","3,67,13,81","3,46,85,06","3,73,53,96"
+2059,PUBLIC WORKS,"3,61,33","3,32,51","3,74,87","3,42,51"
+2070,OTHER ADMINISTRATIVE SERVICES,,"50,00","7,02","4,90,52"
+2075,MISCELLANEOUS GENERAL SERVICES,"6,20,20,53","9,91,90,57","5,59,84,05","3,65,88,57"
+2216,HOUSING,88,71,34,21
+2230,"LABOUR, EMPLOYMENT AND SKILL DEVELOPMENT",,1,1,1
+2235,SOCIAL SECURITY AND WELFARE,"1,94,22,73","1,91,12,01","1,92,90,01","2,04,62,53"
+2404,DAIRY DEVELOPMENT,,,,"12,45,09"
+2425,CO-OPERATION,"84,96,14","88,32,38","89,78,74","98,86,17"
+3454,CENSUS SURVEYS AND STATISTICS,"5,43,80","5,44,88","5,75,26","5,99,44"
+3604,COMPENSATION AND ASSIGNMENTS TO LOCAL BODIES AND PANCHAYAT RAJ INSTITUTIONS,,1,1,1
+4070,CAPITAL OUTLAY ON OTHER ADMINISTRATIVE SERVICES,"6,88,44","5,00,00,01","3,51,00,01","5,00,00,01"
+5475,CAPITAL OUTLAY ON OTHER GENERAL ECONOMIC SERVICES,,"2,70,00,00","2,70,00,00",1
+7610,LOANS TO GOVERNMENT SERVANTS ETC.,"1,08,22,38","1,31,22,04","1,26,96,53","1,26,46,53"
+#by Dept
+1601,Secretariat Charged,1,,,1
+1601,Secretariat Voted,"2,08,01,00","5,00,00,02","50,00","7,08,51,02"
+1602,Directorate of Treasuries and
+Accounts Charged,1,,,1
+1602,Directorate of Treasuries and
+Accounts Voted,"6,71,46,46",,"1,25,96,53","7,97,42,99"
+1603,Directorate of Local Fund Audit Charged,1,,,1
+1603,Directorate of Local Fund Audit Voted,"78,54,94",,,"78,54,94"
+1604,Directorate of Small Savings Charged,1,,,1
+1604,Directorate of Small Savings Voted,"11,80,91",,,"11,80,91"
+1606,Commissionerate of Government Data Centre Voted,"5,99,44",,,"5,99,44"
+1606,Directorate of Co-operative Audit Voted,"98,86,17",,,"98,86,17"
+1607,State Government Audit Department Charged,1,,,1
+1607,State Government Audit Department Voted,"47,30,62",,,"47,30,62"
+1608,Directorate of Pension Charged,1,,,1
+1608,Directorate of Pension Voted,"35,15,72",,,"35,15,72"
+1611,Directorate of Audit for Milk Co-operatives Voted,"12,45,09",,,"12,45,09"
+16,Total Charged,6,,,6
+16,Total Voted,"11,69,60,35","5,00,00,02","1,26,46,53","17,96,06,90"
