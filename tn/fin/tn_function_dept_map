@@ -1,0 +1,316 @@
+1,STATE LEGISLATURE 
+11,State Legislature 
+2,GOVERNOR AND COUNCIL OF MINISTERS
+21,Governor's Secretariat 
+22,Governor's Household
+23,Council of Ministers 
+
+3,ADMINISTRATION OF JUSTICE
+31,Administration of Justice 
+32,Tamilnadu State Legal Services Authority 
+4,ADI-DRAVIDAR AND TRIBAL WELFARE DEPARTMENT
+41,Secretariat 
+42,Directorate of Adi Dravidar Welfare
+43,Directorate of Tribal Welfare 
+
+5,AGRICULTURE DEPARTMENT
+51,Secretariat 
+52,Directorate of Agriculture
+53,Directorate of Agricultural Marketing and Agri Business 
+54,Directorate of Seed Certification
+55,Directorate of Horticulture and Plantation Crops 
+56,Agricultural Engineering Department
+57,Agro Engineering  Services 
+58,Tamil Nadu Agricultural University, Coimbatore
+59,Directorate of Organic Certification 
+
+6,ANIMAL HUSBANDRY (Animal Husbandry, Dairying and Fisheries Department)
+61,Secretariat 
+62,Directorate of Animal Husbandry
+63,Tamil Nadu Veterinary and Animal Sciences University 
+
+7,FISHERIES (Animal Husbandry, Dairying and Fisheries Department)
+71,Directorate of Fisheries 
+
+8,DAIRY DEVELOPMENT (Animal Husbandry, Dairying and Fisheries Department)
+81,Commissionerate of Milk Production and Dairy Development 
+
+9,BACKWARD CLASSES, MOST BACKWARD CLASSES AND MINORITIES WELFARE DEPARTMENT
+91,Secretariat 
+92,Directorate of Backward Classes  Welfare
+93,Directorate of Most Backward Classes & Denotified Communities Welfare
+94,Backward Classes Commission 
+95,State Minorities Commission 
+96,Directorate of Minorities Welfare
+97,Tamil Nadu Waqf Tribunal 
+
+10,COMMERCIAL TAXES (Commercial Taxes and Registration Department) 
+101,Secretariat
+102,Commissionerate of Commercial Taxes 
+103,Sales Tax Appellate Tribunal 
+
+11,STAMPS AND REGISTRATION  (Commercial Taxes and Registration Department)
+111,Registration Department 
+
+12,CO-OPERATION (Co-operation , Food and  Consumer Protection  Department) 
+121,Secretariat
+122,Registrar of Co-operative Societies 
+
+13,FOOD AND CONSUMER PROTECTION (Co-operation , Food and  Consumer Protection  Department)
+131,Commissionerate of Civil Supplies and Consumer Protection
+132,State Consumer Dispute Redressal Commission 
+
+14,ENERGY DEPARTMENT
+141,Secretariat
+142,Chief Electrical Inspectorate 
+143,Tamilnadu Electricity Board
+144,Tamilnadu Energy Development Agency 
+
+15,ENVIRONMENT (Environment and Forests Department)
+151,Secretariat
+152,Directorate of Environment 
+
+16,FINANCE DEPARTMENT
+161,Secretariat
+162,Directorate of  Treasuries and Accounts 
+163,Directorate of Local Fund Audit
+164,Directorate of Small Savings 
+166,Commissionerate of Government Data Centre
+167,Directorate of Co-operative Audit
+168,State Government Audit Department 
+169,Directorate of Pension 
+1610,Loans and Advances Cell 
+1611,Directorate of Audit for Milk Co-operatives 
+
+17,HANDLOOMS  AND TEXTILES (Handlooms, Handicrafts,  Textiles and Khadi Department)
+171,Secretariat 
+172,Directorate of Handlooms and Textiles 
+
+18,"KHADI, VILLAGE INDUSTRIES AND HANDICRAFTS  (Handlooms, Handicrafts,  Textiles and Khadi Department)"
+181,Khadi and Village Industries Board
+182,Directorate of Sericulture 
+
+19,HEALTH AND FAMILY WELFARE DEPARTMENT
+191,Secretariat
+192,Directorate of Medical and Rural Health Services 
+193,Directorate of Medical Education
+194,Directorate of Public Health and Preventive Medicine 
+195,Directorate of Family Welfare
+196,Tamil Nadu Food Safety and Drug Administration Department 
+197,Directorate of Indian Medicine and Homoeopathy
+198,Directorate of Tamilnadu State Health Transport 
+199,"Project Director, Reproductive Child Health Project
+1910,Tamil Nadu Health Systems Project 
+
+20,HIGHER EDUCATION DEPARTMENT
+201,Secretariat
+202,Directorate of Collegiate Education 
+203,Directorate of Technical Education
+204,Universities
+205,Commissionerate of Archives and Historical Research
+206,Tamil Nadu State Council for Science and Technology 
+207,Tamil Nadu Science and Technology Centre
+208,"Science City, Chennai"
+209,Tamil Nadu State Council for Higher Education 
+2010Tamil Nadu State Council for Technical Education
+
+21,HIGHWAYS AND MINOR PORTS  DEPARTMENT
+211,Secretariat
+212,Chief Engineer - National Highways
+213,Chief Engineer (Construction & Maintenance) - Highways
+214,Chief Engineer (Highways) - Projects
+215,Project Director - Tamilnadu Road Sector Project
+216,Highways Research Station 
+217,Chief Engineer (Highways) - NABARD and Rural Roads
+218,"Highways, Planning, Designs & Investigation"
+219,Tamilnadu Maritime Board 
+2110,Chief Engineer (Metro)
+2111,"Director General, Highways Department"
+
+22,"POLICE (Home, Prohibition and Excise Department)"
+221,Secretariat
+222,Director General of Police
+223,"Commissioner of Police, Chennai"
+224,"Protection of Civil Rights, (IGP)"
+225,Directorate of Prosecution 
+226,Directorate of Civil Defence
+227,Police Training College (DGP)
+228,Directorate of Litigation
+229,Directorate of Forensic Science Department 
+2210,Tamilnadu Uniformed Service Recruitment Board 
+
+23,"FIRE AND RESCUE SERVICES (Home, Prohibition and Excise Department)""
+231,Directorate of Fire and Rescue Services 
+
+24,"PRISONS  (Home, Prohibition and Excise Department)"
+241,Prisons (IGP) 
+
+25,MOTOR VEHICLES ACTS-ADMINISTRATION (Home, Prohibition and Excise Department)
+251,Commissionerate of Transport 
+
+26,HOUSING AND URBAN DEVELOPMENT DEPARTMENT
+261,Secretariat
+262,Directorate of Town and Country Planning 
+263,Registrar of Co-operative Societies (Housing)
+264,Chennai Metropolitan Development Authority 
+265,Tamilnadu Housing Board
+266,Tamilnadu Slum Clearance Board 
+
+27,INDUSTRIES DEPARTMENT
+271,Secretariat
+272,Commissionerate of Industries and Commerce 
+273,Directorate of Sugar
+274,Directorate of Geology and Mining 
+
+28,INFORMATION AND PUBLICITY (Tamil Development and Information Department)
+282,Directorate of Information and Public Relations 
+
+29,TOURISM - ART AND CULTURE (Tourism, Culture and Religious Endowments  Department)
+291,Secretariat
+292,Directorate of Tourism 
+293,Directorate of Archaeology
+294,Directorate of Government Museum 
+295,Directorate of Art and Culture
+
+30,STATIONERY AND PRINTING (Tamil Development and Information Department) 
+301,Directorate of Stationery and Printing 
+
+31,INFORMATION TECHNOLOGY DEPARTMENT
+311,Secretariat
+312,Tamil Virtual Academy 
+313,Directorate of e-Governance 
+
+32,LABOUR AND EMPLOYMENT DEPARTMENT
+321,Secretariat
+322,Commissionerate of Labour 
+323,Directorate of Employment and Training
+324,Directorate of Industrial Safety and Health 
+325,Directorate of Medical and Rural Health Services (ESIS) 
+
+33,LAW DEPARTMENT
+331,Secretariat
+332,Directorate of Legal Studies 
+333,State Official Language (Legislation) Commission
+334,Tamilnadu Dr. Ambedkar Law University
+335,State Law Commission 
+
+34,MUNICIPAL ADMINISTRATION AND WATER SUPPLY DEPARTMENT
+341,Secretariat
+342,Commissionerate of Municipal Administration 
+343,Directorate of Town Panchayat
+344,Tamilnadu Water Supply and Drainage Board 
+345,Chennai Metropoliton Water Supply and Sewerage Board
+346,T.N. Urban Finance & Infrastructure Development Corporation 
+
+35,PERSONNEL AND ADMINISTRATIVE REFORMS DEPARTMENT
+351Secretariat
+352,Directorate of Vigilance and Anti Corruption 
+353,State Vigilance Commission
+354,Tamilnadu Public Service Commission 
+356,Director General of Training
+357,Tamilnadu Civil Service Training Institute 
+358,Commissionerate of Disciplinary Proceedings
+359,Tamil Nadu State Information Commission 
+3510,Tamil Nadu Lokayukta 
+
+36,PLANNING, DEVELOPMENT AND SPECIAL INITIATIVES DEPARTMENT 
+361,Secretariat 
+362,Commissionerate of Economics and Statistics 
+363,Directorate of Evaluation and Applied Research
+364,State Planning Commission (Tamilnadu) 
+365,Hill Areas Development Programme 
+
+37,PROHIBITION AND EXCISE (Home, Prohibition and Excise Department)
+371,Commissionerate of Prohibition and Excise
+372,Advisory Board Constituted under Bootlegger Act 1982 
+
+38,PUBLIC DEPARTMENT
+381,Secretariat
+382,Chief Electoral Officer & Secretary to Government
+383,Directorate of Ex-Servicemen
+384,Commissionerate of Rehabilitation and Welfare of Non-Resident Tamils
+385,Tamilnadu House at New Delhi 
+386State Human Rights Commission 
+
+39,BUILDINGS (Public Works Department)
+391,Secretariat
+392,Public Works - Buildings 
+
+40,IRRIGATION (Public Works Department)
+401,Public Works - Irrigation
+402,Public Works -Ground Water
+403,"Project Director, IAMWARM"
+404,Directorate of Boilers 
+405,Institute of Water Studies 
+
+41,REVENUE AND DISASTER MANAGEMENT DEPARTMENT
+411,Secretariat
+412,Commissionerate of Revenue Administration 
+413,Commissionerate of Land Reforms
+414,Commissionerate of Agricultural Income Tax 
+415,Commissionerate of Survey and Settlement
+416,Commissionerate of Land Administration 
+417Directorate of Urban Land Ceiling & Urban Land Tax 
+
+42,RURAL DEVELOPMENT AND PANCHAYAT RAJ DEPARTMENT
+421,Secretariat
+422,Directorate of Rural Development and Panchayat Raj 
+423State Election Commission 
+
+43,SCHOOL EDUCATION DEPARTMENT
+431,Secretariat
+432,Directorate of Elementary Education 
+433,Directorate of School Education 
+434,Directorate of Government Examination
+435,Directorate of Public Libraries 
+436,Directorate of Non-Formal and Adult Education
+437,"State Council of Educational, Research and Training"
+438,Samagra Shiksha Abhiyan 
+439,Teachers Recruitment Board 
+4310,Directorate of Matriculation Schools 
+4311,Rashtriya Madhyamik Shiksha Abhiyan (RMSA) 
+
+44  MICRO, SMALL AND MEDIUM ENTERPRISES DEPARTMENT 
+441,Secretariat
+442,Commissionerate of Industries and Commerce 
+
+45,SOCIAL WELFARE AND NUTRITIOUS MEAL PROGRAMME DEPARTMENT
+451,Secretariat
+452,Directorate of Social Defence 
+453,Directorate of Social Welfare
+454,Commissionerate of Integrated Child Development Services Scheme 
+
+46,TAMIL DEVELOPMENT (Tamil Development and Information Department)
+461,Secretariat
+462,Directorate of Tamil Development 
+463,Directorate of Tamil Etymological Dictionary Project 
+
+47,HINDU RELIGIOUS AND CHARITABLE ENDOWMENTS (Tourism, Culture and Religious Endowments Department)
+471,Commissionerate of Hindu Religious and Charitable Endowments 
+
+48,TRANSPORT DEPARTMENT
+481,Secretariat
+482,Directorate of Motor Vehicles Maintenance 
+
+49,YOUTH WELFARE AND SPORTS DEVELOPMENT DEPARTMENT
+491,Secretariat
+492,Sports Development Authority of Tamilnadu 
+493,Directorate of National Cadet Corps
+494,Tamil Nadu Physical Education and Sports University 
+
+50,PENSION AND OTHER RETIREMENT BENEFITS
+501PENSION AND OTHER RETIREMENT BENEFITS 
+
+51,RELIEF ON ACCOUNT OF NATURAL CALAMITIES
+511,Commissionerate of Revenue Administration 
+
+52,DEPARTMENT FOR THE WELFARE OF DIFFERENTLY ABLED PERSONS
+521,Secretariat 
+522,Commissionerate for the Welfare of Differently Abled 
+
+53,DEPARTMENT OF SPECIAL PROGRAMME IMPLEMENTATION
+531,Department of Special Programme Implementation 
+
+54,FORESTS   (Environment and Forests Department)
+541Forests Department
+54,MISCELLANEOUS 

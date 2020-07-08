@@ -207,6 +207,7 @@ def walk(node,parent=None,level=0):
 				tree.update(t)
 				#print(i,)
 				#dump(df.ix[idx[0]]['head']+'_'+df.ix[idx[0]]['desc'].replace(' ','_').capitalize()+'.json',t)
+				dump(df.ix[idx[0]]['head']+'_'+df.ix[idx[0]]['desc'].replace(' ','_').capitalize()+'.json',t)
 			else:
 				print('CHECK ',key)
 	return tree
