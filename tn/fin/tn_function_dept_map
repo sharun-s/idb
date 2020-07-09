@@ -1,316 +1,265 @@
-1,STATE LEGISLATURE 
-11,State Legislature 
-2,GOVERNOR AND COUNCIL OF MINISTERS
-21,Governor's Secretariat 
-22,Governor's Household
-23,Council of Ministers 
-
-3,ADMINISTRATION OF JUSTICE
-31,Administration of Justice 
-32,Tamilnadu State Legal Services Authority 
+1,,STATE LEGISLATURE 
+,1,State Legislature 
+2,,GOVERNOR AND COUNCIL OF MINISTERS
+,1,Governor's Secretariat 
+,2,Governor's Household
+,3,Council of Ministers 
+3,,ADMINISTRATION OF JUSTICE
+,1,Administration of Justice 
+,2,Tamilnadu State Legal Services Authority 
 4,ADI-DRAVIDAR AND TRIBAL WELFARE DEPARTMENT
-41,Secretariat 
-42,Directorate of Adi Dravidar Welfare
-43,Directorate of Tribal Welfare 
-
-5,AGRICULTURE DEPARTMENT
-51,Secretariat 
-52,Directorate of Agriculture
-53,Directorate of Agricultural Marketing and Agri Business 
-54,Directorate of Seed Certification
-55,Directorate of Horticulture and Plantation Crops 
-56,Agricultural Engineering Department
-57,Agro Engineering  Services 
-58,Tamil Nadu Agricultural University, Coimbatore
-59,Directorate of Organic Certification 
-
-6,ANIMAL HUSBANDRY (Animal Husbandry, Dairying and Fisheries Department)
-61,Secretariat 
-62,Directorate of Animal Husbandry
-63,Tamil Nadu Veterinary and Animal Sciences University 
-
-7,FISHERIES (Animal Husbandry, Dairying and Fisheries Department)
-71,Directorate of Fisheries 
-
-8,DAIRY DEVELOPMENT (Animal Husbandry, Dairying and Fisheries Department)
-81,Commissionerate of Milk Production and Dairy Development 
-
-9,BACKWARD CLASSES, MOST BACKWARD CLASSES AND MINORITIES WELFARE DEPARTMENT
-91,Secretariat 
-92,Directorate of Backward Classes  Welfare
-93,Directorate of Most Backward Classes & Denotified Communities Welfare
-94,Backward Classes Commission 
-95,State Minorities Commission 
-96,Directorate of Minorities Welfare
-97,Tamil Nadu Waqf Tribunal 
-
-10,COMMERCIAL TAXES (Commercial Taxes and Registration Department) 
-101,Secretariat
-102,Commissionerate of Commercial Taxes 
-103,Sales Tax Appellate Tribunal 
-
-11,STAMPS AND REGISTRATION  (Commercial Taxes and Registration Department)
-111,Registration Department 
-
-12,CO-OPERATION (Co-operation , Food and  Consumer Protection  Department) 
-121,Secretariat
-122,Registrar of Co-operative Societies 
-
-13,FOOD AND CONSUMER PROTECTION (Co-operation , Food and  Consumer Protection  Department)
-131,Commissionerate of Civil Supplies and Consumer Protection
-132,State Consumer Dispute Redressal Commission 
-
-14,ENERGY DEPARTMENT
-141,Secretariat
-142,Chief Electrical Inspectorate 
-143,Tamilnadu Electricity Board
-144,Tamilnadu Energy Development Agency 
-
-15,ENVIRONMENT (Environment and Forests Department)
-151,Secretariat
-152,Directorate of Environment 
-
-16,FINANCE DEPARTMENT
-161,Secretariat
-162,Directorate of  Treasuries and Accounts 
-163,Directorate of Local Fund Audit
-164,Directorate of Small Savings 
-166,Commissionerate of Government Data Centre
-167,Directorate of Co-operative Audit
-168,State Government Audit Department 
-169,Directorate of Pension 
-1610,Loans and Advances Cell 
-1611,Directorate of Audit for Milk Co-operatives 
-
-17,HANDLOOMS  AND TEXTILES (Handlooms, Handicrafts,  Textiles and Khadi Department)
-171,Secretariat 
-172,Directorate of Handlooms and Textiles 
-
-18,"KHADI, VILLAGE INDUSTRIES AND HANDICRAFTS  (Handlooms, Handicrafts,  Textiles and Khadi Department)"
-181,Khadi and Village Industries Board
-182,Directorate of Sericulture 
-
-19,HEALTH AND FAMILY WELFARE DEPARTMENT
-191,Secretariat
-192,Directorate of Medical and Rural Health Services 
-193,Directorate of Medical Education
-194,Directorate of Public Health and Preventive Medicine 
-195,Directorate of Family Welfare
-196,Tamil Nadu Food Safety and Drug Administration Department 
-197,Directorate of Indian Medicine and Homoeopathy
-198,Directorate of Tamilnadu State Health Transport 
-199,"Project Director, Reproductive Child Health Project
-1910,Tamil Nadu Health Systems Project 
-
-20,HIGHER EDUCATION DEPARTMENT
-201,Secretariat
-202,Directorate of Collegiate Education 
-203,Directorate of Technical Education
-204,Universities
-205,Commissionerate of Archives and Historical Research
-206,Tamil Nadu State Council for Science and Technology 
-207,Tamil Nadu Science and Technology Centre
-208,"Science City, Chennai"
-209,Tamil Nadu State Council for Higher Education 
-2010Tamil Nadu State Council for Technical Education
-
-21,HIGHWAYS AND MINOR PORTS  DEPARTMENT
-211,Secretariat
-212,Chief Engineer - National Highways
-213,Chief Engineer (Construction & Maintenance) - Highways
-214,Chief Engineer (Highways) - Projects
-215,Project Director - Tamilnadu Road Sector Project
-216,Highways Research Station 
-217,Chief Engineer (Highways) - NABARD and Rural Roads
-218,"Highways, Planning, Designs & Investigation"
-219,Tamilnadu Maritime Board 
-2110,Chief Engineer (Metro)
-2111,"Director General, Highways Department"
-
-22,"POLICE (Home, Prohibition and Excise Department)"
-221,Secretariat
-222,Director General of Police
-223,"Commissioner of Police, Chennai"
-224,"Protection of Civil Rights, (IGP)"
-225,Directorate of Prosecution 
-226,Directorate of Civil Defence
-227,Police Training College (DGP)
-228,Directorate of Litigation
-229,Directorate of Forensic Science Department 
-2210,Tamilnadu Uniformed Service Recruitment Board 
-
-23,"FIRE AND RESCUE SERVICES (Home, Prohibition and Excise Department)""
-231,Directorate of Fire and Rescue Services 
-
-24,"PRISONS  (Home, Prohibition and Excise Department)"
-241,Prisons (IGP) 
-
-25,MOTOR VEHICLES ACTS-ADMINISTRATION (Home, Prohibition and Excise Department)
-251,Commissionerate of Transport 
-
-26,HOUSING AND URBAN DEVELOPMENT DEPARTMENT
-261,Secretariat
-262,Directorate of Town and Country Planning 
-263,Registrar of Co-operative Societies (Housing)
-264,Chennai Metropolitan Development Authority 
-265,Tamilnadu Housing Board
-266,Tamilnadu Slum Clearance Board 
-
-27,INDUSTRIES DEPARTMENT
-271,Secretariat
-272,Commissionerate of Industries and Commerce 
-273,Directorate of Sugar
-274,Directorate of Geology and Mining 
-
-28,INFORMATION AND PUBLICITY (Tamil Development and Information Department)
-282,Directorate of Information and Public Relations 
-
-29,TOURISM - ART AND CULTURE (Tourism, Culture and Religious Endowments  Department)
-291,Secretariat
-292,Directorate of Tourism 
-293,Directorate of Archaeology
-294,Directorate of Government Museum 
-295,Directorate of Art and Culture
-
-30,STATIONERY AND PRINTING (Tamil Development and Information Department) 
-301,Directorate of Stationery and Printing 
-
-31,INFORMATION TECHNOLOGY DEPARTMENT
-311,Secretariat
-312,Tamil Virtual Academy 
-313,Directorate of e-Governance 
-
-32,LABOUR AND EMPLOYMENT DEPARTMENT
-321,Secretariat
-322,Commissionerate of Labour 
-323,Directorate of Employment and Training
-324,Directorate of Industrial Safety and Health 
-325,Directorate of Medical and Rural Health Services (ESIS) 
-
-33,LAW DEPARTMENT
-331,Secretariat
-332,Directorate of Legal Studies 
-333,State Official Language (Legislation) Commission
-334,Tamilnadu Dr. Ambedkar Law University
-335,State Law Commission 
-
-34,MUNICIPAL ADMINISTRATION AND WATER SUPPLY DEPARTMENT
-341,Secretariat
-342,Commissionerate of Municipal Administration 
-343,Directorate of Town Panchayat
-344,Tamilnadu Water Supply and Drainage Board 
-345,Chennai Metropoliton Water Supply and Sewerage Board
-346,T.N. Urban Finance & Infrastructure Development Corporation 
-
-35,PERSONNEL AND ADMINISTRATIVE REFORMS DEPARTMENT
-351Secretariat
-352,Directorate of Vigilance and Anti Corruption 
-353,State Vigilance Commission
-354,Tamilnadu Public Service Commission 
-356,Director General of Training
-357,Tamilnadu Civil Service Training Institute 
-358,Commissionerate of Disciplinary Proceedings
-359,Tamil Nadu State Information Commission 
-3510,Tamil Nadu Lokayukta 
-
-36,PLANNING, DEVELOPMENT AND SPECIAL INITIATIVES DEPARTMENT 
-361,Secretariat 
-362,Commissionerate of Economics and Statistics 
-363,Directorate of Evaluation and Applied Research
-364,State Planning Commission (Tamilnadu) 
-365,Hill Areas Development Programme 
-
-37,PROHIBITION AND EXCISE (Home, Prohibition and Excise Department)
-371,Commissionerate of Prohibition and Excise
-372,Advisory Board Constituted under Bootlegger Act 1982 
-
-38,PUBLIC DEPARTMENT
-381,Secretariat
-382,Chief Electoral Officer & Secretary to Government
-383,Directorate of Ex-Servicemen
-384,Commissionerate of Rehabilitation and Welfare of Non-Resident Tamils
-385,Tamilnadu House at New Delhi 
-386State Human Rights Commission 
-
-39,BUILDINGS (Public Works Department)
-391,Secretariat
-392,Public Works - Buildings 
-
-40,IRRIGATION (Public Works Department)
-401,Public Works - Irrigation
-402,Public Works -Ground Water
-403,"Project Director, IAMWARM"
-404,Directorate of Boilers 
-405,Institute of Water Studies 
-
-41,REVENUE AND DISASTER MANAGEMENT DEPARTMENT
-411,Secretariat
-412,Commissionerate of Revenue Administration 
-413,Commissionerate of Land Reforms
-414,Commissionerate of Agricultural Income Tax 
-415,Commissionerate of Survey and Settlement
-416,Commissionerate of Land Administration 
-417Directorate of Urban Land Ceiling & Urban Land Tax 
-
-42,RURAL DEVELOPMENT AND PANCHAYAT RAJ DEPARTMENT
-421,Secretariat
-422,Directorate of Rural Development and Panchayat Raj 
-423State Election Commission 
-
-43,SCHOOL EDUCATION DEPARTMENT
-431,Secretariat
-432,Directorate of Elementary Education 
-433,Directorate of School Education 
-434,Directorate of Government Examination
-435,Directorate of Public Libraries 
-436,Directorate of Non-Formal and Adult Education
-437,"State Council of Educational, Research and Training"
-438,Samagra Shiksha Abhiyan 
-439,Teachers Recruitment Board 
-4310,Directorate of Matriculation Schools 
-4311,Rashtriya Madhyamik Shiksha Abhiyan (RMSA) 
-
-44  MICRO, SMALL AND MEDIUM ENTERPRISES DEPARTMENT 
-441,Secretariat
-442,Commissionerate of Industries and Commerce 
-
-45,SOCIAL WELFARE AND NUTRITIOUS MEAL PROGRAMME DEPARTMENT
-451,Secretariat
-452,Directorate of Social Defence 
-453,Directorate of Social Welfare
-454,Commissionerate of Integrated Child Development Services Scheme 
-
-46,TAMIL DEVELOPMENT (Tamil Development and Information Department)
-461,Secretariat
-462,Directorate of Tamil Development 
-463,Directorate of Tamil Etymological Dictionary Project 
-
-47,HINDU RELIGIOUS AND CHARITABLE ENDOWMENTS (Tourism, Culture and Religious Endowments Department)
-471,Commissionerate of Hindu Religious and Charitable Endowments 
-
-48,TRANSPORT DEPARTMENT
-481,Secretariat
-482,Directorate of Motor Vehicles Maintenance 
-
-49,YOUTH WELFARE AND SPORTS DEVELOPMENT DEPARTMENT
-491,Secretariat
-492,Sports Development Authority of Tamilnadu 
-493,Directorate of National Cadet Corps
-494,Tamil Nadu Physical Education and Sports University 
-
-50,PENSION AND OTHER RETIREMENT BENEFITS
-501PENSION AND OTHER RETIREMENT BENEFITS 
-
-51,RELIEF ON ACCOUNT OF NATURAL CALAMITIES
-511,Commissionerate of Revenue Administration 
-
-52,DEPARTMENT FOR THE WELFARE OF DIFFERENTLY ABLED PERSONS
-521,Secretariat 
-522,Commissionerate for the Welfare of Differently Abled 
-
-53,DEPARTMENT OF SPECIAL PROGRAMME IMPLEMENTATION
-531,Department of Special Programme Implementation 
-
-54,FORESTS   (Environment and Forests Department)
-541Forests Department
-54,MISCELLANEOUS 
+,1,Secretariat 
+,2,Directorate of Adi Dravidar Welfare
+,3,Directorate of Tribal Welfare 
+5,,AGRICULTURE DEPARTMENT
+5,1,Secretariat 
+5,2,Directorate of Agriculture
+5,3,Directorate of Agricultural Marketing and Agri Business 
+5,4,Directorate of Seed Certification
+5,5,Directorate of Horticulture and Plantation Crops 
+5,6,Agricultural Engineering Department
+5,7,Agro Engineering  Services 
+5,8,Tamil Nadu Agricultural University, Coimbatore
+5,9,Directorate of Organic Certification 
+6,,ANIMAL HUSBANDRY (Animal Husbandry, Dairying and Fisheries Department)
+6,1,Secretariat 
+6,2,Directorate of Animal Husbandry
+6,3,Tamil Nadu Veterinary and Animal Sciences University 
+7,,FISHERIES (Animal Husbandry, Dairying and Fisheries Department)
+7,1,Directorate of Fisheries 
+8,,DAIRY DEVELOPMENT (Animal Husbandry, Dairying and Fisheries Department)
+8,1,Commissionerate of Milk Production and Dairy Development 
+9,,BACKWARD CLASSES, MOST BACKWARD CLASSES AND MINORITIES WELFARE DEPARTMENT
+9,1,Secretariat 
+9,2,Directorate of Backward Classes  Welfare
+9,3,Directorate of Most Backward Classes & Denotified Communities Welfare
+9,4,Backward Classes Commission 
+9,5,State Minorities Commission 
+9,6,Directorate of Minorities Welfare
+9,7,Tamil Nadu Waqf Tribunal 
+10,,COMMERCIAL TAXES (Commercial Taxes and Registration Department) 
+10,1,Secretariat
+10,2,Commissionerate of Commercial Taxes 
+10,3,Sales Tax Appellate Tribunal 
+11,,STAMPS AND REGISTRATION  (Commercial Taxes and Registration Department)
+11,1,Registration Department 
+12,,CO-OPERATION (Co-operation , Food and  Consumer Protection  Department) 
+12,1,Secretariat
+12,2,Registrar of Co-operative Societies 
+13,,FOOD AND CONSUMER PROTECTION (Co-operation , Food and  Consumer Protection  Department)
+13,1,Commissionerate of Civil Supplies and Consumer Protection
+13,2,State Consumer Dispute Redressal Commission 
+14,,ENERGY DEPARTMENT
+14,1,Secretariat
+14,2,Chief Electrical Inspectorate 
+14,3,Tamilnadu Electricity Board
+14,4,Tamilnadu Energy Development Agency 
+15,,ENVIRONMENT (Environment and Forests Department)
+15,1,Secretariat
+15,2,Directorate of Environment 
+16,,FINANCE DEPARTMENT
+16,1,Secretariat
+16,2,Directorate of  Treasuries and Accounts 
+16,3,Directorate of Local Fund Audit
+16,4,Directorate of Small Savings 
+16,6,Commissionerate of Government Data Centre
+16,7,Directorate of Co-operative Audit
+16,8,State Government Audit Department 
+16,9,Directorate of Pension 
+16,10,Loans and Advances Cell 
+16,11,Directorate of Audit for Milk Co-operatives 
+17,,HANDLOOMS  AND TEXTILES (Handlooms, Handicrafts,  Textiles and Khadi Department)
+17,1,Secretariat 
+17,2,Directorate of Handlooms and Textiles 
+18,,"KHADI, VILLAGE INDUSTRIES AND HANDICRAFTS  (Handlooms, Handicrafts,  Textiles and Khadi Department)"
+18,1,Khadi and Village Industries Board
+18,2,Directorate of Sericulture 
+19,,HEALTH AND FAMILY WELFARE DEPARTMENT
+19,1,Secretariat
+19,2,Directorate of Medical and Rural Health Services 
+19,3,Directorate of Medical Education
+19,4,Directorate of Public Health and Preventive Medicine 
+19,5,Directorate of Family Welfare
+19,6,Tamil Nadu Food Safety and Drug Administration Department 
+19,7,Directorate of Indian Medicine and Homoeopathy
+19,8,Directorate of Tamilnadu State Health Transport 
+19,9,"Project Director, Reproductive Child Health Project
+19,10,Tamil Nadu Health Systems Project 
+20,,HIGHER EDUCATION DEPARTMENT
+20,1,Secretariat
+20,2,Directorate of Collegiate Education 
+20,3,Directorate of Technical Education
+20,4,Universities
+20,5,Commissionerate of Archives and Historical Research
+20,6,Tamil Nadu State Council for Science and Technology 
+20,7,Tamil Nadu Science and Technology Centre
+20,8,"Science City, Chennai"
+20,9,Tamil Nadu State Council for Higher Education 
+20,10,Tamil Nadu State Council for Technical Education
+21,,HIGHWAYS AND MINOR PORTS  DEPARTMENT
+21,1,Secretariat
+21,2,Chief Engineer - National Highways
+21,3,Chief Engineer (Construction & Maintenance) - Highways
+21,4,Chief Engineer (Highways) - Projects
+21,5,Project Director - Tamilnadu Road Sector Project
+21,6,Highways Research Station 
+21,7,Chief Engineer (Highways) - NABARD and Rural Roads
+21,8,"Highways, Planning, Designs & Investigation"
+21,9,Tamilnadu Maritime Board 
+21,10,Chief Engineer (Metro)
+21,11,"Director General, Highways Department"
+22,,"POLICE (Home, Prohibition and Excise Department)"
+22,1,Secretariat
+22,2,Director General of Police
+22,3,"Commissioner of Police, Chennai"
+22,4,"Protection of Civil Rights, (IGP)"
+22,5,Directorate of Prosecution 
+22,6,Directorate of Civil Defence
+22,7,Police Training College (DGP)
+22,8,Directorate of Litigation
+22,9,Directorate of Forensic Science Department 
+22,10,Tamilnadu Uniformed Service Recruitment Board 
+23,,"FIRE AND RESCUE SERVICES (Home, Prohibition and Excise Department)""
+23,1,Directorate of Fire and Rescue Services 
+24,,"PRISONS  (Home, Prohibition and Excise Department)"
+24,1,Prisons (IGP) 
+25,,MOTOR VEHICLES ACTS-ADMINISTRATION (Home, Prohibition and Excise Department)
+25,1,Commissionerate of Transport 
+26,,HOUSING AND URBAN DEVELOPMENT DEPARTMENT
+26,1,Secretariat
+26,2,Directorate of Town and Country Planning 
+26,3,Registrar of Co-operative Societies (Housing)
+26,4,Chennai Metropolitan Development Authority 
+26,5,Tamilnadu Housing Board
+26,6,Tamilnadu Slum Clearance Board 
+27,,INDUSTRIES DEPARTMENT
+27,1,Secretariat
+27,2,Commissionerate of Industries and Commerce 
+27,3,Directorate of Sugar
+27,4,Directorate of Geology and Mining 
+28,,INFORMATION AND PUBLICITY (Tamil Development and Information Department)
+28,2,Directorate of Information and Public Relations 
+29,,TOURISM - ART AND CULTURE (Tourism, Culture and Religious Endowments  Department)
+29,1,Secretariat
+29,2,Directorate of Tourism 
+29,3,Directorate of Archaeology
+29,4,Directorate of Government Museum 
+29,5,Directorate of Art and Culture
+30,,STATIONERY AND PRINTING (Tamil Development and Information Department) 
+30,1,Directorate of Stationery and Printing 
+31,,INFORMATION TECHNOLOGY DEPARTMENT
+31,1,Secretariat
+31,2,Tamil Virtual Academy 
+31,3,Directorate of e-Governance 
+32,,LABOUR AND EMPLOYMENT DEPARTMENT
+32,1,Secretariat
+32,2,Commissionerate of Labour 
+32,3,Directorate of Employment and Training
+32,4,Directorate of Industrial Safety and Health 
+32,5,Directorate of Medical and Rural Health Services (ESIS) 
+33,,LAW DEPARTMENT
+33,1,Secretariat
+33,2,Directorate of Legal Studies 
+33,3,State Official Language (Legislation) Commission
+33,4,Tamilnadu Dr. Ambedkar Law University
+33,5,State Law Commission 
+34,,MUNICIPAL ADMINISTRATION AND WATER SUPPLY DEPARTMENT
+34,1,Secretariat
+34,2,Commissionerate of Municipal Administration 
+34,3,Directorate of Town Panchayat
+34,4,Tamilnadu Water Supply and Drainage Board 
+34,5,Chennai Metropoliton Water Supply and Sewerage Board
+34,6,T.N. Urban Finance & Infrastructure Development Corporation 
+35,,PERSONNEL AND ADMINISTRATIVE REFORMS DEPARTMENT
+35,1,Secretariat
+35,2,Directorate of Vigilance and Anti Corruption 
+35,3,State Vigilance Commission
+35,4,Tamilnadu Public Service Commission 
+35,6,Director General of Training
+35,7,Tamilnadu Civil Service Training Institute 
+35,8,Commissionerate of Disciplinary Proceedings
+35,9,Tamil Nadu State Information Commission 
+35,10,Tamil Nadu Lokayukta 
+36,,PLANNING, DEVELOPMENT AND SPECIAL INITIATIVES DEPARTMENT 
+36,1,Secretariat 
+36,2,Commissionerate of Economics and Statistics 
+36,3,Directorate of Evaluation and Applied Research
+36,4,State Planning Commission (Tamilnadu) 
+36,5,Hill Areas Development Programme 
+37,,PROHIBITION AND EXCISE (Home, Prohibition and Excise Department)
+37,1,Commissionerate of Prohibition and Excise
+37,2,Advisory Board Constituted under Bootlegger Act 1982 
+38,,PUBLIC DEPARTMENT
+38,1,Secretariat
+38,2,Chief Electoral Officer & Secretary to Government
+38,3,Directorate of Ex-Servicemen
+38,4,Commissionerate of Rehabilitation and Welfare of Non-Resident Tamils
+38,5,Tamilnadu House at New Delhi 
+38,6,State Human Rights Commission 
+39,,BUILDINGS (Public Works Department)
+39,1,Secretariat
+39,2,Public Works - Buildings 
+40,,IRRIGATION (Public Works Department)
+40,1,Public Works - Irrigation
+40,2,Public Works -Ground Water
+40,3,"Project Director, IAMWARM"
+40,4,Directorate of Boilers 
+40,5,Institute of Water Studies 
+41,,REVENUE AND DISASTER MANAGEMENT DEPARTMENT
+41,1,Secretariat
+41,2,Commissionerate of Revenue Administration 
+41,3,Commissionerate of Land Reforms
+41,4,Commissionerate of Agricultural Income Tax 
+41,5,Commissionerate of Survey and Settlement
+41,6,Commissionerate of Land Administration 
+41,7,Directorate of Urban Land Ceiling & Urban Land Tax 
+42,,RURAL DEVELOPMENT AND PANCHAYAT RAJ DEPARTMENT
+42,1,Secretariat
+42,2,Directorate of Rural Development and Panchayat Raj 
+42,3,State Election Commission 
+43,,SCHOOL EDUCATION DEPARTMENT
+43,1,Secretariat
+43,2,Directorate of Elementary Education 
+43,3,Directorate of School Education 
+43,4,Directorate of Government Examination
+43,5,Directorate of Public Libraries 
+43,6,Directorate of Non-Formal and Adult Education
+43,7,"State Council of Educational, Research and Training"
+43,8,Samagra Shiksha Abhiyan 
+43,9,Teachers Recruitment Board 
+43,10,Directorate of Matriculation Schools 
+43,11,Rashtriya Madhyamik Shiksha Abhiyan (RMSA) 
+44,,MICRO, SMALL AND MEDIUM ENTERPRISES DEPARTMENT 
+44,1,Secretariat
+44,2,Commissionerate of Industries and Commerce 
+45,,SOCIAL WELFARE AND NUTRITIOUS MEAL PROGRAMME DEPARTMENT
+45,1,Secretariat
+45,2,Directorate of Social Defence 
+45,3,Directorate of Social Welfare
+45,4,Commissionerate of Integrated Child Development Services Scheme 
+46,,TAMIL DEVELOPMENT (Tamil Development and Information Department)
+46,1,Secretariat
+46,2,Directorate of Tamil Development 
+46,3,Directorate of Tamil Etymological Dictionary Project 
+47,,HINDU RELIGIOUS AND CHARITABLE ENDOWMENTS (Tourism, Culture and Religious Endowments Department)
+47,1,Commissionerate of Hindu Religious and Charitable Endowments 
+48,,TRANSPORT DEPARTMENT
+48,1,Secretariat
+48,2,Directorate of Motor Vehicles Maintenance 
+49,,YOUTH WELFARE AND SPORTS DEVELOPMENT DEPARTMENT
+49,1,Secretariat
+49,2,Sports Development Authority of Tamilnadu 
+49,3,Directorate of National Cadet Corps
+49,4,Tamil Nadu Physical Education and Sports University 
+50,,PENSION AND OTHER RETIREMENT BENEFITS
+50,1,PENSION AND OTHER RETIREMENT BENEFITS 
+51,,RELIEF ON ACCOUNT OF NATURAL CALAMITIES
+51,1,Commissionerate of Revenue Administration 
+52,,DEPARTMENT FOR THE WELFARE OF DIFFERENTLY ABLED PERSONS
+52,1,Secretariat 
+52,2,Commissionerate for the Welfare of Differently Abled 
+53,,DEPARTMENT OF SPECIAL PROGRAMME IMPLEMENTATION
+53,1,Department of Special Programme Implementation 
+54,,FORESTS   (Environment and Forests Department)
+54,1,Forests Department
+54,,MISCELLANEOUS 
