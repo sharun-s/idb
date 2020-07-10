@@ -36,12 +36,12 @@ def format_indian(t):
 
 flat=False # false produces a forest true produces fallen trees
 # When long labels have to be fit between branches either set this option to True or increase gap parameter of Sankey
-alternateLeaves=False
+alternateLeaves=True
 
 allfiles=listdir('.')
 csv=sorted([i for i in allfiles if i.endswith('csv') ])[:int(sys.argv[1])]#and i.startswith('02')]
 #print(csv)
-fig = plt.figure(facecolor="#001f3f",figsize=(12,6))
+fig = plt.figure(facecolor="#001f3f",figsize=(24,6))
 #fig.suptitle(title.replace('"','').capitalize(), color="#00efde", fontsize=12)
 title=''
 ax = fig.add_subplot(111, frameon=False)
@@ -53,9 +53,10 @@ ax.spines['right'].set_color('white')
 ax.spines['left'].set_color('white')
 ax.get_xaxis().set_visible(False)
 ax.get_yaxis().set_visible(False)
-sk=Sankey(ax=ax,head_angle=270, scale=0.000000001, offset=0.25, shoulder=0., margin=2.,gap=.45)
+sk=Sankey(ax=ax,head_angle=270, scale=0.000000001, offset=0.25, shoulder=0., margin=0,gap=.45)
 sink=[]
 sinklabel=[]
+skippedfiles=0
 try:
 	for c in csv:
 		df=p.read_csv(c,comment='#',header=None)
@@ -65,8 +66,9 @@ try:
 		df.set_index(0,inplace=True)
 		results=df.sort_values(by=1,ascending=True)
 		if all([True if r==0 else False for r in results[1]]):
-			print("skipping",c)
-			continue 
+			#print("skipping",c)
+			skippedfiles=skippedfiles+1
+			continue
 		sink.append(-1*df[1].sum())
 		sinklabel.append(title.replace('"','').title())
 	#print(sink+[-1*sum(sink)])
@@ -88,7 +90,11 @@ try:
 		df.set_index(0,inplace=True)
 		results=df.sort_values(by=1,ascending=True)
 		if all([True if r==0 else False for r in results[1]]):
-			print("skipping",c)
+			#print("skipping",c)
+			#hack - this test shld really be run at the begining. i.e. start processing only if last file in csv list has values
+			if cnt+1==len(csv):
+				# file is empty AND final one in list so no point saving image
+				sys.exit()
 			continue 
 		#vals being added to labels so actual vals coming from flow which get displayed but hard to edit can be hidden
 		vals=[]
@@ -105,10 +111,10 @@ try:
 				orios=[next(c) if i > 0 else -1. for i in results.values]+[0.]
 			else:
 				orios=[-1. if i > 0 else -1. for i in results.values]+[0.]
-		if cnt==len(csv)-1:
+		if cnt==len(csv)-1-skippedfiles:
 			alpha=1
 		else:
-			alpha=.3
+			alpha=.6
 		sk.add(
 		    flows=[-1*k for k in v] + [1*df[1].sum()],
 			labels=vals+[''],
@@ -164,7 +170,7 @@ try:
 	#hide join total val
 	dia[-1].texts[-1].set_text('')	
 	plt.text(0.8, 0.1,title+' ['+code+']', color='#E6DB74', fontsize=14, ha='center', va='center', transform=ax.transAxes, wrap=True)
-	fig.savefig('grow_'+sys.argv[1]+'.png',format='png',facecolor=fig.get_facecolor())
+	fig.savefig('big_'+sys.argv[1]+'.png',format='png',facecolor=fig.get_facecolor())
 except Exception as e:
 	print("error in ",c)
 	raise e
