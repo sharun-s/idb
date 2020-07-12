@@ -1,0 +1,2522 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2059,PUBLIC WORKS,,,,,
+01,Office Buildings,,,,,
+053,Maintenance and Repairs,,,,,
+#State's Expenditure,,,,,,
+AW,Buildings - Agriculture Department (Administered by Chief Engineer (Buildings)),,,,,2059 01 053 AW 30000
+318,Maintenance,"2,15,46","2,20,00","2,20,00","2,20,00",2059 01 053 AW 31800
+01,Periodical Maintenance,"2,15,46","2,20,00","2,20,00","2,20,00",2059 01 053 AW 31801
+AW,Total AW,"2,15,46","2,20,00","2,20,00","2,20,00",
+#State's Expenditure Total,"2,15,46","2,20,00","2,20,00","2,20,00",,
+053,Total 053,"2,15,46","2,20,00","2,20,00","2,20,00",
+01,Total 01,"2,15,46","2,20,00","2,20,00","2,20,00",
+2059,Total 2059,"2,15,46","2,20,00","2,20,00","2,20,00",
+2401-00,CROP HUSBANDRY,,,,,
+001,Direction and Administration,,,,,
+#State's Expenditure,,,,,,
+AA,Agriculture Department - Headquarters Staff,,,,,2401 00 001 AA 30000
+301,Salaries,"13,92,56","12,93,71","13,04,90","12,49,48",2401 00 001 AA 30100
+01,Pay,"12,06,13","12,09,25","10,46,33","9,98,52",2401 00 001 AA 30101
+02,Medical Allowance,"8,34","7,30","9,28","9,06",2401 00 001 AA 30102
+03,Medical Charges,"7,73","13,57","13,56","14,58",2401 00 001 AA 30103
+04,Other Allowances,"11,00","14,00","14,14","14,14",2401 00 001 AA 30104
+06,House Rent Allowance,"1,33,71","15,00","1,90,55","1,82,96",2401 00 001 AA 30106
+07,Travel Concession,"2,03","4,59","4,63","3,90",2401 00 001 AA 30107
+08,City Compensatory Allowance,"23,62","30,00","26,41","26,32",2401 00 001 AA 30108
+303,Dearness Allowance,"2,83,70","1,54,78","1,79,61","1,86,99",2401 00 001 AA 30300
+01,Dearness Allowance,"2,83,70","1,54,78","1,79,61","1,86,99",2401 00 001 AA 30301
+304,Travel Expenses,"9,05","34,31","30,31","31,31",2401 00 001 AA 30400
+01,Tour Travelling Allowances,"8,78","33,84","29,64","30,51",2401 00 001 AA 30401
+02,Transfer Travelling Allowances,27,47,67,80,2401 00 001 AA 30402
+305,Office Expenses,"45,18","49,20","67,47","64,05",2401 00 001 AA 30500
+01,Telephone Charges,"1,97","2,10","2,52","2,50",2401 00 001 AA 30501
+02,Other Contingencies,"18,20","8,50","9,95","6,50",2401 00 001 AA 30502
+03,Electricity Charges,"21,05","33,60","50,00","50,05",2401 00 001 AA 30503
+04,Service Postage & Postal Expenditure,"3,96","5,00","5,00","5,00",2401 00 001 AA 30504
+306,"Rent, Rates and Taxes","12,28","3,25","14,73","3,56",2401 00 001 AA 30600
+02,Property tax,,10,30,35,2401 00 001 AA 30602
+03,Water Charges,"12,28","3,15","3,15","3,20",2401 00 001 AA 30603
+04,Lease for Land,,,"11,28",1,2401 00 001 AA 30604
+307,Publications,,25,25,33,2401 00 001 AA 30700
+01,Publications,,25,25,33,2401 00 001 AA 30701
+308,Advertising and Publicity,"6,50","6,50","12,14","8,80",2401 00 001 AA 30800
+02,Exhibition,"6,50","6,50","12,14","8,80",2401 00 001 AA 30802
+319,Machinery and Equipments,"7,03","2,11","2,21","2,21",2401 00 001 AA 31900
+01,Purchase,,1,1,1,2401 00 001 AA 31901
+03,Maintenance,"7,03","2,10","2,20","2,20",2401 00 001 AA 31903
+321,Motor Vehicles,"98,18",83,"5,01","5,06",2401 00 001 AA 32100
+01,Purchase,"96,00",1,1,1,2401 00 001 AA 32101
+02,Maintenance of Functional Vehicles,"2,18",82,"5,00","5,05",2401 00 001 AA 32102
+333,Payments for Professional and Special Services,"23,10","13,50","24,67","13,24",2401 00 001 AA 33300
+01,Pleaders Fees,"9,02",90,"2,30","2,50",2401 00 001 AA 33301
+04,Contract Payment,"14,08","12,60","22,37","10,74",2401 00 001 AA 33304
+345,"Petroleum, Oil and Lubricant","4,64","8,21","9,07","9,12",2401 00 001 AA 34500
+01,"Petroleum, Oil and Lubricant","4,64","8,21","9,07","9,12",2401 00 001 AA 34501
+346,"Clothing, Tentage and Stores",73,"1,00","1,00","1,00",2401 00 001 AA 34600
+01,"Clothing, Tentage and Stores",73,"1,00","1,00","1,00",2401 00 001 AA 34601
+347,Stores and Equipments,,1,1,1,2401 00 001 AA 34700
+01,Stores - Voted,,1,1,1,2401 00 001 AA 34701
+349,Festival Advances,55,,,,2401 00 001 AA 34900
+01,Festival Advances-Debit,"7,15","11,60","22,10","31,90",2401 00 001 AA 34901
+02,Festival Advances-Credit,"- 6,60","- 11,60","- 22,10","- 31,90",2401 00 001 AA 34902
+359,Prizes and Awards,12,50,50,50,2401 00 001 AA 35900
+01,Prizes and Awards,12,50,50,50,2401 00 001 AA 35901
+360,T.A./D.A.to Non-Official Members,21,29,30,30,2401 00 001 AA 36000
+01,T.A./D.A.to Non-Official Members,21,29,30,30,2401 00 001 AA 36001
+376,Computer and Accessories,"5,93","5,98","5,97","4,45",2401 00 001 AA 37600
+01,Purchase,,2,1,1,2401 00 001 AA 37601
+02,Maintenance,"3,39","3,40","3,40","2,46",2401 00 001 AA 37602
+03,Stationery,"2,54","2,56","2,56","1,98",2401 00 001 AA 37603
+AA,Total AA,"18,89,76","15,74,43","16,58,15","15,80,41",
+AB,Agriculture Department - Regional and District Staff,,,,,2401 00 001 AB 30000
+301,Salaries,"3,59,85","3,46,13","4,33,62","4,42,36",2401 00 001 AB 30100
+01,Pay,"3,30,47","3,15,32","3,92,58","4,02,63",2401 00 001 AB 30101
+02,Medical Allowance,"2,67","3,00","3,25","3,24",2401 00 001 AB 30102
+03,Medical Charges,21,"1,23","1,24",76,2401 00 001 AB 30103
+04,Other Allowances,"2,78","4,00","4,14","4,14",2401 00 001 AB 30104
+06,House Rent Allowance,"22,08","19,00","29,22","28,58",2401 00 001 AB 30106
+07,Travel Concession,,58,59,42,2401 00 001 AB 30107
+08,City Compensatory Allowance,"1,64","3,00","2,60","2,59",2401 00 001 AB 30108
+303,Dearness Allowance,"89,71","40,36","67,38","75,40",2401 00 001 AB 30300
+01,Dearness Allowance,"89,71","40,36","67,38","75,40",2401 00 001 AB 30301
+304,Travel Expenses,"4,79","17,94","15,43","15,39",2401 00 001 AB 30400
+01,Tour Travelling Allowances,"4,77","17,83","15,18","15,11",2401 00 001 AB 30401
+02,Transfer Travelling Allowances,2,6,20,23,2401 00 001 AB 30402
+03,Fixed Travelling,,5,5,5,2401 00 001 AB 30403
+Allowances,,,,,,
+305,Office Expenses,"2,32","4,18","4,18","3,89",2401 00 001 AB 30500
+01,Telephone Charges,17,32,32,32,2401 00 001 AB 30501
+02,Other Contingencies,99,"1,02","1,02",67,2401 00 001 AB 30502
+03,Electricity Charges,88,"2,29","2,29","2,35",2401 00 001 AB 30503
+04,Service Postage & Postal Expenditure,28,55,55,55,2401 00 001 AB 30504
+306,"Rent, Rates and Taxes","2,18","2,35","2,35","2,44",2401 00 001 AB 30600
+01,Rent,"1,97","2,08","2,08","2,16",2401 00 001 AB 30601
+02,Property tax,21,27,27,28,2401 00 001 AB 30602
+319,Machinery and Equipments,,,1,1,2401 00 001 AB 31900
+01,Purchase,,,1,1,2401 00 001 AB 31901
+321,Motor Vehicles,"9,73","7,23","19,47","21,41",2401 00 001 AB 32100
+01,Purchase,33,1,1,1,2401 00 001 AB 32101
+02,Maintenance of Functional Vehicles,"9,40","7,22","19,46","21,40",2401 00 001 AB 32102
+333,Payments for Professional and Special Services,"3,78,86","3,52,13","3,92,01","2,37,98",2401 00 001 AB 33300
+01,Pleaders Fees,"- 1,67",1,1,1,2401 00 001 AB 33301
+04,Contract Payment,"3,80,53","3,52,12","3,92,00","2,37,97",2401 00 001 AB 33304
+345,"Petroleum, Oil and Lubricant","1,83,42","2,29,00","2,44,42","2,55,81",2401 00 001 AB 34500
+01,"Petroleum, Oil and Lubricant","1,83,42","2,29,00","2,44,42","2,55,81",2401 00 001 AB 34501
+346,"Clothing, Tentage and Stores",,1,1,1,2401 00 001 AB 34600
+01,"Clothing, Tentage and Stores",,1,1,1,2401 00 001 AB 34601
+349,Festival Advances,- 41,,,,2401 00 001 AB 34900
+01,Festival Advances-Debit,"2,50","4,40","14,30","15,00",2401 00 001 AB 34901
+02,Festival Advances-Credit,"- 2,91","- 4,40","- 14,30","- 15,00",2401 00 001 AB 34902
+359,Prizes and Awards,2,10,12,12,2401 00 001 AB 35900
+01,Prizes and Awards,2,10,12,12,2401 00 001 AB 35901
+376,Computer and Accessories,87,35,35,36,2401 00 001 AB 37600
+02,Maintenance,47,25,25,22,2401 00 001 AB 37602
+03,Stationery,40,10,10,14,2401 00 001 AB 37603
+AB,Total AB,"10,31,34","9,99,78","11,79,35","10,55,18",
+AU,Settlement of Air Travel Expenses incurred by Government Departments- Controlled by the Director of Agriculture,,,,,2401 00 001 AU 30000
+304,Travel Expenses,"89,00","3,40,00","2,97,59","2,94,90",2401 00 001 AU 30400
+01,Tour Travelling Allowances,"89,00","3,40,00","2,97,59","2,94,90",2401 00 001 AU 30401
+AU,Total AU,"89,00","3,40,00","2,97,59","2,94,90",
+#State's Expenditure Total,,"30,10,10","29,14,21","31,35,09","29,30,49",
+001,Total 001,"30,10,10","29,14,21","31,35,09","29,30,49",
+102,Food grain crops,,,,,
+#State's Expenditure,,,,,,
+JD,Crop yield Competition,,,,,2401 00 102 JD 30000
+304,Travel Expenses,28,50,22,43,2401 00 102 JD 30400
+01,Tour Travelling Allowances,28,50,22,43,2401 00 102 JD 30401
+359,Prizes and Awards,"18,37","22,37","22,85","22,85",2401 00 102 JD 35900
+01,Prizes and Awards,"18,37","22,37","22,85","22,85",2401 00 102 JD 35901
+JD,Total JD,"18,65","22,87","23,07","23,28",
+JE,Payment of Production Incentive to the Farmers for supply of Paddy to Tamil Nadu Civil Supplies Corporation,,,,,2401 00 102 JE 30000
+311,Subsidies,"46,07,00","1,20,00,00","1,19,00,00","1,25,00,00",2401 00 102 JE 31100
+02,General Subsidy,"46,07,00","1,20,00,00","1,19,00,00","1,25,00,00",2401 00 102 JE 31102
+JE,Total JE,"46,07,00","1,20,00,00","1,19,00,00","1,25,00,00",
+JI,Diesel Subsidy to Farmers,,,,,2401 00 102 JI 30000
+311,Subsidies,,1,1,1,2401 00 102 JI 31100
+02,General Subsidy,,1,1,1,2401 00 102 JI 31102
+JI,Total JI,1,1,1,,
+#State's Expenditure Total,"46,25,65","1,20,22,88","1,19,23,08","1,25,23,29",,
+#Schemes shared between State and Centre,,,,,,
+UC,Production and Distribution of quality seeds,,,,,2401 00 102 UC 30000
+309,Grants-in-Aid,"18,22,08","15,00,00","15,00,00","16,00,00",2401 00 102 UC 30900
+03,Grants for Specific Schemes,"18,22,08","15,00,00","15,00,00","16,00,00",2401 00 102 UC 30903
+311,Subsidies,"30,22",1,1,1,2401 00 102 UC 31100
+01,Individual Based Subsidy,"30,22",1,1,1,2401 00 102 UC 31101
+372,Training,52,1,1,1,2401 00 102 UC 37200
+01,Training,52,1,1,1,2401 00 102 UC 37201
+UC,Total UC,"18,52,82","15,00,02","15,00,02","16,00,02",
+#Schemes shared between State and Centre Total,"18,52,82","15,00,02","15,00,02","16,00,02",,
+102,Total 102,"64,78,47","1,35,22,90","1,34,23,10","1,41,23,31",
+103,Seeds,,,,,
+#State's Expenditure,,,,,,
+AA,Establishment of State Seed farms,,,,,2401 00 103 AA 30000
+301,Salaries,"2,27,03","2,00,20","2,56,10","2,65,51",2401 00 103 AA 30100
+01,Pay,"2,11,76","1,79,89","2,32,89","2,43,11",2401 00 103 AA 30101
+02,Medical Allowance,"1,56","1,45","2,41","2,43",2401 00 103 AA 30102
+04,Other Allowances,"2,21","3,00","3,45","3,45",2401 00 103 AA 30104
+06,House Rent Allowance,"10,75","15,00","16,36","15,56",2401 00 103 AA 30106
+07,Travel Concession,,3,13,9,2401 00 103 AA 30107
+08,City Compensatory Allowance,75,83,86,87,2401 00 103 AA 30108
+303,Dearness Allowance,"1,36,49","23,03","39,98","45,53",2401 00 103 AA 30300
+01,Dearness Allowance,"1,36,49","23,03","39,98","45,53",2401 00 103 AA 30301
+304,Travel Expenses,"3,04","9,25","9,96","10,31",2401 00 103 AA 30400
+01,Tour Travelling Allowances,"2,80","9,13","9,76","10,10",2401 00 103 AA 30401
+02,Transfer Travelling Allowances,15,4,12,13,2401 00 103 AA 30402
+03,Fixed Travelling,9,8,8,8,2401 00 103 AA 30403
+Allowances,,,,,,
+305,Office Expenses,"14,45","24,53","27,89","29,13",2401 00 103 AA 30500
+02,Other Contingencies,"3,91","3,10","3,10","3,30",2401 00 103 AA 30502
+03,Electricity Charges,"10,42","21,38","24,74","25,78",2401 00 103 AA 30503
+04,Service Postage & Postal Expenditure,12,5,5,5,2401 00 103 AA 30504
+306,"Rent, Rates and Taxes","1,50","1,66","2,77","2,86",2401 00 103 AA 30600
+01,Rent,,40,40,41,2401 00 103 AA 30601
+02,Property tax,"1,43","1,19","2,30","2,38",2401 00 103 AA 30602
+03,Water Charges,7,7,7,7,2401 00 103 AA 30603
+308,Advertising and Publicity,10,10,10,10,2401 00 103 AA 30800
+01,Advertisement Charges,10,10,10,10,2401 00 103 AA 30801
+319,Machinery and Equipments,"18,32","8,01","11,68","11,70",2401 00 103 AA 31900
+01,Purchase,11,11,11,1,2401 00 103 AA 31901
+03,Maintenance,"18,21","7,90","11,57","11,69",2401 00 103 AA 31903
+345,"Petroleum, Oil and Lubricant","9,68","12,30","15,96","16,39",2401 00 103 AA 34500
+01,"Petroleum, Oil and Lubricant","9,68","12,30","15,96","16,39",2401 00 103 AA 34501
+349,Festival Advances,30,,,,2401 00 103 AA 34900
+01,Festival Advances-Debit,"1,45","3,90","6,90","7,10",2401 00 103 AA 34901
+02,Festival Advances-Credit,"- 1,15","- 3,90","- 6,90","- 7,10",2401 00 103 AA 34902
+359,Prizes and Awards,2,12,12,12,2401 00 103 AA 35900
+01,Prizes and Awards,2,12,12,12,2401 00 103 AA 35901
+369,Procurement of,,1,1,1,2401 00 103 AA 36900
+Agricultural Inputs,,,,,,
+01,Procurement of,,1,1,1,2401 00 103 AA 36901
+Agricultural Inputs,,,,,,
+373,Transport Charges,1,2,2,3,2401 00 103 AA 37300
+01,Transport Charges,1,2,2,3,2401 00 103 AA 37301
+376,Computer and Accessories,37,37,62,62,2401 00 103 AA 37600
+02,Maintenance,15,27,35,35,2401 00 103 AA 37602
+03,Stationery,22,10,27,27,2401 00 103 AA 37603
+AA,Total AA,"4,11,31","2,79,60","3,65,21","3,82,31",
+AC,Multiplication and Distribution of Pulses Seeds,,,,,2401 00 103 AC 30000
+301,Salaries,"59,99","40,08","56,37","86,15",2401 00 103 AC 30100
+01,Pay,"56,10","35,88","51,13","79,33",2401 00 103 AC 30101
+02,Medical Allowance,53,43,65,72,2401 00 103 AC 30102
+04,Other Allowances,53,68,93,93,2401 00 103 AC 30104
+06,House Rent Allowance,"2,80","3,00","3,57","5,08",2401 00 103 AC 30106
+07,Travel Concession,,1,2,2,2401 00 103 AC 30107
+08,City Compensatory Allowance,3,8,7,7,2401 00 103 AC 30108
+302,Wages,,1,1,1,2401 00 103 AC 30200
+01,Wages,,1,1,1,2401 00 103 AC 30201
+303,Dearness Allowance,"23,34","4,59","8,77","14,85",2401 00 103 AC 30300
+01,Dearness Allowance,"23,34","4,59","8,77","14,85",2401 00 103 AC 30301
+304,Travel Expenses,63,"1,45","1,86","1,93",2401 00 103 AC 30400
+01,Tour Travelling Allowances,63,"1,45","1,86","1,93",2401 00 103 AC 30401
+305,Office Expenses,"1,29","2,05","2,09","2,06",2401 00 103 AC 30500
+02,Other Contingencies,"1,19","1,20","1,20","1,13",2401 00 103 AC 30502
+03,Electricity Charges,10,79,83,87,2401 00 103 AC 30503
+04,Service Postage & Postal Expenditure,,6,6,6,2401 00 103 AC 30504
+319,Machinery and Equipments,"1,10","1,10","1,10","1,00",2401 00 103 AC 31900
+03,Maintenance,"1,10","1,10","1,10","1,00",2401 00 103 AC 31903
+324,Materials and Supplies,,1,1,1,2401 00 103 AC 32400
+01,Materials and Supplies,,1,1,1,2401 00 103 AC 32401
+342,Service or Commitment Charges,,1,1,1,2401 00 103 AC 34200
+01,Service or Commitment Charges,,1,1,1,2401 00 103 AC 34201
+349,Festival Advances,- 7,,,,2401 00 103 AC 34900
+01,Festival Advances-Debit,45,"1,10","2,10","2,20",2401 00 103 AC 34901
+02,Festival Advances-Credit,- 52,"- 1,10","- 2,10","- 2,20",2401 00 103 AC 34902
+351,Compensation,,1,1,1,2401 00 103 AC 35100
+02,Other Compensations  - Voted,,1,1,1,2401 00 103 AC 35102
+359,Prizes and Awards,,1,2,2,2401 00 103 AC 35900
+01,Prizes and Awards,,1,2,2,2401 00 103 AC 35901
+369,Procurement of,,1,1,1,2401 00 103 AC 36900
+Agricultural Inputs,,,,,,
+01,Procurement of,,1,1,1,2401 00 103 AC 36901
+Agricultural Inputs,,,,,,
+373,Transport Charges,,1,,,2401 00 103 AC 37300
+01,Transport Charges,,1,,,2401 00 103 AC 37301
+AC,Total AC,"86,28","49,34","70,26","1,06,06",
+AD,Seed Processing Unit,,,,,2401 00 103 AD 30000
+301,Salaries,"3,89,04","3,13,29","4,30,08","4,50,91",2401 00 103 AD 30100
+01,Pay,"3,62,13","2,88,83","3,92,48","4,13,63",2401 00 103 AD 30101
+02,Medical Allowance,"2,28","1,95","3,26","3,30",2401 00 103 AD 30102
+03,Medical Charges,,"1,50","1,47",50,2401 00 103 AD 30103
+04,Other Allowances,"1,45","2,31","2,88","2,88",2401 00 103 AD 30104
+06,House Rent Allowance,"21,37","16,50","28,03","28,64",2401 00 103 AD 30106
+07,Travel Concession,2,20,22,18,2401 00 103 AD 30107
+08,City Compensatory Allowance,"1,79","2,00","1,74","1,78",2401 00 103 AD 30108
+302,Wages,5,1,1,1,2401 00 103 AD 30200
+01,Wages,5,1,1,1,2401 00 103 AD 30201
+303,Dearness Allowance,"1,28,90","36,97","67,37","77,45",2401 00 103 AD 30300
+01,Dearness Allowance,"1,28,90","36,97","67,37","77,45",2401 00 103 AD 30301
+304,Travel Expenses,"5,32","8,83","11,12","11,46",2401 00 103 AD 30400
+01,Tour Travelling Allowances,"5,22","8,68","10,95","11,28",2401 00 103 AD 30401
+02,Transfer Travelling Allowances,10,15,17,18,2401 00 103 AD 30402
+305,Office Expenses,"27,21","39,95","46,95","47,94",2401 00 103 AD 30500
+01,Telephone Charges,21,"1,15","1,15","1,15",2401 00 103 AD 30501
+02,Other Contingencies,"5,98","4,31","4,31","5,17",2401 00 103 AD 30502
+03,Electricity Charges,"20,70","33,94","40,94","41,07",2401 00 103 AD 30503
+04,Service Postage & Postal Expenditure,32,55,55,55,2401 00 103 AD 30504
+306,"Rent, Rates and Taxes","5,73","6,33","7,30","7,26",2401 00 103 AD 30600
+01,Rent,14,"4,00","4,00","4,06",2401 00 103 AD 30601
+02,Property tax,"5,59","2,33","3,30","3,20",2401 00 103 AD 30602
+319,Machinery and Equipments,"15,02","5,03","10,59","10,00",2401 00 103 AD 31900
+01,Purchase,59,28,28,1,2401 00 103 AD 31901
+02,Renewal and Replacement,,,30,32,2401 00 103 AD 31902
+03,Maintenance,"14,43","4,75","10,01","9,67",2401 00 103 AD 31903
+321,Motor Vehicles,,1,1,1,2401 00 103 AD 32100
+02,Maintenance of Functional Vehicles,,1,1,1,2401 00 103 AD 32102
+324,Materials and Supplies,,1,53,53,2401 00 103 AD 32400
+01,Materials and Supplies,,1,53,53,2401 00 103 AD 32401
+333,Payments for Professional and Special Services,,2,1,1,2401 00 103 AD 33300
+01,Pleaders Fees,,2,1,1,2401 00 103 AD 33301
+342,Service or Commitment Charges,,1,1,1,2401 00 103 AD 34200
+01,Service or Commitment Charges,,1,1,1,2401 00 103 AD 34201
+345,"Petroleum, Oil and Lubricant","1,49","2,07","3,50","3,72",2401 00 103 AD 34500
+01,"Petroleum, Oil and Lubricant","1,49","2,07","3,50","3,72",2401 00 103 AD 34501
+346,"Clothing, Tentage and Stores",,3,3,3,2401 00 103 AD 34600
+01,"Clothing, Tentage and Stores",,3,3,3,2401 00 103 AD 34601
+347,Stores and Equipments,13,17,40,37,2401 00 103 AD 34700
+01,Stores - Voted,13,17,40,37,2401 00 103 AD 34701
+349,Festival Advances,- 1,,,,2401 00 103 AD 34900
+01,Festival Advances-Debit,"1,85","4,07","7,80","7,90",2401 00 103 AD 34901
+02,Festival Advances-Credit,"- 1,86","- 4,07","- 7,80","- 7,90",2401 00 103 AD 34902
+359,Prizes and Awards,,18,32,32,2401 00 103 AD 35900
+01,Prizes and Awards,,18,32,32,2401 00 103 AD 35901
+373,Transport Charges,,1,3,3,2401 00 103 AD 37300
+01,Transport Charges,,1,3,3,2401 00 103 AD 37301
+376,Computer and Accessories,3,3,27,28,2401 00 103 AD 37600
+02,Maintenance,3,3,21,23,2401 00 103 AD 37602
+03,Stationery,,,6,5,2401 00 103 AD 37603
+AD,Total AD,"5,72,91","4,12,95","5,78,53","6,10,34",
+AF,Establishment of Foundation Seed Farm for oilseeds,,,,,2401 00 103 AF 30000
+301,Salaries,"2,80,26","2,31,63","3,27,58","3,70,48",2401 00 103 AF 30100
+01,Pay,"2,62,34","2,12,25","2,97,62","3,41,00",2401 00 103 AF 30101
+02,Medical Allowance,"1,93","1,83","2,76","2,73",2401 00 103 AF 30102
+04,Other Allowances,"2,19","3,48","4,18","4,18",2401 00 103 AF 30104
+06,House Rent Allowance,"12,90","12,00","21,17","20,75",2401 00 103 AF 30106
+07,Travel Concession,14,38,26,18,2401 00 103 AF 30107
+08,City Compensatory Allowance,76,"1,69","1,59","1,64",2401 00 103 AF 30108
+302,Wages,,1,1,1,2401 00 103 AF 30200
+01,Wages,,1,1,1,2401 00 103 AF 30201
+303,Dearness Allowance,"1,50,85","27,17","51,09","63,86",2401 00 103 AF 30300
+01,Dearness Allowance,"1,50,85","27,17","51,09","63,86",2401 00 103 AF 30301
+304,Travel Expenses,"4,66","12,87","13,49","13,85",2401 00 103 AF 30400
+01,Tour Travelling Allowances,"3,82","11,41","12,03","12,39",2401 00 103 AF 30401
+02,Transfer Travelling Allowances,4,5,5,5,2401 00 103 AF 30402
+03,Fixed Travelling,80,"1,41","1,41","1,41",2401 00 103 AF 30403
+Allowances,,,,,,
+305,Office Expenses,"1,33","2,95","2,63","2,84",2401 00 103 AF 30500
+01,Telephone Charges,,5,5,5,2401 00 103 AF 30501
+02,Other Contingencies,84,90,90,"1,04",2401 00 103 AF 30502
+03,Electricity Charges,49,"1,93","1,61","1,68",2401 00 103 AF 30503
+04,Service Postage & Postal Expenditure,,7,7,7,2401 00 103 AF 30504
+306,"Rent, Rates and Taxes","1,76","3,26","2,80","2,91",2401 00 103 AF 30600
+02,Property tax,"1,76","3,23","2,77","2,88",2401 00 103 AF 30602
+03,Water Charges,,3,3,3,2401 00 103 AF 30603
+308,Advertising and Publicity,,,5,5,2401 00 103 AF 30800
+01,Advertisement Charges,,,5,5,2401 00 103 AF 30801
+319,Machinery and Equipments,52,25,63,64,2401 00 103 AF 31900
+03,Maintenance,52,25,63,64,2401 00 103 AF 31903
+342,Service or Commitment Charges,,1,1,1,2401 00 103 AF 34200
+01,Service or Commitment Charges,,1,1,1,2401 00 103 AF 34201
+345,"Petroleum, Oil and Lubricant",10,22,25,26,2401 00 103 AF 34500
+01,"Petroleum, Oil and Lubricant",10,22,25,26,2401 00 103 AF 34501
+349,Festival Advances,- 24,,,,2401 00 103 AF 34900
+01,Festival Advances-Debit,"1,10","4,85","7,80","7,80",2401 00 103 AF 34901
+02,Festival Advances-Credit,"- 1,34","- 4,85","- 7,80","- 7,80",2401 00 103 AF 34902
+359,Prizes and Awards,,18,20,20,2401 00 103 AF 35900
+01,Prizes and Awards,,18,20,20,2401 00 103 AF 35901
+369,Procurement of,,1,1,1,2401 00 103 AF 36900
+Agricultural Inputs,,,,,,
+01,Procurement of,,1,1,1,2401 00 103 AF 36901
+Agricultural Inputs,,,,,,
+373,Transport Charges,,1,1,1,2401 00 103 AF 37300
+01,Transport Charges,,1,1,1,2401 00 103 AF 37301
+376,Computer and Accessories,2,2,6,6,2401 00 103 AF 37600
+02,Maintenance,2,2,3,3,2401 00 103 AF 37602
+03,Stationery,,,3,3,2401 00 103 AF 37603
+AF,Total AF,"4,39,26","2,78,59","3,98,82","4,55,19",
+AH,Production and Distribution of Quality coconut seedlings and Renovation of coconut trees in Urban Areas,,,,,2401 00 103 AH 30000
+301,Salaries,"34,65","32,47","27,25","25,54",2401 00 103 AH 30100
+01,Pay,"31,00","27,64","22,54","21,02",2401 00 103 AH 30101
+02,Medical Allowance,27,40,40,43,2401 00 103 AH 30102
+04,Other Allowances,15,38,38,38,2401 00 103 AH 30104
+06,House Rent Allowance,"2,70","3,00","3,00","2,79",2401 00 103 AH 30106
+07,Travel Concession,,5,7,5,2401 00 103 AH 30107
+08,City Compensatory Allowance,53,"1,00",86,87,2401 00 103 AH 30108
+303,Dearness Allowance,"9,03","3,54","3,87","3,94",2401 00 103 AH 30300
+01,Dearness Allowance,"9,03","3,54","3,87","3,94",2401 00 103 AH 30301
+304,Travel Expenses,96,"2,77","2,55","2,71",2401 00 103 AH 30400
+01,Tour Travelling Allowances,60,"1,76","1,54","1,70",2401 00 103 AH 30401
+02,Transfer Travelling Allowances,,3,3,3,2401 00 103 AH 30402
+03,Fixed Travelling,36,98,98,98,2401 00 103 AH 30403
+Allowances,,,,,,
+305,Office Expenses,4,4,4,5,2401 00 103 AH 30500
+02,Other Contingencies,2,2,2,3,2401 00 103 AH 30502
+04,Service Postage & Postal Expenditure,2,2,2,2,2401 00 103 AH 30504
+349,Festival Advances,- 6,,,,2401 00 103 AH 34900
+01,Festival Advances-Debit,10,80,90,90,2401 00 103 AH 34901
+02,Festival Advances-Credit,- 16,- 80,- 90,- 90,2401 00 103 AH 34902
+AH,Total AH,"44,62","38,82","33,71","32,24",
+AK,Foundation Seed Production Centre for Groundnut,,,,,2401 00 103 AK 30000
+305,Office Expenses,88,86,"1,05","1,13",2401 00 103 AK 30500
+02,Other Contingencies,19,13,13,17,2401 00 103 AK 30502
+03,Electricity Charges,69,73,92,96,2401 00 103 AK 30503
+308,Advertising and Publicity,5,36,36,38,2401 00 103 AK 30800
+01,Advertisement Charges,5,36,36,38,2401 00 103 AK 30801
+319,Machinery and Equipments,80,80,80,78,2401 00 103 AK 31900
+03,Maintenance,80,80,80,78,2401 00 103 AK 31903
+345,"Petroleum, Oil and Lubricant",5,5,5,5,2401 00 103 AK 34500
+01,"Petroleum, Oil and Lubricant",5,5,5,5,2401 00 103 AK 34501
+AK,Total AK,"1,78","2,07","2,26","2,34",
+AL,Procurement and distribution of Paddy seeds,,,,,2401 00 103 AL 30000
+301,Salaries,"13,03","9,61","18,08","18,42",2401 00 103 AL 30100
+01,Pay,"12,13","8,27","16,04","16,35",2401 00 103 AL 30101
+02,Medical Allowance,10,6,22,22,2401 00 103 AL 30102
+04,Other Allowances,13,13,22,22,2401 00 103 AL 30104
+06,House Rent Allowance,62,"1,00","1,43","1,47",2401 00 103 AL 30106
+07,Travel Concession,,1,4,3,2401 00 103 AL 30107
+08,City Compensatory Allowance,5,14,13,13,2401 00 103 AL 30108
+303,Dearness Allowance,"7,30","1,06","2,75","3,06",2401 00 103 AL 30300
+01,Dearness Allowance,"7,30","1,06","2,75","3,06",2401 00 103 AL 30301
+304,Travel Expenses,9,73,"1,07","1,08",2401 00 103 AL 30400
+01,Tour Travelling Allowances,9,73,"1,07","1,08",2401 00 103 AL 30401
+305,Office Expenses,17,28,29,43,2401 00 103 AL 30500
+02,Other Contingencies,16,17,17,29,2401 00 103 AL 30502
+03,Electricity Charges,1,11,12,14,2401 00 103 AL 30503
+306,"Rent, Rates and Taxes","3,00","3,13","4,06","4,22",2401 00 103 AL 30600
+01,Rent,"3,00","3,00","3,00","3,12",2401 00 103 AL 30601
+02,Property tax,,13,"1,06","1,10",2401 00 103 AL 30602
+349,Festival Advances,- 3,,,,2401 00 103 AL 34900
+01,Festival Advances-Debit,5,45,90,90,2401 00 103 AL 34901
+02,Festival Advances-Credit,- 8,- 45,- 90,- 90,2401 00 103 AL 34902
+AL,Total AL,"23,56","14,81","26,25","27,21",
+AM,Multiplication of Sugarcane Seeds,,,,,2401 00 103 AM 30000
+301,Salaries,"9,77","6,81","6,24","5,91",2401 00 103 AM 30100
+01,Pay,"9,08","6,33","5,60","5,30",2401 00 103 AM 30101
+02,Medical Allowance,5,4,4,4,2401 00 103 AM 30102
+04,Other Allowances,6,3,7,7,2401 00 103 AM 30104
+06,House Rent Allowance,58,40,50,48,2401 00 103 AM 30106
+07,Travel Concession,,1,3,2,2401 00 103 AM 30107
+303,Dearness Allowance,"2,38",81,96,99,2401 00 103 AM 30300
+01,Dearness Allowance,"2,38",81,96,99,2401 00 103 AM 30301
+304,Travel Expenses,66,44,53,54,2401 00 103 AM 30400
+01,Tour Travelling Allowances,66,44,53,54,2401 00 103 AM 30401
+305,Office Expenses,16,36,22,23,2401 00 103 AM 30500
+02,Other Contingencies,1,1,1,1,2401 00 103 AM 30502
+03,Electricity Charges,15,34,20,21,2401 00 103 AM 30503
+04,Service Postage & Postal Expenditure,,1,1,1,2401 00 103 AM 30504
+321,Motor Vehicles,3,3,5,5,2401 00 103 AM 32100
+02,Maintenance of Functional Vehicles,3,3,5,5,2401 00 103 AM 32102
+345,"Petroleum, Oil and Lubricant",47,67,67,70,2401 00 103 AM 34500
+01,"Petroleum, Oil and Lubricant",47,67,67,70,2401 00 103 AM 34501
+346,"Clothing, Tentage and Stores",5,5,5,5,2401 00 103 AM 34600
+01,"Clothing, Tentage and Stores",5,5,5,5,2401 00 103 AM 34601
+347,Stores and Equipments,1,1,1,1,2401 00 103 AM 34700
+01,Stores - Voted,1,1,1,1,2401 00 103 AM 34701
+349,Festival Advances,1,,,,2401 00 103 AM 34900
+01,Festival Advances-Debit,5,5,10,10,2401 00 103 AM 34901
+02,Festival Advances-Credit,- 4,- 5,- 10,- 10,2401 00 103 AM 34902
+359,Prizes and Awards,,,20,20,2401 00 103 AM 35900
+01,Prizes and Awards,,,20,20,2401 00 103 AM 35901
+AM,Total AM,"13,54","9,18","8,93","8,68",
+AN,Establishment of seed centres for procurement and distribution of seeds,,,,,2401 00 103 AN 30000
+301,Salaries,"50,41,45","38,26,03","62,94,97","64,64,85",2401 00 103 AN 30100
+01,Pay,"47,20,03","34,68,20","58,47,27","60,33,46",2401 00 103 AN 30101
+02,Medical Allowance,"29,74","22,20","41,02","40,78",2401 00 103 AN 30102
+03,Medical Charges,46,"1,85","1,80","1,45",2401 00 103 AN 30103
+04,Other Allowances,"35,08","27,10","39,94","39,94",2401 00 103 AN 30104
+06,House Rent Allowance,"2,33,83","2,90,02","3,44,31","3,30,34",2401 00 103 AN 30106
+07,Travel Concession,"8,28","1,42","2,36","1,75",2401 00 103 AN 30107
+08,City Compensatory Allowance,"14,03","15,24","18,27","17,13",2401 00 103 AN 30108
+303,Dearness Allowance,"18,42,52","4,43,34","10,03,67","11,29,86",2401 00 103 AN 30300
+01,Dearness Allowance,"18,42,52","4,43,34","10,03,67","11,29,86",2401 00 103 AN 30301
+304,Travel Expenses,"1,56,61","2,21,48","2,38,88","2,45,51",2401 00 103 AN 30400
+01,Tour Travelling Allowances,"1,14,66","1,81,01","1,98,17","2,04,75",2401 00 103 AN 30401
+02,Transfer Travelling Allowances,"2,63","1,27","1,51","1,56",2401 00 103 AN 30402
+03,Fixed Travelling,"39,32","39,20","39,20","39,20",2401 00 103 AN 30403
+Allowances,,,,,,
+305,Office Expenses,"15,27","21,33","28,31","29,12",2401 00 103 AN 30500
+01,Telephone Charges,33,"1,70","1,92","1,91",2401 00 103 AN 30501
+02,Other Contingencies,"5,05","5,00","6,07","6,06",2401 00 103 AN 30502
+03,Electricity Charges,"9,17","13,60","19,29","20,12",2401 00 103 AN 30503
+04,Service Postage & Postal Expenditure,72,"1,03","1,03","1,03",2401 00 103 AN 30504
+306,"Rent, Rates and Taxes","5,08","6,74","9,72","8,82",2401 00 103 AN 30600
+01,Rent,99,"1,02","2,29","1,04",2401 00 103 AN 30601
+02,Property tax,"4,03","5,68","7,35","7,70",2401 00 103 AN 30602
+03,Water Charges,6,4,8,8,2401 00 103 AN 30603
+308,Advertising and Publicity,20,20,30,30,2401 00 103 AN 30800
+02,Exhibition,20,20,30,30,2401 00 103 AN 30802
+319,Machinery and Equipments,52,30,35,35,2401 00 103 AN 31900
+03,Maintenance,52,30,35,35,2401 00 103 AN 31903
+321,Motor Vehicles,76,86,"1,35","1,53",2401 00 103 AN 32100
+02,Maintenance of Functional Vehicles,76,86,"1,35","1,53",2401 00 103 AN 32102
+324,Materials and Supplies,3,3,5,5,2401 00 103 AN 32400
+01,Materials and Supplies,3,3,5,5,2401 00 103 AN 32401
+333,Payments for Professional and Special Services,,35,35,35,2401 00 103 AN 33300
+01,Pleaders Fees,,35,35,35,2401 00 103 AN 33301
+345,"Petroleum, Oil and Lubricant","3,63","4,87","5,68","6,02",2401 00 103 AN 34500
+01,"Petroleum, Oil and Lubricant","3,63","4,87","5,68","6,02",2401 00 103 AN 34501
+346,"Clothing, Tentage and Stores",41,62,62,62,2401 00 103 AN 34600
+01,"Clothing, Tentage and Stores",41,62,62,62,2401 00 103 AN 34601
+347,Stores and Equipments,31,13,20,20,2401 00 103 AN 34700
+01,Stores - Voted,31,13,20,20,2401 00 103 AN 34701
+349,Festival Advances,- 93,,,,2401 00 103 AN 34900
+01,Festival Advances-Debit,"22,75","53,30","1,04,00","1,05,80",2401 00 103 AN 34901
+02,Festival Advances-Credit,"- 23,68","- 53,30","- 1,04,00","- 1,05,80",2401 00 103 AN 34902
+359,Prizes and Awards,29,"1,30","1,50","1,48",2401 00 103 AN 35900
+01,Prizes and Awards,29,"1,30","1,50","1,48",2401 00 103 AN 35901
+373,Transport Charges,"1,17","1,50","1,50","1,44",2401 00 103 AN 37300
+01,Transport Charges,"1,17","1,50","1,50","1,44",2401 00 103 AN 37301
+376,Computer and Accessories,91,60,"3,14","3,12",2401 00 103 AN 37600
+02,Maintenance,48,30,"1,56","1,55",2401 00 103 AN 37602
+03,Stationery,43,30,"1,58","1,57",2401 00 103 AN 37603
+AN,Total AN,"70,68,23","45,29,68","75,90,59","78,93,62",
+AW,Distribution of green manure seeds at subsidy,,,,,2401 00 103 AW 30000
+311,Subsidies,"1,55,29","1,50,00","1,51,40","1,60,18",2401 00 103 AW 31100
+01,Individual Based Subsidy,"1,55,29","1,50,00","1,51,40","1,60,18",2401 00 103 AW 31101
+AW,Total AW,"1,55,29","1,50,00","1,51,40","1,60,18",
+KT,Augmenting Pulses Production through enhanced subsidy,,,,,2401 00 103 KT 30000
+311,Subsidies,"1,75,98","1,80,00","2,25,00","2,25,00",2401 00 103 KT 31100
+01,Individual Based Subsidy,"1,75,98","1,80,00","2,25,00","2,25,00",2401 00 103 KT 31101
+KT,Total KT,"1,75,98","1,80,00","2,25,00","2,25,00",
+KW,Tamil Nadu Seed Development Agency,,,,,2401 00 103 KW 30000
+309,Grants-in-Aid,,1,1,1,2401 00 103 KW 30900
+03,Grants for Specific Schemes,,1,1,1,2401 00 103 KW 30903
+KW,Total KW,1,1,1,,
+#State's Expenditure Total,"89,92,76","59,45,05","94,50,97","99,03,18",,
+Central Sector Schemes,,,,,,
+ST,Creation of seed Infrastructure facilities of Sub-Mission on Seeds and Planting Material (SMSP),,,,,2401 00 103 ST 30000
+319,Machinery and Equipments,,,"75,60","80,00",2401 00 103 ST 31900
+01,Purchase,,,"75,60","80,00",2401 00 103 ST 31901
+ST,Total ST,,"75,60","80,00",,
+Central Sector Schemes,,,,,,
+Total,,,"75,60","80,00",,
+103,Total 103,"89,92,76","59,45,05","95,26,57","99,83,18",
+104,Agricultural Farms,,,,,
+#State's Expenditure,,,,,,
+"AF
+Integrated Farming",,,,,2401 00 104 AF 30000,
+311,Subsidies,,"1,01,62,00",1,1,2401 00 104 AF 31100
+01,Individual Based Subsidy,,"1,01,62,00",1,1,2401 00 104 AF 31101
+AF,Total AF,"1,01,62,00",1,1,,
+#State's Expenditure Total,,"1,01,62,00",1,1,,
+104,Total 104,"1,01,62,00",1,1,,
+105,Manures and Fertilizers,,,,,
+#State's Expenditure,,,,,,
+AA,Compost Development including Local Manurial Resources - Controlled by Director of Agriculture,,,,,2401 00 105 AA 30000
+301,Salaries,"14,67","17,57","17,64","39,33",2401 00 105 AA 30100
+01,Pay,"13,41","15,92","14,01","37,96",2401 00 105 AA 30101
+02,Medical Allowance,8,11,6,7,2401 00 105 AA 30102
+04,Other Allowances,- 3,8,,,2401 00 105 AA 30104
+06,House Rent Allowance,"1,02","1,25","1,16","1,11",2401 00 105 AA 30106
+07,Travel Concession,,1,"2,22",,2401 00 105 AA 30107
+08,City Compensatory Allowance,19,20,19,19,2401 00 105 AA 30108
+302,Wages,"2,35","1,26","1,26","1,26",2401 00 105 AA 30200
+01,Wages,"2,35","1,26","1,26","1,26",2401 00 105 AA 30201
+303,Dearness Allowance,"15,38","2,04","2,41","7,11",2401 00 105 AA 30300
+01,Dearness Allowance,"15,38","2,04","2,41","7,11",2401 00 105 AA 30301
+304,Travel Expenses,15,36,35,36,2401 00 105 AA 30400
+01,Tour Travelling Allowances,15,34,35,36,2401 00 105 AA 30401
+02,Transfer Travelling Allowances,,2,,,2401 00 105 AA 30402
+305,Office Expenses,"1,60","1,45","2,14","2,17",2401 00 105 AA 30500
+02,Other Contingencies,50,36,36,32,2401 00 105 AA 30502
+03,Electricity Charges,94,"1,01","1,70","1,77",2401 00 105 AA 30503
+04,Service Postage & Postal Expenditure,16,8,8,8,2401 00 105 AA 30504
+306,"Rent, Rates and Taxes",52,60,60,62,2401 00 105 AA 30600
+02,Property tax,52,50,60,62,2401 00 105 AA 30602
+03,Water Charges,,10,,,2401 00 105 AA 30603
+307,Publications,,4,,,2401 00 105 AA 30700
+01,Publications,,4,,,2401 00 105 AA 30701
+308,Advertising and Publicity,20,13,31,32,2401 00 105 AA 30800
+01,Advertisement Charges,10,10,21,22,2401 00 105 AA 30801
+02,Exhibition,10,3,10,10,2401 00 105 AA 30802
+319,Machinery and Equipments,53,20,64,64,2401 00 105 AA 31900
+01,Purchase,,,1,1,2401 00 105 AA 31901
+03,Maintenance,53,20,63,63,2401 00 105 AA 31903
+324,Materials and Supplies,"1,09","1,04","1,60","1,66",2401 00 105 AA 32400
+01,Materials and Supplies,"1,09","1,04","1,60","1,66",2401 00 105 AA 32401
+345,"Petroleum, Oil and Lubricant",5,5,12,12,2401 00 105 AA 34500
+01,"Petroleum, Oil and Lubricant",5,5,12,12,2401 00 105 AA 34501
+347,Stores and Equipments,,,8,8,2401 00 105 AA 34700
+01,Stores - Voted,,,8,8,2401 00 105 AA 34701
+349,Festival Advances,- 1,,,,2401 00 105 AA 34900
+01,Festival Advances-Debit,,50,70,70,2401 00 105 AA 34901
+02,Festival Advances-Credit,- 1,- 50,- 70,- 70,2401 00 105 AA 34902
+369,Procurement of,21,16,30,30,2401 00 105 AA 36900
+Agricultural Inputs,,,,,,
+01,Procurement of,21,16,30,30,2401 00 105 AA 36901
+Agricultural Inputs,,,,,,
+376,Computer and Accessories,13,6,22,22,2401 00 105 AA 37600
+02,Maintenance,,,8,8,2401 00 105 AA 37602
+03,Stationery,13,6,14,14,2401 00 105 AA 37603
+AA,Total AA,"36,87","24,96","27,67","54,19",
+AE,Composting of Farm waste through Pleurotus,,,,,2401 00 105 AE 30000
+311,Subsidies,"10,60","10,60","10,71","12,19",2401 00 105 AE 31100
+01,Individual Based Subsidy,"10,60","10,60","10,71","12,19",2401 00 105 AE 31101
+AE,Total AE,"10,60","10,60","10,71","12,19",
+JK,Distribution of Zinc Sulphate,,,,,2401 00 105 JK 30000
+311,Subsidies,,1,1,1,2401 00 105 JK 31100
+01,Individual Based Subsidy,,1,1,1,2401 00 105 JK 31101
+JK,Total JK,,1,1,1,
+JQ,Vermi Composting of Agricultural Waste,,,,,2401 00 105 JQ 30000
+308,Advertising and Publicity,,1,1,1,2401 00 105 JQ 30800
+01,Advertisement Charges,,1,1,1,2401 00 105 JQ 30801
+372,Training,,1,1,1,2401 00 105 JQ 37200
+01,Training,,1,1,1,2401 00 105 JQ 37201
+JQ,Total JQ,,2,2,2,
+JS,Kuruvai Special Package for Cauvery Delta Districts,,,,,2401 00 105 JS 30000
+308,Advertising and Publicity,,1,1,1,2401 00 105 JS 30800
+01,Advertisement Charges,,1,1,1,2401 00 105 JS 30801
+311,Subsidies,"22,41,58","19,99,42","19,99,40","20,00,00",2401 00 105 JS 31100
+01,Individual Based Subsidy,"22,41,58","19,99,42","19,99,40","20,00,00",2401 00 105 JS 31101
+JS,Total JS,"22,41,58","19,99,43","19,99,41","20,00,01",
+#State's Expenditure Total,,"22,89,05","20,35,02","20,37,82","20,66,42",
+105,Total 105,"22,89,05","20,35,02","20,37,82","20,66,42",
+107,Plant Protection,,,,,
+#State's Expenditure,,,,,,
+AA,Crop and plant protection,,,,,2401 00 107 AA 30000
+301,Salaries,"53,50","43,54","57,77","65,49",2401 00 107 AA 30100
+01,Pay,"49,49","39,95","53,04","61,06",2401 00 107 AA 30101
+02,Medical Allowance,33,35,54,48,2401 00 107 AA 30102
+04,Other Allowances,66,38,42,42,2401 00 107 AA 30104
+06,House Rent Allowance,"2,76","2,50","3,51","3,27",2401 00 107 AA 30106
+08,City Compensatory Allowance,26,36,26,26,2401 00 107 AA 30108
+302,Wages,"38,05","45,33","9,11,83","45,33",2401 00 107 AA 30200
+01,Wages,"38,05","45,33","9,11,83","45,33",2401 00 107 AA 30201
+303,Dearness Allowance,"46,41","5,11","9,10","11,43",2401 00 107 AA 30300
+01,Dearness Allowance,"46,41","5,11","9,10","11,43",2401 00 107 AA 30301
+304,Travel Expenses,"1,19","2,46","2,58","2,71",2401 00 107 AA 30400
+01,Tour Travelling Allowances,"1,19","2,46","2,58","2,71",2401 00 107 AA 30401
+305,Office Expenses,"7,54","9,59","13,14","13,67",2401 00 107 AA 30500
+02,Other Contingencies,"1,70","1,45","1,85","1,85",2401 00 107 AA 30502
+03,Electricity Charges,"5,81","8,07","11,22","11,75",2401 00 107 AA 30503
+04,Service Postage & Postal Expenditure,3,7,7,7,2401 00 107 AA 30504
+306,"Rent, Rates and Taxes","8,76","2,74","4,26","4,44",2401 00 107 AA 30600
+02,Property tax,"8,76","2,74","4,26","4,44",2401 00 107 AA 30602
+308,Advertising and Publicity,"3,12","4,00","5,40","5,51",2401 00 107 AA 30800
+01,Advertisement Charges,"3,12","4,00","5,40","5,51",2401 00 107 AA 30801
+319,Machinery and Equipments,"1,10","1,00","1,84","1,73",2401 00 107 AA 31900
+01,Purchase,,,1,1,2401 00 107 AA 31901
+03,Maintenance,"1,10","1,00","1,83","1,72",2401 00 107 AA 31903
+324,Materials and Supplies,"49,59","47,13","50,00","50,00",2401 00 107 AA 32400
+01,Materials and Supplies,"49,59","47,13","50,00","50,00",2401 00 107 AA 32401
+333,Payments for Professional and Special Services,39,2,39,42,2401 00 107 AA 33300
+01,Pleaders Fees,23,1,33,36,2401 00 107 AA 33301
+03,Special Service,16,1,6,6,2401 00 107 AA 33303
+349,Festival Advances,2,,,,2401 00 107 AA 34900
+01,Festival Advances-Debit,30,85,"1,20","1,30",2401 00 107 AA 34901
+02,Festival Advances-Credit,- 28,- 85,"- 1,20","- 1,30",2401 00 107 AA 34902
+369,Procurement of,"91,16","78,54","40,24,50","1,25,00",2401 00 107 AA 36900
+Agricultural Inputs,,,,,,
+01,Procurement of,"91,16","78,54","40,24,50","1,25,00",2401 00 107 AA 36901
+Agricultural Inputs,,,,,,
+373,Transport Charges,"5,73","6,00","11,21","13,70",2401 00 107 AA 37300
+01,Transport Charges,"5,73","6,00","11,21","13,70",2401 00 107 AA 37301
+376,Computer and Accessories,,,5,5,2401 00 107 AA 37600
+03,Stationery,,,5,5,2401 00 107 AA 37603
+AA,Total AA,"3,06,56","2,45,46","50,92,07","3,39,48",
+AB,Pesticides Testing Laboratories,,,,,2401 00 107 AB 30000
+301,Salaries,"2,18,55","2,00,10","2,90,55","3,30,49",2401 00 107 AB 30100
+01,Pay,"2,04,41","1,84,86","2,67,77","3,07,61",2401 00 107 AB 30101
+02,Medical Allowance,"1,10","1,50","2,05","2,09",2401 00 107 AB 30102
+03,Medical Charges,,6,6,7,2401 00 107 AB 30103
+04,Other Allowances,"1,58","1,10","1,30","1,30",2401 00 107 AB 30104
+06,House Rent Allowance,"10,35","11,00","17,84","17,92",2401 00 107 AB 30106
+07,Travel Concession,1,10,12,9,2401 00 107 AB 30107
+08,City Compensatory Allowance,"1,10","1,48","1,41","1,41",2401 00 107 AB 30108
+302,Wages,"22,49","36,50","36,50","36,50",2401 00 107 AB 30200
+01,Wages,"22,49","36,50","36,50","36,50",2401 00 107 AB 30201
+303,Dearness Allowance,"2,17,20","23,66","45,96","57,61",2401 00 107 AB 30300
+01,Dearness Allowance,"2,17,20","23,66","45,96","57,61",2401 00 107 AB 30301
+304,Travel Expenses,"4,10","7,05","10,28","10,66",2401 00 107 AB 30400
+01,Tour Travelling Allowances,"4,10","7,04","10,28","10,66",2401 00 107 AB 30401
+02,Transfer Travelling Allowances,,1,,,2401 00 107 AB 30402
+305,Office Expenses,"9,50","12,42","14,45","14,82",2401 00 107 AB 30500
+02,Other Contingencies,"2,53","2,60","3,35","3,36",2401 00 107 AB 30502
+03,Electricity Charges,"5,80","8,37","9,65","10,01",2401 00 107 AB 30503
+04,Service Postage & Postal Expenditure,"1,17","1,45","1,45","1,45",2401 00 107 AB 30504
+306,"Rent, Rates and Taxes","3,25","3,27","3,47","3,61",2401 00 107 AB 30600
+01,Rent,,1,,,2401 00 107 AB 30601
+02,Property tax,"3,19","3,20","3,40","3,53",2401 00 107 AB 30602
+03,Water Charges,6,6,7,8,2401 00 107 AB 30603
+307,Publications,7,35,35,30,2401 00 107 AB 30700
+01,Publications,7,35,35,30,2401 00 107 AB 30701
+308,Advertising and Publicity,42,"1,07","1,76","1,85",2401 00 107 AB 30800
+01,Advertisement Charges,42,"1,07","1,76","1,85",2401 00 107 AB 30801
+310,Contributions,66,81,81,81,2401 00 107 AB 31000
+02,Insurance Premium,66,81,81,81,2401 00 107 AB 31002
+319,Machinery and Equipments,"7,26","8,01","23,28","23,33",2401 00 107 AB 31900
+01,Purchase,,1,1,1,2401 00 107 AB 31901
+03,Maintenance,"7,26","8,00","23,27","23,32",2401 00 107 AB 31903
+324,Materials and Supplies,"25,28","30,09","30,09","30,09",2401 00 107 AB 32400
+01,Materials and Supplies,"25,28","30,09","30,09","30,09",2401 00 107 AB 32401
+333,Payments for Professional and Special Services,16,30,30,"3,57",2401 00 107 AB 33300
+04,Contract Payment,16,30,30,"3,57",2401 00 107 AB 33304
+347,Stores and Equipments,42,49,63,62,2401 00 107 AB 34700
+01,Stores - Voted,42,49,63,62,2401 00 107 AB 34701
+349,Festival Advances,- 3,,,,2401 00 107 AB 34900
+01,Festival Advances-Debit,"1,35","3,50","5,30","5,80",2401 00 107 AB 34901
+02,Festival Advances-Credit,"- 1,38","- 3,50","- 5,30","- 5,80",2401 00 107 AB 34902
+359,Prizes and Awards,,1,,,2401 00 107 AB 35900
+01,Prizes and Awards,,1,,,2401 00 107 AB 35901
+369,Procurement of,"4,06","5,43","7,03","7,03",2401 00 107 AB 36900
+Agricultural Inputs,,,,,,
+01,Procurement of,"4,06","5,43","7,03","7,03",2401 00 107 AB 36901
+Agricultural Inputs,,,,,,
+373,Transport Charges,"1,63","4,00","3,88","3,38",2401 00 107 AB 37300
+01,Transport Charges,"1,63","4,00","3,88","3,38",2401 00 107 AB 37301
+376,Computer and Accessories,"1,77","1,10","2,62","2,62",2401 00 107 AB 37600
+02,Maintenance,81,50,"1,49","1,49",2401 00 107 AB 37602
+03,Stationery,96,60,"1,13","1,13",2401 00 107 AB 37603
+AB,Total AB,"5,16,79","3,34,66","4,71,96","5,27,29",
+AC,Parasite Breeding stations,,,,,2401 00 107 AC 30000
+301,Salaries,"53,72","46,23","54,16","57,58",2401 00 107 AC 30100
+01,Pay,"50,37","42,63","49,52","53,03",2401 00 107 AC 30101
+02,Medical Allowance,38,54,62,62,2401 00 107 AC 30102
+04,Other Allowances,30,49,65,65,2401 00 107 AC 30104
+06,House Rent Allowance,"2,51","2,25","3,06","2,99",2401 00 107 AC 30106
+07,Travel Concession,,3,4,3,2401 00 107 AC 30107
+08,City Compensatory Allowance,16,29,27,26,2401 00 107 AC 30108
+302,Wages,"1,62","3,06","3,06","3,06",2401 00 107 AC 30200
+01,Wages,"1,62","3,06","3,06","3,06",2401 00 107 AC 30201
+303,Dearness Allowance,"14,98","5,46","8,50","9,93",2401 00 107 AC 30300
+01,Dearness Allowance,"14,98","5,46","8,50","9,93",2401 00 107 AC 30301
+304,Travel Expenses,46,"1,58","1,46","1,49",2401 00 107 AC 30400
+01,Tour Travelling Allowances,35,"1,46","1,34","1,37",2401 00 107 AC 30401
+02,Transfer Travelling Allowances,,1,1,1,2401 00 107 AC 30402
+03,Fixed Travelling,11,11,11,11,2401 00 107 AC 30403
+Allowances,,,,,,
+305,Office Expenses,"1,12","1,27","1,30",88,2401 00 107 AC 30500
+02,Other Contingencies,92,96,96,52,2401 00 107 AC 30502
+03,Electricity Charges,20,31,34,36,2401 00 107 AC 30503
+306,"Rent, Rates and Taxes",58,65,62,64,2401 00 107 AC 30600
+01,Rent,57,62,59,61,2401 00 107 AC 30601
+02,Property tax,1,3,3,3,2401 00 107 AC 30602
+319,Machinery and Equipments,39,43,43,33,2401 00 107 AC 31900
+03,Maintenance,39,43,43,33,2401 00 107 AC 31903
+324,Materials and Supplies,"1,10","1,15","1,26","1,31",2401 00 107 AC 32400
+01,Materials and Supplies,"1,10","1,15","1,26","1,31",2401 00 107 AC 32401
+349,Festival Advances,- 12,,,,2401 00 107 AC 34900
+01,Festival Advances-Debit,10,"1,00","1,60","1,60",2401 00 107 AC 34901
+02,Festival Advances-Credit,- 22,"- 1,00","- 1,60","- 1,60",2401 00 107 AC 34902
+359,Prizes and Awards,,1,,,2401 00 107 AC 35900
+01,Prizes and Awards,,1,,,2401 00 107 AC 35901
+AC,Total AC,"73,85","59,84","70,79","75,22",
+JA,Crop and plant protection,,,,,2401 00 107 JA 30000
+333,Payments for Professional and Special Services,,,1,1,2401 00 107 JA 33300
+01,Pleaders Fees,,,1,1,2401 00 107 JA 33301
+JA,Total JA,,,1,1,
+KB,Promotion of Organic farming through intensification of Bio-pesticide production - Scheme under State Innovation Fund.,,,,,2401 00 107 KB 30000
+369,Procurement of,,1,1,1,2401 00 107 KB 36900
+Agricultural Inputs,,,,,,
+01,Procurement of,,1,1,1,2401 00 107 KB 36901
+Agricultural Inputs,,,,,,
+KB,Total KB,,1,1,1,
+KC,Controlling of Fall Armyworms,,,,,2401 00 107 KC 30000
+369,Procurement of,,,,"20,00,00",2401 00 107 KC 36900
+Agricultural Inputs,,,,,,
+01,Procurement of,,,,"20,00,00",2401 00 107 KC 36901
+Agricultural Inputs,,,,,,
+KC,Total KC,,,"20,00,00",,
+#State's Expenditure Total,"8,97,20","6,39,97","56,34,84","29,42,01",,
+107,Total 107,"8,97,20","6,39,97","56,34,84","29,42,01",
+108,Commercial Crops,,,,,
+#State's Expenditure,,,,,,
+AA,Sugarcane Development,,,,,2401 00 108 AA 30000
+301,Salaries,"17,89","17,32","19,92","19,04",2401 00 108 AA 30100
+01,Pay,"16,75","15,84","17,94","17,14",2401 00 108 AA 30101
+02,Medical Allowance,16,20,25,24,2401 00 108 AA 30102
+04,Other Allowances,18,41,42,42,2401 00 108 AA 30104
+06,House Rent Allowance,80,85,"1,29","1,22",2401 00 108 AA 30106
+07,Travel Concession,,2,2,2,2401 00 108 AA 30107
+302,Wages,"3,20","3,14","3,14","3,14",2401 00 108 AA 30200
+01,Wages,"3,20","3,14","3,14","3,14",2401 00 108 AA 30201
+303,Dearness Allowance,"1,49","2,03","3,08","3,21",2401 00 108 AA 30300
+01,Dearness Allowance,"1,49","2,03","3,08","3,21",2401 00 108 AA 30301
+304,Travel Expenses,32,54,49,51,2401 00 108 AA 30400
+01,Tour Travelling Allowances,32,54,49,51,2401 00 108 AA 30401
+305,Office Expenses,59,"1,50","1,70","1,68",2401 00 108 AA 30500
+02,Other Contingencies,42,42,42,33,2401 00 108 AA 30502
+03,Electricity Charges,12,"1,07","1,27","1,34",2401 00 108 AA 30503
+04,Service Postage & Postal Expenditure,5,1,1,1,2401 00 108 AA 30504
+306,"Rent, Rates and Taxes","1,49",91,63,96,2401 00 108 AA 30600
+01,Rent,"1,49",91,63,96,2401 00 108 AA 30601
+319,Machinery and Equipments,25,35,35,23,2401 00 108 AA 31900
+01,Purchase,4,13,13,1,2401 00 108 AA 31901
+03,Maintenance,21,22,22,22,2401 00 108 AA 31903
+324,Materials and Supplies,10,10,36,38,2401 00 108 AA 32400
+01,Materials and Supplies,10,10,36,38,2401 00 108 AA 32401
+349,Festival Advances,- 3,,,,2401 00 108 AA 34900
+01,Festival Advances-Debit,5,50,80,80,2401 00 108 AA 34901
+02,Festival Advances-Credit,- 8,- 50,- 80,- 80,2401 00 108 AA 34902
+369,Procurement of,"2,07","2,26","3,75","3,75",2401 00 108 AA 36900
+Agricultural Inputs,,,,,,
+01,Procurement of,"2,07","2,26","3,75","3,75",2401 00 108 AA 36901
+Agricultural Inputs,,,,,,
+AA,Total AA,"27,37","28,15","33,42","32,90",
+AB,Increasing the production of Oil Seeds,,,,,2401 00 108 AB 30000
+301,Salaries,"8,46","14,33","11,99","11,38",2401 00 108 AB 30100
+01,Pay,"8,03","12,61","10,29","9,74",2401 00 108 AB 30101
+02,Medical Allowance,- 6,6,6,6,2401 00 108 AB 30102
+03,Medical Charges,,10,10,10,2401 00 108 AB 30103
+04,Other Allowances,1,16,16,16,2401 00 108 AB 30104
+06,House Rent Allowance,42,"1,00","1,00",96,2401 00 108 AB 30106
+07,Travel Concession,,5,8,6,2401 00 108 AB 30107
+08,City Compensatory Allowance,6,35,30,30,2401 00 108 AB 30108
+303,Dearness Allowance,"9,19","1,61","1,13","1,39",2401 00 108 AB 30300
+01,Dearness Allowance,"9,19","1,61","1,13","1,39",2401 00 108 AB 30301
+304,Travel Expenses,45,"1,10",98,98,2401 00 108 AB 30400
+01,Tour Travelling Allowances,36,"1,00",88,88,2401 00 108 AB 30401
+02,Transfer Travelling Allowances,9,10,10,10,2401 00 108 AB 30402
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,5,10,30,2401 00 108 AB 34901
+02,Festival Advances-Credit,,- 5,- 10,- 30,2401 00 108 AB 34902
+AB,Total AB,"18,10","17,04","14,10","13,75",
+AD,Development of Cotton Cultivation,,,,,2401 00 108 AD 30000
+301,Salaries,"25,71","24,87","22,19","21,13",2401 00 108 AD 30100
+01,Pay,"22,69","21,57","17,59","16,66",2401 00 108 AD 30101
+02,Medical Allowance,14,12,14,14,2401 00 108 AD 30102
+03,Medical Charges,,28,28,30,2401 00 108 AD 30103
+04,Other Allowances,6,40,40,40,2401 00 108 AD 30104
+06,House Rent Allowance,"2,41","1,75","3,12","2,99",2401 00 108 AD 30106
+07,Travel Concession,,5,6,4,2401 00 108 AD 30107
+08,City Compensatory Allowance,41,70,60,60,2401 00 108 AD 30108
+302,Wages,,1,1,1,2401 00 108 AD 30200
+01,Wages,,1,1,1,2401 00 108 AD 30201
+303,Dearness Allowance,"8,66","2,76","3,02","3,12",2401 00 108 AD 30300
+01,Dearness Allowance,"8,66","2,76","3,02","3,12",2401 00 108 AD 30301
+304,Travel Expenses,,58,51,57,2401 00 108 AD 30400
+01,Tour Travelling Allowances,,54,47,52,2401 00 108 AD 30401
+02,Transfer Travelling Allowances,,4,4,5,2401 00 108 AD 30402
+324,Materials and Supplies,,1,1,1,2401 00 108 AD 32400
+01,Materials and Supplies,,1,1,1,2401 00 108 AD 32401
+342,Service or Commitment Charges,,1,1,1,2401 00 108 AD 34200
+01,Service or Commitment Charges,,1,1,1,2401 00 108 AD 34201
+349,Festival Advances,- 8,,,,2401 00 108 AD 34900
+01,Festival Advances-Debit,,25,50,70,2401 00 108 AD 34901
+02,Festival Advances-Credit,- 8,- 25,- 50,- 70,2401 00 108 AD 34902
+359,Prizes and Awards,,6,6,10,2401 00 108 AD 35900
+01,Prizes and Awards,,6,6,10,2401 00 108 AD 35901
+369,Procurement of,,1,1,1,2401 00 108 AD 36900
+Agricultural Inputs,,,,,,
+01,Procurement of,,1,1,1,2401 00 108 AD 36901
+Agricultural Inputs,,,,,,
+373,Transport Charges,,11,11,9,2401 00 108 AD 37300
+01,Transport Charges,,11,11,9,2401 00 108 AD 37301
+AD,Total AD,"34,29","28,42","25,93","25,05",
+AG,Integrated Coconut Development Programme,,,,,2401 00 108 AG 30000
+305,Office Expenses,"2,89","3,29","4,46","4,59",2401 00 108 AG 30500
+02,Other Contingencies,"1,56","1,50","1,96","1,95",2401 00 108 AG 30502
+03,Electricity Charges,"1,33","1,79","2,50","2,64",2401 00 108 AG 30503
+306,"Rent, Rates and Taxes",64,71,"1,59",95,2401 00 108 AG 30600
+01,Rent,45,52,72,72,2401 00 108 AG 30601
+02,Property tax,17,6,8,7,2401 00 108 AG 30602
+03,Water Charges,2,13,15,16,2401 00 108 AG 30603
+04,Lease for Land,,,64,,2401 00 108 AG 30604
+308,Advertising and Publicity,,1,1,,2401 00 108 AG 30800
+01,Advertisement Charges,,1,1,,2401 00 108 AG 30801
+319,Machinery and Equipments,"1,00","1,03","1,03",88,2401 00 108 AG 31900
+01,Purchase,43,18,18,1,2401 00 108 AG 31901
+03,Maintenance,57,85,85,87,2401 00 108 AG 31903
+321,Motor Vehicles,,1,1,1,2401 00 108 AG 32100
+01,Purchase,,1,1,1,2401 00 108 AG 32101
+324,Materials and Supplies,8,1,16,18,2401 00 108 AG 32400
+01,Materials and Supplies,8,1,16,18,2401 00 108 AG 32401
+333,Payments for Professional and Special Services,,5,5,1,2401 00 108 AG 33300
+01,Pleaders Fees,,5,5,1,2401 00 108 AG 33301
+347,Stores and Equipments,8,8,8,4,2401 00 108 AG 34700
+01,Stores - Voted,8,8,8,4,2401 00 108 AG 34701
+369,Procurement of,,1,1,1,2401 00 108 AG 36900
+Agricultural Inputs,,,,,,
+01,Procurement of,,1,1,1,2401 00 108 AG 36901
+Agricultural Inputs,,,,,,
+373,Transport Charges,,1,1,2,2401 00 108 AG 37300
+01,Transport Charges,,1,1,2,2401 00 108 AG 37301
+AG,Total AG,"4,69","5,21","7,41","6,69",
+AR,Establishment of Oil seeds centre,,,,,2401 00 108 AR 30000
+301,Salaries,,34,29,38,2401 00 108 AR 30100
+01,Pay,,29,24,22,2401 00 108 AR 30101
+02,Medical Allowance,,1,1,4,2401 00 108 AR 30102
+04,Other Allowances,,1,1,1,2401 00 108 AR 30104
+06,House Rent Allowance,,3,3,11,2401 00 108 AR 30106
+303,Dearness Allowance,,4,4,5,2401 00 108 AR 30300
+01,Dearness Allowance,,4,4,5,2401 00 108 AR 30301
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,5,10,10,2401 00 108 AR 34901
+02,Festival Advances-Credit,,- 5,- 10,- 10,2401 00 108 AR 34902
+AR,Total AR,38,33,43,,
+AX,Establishment of extension wing of TANCOF,,,,,2401 00 108 AX 30000
+301,Salaries,"3,62,62","3,35,41","3,07,27","2,92,47",2401 00 108 AX 30100
+01,Pay,"3,32,15","3,12,21","2,80,65","2,65,77",2401 00 108 AX 30101
+02,Medical Allowance,25,30,32,31,2401 00 108 AX 30102
+03,Medical Charges,"1,66","2,11","1,90","1,98",2401 00 108 AX 30103
+04,Other Allowances,"2,02","1,55","1,54","1,54",2401 00 108 AX 30104
+06,House Rent Allowance,"24,36","17,00","21,28","21,38",2401 00 108 AX 30106
+07,Travel Concession,10,25,26,18,2401 00 108 AX 30107
+08,City Compensatory Allowance,"2,08","1,99","1,32","1,31",2401 00 108 AX 30108
+303,Dearness Allowance,"45,13","39,96","48,17","49,77",2401 00 108 AX 30300
+01,Dearness Allowance,"45,13","39,96","48,17","49,77",2401 00 108 AX 30301
+304,Travel Expenses,"2,36","4,54","3,95","4,02",2401 00 108 AX 30400
+01,Tour Travelling Allowances,"2,12","3,90","3,31","3,38",2401 00 108 AX 30401
+03,Fixed Travelling,24,64,64,64,2401 00 108 AX 30403
+Allowances,,,,,,
+305,Office Expenses,86,80,74,60,2401 00 108 AX 30500
+01,Telephone Charges,7,15,9,9,2401 00 108 AX 30501
+02,Other Contingencies,56,38,38,24,2401 00 108 AX 30502
+03,Electricity Charges,22,26,26,26,2401 00 108 AX 30503
+04,Service Postage & Postal Expenditure,1,1,1,1,2401 00 108 AX 30504
+306,"Rent, Rates and Taxes",,7,17,18,2401 00 108 AX 30600
+02,Property tax,,6,16,17,2401 00 108 AX 30602
+03,Water Charges,,1,1,1,2401 00 108 AX 30603
+317,Minor Works,,10,20,20,2401 00 108 AX 31700
+01,Minor Works,,10,20,20,2401 00 108 AX 31701
+319,Machinery and Equipments,90,91,91,66,2401 00 108 AX 31900
+01,Purchase,,1,1,1,2401 00 108 AX 31901
+03,Maintenance,90,90,90,65,2401 00 108 AX 31903
+321,Motor Vehicles,,10,10,10,2401 00 108 AX 32100
+02,Maintenance of Functional Vehicles,,10,10,10,2401 00 108 AX 32102
+333,Payments for Professional and Special Services,,1,1,1,2401 00 108 AX 33300
+01,Pleaders Fees,,1,1,1,2401 00 108 AX 33301
+345,"Petroleum, Oil and Lubricant",5,5,5,5,2401 00 108 AX 34500
+01,"Petroleum, Oil and Lubricant",5,5,5,5,2401 00 108 AX 34501
+346,"Clothing, Tentage and Stores",,3,3,3,2401 00 108 AX 34600
+01,"Clothing, Tentage and Stores",,3,3,3,2401 00 108 AX 34601
+349,Festival Advances,2,,,,2401 00 108 AX 34900
+01,Festival Advances-Debit,"1,35","2,15","3,00","3,00",2401 00 108 AX 34901
+02,Festival Advances-Credit,"- 1,33","- 2,15","- 3,00","- 3,00",2401 00 108 AX 34902
+376,Computer and Accessories,56,50,50,41,2401 00 108 AX 37600
+02,Maintenance,43,37,37,29,2401 00 108 AX 37602
+03,Stationery,13,13,13,12,2401 00 108 AX 37603
+AX,Total AX,"4,12,50","3,82,48","3,62,10","3,48,50",
+KV,Agriculture Package for Rejuvenation of Coconut gardens affected by cyclone THANE,,,,,2401 00 108 KV 30000
+369,Procurement of,,1,1,1,2401 00 108 KV 36900
+Agricultural Inputs,,,,,,
+01,Procurement of,,1,1,1,2401 00 108 KV 36901
+Agricultural Inputs,,,,,,
+KV,Total KV,1,1,1,,
+KZ,Tamil Nadu Cotton Cultivation Mission,,,,,2401 00 108 KZ 30000
+309,Grants-in-Aid,"5,34,94","11,00,00","11,00,00","11,00,00",2401 00 108 KZ 30900
+03,Grants for Specific Schemes,"5,34,94","11,00,00","11,00,00","11,00,00",2401 00 108 KZ 30903
+KZ,Total KZ,"5,34,94","11,00,00","11,00,00","11,00,00",
+LA,Production Incentive to Sugarcane Farmers,,,,,2401 00 108 LA 30000
+309,Grants-in-Aid,"1,46,32,00","2,00,00,00","1,50,00,00","1,65,00,00",2401 00 108 LA 30900
+03,Grants for Specific Schemes,"1,46,32,00","2,00,00,00","1,50,00,00","1,65,00,00",2401 00 108 LA 30903
+LA,Total LA,"1,46,32,00","2,00,00,00","1,50,00,00","1,65,00,00",
+LB,Transport subsidy to sugarcane,,,,,2401 00 108 LB 30000
+311,Subsidies,,,,"1,10,00,00",2401 00 108 LB 31100
+02,General Subsidy,,,,"1,10,00,00",2401 00 108 LB 31102
+LB,Total LB,,,"1,10,00,00",,
+#State's Expenditure Total,"1,56,63,89","2,15,61,69","1,65,43,30","2,90,27,33",,
+#Schemes shared between State and Centre,,,,,,
+UD,Production and Distribution of dwarf and tall hybrid coconut seedlings,,,,,2401 00 108 UD 30000
+301,Salaries,"1,05","1,42",4,4,2401 00 108 UD 30100
+01,Pay,99,"1,20",1,1,2401 00 108 UD 30101
+02,Medical Allowance,1,3,1,1,2401 00 108 UD 30102
+04,Other Allowances,,4,1,1,2401 00 108 UD 30104
+06,House Rent Allowance,5,15,1,1,2401 00 108 UD 30106
+302,Wages,"66,18","66,30","1,87,20","1,35,00",2401 00 108 UD 30200
+01,Wages,"66,18","66,30","1,87,20","1,35,00",2401 00 108 UD 30201
+303,Dearness Allowance,8,16,1,1,2401 00 108 UD 30300
+01,Dearness Allowance,8,16,1,1,2401 00 108 UD 30301
+304,Travel Expenses,,8,1,1,2401 00 108 UD 30400
+01,Tour Travelling Allowances,,8,1,1,2401 00 108 UD 30401
+305,Office Expenses,36,41,2,2,2401 00 108 UD 30500
+01,Telephone Charges,,5,,,2401 00 108 UD 30501
+02,Other Contingencies,33,33,1,1,2401 00 108 UD 30502
+03,Electricity Charges,3,3,1,1,2401 00 108 UD 30503
+319,Machinery and Equipments,50,50,,,2401 00 108 UD 31900
+03,Maintenance,50,50,,,2401 00 108 UD 31903
+324,Materials and Supplies,42,42,1,1,2401 00 108 UD 32400
+01,Materials and Supplies,42,42,1,1,2401 00 108 UD 32401
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,12,,,2401 00 108 UD 34901
+02,Festival Advances-Credit,,- 12,,,2401 00 108 UD 34902
+369,Procurement of,"49,67","50,00","1,87,20","1,35,00",2401 00 108 UD 36900
+Agricultural Inputs,,,,,,
+01,Procurement of,"49,67","50,00","1,87,20","1,35,00",2401 00 108 UD 36901
+Agricultural Inputs,,,,,,
+373,Transport Charges,"6,77","7,44","41,60","29,98",2401 00 108 UD 37300
+01,Transport Charges,"6,77","7,44","41,60","29,98",2401 00 108 UD 37301
+UD,Total UD,"1,25,03","1,26,73","4,16,09","3,00,07",
+VC,Scheme for control of Eriophid Mite in Coconut Trees,,,,,2401 00 108 VC 30000
+325,Interest,"28,34",1,1,1,2401 00 108 VC 32500
+01,Interest,"28,34",1,1,1,2401 00 108 VC 32501
+VC,Total VC,"28,34",1,1,1,
+VJ,Rainfed Area Development under National Mission on Sustainable Agriculture,,,,,2401 00 108 VJ 30000
+309,Grants-in-Aid,"2,12,56","2,37,79","2,17,03","2,50,00",2401 00 108 VJ 30900
+03,Grants for Specific Schemes,"2,12,56","2,37,79","2,17,03","2,50,00",2401 00 108 VJ 30903
+311,Subsidies,"39,92,20","47,26,42","29,01,23","33,36,00",2401 00 108 VJ 31100
+01,Individual Based Subsidy,"39,92,20","47,26,42","29,01,23","33,36,00",2401 00 108 VJ 31101
+372,Training,"2,84","2,01",1,1,2401 00 108 VJ 37200
+01,Training,"2,84","2,01",1,1,2401 00 108 VJ 37201
+VJ,Total VJ,"42,07,60","49,66,22","31,18,27","35,86,01",
+VK,Paramparagat Krishi Vikas Yojana (PKVY) under National Mission on Sustainable Agriculture,,,,,2401 00 108 VK 30000
+305,Office Expenses,"52,62","25,01","27,07","37,01",2401 00 108 VK 30500
+02,Other Contingencies,"52,62","25,00","27,06","37,00",2401 00 108 VK 30502
+05,Furniture,,1,1,1,2401 00 108 VK 30505
+308,Advertising and Publicity,"10,21",2,"10,28","60,01",2401 00 108 VK 30800
+01,Advertisement Charges,"4,03",1,"10,27","60,00",2401 00 108 VK 30801
+02,Exhibition,"6,18",1,1,1,2401 00 108 VK 30802
+309,Grants-in-Aid,"8,02","5,15","16,44","19,00",2401 00 108 VK 30900
+03,Grants for Specific Schemes,"8,02","5,15","16,44","19,00",2401 00 108 VK 30903
+311,Subsidies,"3,58,62","2,14,40","2,86,27","3,25,00",2401 00 108 VK 31100
+01,Individual Based Subsidy,"3,58,62","2,14,40","2,56,27","2,95,00",2401 00 108 VK 31101
+02,General Subsidy,,,"30,00","30,00",2401 00 108 VK 31102
+333,Payments for Professional and Special Services,"93,07","62,71","76,41","70,00",2401 00 108 VK 33300
+03,Special Service,"93,07","62,71","76,41","70,00",2401 00 108 VK 33303
+372,Training,"25,99","34,33","30,01","30,00",2401 00 108 VK 37200
+01,Training,"25,99","34,33","30,01","30,00",2401 00 108 VK 37201
+373,Transport Charges,27,1,"6,41",1,2401 00 108 VK 37300
+01,Transport Charges,27,1,"6,41",1,2401 00 108 VK 37301
+VK,Total VK,"5,48,80","3,41,63","4,52,89","5,41,03",
+#Schemes shared between State and Centre Total,"49,09,77","54,34,59","39,87,26","44,27,12",,
+108,Total 108,"2,05,73,66","2,69,96,28","2,05,30,56","3,34,54,45",
+109,Extension and Farmers Training,,,,,
+#State's Expenditure,,,,,,
+AB,Agricultural Extension Centres,,,,,2401 00 109 AB 30000
+301,Salaries,"36,18,81","40,29,22","35,18,43","35,36,68",2401 00 109 AB 30100
+01,Pay,"33,53,11","37,58,82","32,04,45","32,13,38",2401 00 109 AB 30101
+02,Medical Allowance,"36,01","32,00","42,57","41,51",2401 00 109 AB 30102
+03,Medical Charges,10,55,"1,13","1,21",2401 00 109 AB 30103
+04,Other Allowances,"41,11","33,60","55,65","55,65",2401 00 109 AB 30104
+06,House Rent Allowance,"1,78,73","1,94,43","2,03,57","2,14,48",2401 00 109 AB 30106
+07,Travel Concession,12,87,"1,96","1,40",2401 00 109 AB 30107
+08,City Compensatory Allowance,"9,63","8,95","9,10","9,05",2401 00 109 AB 30108
+302,Wages,68,78,78,78,2401 00 109 AB 30200
+01,Wages,68,78,78,78,2401 00 109 AB 30201
+303,Dearness Allowance,"4,41,83","4,81,00","6,06,40","5,84,89",2401 00 109 AB 30300
+01,Dearness Allowance,"4,41,83","4,81,00","6,06,40","5,84,89",2401 00 109 AB 30301
+304,Travel Expenses,"42,83","77,90","84,93","87,62",2401 00 109 AB 30400
+01,Tour Travelling Allowances,"40,99","76,84","83,82","86,46",2401 00 109 AB 30401
+02,Transfer Travelling Allowances,"1,46",84,89,94,2401 00 109 AB 30402
+03,Fixed Travelling,38,22,22,22,2401 00 109 AB 30403
+Allowances,,,,,,
+305,Office Expenses,"71,72","1,10,84","1,24,50","1,35,71",2401 00 109 AB 30500
+01,Telephone Charges,"4,32","20,83","20,56","20,36",2401 00 109 AB 30501
+02,Other Contingencies,"13,62","14,68","14,68","22,57",2401 00 109 AB 30502
+03,Electricity Charges,"50,30","70,46","84,39","87,91",2401 00 109 AB 30503
+04,Service Postage & Postal Expenditure,"3,48","4,87","4,87","4,87",2401 00 109 AB 30504
+306,"Rent, Rates and Taxes","63,52","79,77","1,04,02","1,07,14",2401 00 109 AB 30600
+01,Rent,"37,58","50,32","55,71","56,99",2401 00 109 AB 30601
+02,Property tax,"24,51","28,00","46,38","48,13",2401 00 109 AB 30602
+03,Water Charges,"1,43","1,45","1,93","2,02",2401 00 109 AB 30603
+307,Publications,,,,35,2401 00 109 AB 30700
+01,Publications,,,,35,2401 00 109 AB 30701
+308,Advertising and Publicity,"5,99","6,30","8,75","8,94",2401 00 109 AB 30800
+01,Advertisement Charges,"4,30","4,52","5,81","6,00",2401 00 109 AB 30801
+02,Exhibition,"1,69","1,78","2,94","2,94",2401 00 109 AB 30802
+319,Machinery and Equipments,19,34,36,30,2401 00 109 AB 31900
+01,Purchase,,7,7,1,2401 00 109 AB 31901
+03,Maintenance,19,27,29,29,2401 00 109 AB 31903
+321,Motor Vehicles,90,74,97,"1,00",2401 00 109 AB 32100
+02,Maintenance of Functional Vehicles,90,74,97,"1,00",2401 00 109 AB 32102
+324,Materials and Supplies,31,40,46,48,2401 00 109 AB 32400
+01,Materials and Supplies,31,40,46,48,2401 00 109 AB 32401
+345,"Petroleum, Oil and Lubricant",17,18,62,65,2401 00 109 AB 34500
+01,"Petroleum, Oil and Lubricant",17,18,62,65,2401 00 109 AB 34501
+346,"Clothing, Tentage and Stores",3,3,3,3,2401 00 109 AB 34600
+01,"Clothing, Tentage and Stores",3,3,3,3,2401 00 109 AB 34601
+347,Stores and Equipments,22,25,25,20,2401 00 109 AB 34700
+01,Stores - Voted,22,25,25,20,2401 00 109 AB 34701
+349,Festival Advances,- 28,,,,2401 00 109 AB 34900
+01,Festival Advances-Debit,"28,50","60,76","1,05,00","1,07,00",2401 00 109 AB 34901
+02,Festival Advances-Credit,"- 28,78","- 60,76","- 1,05,00","- 1,07,00",2401 00 109 AB 34902
+359,Prizes and Awards,4,"1,05",96,"1,16",2401 00 109 AB 35900
+01,Prizes and Awards,4,"1,05",96,"1,16",2401 00 109 AB 35901
+373,Transport Charges,"5,23","6,00","6,00","8,50",2401 00 109 AB 37300
+01,Transport Charges,"5,23","6,00","6,00","8,50",2401 00 109 AB 37301
+376,Computer and Accessories,"4,92","4,50","8,73","10,89",2401 00 109 AB 37600
+02,Maintenance,"2,84","2,50","3,67","5,31",2401 00 109 AB 37602
+03,Stationery,"2,08","2,00","5,06","5,58",2401 00 109 AB 37603
+AB,Total AB,"42,57,11","47,99,30","44,66,19","44,85,32",
+AE,Agricultural Information Unit,,,,,2401 00 109 AE 30000
+301,Salaries,,"8,19","6,83","6,55",2401 00 109 AE 30100
+01,Pay,,"7,13","5,82","5,51",2401 00 109 AE 30101
+03,Medical Charges,,18,18,19,2401 00 109 AE 30103
+04,Other Allowances,,40,40,40,2401 00 109 AE 30104
+06,House Rent Allowance,,15,15,15,2401 00 109 AE 30106
+07,Travel Concession,,1,1,3,2401 00 109 AE 30107
+08,City Compensatory Allowance,,32,27,27,2401 00 109 AE 30108
+303,Dearness Allowance,,91,"1,00","1,03",2401 00 109 AE 30300
+01,Dearness Allowance,,91,"1,00","1,03",2401 00 109 AE 30301
+304,Travel Expenses,,2,2,6,2401 00 109 AE 30400
+01,Tour Travelling Allowances,,1,1,4,2401 00 109 AE 30401
+02,Transfer Travelling Allowances,,1,1,2,2401 00 109 AE 30402
+307,Publications,4,"1,51","1,51","1,04",2401 00 109 AE 30700
+01,Publications,4,"1,51","1,51","1,04",2401 00 109 AE 30701
+308,Advertising and Publicity,,"1,00","1,00","1,04",2401 00 109 AE 30800
+01,Advertisement Charges,,"1,00","1,00","1,04",2401 00 109 AE 30801
+319,Machinery and Equipments,89,92,92,53,2401 00 109 AE 31900
+03,Maintenance,89,92,92,53,2401 00 109 AE 31903
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,1,10,20,2401 00 109 AE 34901
+02,Festival Advances-Credit,,- 1,- 10,- 20,2401 00 109 AE 34902
+371,Printing Charges,- 11,1,1,6,2401 00 109 AE 37100
+01,Printing Charges,- 11,1,1,6,2401 00 109 AE 37101
+AE,Total AE,82,"12,56","11,29","10,31",
+AF,"Farmers Training Centre""",,,,,2401 00 109 AF 30000
+301,Salaries,"3,94,79","3,19,89","4,82,96","5,02,26",2401 00 109 AF 30100
+01,Pay,"3,73,58","2,97,83","4,49,78","4,70,20",2401 00 109 AF 30101
+02,Medical Allowance,"2,09","2,00","3,10","3,11",2401 00 109 AF 30102
+03,Medical Charges,,32,41,43,2401 00 109 AF 30103
+04,Other Allowances,"2,17","2,00","2,74","2,74",2401 00 109 AF 30104
+06,House Rent Allowance,"16,13","16,50","25,66","24,68",2401 00 109 AF 30106
+07,Travel Concession,2,34,41,29,2401 00 109 AF 30107
+08,City Compensatory Allowance,80,90,86,81,2401 00 109 AF 30108
+303,Dearness Allowance,"2,77,49","38,12","77,20","88,05",2401 00 109 AF 30300
+01,Dearness Allowance,"2,77,49","38,12","77,20","88,05",2401 00 109 AF 30301
+304,Travel Expenses,"10,65","18,99","18,63","19,70",2401 00 109 AF 30400
+01,Tour Travelling Allowances,"10,65","18,83","18,47","19,54",2401 00 109 AF 30401
+02,Transfer Travelling Allowances,,16,16,16,2401 00 109 AF 30402
+305,Office Expenses,"5,91","8,06","8,27","7,85",2401 00 109 AF 30500
+01,Telephone Charges,61,"1,15","1,17","1,20",2401 00 109 AF 30501
+02,Other Contingencies,"2,59","2,60","2,60","1,93",2401 00 109 AF 30502
+03,Electricity Charges,"2,19","3,59","3,78","4,00",2401 00 109 AF 30503
+04,Service Postage & Postal Expenditure,52,72,72,72,2401 00 109 AF 30504
+306,"Rent, Rates and Taxes",82,76,"1,69","1,77",2401 00 109 AF 30600
+01,Rent,,1,1,1,2401 00 109 AF 30601
+02,Property tax,82,74,"1,67","1,75",2401 00 109 AF 30602
+04,Lease for Land,,1,1,1,2401 00 109 AF 30604
+319,Machinery and Equipments,28,21,24,24,2401 00 109 AF 31900
+01,Purchase,1,1,1,1,2401 00 109 AF 31901
+03,Maintenance,27,20,23,23,2401 00 109 AF 31903
+321,Motor Vehicles,15,23,28,29,2401 00 109 AF 32100
+02,Maintenance of Functional Vehicles,15,23,28,29,2401 00 109 AF 32102
+324,Materials and Supplies,17,34,18,19,2401 00 109 AF 32400
+01,Materials and Supplies,17,34,18,19,2401 00 109 AF 32401
+333,Payments for Professional and Special Services,3,3,3,5,2401 00 109 AF 33300
+01,Pleaders Fees,3,3,3,5,2401 00 109 AF 33301
+345,"Petroleum, Oil and Lubricant",93,"1,88","1,89","1,93",2401 00 109 AF 34500
+01,"Petroleum, Oil and Lubricant",93,"1,88","1,89","1,93",2401 00 109 AF 34501
+346,"Clothing, Tentage and Stores",9,26,26,26,2401 00 109 AF 34600
+01,"Clothing, Tentage and Stores",9,26,26,26,2401 00 109 AF 34601
+347,Stores and Equipments,31,15,21,21,2401 00 109 AF 34700
+01,Stores - Voted,31,15,21,21,2401 00 109 AF 34701
+349,Festival Advances,- 3,,,,2401 00 109 AF 34900
+01,Festival Advances-Debit,"1,95","4,95","8,20","8,40",2401 00 109 AF 34901
+02,Festival Advances-Credit,"- 1,98","- 4,95","- 8,20","- 8,40",2401 00 109 AF 34902
+359,Prizes and Awards,6,2,20,2,2401 00 109 AF 35900
+01,Prizes and Awards,6,2,20,2,2401 00 109 AF 35901
+372,Training,"13,76","15,00","15,00","15,00",2401 00 109 AF 37200
+01,Training,"13,76","15,00","15,00","15,00",2401 00 109 AF 37201
+376,Computer and Accessories,"2,08",90,"2,02","2,15",2401 00 109 AF 37600
+02,Maintenance,96,50,"1,05","1,16",2401 00 109 AF 37602
+03,Stationery,"1,12",40,97,99,2401 00 109 AF 37603
+AF,Total AF,"7,07,49","4,04,84","6,09,06","6,39,97",
+AK,Training and Visits,,,,,2401 00 109 AK 30000
+301,Salaries,"1,71,45,63","1,61,31,49","1,74,64,91","1,79,93,16",2401 00 109 AK 30100
+01,Pay,"1,60,59,44","1,43,78,29","1,61,04,13","1,66,30,89",2401 00 109 AK 30101
+02,Medical Allowance,"1,14,21","92,67","1,31,60","1,32,38",2401 00 109 AK 30102
+03,Medical Charges,"6,43","12,27","11,91","11,33",2401 00 109 AK 30103
+04,Other Allowances,"1,24,37","98,00","1,17,79","1,17,79",2401 00 109 AK 30104
+06,House Rent Allowance,"7,92,37","15,00,00","10,44,49","10,46,67",2401 00 109 AK 30106
+07,Travel Concession,"3,72","4,65","7,23","5,12",2401 00 109 AK 30107
+08,City Compensatory Allowance,"45,09","45,61","47,76","48,98",2401 00 109 AK 30108
+302,Wages,"8,59","11,30","11,30","11,30",2401 00 109 AK 30200
+01,Wages,"8,59","11,30","11,30","11,30",2401 00 109 AK 30201
+303,Dearness Allowance,"52,97,07","18,29,55","27,64,23","31,14,39",2401 00 109 AK 30300
+01,Dearness Allowance,"52,97,07","18,29,55","27,64,23","31,14,39",2401 00 109 AK 30301
+304,Travel Expenses,"4,66,93","6,25,75","6,32,56","6,21,93",2401 00 109 AK 30400
+01,Tour Travelling Allowances,"3,42,03","5,06,14","5,12,56","5,01,73",2401 00 109 AK 30401
+02,Transfer Travelling Allowances,"16,47","5,48","5,87","6,07",2401 00 109 AK 30402
+03,Fixed Travelling,"1,08,43","1,14,13","1,14,13","1,14,13",2401 00 109 AK 30403
+Allowances,,,,,,
+305,Office Expenses,"1,67,06","2,31,29","2,40,70","2,49,79",2401 00 109 AK 30500
+01,Telephone Charges,"8,11","19,98","19,78","19,96",2401 00 109 AK 30501
+02,Other Contingencies,"35,38","38,05","40,83","35,52",2401 00 109 AK 30502
+03,Electricity Charges,"1,00,97","1,47,81","1,54,64","1,68,86",2401 00 109 AK 30503
+04,Service Postage & Postal Expenditure,"22,60","25,45","25,45","25,45",2401 00 109 AK 30504
+306,"Rent, Rates and Taxes","44,47","42,08","74,24","73,74",2401 00 109 AK 30600
+01,Rent,"5,66","5,42","5,54",13,2401 00 109 AK 30601
+02,Property tax,"38,34","36,00","68,00","72,88",2401 00 109 AK 30602
+03,Water Charges,47,65,69,72,2401 00 109 AK 30603
+05,Others,,1,1,1,2401 00 109 AK 30605
+307,Publications,6,80,84,"1,02",2401 00 109 AK 30700
+01,Publications,6,80,84,"1,02",2401 00 109 AK 30701
+308,Advertising and Publicity,"9,57","12,49","21,05","21,25",2401 00 109 AK 30800
+01,Advertisement Charges,"2,31","4,00","6,02","6,22",2401 00 109 AK 30801
+02,Exhibition,"7,26","8,49","15,03","15,03",2401 00 109 AK 30802
+317,Minor Works,3,1,1,1,2401 00 109 AK 31700
+01,Minor Works,3,1,1,1,2401 00 109 AK 31701
+319,Machinery and Equipments,"4,34","5,27","5,27","4,37",2401 00 109 AK 31900
+01,Purchase,11,12,12,1,2401 00 109 AK 31901
+03,Maintenance,"4,23","5,15","5,15","4,36",2401 00 109 AK 31903
+321,Motor Vehicles,"1,17","5,12","5,93","6,17",2401 00 109 AK 32100
+01,Purchase,12,2,1,1,2401 00 109 AK 32101
+02,Maintenance of Functional Vehicles,"1,05","5,10","5,92","6,16",2401 00 109 AK 32102
+324,Materials and Supplies,27,"1,19","1,19","1,19",2401 00 109 AK 32400
+01,Materials and Supplies,27,"1,19","1,19","1,19",2401 00 109 AK 32401
+333,Payments for Professional and Special Services,"6,34","5,43","11,25","9,56",2401 00 109 AK 33300
+01,Pleaders Fees,"1,71","1,70","3,55","4,12",2401 00 109 AK 33301
+04,Contract Payment,"4,63","3,73","7,70","5,44",2401 00 109 AK 33304
+345,"Petroleum, Oil and Lubricant","30,04","46,50","61,77","62,93",2401 00 109 AK 34500
+01,"Petroleum, Oil and Lubricant","30,04","46,50","61,77","62,93",2401 00 109 AK 34501
+346,"Clothing, Tentage and Stores","2,38","3,61","3,61","3,61",2401 00 109 AK 34600
+01,"Clothing, Tentage and Stores","2,38","3,61","3,61","3,61",2401 00 109 AK 34601
+347,Stores and Equipments,98,"1,20","1,83","1,81",2401 00 109 AK 34700
+01,Stores - Voted,98,"1,20","1,83","1,81",2401 00 109 AK 34701
+349,Festival Advances,"- 10,64",,,,2401 00 109 AK 34900
+01,Festival Advances-Debit,"92,20","1,88,13","3,38,60","3,45,00",2401 00 109 AK 34901
+02,Festival Advances-Credit,"- 1,02,84","- 1,88,13","- 3,38,60","- 3,45,00",2401 00 109 AK 34902
+351,Compensation Charged,"7,79",1,"53,05",11,2401 00 109 AK 35100
+02,Other Compensations  - Charged,"7,79",1,"53,05",11,2401 00 109 AK 35102
+359,Prizes and Awards,90,"2,86","3,00","2,94",2401 00 109 AK 35900
+01,Prizes and Awards,90,"2,86","3,00","2,94",2401 00 109 AK 35901
+369,Procurement of,,,1,1,2401 00 109 AK 36900
+Agricultural Inputs,,,,,,
+01,Procurement of,,,1,1,2401 00 109 AK 36901
+Agricultural Inputs,,,,,,
+372,Training,"44,72","41,89","41,88","41,88",2401 00 109 AK 37200
+01,Training,"44,72","41,89","41,88","41,88",2401 00 109 AK 37201
+373,Transport Charges,"1,06","1,30","1,30","1,82",2401 00 109 AK 37300
+01,Transport Charges,"1,06","1,30","1,30","1,82",2401 00 109 AK 37301
+376,Computer and Accessories,"48,08","45,29","64,83","64,18",2401 00 109 AK 37600
+02,Maintenance,"23,30","22,52","31,66","31,06",2401 00 109 AK 37602
+03,Stationery,"24,78","22,77","33,17","33,12",2401 00 109 AK 37603
+AK,Total AK,,,,,
+Charged,"7,79",1,"53,05",11,,
+Voted,"2,32,69,05","1,90,44,42","2,14,11,71","2,22,87,06",,
+KI,"Special Award to the Farmer who obtains highest productivity in Paddy under SRI method of Cultivation,,,,,2401 00 109 KI 30000
+304,Travel Expenses,5,10,10,10,2401 00 109 KI 30400
+01,Tour Travelling""",5,10,10,10,2401 00 109 KI 30401
+Allowances,,,,,,
+359,Prizes and Awards,"5,05","5,05","3,07","5,05",2401 00 109 KI 35900
+01,Prizes and Awards,"5,05","5,05","3,07","5,05",2401 00 109 KI 35901
+KI,Total KI,"5,10","5,15","3,17","5,15",
+#State's Expenditure Total,,,,,,
+#Charged,"7,79",1,"53,05",11,,
+#Voted,"2,82,39,57","2,42,66,27","2,65,01,42","2,74,27,81",,
+#Externally Aided Projects,,,,,,
+PG,Improved Crop Productivity for Tank and Non-Tank Irrigation under Tamil Nadu Irrigated Agriculture Modernisation Project-II,,,,,2401 00 109 PG 30000
+304,Travel Expenses,1,1,1,1,2401 00 109 PG 30400
+01,Tour Travelling Allowances,1,1,1,1,2401 00 109 PG 30401
+305,Office Expenses,"5,18","6,32","6,24","3,70",2401 00 109 PG 30500
+02,Other Contingencies,"5,18","6,32","6,24","3,70",2401 00 109 PG 30502
+308,Advertising and Publicity,,2,2,2,2401 00 109 PG 30800
+01,Advertisement Charges,,1,1,1,2401 00 109 PG 30801
+03,Demonstration,1,1,1,2401 00 109 PG 30803,
+309,Grants-in-Aid,"95,18","77,50","60,00","8,25",2401 00 109 PG 30900
+03,Grants for Specific Schemes,"95,18","77,50","60,00","8,25",2401 00 109 PG 30903
+311,Subsidies,"1,07,74","99,45","1,02,25","1,02,62",2401 00 109 PG 31100
+01,Individual Based Subsidy,"58,08","24,36","45,22","66,39",2401 00 109 PG 31101
+02,General Subsidy,"49,66","75,09","57,03","36,23",2401 00 109 PG 31102
+319,Machinery and Equipments,,1,1,1,2401 00 109 PG 31900
+01,Purchase,,1,1,1,2401 00 109 PG 31901
+321,Motor Vehicles,"2,79",55,"2,20",50,2401 00 109 PG 32100
+03,Hire Charges,"2,79",55,"2,20",50,2401 00 109 PG 32103
+333,Payments for Professional and Special Services,,1,1,1,2401 00 109 PG 33300
+03,Special Service,,1,1,1,2401 00 109 PG 33303
+359,Prizes and Awards,"1,33",1,1,1,2401 00 109 PG 35900
+01,Prizes and Awards,"1,33",1,1,1,2401 00 109 PG 35901
+369,Procurement of,"4,99,26","1,00,00","9,95,81","14,76,36",2401 00 109 PG 36900
+Agricultural Inputs,,,,,,
+01,Procurement of,"4,99,26","1,00,00","9,95,81","14,76,36",2401 00 109 PG 36901
+Agricultural Inputs,,,,,,
+372,Training,"1,29,40","1,44,30","2,74,67","3,14,66",2401 00 109 PG 37200
+01,Training,"1,29,40","1,44,30","2,74,67","3,14,66",2401 00 109 PG 37201
+376,Computer and Accessories,,1,1,1,2401 00 109 PG 37600
+01,Purchase,,1,1,1,2401 00 109 PG 37601
+PG,Total PG,"8,40,89","4,28,19","14,41,24","19,06,16",
+#Total,Externally Aided Project,"8,40,89","4,28,19","14,41,24","19,06,16",
+#Schemes shared between State and Centre,,,,,,
+UC,National Mission on Agricultural Extention and Technology,,,,,2401 00 109 UC 30000
+309,Grants-in-Aid,"56,94,68","51,11,83","66,10,85","69,41,39",2401 00 109 UC 30900
+03,Grants for Specific Schemes,"56,94,68","51,11,83","66,10,85","69,41,39",2401 00 109 UC 30903
+UC,Total UC,"56,94,68","51,11,83","66,10,85","69,41,39",
+UD,National e-Governance plan in Agriculture and National Mission on Agricultural Extension Technology,,,,,2401 00 109 UD 30000
+309,Grants-in-Aid,"3,13,03","4,00,30","4,00,30","4,20,32",2401 00 109 UD 30900
+03,Grants for Specific Schemes,"3,13,03","4,00,30","4,00,30","4,20,32",2401 00 109 UD 30903
+UD,Total UD,"3,13,03","4,00,30","4,00,30","4,20,32",
+#Schemes shared between State and Centre Total,"60,07,71","55,12,13","70,11,15","73,61,71",,
+109,Total 109 Charged,"7,79",1,"53,05",11,
+109,Total 109 Voted,"3,50,88,17","3,02,06,59","3,49,53,81","3,66,95,68",
+110,Crop Insurance,,,,,
+#State's Expenditure,,,,,,
+JE,State Subsidy to Agricultural Insurance Scheme for Non-Loanee / Tenant Farmers and Loanee Farmers,,,,,2401 00 110 JE 30000
+305,Office Expenses,,1,1,1,2401 00 110 JE 30500
+02,Other Contingencies,,1,1,1,2401 00 110 JE 30502
+308,Advertising and Publicity,,1,1,2,2401 00 110 JE 30800
+01,Advertisement Charges,,1,1,2,2401 00 110 JE 30801
+309,Grants-in-Aid,,1,1,1,2401 00 110 JE 30900
+03,Grants for Specific Schemes,,1,1,1,2401 00 110 JE 30903
+JE,Total JE,3,3,4,,
+JI,National Agricultutal Insurance Scheme,,,,,2401 00 110 JI 30000
+351,Compensation,,"60,00","60,00","10,00",2401 00 110 JI 35100
+02,Other Compensations  - Voted,,"60,00","60,00","10,00",2401 00 110 JI 35102
+JI,Total JI,"60,00","60,00","10,00",,
+"JJ
+State's Share towards",,,,,,
+Premium Subsidy under,,,,,,
+Pradhan Mantri Fasal Bima,,,,,,
+Yojana (PMFBY) for,,,,,,
+Agriculture Crops,,,,,2401 00 110 JJ 30000,
+304,Travel Expenses,,,"7,50","6,83",2401 00 110 JJ 30400
+01,Tour Travelling Allowances,,,"7,50","6,83",2401 00 110 JJ 30401
+305,Office Expenses,"56,89",91,"80,00","80,00",2401 00 110 JJ 30500
+01,Telephone Charges,"56,13",1,"70,00","70,00",2401 00 110 JJ 30501
+02,Other Contingencies,76,90,"10,00","10,00",2401 00 110 JJ 30502
+308,Advertising and Publicity,,50,"10,25","10,00",2401 00 110 JJ 30800
+01,Advertisement Charges,,50,"10,25","10,00",2401 00 110 JJ 30801
+309,Grants-in-Aid,"4,33,84,06","4,56,00,00","5,25,00,00","5,25,00,00",2401 00 110 JJ 30900
+03,Grants for Specific Schemes,"4,33,84,06","4,56,00,00","5,25,00,00","5,25,00,00",2401 00 110 JJ 30903
+333,Payments for Professional and Special Services,"10,62,20","13,14,01","20,45,71","22,10,56",2401 00 110 JJ 33300
+01,Pleaders Fees,,,"4,00","4,20",2401 00 110 JJ 33301
+03,Special Service,"21,23",1,"50,00","50,00",2401 00 110 JJ 33303
+04,Contract Payment,"10,40,97","13,14,00","19,91,71","21,56,36",2401 00 110 JJ 33304
+372,Training,,,1,1,2401 00 110 JJ 37200
+01,Training,,,1,1,2401 00 110 JJ 37201
+376,Computer and Accessories,,,1,1,2401 00 110 JJ 37600
+01,Purchase,,,1,1,2401 00 110 JJ 37601
+JJ,Total JJ,"4,45,03,15","4,69,15,42","5,46,43,48","5,48,07,41",
+#State's Expenditure Total,,"4,45,03,15","4,69,75,45","5,47,03,51","5,48,17,45",
+110,Total 110,"4,45,03,15","4,69,75,45","5,47,03,51","5,48,17,45",
+112,Development of Pulses,,,,,
+#Schemes shared between State and Centre,,,,,,
+#Schemes shared between State and Centre,,,,,,
+UB,National Food Security Mission (NFSM) - Other Crops,,,,,2401 00 112 UB 30000
+309,Grants-in-Aid,"71,03,21","58,00,43","68,17,75","78,40,00",2401 00 112 UB 30900
+03,Grants for Specific Schemes,"71,03,21","58,00,43","68,17,75","78,40,00",2401 00 112 UB 30903
+UB,Total UB,"71,03,21","58,00,43","68,17,75","78,40,00",
+#Schemes shared between State and Centre Total,"71,03,21","58,00,43","68,17,75","78,40,00",,
+112,Total 112,"71,03,21","58,00,43","68,17,75","78,40,00",
+114,Development of Oil seeds,,,,,
+#State's Expenditure,,,,,,
+JB,Market Intervention Scheme for Procurement of Oil Palm Fresh Fruit Bunches.,,,,,2401 00 114 JB 30000
+311,Subsidies,,,"1,30,35","1,00,00",2401 00 114 JB 31100
+01,Individual Based Subsidy,,,"1,30,35","1,00,00",2401 00 114 JB 31101
+JB,Total JB,,,"1,30,35","1,00,00",
+#State's Expenditure Total,,,,"1,30,35","1,00,00",
+#Central Sector Schemes,,,,,,
+SB,Integrated Farming in Coconut holding for Productivity improvement,,,,,2401 00 114 SB 30000
+311,Subsidies,"48,27","1,40,00","54,69","1,40,00",2401 00 114 SB 31100
+01,Individual Based Subsidy,"48,27","1,40,00","54,69","1,40,00",2401 00 114 SB 31101
+372,Training,,,,1,2401 00 114 SB 37200
+01,Training,,,,1,2401 00 114 SB 37201
+SB,Total SB,"48,27","1,40,00","54,69","1,40,01",
+SC,Replanting and Rejuvenation of Coconut Gardens,,,,,2401 00 114 SC 30000
+311,Subsidies,"14,01,82","16,00,00","74,44,15","16,00,00",2401 00 114 SC 31100
+01,Individual Based Subsidy,"14,01,82","16,00,00","74,44,15","16,00,00",2401 00 114 SC 31101
+372,Training,,,"20,00",1,2401 00 114 SC 37200
+01,Training,,,"20,00",1,2401 00 114 SC 37201
+SC,Total SC,"14,01,82","16,00,00","74,64,15","16,00,01",
+#Central Sector Schemes,,,,,,
+#Total,,"14,50,09","17,40,00","75,18,84","17,40,02",
+#Schemes shared between State and Centre,,,,,,
+UB,Oilseeds Production Programme under National Food Security Mission (NFSM) - Oilseeds and Oil Palm,,,,,2401 00 114 UB 30000
+305,Office Expenses,"2,00","3,00","1,82","1,88",2401 00 114 UB 30500
+02,Other Contingencies,"2,00","3,00","1,82","1,88",2401 00 114 UB 30502
+308,Advertising and Publicity,,1,1,1,2401 00 114 UB 30800
+01,Advertisement Charges,,1,1,1,2401 00 114 UB 30801
+311,Subsidies,"11,33,97","6,39,54","13,00,52","13,52,55",2401 00 114 UB 31100
+01,Individual Based Subsidy,"11,33,97","6,39,54","13,00,52","13,52,55",2401 00 114 UB 31101
+321,Motor Vehicles,,,"2,13","2,21",2401 00 114 UB 32100
+03,Hire Charges,,,"2,13","2,21",2401 00 114 UB 32103
+372,Training,,,"12,40","12,89",2401 00 114 UB 37200
+01,Training,,,"12,40","12,89",2401 00 114 UB 37201
+UB,Total UB,"11,35,97","6,42,55","13,16,88","13,69,54",
+UE,Oil Palm Development Project under National Food Security Mission (NFSM) - Oilseeds and Oil Palm,,,,,2401 00 114 UE 30000
+305,Office Expenses,44,"3,59","13,07","13,72",2401 00 114 UE 30500
+02,Other Contingencies,44,"3,59","13,07","13,72",2401 00 114 UE 30502
+308,Advertising and Publicity,,1,1,1,2401 00 114 UE 30800
+01,Advertisement Charges,,1,1,1,2401 00 114 UE 30801
+311,Subsidies,"3,05,22","3,02,08","3,19,91","3,35,91",2401 00 114 UE 31100
+01,Individual Based Subsidy,"3,05,22","3,02,08","3,19,91","3,35,91",2401 00 114 UE 31101
+372,Training,,1,1,1,2401 00 114 UE 37200
+01,Training,,1,1,1,2401 00 114 UE 37201
+UE,Total UE,"3,05,66","3,05,69","3,33,00","3,49,65",
+UG,Tree Borne Oil Seeds Project under National Food Security Mission (NFSM) - Oilseeds and Oil Palm,,,,,2401 00 114 UG 30000
+305,Office Expenses,"1,05",71,"2,95","3,10",2401 00 114 UG 30500
+02,Other Contingencies,"1,05",71,"2,95","3,10",2401 00 114 UG 30502
+311,Subsidies,"1,25,17","1,29,46","74,92","78,67",2401 00 114 UG 31100
+01,Individual Based Subsidy,"1,25,17","1,29,46","74,92","78,67",2401 00 114 UG 31101
+372,Training,44,1,1,1,2401 00 114 UG 37200
+01,Training,44,1,1,1,2401 00 114 UG 37201
+UG,Total UG,"1,26,66","1,30,18","77,88","81,78",
+#Schemes shared between State and Centre Total,"15,68,29","10,78,42","17,27,76","18,00,97",,
+114,Total 114,"30,18,38","28,18,42","93,76,95","36,40,99",
+115,Scheme of Small/Marginal farmers and Agricultural labour,,,,,
+#State's Expenditure,,,,,,
+KM,Organising Small and Marginal Farmers into Farmer Producer Groups,,,,,2401 00 115 KM 30000
+309,Grants-in-Aid,"75,66,67","75,06,40","75,18,86","75,00,00",2401 00 115 KM 30900
+03,Grants for Specific Schemes,"75,66,67","75,06,40","75,18,86","75,00,00",2401 00 115 KM 30903
+KM,Total KM,"75,66,67","75,06,40","75,18,86","75,00,00",
+#State's Expenditure Total,,"75,66,67","75,06,40","75,18,86","75,00,00",
+115,Total 115,"75,66,67","75,06,40","75,18,86","75,00,00",
+789,Special Component Plan for Scheduled Castes,,,,,
+#State's Expenditure,,,,,,
+JC,Crop and plant protection,,,,,2401 00 789 JC 30000
+324,Materials and Supplies,"6,69","4,51","7,45","8,20",2401 00 789 JC 32400
+01,Materials and Supplies,"6,69","4,51","7,45","8,20",2401 00 789 JC 32401
+369,Procurement of,53,"1,25","1,25","1,25",2401 00 789 JC 36900
+Agricultural Inputs,,,,,,
+01,Procurement of,53,"1,25","1,25","1,25",2401 00 789 JC 36901
+Agricultural Inputs,,,,,,
+373,Transport Charges,"5,08","5,74","5,74","5,33",2401 00 789 JC 37300
+01,Transport Charges,"5,08","5,74","5,74","5,33",2401 00 789 JC 37301
+JC,Total JC,"12,30","11,50","14,44","14,78",
+JJ,State Subsidy to Agricultural Insurance Scheme for Non-Loanee / Tenant Farmers and Loanee Farmers under Special Component Plan,,,,,2401 00 789 JJ 30000
+309,Grants-in-Aid,,1,1,1,2401 00 789 JJ 30900
+03,Grants for Specific Schemes,,1,1,1,2401 00 789 JJ 30903
+JJ,Total JJ,1,1,1,,
+JP,National Agricultural Insurance Scheme under Special Component Plan,,,,,2401 00 789 JP 30000
+351,Compensation,,"20,00","20,00","2,50",2401 00 789 JP 35100
+02,Other Compensations  - Voted,,"20,00","20,00","2,50",2401 00 789 JP 35102
+JP,Total JP,"20,00","20,00","2,50",,
+JQ,Incentive to Farmers during Paddy Procurement under Special Component Plan for Scheduled Castes,,,,,2401 00 789 JQ 30000
+311,Subsidies,"30,72,00","60,00,00","61,00,00","35,00,00",2401 00 789 JQ 31100
+02,General Subsidy,"30,72,00","60,00,00","61,00,00","35,00,00",2401 00 789 JQ 31102
+JQ,Total JQ,"30,72,00","60,00,00","61,00,00","35,00,00",
+JU,State's Share towards Premium Subsidy under Pradhan Mantri Fasal Bima Yojana (PMFBY) for Agriculture Crops for Scheduled Caste Sub-Plan,,,,,2401 00 789 JU 30000
+309,Grants-in-Aid,"1,44,61,35","1,52,00,00","1,75,00,00","1,75,00,00",2401 00 789 JU 30900
+03,Grants for Specific Schemes,"1,44,61,35","1,52,00,00","1,75,00,00","1,75,00,00",2401 00 789 JU 30903
+JU,Total JU,"1,44,61,35","1,52,00,00","1,75,00,00","1,75,00,00",
+#State's Expenditure Total,"1,75,45,65","2,12,31,51","2,36,34,45","2,10,17,29",,
+789,Total 789,"1,75,45,65","2,12,31,51","2,36,34,45","2,10,17,29",
+793,"Special Central Assistance for Scheduled Caste Component Plan,Central Sector Schemes",,,,,
+#Central Sector Sechemes,,,,,,
+SH,Integrated Farming in Coconut Holding for Productivity Improvement for Scheduled Caste Sub-Plan,,,,,2401 00 793 SH 30000
+311,Subsidies,,"33,25","21,21","33,25",2401 00 793 SH 31100
+01,Individual Based Subsidy,,"33,25","21,21","33,25",2401 00 793 SH 31101
+SH,Total SH,,"33,25","21,21","33,25",
+SI,Replanting and Rejuvenation of Coconut Garden for Scheduled Caste Sub-Plan,,,,,2401 00 793 SI 30000
+311,Subsidies,,"3,80,00","32,72,38","3,80,00",2401 00 793 SI 31100
+01,Individual Based Subsidy,,"3,80,00","32,72,38","3,80,00",2401 00 793 SI 31101
+SI,Total SI,,"3,80,00","32,72,38","3,80,00",
+#Central Sector Schemes Total,"4,13,25","32,93,59","4,13,25",,,
+#Schemes shared between State and Centre,,,,,,
+UE,Special Component Plan for development of Plasticulture,,,,,2401 00 793 UE 30000
+311,Subsidies,,1,,,2401 00 793 UE 31100
+01,Individual Based Subsidy,,1,,,2401 00 793 UE 31101
+UE,Total UE,,1,,,
+UF,Oil Palm Development Project under National Food Security  Mission (NFSM) - Oilseeds and Oil Palm,,,,,2401 00 793 UF 30000
+311,Subsidies,"34,76","76,41","67,88","71,28",2401 00 793 UF 31100
+01,Individual Based Subsidy,"34,76","76,41","67,88","71,28",2401 00 793 UF 31101
+372,Training,6,1,1,1,2401 00 793 UF 37200
+01,Training,6,1,1,1,2401 00 793 UF 37201
+UF,Total UF,"34,82","76,42","67,89","71,29",
+UG,Oilseeds Production Programme under National Food Security Mission (NFSM) - Oilseeds and Oil Palm,,,,,2401 00 793 UG 30000
+311,Subsidies,"2,38,39","1,73,24","3,08,87","3,21,23",2401 00 793 UG 31100
+01,Individual Based Subsidy,"2,38,39","1,73,24","3,08,87","3,21,23",2401 00 793 UG 31101
+UG,Total UG,"2,38,39","1,73,24","3,08,87","3,21,23",
+UH,State Extension Programme for Extension Reforms,,,,,2401 00 793 UH 30000
+309,Grants-in-Aid,"18,59,54","18,00,00","15,70,07","16,48,58",2401 00 793 UH 30900
+03,Grants for Specific Schemes,"18,59,54","18,00,00","15,70,07","16,48,58",2401 00 793 UH 30903
+UH,Total UH,"18,59,54","18,00,00","15,70,07","16,48,58",
+UI,Tree Borne Oil Seeds Project under National Food Security Mission (NFSM) - Oilseeds and Oil Palm,,,,,2401 00 793 UI 30000
+311,Subsidies,"23,77","32,16","15,83","16,62",2401 00 793 UI 31100
+01,Individual Based Subsidy,"23,77","32,16","15,83","16,62",2401 00 793 UI 31101
+UI,Total UI,"23,77","32,16","15,83","16,62",
+UJ,Rainfed Area Development under National Mission on Sustainable Agriculture,,,,,2401 00 793 UJ 30000
+309,Grants-in-Aid,"27,54","59,80","55,00","63,00",2401 00 793 UJ 30900
+03,Grants for Specific Schemes,"27,54","59,80","55,00","63,00",2401 00 793 UJ 30903
+311,Subsidies,"10,01,98","12,00,65","7,54,32","8,67,00",2401 00 793 UJ 31100
+01,Individual Based Subsidy,"10,01,98","12,00,65","7,54,32","8,67,00",2401 00 793 UJ 31101
+UJ,Total UJ,"10,29,52","12,60,45","8,09,32","9,30,00",
+UK,Paramparagat Krishi Vikas Yojana (PKVY) under National Mission on Sustainable Agriculture,,,,,2401 00 793 UK 30000
+305,Office Expenses,,1,"11,52",1,2401 00 793 UK 30500
+02,Other Contingencies,,1,"11,52",1,2401 00 793 UK 30502
+308,Advertising and Publicity,"39,89",1,"50,55",1,2401 00 793 UK 30800
+01,Advertisement Charges,"39,89",1,"50,55",1,2401 00 793 UK 30801
+309,Grants-in-Aid,"2,03","1,45","4,50","5,00",2401 00 793 UK 30900
+03,Grants for Specific Schemes,"2,03","1,45","4,50","5,00",2401 00 793 UK 30903
+311,Subsidies,"75,05","51,15","69,02","79,00",2401 00 793 UK 31100
+01,Individual Based Subsidy,"75,05","51,15","69,02","79,00",2401 00 793 UK 31101
+333,Payments for Professional and Special Services,,,"6,82",1,2401 00 793 UK 33300
+03,Special Service,,,"6,82",1,2401 00 793 UK 33303
+372,Training,,,6,1,2401 00 793 UK 37200
+01,Training,,,6,1,2401 00 793 UK 37201
+373,Transport Charges,,,"2,43","2,50",2401 00 793 UK 37300
+01,Transport Charges,,,"2,43","2,50",2401 00 793 UK 37301
+UK,Total UK,"1,16,97","52,62","1,44,90","86,54",
+UL,National Agriculture Development Programme (NADP-RKVY) under Special Component Plan - Agriculture Department,,,,,2401 00 793 UL 30000
+305,Office Expenses,"17,93",1,1,1,2401 00 793 UL 30500
+05,Furniture,"17,93",1,1,1,2401 00 793 UL 30505
+309,Grants-in-Aid,,"71,00","1,57,28","1,81,00",2401 00 793 UL 30900
+03,Grants for Specific Schemes,,"71,00","1,57,28","1,81,00",2401 00 793 UL 30903
+311,Subsidies,"28,37,84","34,33,79","15,14,51","17,42,01",2401 00 793 UL 31100
+01,Individual Based Subsidy,"27,53,42","34,33,78","15,14,50","17,42,00",2401 00 793 UL 31101
+02,General Subsidy,"84,42",1,1,1,2401 00 793 UL 31102
+319,Machinery and Equipments,"27,23",1,"2,05,60","2,36,00",2401 00 793 UL 31900
+01,Purchase,"27,23",1,"2,05,60","2,36,00",2401 00 793 UL 31901
+376,Computer and Accessories,"2,60",1,1,1,2401 00 793 UL 37600
+01,Purchase,"2,60",1,1,1,2401 00 793 UL 37601
+UL,Total UL,"28,85,60","35,04,82","18,77,41","21,59,03",
+UM,Production and Distribution of quality seeds,,,,,2401 00 793 UM 30000
+309,Grants-in-Aid,"4,62,82","3,00,00","5,22,03","3,00,00",2401 00 793 UM 30900
+03,Grants for Specific Schemes,"4,62,82","3,00,00","5,22,03","3,00,00",2401 00 793 UM 30903
+UM,Total UM,"4,62,82","3,00,00","5,22,03","3,00,00",
+UN,National Food Security Mission (NFSM) - Other Crops,,,,,2401 00 793 UN 30000
+309,Grants-in-Aid,"16,86,66","13,30,55","16,19,22","18,62,00",2401 00 793 UN 30900
+03,Grants for Specific Schemes,"16,86,66","13,30,55","16,19,22","18,62,00",2401 00 793 UN 30903
+UN,Total UN,"16,86,66","13,30,55","16,19,22","18,62,00",
+UX,National e-Governance Plan in Agriculture and National Mission on Agricultural Extension Technology under Special Component Plan for Scheduled Caste,,,,,2401 00 793 UX 30000
+309,Grants-in-Aid,,,"80,00","84,00",2401 00 793 UX 30900
+03,Grants for Specific Schemes,,,"80,00","84,00",2401 00 793 UX 30903
+UX,Total UX,,"80,00","84,00",,
+#Schemes shared between State and Centre Total,"83,38,09","85,30,27","70,15,54","74,79,29",,
+793,Total 793,"83,38,09","89,43,52","1,03,09,13","78,92,54",
+794,Special Central Assistance for Tribal Sub-Plan,,,,,
+#Central Sector Sechemes,,,,,,
+SA,Integrated Farming in Coconut Holding for Productivity Improvement for Tribal Sub-Plan,,,,,2401 00 794 SA 30000
+311,Subsidies,,"1,75",32,"1,75",2401 00 794 SA 31100
+01,Individual Based Subsidy,,"1,75",32,"1,75",2401 00 794 SA 31101
+SA,Total SA,,"1,75",32,"1,75",
+SB,Replanting and Rejuvenation of Coconut Garden for Tribal Sub-Plan,,,,,2401 00 794 SB 30000
+311,Subsidies,,"20,00","9,66,62","20,00",2401 00 794 SB 31100
+01,Individual Based Subsidy,,"20,00","9,66,62","20,00",2401 00 794 SB 31101
+SB,Total SB,,"20,00","9,66,62","20,00",
+#Central Sector Schemes Total,,"21,75","9,66,94","21,75",,
+#Schemes shared between State and Centre,,,,,,
+UA,State Extension Programme for Extension Reforms,,,,,2401 00 794 UA 30000
+309,Grants-in-Aid,"63,63","81,00","82,63","86,76",2401 00 794 UA 30900
+03,Grants for Specific Schemes,"63,63","81,00","82,63","86,76",2401 00 794 UA 30903
+UA,Total UA,"63,63","81,00","82,63","86,76",
+UB,Oilseeds Production Programme under National Food Security Mission (NFSM) - Oilseeds and Oil Palm,,,,,2401 00 794 UB 30000
+311,Subsidies,"32,21","12,05","16,26","16,91",2401 00 794 UB 31100
+01,Individual Based Subsidy,"32,21","12,05","16,26","16,91",2401 00 794 UB 31101
+UB,Total UB,"32,21","12,05","16,26","16,91",
+UC,Oil Palm Development Project under National Food Security Mission (NFSM) - Oilseeds and Oil Palm,,,,,2401 00 794 UC 30000
+311,Subsidies,"1,32","5,27","35,12","36,87",2401 00 794 UC 31100
+01,Individual Based Subsidy,"1,32","5,27","35,12","36,87",2401 00 794 UC 31101
+372,Training,,1,1,1,2401 00 794 UC 37200
+01,Training,,1,1,1,2401 00 794 UC 37201
+UC,Total UC,"1,32","5,28","35,13","36,88",
+UE,Tree Borne Oil Seeds Project under National Food Security Mission (NFSM) - Oilseeds and Oil Palm,,,,,2401 00 794 UE 30000
+311,Subsidies,90,"2,06","6,15","6,46",2401 00 794 UE 31100
+01,Individual Based Subsidy,90,"2,06","6,15","6,46",2401 00 794 UE 31101
+UE,Total UE,90,"2,06","6,15","6,46",
+UF,Rainfed Area Development under National Mission on Sustainable Agriculture,,,,,2401 00 794 UF 30000
+309,Grants-in-Aid,87,"1,33","2,96","3,00",2401 00 794 UF 30900
+03,Grants for Specific Schemes,87,"1,33","2,96","3,00",2401 00 794 UF 30903
+311,Subsidies,"50,62","61,89","45,72","53,00",2401 00 794 UF 31100
+01,Individual Based Subsidy,"50,62","61,89","45,72","53,00",2401 00 794 UF 31101
+UF,Total UF,"51,49","63,22","48,68","56,00",
+UG,Paramparagat Krishi Vikas Yojana (PKVY) under National Mission on Sustainable Agriculture,,,,,2401 00 794 UG 30000
+305,Office Expenses,,,14,20,2401 00 794 UG 30500
+02,Other Contingencies,,,14,20,2401 00 794 UG 30502
+308,Advertising and Publicity,,,"3,10","3,50",2401 00 794 UG 30800
+01,Advertisement Charges,,,"3,10","3,50",2401 00 794 UG 30801
+309,Grants-in-Aid,,,15,18,2401 00 794 UG 30900
+03,Grants for Specific Schemes,,,15,18,2401 00 794 UG 30903
+311,Subsidies,"4,50","3,66","4,49","5,00",2401 00 794 UG 31100
+01,Individual Based Subsidy,"4,50","3,66","4,49","5,00",2401 00 794 UG 31101
+372,Training,42,60,1,1,2401 00 794 UG 37200
+01,Training,42,60,1,1,2401 00 794 UG 37201
+373,Transport Charges,,,77,"1,00",2401 00 794 UG 37300
+01,Transport Charges,,,77,"1,00",2401 00 794 UG 37301
+UG,Total UG,"4,92","4,26","8,66","9,89",
+UH,National Agriculture Development Programme (NADP-RKVY) - Agriculture Department,,,,,2401 00 794 UH 30000
+308,Advertising and Publicity,,1,1,1,2401 00 794 UH 30800
+01,Advertisement Charges,,1,1,1,2401 00 794 UH 30801
+309,Grants-in-Aid,,1,"9,28","11,00",2401 00 794 UH 30900
+03,Grants for Specific Schemes,,1,"9,28","11,00",2401 00 794 UH 30903
+311,Subsidies,"90,02","4,38,87","1,04,15","1,20,01",2401 00 794 UH 31100
+01,Individual Based Subsidy,"86,72","4,38,86","1,04,14","1,20,00",2401 00 794 UH 31101
+02,General Subsidy,"3,30",1,1,1,2401 00 794 UH 31102
+319,Machinery and Equipments,60,1,"11,30","13,00",2401 00 794 UH 31900
+01,Purchase,60,1,"11,30","13,00",2401 00 794 UH 31901
+UH,Total UH,"90,62","4,38,90","1,24,74","1,44,02",
+"UI
+Production and",,,,,,
+Distribution of quality,,,,,,
+seeds,,,,,2401 00 794 UI 30000,
+309,Grants-in-Aid,"45,81","75,00","75,00","75,00",2401 00 794 UI 30900
+03,Grants for Specific Schemes,"45,81","75,00","75,00","75,00",2401 00 794 UI 30903
+UI,Total UI,"45,81","75,00","75,00","75,00",
+UJ,National Food Security Mission (NFSM) - Other Crops,,,,,2401 00 794 UJ 30000
+309,Grants-in-Aid,"88,91","69,78","85,23","98,00",2401 00 794 UJ 30900
+03,Grants for Specific Schemes,"88,91","69,78","85,23","98,00",2401 00 794 UJ 30903
+UJ,Total UJ,"88,91","69,78","85,23","98,00",
+US,National e-Governance Plan in Agriculture and National Mission on Agricultural Extension Technology under Tribal Sub-Plan,,,,,2401 00 794 US 30000
+309,Grants-in-Aid,,,,"5,92",2401 00 794 US 30900
+03,Grants for Specific Schemes,,,,"5,92",2401 00 794 US 30903
+US,Total US,,,,"5,92",
+#Schemes shared between State and Centre Total,"3,79,81","7,51,55","4,82,48","5,35,84",,
+794,Total 794,"3,79,81","7,73,30","14,49,42","5,57,59",
+796,Tribal Area Sub-Plan,,,,,
+#State's Expenditure,,,,,,
+JI,State Subsidy to Agricultural Insurance Scheme for Non-Loanee / Tenant Farmers and Loanee Farmers under Tribal Sub-Plan,,,,,2401 00 796 JI 30000
+309,Grants-in-Aid,,1,1,1,2401 00 796 JI 30900
+03,Grants for Specific Schemes,,1,1,1,2401 00 796 JI 30903
+JI,Total JI,1,1,1,,
+#State's Expenditure Total,,1,1,1,,
+796,Total 796,1,1,1,,
+800,Other Expenditure,,,,,
+#State's Expenditure,,,,,,
+AV,Payment to Tamil Nadu Electricity Board on behalf of farmers using farm pump sets,,,,,2401 00 800 AV 30000
+309,Grants-in-Aid,"40,96,92,01","43,01,76,60","45,11,01,00","47,36,56,05",2401 00 800 AV 30900
+03,Grants for Specific Schemes,"40,96,92,01","43,01,76,60","45,11,01,00","47,36,56,05",2401 00 800 AV 30903
+AV,Total AV,"40,96,92,01","43,01,76,60","45,11,01,00","47,36,56,05",
+KK,Implementation of Smart Water Saving Techniques in Rice Cultivation - Schemes under State Innovation Fund,,,,,2401 00 800 KK 30000
+308,Advertising and Publicity,,,,1,2401 00 800 KK 30800
+01,Advertisement Charges,,,,1,2401 00 800 KK 30801
+311,Subsidies,,1,1,1,2401 00 800 KK 31100
+01,Individual Based Subsidy,,1,1,1,2401 00 800 KK 31101
+KK,Total KK,1,1,2,,
+KL,Mission on sustainable Dry Land Farming,,,,,2401 00 800 KL 30000
+309,Grants-in-Aid,"22,02,32",2,2,2,2401 00 800 KL 30900
+02,Grants for Creation of Capital Assets,"17,36,00",1,1,1,2401 00 800 KL 30902
+03,Grants for Specific Schemes,"4,66,32",1,1,1,2401 00 800 KL 30903
+311,Subsidies,"1,58,44,61","2,24,00,00","1,88,30,00","78,00,00",2401 00 800 KL 31100
+01,Individual Based Subsidy,"1,58,44,61","2,24,00,00","1,88,30,00","78,00,00",2401 00 800 KL 31101
+333,Payments for Professional and Special Services,"1,34,05",1,1,1,2401 00 800 KL 33300
+03,Special Service,"1,34,05",1,1,1,2401 00 800 KL 33303
+372,Training,"1,62,40",1,1,1,2401 00 800 KL 37200
+01,Training,"1,62,40",1,1,1,2401 00 800 KL 37201
+KL,Total KL,"1,83,43,38","2,24,00,04","1,88,30,04","78,00,04",
+#State's Expenditure Total,"42,80,35,39","45,25,76,65","46,99,31,05","48,14,56,11",,
+Externally Aided,,,,,,
+Projects,,,,,,
+PE,Tamil Nadu Irrigated Agriculture Modernisation Project-II Project Cell,,,,,2401 00 800 PE 30000
+304,Travel Expenses,,1,1,1,2401 00 800 PE 30400
+01,Tour Travelling Allowances,,1,1,1,2401 00 800 PE 30401
+305,Office Expenses,"3,77","3,62","2,01","4,01",2401 00 800 PE 30500
+01,Telephone Charges,2,20,50,50,2401 00 800 PE 30501
+02,Other Contingencies,"2,99","3,41","1,50","3,50",2401 00 800 PE 30502
+05,Furniture,76,1,1,1,2401 00 800 PE 30505
+308,Advertising and Publicity,63,2,2,2,2401 00 800 PE 30800
+01,Advertisement Charges,63,1,1,1,2401 00 800 PE 30801
+03,Demonstration,,1,1,1,2401 00 800 PE 30803
+319,Machinery and Equipments,"3,77",1,1,1,2401 00 800 PE 31900
+01,Purchase,"3,77",1,1,1,2401 00 800 PE 31901
+321,Motor Vehicles,50,55,80,50,2401 00 800 PE 32100
+03,Hire Charges,50,55,80,50,2401 00 800 PE 32103
+333,Payments for Professional and Special Services,"3,15","10,80","10,80","11,88",2401 00 800 PE 33300
+03,Special Service,"3,15","10,80","10,80","11,88",2401 00 800 PE 33303
+359,Prizes and Awards,30,30,30,30,2401 00 800 PE 35900
+01,Prizes and Awards,30,30,30,30,2401 00 800 PE 35901
+360,T.A./D.A.to Non-Official Members,,,30,"1,00",2401 00 800 PE 36000
+01,T.A./D.A.to Non-Official Members,,,30,"1,00",2401 00 800 PE 36001
+369,Procurement of,,1,1,1,2401 00 800 PE 36900
+Agricultural Inputs,,,,,,
+01,Procurement of,,1,1,1,2401 00 800 PE 36901
+Agricultural Inputs,,,,,,
+372,Training,55,"1,21",50,50,2401 00 800 PE 37200
+01,Training,55,"1,21",50,50,2401 00 800 PE 37201
+376,Computer and Accessories,"4,52",1,61,81,2401 00 800 PE 37600
+01,Purchase,"4,52",1,1,1,2401 00 800 PE 37601
+02,Maintenance,,,30,30,2401 00 800 PE 37602
+03,Stationery,,,30,50,2401 00 800 PE 37603
+PE,Total PE,"17,19","16,54","15,37","19,05",
+#Externally Aided Project Total,"17,19","16,54","15,37","19,05",,
+#Schemes shared between State and Centre,,,,,,
+UF,National Agriculture Development Programme (NADP-RKVY) - Agriculture Department,,,,,2401 00 800 UF 30000
+305,Office Expenses,"26,77",2,2,2,2401 00 800 UF 30500
+02,Other Contingencies,"13,64",1,1,1,2401 00 800 UF 30502
+05,Furniture,"13,13",1,1,1,2401 00 800 UF 30505
+308,Advertising and Publicity,,1,1,1,2401 00 800 UF 30800
+01,Advertisement Charges,,1,1,1,2401 00 800 UF 30801
+309,Grants-in-Aid,"2,00,85","2,20,00","3,58,77","4,13,00",2401 00 800 UF 30900
+03,Grants for Specific Schemes,"2,00,85","2,20,00","3,58,77","4,13,00",2401 00 800 UF 30903
+311,Subsidies,"95,44,82","1,32,83,01","71,21,32","81,90,01",2401 00 800 UF 31100
+01,Individual Based Subsidy,"94,05,49","1,32,83,00","71,21,31","81,90,00",2401 00 800 UF 31101
+02,General Subsidy,"1,39,33",1,1,1,2401 00 800 UF 31102
+319,Machinery and Equipments,"1,20",2,"4,16,11","4,79,01",2401 00 800 UF 31900
+01,Purchase,80,1,"4,16,10","4,79,00",2401 00 800 UF 31901
+03,Maintenance,40,1,1,1,2401 00 800 UF 31903
+324,Materials and Supplies,41,1,1,1,2401 00 800 UF 32400
+01,Materials and Supplies,41,1,1,1,2401 00 800 UF 32401
+333,Payments for Professional and Special Services,14,1,1,1,2401 00 800 UF 33300
+03,Special Service,14,1,1,1,2401 00 800 UF 33303
+345,"Petroleum, Oil and Lubricant",,1,1,1,2401 00 800 UF 34500
+01,"Petroleum, Oil and Lubricant",,1,1,1,2401 00 800 UF 34501
+359,Prizes and Awards,- 19,1,1,1,2401 00 800 UF 35900
+01,Prizes and Awards,- 19,1,1,1,2401 00 800 UF 35901
+369,Procurement of,"37,50,00",1,1,1,2401 00 800 UF 36900
+Agricultural Inputs,,,,,,
+01,Procurement of,"37,50,00",1,1,1,2401 00 800 UF 36901
+Agricultural Inputs,,,,,,
+371,Printing Charges,"- 2,32",1,1,1,2401 00 800 UF 37100
+01,Printing Charges,"- 2,32",1,1,1,2401 00 800 UF 37101
+372,Training,"- 1,92",1,"3,22","4,00",2401 00 800 UF 37200
+01,Training,"- 1,92",1,"3,22","4,00",2401 00 800 UF 37201
+376,Computer and Accessories,"1,20",1,1,1,2401 00 800 UF 37600
+01,Purchase,"1,20",1,1,1,2401 00 800 UF 37601
+UF,Total UF,"1,35,20,96","1,35,03,14","78,99,52","90,86,12",
+#Schemes shared between,,,,,,
+800,Total 800,"44,15,73,54","46,60,96,33","47,78,45,94","49,05,61,28",
+902,Deduct - Amount met from State Innovation Fund,,,,,
+#State's Expenditure,,,,,,
+JA,Deduct - Amount met from State Innovation Fund,,,,,2401 00 902 JA 30000
+330,Inter-Account Transfers,,,- 1,"- 1,53,23",2401 00 902 JA 33000
+01,Inter-Account Transfers,,,- 1,"- 1,53,23",2401 00 902 JA 33001
+JA,Total JA,,,- 1,"- 1,53,23",
+#State's Expenditure Total,,,,- 1,"- 1,53,23",
+902,Total 902,,,- 1,"- 1,53,23",
+911,Deduct - Recoveries of Overpayments,,,,,
+#State's Expenditure,,,,,,
+AB,Agricultural Extension Centre,,,,,2401 00 911 AB 30000
+377,Deduct-Recoveries,- 5,,,,2401 00 911 AB 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,- 5,,,,2401 00 911 AB 37702
+AB,Total AB,- 5,,,,
+AF,Establishment of Foundation Seed Farm for oilseeds,,,,,2401 00 911 AF 30000
+377,Deduct-Recoveries,- 54,,,,2401 00 911 AF 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,- 54,,,,2401 00 911 AF 37702
+AF,Total AF,- 54,,,,
+AK,Training and Visits,,,,,2401 00 911 AK 30000
+377,Deduct-Recoveries,"- 3,65",,,,2401 00 911 AK 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"- 3,65",,,,2401 00 911 AK 37702
+AK,Total AK,"- 3,65",,,,
+JJ,National Agriculture Development Programme(NADP-RKVY) - Agriculture Department,,,,,2401 00 911 JJ 30000
+377,Deduct-Recoveries,"- 6,16",,,,2401 00 911 JJ 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"- 6,16",,,,2401 00 911 JJ 37702
+JJ,Total JJ,"- 6,16",,,,
+JK,National Agriculture Development Programme (NADP-RKVY) under Special Component Plan - Agriculture Department,,,,,2401 00 911 JK 30000
+377,Deduct-Recoveries,- 28,,,,2401 00 911 JK 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,- 28,,,,2401 00 911 JK 37702
+JK,Total JK,- 28,,,,
+KE,Deduct - Recoveries of Overpayments -,,,,,2401 00 911 KE 30000
+377,Deduct-Recoveries,- 60,,,,2401 00 911 KE 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,- 60,,,,2401 00 911 KE 37702
+KE,Total KE,- 60,,,,
+KF,Deduct - Recoveries of Overpayments - Integrated Cereals Development Programme in Rice based Cropping System Areas,,,,,2401 00 911 KF 30000
+377,Deduct-Recoveries,"- 8,09",,,,2401 00 911 KF 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"- 8,09",,,,2401 00 911 KF 37702
+KF,Total KF,"- 8,09",,,,
+KL,Inter Cropping with Banana/Sugarcane,,,,,2401 00 911 KL 30000
+377,Deduct-Recoveries,"- 1,95,25",,,,2401 00 911 KL 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"- 1,95,25",,,,2401 00 911 KL 37702
+KL,Total KL,"- 1,95,25",,,,
+LA,National Agriculture Development Programme (NADP-RKVY) - Horticulture Department,,,,,2401 00 911 LA 30000
+377,Deduct-Recoveries,"- 1,24",,,,2401 00 911 LA 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"- 1,24",,,,2401 00 911 LA 37702
+LA,Total LA,"- 1,24",,,,
+LE,"Agriculture Package for Rejuvenation of Horticultural Crops affected by cyclone """"""THANE""""""",,,,,2401 00 911 LE 30000
+377,Deduct-Recoveries,"- 9,11",,,,2401 00 911 LE 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"- 9,11",,,,2401 00 911 LE 37702
+LE,Total LE,"- 9,11",,,,
+#State's Expenditure Total,"- 2,24,97",,,,,
+Central Sector Schemes,,,,,,
+SB,Production and Distribution of quality seeds,,,,,2401 00 911 SB 30000
+377,Deduct-Recoveries,- 76,,,,2401 00 911 SB 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,- 76,,,,2401 00 911 SB 37702
+SB,Total SB,- 76,,,,
+#Central Sector Schemes Total,- 76,,,,,
+#Schemes shared between State and Centre,,,,,,
+UB,Integrated Cereals Development Programme in Coarse Cereals (ICDP-Coarse Cereals)-Accelerated Maize Development Programme under Technology Mission on Maize,,,,,2401 00 911 UB 30000
+377,Deduct-Recoveries,- 91,,,,2401 00 911 UB 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,- 91,,,,2401 00 911 UB 37702
+UB,Total UB,- 91,,,,
+UC,Deduct - Recoveries of Overpayments -,,,,,2401 00 911 UC 30000
+377,Deduct-Recoveries,- 47,,,,2401 00 911 UC 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,- 47,,,,2401 00 911 UC 37702
+UC,Total UC,- 47,,,,
+UF,Sugarcane based cropping system areas - Controlled by Director of Agriculture,,,,,2401 00 911 UF 30000
+377,Deduct-Recoveries,"- 8,48",,,,2401 00 911 UF 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"- 8,48",,,,2401 00 911 UF 37702
+UF,Total UF,"- 8,48",,,,
+UH,Oil seeds Production Programme under Special Component Plan for Scheduled Castes,,,,,2401 00 911 UH 30000
+377,Deduct-Recoveries,- 1,,,,2401 00 911 UH 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,- 1,,,,2401 00 911 UH 37702
+UH,Total UH,- 1,,,,
+UJ,National Agriculture Development Programme (NADP-RKVY) - Agriculture Department,,,,,2401 00 911 UJ 30000
+377,Deduct-Recoveries,- 38,,,,2401 00 911 UJ 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,- 38,,,,2401 00 911 UJ 37702
+UJ,Total UJ,- 38,,,,
+UN,National Agricultre Development Programme (NADP-RKVY) under Special Component Plan - Agriculture Department,,,,,2401 00 911 UN 30000
+377,Deduct-Recoveries,"- 10,20",,,,2401 00 911 UN 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"- 10,20",,,,2401 00 911 UN 37702
+UN,Total UN,"- 10,20",,,,
+#Schemes shared between State and Centre Total,"- 20,45",,,,,
+911,Total 911,"- 2,46,18",,,,
+00,Total 00 Charged,"7,79",1,"53,05",11,
+00,Total 00 Voted,"60,71,11,73","65,25,67,39","68,08,97,81","69,58,69,47",
+2401,Total 2401 Charged,"7,79",1,"53,05",11,
+2401,Total 2401 Voted,"60,71,11,73","65,25,67,39","68,08,97,81","69,58,69,47",
+2402-00,SOIL AND WATERCONSERVATION,,,,,
+101,Soil Survey and Testing,,,,,
+#State's Expenditure,,,,,,
+AA,Soil Testing Laboratories,,,,,2402 00 101 AA 30000
+301,Salaries,"7,11,58","6,08,21","8,11,53","9,80,37",2402 00 101 AA 30100
+01,Pay,"6,63,26","5,58,69","7,37,42","9,01,98",2402 00 101 AA 30101
+02,Medical Allowance,"4,28","5,50","6,46","6,73",2402 00 101 AA 30102
+03,Medical Charges,1,25,25,16,2402 00 101 AA 30103
+04,Other Allowances,"7,82","7,90","10,03","10,03",2402 00 101 AA 30104
+06,House Rent Allowance,"34,30","32,64","53,82","58,12",2402 00 101 AA 30106
+07,Travel Concession,6,47,54,37,2402 00 101 AA 30107
+08,City Compensatory Allowance,"1,85","2,76","3,01","2,98",2402 00 101 AA 30108
+302,Wages,"28,38","35,00","35,00","35,00",2402 00 101 AA 30200
+01,Wages,"28,38","35,00","35,00","35,00",2402 00 101 AA 30201
+303,Dearness Allowance,"4,52,48","71,51","1,26,58","1,68,90",2402 00 101 AA 30300
+01,Dearness Allowance,"4,52,48","71,51","1,26,58","1,68,90",2402 00 101 AA 30301
+304,Travel Expenses,"8,32","26,03","27,83","28,64",2402 00 101 AA 30400
+01,Tour Travelling Allowances,"8,12","25,78","27,54","28,35",2402 00 101 AA 30401
+02,Transfer Travelling Allowances,12,3,7,7,2402 00 101 AA 30402
+03,Fixed Travelling,8,22,22,22,2402 00 101 AA 30403
+Allowances,,,,,,
+305,Office Expenses,"17,39","21,05","23,86","25,66",2402 00 101 AA 30500
+01,Telephone Charges,51,37,49,52,2402 00 101 AA 30501
+02,Other Contingencies,"7,75","8,00","8,00","9,20",2402 00 101 AA 30502
+03,Electricity Charges,"8,51","12,10","14,79","15,36",2402 00 101 AA 30503
+04,Service Postage & Postal Expenditure,62,58,58,58,2402 00 101 AA 30504
+306,"Rent, Rates and Taxes","9,97","9,17","11,27","11,70",2402 00 101 AA 30600
+01,Rent,"9,88","8,49","7,95","8,27",2402 00 101 AA 30601
+02,Property tax,5,57,"2,79","2,87",2402 00 101 AA 30602
+03,Water Charges,4,11,53,56,2402 00 101 AA 30603
+307,Publications,2,40,40,31,2402 00 101 AA 30700
+01,Publications,2,40,40,31,2402 00 101 AA 30701
+308,Advertising and Publicity,"2,33","2,85","7,41","7,77",2402 00 101 AA 30800
+01,Advertisement Charges,"2,33","2,85","7,16","7,52",2402 00 101 AA 30801
+02,Exhibition,,,25,25,2402 00 101 AA 30802
+310,Contributions,15,57,57,57,2402 00 101 AA 31000
+02,Insurance Premium,15,57,57,57,2402 00 101 AA 31002
+319,Machinery and Equipments,"1,31","2,10","3,11","6,69",2402 00 101 AA 31900
+01,Purchase,,,1,1,2402 00 101 AA 31901
+03,Maintenance,"1,31","2,10","3,10","6,68",2402 00 101 AA 31903
+321,Motor Vehicles,,1,1,1,2402 00 101 AA 32100
+02,Maintenance of Functional Vehicles,,1,1,1,2402 00 101 AA 32102
+324,Materials and Supplies,"12,90","24,23","25,00","25,00",2402 00 101 AA 32400
+01,Materials and Supplies,"12,90","24,23","25,00","25,00",2402 00 101 AA 32401
+333,Payments for Professional and Special Services,,3,3,3,2402 00 101 AA 33300
+01,Pleaders Fees,,3,3,3,2402 00 101 AA 33301
+345,"Petroleum, Oil and Lubricant",,5,5,5,2402 00 101 AA 34500
+01,"Petroleum, Oil and Lubricant",,5,5,5,2402 00 101 AA 34501
+346,"Clothing, Tentage and Stores",68,77,77,77,2402 00 101 AA 34600
+01,"Clothing, Tentage and Stores",68,77,77,77,2402 00 101 AA 34601
+347,Stores and Equipments,63,"1,00","1,00","1,03",2402 00 101 AA 34700
+01,Stores - Voted,63,"1,00","1,00","1,03",2402 00 101 AA 34701
+349,Festival Advances,- 85,,,,2402 00 101 AA 34900
+01,Festival Advances-Debit,"4,05","14,45","24,80","25,90",2402 00 101 AA 34901
+02,Festival Advances-Credit,"- 4,90","- 14,45","- 24,80","- 25,90",2402 00 101 AA 34902
+359,Prizes and Awards,4,10,12,10,2402 00 101 AA 35900
+01,Prizes and Awards,4,10,12,10,2402 00 101 AA 35901
+369,Procurement of,"17,72","51,81","58,99","58,99",2402 00 101 AA 36900
+Agricultural Inputs,,,,,,
+01,Procurement of,"17,72","51,81","58,99","58,99",2402 00 101 AA 36901
+Agricultural Inputs,,,,,,
+371,Printing Charges,,,25,30,2402 00 101 AA 37100
+01,Printing Charges,,,25,30,2402 00 101 AA 37101
+373,Transport Charges,"1,48","3,25","3,25","4,10",2402 00 101 AA 37300
+01,Transport Charges,"1,48","3,25","3,25","4,10",2402 00 101 AA 37301
+376,Computer and Accessories,"2,46","2,25","4,04","4,16",2402 00 101 AA 37600
+02,Maintenance,"1,71","1,50","2,13","2,19",2402 00 101 AA 37602
+03,Stationery,75,75,"1,91","1,97",2402 00 101 AA 37603
+AA,Total AA,"12,66,99","8,60,39","11,41,07","13,60,15",
+AB,Soil Survey and Land use Organisation,,,,,2402 00 101 AB 30000
+301,Salaries,"1,01,23","86,44","86,37","88,25",2402 00 101 AB 30100
+01,Pay,"94,41","79,63","78,91","80,49",2402 00 101 AB 30101
+02,Medical Allowance,46,47,59,56,2402 00 101 AB 30102
+04,Other Allowances,58,50,31,31,2402 00 101 AB 30104
+06,House Rent Allowance,"5,16","5,00","6,06","6,39",2402 00 101 AB 30106
+07,Travel Concession,,2,5,6,2402 00 101 AB 30107
+08,City Compensatory Allowance,62,82,45,44,2402 00 101 AB 30108
+302,Wages,"2,40","2,79","2,79","2,79",2402 00 101 AB 30200
+01,Wages,"2,40","2,79","2,79","2,79",2402 00 101 AB 30201
+303,Dearness Allowance,"62,43","10,19","13,55","15,08",2402 00 101 AB 30300
+01,Dearness Allowance,"62,43","10,19","13,55","15,08",2402 00 101 AB 30301
+304,Travel Expenses,"1,50","2,28","3,59","3,68",2402 00 101 AB 30400
+01,Tour Travelling Allowances,"1,49","2,26","3,57","3,66",2402 00 101 AB 30401
+02,Transfer Travelling Allowances,1,2,2,2,2402 00 101 AB 30402
+305,Office Expenses,"2,24","3,02","3,51","3,42",2402 00 101 AB 30500
+02,Other Contingencies,78,74,74,55,2402 00 101 AB 30502
+03,Electricity Charges,"1,46","2,23","2,72","2,82",2402 00 101 AB 30503
+04,Service Postage & Postal Expenditure,,5,5,5,2402 00 101 AB 30504
+306,"Rent, Rates and Taxes","2,14","2,27","3,32","3,39",2402 00 101 AB 30600
+01,Rent,"1,36","1,39","1,39","1,39",2402 00 101 AB 30601
+02,Property tax,72,75,"1,85","1,92",2402 00 101 AB 30602
+03,Water Charges,6,13,8,8,2402 00 101 AB 30603
+319,Machinery and Equipments,19,24,28,30,2402 00 101 AB 31900
+01,Purchase,11,1,1,1,2402 00 101 AB 31901
+03,Maintenance,8,23,27,29,2402 00 101 AB 31903
+321,Motor Vehicles,,2,5,5,2402 00 101 AB 32100
+02,Maintenance of Functional Vehicles,,2,5,5,2402 00 101 AB 32102
+324,Materials and Supplies,31,39,43,44,2402 00 101 AB 32400
+01,Materials and Supplies,31,39,43,44,2402 00 101 AB 32401
+345,"Petroleum, Oil and Lubricant",77,"1,50","2,40","2,52",2402 00 101 AB 34500
+01,"Petroleum, Oil and Lubricant",77,"1,50","2,40","2,52",2402 00 101 AB 34501
+346,"Clothing, Tentage and Stores",4,10,10,10,2402 00 101 AB 34600
+01,"Clothing, Tentage and Stores",4,10,10,10,2402 00 101 AB 34601
+347,Stores and Equipments,4,4,6,6,2402 00 101 AB 34700
+01,Stores - Voted,4,4,6,6,2402 00 101 AB 34701
+349,Festival Advances,- 19,,,,2402 00 101 AB 34900
+01,Festival Advances-Debit,45,"1,85","1,80","1,80",2402 00 101 AB 34901
+02,Festival Advances-Credit,- 64,"- 1,85","- 1,80","- 1,80",2402 00 101 AB 34902
+359,Prizes and Awards,,2,2,2,2402 00 101 AB 35900
+01,Prizes and Awards,,2,2,2,2402 00 101 AB 35901
+376,Computer and Accessories,24,19,29,30,2402 00 101 AB 37600
+02,Maintenance,20,18,23,23,2402 00 101 AB 37602
+03,Stationery,4,1,6,7,2402 00 101 AB 37603
+AB,Total AB,"1,73,34","1,09,49","1,16,76","1,20,40",
+AE,Mobile Soil Testing Laboratories,,,,,2402 00 101 AE 30000
+301,Salaries,"2,02,54","1,68,99","2,54,19","3,02,21",2402 00 101 AE 30100
+01,Pay,"1,88,19","1,54,05","2,26,94","2,74,05",2402 00 101 AE 30101
+02,Medical Allowance,"1,23","1,35","2,12","2,21",2402 00 101 AE 30102
+04,Other Allowances,"1,10","1,00","1,73","1,73",2402 00 101 AE 30104
+06,House Rent Allowance,"11,06","11,79","21,57","22,46",2402 00 101 AE 30106
+07,Travel Concession,6,10,27,19,2402 00 101 AE 30107
+08,City Compensatory Allowance,90,70,"1,56","1,57",2402 00 101 AE 30108
+302,Wages,"9,58","10,00","10,00","10,00",2402 00 101 AE 30200
+01,Wages,"9,58","10,00","10,00","10,00",2402 00 101 AE 30201
+303,Dearness Allowance,"1,55,49","19,72","1,36,93","1,14,39",2402 00 101 AE 30300
+01,Dearness Allowance,"1,55,49","19,72","1,36,93","1,14,39",2402 00 101 AE 30301
+304,Travel Expenses,"4,03","8,52","8,75","9,02",2402 00 101 AE 30400
+01,Tour Travelling Allowances,"4,01","8,43","8,66","8,93",2402 00 101 AE 30401
+02,Transfer Travelling Allowances,2,9,9,9,2402 00 101 AE 30402
+305,Office Expenses,"6,81","8,04","8,58","8,47",2402 00 101 AE 30500
+01,Telephone Charges,15,7,16,14,2402 00 101 AE 30501
+02,Other Contingencies,"4,05","3,60","3,60","3,28",2402 00 101 AE 30502
+03,Electricity Charges,"2,28","4,09","4,54","4,77",2402 00 101 AE 30503
+04,Service Postage & Postal Expenditure,33,28,28,28,2402 00 101 AE 30504
+306,"Rent, Rates and Taxes","1,87","2,05","2,63","2,68",2402 00 101 AE 30600
+01,Rent,"1,64","1,80","1,56","1,56",2402 00 101 AE 30601
+02,Property tax,20,20,99,"1,04",2402 00 101 AE 30602
+03,Water Charges,3,5,8,8,2402 00 101 AE 30603
+308,Advertising and Publicity,"1,00","1,00","1,79","1,97",2402 00 101 AE 30800
+01,Advertisement Charges,"1,00","1,00","1,79","1,97",2402 00 101 AE 30801
+310,Contributions,2,34,34,34,2402 00 101 AE 31000
+02,Insurance Premium,2,34,34,34,2402 00 101 AE 31002
+319,Machinery and Equipments,"1,40","2,30","5,01","4,97",2402 00 101 AE 31900
+01,Purchase,15,5,5,1,2402 00 101 AE 31901
+03,Maintenance,"1,25","2,25","4,96","4,96",2402 00 101 AE 31903
+321,Motor Vehicles,"2,96","3,80","4,82","5,01",2402 00 101 AE 32100
+02,Maintenance of Functional Vehicles,"2,96","3,80","4,82","5,01",2402 00 101 AE 32102
+324,Materials and Supplies,"7,08","13,66","13,66","13,66",2402 00 101 AE 32400
+01,Materials and Supplies,"7,08","13,66","13,66","13,66",2402 00 101 AE 32401
+345,"Petroleum, Oil and Lubricant","4,61","6,84","9,59","10,06",2402 00 101 AE 34500
+01,"Petroleum, Oil and Lubricant","4,61","6,84","9,59","10,06",2402 00 101 AE 34501
+346,"Clothing, Tentage and Stores",77,83,83,83,2402 00 101 AE 34600
+01,"Clothing, Tentage and Stores",77,83,83,83,2402 00 101 AE 34601
+347,Stores and Equipments,45,30,30,29,2402 00 101 AE 34700
+01,Stores - Voted,45,30,30,29,2402 00 101 AE 34701
+349,Festival Advances,- 15,,,,2402 00 101 AE 34900
+01,Festival Advances-Debit,"1,30","3,40","6,30","6,60",2402 00 101 AE 34901
+02,Festival Advances-Credit,"- 1,45","- 3,40","- 6,30","- 6,60",2402 00 101 AE 34902
+359,Prizes and Awards,18,2,2,2,2402 00 101 AE 35900
+01,Prizes and Awards,18,2,2,2,2402 00 101 AE 35901
+369,Procurement of,"3,86","10,00","12,73","12,73",2402 00 101 AE 36900
+Agricultural Inputs,,,,,,
+01,Procurement of,"3,86","10,00","12,73","12,73",2402 00 101 AE 36901
+Agricultural Inputs,,,,,,
+373,Transport Charges,91,"1,20","1,20","1,22",2402 00 101 AE 37300
+01,Transport Charges,91,"1,20","1,20","1,22",2402 00 101 AE 37301
+376,Computer and Accessories,"1,34","1,06","1,58","1,59",2402 00 101 AE 37600
+02,Maintenance,88,70,95,95,2402 00 101 AE 37602
+03,Stationery,46,36,63,64,2402 00 101 AE 37603
+AE,Total AE,"4,04,75","2,58,67","4,72,95","4,99,46",
+AF,Central Control Laboratory,,,,,2402 00 101 AF 30000
+301,Salaries,"48,25","33,07","50,62","74,85",2402 00 101 AF 30100
+01,Pay,"45,49","30,20","45,78","69,45",2402 00 101 AF 30101
+02,Medical Allowance,24,24,40,41,2402 00 101 AF 30102
+03,Medical Charges,,15,15,7,2402 00 101 AF 30103
+04,Other Allowances,12,10,16,16,2402 00 101 AF 30104
+06,House Rent Allowance,"2,24","2,05","3,83","4,48",2402 00 101 AF 30106
+07,Travel Concession,,5,4,3,2402 00 101 AF 30107
+08,City Compensatory Allowance,16,28,26,25,2402 00 101 AF 30108
+302,Wages,"2,08","2,09","2,09","2,09",2402 00 101 AF 30200
+01,Wages,"2,08","2,09","2,09","2,09",2402 00 101 AF 30201
+303,Dearness Allowance,"25,21","3,87","7,86","13,00",2402 00 101 AF 30300
+01,Dearness Allowance,"25,21","3,87","7,86","13,00",2402 00 101 AF 30301
+304,Travel Expenses,58,"1,26","1,58","1,53",2402 00 101 AF 30400
+01,Tour Travelling Allowances,58,"1,12","1,44","1,51",2402 00 101 AF 30401
+02,Transfer Travelling Allowances,,14,14,2,2402 00 101 AF 30402
+305,Office Expenses,93,91,91,76,2402 00 101 AF 30500
+02,Other Contingencies,43,43,43,27,2402 00 101 AF 30502
+03,Electricity Charges,23,29,29,30,2402 00 101 AF 30503
+04,Service Postage & Postal Expenditure,27,19,19,19,2402 00 101 AF 30504
+307,Publications,,18,18,14,2402 00 101 AF 30700
+01,Publications,,18,18,14,2402 00 101 AF 30701
+308,Advertising and Publicity,10,10,10,10,2402 00 101 AF 30800
+01,Advertisement Charges,10,10,10,10,2402 00 101 AF 30801
+319,Machinery and Equipments,56,56,56,31,2402 00 101 AF 31900
+01,Purchase,1,1,1,1,2402 00 101 AF 31901
+03,Maintenance,55,55,55,30,2402 00 101 AF 31903
+324,Materials and Supplies,"2,00","2,10","1,50","2,10",2402 00 101 AF 32400
+01,Materials and Supplies,"2,00","2,10","1,50","2,10",2402 00 101 AF 32401
+347,Stores and Equipments,10,10,10,5,2402 00 101 AF 34700
+01,Stores - Voted,10,10,10,5,2402 00 101 AF 34701
+349,Festival Advances,- 3,,,,2402 00 101 AF 34900
+01,Festival Advances-Debit,25,70,"1,20","1,30",2402 00 101 AF 34901
+02,Festival Advances-Credit,- 28,- 70,"- 1,20","- 1,30",2402 00 101 AF 34902
+372,Training,"4,75","4,75","4,75","4,75",2402 00 101 AF 37200
+01,Training,"4,75","4,75","4,75","4,75",2402 00 101 AF 37201
+376,Computer and Accessories,66,62,56,38,2402 00 101 AF 37600
+02,Maintenance,51,51,51,31,2402 00 101 AF 37602
+03,Stationery,15,11,5,7,2402 00 101 AF 37603
+AF,Total AF,"85,19","49,61","70,81","1,00,06",
+AG,Preparation and Distribution of bacterial culture packets,,,,,2402 00 101 AG 30000
+301,Salaries,"1,20,38","97,73","1,63,45","1,94,53",2402 00 101 AG 30100
+01,Pay,"1,13,27","90,38","1,50,34","1,79,79",2402 00 101 AG 30101
+02,Medical Allowance,58,65,"1,00","1,10",2402 00 101 AG 30102
+03,Medical Charges,,10,10,11,2402 00 101 AG 30103
+04,Other Allowances,36,20,40,40,2402 00 101 AG 30104
+06,House Rent Allowance,"6,00","6,00","11,15","12,70",2402 00 101 AG 30106
+07,Travel Concession,,11,11,7,2402 00 101 AG 30107
+08,City Compensatory Allowance,17,29,35,36,2402 00 101 AG 30108
+302,Wages,"4,09,47","5,73,96","5,73,96","5,73,96",2402 00 101 AG 30200
+01,Wages,"4,09,47","5,73,96","5,73,96","5,73,96",2402 00 101 AG 30201
+303,Dearness Allowance,"1,15,95","11,57","25,80","33,67",2402 00 101 AG 30300
+01,Dearness Allowance,"1,15,95","11,57","25,80","33,67",2402 00 101 AG 30301
+304,Travel Expenses,"2,77","5,63","5,33","5,50",2402 00 101 AG 30400
+01,Tour Travelling Allowances,"2,77","5,63","5,33","5,50",2402 00 101 AG 30401
+305,Office Expenses,"52,05","66,47","67,93","71,00",2402 00 101 AG 30500
+02,Other Contingencies,"8,28","6,90","6,90","8,60",2402 00 101 AG 30502
+03,Electricity Charges,"42,33","58,15","59,61","60,98",2402 00 101 AG 30503
+04,Service Postage & Postal Expenditure,"1,44","1,42","1,42","1,42",2402 00 101 AG 30504
+306,"Rent, Rates and Taxes","3,79","3,95","5,74","5,98",2402 00 101 AG 30600
+02,Property tax,"3,52","3,50","5,22","5,45",2402 00 101 AG 30602
+03,Water Charges,27,45,52,53,2402 00 101 AG 30603
+307,Publications,4,38,38,42,2402 00 101 AG 30700
+01,Publications,4,38,38,42,2402 00 101 AG 30701
+308,Advertising and Publicity,"1,12","1,96","4,13","4,32",2402 00 101 AG 30800
+01,Advertisement Charges,"1,12","1,96","4,13","4,32",2402 00 101 AG 30801
+310,Contributions,43,88,88,88,2402 00 101 AG 31000
+02,Insurance Premium,43,88,88,88,2402 00 101 AG 31002
+317,Minor Works,36,40,40,40,2402 00 101 AG 31700
+01,Minor Works,36,40,40,40,2402 00 101 AG 31701
+319,Machinery and Equipments,"14,11","22,46","37,66","25,70",2402 00 101 AG 31900
+01,Purchase,"5,36","10,75","10,75",1,2402 00 101 AG 31901
+03,Maintenance,"8,75","11,71","26,91","25,69",2402 00 101 AG 31903
+324,Materials and Supplies,"4,27,62","4,49,32","4,49,32","4,49,32",2402 00 101 AG 32400
+01,Materials and Supplies,"4,27,62","4,49,32","4,49,32","4,49,32",2402 00 101 AG 32401
+347,Stores and Equipments,"1,00","1,00","1,22","1,44",2402 00 101 AG 34700
+01,Stores - Voted,"1,00","1,00","1,22","1,44",2402 00 101 AG 34701
+349,Festival Advances,2,,,,2402 00 101 AG 34900
+01,Festival Advances-Debit,90,"1,85","3,10","3,30",2402 00 101 AG 34901
+02,Festival Advances-Credit,- 88,"- 1,85","- 3,10","- 3,30",2402 00 101 AG 34902
+369,Procurement of,"7,14,37","8,01,30","8,01,30","8,23,95",2402 00 101 AG 36900
+Agricultural Inputs,,,,,,
+01,Procurement of,"7,14,37","8,01,30","8,01,30","8,23,95",2402 00 101 AG 36901
+Agricultural Inputs,,,,,,
+373,Transport Charges,"1,53,20","1,67,05","1,67,05","1,64,19",2402 00 101 AG 37300
+01,Transport Charges,"1,53,20","1,67,05","1,67,05","1,64,19",2402 00 101 AG 37301
+376,Computer and Accessories,"2,47","1,95","2,67","2,75",2402 00 101 AG 37600
+02,Maintenance,"1,45","1,05","1,30","1,34",2402 00 101 AG 37602
+03,Stationery,"1,02",90,"1,37","1,41",2402 00 101 AG 37603
+AG,Total AG,"20,19,15","22,06,01","23,07,22","23,58,01",
+#State's Expenditure,,,,,,
+Schemes shared between State and Centre,,,,,,
+UB,Soil Health Management under National Mission on Sustainable Agriculture,,,,,2402 00 101 UB 30000
+305,Office Expenses,"2,00","2,00","8,01","9,01",2402 00 101 UB 30500
+02,Other Contingencies,"2,00","2,00",1,1,2402 00 101 UB 30502
+05,Furniture,,,"8,00","9,00",2402 00 101 UB 30505
+308,Advertising and Publicity,"3,88","3,89","15,00","17,00",2402 00 101 UB 30800
+01,Advertisement Charges,"3,88","3,89","15,00","17,00",2402 00 101 UB 30801
+309,Grants-in-Aid,"1,36,47","5,45,85","1,06,04","1,22,00",2402 00 101 UB 30900
+03,Grants for Specific Schemes,"1,36,47","5,45,85","1,06,04","1,22,00",2402 00 101 UB 30903
+311,Subsidies,"4,16,88","7,50",1,1,2402 00 101 UB 31100
+01,Individual Based Subsidy,"4,16,88","7,50",1,1,2402 00 101 UB 31101
+317,Minor Works,"5,00","5,00","50,00","58,00",2402 00 101 UB 31700
+01,Minor Works,"5,00","5,00","50,00","58,00",2402 00 101 UB 31701
+319,Machinery and Equipments,"68,00","70,94","14,92,42","17,16,00",2402 00 101 UB 31900
+01,Purchase,"68,00","70,94","14,92,42","17,16,00",2402 00 101 UB 31901
+324,Materials and Supplies,"23,00","23,00","14,50","17,00",2402 00 101 UB 32400
+01,Materials and Supplies,"23,00","23,00","14,50","17,00",2402 00 101 UB 32401
+376,Computer and Accessories,"3,08","5,00","3,92","5,00",2402 00 101 UB 37600
+01,Purchase,"3,08","5,00","3,92","5,00",2402 00 101 UB 37601
+UB,Total UB,"6,58,31","6,63,18","16,89,90","19,44,02",
+#Schemes shared between State and Centre Total ,"6,58,31","6,63,18","16,89,90","19,44,02",,
+101,Total 101,"46,07,73","41,47,35","57,98,71","63,82,10",
+102,Soil conservation,,,,,
+#State's Expenditure,,,,,,
+JW,Implementation of Watershed Project under Watershed Development fund through Tamil Nadu Watershed Development Agency,,,,,2402 00 102 JW 30000
+309,Grants-in-Aid,"2,74,82","30,00","72,32",1,2402 00 102 JW 30900
+02,Grants for Creation of Capital Assets,"2,74,82","30,00","72,32",1,2402 00 102 JW 30902
+JW,Total JW,"2,74,82","30,00","72,32",1,
+KD,Establishment of Water Harvesting Structures and Value Addition Machinery under MSDA with Loan Assistance of NABARD - RIDF,,,,,2402 00 102 KD 30000
+309,Grants-in-Aid,,,,1,2402 00 102 KD 30900
+03,Grants for Specific Schemes,,,,1,2402 00 102 KD 30903
+319,Machinery and Equipments,,,,"31,35,00",2402 00 102 KD 31900
+01,Purchase,,,,"31,35,00",2402 00 102 KD 31901
+KD,Total KD,,,"31,35,01",,
+#State's Expenditure Total,"2,74,82","30,00","72,32","31,35,02",,
+#Schemes shared between State and Centre,,,,,,
+US,National Project on Management of Soil Health and Fertility,,,,,2402 00 102 US 30000
+319,Machinery and Equipments,,1,1,1,2402 00 102 US 31900
+01,Purchase,,1,1,1,2402 00 102 US 31901
+US,Total US,1,1,1,,
+UT,Soil Health Card (SHC) under National Mission on Sustainable Agriculture (NMSA),,,,,2402 00 102 UT 30000
+302,Wages,"1,26,26","1,36,19","20,23","23,00",2402 00 102 UT 30200
+01,Wages,"1,26,26","1,36,19","20,23","23,00",2402 00 102 UT 30201
+305,Office Expenses,"3,44,88","3,83,62","48,10","55,00",2402 00 102 UT 30500
+02,Other Contingencies,"3,44,88","3,83,62","48,10","55,00",2402 00 102 UT 30502
+308,Advertising and Publicity,"24,86","26,34","3,13,44","3,60,00",2402 00 102 UT 30800
+01,Advertisement Charges,"24,86","26,34","5,44","6,00",2402 00 102 UT 30801
+02,Exhibition,,,"3,08,00","3,54,00",2402 00 102 UT 30802
+309,Grants-in-Aid,,,"14,55","17,00",2402 00 102 UT 30900
+03,Grants for Specific Schemes,,,"14,55","17,00",2402 00 102 UT 30903
+311,Subsidies,"85,40","85,40","2,80,00","3,22,00",2402 00 102 UT 31100
+01,Individual Based Subsidy,"85,40","85,40","2,80,00","3,22,00",2402 00 102 UT 31101
+319,Machinery and Equipments,"30,05","88,20","1,60,69","1,85,00",2402 00 102 UT 31900
+01,Purchase,"9,43","46,80","1,29,47","1,49,00",2402 00 102 UT 31901
+03,Maintenance,"20,62","41,40","31,22","36,00",2402 00 102 UT 31903
+324,Materials and Supplies,"1,64,65","3,24,23","92,21","1,06,00",2402 00 102 UT 32400
+01,Materials and Supplies,"1,64,65","3,24,23","92,21","1,06,00",2402 00 102 UT 32401
+333,Payments for Professional and Special Services,"93,48","1,48,49","28,62","33,01",2402 00 102 UT 33300
+03,Special Service,"91,78","1,46,09","28,61","33,00",2402 00 102 UT 33303
+04,Contract Payment,"1,70","2,40",1,1,2402 00 102 UT 33304
+345,"Petroleum, Oil and Lubricant","8,12","8,69","9,60","11,00",2402 00 102 UT 34500
+01,"Petroleum, Oil and Lubricant","8,12","8,69","9,60","11,00",2402 00 102 UT 34501
+372,Training,"23,99","23,46",17,20,2402 00 102 UT 37200
+01,Training,"23,99","23,46",17,20,2402 00 102 UT 37201
+373,Transport Charges,"40,34","51,60","9,78","11,00",2402 00 102 UT 37300
+01,Transport Charges,"40,34","51,60","9,78","11,00",2402 00 102 UT 37301
+376,Computer and Accessories,"34,29","42,31","4,36","5,00",2402 00 102 UT 37600
+01,Purchase,"34,29","42,31","4,36","5,00",2402 00 102 UT 37601
+UT,Total UT,"9,76,32","13,18,53","9,81,75","11,28,21",
+#Schemes shared between State and Centre Total,"9,76,32","13,18,54","9,81,76","11,28,22",,
+102,Total 102,"12,51,14","13,48,54","10,54,08","42,63,24",
+793,Special Central Assistance for Scheduled Caste Component Plan Schemes shared between State and Centre,,,,,
+UB,Soil Health Card (SHC) under National Mission on Sustainable Agriculture (NMSA),,,,,2402 00 793 UB 30000
+302,Wages,"25,98","36,04","9,91","11,00",2402 00 793 UB 30200
+01,Wages,"25,98","36,04","9,91","11,00",2402 00 793 UB 30201
+305,Office Expenses,"83,38","93,85","12,21","14,00",2402 00 793 UB 30500
+02,Other Contingencies,"83,38","93,85","12,21","14,00",2402 00 793 UB 30502
+308,Advertising and Publicity,"6,38","6,65","74,38","85,00",2402 00 793 UB 30800
+01,Advertisement Charges,"6,38","6,65","1,23","1,00",2402 00 793 UB 30801
+02,Exhibition,,,"73,15","84,00",2402 00 793 UB 30802
+309,Grants-in-Aid,,,"3,46","4,00",2402 00 793 UB 30900
+03,Grants for Specific Schemes,,,"3,46","4,00",2402 00 793 UB 30903
+311,Subsidies,"19,96","20,28","66,62","77,00",2402 00 793 UB 31100
+01,Individual Based Subsidy,"19,96","20,28","66,62","77,00",2402 00 793 UB 31101
+319,Machinery and Equipments,"7,33","16,67","36,58","43,00",2402 00 793 UB 31900
+01,Purchase,"2,88","7,60","30,05","35,00",2402 00 793 UB 31901
+03,Maintenance,"4,45","9,07","6,53","8,00",2402 00 793 UB 31903
+324,Materials and Supplies,"32,72","67,88","20,72","24,00",2402 00 793 UB 32400
+01,Materials and Supplies,"32,72","67,88","20,72","24,00",2402 00 793 UB 32401
+333,Payments for Professional and Special Services,"18,83","36,24","9,45","11,00",2402 00 793 UB 33300
+03,Special Service,"18,83","36,24","9,45","11,00",2402 00 793 UB 33303
+345,"Petroleum, Oil and Lubricant","1,27","1,66","2,28",1,2402 00 793 UB 34500
+01,"Petroleum, Oil and Lubricant","1,27","1,66","2,28",1,2402 00 793 UB 34501
+372,Training,"4,17","5,54",9,10,2402 00 793 UB 37200
+01,Training,"4,17","5,54",9,10,2402 00 793 UB 37201
+373,Transport Charges,"9,07","12,26","3,00","3,00",2402 00 793 UB 37300
+01,Transport Charges,"9,07","12,26","3,00","3,00",2402 00 793 UB 37301
+376,Computer and Accessories,"4,61","6,34","1,73","2,00",2402 00 793 UB 37600
+01,Purchase,"4,61","6,34","1,73","2,00",2402 00 793 UB 37601
+UB,Total UB,"2,13,70","3,03,41","2,40,43","2,74,11",
+#Schemes shared between State and Centre Total,"2,13,70","3,03,41","2,40,43","2,74,11",,
+793,Total 793,"2,13,70","3,03,41","2,40,43","2,74,11",
+794,Special Central Assistance for Tribal Sub-Plan Schemes shared between State and Centre,,,,,
+UA,Soil Health Card (SHC) under National Mission on Sustainable Agriculture (NMSA),,,,,2402 00 794 UA 30000
+302,Wages,"3,81","8,85",94,"1,00",2402 00 794 UA 30200
+01,Wages,"3,81","8,85",94,"1,00",2402 00 794 UA 30201
+305,Office Expenses,"8,98","16,42","2,53","3,00",2402 00 794 UA 30500
+02,Other Contingencies,"8,98","16,42","2,53","3,00",2402 00 794 UA 30502
+308,Advertising and Publicity,"1,09","1,95","3,97","4,12",2402 00 794 UA 30800
+01,Advertisement Charges,"1,09","1,95",12,12,2402 00 794 UA 30801
+02,Exhibition,,,"3,85","4,00",2402 00 794 UA 30802
+309,Grants-in-Aid,,,19,20,2402 00 794 UA 30900
+03,Grants for Specific Schemes,,,19,20,2402 00 794 UA 30903
+311,Subsidies,68,"1,07","4,03","5,00",2402 00 794 UA 31100
+01,Individual Based Subsidy,68,"1,07","4,03","5,00",2402 00 794 UA 31101
+319,Machinery and Equipments,"1,90","3,33","1,73","2,40",2402 00 794 UA 31900
+01,Purchase,"1,12","2,28","1,33","2,00",2402 00 794 UA 31901
+03,Maintenance,78,"1,05",40,40,2402 00 794 UA 31903
+324,Materials and Supplies,"6,07","12,09","1,29","1,00",2402 00 794 UA 32400
+01,Materials and Supplies,"6,07","12,09","1,29","1,00",2402 00 794 UA 32401
+333,Payments for Professional and Special Services,"3,49","7,59",68,"1,00",2402 00 794 UA 33300
+03,Special Service,"3,49","7,59",68,"1,00",2402 00 794 UA 33303
+345,"Petroleum, Oil and Lubricant",85,"1,43",12,10,2402 00 794 UA 34500
+01,"Petroleum, Oil and Lubricant",85,"1,43",12,10,2402 00 794 UA 34501
+372,Training,"1,59","1,70",9,10,2402 00 794 UA 37200
+01,Training,"1,59","1,70",9,10,2402 00 794 UA 37201
+373,Transport Charges,30,65,34,35,2402 00 794 UA 37300
+01,Transport Charges,30,65,34,35,2402 00 794 UA 37301
+376,Computer and Accessories,60,33,20,20,2402 00 794 UA 37600
+01,Purchase,60,33,20,20,2402 00 794 UA 37601
+UA,Total UA,"29,36","55,41","16,11","18,47",
+#Schemes shared between State and Centre Total,"29,36","55,41","16,11","18,47",,
+794,Total 794,"29,36","55,41","16,11","18,47",
+911,Deduct - Recoveries of Overpayments,,,,,
+#State's Expenditure,,,,,,
+JZ,Deduct - Recoveries of Overpayments - Comprehensive Wasteland Development Programme,,,,,2402 00 911 JZ 30000
+377,Deduct-Recoveries,- 44,,,,2402 00 911 JZ 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,- 44,,,,2402 00 911 JZ 37702
+JZ,Total JZ,- 44,,,,
+#State's Expenditure Total,- 44,,,,,
+#Schemes shared between State and Centre,,,,,,
+UB,Soil Health Card (SHC) under National Mission on Sustainable Agriculture (NMSA),,,,,2402 00 911 UB 30000
+377,Deduct-Recoveries,- 3,,,,2402 00 911 UB 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,- 3,,,,2402 00 911 UB 37702
+UB,Total UB,- 3,,,,
+UT,Soil Health Card (SHC) under National Mission on Sustainable Agriculture (NMSA),,,,,2402 00 911 UT 30000
+377,Deduct-Recoveries,- 11,,,,2402 00 911 UT 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,- 11,,,,2402 00 911 UT 37702
+UT,Total UT,- 11,,,,
+#Schemes shared between State and Centre Total,- 14,,,,,
+911,Total 911,- 58,,,,
+00,Total 00,"61,01,35","58,54,71","71,09,33","1,09,37,92",
+2402,Total 2402,"61,01,35","58,54,71","71,09,33","1,09,37,92",
+2415,AGRICULTURAL RESEARCH AND EDUCATION,,,,,
+01,Crop Husbandry,,,,,
+004,Research,,,,,
+#State's Expenditure,,,,,,
+BE,Production and Distribution of Blue Green Algae,,,,,2415 01 004 BE 30000
+301,Salaries,"1,32","3,72","3,81","3,68",2415 01 004 BE 30100
+01,Pay,"1,23","2,05","2,18","2,06",2415 01 004 BE 30101
+02,Medical Allowance,1,20,22,22,2415 01 004 BE 30102
+03,Medical Charges,,1,1,5,2415 01 004 BE 30103
+04,Other Allowances,,30,6,6,2415 01 004 BE 30104
+06,House Rent Allowance,8,90,"1,12","1,06",2415 01 004 BE 30106
+07,Travel Concession,,1,1,2,2415 01 004 BE 30107
+08,City Compensatory Allowance,,25,21,21,2415 01 004 BE 30108
+302,Wages,"2,63","2,84","2,84","2,84",2415 01 004 BE 30200
+01,Wages,"2,63","2,84","2,84","2,84",2415 01 004 BE 30201
+303,Dearness Allowance,"1,82",26,37,39,2415 01 004 BE 30300
+01,Dearness Allowance,"1,82",26,37,39,2415 01 004 BE 30301
+304,Travel Expenses,,5,43,49,2415 01 004 BE 30400
+01,Tour Travelling Allowances,,4,42,46,2415 01 004 BE 30401
+02,Transfer Travelling Allowances,,1,1,3,2415 01 004 BE 30402
+305,Office Expenses,5,5,5,3,2415 01 004 BE 30500
+02,Other Contingencies,5,5,5,3,2415 01 004 BE 30502
+319,Machinery and Equipments,3,3,3,3,2415 01 004 BE 31900
+03,Maintenance,3,3,3,3,2415 01 004 BE 31903
+349,Festival Advances,- 1,,,,2415 01 004 BE 34900
+01,Festival Advances-Debit,,5,10,10,2415 01 004 BE 34901
+02,Festival Advances-Credit,- 1,- 5,- 10,- 10,2415 01 004 BE 34902
+359,Prizes and Awards,,6,6,6,2415 01 004 BE 35900
+01,Prizes and Awards,,6,6,6,2415 01 004 BE 35901
+369,Procurement of,"12,31","13,47","14,37","14,37",2415 01 004 BE 36900
+Agricultural Inputs,,,,,,
+01,Procurement of,"12,31","13,47","14,37","14,37",2415 01 004 BE 36901
+Agricultural Inputs,,,,,,
+372,Training,,10,10,10,2415 01 004 BE 37200
+01,Training,,10,10,10,2415 01 004 BE 37201
+373,Transport Charges,"3,23","3,25","4,00","4,48",2415 01 004 BE 37300
+01,Transport Charges,"3,23","3,25","4,00","4,48",2415 01 004 BE 37301
+376,Computer and Accessories,,,1,1,2415 01 004 BE 37600
+03,Stationery,,,1,1,2415 01 004 BE 37603
+BE,Total BE,"21,38","23,83","26,07","26,48",
+BF,Sugarcane Research Station,,,,,2415 01 004 BF 30000
+301,Salaries,,11,5,6,2415 01 004 BF 30100
+01,Pay,,6,2,2,2415 01 004 BF 30101
+04,Other Allowances,,2,1,1,2415 01 004 BF 30104
+06,House Rent Allowance,,3,2,3,2415 01 004 BF 30106
+303,Dearness Allowance,,1,1,1,2415 01 004 BF 30300
+01,Dearness Allowance,,1,1,1,2415 01 004 BF 30301
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,5,10,10,2415 01 004 BF 34901
+02,Festival Advances-Credit,,- 5,- 10,- 10,2415 01 004 BF 34902
+BF,Total BF,,12,6,7,
+JH,Preparation and Distribution of micro-nutrient-mixture of groundnut,,,,,2415 01 004 JH 30000
+302,Wages,"53,73","62,78","62,78","62,78",2415 01 004 JH 30200
+01,Wages,"53,73","62,78","62,78","62,78",2415 01 004 JH 30201
+305,Office Expenses,"2,14","2,60","2,62","3,19",2415 01 004 JH 30500
+02,Other Contingencies,90,42,42,79,2415 01 004 JH 30502
+03,Electricity Charges,"1,04","1,98","2,00","2,20",2415 01 004 JH 30503
+04,Service Postage & Postal Expenditure,20,20,20,20,2415 01 004 JH 30504
+308,Advertising and Publicity,"6,26","8,00","8,00","8,80",2415 01 004 JH 30800
+01,Advertisement Charges,"6,26","8,00","8,00","8,80",2415 01 004 JH 30801
+324,Materials and Supplies,"78,36","80,85","1,00,00","1,00,00",2415 01 004 JH 32400
+01,Materials and Supplies,"78,36","80,85","1,00,00","1,00,00",2415 01 004 JH 32401
+345,"Petroleum, Oil and Lubricant",,"1,32","2,40","2,64",2415 01 004 JH 34500
+01,"Petroleum, Oil and Lubricant",,"1,32","2,40","2,64",2415 01 004 JH 34501
+369,Procurement of,"9,02,66","9,02,66","11,00,00","11,00,00",2415 01 004 JH 36900
+Agricultural Inputs,,,,,,
+01,Procurement of,"9,02,66","9,02,66","11,00,00","11,00,00",2415 01 004 JH 36901
+Agricultural Inputs,,,,,,
+373,Transport Charges,"40,93","40,13","40,13","39,91",2415 01 004 JH 37300
+01,Transport Charges,"40,93","40,13","40,13","39,91",2415 01 004 JH 37301
+JH,Total JH,"10,84,08","10,98,34","13,15,93","13,17,32",
+#State's Expenditure Total,"11,05,46","11,22,29","13,42,06","13,43,87",,
+004,Total 004,"11,05,46","11,22,29","13,42,06","13,43,87",
+120,Assistance to Other Institutions,,,,,
+#State's Expenditure,,,,,,
+AC,Grants to Sri Ramakrishna,,,,,
+"Mission Vidyalaya, Coimbatore",,,,,2415 01 120 AC 30000,
+309,Grants-in-Aid,"94,85","78,46","1,23,84","90,00",2415 01 120 AC 30900
+01,Grants for Current Expenditure,"94,85","78,46","1,23,84","90,00",2415 01 120 AC 30901
+AC,Total AC,"94,85","78,46","1,23,84","90,00",
+AF,Remote Sensing Application Mission Project for  Crop Acreage and Crop Production Estimation in Tamil Nadu,,,,,2415 01 120 AF 30000
+301,Salaries,"11,39","9,73","31,42","36,99",2415 01 120 AF 30100
+01,Pay,"10,45","7,65","29,26","35,00",2415 01 120 AF 30101
+02,Medical Allowance,1,6,6,6,2415 01 120 AF 30102
+03,Medical Charges,,50,49,50,2415 01 120 AF 30103
+04,Other Allowances,,16,16,16,2415 01 120 AF 30104
+06,House Rent Allowance,78,"1,00","1,00",96,2415 01 120 AF 30106
+07,Travel Concession,,7,20,6,2415 01 120 AF 30107
+08,City Compensatory Allowance,15,29,25,25,2415 01 120 AF 30108
+303,Dearness Allowance,"15,29",98,"16,76","14,26",2415 01 120 AF 30300
+01,Dearness Allowance,"15,29",98,"16,76","14,26",2415 01 120 AF 30301
+304,Travel Expenses,57,"2,08","1,85","1,81",2415 01 120 AF 30400
+01,Tour Travelling Allowances,57,"2,00","1,75","1,73",2415 01 120 AF 30401
+02,Transfer Travelling Allowances,,8,10,8,2415 01 120 AF 30402
+305,Office Expenses,28,20,25,14,2415 01 120 AF 30500
+02,Other Contingencies,28,20,25,14,2415 01 120 AF 30502
+319,Machinery and Equipments,2,2,2,1,2415 01 120 AF 31900
+03,Maintenance,2,2,2,1,2415 01 120 AF 31903
+345,"Petroleum, Oil and Lubricant",24,35,55,69,2415 01 120 AF 34500
+01,"Petroleum, Oil and Lubricant",24,35,55,69,2415 01 120 AF 34501
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,10,20,30,2415 01 120 AF 34901
+02,Festival Advances-Credit,,- 10,- 20,- 30,2415 01 120 AF 34902
+376,Computer and Accessories,2,3,5,2,2415 01 120 AF 37600
+02,Maintenance,1,1,3,1,2415 01 120 AF 37602
+03,Stationery,1,2,2,1,2415 01 120 AF 37603
+AF,Total AF,"27,81","13,39","50,90","53,92",
+#State's Expenditure Total,,"1,22,66","91,85","1,74,74","1,43,92",
+120,Total 120,"1,22,66","91,85","1,74,74","1,43,92",
+277,Education,,,,,
+#State's Expenditure,,,,,,
+JB,Reimbursement of Tuition Fees for First Generation Graduates,,,,,2415 01 277 JB 30000
+312,Scholarships and Stipends,"1,94,69","1,96,00","6,50,00","6,50,00",2415 01 277 JB 31200
+09,Others,"1,94,69","1,96,00","6,50,00","6,50,00",2415 01 277 JB 31209
+JB,Total JB,"1,94,69","1,96,00","6,50,00","6,50,00",
+#State's Expenditure Total,,"1,94,69","1,96,00","6,50,00","6,50,00",
+277,Total 277,"1,94,69","1,96,00","6,50,00","6,50,00",
+01,Total 01,"14,22,81","14,10,14","21,66,80","21,37,79",
+2415,Total 2415,"14,22,81","14,10,14","21,66,80","21,37,79",
+2435,OTHER AGRICULTURAL PROGRAMMES,,,,,
+01,Marketing and quality control,,,,,
+101,Marketing facilities,,,,,
+#State's Expenditure,,,,,,
+AA,Administration of Fertilizer Control Order,,,,,2435 01 101 AA 30000
+301,Salaries,"4,04,78","2,78,29","4,81,45","5,34,83",2435 01 101 AA 30100
+01,Pay,"3,78,26","2,54,70","4,47,51","4,99,22",2435 01 101 AA 30101
+02,Medical Allowance,"1,74","2,00","2,68","2,85",2435 01 101 AA 30102
+03,Medical Charges,7,35,34,36,2435 01 101 AA 30103
+04,Other Allowances,"3,93","1,10","2,37","2,37",2435 01 101 AA 30104
+06,House Rent Allowance,"18,93","17,38","26,27","27,86",2435 01 101 AA 30106
+07,Travel Concession,21,54,49,34,2435 01 101 AA 30107
+08,City Compensatory Allowance,"1,64","2,22","1,79","1,83",2435 01 101 AA 30108
+302,Wages,"8,16","7,88","7,88","7,88",2435 01 101 AA 30200
+01,Wages,"8,16","7,88","7,88","7,88",2435 01 101 AA 30201
+303,Dearness Allowance,"3,65,09","32,60","76,81","93,49",2435 01 101 AA 30300
+01,Dearness Allowance,"3,65,09","32,60","76,81","93,49",2435 01 101 AA 30301
+304,Travel Expenses,"11,77","18,97","20,31","19,76",2435 01 101 AA 30400
+01,Tour Travelling Allowances,"11,42","18,85","20,24","19,69",2435 01 101 AA 30401
+02,Transfer Travelling Allowances,35,12,7,7,2435 01 101 AA 30402
+305,Office Expenses,"8,04","8,99","9,56","8,97",2435 01 101 AA 30500
+01,Telephone Charges,10,13,13,14,2435 01 101 AA 30501
+02,Other Contingencies,"4,01","4,15","4,15","3,45",2435 01 101 AA 30502
+03,Electricity Charges,"2,96","3,72","4,29","4,39",2435 01 101 AA 30503
+04,Service Postage & Postal Expenditure,97,99,99,99,2435 01 101 AA 30504
+306,"Rent, Rates and Taxes","3,98","2,62","1,47","1,13",2435 01 101 AA 30600
+01,Rent,"3,90","2,50",78,81,2435 01 101 AA 30601
+02,Property tax,6,10,62,25,2435 01 101 AA 30602
+03,Water Charges,2,2,7,7,2435 01 101 AA 30603
+307,Publications,,9,9,7,2435 01 101 AA 30700
+01,Publications,,9,9,7,2435 01 101 AA 30701
+308,Advertising and Publicity,15,18,21,22,2435 01 101 AA 30800
+01,Advertisement Charges,15,18,21,22,2435 01 101 AA 30801
+310,Contributions,41,60,60,60,2435 01 101 AA 31000
+02,Insurance Premium,41,60,60,60,2435 01 101 AA 31002
+319,Machinery and Equipments,68,70,71,49,2435 01 101 AA 31900
+01,Purchase,,,1,1,2435 01 101 AA 31901
+03,Maintenance,68,70,70,48,2435 01 101 AA 31903
+321,Motor Vehicles,3,11,14,15,2435 01 101 AA 32100
+02,Maintenance of Functional Vehicles,3,11,14,15,2435 01 101 AA 32102
+324,Materials and Supplies,"5,24","4,33","6,52","6,95",2435 01 101 AA 32400
+01,Materials and Supplies,"5,24","4,33","6,52","6,95",2435 01 101 AA 32401
+333,Payments for Professional and Special Services,,5,5,6,2435 01 101 AA 33300
+01,Pleaders Fees,,5,5,6,2435 01 101 AA 33301
+334,Other Charges,,3,3,1,2435 01 101 AA 33400
+01,Other Items,,3,3,1,2435 01 101 AA 33401
+345,"Petroleum, Oil and Lubricant",75,"1,00","1,78","1,40",2435 01 101 AA 34500
+01,"Petroleum, Oil and Lubricant",75,"1,00","1,78","1,40",2435 01 101 AA 34501
+346,"Clothing, Tentage and Stores",16,22,22,22,2435 01 101 AA 34600
+01,"Clothing, Tentage and Stores",16,22,22,22,2435 01 101 AA 34601
+347,Stores and Equipments,68,35,42,42,2435 01 101 AA 34700
+01,Stores - Voted,68,35,42,42,2435 01 101 AA 34701
+349,Festival Advances,- 15,,,,2435 01 101 AA 34900
+01,Festival Advances-Debit,"2,25","5,20","9,60","9,60",2435 01 101 AA 34901
+02,Festival Advances-Credit,"- 2,40","- 5,20","- 9,60","- 9,60",2435 01 101 AA 34902
+359,Prizes and Awards,2,12,12,12,2435 01 101 AA 35900
+01,Prizes and Awards,2,12,12,12,2435 01 101 AA 35901
+373,Transport Charges,"1,49","1,50","1,73","1,75",2435 01 101 AA 37300
+01,Transport Charges,"1,49","1,50","1,73","1,75",2435 01 101 AA 37301
+376,Computer and Accessories,98,50,"1,05","1,05",2435 01 101 AA 37600
+02,Maintenance,51,30,59,59,2435 01 101 AA 37602
+03,Stationery,47,20,46,46,2435 01 101 AA 37603
+AA,Total AA,"8,12,26","3,59,13","6,11,15","6,79,57",
+#State's Expenditure Total,,"8,12,26","3,59,13","6,11,15","6,79,57",
+101,Total 101,"8,12,26","3,59,13","6,11,15","6,79,57",
+102,Grading and quality control facilities,,,,,
+#State's Expenditure,,,,,,
+AN,Quality Control Laboratory for Bio Fertilizers,,,,,2435 01 102 AN 30000
+301,Salaries,"8,02","5,30","9,95","11,76",2435 01 102 AN 30100
+01,Pay,"7,49","4,62","9,27","11,09",2435 01 102 AN 30101
+02,Medical Allowance,5,5,6,7,2435 01 102 AN 30102
+04,Other Allowances,3,3,3,3,2435 01 102 AN 30104
+06,House Rent Allowance,37,50,50,46,2435 01 102 AN 30106
+08,City Compensatory Allowance,8,10,9,11,2435 01 102 AN 30108
+302,Wages,"1,15","1,17","1,17","1,17",2435 01 102 AN 30200
+01,Wages,"1,15","1,17","1,17","1,17",2435 01 102 AN 30201
+303,Dearness Allowance,"7,18",59,"1,59","2,08",2435 01 102 AN 30300
+01,Dearness Allowance,"7,18",59,"1,59","2,08",2435 01 102 AN 30301
+304,Travel Expenses,16,42,37,37,2435 01 102 AN 30400
+01,Tour Travelling Allowances,16,42,37,37,2435 01 102 AN 30401
+305,Office Expenses,83,"1,20","1,20",80,2435 01 102 AN 30500
+02,Other Contingencies,6,24,24,13,2435 01 102 AN 30502
+03,Electricity Charges,72,93,93,64,2435 01 102 AN 30503
+04,Service Postage & Postal Expenditure,5,3,3,3,2435 01 102 AN 30504
+307,Publications,,1,1,3,2435 01 102 AN 30700
+01,Publications,,1,1,3,2435 01 102 AN 30701
+308,Advertising and Publicity,5,5,5,5,2435 01 102 AN 30800
+01,Advertisement Charges,5,5,5,5,2435 01 102 AN 30801
+310,Contributions,4,5,5,5,2435 01 102 AN 31000
+02,Insurance Premium,4,5,5,5,2435 01 102 AN 31002
+319,Machinery and Equipments,26,28,28,28,2435 01 102 AN 31900
+01,Purchase,1,1,1,1,2435 01 102 AN 31901
+02,Renewal and Replacement,25,27,27,27,2435 01 102 AN 31902
+324,Materials and Supplies,25,31,31,31,2435 01 102 AN 32400
+01,Materials and Supplies,25,31,31,31,2435 01 102 AN 32401
+347,Stores and Equipments,6,10,10,5,2435 01 102 AN 34700
+01,Stores - Voted,6,10,10,5,2435 01 102 AN 34701
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,10,10,30,30,2435 01 102 AN 34901
+02,Festival Advances-Credit,- 10,- 10,- 30,- 30,2435 01 102 AN 34902
+369,Procurement of,12,10,10,10,2435 01 102 AN 36900
+Agricultural Inputs,,,,,,
+01,Procurement of,12,10,10,10,2435 01 102 AN 36901
+Agricultural Inputs,,,,,,
+376,Computer and Accessories,21,17,19,13,2435 01 102 AN 37600
+02,Maintenance,7,7,7,5,2435 01 102 AN 37602
+03,Stationery,14,10,12,8,2435 01 102 AN 37603
+AN,Total AN,"18,33","9,75","15,37","17,18",
+AO,Establishment of Fertilizer Control Laboratory,,,,,2435 01 102 AO 30000
+301,Salaries,"23,83","27,88","36,10","39,75",2435 01 102 AO 30100
+01,Pay,"22,71","25,99","33,65","36,78",2435 01 102 AO 30101
+02,Medical Allowance,10,19,32,31,2435 01 102 AO 30102
+04,Other Allowances,3,18,17,17,2435 01 102 AO 30104
+06,House Rent Allowance,99,"1,50","1,94","2,48",2435 01 102 AO 30106
+07,Travel Concession,,2,2,1,2435 01 102 AO 30107
+302,Wages,"3,20","3,73","3,73","3,73",2435 01 102 AO 30200
+01,Wages,"3,20","3,73","3,73","3,73",2435 01 102 AO 30201
+303,Dearness Allowance,"23,92","3,33","5,78","6,89",2435 01 102 AO 30300
+01,Dearness Allowance,"23,92","3,33","5,78","6,89",2435 01 102 AO 30301
+304,Travel Expenses,7,39,88,89,2435 01 102 AO 30400
+01,Tour Travelling Allowances,7,39,88,89,2435 01 102 AO 30401
+305,Office Expenses,"1,34","1,70","1,73","1,50",2435 01 102 AO 30500
+02,Other Contingencies,80,86,86,59,2435 01 102 AO 30502
+03,Electricity Charges,35,71,74,78,2435 01 102 AO 30503
+04,Service Postage & Postal Expenditure,19,13,13,13,2435 01 102 AO 30504
+306,"Rent, Rates and Taxes",50,50,,,2435 01 102 AO 30600
+01,Rent,50,50,,,2435 01 102 AO 30601
+308,Advertising and Publicity,19,10,20,26,2435 01 102 AO 30800
+01,Advertisement Charges,19,10,20,26,2435 01 102 AO 30801
+310,Contributions,3,5,5,5,2435 01 102 AO 31000
+02,Insurance Premium,3,5,5,5,2435 01 102 AO 31002
+319,Machinery and Equipments,"1,14","1,31","2,14","2,09",2435 01 102 AO 31900
+01,Purchase,6,6,6,1,2435 01 102 AO 31901
+03,Maintenance,"1,08","1,25","2,08","2,08",2435 01 102 AO 31903
+324,Materials and Supplies,"11,54","11,87","14,53","15,25",2435 01 102 AO 32400
+01,Materials and Supplies,"11,54","11,87","14,53","15,25",2435 01 102 AO 32401
+347,Stores and Equipments,15,5,10,11,2435 01 102 AO 34700
+01,Stores - Voted,15,5,10,11,2435 01 102 AO 34701
+349,Festival Advances,- 2,,,,2435 01 102 AO 34900
+01,Festival Advances-Debit,5,30,90,90,2435 01 102 AO 34901
+02,Festival Advances-Credit,- 7,- 30,- 90,- 90,2435 01 102 AO 34902
+369,Procurement of,"1,88","1,90","2,42","2,06",2435 01 102 AO 36900
+Agricultural Inputs,,,,,,
+01,Procurement of,"1,88","1,90","2,42","2,06",2435 01 102 AO 36901
+Agricultural Inputs,,,,,,
+376,Computer and Accessories,28,6,21,21,2435 01 102 AO 37600
+02,Maintenance,26,2,9,10,2435 01 102 AO 37602
+03,Stationery,2,4,12,11,2435 01 102 AO 37603
+AO,Total AO,"68,05","52,87","67,87","72,79",
+#State's Expenditure Total,,"86,38","62,62","83,24","89,97",
+102,Total 102,"86,38","62,62","83,24","89,97",
+01,Total 01,"8,98,64","4,21,75","6,94,39","7,69,54",
+2435,Total 2435,"8,98,64","4,21,75","6,94,39","7,69,54",
+2501,SPECIAL PROGRAMMES FOR RURAL DEVELOPMENT,,,,,
+05,Wasteland Development,,,,,
+101,National Wasteland Development Programme,,,,,
+#Schemes shared between State and Centre,,,,,,
+#Schemes shared between State and Centre,,,,,,
+UB,Integrated Watershed Management Programme,,,,,2501 05 101 UB 30000
+309,Grants-in-Aid,"1,25,10,00","1,44,02,00","30,61,17",1,2501 05 101 UB 30900
+03,Grants for Specific Schemes,"1,25,10,00","1,44,02,00","30,61,17",1,2501 05 101 UB 30903
+UB,Total UB,"1,25,10,00","1,44,02,00","30,61,17",1,
+#Schemes shared between State and Centre Total,"1,25,10,00","1,44,02,00","30,61,17",1,,
+101,Total 101,"1,25,10,00","1,44,02,00","30,61,17",1,
+793,Special Central Assistance for Scheduled Caste Component Plan Schemes shared between State and Centre,,,,,
+UA,Integrated Watershed Management Programme under Special Component Plan for Scheduled Castes,,,,,2501 05 793 UA 30000
+309,Grants-in-Aid,"29,46,60","38,39,60","20,37,17",1,2501 05 793 UA 30900
+03,Grants for Specific Schemes,"29,46,60","38,39,60","20,37,17",1,2501 05 793 UA 30903
+UA,Total UA,"29,46,60","38,39,60","20,37,17",1,
+#Schemes shared between State and Centre Total,"29,46,60","38,39,60","20,37,17",1,,
+793,Total 793,"29,46,60","38,39,60","20,37,17",1,
+794,Special Central Assistance for Tribal Sub-Plan Schemes shared between State and Centre,,,,,
+UA,Integrated Watershed Management Programme,,,,,2501 05 794 UA 30000
+309,Grants-in-Aid,"60,00","1,46,00",1,1,2501 05 794 UA 30900
+03,Grants for Specific Schemes,"60,00","1,46,00",1,1,2501 05 794 UA 30903
+UA,Total UA,"60,00","1,46,00",1,1,
+#Schemes shared between State and Centre Total,"60,00","1,46,00",1,1,,
+794,Total 794,"60,00","1,46,00",1,1,
+05,Total 05,"1,55,16,60","1,83,87,60","50,98,35",3,
+2501,Total 2501,"1,55,16,60","1,83,87,60","50,98,35",3,
+4401-00,CAPITAL OUTLAY ON CROP HUSBANDRY,,,,,
+103,Seeds,,,,,
+#State's Expenditure,,,,,,
+KH,Strengthening of Seeds Production infrastructure with NABARD loan assistance,,,,,4401 00 103 KH 40000
+416,Major Works,"24,66,37",1,1,1,4401 00 103 KH 41600
+01,Major Works,"24,66,37",1,1,1,4401 00 103 KH 41601
+KH,Total KH,"24,66,37",1,1,1,
+KI,Construction of Seed Godowns under NABARD (RIDF) assistance,,,,,4401 00 103 KI 40000
+416,Major Works,,,,"7,60,00",4401 00 103 KI 41600
+01,Major Works,,,,"7,60,00",4401 00 103 KI 41601
+KI,Total KI,,,"7,60,00",,
+#State's Expenditure Total,"24,66,37",1,1,"7,60,01",,
+Central Sector Schemes,,,,,,
+SA,Construction of Agricultural Seed Godowns,,,,,4401 00 103 SA 40000
+416,Major Works,,1,"8,92,50","9,00,00",4401 00 103 SA 41600
+01,Major Works,,1,"8,92,50","9,00,00",4401 00 103 SA 41601
+SA,Total SA,1,"8,92,50","9,00,00",,
+Central Sector Schemes,,,,,,
+Total,,1,"8,92,50","9,00,00",,
+#Schemes shared between State and Centre,,,,,,
+UA,National Agriculture Development Programme (NADP/RKVY)- Agriculture Department,,,,,4401 00 103 UA 40000
+416,Major Works,"3,27,77","18,35,60","46,15,15","53,07,00",4401 00 103 UA 41600
+01,Major Works,"3,27,77","18,35,60","46,15,15","53,07,00",4401 00 103 UA 41601
+UA,Total UA,"3,27,77","18,35,60","46,15,15","53,07,00",
+#Schemes shared between State and Centre Total,"3,27,77","18,35,60","46,15,15","53,07,00",,
+103,Total 103,"27,94,14","18,35,62","55,07,66","69,67,01",
+793,Special Central Assistance for Scheduled Caste Component Plan Schemes shared between State and Centre,,,,,
+UA,National Agriculture Development Programme (NADP/RKVY) under Special Component Plan - Agriculture Department,,,,,4401 00 793 UA 40000
+416,Major Works,"1,45,26","13,62,70","26,42,69","30,39,00",4401 00 793 UA 41600
+01,Major Works,"1,45,26","13,62,70","26,42,69","30,39,00",4401 00 793 UA 41601
+UA,Total UA,"1,45,26","13,62,70","26,42,69","30,39,00",
+#Schemes shared between State and Centre Total,"1,45,26","13,62,70","26,42,69","30,39,00",,
+793,Total 793,"1,45,26","13,62,70","26,42,69","30,39,00",
+794,Special Central Assistance for Tribal Sub-Plan Schemes shared between State and Centre,,,,,
+UA,National Agriculture Development Programme (NADP/RKVY) - Agriculture Department,,,,,4401 00 794 UA 40000
+416,Major Works,"13,47","1,14,62","3,28,37","3,78,00",4401 00 794 UA 41600
+01,Major Works,"13,47","1,14,62","3,28,37","3,78,00",4401 00 794 UA 41601
+UA,Total UA,"13,47","1,14,62","3,28,37","3,78,00",
+#Schemes shared between State and Centre Total,"13,47","1,14,62","3,28,37","3,78,00",,
+794,Total 794,"13,47","1,14,62","3,28,37","3,78,00",
+800,Other Expenditure,,,,,
+#State's Expenditure,,,,,,
+JF,Agricultural Extension Centres with NABARD Assistance,,,,,4401 00 800 JF 40000
+416,Major Works,"12,61,29",1,"31,40","67,10",4401 00 800 JF 41600
+01,Major Works,"12,61,29",1,"31,40","67,10",4401 00 800 JF 41601
+JF,Total JF,"12,61,29",1,"31,40","67,10",
+JG,Construction of Integrated Office Complex for Agriculture in Districts.,,,,,4401 00 800 JG 40000
+416,Major Works,"87,82",,"4,88",,4401 00 800 JG 41600
+01,Major Works,"87,82",,"4,88",,4401 00 800 JG 41601
+JG,Total JG,"87,82",,"4,88",,
+#State's Expenditure Total,"13,49,11",1,"36,28","67,10",,
+#Schemes shared between State and Centre,,,,,,
+UW,"Add - Percentage Charges for Establishment transferred from the Major Head 2059-Public Works,,,,,4401 00 800 UW 40000
+430,Inter-Account Transfers,19","72""",,,,4401 00 800 UW 43000
+01,Inter-Account Transfers,"19,72",,,,4401 00 800 UW 43001
+UW,Total UW,"19,72",,,,
+UX,Add - Percentage Charges for Machinery and Equipment Transferred from the Major Head 2059-Public Works,,,,,4401 00 800 UX 40000
+430,Inter-Account Transfers,28,,,,4401 00 800 UX 43000
+01,Inter-Account Transfers,28,,,,4401 00 800 UX 43001
+UX,Total UX,28,,,,
+#Schemes shared between State and Centre Total,"20,00",,,,,
+800,Total 800,"13,69,11",1,"36,28","67,10",
+00,Total 00,"43,21,98","33,12,95","85,15,00","1,04,51,11",
+4401,Total 4401,"43,21,98","33,12,95","85,15,00","1,04,51,11",
+4402-00,"CAPITAL OUTLAY ON,SOIL AND WATER CONSERVATION",,,,,
+800,Other Expenditure,,,,,
+#State's Expenditure,,,,,,
+KA,Implementation of Western Ghats Development Programme through Tamil Nadu Watershed Development Agency,,,,,4402 00 800 KA 40000
+416,Major Works,,1,1,1,4402 00 800 KA 41600
+01,Major Works,,1,1,1,4402 00 800 KA 41601
+KA,Total KA,1,1,1,,
+#State's Expenditure Total,,1,1,1,,
+800,Total 800,1,1,1,,
+00,Total 00,1,1,1,,
+4402,Total 4402,1,1,1,,
+6401-00,LOANS FOR CROPHUSBANDRY,,,,,
+195,Loans to Co-operatives,,,,,
+#State's Expenditure,,,,,,
+AD,Ways and Means Advance to Tamil Nadu Cooperative Marketing Federation Limited (TANFED),,,,,6401 00 195 AD 50000
+502,Loan - Outgo,,"1,30,00,00","1,30,00,00","1,30,00,00",6401 00 195 AD 50200
+01,Bearing Interest,,"1,30,00,00","1,30,00,00","1,30,00,00",6401 00 195 AD 50201
+AD,Total AD,"1,30,00,00","1,30,00,00","1,30,00,00",,
+#State's Expenditure Total,,"1,30,00,00","1,30,00,00","1,30,00,00",,
+195,Total 195,"1,30,00,00","1,30,00,00","1,30,00,00",,
+00,Total 00,"1,30,00,00","1,30,00,00","1,30,00,00",,
+6401,Total 6401,"1,30,00,00","1,30,00,00","1,30,00,00",,
