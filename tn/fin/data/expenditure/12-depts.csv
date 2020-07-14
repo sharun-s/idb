@@ -1,7 +1,7 @@
 #Head of Department,Revenue,Capital,Loan,Total
-Secretariat Charged,1,,,1
-Secretariat Voted,"12,18,30",,"25,00","12,43,30"
-Registrar of Co-operative Societies Charged,2,,,2
-Registrar of Co-operative Societies Voted,"15,69,69,21","27,64,54","3,00,55","16,00,34,30"
-12,Total Charged,3,,,3
-12,Total Voted,"15,81,87,51","27,64,54","3,25,55","16,12,77,60"
+12,01,Secretariat Charged,1,,,1
+12,01,Secretariat Voted,"12,18,30",,"25,00","12,43,30"
+12,02,Registrar of Co-operative Societies Charged,2,,,2
+12,02,Registrar of Co-operative Societies Voted,"15,69,69,21","27,64,54","3,00,55","16,00,34,30"
+12,,Total Charged,3,,,3
+12,,Total Voted,"15,81,87,51","27,64,54","3,25,55","16,12,77,60"

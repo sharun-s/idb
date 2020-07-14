@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import sys
 import pandas as p
 import subprocess
@@ -18,6 +19,8 @@ def fman(number):
 
 
 def format_indian(t):
+	if t==0:
+		return '--'
 	dic = {
 		3:('K',1),
 	    4:('K',10), 
@@ -34,6 +37,22 @@ def format_indian(t):
 	m=fman(t)
 	return "{:.2f}".format(m*dic[ex][1])+" "+dic[ex][0]
 
+def parseResults(o):
+	r=csv.reader(o.stdout.splitlines())
+	d=[]
+	v=[]
+	for i in csv.reader(o.stdout.splitlines()):
+		demand=i[0].split('.')[0].split('/')[-1]
+		if len(demand)==2 or len(demand)==1: # hack: skips files not matching format xx.csv or x.csv
+			d.append(dept_map[dept_map[0] == int(demand)].iloc[0][2])
+			for amt in i[2:3]:
+				if amt !='':
+					v.append(format_indian(1000*atof(amt)))  
+				else: 
+					v.append('-')
+	return (d,v)
+
+
 dept_map=p.read_csv('tn_function_dept_map',header=None)
 
 rev_head=sys.argv[1]
@@ -46,7 +65,7 @@ rev_file='data/revenue/'+rev_head+'.csv'
 with open(rev_file) as f:
 	line=f.readline()
 	title=line.split(',')[1].strip().replace('"','').title()
-	print('\033[41m '+title.upper()+'\033[0m','Year: 2018-2019')
+	print('\033[41m'+title.upper()+'\033[0m','Year: 2018-2019')
 
 print('---Income---')
 df=p.read_csv(rev_file,comment='#',header=None)
@@ -59,64 +78,68 @@ df[1]=df[1].apply(lambda z:format_indian(1000*z))
 print(df[1].to_string(header=False))
 print(f'Total Income \033[91m {tot}\033[0m')
 
-#s=shlex.split('ls -1 "data/revenue/breakup/'+rev_head+'*"')
-#print(s)
 
 o=subprocess.run( ['ls -1 data/revenue/breakup/'+rev_head+'*'],shell=True, stdout=subprocess.PIPE, universal_newlines=True)
-print('More details:',o.stdout)
+print('More details:', o.stdout)
 
 #Find all sub depts generating income
-o=subprocess.run(r"grep -Po '\[\d\d\d\d\]' "+ o.stdout.strip()+" | sort | uniq" ,shell=True, stdout=subprocess.PIPE, universal_newlines=True)
+o=subprocess.run(r"grep -Po '\[\d\d\d\d\]' "+ shlex.quote(o.stdout.strip()) +" | sort | uniq" ,shell=True, stdout=subprocess.PIPE, universal_newlines=True)
 #print(o.stdout)
 depts=o.stdout.replace('[','').replace(']','').split('\n')
-d=dept_map[dept_map[0] == int(depts[0][:2])]
-subdepts=[]
-for dept in depts:
-	if dept:
-		subdept=dept[2:]
-		if subdept.startswith('0'):
-			subdept=subdept[1]
-	else:
-		continue
-	subdepts.append(subdept)
-print('----sub depts that generated income')
-for i in d[d[1].isin(subdepts)][2].values:
-	print(i, end=',')
-
-print('\n')
+if all(depts):
+	d=dept_map[dept_map[0] == int(depts[0][:2])]
+	subdepts=[]
+	for dept in depts:
+		if dept:
+			subdept=dept[2:]
+			if subdept.startswith('0'):
+				subdept=subdept[1]
+		else:
+			continue
+		subdepts.append(subdept)
+	print('----sub depts that generated income')
+	for i in d[d[1].isin(subdepts)][2].values:
+		print(i, end=',')
 
 print('--Expenditure day to day (revex)')
-o=subprocess.run(r"grep -Ir '^"+revex_head+"' data/expenditure ",shell=True, stdout=subprocess.PIPE, universal_newlines=True)
+o=subprocess.run(r"grep -Ir '^"+revex_head+"' data/expenditure --exclude-dir=tmp",shell=True, stdout=subprocess.PIPE, universal_newlines=True)
 #print('2018','2019 Estimate','2019 revised','2020',sep='\t')
-r=csv.reader(o.stdout.splitlines())
-#print(o.stdout)
+d,v=parseResults(o)
 
-demands=[i[0].split('.')[0].split('/')[-1] for i in csv.reader(o.stdout.splitlines())]
-d=[ dept_map[dept_map[0] == int(i)].iloc[0][2] for i in demands ]
-v=[format_indian(1000*atof(amt)) for v in r for amt in v[2:3] ]
-if len(d)==1:
-	print(f'\033[33m {v[0]}\033[0m')
-else:
-	for i in zip(d,v):
-		print(i[0].title(),
-			'\033[92m'+i[1]+'\033[0m', sep=' ')
+#d=[ dept_map[dept_map[0] == int(i)].iloc[0][2] for i in demands ]
+#v=[format_indian(1000*atof(amt)) if amt !='' else '-' for v in r for amt in v[2:3] ]
+#if len(d)==1:
+#	print(f'\033[33m {v[0]}\033[0m')
+#else:
+for i in zip(d,v):
+	print(i[0].title(),
+		'\033[92m'+i[1]+'\033[0m', sep=' ')
 
 print('\n--Investments (capex)')
-o=subprocess.run(r"grep -Ir '^"+capex_head+"' data/expenditure ",shell=True, stdout=subprocess.PIPE, universal_newlines=True)
+o=subprocess.run(r"grep -Ir '^"+capex_head+"' data/expenditure --exclude-dir tmp ",shell=True, stdout=subprocess.PIPE, universal_newlines=True)
 #print("\t".join(['2018','2019 Estimate','2019 revised','2020']))
-#print(o.stdout)
 r=csv.reader(o.stdout.splitlines())
+d,v=parseResults(o)
+for i in zip(d,v):
+	print(i[0].title(),
+		'\033[92m'+i[1]+'\033[0m', sep=' ')
+
 #print("\t".join([format_indian(1000*atof(amt)) for v in r for amt in v[2:3] ]) )
-demands=[i[0].split('.')[0].split('/')[-1] for i in csv.reader(o.stdout.splitlines())]
-d=[ dept_map[dept_map[0] == int(i)].iloc[0][2] for i in demands ]
-v=[format_indian(1000*atof(amt)) for v in r for amt in v[2:3] ]
-if len(d)==1:
-	print(f'\033[91m {v[0]}\033[0m')
-else:
-	for i in zip(d,v):
-		print(i[0].title(),
-			'\033[92m'+i[1]+'\033[0m', sep=' ')
-		
+# try:
+# 	demands=[i[0].split('.')[0].split('/')[-1] for i in csv.reader(o.stdout.splitlines())]
+# 	d=[ dept_map[dept_map[0] == int(i)].iloc[0][2] for i in demands ]
+# 	v=[format_indian(1000*atof(amt)) if amt !='' else '-' for v in r for amt in v[2:3] ]
+# 	if len(d)==1:
+# 		print(f'\033[91m {v[0]}\033[0m')
+# 	else:
+# 		for i in zip(d,v):
+# 			print(i[0].title(),
+# 				'\033[92m'+i[1]+'\033[0m', sep=' ')
+# except Exception as e:
+# 	print('Error processing',o.stdout.splitlines())
+# 	raise e
+ 
+
 print('\n--Loans')
-o=subprocess.run(r"grep -Ihr '^"+loan_head+"' data/expenditure ",shell=True, stdout=subprocess.PIPE, universal_newlines=True)
+o=subprocess.run(r"grep -Ihr '^"+loan_head+"' data/expenditure --exclude-dir=tmp",shell=True, stdout=subprocess.PIPE, universal_newlines=True)
 print(o.stdout)
