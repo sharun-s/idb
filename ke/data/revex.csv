@@ -1,0 +1,29 @@
+l1,L2,l3,2018,2019be,2019re,2020
+A,GENERAL SERVICES,,50827.13,56832.16,59535.11,59712.41
+,1,Administration of justice,858.00,931.60,878.79,948.15
+,2,Land Revenue,653.05,686.23,671.66,711.65
+,3,Interest payment,16747.92,17201.28,18434.57,19850.00
+,4,Police,3555.57,3906.17,3647.87,3686.67
+,5,Pension and Other Retirement Benefits,19011.94,18911.83,20351.23,20970.41
+,6,Other General Services,10000.64,15195.05,15551.01,13545.52
+B,SOCIAL SERVICES,,38210.77,38821.18,34840.12,42469.84
+,1,"Education, Sports, Art and Culture",18968.26,20572.67,18970.24,20495.50
+,2,Health  and Family Welfare,6847.05,6903.45,6991.44,7615.39
+,3,"Water Supply, Sanitation, Housing and Urban Development",1579.72,2598.37,1597.89,2665.35
+,4,Information and Broadcasting,93.05,104.99,80.52,92.97
+,5,Welfare of SC/ ST/OBC and Minorities,2554.94,3003.62,2035.21,2817.70
+,6,Labour and Labour Welfare,1266.99,1361.09,1013.22,951.03
+,7,Social Welfare and Nutrition,3664.19,3930.73,3783.29,7440.50
+,8,Other Social services,3236.57,346.26,368.31,391.39
+C,ECONOMIC SERVICES,,12379.77,18523.23,13732.63,17896.74
+,1,Agriculture and  Allied activities,6193.40,7430.70,6010.18,6929.57
+,2,Rural  Development,1622.06,4700.44,2464.15,4809.10
+,3,Special Area Programmes,31.34,93.73,20.95,75.00
+,4,Irrigation and Flood Control,576.63,592.90,486.46,535.54
+,5,Energy,22.67,482.55,152.08,386.92
+,6,Industry and Minerals,608.03,613.10,492.53,601.75
+,7,Transport,2482.54,3378.07,3177.18,3422.34
+,8,Science Technology and Environment,143.83,377.29,226.12,327.80
+,9,General Economic Services,699.27,854.45,702.99,808.73
+D,GRANTS-IN-AID AND CONTRIBUTIONS,,8898.72,9948.42,8408.98,9758.38
+TOTAL REVENUE EXPENDITURE(A+B+C+D),,,110316.39,124125.00,116516.85,129837.37
