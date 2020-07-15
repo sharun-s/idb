@@ -52,13 +52,25 @@ def parseResults(o):
 					v.append('-')
 	return (d,v)
 
+def pp(d,v):
+	for i in zip(d,v):
+		wrapped=tw.wrap(tw.dedent(i[0]),60)
+		for l in wrapped[:-1]: 
+			print(l.title())
+		print(wrapped[-1].title().rjust(60," "),
+			'\033[92m'+i[1]+'\033[0m', sep=' ')
 
 dept_map=p.read_csv('tn_function_dept_map',header=None)
 
 rev_head=sys.argv[1]
-revex_head='2'+sys.argv[1][1:]
-capex_head='4'+sys.argv[1][1:]
-loan_head='6'+sys.argv[1][1:]
+if rev_head[0] == '0':
+	revex_head='2'+sys.argv[1][1:]
+	capex_head='4'+sys.argv[1][1:]
+	loan_head='6'+sys.argv[1][1:]
+if rev_head[0]=='1':
+	revex_head='3'+sys.argv[1][1:]
+	capex_head='5'+sys.argv[1][1:]
+	loan_head='7'+sys.argv[1][1:]
 
 rev_file='data/revenue/'+rev_head+'.csv'
 
@@ -67,7 +79,7 @@ with open(rev_file) as f:
 	title=line.split(',')[1].strip().replace('"','').title()
 	print('\033[41m'+title.upper()+'\033[0m','Year: 2018-2019')
 
-print('---Income---')
+print('\033[4m--Income\033[0m')
 df=p.read_csv(rev_file,comment='#',header=None)
 df[1]=df[1].apply(lambda x:str(x).replace('- ','-')).apply(lambda x:atof(x) if x!='nan' else 0)
 df=df[df[1]!=0.0]
@@ -85,8 +97,8 @@ print('More details:', o.stdout)
 #Find all sub depts generating income
 o=subprocess.run(r"grep -Po '\[\d\d\d\d\]' "+ shlex.quote(o.stdout.strip()) +" | sort | uniq" ,shell=True, stdout=subprocess.PIPE, universal_newlines=True)
 #print(o.stdout)
-depts=o.stdout.replace('[','').replace(']','').split('\n')
-if all(depts):
+depts=o.stdout.replace('[','').replace(']','').split('\n')[:-1]
+if True:
 	d=dept_map[dept_map[0] == int(depts[0][:2])]
 	subdepts=[]
 	for dept in depts:
@@ -97,49 +109,27 @@ if all(depts):
 		else:
 			continue
 		subdepts.append(subdept)
-	print('----sub depts that generated income')
-	for i in d[d[1].isin(subdepts)][2].values:
-		print(i, end=',')
+	print('\033[96mIncome by SubDepts\033[0m')
+	print(",".join(d[d[1].isin(subdepts)][2].values.tolist()))
 
-print('--Expenditure day to day (revex)')
+print('')
+print('\033[4m--Expenditure day to day (revex)\033[0m')
 o=subprocess.run(r"grep -Ir '^"+revex_head+"' data/expenditure --exclude-dir=tmp",shell=True, stdout=subprocess.PIPE, universal_newlines=True)
 #print('2018','2019 Estimate','2019 revised','2020',sep='\t')
 d,v=parseResults(o)
+pp(d,v)
 
-#d=[ dept_map[dept_map[0] == int(i)].iloc[0][2] for i in demands ]
-#v=[format_indian(1000*atof(amt)) if amt !='' else '-' for v in r for amt in v[2:3] ]
-#if len(d)==1:
-#	print(f'\033[33m {v[0]}\033[0m')
-#else:
-for i in zip(d,v):
-	print(i[0].title(),
-		'\033[92m'+i[1]+'\033[0m', sep=' ')
-
-print('\n--Investments (capex)')
+print('\n\033[4m--Investments (capex)\033[0m')
 o=subprocess.run(r"grep -Ir '^"+capex_head+"' data/expenditure --exclude-dir tmp ",shell=True, stdout=subprocess.PIPE, universal_newlines=True)
 #print("\t".join(['2018','2019 Estimate','2019 revised','2020']))
-r=csv.reader(o.stdout.splitlines())
 d,v=parseResults(o)
-for i in zip(d,v):
-	print(i[0].title(),
-		'\033[92m'+i[1]+'\033[0m', sep=' ')
+pp(d,v)
+# maxlen = len(max(d, key=len))
+# for i in zip(d,v):
+# 	print(i[0].title().rjust(maxlen," "),
+# 		'\033[92m'+i[1]+'\033[0m', sep=' ')
 
-#print("\t".join([format_indian(1000*atof(amt)) for v in r for amt in v[2:3] ]) )
-# try:
-# 	demands=[i[0].split('.')[0].split('/')[-1] for i in csv.reader(o.stdout.splitlines())]
-# 	d=[ dept_map[dept_map[0] == int(i)].iloc[0][2] for i in demands ]
-# 	v=[format_indian(1000*atof(amt)) if amt !='' else '-' for v in r for amt in v[2:3] ]
-# 	if len(d)==1:
-# 		print(f'\033[91m {v[0]}\033[0m')
-# 	else:
-# 		for i in zip(d,v):
-# 			print(i[0].title(),
-# 				'\033[92m'+i[1]+'\033[0m', sep=' ')
-# except Exception as e:
-# 	print('Error processing',o.stdout.splitlines())
-# 	raise e
- 
-
-print('\n--Loans')
-o=subprocess.run(r"grep -Ihr '^"+loan_head+"' data/expenditure --exclude-dir=tmp",shell=True, stdout=subprocess.PIPE, universal_newlines=True)
-print(o.stdout)
+print('\n\033[4m--Loans\033[0m')
+o=subprocess.run(r"grep -Ir '^"+loan_head+"' data/expenditure --exclude-dir=tmp",shell=True, stdout=subprocess.PIPE, universal_newlines=True)
+d,v=parseResults(o)
+pp(d,v)
