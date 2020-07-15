@@ -146,3 +146,18 @@ print('\n\033[4m--Loans\033[0m')
 o=subprocess.run(r"grep -Ir '^"+loan_head+"' data/expenditure --exclude-dir=tmp",shell=True, stdout=subprocess.PIPE, universal_newlines=True)
 d,v=parseResults(o)
 pp(d,v)
+
+print('\n\033[4m--Historic Trend 2002-2018 (in laks)\033[0m')
+o=subprocess.run(r'grep -P "'+rev_head+'" data/*.csv',shell=True, stdout=subprocess.PIPE, universal_newlines=True)
+print(o.stdout)
+o=subprocess.run(r'grep -P "'+revex_head+'" data/*.csv',shell=True, stdout=subprocess.PIPE, universal_newlines=True)
+print(o.stdout)
+o=subprocess.run(r'grep -P "'+capex_head+'" data/*.csv',shell=True, stdout=subprocess.PIPE, universal_newlines=True)
+print(o.stdout)
+
+
+print('\n\033[4m--Compared to Other States\033[0m')
+o=subprocess.run(r'grep -Pi "'+title+'" ../../ke/data/*.csv' ,shell=True, stdout=subprocess.PIPE, universal_newlines=True)
+print(o.stdout)
+
+
