@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+#To turn on revenue code autocompletion on shell
+#complete -W "`find data/revenue/*.csv -printf "%f "| tr -d ".csv"`" ./summary.py
+
 import sys
 import pandas as p
 import subprocess
@@ -60,57 +63,71 @@ def pp(d,v):
 		print(wrapped[-1].title().rjust(60," "),
 			'\033[92m'+i[1]+'\033[0m', sep=' ')
 
-dept_map=p.read_csv('tn_function_dept_map',header=None)
+def ppIncome():
+	df=p.read_csv(rev_file,comment='#',header=None)
+	df[1]=df[1].apply(lambda x:str(x).replace('- ','-')).apply(lambda x:atof(x) if x!='nan' else 0)
+	df=df[df[1]!=0.0]
+	df.set_index(0,inplace=True)
+	df=df.sort_values(by=1,ascending=True)
+	tot=format_indian(1000*df[1].sum())
+	df[1]=df[1].apply(lambda z:format_indian(1000*z))
+	print(df[1].to_string(header=False))
+	print(f'Total Income \033[91m {tot}\033[0m')
 
-rev_head=sys.argv[1]
-if rev_head[0] == '0':
+def ppIncomeByDepts(detailsfile):
+	#Find all sub depts generating income
+	o=subprocess.run(r"grep -Po '\[\d\d\d\d\]' "+ shlex.quote(detailsfile.strip()) +" | sort | uniq" ,shell=True, stdout=subprocess.PIPE, universal_newlines=True)
+	#print(o.stdout)
+	depts=o.stdout.replace('[','').replace(']','').split('\n')[:-1]
+	if True:# temp hack check here for empty/errors in depts
+		d=dept_map[dept_map[0] == int(depts[0][:2])]
+		subdepts=[]
+		for dept in depts:
+			if dept:
+				subdept=dept[2:]
+				if subdept.startswith('0'):
+					subdept=subdept[1]
+			else:
+				continue
+			subdepts.append(subdept)
+		print('\033[96mIncome by SubDepts\033[0m')
+		print(",".join(d[d[1].isin(subdepts)][2].values.tolist()))
+
+
+dept_map=p.read_csv('tn_function_dept_map',header=None)
+rev_head=None
+if int(sys.argv[1][0])%2 == 0:
+	rev_head='0'+sys.argv[1][1:]
 	revex_head='2'+sys.argv[1][1:]
 	capex_head='4'+sys.argv[1][1:]
 	loan_head='6'+sys.argv[1][1:]
-if rev_head[0]=='1':
+if int(sys.argv[1][0])%2==1:
+	rev_head='1'+sys.argv[1][1:]
 	revex_head='3'+sys.argv[1][1:]
 	capex_head='5'+sys.argv[1][1:]
 	loan_head='7'+sys.argv[1][1:]
+# todo handle 8 ? 
 
 rev_file='data/revenue/'+rev_head+'.csv'
+try:
+	with open(rev_file) as f:
+		line=f.readline()
+		title=line.split(',')[1].strip().replace('"','').title()
+		print('\033[41m'+title.upper()+'\033[0m','Year: 2018-2019')
+		print('\033[4m--Income\033[0m')
 
-with open(rev_file) as f:
-	line=f.readline()
-	title=line.split(',')[1].strip().replace('"','').title()
-	print('\033[41m'+title.upper()+'\033[0m','Year: 2018-2019')
+		ppIncome()
+	
+		o=subprocess.run( ['ls -1 data/revenue/breakup/'+rev_head+'*'],shell=True, stdout=subprocess.PIPE, universal_newlines=True)
+		print('More details:', o.stdout)
 
-print('\033[4m--Income\033[0m')
-df=p.read_csv(rev_file,comment='#',header=None)
-df[1]=df[1].apply(lambda x:str(x).replace('- ','-')).apply(lambda x:atof(x) if x!='nan' else 0)
-df=df[df[1]!=0.0]
-df.set_index(0,inplace=True)
-df=df.sort_values(by=1,ascending=True)
-tot=format_indian(1000*df[1].sum())
-df[1]=df[1].apply(lambda z:format_indian(1000*z))
-print(df[1].to_string(header=False))
-print(f'Total Income \033[91m {tot}\033[0m')
+		ppIncomeByDepts(o.stdout)
 
-
-o=subprocess.run( ['ls -1 data/revenue/breakup/'+rev_head+'*'],shell=True, stdout=subprocess.PIPE, universal_newlines=True)
-print('More details:', o.stdout)
-
-#Find all sub depts generating income
-o=subprocess.run(r"grep -Po '\[\d\d\d\d\]' "+ shlex.quote(o.stdout.strip()) +" | sort | uniq" ,shell=True, stdout=subprocess.PIPE, universal_newlines=True)
-#print(o.stdout)
-depts=o.stdout.replace('[','').replace(']','').split('\n')[:-1]
-if True:
-	d=dept_map[dept_map[0] == int(depts[0][:2])]
-	subdepts=[]
-	for dept in depts:
-		if dept:
-			subdept=dept[2:]
-			if subdept.startswith('0'):
-				subdept=subdept[1]
-		else:
-			continue
-		subdepts.append(subdept)
-	print('\033[96mIncome by SubDepts\033[0m')
-	print(",".join(d[d[1].isin(subdepts)][2].values.tolist()))
+except FileNotFoundError as e:
+	# todo: derive and check if rev code exists from whatever code that has been passed. 
+	# check in rev dir cag dir and hist csv files
+	print('Income data not found or No income reported') 
+	pass
 
 print('')
 print('\033[4m--Expenditure day to day (revex)\033[0m')
@@ -124,10 +141,6 @@ o=subprocess.run(r"grep -Ir '^"+capex_head+"' data/expenditure --exclude-dir tmp
 #print("\t".join(['2018','2019 Estimate','2019 revised','2020']))
 d,v=parseResults(o)
 pp(d,v)
-# maxlen = len(max(d, key=len))
-# for i in zip(d,v):
-# 	print(i[0].title().rjust(maxlen," "),
-# 		'\033[92m'+i[1]+'\033[0m', sep=' ')
 
 print('\n\033[4m--Loans\033[0m')
 o=subprocess.run(r"grep -Ir '^"+loan_head+"' data/expenditure --exclude-dir=tmp",shell=True, stdout=subprocess.PIPE, universal_newlines=True)
