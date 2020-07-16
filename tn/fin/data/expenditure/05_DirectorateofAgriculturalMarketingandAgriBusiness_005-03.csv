@@ -196,8 +196,7 @@ AI,Strengthening of Farmers Market under NABARD (AIMF) Assistance,,,,,2435 01 10
 AI,Total AI,,,2,,
 #State's Expenditure Total,"1,18,70,35","1,96,06,62","1,89,39,58","1,15,88,39",,
 #Externally Aided Projects,,,,,,
-PE,Improving farmer access to markets and promoting enterprises for Tank and Non-Tank Irrigation under,,,,,,
-Tamil Nadu Irrigated, Agriculture Modernisation Project-II (TNIAM-II),,,,,2435 01 101 PE 30000,
+PE,Improving farmer access to markets and promoting enterprises for Tank and Non-Tank Irrigation under Tamil Nadu Irrigated, Agriculture Modernisation Project-II (TNIAM-II),,,,,2435 01 101 PE 30000,
 305,Office Expenses,,"13,10","25,01","15,01",2435 01 101 PE 30500
 01,Telephone Charges,,"1,10",1,1,2435 01 101 PE 30501
 02,Other Contingencies,,"12,00","25,00","15,00",2435 01 101 PE 30502
@@ -219,14 +218,14 @@ Tamil Nadu Irrigated, Agriculture Modernisation Project-II (TNIAM-II),,,,,2435 0
 376,Computer and Accessories,,"54,00",1,1,2435 01 101 PE 37600
 01,Purchase,,"54,00",1,1,2435 01 101 PE 37601
 PE,Total PE,"1,00,00","23,64,77","12,20,53","39,54,55",
-Externally Aided Project,,,,,,
+#Externally Aided Project,,,,,,
 Total,"1,00,00","23,64,77","12,20,53","39,54,55",,
-Central Sector Schemes,,,,,,
+#Central Sector Schemes,,,,,,
 SG,Implementation Scheme of Sub Mission on Seeds and Planting Materials,,,,,2435 01 101 SG 30000,
 309,Grants-in-Aid,"12,30,00",1,"17,70,00",1,2435 01 101 SG 30900
 03,Grants for Specific Schemes,"12,30,00",1,"17,70,00",1,2435 01 101 SG 30903
 SG,Total SG,"12,30,00",1,"17,70,00",1,
-Central Sector Schemes,,,,,,
+#Central Sector Schemes,,,,,,
 Total,"12,30,00",1,"17,70,00",1,,
 101,Total 101,"1,32,00,35","2,19,71,40","2,19,30,11","1,55,42,95",
 102,Grading and quality control facilities,,,,,
@@ -341,7 +340,7 @@ PB,Establishment of Project Cell under Tamil Nadu Irrigated Agriculture Modernis
 01,Purchase,"5,00",1,60,"1,10",2435 01 800 PB 37601
 02,Maintenance,,"1,10","1,10",1,2435 01 800 PB 37602
 PB,Total PB,"35,87","6,44,67","3,27,70","8,55,00",
-Externally Aided Project,,,,,,
+#Externally Aided Project,,,,,,
 Total,"35,87","6,44,67","3,27,70","8,55,00",,
 #Schemes shared between State and Centre,,,,,,
 UA,National Agriculture Development Programme - (NADP RKVY) - Department of Agricultural Marketing and Agri. Business,,,,,2435 01 800 UA 30000,
@@ -350,7 +349,7 @@ UA,National Agriculture Development Programme - (NADP RKVY) - Department of Agri
 333,Payments for Professional and Special Services,"7,20,85","7,20,85","13,01,50","13,01,50",2435 01 800 UA 33300
 03,Special Service,"7,20,85","7,20,85","13,01,50","13,01,50",2435 01 800 UA 33303
 UA,Total UA,"7,88,65","7,88,65","16,61,75","16,61,75",
-Schemes shared between,,,,,,
+#Schemes shared between Center and State,,,,,,
 800,Total 800,"8,24,52","14,33,34","19,89,47","25,16,75",
 01,Total 01,"1,47,40,31","2,41,11,47","2,49,62,02","1,91,05,70",
 2435,Total 2435,"1,47,40,31","2,41,11,47","2,49,62,02","1,91,05,70",

@@ -82,8 +82,7 @@ AB,Agriculture Department - Regional and District Staff,,,,,2401 00 001 AB 30000
 304,Travel Expenses,"4,79","17,94","15,43","15,39",2401 00 001 AB 30400
 01,Tour Travelling Allowances,"4,77","17,83","15,18","15,11",2401 00 001 AB 30401
 02,Transfer Travelling Allowances,2,6,20,23,2401 00 001 AB 30402
-03,Fixed Travelling,,5,5,5,2401 00 001 AB 30403
-Allowances,,,,,,
+03,Fixed Travelling Allowances,,5,5,5,2401 00 001 AB 30403
 305,Office Expenses,"2,32","4,18","4,18","3,89",2401 00 001 AB 30500
 01,Telephone Charges,17,32,32,32,2401 00 001 AB 30501
 02,Other Contingencies,99,"1,02","1,02",67,2401 00 001 AB 30502
@@ -162,8 +161,7 @@ AA,Establishment of State Seed farms,,,,,2401 00 103 AA 30000
 304,Travel Expenses,"3,04","9,25","9,96","10,31",2401 00 103 AA 30400
 01,Tour Travelling Allowances,"2,80","9,13","9,76","10,10",2401 00 103 AA 30401
 02,Transfer Travelling Allowances,15,4,12,13,2401 00 103 AA 30402
-03,Fixed Travelling,9,8,8,8,2401 00 103 AA 30403
-Allowances,,,,,,
+03,Fixed Travelling Allowances,9,8,8,8,2401 00 103 AA 30403
 305,Office Expenses,"14,45","24,53","27,89","29,13",2401 00 103 AA 30500
 02,Other Contingencies,"3,91","3,10","3,10","3,30",2401 00 103 AA 30502
 03,Electricity Charges,"10,42","21,38","24,74","25,78",2401 00 103 AA 30503
@@ -184,10 +182,8 @@ Allowances,,,,,,
 02,Festival Advances-Credit,"- 1,15","- 3,90","- 6,90","- 7,10",2401 00 103 AA 34902
 359,Prizes and Awards,2,12,12,12,2401 00 103 AA 35900
 01,Prizes and Awards,2,12,12,12,2401 00 103 AA 35901
-369,Procurement of,,1,1,1,2401 00 103 AA 36900
-Agricultural Inputs,,,,,,
-01,Procurement of,,1,1,1,2401 00 103 AA 36901
-Agricultural Inputs,,,,,,
+369,Procurement of Agricultural Inputs,,1,1,1,2401 00 103 AA 36900
+01,Procurement of Agricultural Inputs,,1,1,1,2401 00 103 AA 36901
 373,Transport Charges,1,2,2,3,2401 00 103 AA 37300
 01,Transport Charges,1,2,2,3,2401 00 103 AA 37301
 376,Computer and Accessories,37,37,62,62,2401 00 103 AA 37600
@@ -225,10 +221,8 @@ AC,Multiplication and Distribution of Pulses Seeds,,,,,2401 00 103 AC 30000
 02,Other Compensations  - Voted,,1,1,1,2401 00 103 AC 35102
 359,Prizes and Awards,,1,2,2,2401 00 103 AC 35900
 01,Prizes and Awards,,1,2,2,2401 00 103 AC 35901
-369,Procurement of,,1,1,1,2401 00 103 AC 36900
-Agricultural Inputs,,,,,,
-01,Procurement of,,1,1,1,2401 00 103 AC 36901
-Agricultural Inputs,,,,,,
+369,Procurement of Agricultural Inputs,,1,1,1,2401 00 103 AC 36900
+01,Procurement of Agricultural Inputs,,1,1,1,2401 00 103 AC 36901
 373,Transport Charges,,1,,,2401 00 103 AC 37300
 01,Transport Charges,,1,,,2401 00 103 AC 37301
 AC,Total AC,"86,28","49,34","70,26","1,06,06",
@@ -300,8 +294,7 @@ AF,Establishment of Foundation Seed Farm for oilseeds,,,,,2401 00 103 AF 30000
 304,Travel Expenses,"4,66","12,87","13,49","13,85",2401 00 103 AF 30400
 01,Tour Travelling Allowances,"3,82","11,41","12,03","12,39",2401 00 103 AF 30401
 02,Transfer Travelling Allowances,4,5,5,5,2401 00 103 AF 30402
-03,Fixed Travelling,80,"1,41","1,41","1,41",2401 00 103 AF 30403
-Allowances,,,,,,
+03,Fixed Travelling Allowances,80,"1,41","1,41","1,41",2401 00 103 AF 30403
 305,Office Expenses,"1,33","2,95","2,63","2,84",2401 00 103 AF 30500
 01,Telephone Charges,,5,5,5,2401 00 103 AF 30501
 02,Other Contingencies,84,90,90,"1,04",2401 00 103 AF 30502
@@ -323,10 +316,8 @@ Allowances,,,,,,
 02,Festival Advances-Credit,"- 1,34","- 4,85","- 7,80","- 7,80",2401 00 103 AF 34902
 359,Prizes and Awards,,18,20,20,2401 00 103 AF 35900
 01,Prizes and Awards,,18,20,20,2401 00 103 AF 35901
-369,Procurement of,,1,1,1,2401 00 103 AF 36900
-Agricultural Inputs,,,,,,
-01,Procurement of,,1,1,1,2401 00 103 AF 36901
-Agricultural Inputs,,,,,,
+369,Procurement of Agricultural Inputs,,1,1,1,2401 00 103 AF 36900
+01,Procurement of Agricultural Inputs,,1,1,1,2401 00 103 AF 36901
 373,Transport Charges,,1,1,1,2401 00 103 AF 37300
 01,Transport Charges,,1,1,1,2401 00 103 AF 37301
 376,Computer and Accessories,2,2,6,6,2401 00 103 AF 37600
@@ -346,8 +337,7 @@ AH,Production and Distribution of Quality coconut seedlings and Renovation of co
 304,Travel Expenses,96,"2,77","2,55","2,71",2401 00 103 AH 30400
 01,Tour Travelling Allowances,60,"1,76","1,54","1,70",2401 00 103 AH 30401
 02,Transfer Travelling Allowances,,3,3,3,2401 00 103 AH 30402
-03,Fixed Travelling,36,98,98,98,2401 00 103 AH 30403
-Allowances,,,,,,
+03,Fixed Travelling Allowances,36,98,98,98,2401 00 103 AH 30403
 305,Office Expenses,4,4,4,5,2401 00 103 AH 30500
 02,Other Contingencies,2,2,2,3,2401 00 103 AH 30502
 04,Service Postage & Postal Expenditure,2,2,2,2,2401 00 103 AH 30504
@@ -431,8 +421,7 @@ AN,Establishment of seed centres for procurement and distribution of seeds,,,,,2
 304,Travel Expenses,"1,56,61","2,21,48","2,38,88","2,45,51",2401 00 103 AN 30400
 01,Tour Travelling Allowances,"1,14,66","1,81,01","1,98,17","2,04,75",2401 00 103 AN 30401
 02,Transfer Travelling Allowances,"2,63","1,27","1,51","1,56",2401 00 103 AN 30402
-03,Fixed Travelling,"39,32","39,20","39,20","39,20",2401 00 103 AN 30403
-Allowances,,,,,,
+03,Fixed Travelling Allowances,"39,32","39,20","39,20","39,20",2401 00 103 AN 30403
 305,Office Expenses,"15,27","21,33","28,31","29,12",2401 00 103 AN 30500
 01,Telephone Charges,33,"1,70","1,92","1,91",2401 00 103 AN 30501
 02,Other Contingencies,"5,05","5,00","6,07","6,06",2401 00 103 AN 30502
@@ -482,18 +471,17 @@ KW,Tamil Nadu Seed Development Agency,,,,,2401 00 103 KW 30000
 03,Grants for Specific Schemes,,1,1,1,2401 00 103 KW 30903
 KW,Total KW,1,1,1,,
 #State's Expenditure Total,"89,92,76","59,45,05","94,50,97","99,03,18",,
-Central Sector Schemes,,,,,,
+#Central Sector Schemes,,,,,,
 ST,Creation of seed Infrastructure facilities of Sub-Mission on Seeds and Planting Material (SMSP),,,,,2401 00 103 ST 30000
 319,Machinery and Equipments,,,"75,60","80,00",2401 00 103 ST 31900
 01,Purchase,,,"75,60","80,00",2401 00 103 ST 31901
 ST,Total ST,,"75,60","80,00",,
-Central Sector Schemes,,,,,,
+#Central Sector Schemes,,,,,,
 Total,,,"75,60","80,00",,
 103,Total 103,"89,92,76","59,45,05","95,26,57","99,83,18",
 104,Agricultural Farms,,,,,
 #State's Expenditure,,,,,,
-"AF
-Integrated Farming",,,,,2401 00 104 AF 30000,
+AF,Integrated Farming,,,,,2401 00 104 AF 30000
 311,Subsidies,,"1,01,62,00",1,1,2401 00 104 AF 31100
 01,Individual Based Subsidy,,"1,01,62,00",1,1,2401 00 104 AF 31101
 AF,Total AF,"1,01,62,00",1,1,,
@@ -540,10 +528,8 @@ AA,Compost Development including Local Manurial Resources - Controlled by Direct
 349,Festival Advances,- 1,,,,2401 00 105 AA 34900
 01,Festival Advances-Debit,,50,70,70,2401 00 105 AA 34901
 02,Festival Advances-Credit,- 1,- 50,- 70,- 70,2401 00 105 AA 34902
-369,Procurement of,21,16,30,30,2401 00 105 AA 36900
-Agricultural Inputs,,,,,,
-01,Procurement of,21,16,30,30,2401 00 105 AA 36901
-Agricultural Inputs,,,,,,
+369,Procurement of Agricultural Inputs,21,16,30,30,2401 00 105 AA 36900
+01,Procurement of Agricultural Inputs,21,16,30,30,2401 00 105 AA 36901
 376,Computer and Accessories,13,6,22,22,2401 00 105 AA 37600
 02,Maintenance,,,8,8,2401 00 105 AA 37602
 03,Stationery,13,6,14,14,2401 00 105 AA 37603
@@ -604,10 +590,8 @@ AA,Crop and plant protection,,,,,2401 00 107 AA 30000
 349,Festival Advances,2,,,,2401 00 107 AA 34900
 01,Festival Advances-Debit,30,85,"1,20","1,30",2401 00 107 AA 34901
 02,Festival Advances-Credit,- 28,- 85,"- 1,20","- 1,30",2401 00 107 AA 34902
-369,Procurement of,"91,16","78,54","40,24,50","1,25,00",2401 00 107 AA 36900
-Agricultural Inputs,,,,,,
-01,Procurement of,"91,16","78,54","40,24,50","1,25,00",2401 00 107 AA 36901
-Agricultural Inputs,,,,,,
+369,Procurement of Agricultural Inputs,"91,16","78,54","40,24,50","1,25,00",2401 00 107 AA 36900
+01,Procurement of Agricultural Inputs,"91,16","78,54","40,24,50","1,25,00",2401 00 107 AA 36901
 373,Transport Charges,"5,73","6,00","11,21","13,70",2401 00 107 AA 37300
 01,Transport Charges,"5,73","6,00","11,21","13,70",2401 00 107 AA 37301
 376,Computer and Accessories,,,5,5,2401 00 107 AA 37600
@@ -657,10 +641,8 @@ AB,Pesticides Testing Laboratories,,,,,2401 00 107 AB 30000
 02,Festival Advances-Credit,"- 1,38","- 3,50","- 5,30","- 5,80",2401 00 107 AB 34902
 359,Prizes and Awards,,1,,,2401 00 107 AB 35900
 01,Prizes and Awards,,1,,,2401 00 107 AB 35901
-369,Procurement of,"4,06","5,43","7,03","7,03",2401 00 107 AB 36900
-Agricultural Inputs,,,,,,
-01,Procurement of,"4,06","5,43","7,03","7,03",2401 00 107 AB 36901
-Agricultural Inputs,,,,,,
+369,Procurement of Agricultural Inputs,"4,06","5,43","7,03","7,03",2401 00 107 AB 36900
+01,Procurement of Agricultural Inputs,"4,06","5,43","7,03","7,03",2401 00 107 AB 36901
 373,Transport Charges,"1,63","4,00","3,88","3,38",2401 00 107 AB 37300
 01,Transport Charges,"1,63","4,00","3,88","3,38",2401 00 107 AB 37301
 376,Computer and Accessories,"1,77","1,10","2,62","2,62",2401 00 107 AB 37600
@@ -682,8 +664,7 @@ AC,Parasite Breeding stations,,,,,2401 00 107 AC 30000
 304,Travel Expenses,46,"1,58","1,46","1,49",2401 00 107 AC 30400
 01,Tour Travelling Allowances,35,"1,46","1,34","1,37",2401 00 107 AC 30401
 02,Transfer Travelling Allowances,,1,1,1,2401 00 107 AC 30402
-03,Fixed Travelling,11,11,11,11,2401 00 107 AC 30403
-Allowances,,,,,,
+03,Fixed Travelling Allowances,11,11,11,11,2401 00 107 AC 30403
 305,Office Expenses,"1,12","1,27","1,30",88,2401 00 107 AC 30500
 02,Other Contingencies,92,96,96,52,2401 00 107 AC 30502
 03,Electricity Charges,20,31,34,36,2401 00 107 AC 30503
@@ -705,16 +686,12 @@ JA,Crop and plant protection,,,,,2401 00 107 JA 30000
 01,Pleaders Fees,,,1,1,2401 00 107 JA 33301
 JA,Total JA,,,1,1,
 KB,Promotion of Organic farming through intensification of Bio-pesticide production - Scheme under State Innovation Fund.,,,,,2401 00 107 KB 30000
-369,Procurement of,,1,1,1,2401 00 107 KB 36900
-Agricultural Inputs,,,,,,
-01,Procurement of,,1,1,1,2401 00 107 KB 36901
-Agricultural Inputs,,,,,,
+369,Procurement of Agricultural Inputs,,1,1,1,2401 00 107 KB 36900
+01,Procurement of Agricultural Inputs,,1,1,1,2401 00 107 KB 36901
 KB,Total KB,,1,1,1,
 KC,Controlling of Fall Armyworms,,,,,2401 00 107 KC 30000
-369,Procurement of,,,,"20,00,00",2401 00 107 KC 36900
-Agricultural Inputs,,,,,,
-01,Procurement of,,,,"20,00,00",2401 00 107 KC 36901
-Agricultural Inputs,,,,,,
+369,Procurement of Agricultural Inputs,,,,"20,00,00",2401 00 107 KC 36900
+01,Procurement of Agricultural Inputs,,,,"20,00,00",2401 00 107 KC 36901
 KC,Total KC,,,"20,00,00",,
 #State's Expenditure Total,"8,97,20","6,39,97","56,34,84","29,42,01",,
 107,Total 107,"8,97,20","6,39,97","56,34,84","29,42,01",
@@ -747,10 +724,8 @@ AA,Sugarcane Development,,,,,2401 00 108 AA 30000
 349,Festival Advances,- 3,,,,2401 00 108 AA 34900
 01,Festival Advances-Debit,5,50,80,80,2401 00 108 AA 34901
 02,Festival Advances-Credit,- 8,- 50,- 80,- 80,2401 00 108 AA 34902
-369,Procurement of,"2,07","2,26","3,75","3,75",2401 00 108 AA 36900
-Agricultural Inputs,,,,,,
-01,Procurement of,"2,07","2,26","3,75","3,75",2401 00 108 AA 36901
-Agricultural Inputs,,,,,,
+369,Procurement of Agricultural Inputs,"2,07","2,26","3,75","3,75",2401 00 108 AA 36900
+01,Procurement of Agricultural Inputs,"2,07","2,26","3,75","3,75",2401 00 108 AA 36901
 AA,Total AA,"27,37","28,15","33,42","32,90",
 AB,Increasing the production of Oil Seeds,,,,,2401 00 108 AB 30000
 301,Salaries,"8,46","14,33","11,99","11,38",2401 00 108 AB 30100
@@ -795,10 +770,8 @@ AD,Development of Cotton Cultivation,,,,,2401 00 108 AD 30000
 02,Festival Advances-Credit,- 8,- 25,- 50,- 70,2401 00 108 AD 34902
 359,Prizes and Awards,,6,6,10,2401 00 108 AD 35900
 01,Prizes and Awards,,6,6,10,2401 00 108 AD 35901
-369,Procurement of,,1,1,1,2401 00 108 AD 36900
-Agricultural Inputs,,,,,,
-01,Procurement of,,1,1,1,2401 00 108 AD 36901
-Agricultural Inputs,,,,,,
+369,Procurement of Agricultural Inputs,,1,1,1,2401 00 108 AD 36900
+01,Procurement of Agricultural Inputs,,1,1,1,2401 00 108 AD 36901
 373,Transport Charges,,11,11,9,2401 00 108 AD 37300
 01,Transport Charges,,11,11,9,2401 00 108 AD 37301
 AD,Total AD,"34,29","28,42","25,93","25,05",
@@ -824,10 +797,8 @@ AG,Integrated Coconut Development Programme,,,,,2401 00 108 AG 30000
 01,Pleaders Fees,,5,5,1,2401 00 108 AG 33301
 347,Stores and Equipments,8,8,8,4,2401 00 108 AG 34700
 01,Stores - Voted,8,8,8,4,2401 00 108 AG 34701
-369,Procurement of,,1,1,1,2401 00 108 AG 36900
-Agricultural Inputs,,,,,,
-01,Procurement of,,1,1,1,2401 00 108 AG 36901
-Agricultural Inputs,,,,,,
+369,Procurement of Agricultural Inputs,,1,1,1,2401 00 108 AG 36900
+01,Procurement of Agricultural Inputs,,1,1,1,2401 00 108 AG 36901
 373,Transport Charges,,1,1,2,2401 00 108 AG 37300
 01,Transport Charges,,1,1,2,2401 00 108 AG 37301
 AG,Total AG,"4,69","5,21","7,41","6,69",
@@ -856,8 +827,7 @@ AX,Establishment of extension wing of TANCOF,,,,,2401 00 108 AX 30000
 01,Dearness Allowance,"45,13","39,96","48,17","49,77",2401 00 108 AX 30301
 304,Travel Expenses,"2,36","4,54","3,95","4,02",2401 00 108 AX 30400
 01,Tour Travelling Allowances,"2,12","3,90","3,31","3,38",2401 00 108 AX 30401
-03,Fixed Travelling,24,64,64,64,2401 00 108 AX 30403
-Allowances,,,,,,
+03,Fixed Travelling Allowances,24,64,64,64,2401 00 108 AX 30403
 305,Office Expenses,86,80,74,60,2401 00 108 AX 30500
 01,Telephone Charges,7,15,9,9,2401 00 108 AX 30501
 02,Other Contingencies,56,38,38,24,2401 00 108 AX 30502
@@ -887,10 +857,8 @@ Allowances,,,,,,
 03,Stationery,13,13,13,12,2401 00 108 AX 37603
 AX,Total AX,"4,12,50","3,82,48","3,62,10","3,48,50",
 KV,Agriculture Package for Rejuvenation of Coconut gardens affected by cyclone THANE,,,,,2401 00 108 KV 30000
-369,Procurement of,,1,1,1,2401 00 108 KV 36900
-Agricultural Inputs,,,,,,
-01,Procurement of,,1,1,1,2401 00 108 KV 36901
-Agricultural Inputs,,,,,,
+369,Procurement of Agricultural Inputs,,1,1,1,2401 00 108 KV 36900
+01,Procurement of Agricultural Inputs,,1,1,1,2401 00 108 KV 36901
 KV,Total KV,1,1,1,,
 KZ,Tamil Nadu Cotton Cultivation Mission,,,,,2401 00 108 KZ 30000
 309,Grants-in-Aid,"5,34,94","11,00,00","11,00,00","11,00,00",2401 00 108 KZ 30900
@@ -929,10 +897,8 @@ UD,Production and Distribution of dwarf and tall hybrid coconut seedlings,,,,,24
 349,Festival Advances,,,,,
 01,Festival Advances-Debit,,12,,,2401 00 108 UD 34901
 02,Festival Advances-Credit,,- 12,,,2401 00 108 UD 34902
-369,Procurement of,"49,67","50,00","1,87,20","1,35,00",2401 00 108 UD 36900
-Agricultural Inputs,,,,,,
-01,Procurement of,"49,67","50,00","1,87,20","1,35,00",2401 00 108 UD 36901
-Agricultural Inputs,,,,,,
+369,Procurement of Agricultural Inputs,"49,67","50,00","1,87,20","1,35,00",2401 00 108 UD 36900
+01,Procurement of Agricultural Inputs,"49,67","50,00","1,87,20","1,35,00",2401 00 108 UD 36901
 373,Transport Charges,"6,77","7,44","41,60","29,98",2401 00 108 UD 37300
 01,Transport Charges,"6,77","7,44","41,60","29,98",2401 00 108 UD 37301
 UD,Total UD,"1,25,03","1,26,73","4,16,09","3,00,07",
@@ -987,8 +953,7 @@ AB,Agricultural Extension Centres,,,,,2401 00 109 AB 30000
 304,Travel Expenses,"42,83","77,90","84,93","87,62",2401 00 109 AB 30400
 01,Tour Travelling Allowances,"40,99","76,84","83,82","86,46",2401 00 109 AB 30401
 02,Transfer Travelling Allowances,"1,46",84,89,94,2401 00 109 AB 30402
-03,Fixed Travelling,38,22,22,22,2401 00 109 AB 30403
-Allowances,,,,,,
+03,Fixed Travelling Allowances,38,22,22,22,2401 00 109 AB 30403
 305,Office Expenses,"71,72","1,10,84","1,24,50","1,35,71",2401 00 109 AB 30500
 01,Telephone Charges,"4,32","20,83","20,56","20,36",2401 00 109 AB 30501
 02,Other Contingencies,"13,62","14,68","14,68","22,57",2401 00 109 AB 30502
@@ -1117,8 +1082,7 @@ AK,Training and Visits,,,,,2401 00 109 AK 30000
 304,Travel Expenses,"4,66,93","6,25,75","6,32,56","6,21,93",2401 00 109 AK 30400
 01,Tour Travelling Allowances,"3,42,03","5,06,14","5,12,56","5,01,73",2401 00 109 AK 30401
 02,Transfer Travelling Allowances,"16,47","5,48","5,87","6,07",2401 00 109 AK 30402
-03,Fixed Travelling,"1,08,43","1,14,13","1,14,13","1,14,13",2401 00 109 AK 30403
-Allowances,,,,,,
+03,Fixed Travelling Allowances,"1,08,43","1,14,13","1,14,13","1,14,13",2401 00 109 AK 30403
 305,Office Expenses,"1,67,06","2,31,29","2,40,70","2,49,79",2401 00 109 AK 30500
 01,Telephone Charges,"8,11","19,98","19,78","19,96",2401 00 109 AK 30501
 02,Other Contingencies,"35,38","38,05","40,83","35,52",2401 00 109 AK 30502
@@ -1160,10 +1124,8 @@ Allowances,,,,,,
 02,Other Compensations  - Charged,"7,79",1,"53,05",11,2401 00 109 AK 35102
 359,Prizes and Awards,90,"2,86","3,00","2,94",2401 00 109 AK 35900
 01,Prizes and Awards,90,"2,86","3,00","2,94",2401 00 109 AK 35901
-369,Procurement of,,,1,1,2401 00 109 AK 36900
-Agricultural Inputs,,,,,,
-01,Procurement of,,,1,1,2401 00 109 AK 36901
-Agricultural Inputs,,,,,,
+369,Procurement of Agricultural Inputs,,,1,1,2401 00 109 AK 36900
+01,Procurement of Agricultural Inputs,,,1,1,2401 00 109 AK 36901
 372,Training,"44,72","41,89","41,88","41,88",2401 00 109 AK 37200
 01,Training,"44,72","41,89","41,88","41,88",2401 00 109 AK 37201
 373,Transport Charges,"1,06","1,30","1,30","1,82",2401 00 109 AK 37300
@@ -1176,9 +1138,8 @@ Charged,"7,79",1,"53,05",11,,
 Voted,"2,32,69,05","1,90,44,42","2,14,11,71","2,22,87,06",,
 KI,"Special Award to the Farmer who obtains highest productivity in Paddy under SRI method of Cultivation,,,,,2401 00 109 KI 30000
 304,Travel Expenses,5,10,10,10,2401 00 109 KI 30400
-01,Tour Travelling""",5,10,10,10,2401 00 109 KI 30401
-Allowances,,,,,,
-359,Prizes and Awards,"5,05","5,05","3,07","5,05",2401 00 109 KI 35900
+01,Tour Travelling Allowances,5,10,10,10,2401 00 109 KI 30401
+359,Prizes and Awards,5","05""","5,05","3,07","5,05",2401 00 109 KI 35900
 01,Prizes and Awards,"5,05","5,05","3,07","5,05",2401 00 109 KI 35901
 KI,Total KI,"5,10","5,15","3,17","5,15",
 #State's Expenditure Total,,,,,,
@@ -1206,10 +1167,8 @@ PG,Improved Crop Productivity for Tank and Non-Tank Irrigation under Tamil Nadu 
 03,Special Service,,1,1,1,2401 00 109 PG 33303
 359,Prizes and Awards,"1,33",1,1,1,2401 00 109 PG 35900
 01,Prizes and Awards,"1,33",1,1,1,2401 00 109 PG 35901
-369,Procurement of,"4,99,26","1,00,00","9,95,81","14,76,36",2401 00 109 PG 36900
-Agricultural Inputs,,,,,,
-01,Procurement of,"4,99,26","1,00,00","9,95,81","14,76,36",2401 00 109 PG 36901
-Agricultural Inputs,,,,,,
+369,Procurement of Agricultural Inputs,"4,99,26","1,00,00","9,95,81","14,76,36",2401 00 109 PG 36900
+01,Procurement of Agricultural Inputs,"4,99,26","1,00,00","9,95,81","14,76,36",2401 00 109 PG 36901
 372,Training,"1,29,40","1,44,30","2,74,67","3,14,66",2401 00 109 PG 37200
 01,Training,"1,29,40","1,44,30","2,74,67","3,14,66",2401 00 109 PG 37201
 376,Computer and Accessories,,1,1,1,2401 00 109 PG 37600
@@ -1242,12 +1201,7 @@ JI,National Agricultutal Insurance Scheme,,,,,2401 00 110 JI 30000
 351,Compensation,,"60,00","60,00","10,00",2401 00 110 JI 35100
 02,Other Compensations  - Voted,,"60,00","60,00","10,00",2401 00 110 JI 35102
 JI,Total JI,"60,00","60,00","10,00",,
-"JJ
-State's Share towards",,,,,,
-Premium Subsidy under,,,,,,
-Pradhan Mantri Fasal Bima,,,,,,
-Yojana (PMFBY) for,,,,,,
-Agriculture Crops,,,,,2401 00 110 JJ 30000,
+JJ,State's Share towards Premium Subsidy under Pradhan Mantri Fasal Bima Yojana (PMFBY) for Agriculture Crops,,,,,2401 00 110 JJ 30000
 304,Travel Expenses,,,"7,50","6,83",2401 00 110 JJ 30400
 01,Tour Travelling Allowances,,,"7,50","6,83",2401 00 110 JJ 30401
 305,Office Expenses,"56,89",91,"80,00","80,00",2401 00 110 JJ 30500
@@ -1284,7 +1238,7 @@ JB,Market Intervention Scheme for Procurement of Oil Palm Fresh Fruit Bunches.,,
 01,Individual Based Subsidy,,,"1,30,35","1,00,00",2401 00 114 JB 31101
 JB,Total JB,,,"1,30,35","1,00,00",
 #State's Expenditure Total,,,,"1,30,35","1,00,00",
-#Central Sector Schemes,,,,,,
+##Central Sector Schemes,,,,,,
 SB,Integrated Farming in Coconut holding for Productivity improvement,,,,,2401 00 114 SB 30000
 311,Subsidies,"48,27","1,40,00","54,69","1,40,00",2401 00 114 SB 31100
 01,Individual Based Subsidy,"48,27","1,40,00","54,69","1,40,00",2401 00 114 SB 31101
@@ -1297,7 +1251,7 @@ SC,Replanting and Rejuvenation of Coconut Gardens,,,,,2401 00 114 SC 30000
 372,Training,,,"20,00",1,2401 00 114 SC 37200
 01,Training,,,"20,00",1,2401 00 114 SC 37201
 SC,Total SC,"14,01,82","16,00,00","74,64,15","16,00,01",
-#Central Sector Schemes,,,,,,
+##Central Sector Schemes,,,,,,
 #Total,,"14,50,09","17,40,00","75,18,84","17,40,02",
 #Schemes shared between State and Centre,,,,,,
 UB,Oilseeds Production Programme under National Food Security Mission (NFSM) - Oilseeds and Oil Palm,,,,,2401 00 114 UB 30000
@@ -1345,10 +1299,8 @@ KM,Total KM,"75,66,67","75,06,40","75,18,86","75,00,00",
 JC,Crop and plant protection,,,,,2401 00 789 JC 30000
 324,Materials and Supplies,"6,69","4,51","7,45","8,20",2401 00 789 JC 32400
 01,Materials and Supplies,"6,69","4,51","7,45","8,20",2401 00 789 JC 32401
-369,Procurement of,53,"1,25","1,25","1,25",2401 00 789 JC 36900
-Agricultural Inputs,,,,,,
-01,Procurement of,53,"1,25","1,25","1,25",2401 00 789 JC 36901
-Agricultural Inputs,,,,,,
+369,Procurement of Agricultural Inputs,53,"1,25","1,25","1,25",2401 00 789 JC 36900
+01,Procurement of Agricultural Inputs,53,"1,25","1,25","1,25",2401 00 789 JC 36901
 373,Transport Charges,"5,08","5,74","5,74","5,33",2401 00 789 JC 37300
 01,Transport Charges,"5,08","5,74","5,74","5,33",2401 00 789 JC 37301
 JC,Total JC,"12,30","11,50","14,44","14,78",
@@ -1514,10 +1466,7 @@ UH,National Agriculture Development Programme (NADP-RKVY) - Agriculture Departme
 319,Machinery and Equipments,60,1,"11,30","13,00",2401 00 794 UH 31900
 01,Purchase,60,1,"11,30","13,00",2401 00 794 UH 31901
 UH,Total UH,"90,62","4,38,90","1,24,74","1,44,02",
-"UI
-Production and",,,,,,
-Distribution of quality,,,,,,
-seeds,,,,,2401 00 794 UI 30000,
+UI,Production and Distribution of quality seeds,,,,,2401 00 794 UI 30000
 309,Grants-in-Aid,"45,81","75,00","75,00","75,00",2401 00 794 UI 30900
 03,Grants for Specific Schemes,"45,81","75,00","75,00","75,00",2401 00 794 UI 30903
 UI,Total UI,"45,81","75,00","75,00","75,00",
@@ -1563,8 +1512,7 @@ KL,Mission on sustainable Dry Land Farming,,,,,2401 00 800 KL 30000
 01,Training,"1,62,40",1,1,1,2401 00 800 KL 37201
 KL,Total KL,"1,83,43,38","2,24,00,04","1,88,30,04","78,00,04",
 #State's Expenditure Total,"42,80,35,39","45,25,76,65","46,99,31,05","48,14,56,11",,
-Externally Aided,,,,,,
-Projects,,,,,,
+#Externally Aided Projects,,,,,,
 PE,Tamil Nadu Irrigated Agriculture Modernisation Project-II Project Cell,,,,,2401 00 800 PE 30000
 304,Travel Expenses,,1,1,1,2401 00 800 PE 30400
 01,Tour Travelling Allowances,,1,1,1,2401 00 800 PE 30401
@@ -1585,10 +1533,8 @@ PE,Tamil Nadu Irrigated Agriculture Modernisation Project-II Project Cell,,,,,24
 01,Prizes and Awards,30,30,30,30,2401 00 800 PE 35901
 360,T.A./D.A.to Non-Official Members,,,30,"1,00",2401 00 800 PE 36000
 01,T.A./D.A.to Non-Official Members,,,30,"1,00",2401 00 800 PE 36001
-369,Procurement of,,1,1,1,2401 00 800 PE 36900
-Agricultural Inputs,,,,,,
-01,Procurement of,,1,1,1,2401 00 800 PE 36901
-Agricultural Inputs,,,,,,
+369,Procurement of Agricultural Inputs,,1,1,1,2401 00 800 PE 36900
+01,Procurement of Agricultural Inputs,,1,1,1,2401 00 800 PE 36901
 372,Training,55,"1,21",50,50,2401 00 800 PE 37200
 01,Training,55,"1,21",50,50,2401 00 800 PE 37201
 376,Computer and Accessories,"4,52",1,61,81,2401 00 800 PE 37600
@@ -1620,10 +1566,8 @@ UF,National Agriculture Development Programme (NADP-RKVY) - Agriculture Departme
 01,"Petroleum, Oil and Lubricant",,1,1,1,2401 00 800 UF 34501
 359,Prizes and Awards,- 19,1,1,1,2401 00 800 UF 35900
 01,Prizes and Awards,- 19,1,1,1,2401 00 800 UF 35901
-369,Procurement of,"37,50,00",1,1,1,2401 00 800 UF 36900
-Agricultural Inputs,,,,,,
-01,Procurement of,"37,50,00",1,1,1,2401 00 800 UF 36901
-Agricultural Inputs,,,,,,
+369,Procurement of Agricultural Inputs,"37,50,00",1,1,1,2401 00 800 UF 36900
+01,Procurement of Agricultural Inputs,"37,50,00",1,1,1,2401 00 800 UF 36901
 371,Printing Charges,"- 2,32",1,1,1,2401 00 800 UF 37100
 01,Printing Charges,"- 2,32",1,1,1,2401 00 800 UF 37101
 372,Training,"- 1,92",1,"3,22","4,00",2401 00 800 UF 37200
@@ -1684,7 +1628,7 @@ LE,"Agriculture Package for Rejuvenation of Horticultural Crops affected by cycl
 02,Recoveries of Overpayments / Remittance of excess drawals,"- 9,11",,,,2401 00 911 LE 37702
 LE,Total LE,"- 9,11",,,,
 #State's Expenditure Total,"- 2,24,97",,,,,
-Central Sector Schemes,,,,,,
+#Central Sector Schemes,,,,,,
 SB,Production and Distribution of quality seeds,,,,,2401 00 911 SB 30000
 377,Deduct-Recoveries,- 76,,,,2401 00 911 SB 37700
 02,Recoveries of Overpayments / Remittance of excess drawals,- 76,,,,2401 00 911 SB 37702
@@ -1740,8 +1684,7 @@ AA,Soil Testing Laboratories,,,,,2402 00 101 AA 30000
 304,Travel Expenses,"8,32","26,03","27,83","28,64",2402 00 101 AA 30400
 01,Tour Travelling Allowances,"8,12","25,78","27,54","28,35",2402 00 101 AA 30401
 02,Transfer Travelling Allowances,12,3,7,7,2402 00 101 AA 30402
-03,Fixed Travelling,8,22,22,22,2402 00 101 AA 30403
-Allowances,,,,,,
+03,Fixed Travelling Allowances,8,22,22,22,2402 00 101 AA 30403
 305,Office Expenses,"17,39","21,05","23,86","25,66",2402 00 101 AA 30500
 01,Telephone Charges,51,37,49,52,2402 00 101 AA 30501
 02,Other Contingencies,"7,75","8,00","8,00","9,20",2402 00 101 AA 30502
@@ -1778,10 +1721,8 @@ Allowances,,,,,,
 02,Festival Advances-Credit,"- 4,90","- 14,45","- 24,80","- 25,90",2402 00 101 AA 34902
 359,Prizes and Awards,4,10,12,10,2402 00 101 AA 35900
 01,Prizes and Awards,4,10,12,10,2402 00 101 AA 35901
-369,Procurement of,"17,72","51,81","58,99","58,99",2402 00 101 AA 36900
-Agricultural Inputs,,,,,,
-01,Procurement of,"17,72","51,81","58,99","58,99",2402 00 101 AA 36901
-Agricultural Inputs,,,,,,
+369,Procurement of Agricultural Inputs,"17,72","51,81","58,99","58,99",2402 00 101 AA 36900
+01,Procurement of Agricultural Inputs,"17,72","51,81","58,99","58,99",2402 00 101 AA 36901
 371,Printing Charges,,,25,30,2402 00 101 AA 37100
 01,Printing Charges,,,25,30,2402 00 101 AA 37101
 373,Transport Charges,"1,48","3,25","3,25","4,10",2402 00 101 AA 37300
@@ -1881,10 +1822,8 @@ AE,Mobile Soil Testing Laboratories,,,,,2402 00 101 AE 30000
 02,Festival Advances-Credit,"- 1,45","- 3,40","- 6,30","- 6,60",2402 00 101 AE 34902
 359,Prizes and Awards,18,2,2,2,2402 00 101 AE 35900
 01,Prizes and Awards,18,2,2,2,2402 00 101 AE 35901
-369,Procurement of,"3,86","10,00","12,73","12,73",2402 00 101 AE 36900
-Agricultural Inputs,,,,,,
-01,Procurement of,"3,86","10,00","12,73","12,73",2402 00 101 AE 36901
-Agricultural Inputs,,,,,,
+369,Procurement of Agricultural Inputs,"3,86","10,00","12,73","12,73",2402 00 101 AE 36900
+01,Procurement of Agricultural Inputs,"3,86","10,00","12,73","12,73",2402 00 101 AE 36901
 373,Transport Charges,91,"1,20","1,20","1,22",2402 00 101 AE 37300
 01,Transport Charges,91,"1,20","1,20","1,22",2402 00 101 AE 37301
 376,Computer and Accessories,"1,34","1,06","1,58","1,59",2402 00 101 AE 37600
@@ -1971,10 +1910,8 @@ AG,Preparation and Distribution of bacterial culture packets,,,,,2402 00 101 AG 
 349,Festival Advances,2,,,,2402 00 101 AG 34900
 01,Festival Advances-Debit,90,"1,85","3,10","3,30",2402 00 101 AG 34901
 02,Festival Advances-Credit,- 88,"- 1,85","- 3,10","- 3,30",2402 00 101 AG 34902
-369,Procurement of,"7,14,37","8,01,30","8,01,30","8,23,95",2402 00 101 AG 36900
-Agricultural Inputs,,,,,,
-01,Procurement of,"7,14,37","8,01,30","8,01,30","8,23,95",2402 00 101 AG 36901
-Agricultural Inputs,,,,,,
+369,Procurement of Agricultural Inputs,"7,14,37","8,01,30","8,01,30","8,23,95",2402 00 101 AG 36900
+01,Procurement of Agricultural Inputs,"7,14,37","8,01,30","8,01,30","8,23,95",2402 00 101 AG 36901
 373,Transport Charges,"1,53,20","1,67,05","1,67,05","1,64,19",2402 00 101 AG 37300
 01,Transport Charges,"1,53,20","1,67,05","1,67,05","1,64,19",2402 00 101 AG 37301
 376,Computer and Accessories,"2,47","1,95","2,67","2,75",2402 00 101 AG 37600
@@ -1982,7 +1919,7 @@ Agricultural Inputs,,,,,,
 03,Stationery,"1,02",90,"1,37","1,41",2402 00 101 AG 37603
 AG,Total AG,"20,19,15","22,06,01","23,07,22","23,58,01",
 #State's Expenditure,,,,,,
-Schemes shared between State and Centre,,,,,,
+#Schemes shared between State and Centre,,,,,,
 UB,Soil Health Management under National Mission on Sustainable Agriculture,,,,,2402 00 101 UB 30000
 305,Office Expenses,"2,00","2,00","8,01","9,01",2402 00 101 UB 30500
 02,Other Contingencies,"2,00","2,00",1,1,2402 00 101 UB 30502
@@ -2164,10 +2101,8 @@ BE,Production and Distribution of Blue Green Algae,,,,,2415 01 004 BE 30000
 02,Festival Advances-Credit,- 1,- 5,- 10,- 10,2415 01 004 BE 34902
 359,Prizes and Awards,,6,6,6,2415 01 004 BE 35900
 01,Prizes and Awards,,6,6,6,2415 01 004 BE 35901
-369,Procurement of,"12,31","13,47","14,37","14,37",2415 01 004 BE 36900
-Agricultural Inputs,,,,,,
-01,Procurement of,"12,31","13,47","14,37","14,37",2415 01 004 BE 36901
-Agricultural Inputs,,,,,,
+369,Procurement of Agricultural Inputs,"12,31","13,47","14,37","14,37",2415 01 004 BE 36900
+01,Procurement of Agricultural Inputs,"12,31","13,47","14,37","14,37",2415 01 004 BE 36901
 372,Training,,10,10,10,2415 01 004 BE 37200
 01,Training,,10,10,10,2415 01 004 BE 37201
 373,Transport Charges,"3,23","3,25","4,00","4,48",2415 01 004 BE 37300
@@ -2199,10 +2134,8 @@ JH,Preparation and Distribution of micro-nutrient-mixture of groundnut,,,,,2415 
 01,Materials and Supplies,"78,36","80,85","1,00,00","1,00,00",2415 01 004 JH 32401
 345,"Petroleum, Oil and Lubricant",,"1,32","2,40","2,64",2415 01 004 JH 34500
 01,"Petroleum, Oil and Lubricant",,"1,32","2,40","2,64",2415 01 004 JH 34501
-369,Procurement of,"9,02,66","9,02,66","11,00,00","11,00,00",2415 01 004 JH 36900
-Agricultural Inputs,,,,,,
-01,Procurement of,"9,02,66","9,02,66","11,00,00","11,00,00",2415 01 004 JH 36901
-Agricultural Inputs,,,,,,
+369,Procurement of Agricultural Inputs,"9,02,66","9,02,66","11,00,00","11,00,00",2415 01 004 JH 36900
+01,Procurement of Agricultural Inputs,"9,02,66","9,02,66","11,00,00","11,00,00",2415 01 004 JH 36901
 373,Transport Charges,"40,93","40,13","40,13","39,91",2415 01 004 JH 37300
 01,Transport Charges,"40,93","40,13","40,13","39,91",2415 01 004 JH 37301
 JH,Total JH,"10,84,08","10,98,34","13,15,93","13,17,32",
@@ -2354,10 +2287,8 @@ AN,Quality Control Laboratory for Bio Fertilizers,,,,,2435 01 102 AN 30000
 349,Festival Advances,,,,,
 01,Festival Advances-Debit,10,10,30,30,2435 01 102 AN 34901
 02,Festival Advances-Credit,- 10,- 10,- 30,- 30,2435 01 102 AN 34902
-369,Procurement of,12,10,10,10,2435 01 102 AN 36900
-Agricultural Inputs,,,,,,
-01,Procurement of,12,10,10,10,2435 01 102 AN 36901
-Agricultural Inputs,,,,,,
+369,Procurement of Agricultural Inputs,12,10,10,10,2435 01 102 AN 36900
+01,Procurement of Agricultural Inputs,12,10,10,10,2435 01 102 AN 36901
 376,Computer and Accessories,21,17,19,13,2435 01 102 AN 37600
 02,Maintenance,7,7,7,5,2435 01 102 AN 37602
 03,Stationery,14,10,12,8,2435 01 102 AN 37603
@@ -2395,10 +2326,8 @@ AO,Establishment of Fertilizer Control Laboratory,,,,,2435 01 102 AO 30000
 349,Festival Advances,- 2,,,,2435 01 102 AO 34900
 01,Festival Advances-Debit,5,30,90,90,2435 01 102 AO 34901
 02,Festival Advances-Credit,- 7,- 30,- 90,- 90,2435 01 102 AO 34902
-369,Procurement of,"1,88","1,90","2,42","2,06",2435 01 102 AO 36900
-Agricultural Inputs,,,,,,
-01,Procurement of,"1,88","1,90","2,42","2,06",2435 01 102 AO 36901
-Agricultural Inputs,,,,,,
+369,Procurement of Agricultural Inputs,"1,88","1,90","2,42","2,06",2435 01 102 AO 36900
+01,Procurement of Agricultural Inputs,"1,88","1,90","2,42","2,06",2435 01 102 AO 36901
 376,Computer and Accessories,28,6,21,21,2435 01 102 AO 37600
 02,Maintenance,26,2,9,10,2435 01 102 AO 37602
 03,Stationery,2,4,12,11,2435 01 102 AO 37603
@@ -2446,12 +2375,12 @@ KI,Construction of Seed Godowns under NABARD (RIDF) assistance,,,,,4401 00 103 K
 01,Major Works,,,,"7,60,00",4401 00 103 KI 41601
 KI,Total KI,,,"7,60,00",,
 #State's Expenditure Total,"24,66,37",1,1,"7,60,01",,
-Central Sector Schemes,,,,,,
+#Central Sector Schemes,,,,,,
 SA,Construction of Agricultural Seed Godowns,,,,,4401 00 103 SA 40000
 416,Major Works,,1,"8,92,50","9,00,00",4401 00 103 SA 41600
 01,Major Works,,1,"8,92,50","9,00,00",4401 00 103 SA 41601
 SA,Total SA,1,"8,92,50","9,00,00",,
-Central Sector Schemes,,,,,,
+#Central Sector Schemes,,,,,,
 Total,,1,"8,92,50","9,00,00",,
 #Schemes shared between State and Centre,,,,,,
 UA,National Agriculture Development Programme (NADP/RKVY)- Agriculture Department,,,,,4401 00 103 UA 40000

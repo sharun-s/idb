@@ -85,39 +85,33 @@ AA,Contract Allowance,,,,,,2012 03 107 AA 30000
 02,Maintenance of Functional Vehicles Charged,"5,00","5,00","5,00","5,00",2012 03 107 AA 32102
 334,Other Charges Charged,"1,00",50,50,50,2012 03 107 AA 33400
 01,Other Items Charged,"1,00",50,50,50,2012 03 107 AA 33401
-345,"Petroleum, Oil and" Charged,"25,00","24,00","24,00","24,00",2012 03 107 AA 34500
-Lubricant,,,,,,
-01,"Petroleum, Oil and",,,,,,
-Lubricant Charged,"25,00","24,00","24,00","24,00",2012 03 107 AA 34501
-346,"Clothing, Tentage and" Charged,"9,00","8,00","8,00","8,00",2012 03 107 AA 34600
-Stores,,,,,,
-01,"Clothing, Tentage and",,,,,,
-Stores Charged,"9,00","8,00","8,00","8,00",2012 03 107 AA 34601
+345,"Petroleum, Oil and Lubricant Charged","25,00","24,00","24,00","24,00",2012 03 107 AA 34500
+01,"Petroleum, Oil and Lubricant Charged","25,00","24,00","24,00","24,00",2012 03 107 AA 34501
+346,"Clothing, Tentage and Stores Charged","9,00","8,00","8,00","8,00",2012 03 107 AA 34600
+01,"Clothing, Tentage and Stores Charged","9,00","8,00","8,00","8,00",2012 03 107 AA 34601
 Total AA Charged,"42,75","40,25","40,25","40,25",
-State\'s Expenditure Total Charged,"42,75","40,25","40,25","40,25",
+#State's Expenditure Total Charged,"42,75","40,25","40,25","40,25",
 Total 107 Charged,"42,75","40,25","40,25","40,25",
 108,Tour Expenses,,,,,,
-State's Expenditure,,,,,,
+#State's Expenditure,,,,,,
 AA,Tour Expenses,,,,,,2012 03 108 AA 30000
 304,Travel Expenses Charged,"67,81","50,00","50,00","50,00",2012 03 108 AA 30400
-01,"Tour Travelling",,,,,,
-Allowances Charged,"67,81","50,00","50,00","50,00",2012 03 108 AA 30401
+01,Tour Travelling Allowances Charged,"67,81","50,00","50,00","50,00",2012 03 108 AA 30401
 Total AA Charged,"67,81","50,00","50,00","50,00",
-State\'s Expenditure Total Charged,"67,81","50,00","50,00","50,00",
+#State's Expenditure Total Charged,"67,81","50,00","50,00","50,00",
 Total 108 Charged,"67,81","50,00","50,00","50,00",
 800,Other Expenditure,,,,,
-State's Expenditure,,,,,
+#State's Expenditure,,,,,
 AA,Purchase of Motor Car to the Governor,,,,,2012 03 800 AA 30000
 321,Motor Vehicles Charged,,1,1,1,2012 03 800 AA 32100
-01,"Purchase",,,,,
-Charged,,1,1,1,2012 03 800 AA 32101
-Total AA Charged,,1,1,1,
+01,Purchase Charged,,1,1,1,2012 03 800 AA 32101
+AA,Total AA Charged,,1,1,1,
 AB,Travel Expenses on Appointment and Retirement,,,,,2012 03 800 AB 30000
 304,Travel Expenses Charged,,2,2,2,2012 03 800 AB 30400
 01,Tour Travelling Allowances Charged,,2,2,2,2012 03 800 AB 30401
-Total AB Charged,,2,2,2,
-State\'s Expenditure Total Charged,,3,3,3,
-Total 800 Charged,,3,3,3,
+AB,Total AB Charged,,2,2,2,
+#State\'s Expenditure Total Charged,,3,3,3,
+800,Total 800 Charged,,3,3,3,
 911,Deduct - Recoveries of Overpayments State's Expenditure,,,,,
 AF,Household Establishment of the Governor,,,,,2012 03 911 AF 30000
 377,Deduct-Recoveries,"- 4,82",,,,2012 03 911 AF 37700
@@ -125,10 +119,10 @@ AF,Household Establishment of the Governor,,,,,2012 03 911 AF 30000
 AF,Total AF,"- 4,82",,,,
 #State\'s Expenditure Total,"- 4,82",,,,
 911,Total 911,"- 4,82",,,,
-Total 03 Charged,"8,11,89","8,77,08","8,53,52","8,97,27",
-Voted,"- 4,82",,,,
-Total 2012 Charged,"8,11,89","8,77,08","8,53,52","8,97,27",
-Voted,"- 4,82",,,,
+03,Total 03 Charged,"8,11,89","8,77,08","8,53,52","8,97,27",
+03,Total 03 Voted,"- 4,82",,,,
+2012, Total 2012 Charged,"8,11,89","8,77,08","8,53,52","8,97,27",
+2012, Total Voted,"- 4,82",,,,
 2013-00,COUNCIL OF MINISTERS,,,,,
 911,"Deduct - Recoveries of Overpayments State's Expenditure",,,,,
 AA,Deduct - Recoveries of Overpayments ,,,,,2013 00 911 AA 30000

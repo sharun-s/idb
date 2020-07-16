@@ -1,4 +1,6 @@
 #find and replace overflowing descriptions
+findoflow = r",([\"\w '\-/\.\(\)]+),{5,6}\n([\"a-z '\-/\.\(\)]+,{5,6}.*)"
+replaceoflow = r",\g<1> \g<2>"
 
 common_overflow={
 '"Clothing, Tentage and"':['Stores'],
@@ -31,7 +33,9 @@ common_overflow={
 'Scholarships and':['Stipends'],
 'Service or Commitment':['Charges'],
 'T.A./D.A.to Non-Official':['Members'],
-'Cost of Books/Note':['Books/Slates, etc.']}
+'Cost of Books/Note':['Books/Slates, etc.'],
+'Procurement of':['Agricultural Inputs'],
+'Fixed Travelling':['Allowances']}
 
 import pandas as p
 import json,csv,pprint,sys
@@ -90,4 +94,4 @@ while True:
 		break
 
 df=df.drop(dropindexes)
-df.to_csv('tmpoutput.csv',index=False)	
+df.to_csv(sys.argv[1],index=False)	
