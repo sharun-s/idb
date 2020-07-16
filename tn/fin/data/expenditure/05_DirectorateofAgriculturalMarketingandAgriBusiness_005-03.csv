@@ -340,8 +340,7 @@ PB,Establishment of Project Cell under Tamil Nadu Irrigated Agriculture Modernis
 01,Purchase,"5,00",1,60,"1,10",2435 01 800 PB 37601
 02,Maintenance,,"1,10","1,10",1,2435 01 800 PB 37602
 PB,Total PB,"35,87","6,44,67","3,27,70","8,55,00",
-#Externally Aided Project,,,,,,
-Total,"35,87","6,44,67","3,27,70","8,55,00",,
+#Externally Aided Project Total,"35,87","6,44,67","3,27,70","8,55,00",,
 #Schemes shared between State and Centre,,,,,,
 UA,National Agriculture Development Programme - (NADP RKVY) - Department of Agricultural Marketing and Agri. Business,,,,,2435 01 800 UA 30000,
 319,Machinery and Equipments,"67,80","67,80","3,60,25","3,60,25",2435 01 800 UA 31900
@@ -357,11 +356,10 @@ UA,Total UA,"7,88,65","7,88,65","16,61,75","16,61,75",
 01,Marketing and quality control,,,,,
 101,Marketing  Facilities,,,,,
 #State's Expenditure,,,,,,
-"AA Establishment of ""Amma",,,,,,
-"Green Park"" at Guindy",,,,,4435 01 101 AA 40000,
+AA,Establishment of Amma Green Park at Guindy,,,,,4435 01 101 AA 40000,
 416,Major Works,,1,,,4435 01 101 AA 41600
 01,Major Works,,1,,,4435 01 101 AA 41601
-AA,Total AA,1,,,,
+AA,Total AA,,1,,,
 AB,Strengthening of Farmers Market under NABARD (AIMF) Assistance,,,,,4435 01 101 AB 40000,
 416,Major Works,,,,"9,63,27",4435 01 101 AB 41600
 01,Major Works,,,,"9,63,27",4435 01 101 AB 41601
@@ -384,8 +382,7 @@ PE,Improving farmer access to markets and promoting enterprises for Tank and Non
 416,Major Works,"2,63,25",,1,"5,36,34",4435 01 101 PE 41600
 01,Major Works,"2,63,25",,1,"5,36,34",4435 01 101 PE 41601
 PE,Total PE,"2,63,25",,1,"5,36,34",
-#Externally Aided Project,,,,,,
-Total,"2,63,25",,1,"5,36,34",,
+#Externally Aided Project Total,"2,63,25",,1,"5,36,34",,
 #Schemes shared between State and Centre,,,,,,
 UD,Construction work under National Agriculture Development Programme (NADP - RKVY) - Department of Agricultural Marketing and Agri Business,,,,,,4435 01 101 UD 40000
 416,Major Works,"1,62,20","1,62,20","8,92,95","8,92,95",4435 01 101 UD 41600

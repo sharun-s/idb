@@ -1,7 +1,8 @@
-2014-00,ADMINISTRATION OF JUSTICE,,,,800,Other Expenditure,,,,,
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2014-00,ADMINISTRATION OF JUSTICE,,,,,
+800,Other Expenditure,,,,,
 #State's Expenditure,,,,,
-AJ,Constitution of State,,,,,
-Legal Service Authority,,,,,2014 00 800 AJ 30000
+AJ,Constitution of State Legal Service Authority,,,,,2014 00 800 AJ 30000
 301,"Salaries","10,18,50","13,77,60","16,73,68","27,91,01",2014 00 800 AJ 30100
 01,"Pay","8,62,63","9,91,72","13,00,00","23,24,49",2014 00 800 AJ 30101
 02,Medical Allowance,"9,51","11,71","16,27","18,92",2014 00 800 AJ 30102

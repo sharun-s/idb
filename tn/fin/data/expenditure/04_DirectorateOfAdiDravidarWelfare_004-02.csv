@@ -656,7 +656,7 @@ KS,Educational Assistance for Meritorious Adi-Dravidar / Tribal Students to stud
 02,Recoveries of Overpayments / Remittance of excess drawals,"- 1,53",,,,2225 01 911 KS 37702
 KS,Total KS,"- 1,53",,,,
 #State's Expenditure Total,"- 2,95,43",,,,,
-Central Sector Schemes,,,,,,
+#Central Sector Schemes,,,,,,
 SA,Educational Concessions,,,,,2225 01 911 SA 30000
 377,Deduct-Recoveries,- 75,,,,2225 01 911 SA 37700
 02,Recoveries of Overpayments / Remittance of excess drawals,- 75,,,,2225 01 911 SA 37702
@@ -745,7 +745,7 @@ UA,Assistance to the people of Scheduled Caste / Scheduled Tribe Community affec
 377,Deduct-Recoveries,"- 13,17",,,,2235 01 911 UA 37700
 02,Recoveries of Overpayments / Remittance of excess drawals,"- 13,17",,,,2235 01 911 UA 37702
 UA,Total UA,"- 13,17",,,,
-Schemes shared between State and Centre Total,"- 13,17",,,,,
+#Schemes shared between State and Centre Total,"- 13,17",,,,,
 911,Total 911,"- 13,17",,,,
 01,Total 01,"16,46,04","11,87,00","37,45,00","20,00,00",
 60,Other Social Security and Welfare Programmes,,,,,
@@ -761,7 +761,7 @@ SD,Rehabilitation of bonded Labourers,,,,,2235 60 911 SD 30000
 377,Deduct-Recoveries,"- 23,84",,,,2235 60 911 SD 37700
 02,Recoveries of Overpayments / Remittance of excess drawals,"- 23,84",,,,2235 60 911 SD 37702
 SD,Total SD,"- 23,84",,,,
-Central Sector Schemes Total,"- 23,84",,,,,
+#Central Sector Schemes Total,"- 23,84",,,,,
 911,Total 911,"- 23,84",,,,
 60,Total 60,"- 23,84",1,1,1,
 2235,Total 2235,"16,22,20","11,87,01","37,45,01","20,00,01",

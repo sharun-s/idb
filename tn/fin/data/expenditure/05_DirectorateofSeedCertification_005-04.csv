@@ -1,0 +1,218 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2401-00,CROP HUSBANDRY,,,,,
+103,Seeds,,,,,
+#State's Expenditure,,,,,,
+AX,Independent seed Inspectorate,,,,,2401 00 103 AX 30000
+369,Procurement of Agricultural Inputs,"1,49,40","50,00","1,36,21","1,40,00",2401 00 103 AX 36900
+01,Procurement of Agricultural Inputs,"1,49,40","50,00","1,36,21","1,40,00",2401 00 103 AX 36901
+AX,Total AX,"1,49,40","50,00","1,36,21","1,40,00",
+#State's Expenditure Total,,"1,49,40","50,00","1,36,21","1,40,00",
+#Schemes shared between State and Centre,,,,,,
+UE,Submission of Seed and Planting Materials,,,,,2401 00 103 UE 30000
+304,Travel Expenses,75,1,1,1,2401 00 103 UE 30400
+01,Tour Travelling Allowances,75,1,1,1,2401 00 103 UE 30401
+369,Procurement of Agricultural Inputs,"1,95",1,1,1,2401 00 103 UE 36900
+01,Procurement of Agricultural Inputs,"1,95",1,1,1,2401 00 103 UE 36901
+UE,Total UE,"2,70",2,2,2,
+#Schemes shared between State and Centre Total,"2,70",2,2,2,,
+103,Total 103,"1,52,10","50,02","1,36,23","1,40,02",
+00,Total 00,"1,52,10","50,02","1,36,23","1,40,02",
+2401,Total 2401,"1,52,10","50,02","1,36,23","1,40,02",
+2435,OTHER AGRICULTURAL PROGRAMMES,,,,,
+01,Marketing and quality control,,,,,
+102,Grading and quality control facilities,,,,,
+#State's Expenditure,,,,,,
+AB,Seed Testing Laboratory,,,,,2435 01 102 AB 30000
+301,Salaries,"3,96,78","13,31,63","5,24,54","5,59,47",2435 01 102 AB 30100
+01,Pay,"3,69,59","12,61,66","4,55,00","4,90,00",2435 01 102 AB 30101
+02,Medical Allowance,"2,08","4,26","3,83","3,83",2435 01 102 AB 30102
+03,Medical Charges,,10,10,10,2435 01 102 AB 30103
+04,Other Allowances,"3,48","3,84","3,84","3,84",2435 01 102 AB 30104
+06,House Rent Allowance,"19,79","58,50","58,50","58,50",2435 01 102 AB 30106
+07,Travel Concession,11,27,27,20,2435 01 102 AB 30107
+08,City Compensatory Allowance,"1,73","3,00","3,00","3,00",2435 01 102 AB 30108
+302,Wages,"48,56","40,67","51,70","49,60",2435 01 102 AB 30200
+01,Wages,"48,56","40,67","51,70","49,60",2435 01 102 AB 30201
+303,Dearness Allowance,"3,30,59","1,64,02","3,76,00","4,08,00",2435 01 102 AB 30300
+01,Dearness Allowance,"3,30,59","1,64,02","3,76,00","4,08,00",2435 01 102 AB 30301
+304,Travel Expenses,"8,42","11,23","11,23","11,23",2435 01 102 AB 30400
+01,Tour Travelling Allowances,"8,42","11,00","11,00","11,00",2435 01 102 AB 30401
+02,Transfer Travelling Allowances,,23,23,23,2435 01 102 AB 30402
+305,Office Expenses,"16,39","18,09","19,40","19,40",2435 01 102 AB 30500
+01,Telephone Charges,"1,07","1,19","1,90","2,00",2435 01 102 AB 30501
+02,Other Contingencies,"2,85","2,80","3,40","3,30",2435 01 102 AB 30502
+03,Electricity Charges,"10,32","11,80","11,80","11,80",2435 01 102 AB 30503
+04,Service Postage & Postal Expenditure,"2,15","2,30","2,30","2,30",2435 01 102 AB 30504
+306,"Rent, Rates and Taxes","15,95","17,71","17,81","18,01",2435 01 102 AB 30600
+01,Rent,"15,08","16,50","16,60","16,80",2435 01 102 AB 30601
+02,Property tax,67,90,90,90,2435 01 102 AB 30602
+03,Water Charges,20,31,31,31,2435 01 102 AB 30603
+319,Machinery and Equipments,"2,57","2,57","9,00","4,40",2435 01 102 AB 31900
+03,Maintenance,"2,57","2,57","9,00","4,40",2435 01 102 AB 31903
+324,Materials and Supplies,"4,84","4,85","4,85","4,85",2435 01 102 AB 32400
+01,Materials and Supplies,"4,84","4,85","4,85","4,85",2435 01 102 AB 32401
+334,Other Charges,31,31,30,30,2435 01 102 AB 33400
+01,Other Items,31,31,30,30,2435 01 102 AB 33401
+347,Stores and Equipments,"2,15","2,15","2,15","2,15",2435 01 102 AB 34700
+02,Equipments - Voted,"2,15","2,15","2,15","2,15",2435 01 102 AB 34702
+349,Festival Advances,18,,,,2435 01 102 AB 34900
+01,Festival Advances-Debit,"3,20","5,60","8,25","8,25",2435 01 102 AB 34901
+02,Festival Advances-Credit,"- 3,02","- 5,60","- 8,25","- 8,25",2435 01 102 AB 34902
+359,Prizes and Awards,,10,10,10,2435 01 102 AB 35900
+01,Prizes and Awards,,10,10,10,2435 01 102 AB 35901
+373,Transport Charges,99,"1,00","1,00","1,00",2435 01 102 AB 37300
+01,Transport Charges,99,"1,00","1,00","1,00",2435 01 102 AB 37301
+376,Computer and Accessories,"1,28","1,28","2,20","2,20",2435 01 102 AB 37600
+02,Maintenance,60,60,"1,20","1,20",2435 01 102 AB 37602
+03,Stationery,68,68,"1,00","1,00",2435 01 102 AB 37603
+AB,Total AB,"8,29,01","15,95,61","10,20,28","10,80,71",
+AF,Seed Certification,,,,,2435 01 102 AF 30000
+301,Salaries,"19,03,28","31,14,53","25,21,92","25,98,64",2435 01 102 AF 30100
+01,Pay,"17,79,23","29,43,88","23,48,82","24,25,97",2435 01 102 AF 30101
+02,Medical Allowance,"8,70","15,96","14,96","14,96",2435 01 102 AF 30102
+03,Medical Charges,"1,18","1,50","1,50","1,50",2435 01 102 AF 30103
+04,Other Allowances,"7,83","8,96","8,96","8,96",2435 01 102 AF 30104
+06,House Rent Allowance,"97,46","1,36,50","1,36,50","1,36,50",2435 01 102 AF 30106
+07,Travel Concession,61,73,"1,23",80,2435 01 102 AF 30107
+08,City Compensatory Allowance,"8,27","7,00","9,95","9,95",2435 01 102 AF 30108
+302,Wages,"9,24","9,33","14,36","10,40",2435 01 102 AF 30200
+01,Wages,"9,24","9,33","14,36","10,40",2435 01 102 AF 30201
+303,Dearness Allowance,"14,12,99","3,82,70","15,51,34","16,15,70",2435 01 102 AF 30300
+01,Dearness Allowance,"14,12,99","3,82,70","15,51,34","16,15,70",2435 01 102 AF 30301
+304,Travel Expenses,"93,81","1,20,52","1,20,52","1,20,52",2435 01 102 AF 30400
+01,Tour Travelling Allowances,"83,98","1,00,00","1,00,00","1,00,00",2435 01 102 AF 30401
+02,Transfer Travelling Allowances,"1,01",52,52,52,2435 01 102 AF 30402
+03,Fixed Travelling Allowances,"8,82","20,00","20,00","20,00",2435 01 102 AF 30403
+305,Office Expenses,"28,29","34,31","42,61","37,31",2435 01 102 AF 30500
+01,Telephone Charges,"5,98","6,56","8,16","7,60",2435 01 102 AF 30501
+02,Other Contingencies,"7,17","7,20","7,84","7,70",2435 01 102 AF 30502
+03,Electricity Charges,"11,14","15,85","17,28","17,30",2435 01 102 AF 30503
+04,Service Postage & Postal Expenditure,"4,00","4,70","5,00","4,70",2435 01 102 AF 30504
+05,Furniture,,,"4,33",1,2435 01 102 AF 30505
+306,"Rent, Rates and Taxes","17,00","19,72","22,30","20,60",2435 01 102 AF 30600
+01,Rent,"15,96","18,50","20,20","18,50",2435 01 102 AF 30601
+02,Property tax,81,90,"1,44","1,44",2435 01 102 AF 30602
+03,Water Charges,23,32,66,66,2435 01 102 AF 30603
+307,Publications,30,35,35,35,2435 01 102 AF 30700
+01,Publications,30,35,35,35,2435 01 102 AF 30701
+308,Advertising and Publicity,"1,05","1,10","1,10","1,10",2435 01 102 AF 30800
+01,Advertisement Charges,"1,05","1,10","1,10","1,10",2435 01 102 AF 30801
+319,Machinery and Equipments,83,83,"2,27",62,2435 01 102 AF 31900
+01,Purchase,,,"1,07",2,2435 01 102 AF 31901
+03,Maintenance,83,83,"1,20",60,2435 01 102 AF 31903
+321,Motor Vehicles,97,"1,85","8,82","2,01",2435 01 102 AF 32100
+01,Purchase,,,"6,82",1,2435 01 102 AF 32101
+02,Maintenance of Functional Vehicles,97,"1,85","2,00","2,00",2435 01 102 AF 32102
+333,Payments for Professional and Special Services,"11,00","11,45","17,95","17,95",2435 01 102 AF 33300
+01,Pleaders Fees,15,35,35,35,2435 01 102 AF 33301
+04,Contract Payment,"10,85","11,10","17,60","17,60",2435 01 102 AF 33304
+334,Other Charges,"- 1,63","3,69","3,70","3,70",2435 01 102 AF 33400
+01,Other Items,"- 1,63","3,69","3,70","3,70",2435 01 102 AF 33401
+345,"Petroleum, Oil and Lubricant","24,70","26,00","26,80","26,00",2435 01 102 AF 34500
+01,"Petroleum, Oil and Lubricant","24,70","26,00","26,80","26,00",2435 01 102 AF 34501
+346,"Clothing, Tentage and Stores",47,95,95,95,2435 01 102 AF 34600
+01,"Clothing, Tentage and Stores",47,95,95,95,2435 01 102 AF 34601
+347,Stores and Equipments,"3,63","3,65","3,76","3,76",2435 01 102 AF 34700
+01,Stores - Voted,"2,99","3,00","3,00","3,00",2435 01 102 AF 34701
+02,Equipments - Voted,64,65,76,76,2435 01 102 AF 34702
+349,Festival Advances,2,,,,2435 01 102 AF 34900
+01,Festival Advances-Debit,"12,10","14,40","36,00","36,00",2435 01 102 AF 34901
+02,Festival Advances-Credit,"- 12,08","- 14,40","- 36,00","- 36,00",2435 01 102 AF 34902
+359,Prizes and Awards,14,30,32,32,2435 01 102 AF 35900
+01,Prizes and Awards,14,30,32,32,2435 01 102 AF 35901
+369,Procurement of Agricultural Inputs,,1,,1,2435 01 102 AF 36900
+01,Procurement of Agricultural Inputs,,1,,1,2435 01 102 AF 36901
+371,Printing Charges,"1,43","26,00","56,00","30,00",2435 01 102 AF 37100
+01,Printing Charges,"1,43","26,00","56,00","30,00",2435 01 102 AF 37101
+372,Training,70,70,70,70,2435 01 102 AF 37200
+01,Training,70,70,70,70,2435 01 102 AF 37201
+373,Transport Charges,"1,93","2,00","2,50","2,50",2435 01 102 AF 37300
+01,Transport Charges,"1,93","2,00","2,50","2,50",2435 01 102 AF 37301
+376,Computer and Accessories,"4,90","3,72","13,96","5,31",2435 01 102 AF 37600
+01,Purchase,,,"8,66",1,2435 01 102 AF 37601
+02,Maintenance,"2,61","1,40","2,80","2,80",2435 01 102 AF 37602
+03,Stationery,"2,29","2,32","2,50","2,50",2435 01 102 AF 37603
+AF,Total AF,"35,15,05","37,63,71","44,12,23","44,98,45",
+AQ,Enhancement of Seed Production Enforcement Certification System software - Scheme under State Innovation Fund,,,,,2435 01 102 AQ 30000
+376,Computer and Accessories,,,1,"10,00",2435 01 102 AQ 37600
+01,Purchase,,,1,"10,00",2435 01 102 AQ 37601
+AQ,Total AQ,,,1,"10,00",
+JF,Seed testing laboratories,,,,,2435 01 102 JF 30000
+376,Computer and Accessories,,1,,1,2435 01 102 JF 37600
+01,Purchase,,1,,1,2435 01 102 JF 37601
+JF,Total JF,,1,,1,
+#State's Expenditure Total,,"43,44,06","53,59,33","54,32,52","55,89,17",
+#Schemes shared between State and Centre,,,,,,
+UB,National Agriculture Development Programme (NADP-RKVY) - Directorate of Seed Certification,,,,,2435 01 102 UB 30000
+311,Subsidies,,1,1,1,2435 01 102 UB 31100
+01,Individual Based Subsidy,,1,1,1,2435 01 102 UB 31101
+319,Machinery and Equipments,,"35,90","35,90","35,90",2435 01 102 UB 31900
+01,Purchase,,"35,90","35,90","35,90",2435 01 102 UB 31901
+324,Materials and Supplies,,1,1,1,2435 01 102 UB 32400
+01,Materials and Supplies,,1,1,1,2435 01 102 UB 32401
+347,Stores and Equipments,,1,1,1,2435 01 102 UB 34700
+01,Stores - Voted,,1,1,1,2435 01 102 UB 34701
+376,Computer and Accessories,"35,90",1,1,1,2435 01 102 UB 37600
+01,Purchase,"35,90",1,1,1,2435 01 102 UB 37601
+399,Miscellaneous,,1,1,1,2435 01 102 UB 39900
+01,Miscellaneous,,1,1,1,2435 01 102 UB 39901
+UB,Total UB,"35,90","35,95","35,95","35,95",
+#Schemes shared between State and Centre Total,"35,90","35,95","35,95","35,95",,
+102,Total 102,"43,79,96","53,95,28","54,68,47","56,25,12",
+793,Special Central Assistance for Scheduled Caste Component Plan,,,,,
+#Schemes shared between State and Centre,,,,,,
+UB,National Agriculture Development Programme (NADP/RKVY) - Director of Seed Certification,,,,,2435 01 793 UB 30000
+319,Machinery and Equipments,,"13,16","13,16","13,16",2435 01 793 UB 31900
+01,Purchase,,"13,16","13,16","13,16",2435 01 793 UB 31901
+376,Computer and Accessories,"13,16",1,1,1,2435 01 793 UB 37600
+01,Purchase,"13,16",1,1,1,2435 01 793 UB 37601
+UB,Total UB,"13,16","13,17","13,17","13,17",
+#Schemes shared between State and Centre Total,"13,16","13,17","13,17","13,17",,
+793,Total 793,"13,16","13,17","13,17","13,17",
+794,Special Central Assistance for Tribal Sub-Plan,,,,,
+#Schemes shared between State and Centre,,,,,,
+UB,National Agriculture Development Programme (NADP/RKVY) - Director of Seed Certification,,,,,2435 01 794 UB 30000
+319,Machinery and Equipments,,94,94,94,2435 01 794 UB 31900
+01,Purchase,,94,94,94,2435 01 794 UB 31901
+376,Computer and Accessories,94,1,1,1,2435 01 794 UB 37600
+01,Purchase,94,1,1,1,2435 01 794 UB 37601
+UB,Total UB,94,95,95,95,
+#Schemes shared between State and Centre Total,94,95,95,95,,
+794,Total 794,94,95,95,95,
+902,Deduct - Amount met from State Innovation Fund,,,,,
+#State's Expenditure,,,,,,
+AA,Deduct - Amount met from State Innovation Fund,,,,,2435 01 902 AA 30000
+330,Inter-Account Transfers,,,- 1,"- 10,00",2435 01 902 AA 33000
+01,Inter-Account Transfers,,,- 1,"- 10,00",2435 01 902 AA 33001
+AA,Total AA,,,- 1,"- 10,00",
+#State's Expenditure Total,,,,- 1,"- 10,00",
+902,Total 902,,,- 1,"- 10,00",
+01,Total 01,"43,94,06","54,09,40","54,82,58","56,29,24",
+2435,Total 2435,"43,94,06","54,09,40","54,82,58","56,29,24",
+4401-00,CAPITAL OUTLAY ON CROP HUSBANDRY,,,,,
+103,Seeds Schemes shared between State and Centre,,,,,
+#Schemes shared between State and Centre,,,,,,
+UB,National Agriculture Development Programme (NADP-RKVY) Directorate of Seed Certification,,,,,4401 00 103 UB 40000
+416,Major Works,,1,"22,26",1,4401 00 103 UB 41600
+01,Major Works,,1,"22,26",1,4401 00 103 UB 41601
+UB,Total UB,1,"22,26",1,,
+#Schemes shared between State and Centre,1,"22,26",1,,,
+103,Total 103,1,"22,26",1,,
+793,Special Central Assistance for Scheduled Caste Component Plan,,,,,
+#Schemes shared between State and Centre,,,,,,
+UC,National Agriculture Development Programme (NADP- RKVY) Directorate of Seed Certification,,,,,4401 00 793 UC 40000
+416,Major Works,,,"8,20",1,4401 00 793 UC 41600
+01,Major Works,,,"8,20",1,4401 00 793 UC 41601
+UC,Total UC,,"8,20",1,,
+#Schemes shared between State and Centre,,"8,20",1,,,
+793,Total 793,,"8,20",1,,
+794,Special Central Assistance for Tribal Sub-Plan,,,,,
+#Schemes shared between State and Centre,,,,,,
+UC,National Agriculture Development Programme (NADP-RKVY) Directorate of Seed Certification,,,,,4401 00 794 UC 40000
+416,Major Works,,,48,1,4401 00 794 UC 41600
+01,Major Works,,,48,1,4401 00 794 UC 41601
+UC,Total UC,,48,1,,
+#Schemes shared between State and Centre,,48,1,,,
+794,Total 794,,48,1,,
+00,Total 00,1,"30,94",3,,
+4401,Total 4401,1,"30,94",3,,
