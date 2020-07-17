@@ -1,0 +1,56 @@
+head,desc,2018,2019,2019.1,2020,dpcode
+2435,OTHER AGRICULTURAL PROGRAMMES,,,,,
+01,Marketing and quality control,,,,,
+102,Grading and quality control facilities,,,,,
+#,State's Expenditure,,,,,
+AP,Organic Certification and Quality Control,,,,,2435 01 102 AP 30000
+301,Salaries,"32,93","46,11","55,99","58,02",2435 01 102 AP 30100
+01,Pay,"30,43","40,92","50,73","52,76",2435 01 102 AP 30101
+02,Medical Allowance,12,26,33,33,2435 01 102 AP 30102
+03,Medical Charges,8,1,1,1,2435 01 102 AP 30103
+04,Other Allowances,3,20,20,20,2435 01 102 AP 30104
+06,House Rent Allowance,"1,89","4,00","4,00","4,00",2435 01 102 AP 30106
+07,Travel Concession,,8,8,8,2435 01 102 AP 30107
+08,City Compensatory Allowance,38,64,64,64,2435 01 102 AP 30108
+303,Dearness Allowance,"40,40","5,32","29,16","23,90",2435 01 102 AP 30300
+01,Dearness Allowance,"40,40","5,32","29,16","23,90",2435 01 102 AP 30301
+304,Travel Expenses,"2,99","4,36","4,36","4,00",2435 01 102 AP 30400
+01,Tour Travelling Allowances,"2,99","4,36","4,36","4,00",2435 01 102 AP 30401
+305,Office Expenses,"1,15","1,27","1,27","1,29",2435 01 102 AP 30500
+01,Telephone Charges,26,32,32,34,2435 01 102 AP 30501
+02,Other Contingencies,59,60,60,60,2435 01 102 AP 30502
+04,Service Postage & Postal Expenditure,30,35,35,35,2435 01 102 AP 30504
+307,Publications,10,12,12,12,2435 01 102 AP 30700
+01,Publications,10,12,12,12,2435 01 102 AP 30701
+308,Advertising and Publicity,24,26,26,26,2435 01 102 AP 30800
+01,Advertisement Charges,24,26,26,26,2435 01 102 AP 30801
+313,Hospitality / Entertainment Expenditure,,,,"1,80",2435 01 102 AP 31300
+01,Hospitality / Entertainment Expenditure,,,,"1,80",2435 01 102 AP 31301
+321,Motor Vehicles,,3,3,3,2435 01 102 AP 32100
+02,Maintenance of Functional Vehicles,,3,3,3,2435 01 102 AP 32102
+333,Payments for Professional and Special Services,"2,95","1,80","1,80",1,2435 01 102 AP 33300
+09,Other Payments,"2,95","1,80","1,80",1,2435 01 102 AP 33309
+345,"Petroleum, Oil and Lubricant",,65,65,65,2435 01 102 AP 34500
+01,"Petroleum, Oil and Lubricant",,65,65,65,2435 01 102 AP 34501
+346,"Clothing, Tentage and Stores",,1,1,1,2435 01 102 AP 34600
+01,"Clothing, Tentage and Stores",,1,1,1,2435 01 102 AP 34601
+347,Stores and Equipments,21,23,23,23,2435 01 102 AP 34700
+01,Stores - Voted,20,22,22,22,2435 01 102 AP 34701
+02,Equipments - Voted,1,1,1,1,2435 01 102 AP 34702
+349,Festival Advances,11,,,,2435 01 102 AP 34900
+01,Festival Advances-Debit,15,45,70,75,2435 01 102 AP 34901
+02,Festival Advances-Credit,- 4,- 45,- 70,- 75,2435 01 102 AP 34902
+371,Printing Charges,32,35,35,35,2435 01 102 AP 37100
+01,Printing Charges,32,35,35,35,2435 01 102 AP 37101
+372,Training,58,60,60,60,2435 01 102 AP 37200
+01,Training,58,60,60,60,2435 01 102 AP 37201
+373,Transport Charges,3,4,4,4,2435 01 102 AP 37300
+01,Transport Charges,3,4,4,4,2435 01 102 AP 37301
+376,Computer and Accessories,46,52,60,60,2435 01 102 AP 37600
+02,Maintenance,6,7,15,15,2435 01 102 AP 37602
+03,Stationery,40,45,45,45,2435 01 102 AP 37603
+AP,Total AP,"82,47","61,67","95,47","91,91",
+#,State's Expenditure TotalTotal,"82,47","61,67","95,47","91,91",
+102,Total 102,"82,47","61,67","95,47","91,91",
+01,Total 01,"82,47","61,67","95,47","91,91",
+2435,Total 2435,"82,47","61,67","95,47","91,91",

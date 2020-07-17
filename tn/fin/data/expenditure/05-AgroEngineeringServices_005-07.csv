@@ -1,0 +1,31 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2401-00,CROP HUSBANDRY,,,,,
+113,Agricultural Engineering,,,,,
+#State's Expenditure,,,,,,
+AJ,Agro-Engineering Services Department,,,,,2401 00 113 AJ 30000
+301,Salaries,"27,98","43,10","40,58","42,06",2401 00 113 AJ 30100
+01,Pay,"24,80","38,00","35,40","36,82",2401 00 113 AJ 30101
+02,Medical Allowance,5,16,16,16,2401 00 113 AJ 30102
+03,Medical Charges,,10,20,20,2401 00 113 AJ 30103
+04,Other Allowances,8,12,10,11,2401 00 113 AJ 30104
+06,House Rent Allowance,"2,63","3,92","3,92","3,92",2401 00 113 AJ 30106
+07,Travel Concession,,10,10,15,2401 00 113 AJ 30107
+08,City Compensatory Allowance,42,70,70,70,2401 00 113 AJ 30108
+303,Dearness Allowance,"2,29","4,94","5,67","7,00",2401 00 113 AJ 30300
+01,Dearness Allowance,"2,29","4,94","5,67","7,00",2401 00 113 AJ 30301
+304,Travel Expenses,44,55,55,56,2401 00 113 AJ 30400
+01,Tour Travelling Allowances,44,51,51,51,2401 00 113 AJ 30401
+02,Transfer Travelling Allowances,,4,4,5,2401 00 113 AJ 30402
+305,Office Expenses,,2,2,2,2401 00 113 AJ 30500
+02,Other Contingencies,,1,1,1,2401 00 113 AJ 30502
+04,Service Postage & Postal Expenditure,,1,1,1,2401 00 113 AJ 30504
+333,Payments for Professional and Special Services,,1,1,1,2401 00 113 AJ 33300
+01,Pleaders Fees,,1,1,1,2401 00 113 AJ 33301
+349,Festival Advances,- 14,,,,2401 00 113 AJ 34900
+01,Festival Advances-Debit,,23,50,60,2401 00 113 AJ 34901
+02,Festival Advances-Credit,- 14,- 23,- 50,- 60,2401 00 113 AJ 34902
+AJ,Total AJ,"30,57","48,62","46,83","49,65",
+#,State's Expenditure Total,"30,57","48,62","46,83","49,65",
+113,Total 113,"30,57","48,62","46,83","49,65",
+00,Total 00,"30,57","48,62","46,83","49,65",
+2401,Total 2401,"30,57","48,62","46,83","49,65",
