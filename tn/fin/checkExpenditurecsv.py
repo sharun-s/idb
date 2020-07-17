@@ -35,7 +35,12 @@ common_overflow={
 'T.A./D.A.to Non-Official':['Members'],
 'Cost of Books/Note':['Books/Slates, etc.'],
 'Procurement of':['Agricultural Inputs'],
-'Fixed Travelling':['Allowances']}
+'Fixed Travelling':['Allowances'],
+'Hospitality /':['Entertainment','Expenditure'],
+'Claims under no fault':['liability -  principal'],
+'Purchase and Upkeep of':['Animals'],
+'Contribution to Specific':['Fund']
+}
 
 import pandas as p
 import json,csv,pprint,sys
@@ -56,13 +61,19 @@ except p.errors.ParserError as e:
 parent_tree={}
 dropindexes=[]
 i=0
+se=0
+print(df.head())
 while True:
 	try:
 		head=df.iloc[i]['head'].split('-')[0]
 		desc=df.iloc[i]['desc'] if not p.isnull(df.iloc[i]['desc']) else head+' MISSING Desc' 
 	except AttributeError as e:
-		print(i,df.iloc[i])
-		raise ValueError("csv:"+sys.argv[1]+" in line "+str(i))
+		print('head was prob nan chk desc',i,df.iloc[i])
+		#raise ValueError("csv:"+sys.argv[1]+" in line "+str(i))
+	#if head=="State's Expenditure,,,,,":
+	#	df.iloc[i]['head']="#State's Expenditure"
+	#	df.iloc[i]['desc']=""
+
 	data=df.iloc[i][['2018', '2019Est', '2019Rev', '2020Est']]
 	if 'dpcode' in df.columns:
 		dpcode=df.iloc[i]['dpcode']
@@ -86,9 +97,24 @@ while True:
 			dropindexes.append(i+cnt)
 			cnt=cnt+1
 		df.iloc[i]['desc']=desc
-
-
-		print('updating df')
+	# elif desc.replace(' Charged','') in common_overflow:
+	# 	tmpdesc=desc.replace(' Charged','')
+	# 	print('found ',desc,i)
+	# 	cnt=1
+	# 	todel=common_overflow[tmpdesc]
+	# 	for j in common_overflow[tmpdesc]:
+	# 		if df.iloc[i+cnt]['head'] == j:  
+	# 			print('    appending', j, ' to ', tmpdesc)
+	# 			tmpdesc=tmpdesc+' ' + j
+	# 		else:
+	# 			raise ValueError("csv:"+sys.argv[1]+' in line '+str(i+2))
+	# 		cnt=cnt+1
+	# 	cnt=1
+	# 	for j in todel:
+	# 		dropindexes.append(i+cnt)
+	# 		cnt=cnt+1
+	# 	df.iloc[i]['desc']=tmpdesc+' Charged'
+	# 	print('updating df')
 	i=i+1
 	if i>=len(df):
 		break

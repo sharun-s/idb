@@ -145,20 +145,19 @@ AA,"Tamil Nadu Legislator's Hostel",,,,,2011 02 104 AA 30000
 01,"Purchase","12,60",1,1,1,2011 02 104 AA 31901
 03,Maintenance,,1,"1,35",1,2011 02 104 AA 31903
 AA,Total AA,"18,91","7,54","8,88","7,54",
-#"State's Expenditure Total","18,91","7,54","8,88","7,54",
+#State's Expenditure Total,"18,91","7,54","8,88","7,54",
 104,Total 104,"18,91","7,54","8,88","7,54",
 911,"Deduct - Recoveries of Overpayments State's Expenditure",,,,,
 AA,"Tamil Nadu Legislator's Hostel",,,,,2011 02 911 AA 30000
 377,Deduct-Recoveries,- 49,,- 2,,2011 02 911 AA 37700
 02,Recoveries of Overpayments / Remittance of excess drawals,- 49,,- 2,,2011 02 911 AA 37702
 AA,Total AA,- 49,,- 2,,
-AB,State Legislative Assembly Secretariat,,,,,,2011 02 911 AB 30000
-377,Deduct-Recoveries,,,,- 36,,2011 02 911 AB 37700
-02,Recoveries of,,,,- 36,,2011 02 911 AB 37702
-Overpayments / Remittance of excess drawals
-AB,Total AB,,,,- 36,,
-#,State's Expenditure Total,,,- 49,,- 38,,
-911,Total 911,,,- 49,,- 38,,
+AB,State Legislative Assembly Secretariat,,,,,2011 02 911 AB 30000
+377,Deduct-Recoveries,,,,- 36,2011 02 911 AB 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,,,,- 36,2011 02 911 AB 37702
+AB,Total AB,,,,- 36,
+#State's Expenditure Total,,,- 49,,- 38,,
+911,Total 911,- 49,,,- 38,,
 02,Total 02 Charged,"45,40","58,88","64,24","57,74",
 02,Total 02 Voted,"60,27,46","60,03,63","59,50,82","62,42,62",
 2011,Total 2011 Charged,"45,40","58,88","64,24","57,74",
@@ -166,7 +165,7 @@ AB,Total AB,,,,- 36,,
 2059,PUBLIC WORKS,,,,,,
 01,Office Buildings,,,,,,
 053,Maintenance and Repairs,,,,,,
-#,"State's Expenditure" ,,,,,,
+#State's Expenditure,,,,,,
 BO,Buildings - Legislative Assembly Secretariat (Administered by Chief Engineer (Buildings)),,,,,2059 01 053 BO 30000
 317,Minor Works,,"1,15,60",1,1,1,2059 01 053 BO 31700
 01,Minor Works,,"1,15,60",1,1,1,2059 01 053 BO 31701
@@ -190,8 +189,8 @@ CD,Total CD,"69,94","1,01,00","1,43,86","1,71,00",
 60,Other Social Security and Welfare Programmes,,,,,,
 200,Other Programmes,,,,,
 #,"State's Expenditure",,,,,
-CU,"Free Bus Pass to Ex-Legislators",,,,,,2235 60 200 CU 30000
-304,Travel Expenses,,,,,"1,65,60",2235 60 200 CU 30400
+CU,"Free Bus Pass to Ex-Legislators",,,,,2235 60 200 CU 30000
+304,Travel Expenses,,,,"1,65,60",2235 60 200 CU 30400
 01,Tour Travelling Allowances,,,,"1,65,60",2235 60 200 CU 30401
 CU,Total CU,,,,"1,65,60",
 #,"State's Expenditure Total",,,,"1,65,60",
@@ -206,18 +205,18 @@ AA,"Chiller plant with DX Air Handling unit (Air - Condition) to LAS",,,,,4059 0
 416,Major Works,,,,"1,28,43",,4059 01 052 AA 41600
 01,Major Works,,,"1,28,43",,4059 01 052 AA 41601
 AA,Total,,,"1,28,43",,
-#,"State's Expenditure Total",,,"1,28,43",,
+#State's Expenditure Total,,,"1,28,43",,
 052,Total 052,,,"1,28,43",,
 01,Total 01,,,"1,28,43",,
 4059,Total 4059,,,"1,28,43",,
 7610-00,LOANS TO GOVERNMENT SERVANTS ETC.,,,,,
 201,House Building Advances,,,,,
-#"State's Expenditure" ,,,,,
+#State's Expenditure,,,,,
 AX,"Loans to Secretariat Employees for construction of houses - Legislative Assembly Secrtariat",,,,,7610 00 201 AX 50000
 502,Loan - Outgo,"1,10,00",1,"79,38","50,00",7610 00 201 AX 50200
 01,Bearing Interest,"1,10,00",1,"79,38","50,00",7610 00 201 AX 50201
 AX,Total AX,"1,10,00",1,"79,38","50,00",
-#"State's Expenditure Total","1,10,00",1,"79,38","50,00",
+#State's Expenditure Total,"1,10,00",1,"79,38","50,00",
 201,Total 201,"1,10,00",1,"79,38","50,00",
 00,Total 00,"1,10,00",1,"79,38","50,00",
 7610,Total 7610,"1,10,00",1,"79,38","50,00",

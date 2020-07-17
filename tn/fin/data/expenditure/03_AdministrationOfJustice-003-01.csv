@@ -1,7 +1,7 @@
 head,desc,2018,2019Est,2019Rev,2020Est,dpcode
 2014-00,ADMINISTRATION OF JUSTICE,,,,,
 102,High Courts,,,,,
-,State's Expenditure,,,,,
+#State's Expenditure,,,,,
 AA,Judges and Registrars,,,,,2014 00 102 AA 30000
 301,Salaries Charged,"1,39,48,09","1,43,32,95","1,41,64,44","1,47,66,33",2014 00 102 AA 30100
 01,Pay Charged,"1,17,11,99","1,21,18,25","1,18,76,91","1,22,81,27",2014 00 102 AA 30101
@@ -123,7 +123,7 @@ AI,Madurai Bench of Madras High Court at Madurai,,,,,2014 00 102 AI 30000
 01,Tour Travelling Allowances Charged,"4,34","5,10","7,38","6,70",2014 00 102 AI 30401
 02,Transfer Travelling Allowances,"3,21","4,97","6,18","4,97",2014 00 102 AI 30402
 102,High Courts,,,,,
-,State's Expenditure,,,,,
+#State's Expenditure,,,,,
 AI,Madurai Bench of Madras High Court at Madurai,,,,,2014 00 102 AI 30000
 304,Travel Expenses,,,,,
 03,Fixed Travelling Allowances Charged,26,40,40,40,2014 00 102 AI 30403
@@ -179,11 +179,9 @@ AJ,Maintenance of Bungalows occupied by the Judges,,,,,2014 00 102 AJ 30000
 01,Stores - Voted,"2,87,24","1,00,00","1,25,00","1,50,00",2014 00 102 AJ 34701
 AJ,Total AJ,"12,16,82","10,22,57","12,76,58","12,63,37",
 AL,"Arbitration Centre,Madras",,,,,2014 00 102 AL 30000
-301,Salaries,,,,,
-Charged,"26,53","29,38","28,93","29,95",2014 00 102 AL 30100,
+301,Salaries Charged,"26,53","29,38","28,93","29,95",2014 00 102 AL 30100
 01,Pay Charged,"23,70","25,22","24,75","25,74",2014 00 102 AL 30101
-02,Medical Allowance,,,,,
-Charged,6,6,8,8,2014 00 102 AL 30102,
+02,Medical Allowance Charged,6,6,8,8,2014 00 102 AL 30102
 03,Medical Charges Charged,,2,2,2,2014 00 102 AL 30103
 04,Other Allowances Charged,,50,50,50,2014 00 102 AL 30104
 06,House Rent Allowance Charged,"2,41","3,06","3,06","3,06",2014 00 102 AL 30106
@@ -199,7 +197,7 @@ Charged,6,6,8,8,2014 00 102 AL 30102,
 01,Purchase Charged,,,"11,34",,2014 00 102 AL 37601
 AL,Total AL Charged,"28,32","36,26","47,82","39,99",
 #State's Expenditure Total Charged,"3,98,58,59","4,22,77,93","4,80,03,05","4,72,14,19",,
-State's Expenditure Total Voted,"12,16,82","10,22,57","12,76,58","12,63,37",,
+#State's Expenditure Total Voted,"12,16,82","10,22,57","12,76,58","12,63,37",,
 102,Total 102 Charged,"3,98,58,59","4,22,77,93","4,80,03,05","4,72,14,19",
 102,Total 102 Voted,"12,16,82","10,22,57","12,76,58","12,63,37",
 103,Special Courts,,,,,
@@ -373,8 +371,8 @@ AD,"Special Court to Try the Cases under POCSO Act,2012",,,,,2014 00 103 AD 3000
 02,Maintenance,,,,1,2014 00 103 AD 37602
 03,Stationery,,,,"19,20",2014 00 103 AD 37603
 AD,Total AD,,,"2,36,00","23,46,70",
-State's Expenditure Total Charged,,2,,,,
-State's Expenditure Total Voted,"11,05,19","13,14,57","15,09,07","37,44,13",,
+#State's Expenditure Total Charged,,2,,,,
+#State's Expenditure Total Voted,"11,05,19","13,14,57","15,09,07","37,44,13",,
 103,Total 103 Charged,,2,,,
 103,Total 103 Voted,"11,05,19","13,14,57","15,09,07","37,44,13",
 105,Civil and Session Courts,,,,,
@@ -416,8 +414,7 @@ AA,City Civil Court,,,,,2014 00 105 AA 30000
 01,Festival Advances-Debit,"12,10","27,00","54,00","54,00",2014 00 105 AA 34901
 02,Festival Advances-Credit,"- 12,71","- 27,00","- 54,00","- 54,00",2014 00 105 AA 34902
 351,Compensation Charged,,1,,,2014 00 105 AA 35100
-51,Claims under no fault liability -  principal,,,,,
-charges Charged,,1,,,2014 00 105 AA 35151,
+51,Claims under no fault liability -  principal charges Charged,,1,,,2014 00 105 AA 35151
 359,Prizes and Awards,4,36,12,12,2014 00 105 AA 35900
 01,Prizes and Awards,4,36,12,12,2014 00 105 AA 35901
 376,Computer and Accessories,"11,69","15,00","15,00","15,25",2014 00 105 AA 37600
@@ -691,8 +688,7 @@ AA,Regular Establishments,,,,,2014 00 107 AA 30000
 01,Festival Advances-Debit,"8,50","18,00","36,00","36,00",2014 00 107 AA 34901
 02,Festival Advances-Credit,"- 8,36","- 18,00","- 36,00","- 36,00",2014 00 107 AA 34902
 351,Compensation Charged,,1,,,2014 00 107 AA 35100
-51,Claims under no fault liability -  principal,,,,,
-charges Charged,,1,,,2014 00 107 AA 35151,
+51,Claims under no fault liability -  principal charges Charged,,1,,,2014 00 107 AA 35151
 359,Prizes and Awards,4,20,10,10,2014 00 107 AA 35900
 01,Prizes and Awards,4,20,10,10,2014 00 107 AA 35901
 376,Computer and Accessories,"3,40","3,41","3,41","3,91",2014 00 107 AA 37600
@@ -748,8 +744,7 @@ AA,Regular Establishments,,,,,2014 00 108 AA 30000
 01,Festival Advances-Debit,"1,31,35","1,78,95","3,57,90","3,57,90",2014 00 108 AA 34901
 02,Festival Advances-Credit,"- 1,28,55","- 1,78,95","- 3,57,90","- 3,57,90",2014 00 108 AA 34902
 351,Compensation Charged,,1,,,2014 00 108 AA 35100
-51,Claims under no fault liability -  principal,,,,,
-charges Charged,,1,,,2014 00 108 AA 35151,
+51,Claims under no fault liability -  principal charges Charged,,1,,,2014 00 108 AA 35151
 359,Prizes and Awards,28,"1,60",58,58,2014 00 108 AA 35900
 01,Prizes and Awards,28,"1,60",58,58,2014 00 108 AA 35901
 368,"Cost of Books/Note Books/Slates, etc.",94,,"1,92",,2014 00 108 AA 36800
@@ -805,8 +800,7 @@ AC,Special Courts for protection of civil rights,,,,,2014 00 108 AC 30000
 02,Maintenance,,1,1,1,2014 00 108 AC 37602
 03,Stationery,98,"1,50","1,50","1,80",2014 00 108 AC 37603
 AC,Total AC,"3,44,74","3,56,74","4,27,47","4,39,83",
-AD,Special Courts for Economic Offences,,,,,
-,,,,,2014 00 108 AD 30000,
+AD,Special Courts for Economic Offences,,,,,2014 00 108 AD 30000
 301,Salaries,"1,75,73","2,27,54","1,65,04","1,70,83",2014 00 108 AD 30100
 01,Pay,"1,45,94","2,03,60","1,37,85","1,43,37",2014 00 108 AD 30101
 02,Medical Allowance,"1,50","1,45","1,50","1,52",2014 00 108 AD 30102
@@ -839,8 +833,7 @@ AD,Special Courts for Economic Offences,,,,,
 01,Festival Advances-Debit,75,"1,90","3,80","3,80",2014 00 108 AD 34901
 02,Festival Advances-Credit,"- 1,32","- 1,90","- 3,80","- 3,80",2014 00 108 AD 34902
 351,Compensation Charged,,1,,,2014 00 108 AD 35100
-51,Claims under no fault liability -  principal,,,,,
-charges Charged,,1,,,2014 00 108 AD 35151,
+51,Claims under no fault liability -  principal charges Charged,,1,,,2014 00 108 AD 35151
 359,Prizes and Awards,,4,4,4,2014 00 108 AD 35900
 01,Prizes and Awards,,4,4,4,2014 00 108 AD 35901
 376,Computer and Accessories,15,31,31,51,2014 00 108 AD 37600
@@ -854,8 +847,7 @@ AD,Total AD Voted,"2,13,69","2,65,76","2,04,68","2,18,92",
 108,Total 108 Voted,"1,90,14,62","2,10,66,77","2,02,48,53","2,24,35,40",
 110,Administrators General and Official Trustees,,,,,
 #State's Expenditure,,,,,,
-AA,Administrators General and Official Trustees,,,,,
-,,,,,2014 00 110 AA 30000,
+AA,Administrators General and Official Trustees,,,,,2014 00 110 AA 30000
 301,Salaries,"1,02,52","1,59,19","1,31,42","1,35,18",2014 00 110 AA 30100
 01,Pay,"84,79","1,37,56","1,08,04","1,12,36",2014 00 110 AA 30101
 02,Medical Allowance,90,92,"1,20","1,27",2014 00 110 AA 30102
@@ -888,8 +880,7 @@ AA,Administrators General and Official Trustees,,,,,
 01,Festival Advances-Debit,"1,38","1,55","3,10","3,10",2014 00 110 AA 34901
 02,Festival Advances-Credit,- 93,"- 1,55","- 3,10","- 3,10",2014 00 110 AA 34902
 351,Compensation Charged,,1,,,2014 00 110 AA 35100
-51,Claims under no fault liability -  principal,,,,,
-charges Charged,,1,,,2014 00 110 AA 35151,
+51,Claims under no fault liability -  principal charges Charged,,1,,,2014 00 110 AA 35151
 359,Prizes and Awards,4,4,4,4,2014 00 110 AA 35900
 01,Prizes and Awards,4,4,4,4,2014 00 110 AA 35901
 AA,Total AA Charged,,1,,,
@@ -1021,8 +1012,7 @@ AL,Constitution of Tamil Nadu Judicial Academy,,,,,2014 00 800 AL 30000
 01,Festival Advances-Debit,"1,25","6,00","12,00","12,00",2014 00 800 AL 34901
 02,Festival Advances-Credit,"- 1,29","- 6,00","- 12,00","- 12,00",2014 00 800 AL 34902
 351,Compensation Charged,,1,,,2014 00 800 AL 35100
-51,Claims under no fault liability -  principal,,,,,
-charges Charged,,1,,,2014 00 800 AL 35151,
+51,Claims under no fault liability -  principal charges Charged,,1,,,2014 00 800 AL 35151
 368,"Cost of Books/Note Books/Slates, etc.","3,75","3,75","3,75","3,75",2014 00 800 AL 36800
 01,"Cost of Books/Note Books/Slates, etc.","3,75","3,75","3,75","3,75",2014 00 800 AL 36801
 372,Training,"3,55,99","3,56,00","3,56,00","1,00,00",2014 00 800 AL 37200
@@ -1031,9 +1021,8 @@ charges Charged,,1,,,2014 00 800 AL 35151,
 01,Purchase,"36,56",1,1,1,2014 00 800 AL 37601
 02,Maintenance,"4,96","5,45","5,45","5,45",2014 00 800 AL 37602
 03,Stationery,"2,77","1,80","1,80","2,00",2014 00 800 AL 37603
-AL,Total AL,,,,,
-Charged,,1,,,,
-Voted,"8,42,52","10,22,21","9,12,99","6,83,89",,
+AL,Total AL Charged,,1,,,,
+AL,Total AL Voted,"8,42,52","10,22,21","9,12,99","6,83,89",,
 AR,Organizing Lok Adalat and improving Legal Aid System,,,,,2014 00 800 AR 30000
 309,Grants-in-Aid,"1,07,35",,,,2014 00 800 AR 30900
 01,Grants for Current Expenditure,"1,07,35",,,,2014 00 800 AR 30901
@@ -1188,8 +1177,7 @@ AG,"Industrial Tribunal, Chennai",,,,,2230 01 101 AG 30000
 01,Festival Advances-Debit,45,90,"1,80","1,80",2230 01 101 AG 34901
 02,Festival Advances-Credit,- 42,- 90,"- 1,80","- 1,80",2230 01 101 AG 34902
 351,Compensation Charged,,1,,,2230 01 101 AG 35100
-51,Claims under no fault liability -  principal,,,,,
-charges Charged,,1,,,2230 01 101 AG 35151,
+51,Claims under no fault liability -  principal charges Charged,,1,,,2230 01 101 AG 35151
 359,Prizes and Awards,,2,2,2,2230 01 101 AG 35900
 01,Prizes and Awards,,2,2,2,2230 01 101 AG 35901
 376,Computer and Accessories,13,15,15,20,2230 01 101 AG 37600

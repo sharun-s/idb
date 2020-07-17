@@ -4,14 +4,14 @@ head,desc,2018,2019Est,2019Rev,2020Est,dpcode
 101,Emoluments and Allowances of the Governor,,,,,
 #State's Expenditure,,,,,
 AA,Emoluments of the Governor,,,,,2012 03 101 AA 30000
-301,"Salaries Charged","53,61","42,00","42,00","42,00,2012 03 101 AA 30100
-01,"Pay Charged","53,61","42,00","42,00,"42,00",2012 03 101 AA 30101
+301,"Salaries Charged","53,61","42,00","42,00","42,00",2012 03 101 AA 30100
+01,"Pay Charged","53,61","42,00","42,00","42,00",2012 03 101 AA 30101
 Total AA Charged,"53,61","42,00","42,00","42,00"
 State's Expenditure Total Charged,"53,61","42,00","42,00","42,00"
 Total 101 Charged,"53,61","42,00","42,00","42,00"
 103,Household Establishment,,,,,,
 #,State's Expenditure,,,,,,
-AF,Household Establishment of the Governor,,,,,,,2012 03 103 AF 30000
+AF,Household Establishment of the Governor,,,,,2012 03 103 AF 30000
 301,Salaries Charged,"4,10,72","4,83,92","4,07,98","4,23,21",2012 03 103 AF 30100
 01,Pay Charged,"3,70,67","4,43,64","3,67,75","3,84,14",2012 03 103 AF 30101
 02,Medical Allowance Charged,"2,72","2,45","2,24","2,24",2012 03 103 AF 30102

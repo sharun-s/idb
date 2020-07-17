@@ -1,0 +1,622 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2059,PUBLIC WORKS,,,,,
+01,Office Buildings,,,,,
+053,Maintenance and Repairs,,,,,
+#State's Expenditure,,,,,,
+DC,"Buildings - Director of Horticulture (Administered by Chief Engineer,Buildings, PWD)",,,,,2059 01 053 DC 30000
+318,Maintenance,"28,67","33,00","33,00","35,00",2059 01 053 DC 31800
+01,Periodical Maintenance,"28,67","33,00","33,00","35,00",2059 01 053 DC 31801
+DC,Total DC,"28,67","33,00","33,00","35,00",
+#State's Expenditure Total,"28,67","33,00","33,00","35,00",,
+053,Total 053,"28,67","33,00","33,00","35,00",
+01,Total 01,"28,67","33,00","33,00","35,00",
+2059,Total 2059,"28,67","33,00","33,00","35,00",
+2401-00,CROP HUSBANDRY,,,,,
+001,Direction and Administration,,,,,
+#State's Expenditure,,,,,,
+AO,Directorate of Horticulture,,,,,2401 00 001 AO 30000
+301,Salaries,"11,20,88","10,19,61","11,92,39","12,34,34",2401 00 001 AO 30100
+01,Pay,"9,83,88","8,85,55","10,49,60","10,91,65",2401 00 001 AO 30101
+02,Medical Allowance,"5,81","6,34","7,34","7,34",2401 00 001 AO 30102
+03,Medical Charges,"1,72","5,00","5,00","5,00",2401 00 001 AO 30103
+04,Other Allowances,"30,79","28,00","28,20","28,20",2401 00 001 AO 30104
+06,House Rent Allowance,"85,76","81,12","88,35","88,35",2401 00 001 AO 30106
+07,Travel Concession,"1,08","1,60","1,90","1,80",2401 00 001 AO 30107
+08,City Compensatory Allowance,"11,84","12,00","12,00","12,00",2401 00 001 AO 30108
+303,Dearness Allowance,"2,77,52","1,15,12","1,67,93","2,07,42",2401 00 001 AO 30300
+01,Dearness Allowance,"2,77,52","1,15,12","1,67,93","2,07,42",2401 00 001 AO 30301
+304,Travel Expenses,"14,57","28,04","28,04","28,04",2401 00 001 AO 30400
+01,Tour Travelling Allowances,"13,78","27,00","27,00","27,00",2401 00 001 AO 30401
+02,Transfer Travelling Allowances,79,"1,04","1,04","1,04",2401 00 001 AO 30402
+305,Office Expenses,"25,65","24,70","26,90","26,90",2401 00 001 AO 30500
+01,Telephone Charges,"4,51","4,40","4,60","4,60",2401 00 001 AO 30501
+02,Other Contingencies,"2,99","3,00","4,00","4,00",2401 00 001 AO 30502
+03,Electricity Charges,"15,95","15,00","16,00","16,00",2401 00 001 AO 30503
+04,Service Postage & Postal Expenditure,"2,20","2,30","2,30","2,30",2401 00 001 AO 30504
+306,"Rent, Rates and Taxes","6,78","6,80","28,02","14,02",2401 00 001 AO 30600
+02,Property tax,"6,78","6,80","28,02","14,02",2401 00 001 AO 30602
+308,Advertising and Publicity,"2,00","2,66","2,66","2,66",2401 00 001 AO 30800
+02,Exhibition,"2,00","2,66","2,66","2,66",2401 00 001 AO 30802
+321,Motor Vehicles,51,85,85,85,2401 00 001 AO 32100
+02,Maintenance of Functional Vehicles,51,85,85,85,2401 00 001 AO 32102
+333,Payments for Professional and Special Services,20,75,"1,49","1,49",2401 00 001 AO 33300
+01,Pleaders Fees,20,74,74,74,2401 00 001 AO 33301
+04,Contract Payment,,1,75,75,2401 00 001 AO 33304
+345,"Petroleum, Oil and Lubricant","5,94","13,84","13,84","13,84",2401 00 001 AO 34500
+01,"Petroleum, Oil and Lubricant","5,94","13,84","13,84","13,84",2401 00 001 AO 34501
+346,"Clothing, Tentage and Stores",46,70,70,70,2401 00 001 AO 34600
+01,"Clothing, Tentage and Stores",46,70,70,70,2401 00 001 AO 34601
+347,Stores and Equipments,10,10,10,10,2401 00 001 AO 34700
+01,Stores - Voted,10,10,10,10,2401 00 001 AO 34701
+349,Festival Advances,- 2,,,,2401 00 001 AO 34900
+01,Festival Advances-Debit,"4,70","16,40","32,80","32,80",2401 00 001 AO 34901
+02,Festival Advances-Credit,"- 4,72","- 16,40","- 32,80","- 32,80",2401 00 001 AO 34902
+351,Compensation Charged,,1,1,2,2401 00 001 AO 35100
+02,Other Compensations - Charged,,,1,1,2401 00 001 AO 35102
+52,Other Compensations Charged,,1,,1,2401 00 001 AO 35152
+359,Prizes and Awards,8,50,50,50,2401 00 001 AO 35900
+01,Prizes and Awards,8,50,50,50,2401 00 001 AO 35901
+368,"Cost of Books/Note Books/Slates, etc.",,2,2,2,2401 00 001 AO 36800
+01,"Cost of Books/Note Books/Slates, etc.",,2,2,2,2401 00 001 AO 36801
+371,Printing Charges,90,91,91,91,2401 00 001 AO 37100
+01,Printing Charges,90,91,91,91,2401 00 001 AO 37101
+376,Computer and Accessories,"5,96","6,28","7,51","7,51",2401 00 001 AO 37600
+01,Purchase,,1,1,1,2401 00 001 AO 37601
+02,Maintenance,"3,51","3,80","4,50","4,50",2401 00 001 AO 37602
+03,Stationery,"2,45","2,47","3,00","3,00",2401 00 001 AO 37603
+AO,Total AO Charged,,1,1,2,
+AO,Total AO Voted,"14,61,53","12,20,88","14,71,86","15,39,30",
+#State's Expenditure Total Charged,,1,1,2,,
+#State's Expenditure Total Voted,"14,61,53","12,20,88","14,71,86","15,39,30",,
+001,Total 001 Charged,,1,1,2,
+001,Total 001 Voted,"14,61,53","12,20,88","14,71,86","15,39,30",
+104,Agricultural Farms,,,,,
+#State's Expenditure,,,,,,
+AC,Botanical Gardens,,,,,2401 00 104 AC 30000
+301,Salaries,"29,17","33,49","28,87","29,79",2401 00 104 AC 30100
+01,Pay,"24,22","27,73","23,07","23,99",2401 00 104 AC 30101
+02,Medical Allowance,16,24,24,24,2401 00 104 AC 30102
+03,Medical Charges,,12,12,12,2401 00 104 AC 30103
+04,Other Allowances,"3,39","3,62","3,62","3,62",2401 00 104 AC 30104
+06,House Rent Allowance,"1,40","1,67","1,67","1,67",2401 00 104 AC 30106
+07,Travel Concession,,11,15,15,2401 00 104 AC 30107
+303,Dearness Allowance,"15,48","3,60","3,69","4,55",2401 00 104 AC 30300
+01,Dearness Allowance,"15,48","3,60","3,69","4,55",2401 00 104 AC 30301
+304,Travel Expenses,"1,37","2,00","2,00","2,00",2401 00 104 AC 30400
+01,Tour Travelling Allowances,"1,37","2,00","2,00","2,00",2401 00 104 AC 30401
+305,Office Expenses,"2,44","3,50","3,50","3,50",2401 00 104 AC 30500
+01,Telephone Charges,1,30,30,30,2401 00 104 AC 30501
+02,Other Contingencies,18,20,20,20,2401 00 104 AC 30502
+03,Electricity Charges,"2,13","2,80","2,80","2,80",2401 00 104 AC 30503
+04,Service Postage & Postal Expenditure,12,20,20,20,2401 00 104 AC 30504
+306,"Rent, Rates and Taxes",34,50,50,50,2401 00 104 AC 30600
+02,Property tax,20,20,20,20,2401 00 104 AC 30602
+03,Water Charges,14,30,30,30,2401 00 104 AC 30603
+321,Motor Vehicles,,30,30,30,2401 00 104 AC 32100
+02,Maintenance of Functional Vehicles,,30,30,30,2401 00 104 AC 32102
+345,"Petroleum, Oil and Lubricant",17,"1,82","1,82","1,82",2401 00 104 AC 34500
+01,"Petroleum, Oil and Lubricant",17,"1,82","1,82","1,82",2401 00 104 AC 34501
+346,"Clothing, Tentage and Stores",5,10,10,10,2401 00 104 AC 34600
+01,"Clothing, Tentage and Stores",5,10,10,10,2401 00 104 AC 34601
+349,Festival Advances,- 5,,,,2401 00 104 AC 34900
+01,Festival Advances-Debit,10,75,80,80,2401 00 104 AC 34901
+02,Festival Advances-Credit,- 15,- 75,- 80,- 80,2401 00 104 AC 34902
+376,Computer and Accessories,38,38,38,38,2401 00 104 AC 37600
+02,Maintenance,22,22,22,22,2401 00 104 AC 37602
+03,Stationery,16,16,16,16,2401 00 104 AC 37603
+AC,Total AC,"49,35","45,69","41,16","42,94",
+AD,Working expenses under Botanical Gardens,,,,,2401 00 104 AD 30000
+302,Wages,,1,1,1,2401 00 104 AD 30200
+01,Wages,,1,1,1,2401 00 104 AD 30201
+305,Office Expenses,"2,29","2,30","2,30","2,30",2401 00 104 AD 30500
+02,Other Contingencies,10,10,10,10,2401 00 104 AD 30502
+03,Electricity Charges,"2,19","2,20","2,20","2,20",2401 00 104 AD 30503
+308,Advertising and Publicity,"2,02","1,02","1,02","1,02",2401 00 104 AD 30800
+01,Advertisement Charges,"2,02","1,02","1,02","1,02",2401 00 104 AD 30801
+317,Minor Works,16,16,16,16,2401 00 104 AD 31700
+01,Minor Works,16,16,16,16,2401 00 104 AD 31701
+319,Machinery and Equipments,,2,2,2,2401 00 104 AD 31900
+01,Purchase,,1,1,1,2401 00 104 AD 31901
+03,Maintenance,,1,1,1,2401 00 104 AD 31903
+371,Printing Charges,"2,44","2,45","2,45","2,45",2401 00 104 AD 37100
+01,Printing Charges,"2,44","2,45","2,45","2,45",2401 00 104 AD 37101
+AD,Total AD,"6,91","5,96","5,96","5,96",
+#State's Expenditure Total,"56,26","51,65","47,12","48,90",,
+104,Total 104,"56,26","51,65","47,12","48,90",
+108,Commercial Crops,,,,,
+#Schemes shared between State and Centre,,,,,,
+VL,Paramparagat Krishi Vikas Yojana (PKVY) under National Mission on Sustainable Agriculture - Horticulture Crops,,,,,2401 00 108 VL 30000
+305,Office Expenses,,,"39,91",1,2401 00 108 VL 30500
+02,Other Contingencies,,,"39,91",1,2401 00 108 VL 30502
+311,Subsidies,"1,94,05",1,"1,50,49","1,50,49",2401 00 108 VL 31100
+01,Individual Based Subsidy,"1,94,05",1,"1,50,49","1,50,49",2401 00 108 VL 31101
+333,Payments for Professional and Special Services,"32,40",1,"68,15","1,02,22",2401 00 108 VL 33300
+03,Special Service,"32,40",1,"68,15","1,02,22",2401 00 108 VL 33303
+372,Training,"17,89",1,"66,41","99,61",2401 00 108 VL 37200
+01,Training,"17,89",1,"66,41","99,61",2401 00 108 VL 37201
+VL,Total VL,"2,44,34",3,"3,24,96","3,52,33",
+#Schemes shared between State and Centre Total,"2,44,34",3,"3,24,96","3,52,33",,
+108,Total 108,"2,44,34",3,"3,24,96","3,52,33",
+109,Extension and Farmers Training,,,,,
+#State's Expenditure,,,,,,
+AH,Horticulture Training Centre,,,,,2401 00 109 AH 30000
+301,Salaries,"69,47","57,94","63,91","65,61",2401 00 109 AH 30100
+01,Pay,"60,90","50,12","55,97","57,67",2401 00 109 AH 30101
+02,Medical Allowance,35,40,40,40,2401 00 109 AH 30102
+04,Other Allowances,"2,58","2,60","2,60","2,60",2401 00 109 AH 30104
+06,House Rent Allowance,"4,90","4,16","4,16","4,16",2401 00 109 AH 30106
+07,Travel Concession,,6,6,6,2401 00 109 AH 30107
+08,City Compensatory Allowance,74,60,72,72,2401 00 109 AH 30108
+303,Dearness Allowance,"22,34","6,52","8,96","10,95",2401 00 109 AH 30300
+01,Dearness Allowance,"22,34","6,52","8,96","10,95",2401 00 109 AH 30301
+304,Travel Expenses,78,"3,08","3,08","3,08",2401 00 109 AH 30400
+01,Tour Travelling Allowances,78,"3,00","3,00","3,00",2401 00 109 AH 30401
+02,Transfer Travelling Allowances,,8,8,8,2401 00 109 AH 30402
+305,Office Expenses,"5,59","6,16","6,16","6,16",2401 00 109 AH 30500
+02,Other Contingencies,"3,50","3,50","3,50","3,50",2401 00 109 AH 30502
+03,Electricity Charges,"2,03","2,60","2,60","2,60",2401 00 109 AH 30503
+04,Service Postage & Postal Expenditure,6,6,6,6,2401 00 109 AH 30504
+308,Advertising and Publicity,"2,85","1,41","1,41","1,41",2401 00 109 AH 30800
+01,Advertisement Charges,"2,85","1,41","1,41","1,41",2401 00 109 AH 30801
+312,Scholarships and Stipends,29,85,85,85,2401 00 109 AH 31200
+09,Others,29,85,85,85,2401 00 109 AH 31209
+324,Materials and Supplies,48,50,50,50,2401 00 109 AH 32400
+01,Materials and Supplies,48,50,50,50,2401 00 109 AH 32401
+346,"Clothing, Tentage and Stores",2,5,5,5,2401 00 109 AH 34600
+01,"Clothing, Tentage and Stores",2,5,5,5,2401 00 109 AH 34601
+349,Festival Advances,- 2,,,,2401 00 109 AH 34900
+01,Festival Advances-Debit,16,"1,20","1,20","1,20",2401 00 109 AH 34901
+02,Festival Advances-Credit,- 18,"- 1,20","- 1,20","- 1,20",2401 00 109 AH 34902
+354,Expenses on Conducted Tours,"2,50","2,50","2,50","2,50",2401 00 109 AH 35400
+01,Expenses on Conducted Tours,"2,50","2,50","2,50","2,50",2401 00 109 AH 35401
+359,Prizes and Awards,,3,3,3,2401 00 109 AH 35900
+01,Prizes and Awards,,3,3,3,2401 00 109 AH 35901
+368,"Cost of Books/Note Books/Slates, etc.",25,25,25,25,2401 00 109 AH 36800
+01,"Cost of Books/Note Books/Slates, etc.",25,25,25,25,2401 00 109 AH 36801
+371,Printing Charges,14,15,15,15,2401 00 109 AH 37100
+01,Printing Charges,14,15,15,15,2401 00 109 AH 37101
+372,Training,"7,49","7,50","7,50","8,50",2401 00 109 AH 37200
+01,Training,"7,49","7,50","7,50","8,50",2401 00 109 AH 37201
+376,Computer and Accessories,"1,20","1,21","1,21","1,21",2401 00 109 AH 37600
+01,Purchase,,1,1,1,2401 00 109 AH 37601
+02,Maintenance,82,80,80,80,2401 00 109 AH 37602
+03,Stationery,38,40,40,40,2401 00 109 AH 37603
+AH,Total AH,"1,13,38","88,15","96,56","1,01,25",
+#State's Expenditure Total,"1,13,38","88,15","96,56","1,01,25",,
+109,Total 109,"1,13,38","88,15","96,56","1,01,25",
+110,Crop Insurance,,,,,
+#State's Expenditure,,,,,,
+JH,State subsidy to Agriculture Insurance schemes to Non-loanee / Tenant Farmers and Loanee Farmers in Horticulture Department.,,,,,2401 00 110 JH 30000
+309,Grants-in-Aid,,1,1,1,2401 00 110 JH 30900
+03,Grants for Specific Schemes,,1,1,1,2401 00 110 JH 30903
+JH,Total JH,1,1,1,,
+JK,State's Share towards Premium Subsidy under Pradhan Mantri Fasal Bima Yojana (PMFBY) for Horticulture Crops,,,,,2401 00 110 JK 30000
+308,Advertising and Publicity,,,"7,50","9,00",2401 00 110 JK 30800
+01,Advertisement Charges,,,"7,50","9,00",2401 00 110 JK 30801
+309,Grants-in-Aid,"13,16,30","10,19,22","17,01,74","18,50,00",2401 00 110 JK 30900
+03,Grants for Specific Schemes,"13,16,30","10,19,22","17,01,74","18,50,00",2401 00 110 JK 30903
+333,Payments for Professional and Special Services,,,"1,66,46","2,88,96",2401 00 110 JK 33300
+04,Contract Payment,,,"1,66,46","2,88,96",2401 00 110 JK 33304
+JK,Total JK,"13,16,30","10,19,22","18,75,70","21,47,96",
+#State's Expenditure Total,"13,16,30","10,19,23","18,75,71","21,47,97",,
+110,Total 110,"13,16,30","10,19,23","18,75,71","21,47,97",
+115,Scheme of Small/Marginal farmers and Agricultural labour,,,,,
+#State's Expenditure,,,,,,
+JI,Organising Small and Marginal Farmers into Farmer Producer Groups under Horticulture,,,,,2401 00 115 JI 30000
+309,Grants-in-Aid,"24,90,57","25,35,61","25,39,14","25,00,00",2401 00 115 JI 30900
+03,Grants for Specific Schemes,"24,90,57","25,35,61","25,39,14","25,00,00",2401 00 115 JI 30903
+JI,Total JI,"24,90,57","25,35,61","25,39,14","25,00,00",
+#State's Expenditure Total,"24,90,57","25,35,61","25,39,14","25,00,00",,
+115,Total 115,"24,90,57","25,35,61","25,39,14","25,00,00",
+119,Horticulture and vegetable crops,,,,,
+#State's Expenditure,,,,,,
+AG,Nurseries - State Horticulture Farms,,,,,2401 00 119 AG 30000
+301,Salaries,"13,44,06","11,07,76","11,46,17","11,86,25",2401 00 119 AG 30100
+01,Pay,"11,59,58","9,62,42","10,00,83","10,40,91",2401 00 119 AG 30101
+02,Medical Allowance,"15,66","14,00","14,00","14,00",2401 00 119 AG 30102
+03,Medical Charges,,20,20,20,2401 00 119 AG 30103
+04,Other Allowances,"1,24,02","91,00","91,00","91,00",2401 00 119 AG 30104
+06,House Rent Allowance,"44,24","39,52","39,52","39,52",2401 00 119 AG 30106
+07,Travel Concession,,12,12,12,2401 00 119 AG 30107
+08,City Compensatory Allowance,56,50,50,50,2401 00 119 AG 30108
+303,Dearness Allowance,"2,49,39","1,25,11","1,60,13","1,97,77",2401 00 119 AG 30300
+01,Dearness Allowance,"2,49,39","1,25,11","1,60,13","1,97,77",2401 00 119 AG 30301
+304,Travel Expenses,27,6,27,23,2401 00 119 AG 30400
+03,Fixed Travelling Allowances,27,6,27,23,2401 00 119 AG 30403
+349,Festival Advances,"1,23",,,,2401 00 119 AG 34900
+01,Festival Advances-Debit,"21,65","32,35","64,70","64,70",2401 00 119 AG 34901
+02,Festival Advances-Credit,"- 20,42","- 32,35","- 64,70","- 64,70",2401 00 119 AG 34902
+AG,Total AG,"15,94,95","12,32,93","13,06,57","13,84,25",
+BE,Production of Fruits and Vegetables,,,,,2401 00 119 BE 30000
+311,Subsidies,,"40,00,00","3,00,00",1,2401 00 119 BE 31100
+01,Individual Based Subsidy,,"40,00,00","3,00,00",1,2401 00 119 BE 31101
+BE,Total BE,,"40,00,00","3,00,00",1,
+BF,Implementation of Micro Irrigation Schemes under NABARD assistance,,,,,2401 00 119 BF 30000
+311,Subsidies,,,,"6,79,00,00",2401 00 119 BF 31100
+01,Individual Based Subsidy,,,,"6,79,00,00",2401 00 119 BF 31101
+BF,Total BF,,,,"6,79,00,00",
+JX,Development of Horticulture in Districts,,,,,2401 00 119 JX 30000
+301,Salaries,"70,80,19","58,07,38","78,18,34","81,11,07",2401 00 119 JX 30100
+01,Pay,"65,97,83","53,96,34","73,01,87","75,94,37",2401 00 119 JX 30101
+02,Medical Allowance,"50,54","37,00","63,00","63,00",2401 00 119 JX 30102
+03,Medical Charges,55,"3,00","3,00","3,00",2401 00 119 JX 30103
+04,Other Allowances,"88,66","80,00","80,00","80,00",2401 00 119 JX 30104
+06,House Rent Allowance,"3,26,20","2,76,64","3,52,27","3,52,50",2401 00 119 JX 30106
+07,Travel Concession,"1,02","1,40","1,70","1,70",2401 00 119 JX 30107
+08,City Compensatory Allowance,"15,39","13,00","16,50","16,50",2401 00 119 JX 30108
+303,Dearness Allowance,"23,24,01","7,01,53","11,68,30","14,42,93",2401 00 119 JX 30300
+01,Dearness Allowance,"23,24,01","7,01,53","11,68,30","14,42,93",2401 00 119 JX 30301
+304,Travel Expenses,"2,84,23","2,57,00","2,84,43","2,71,77",2401 00 119 JX 30400
+01,Tour Travelling Allowances,"2,20,11","2,00,00","2,00,00","2,00,00",2401 00 119 JX 30401
+02,Transfer Travelling Allowances,51,"2,00","2,00","2,00",2401 00 119 JX 30402
+03,Fixed Travelling Allowances,"63,61","55,00","82,43","69,77",2401 00 119 JX 30403
+305,Office Expenses,"26,72","30,39","32,40","32,40",2401 00 119 JX 30500
+01,Telephone Charges,"4,42","5,80","5,80","5,80",2401 00 119 JX 30501
+02,Other Contingencies,"6,91","6,99","8,00","8,00",2401 00 119 JX 30502
+03,Electricity Charges,"12,50","14,00","15,00","15,00",2401 00 119 JX 30503
+04,Service Postage & Postal Expenditure,"2,89","3,60","3,60","3,60",2401 00 119 JX 30504
+306,"Rent, Rates and Taxes","5,58","14,31","16,29","14,64",2401 00 119 JX 30600
+01,Rent,"3,27","12,00","12,00","12,00",2401 00 119 JX 30601
+02,Property tax,"1,30","1,27","3,25","1,60",2401 00 119 JX 30602
+03,Water Charges,"1,01","1,04","1,04","1,04",2401 00 119 JX 30603
+308,Advertising and Publicity,"19,10","14,45","5,14,45","14,45",2401 00 119 JX 30800
+01,Advertisement Charges,"9,20","4,45","4,45","4,45",2401 00 119 JX 30801
+02,Exhibition,"9,90","10,00","5,10,00","10,00",2401 00 119 JX 30802
+319,Machinery and Equipments,,2,2,2,2401 00 119 JX 31900
+01,Purchase,,1,1,1,2401 00 119 JX 31901
+03,Maintenance,,1,1,1,2401 00 119 JX 31903
+321,Motor Vehicles,"18,49","1,01","1,01","1,01",2401 00 119 JX 32100
+01,Purchase,"17,71",1,1,1,2401 00 119 JX 32101
+02,Maintenance of Functional Vehicles,78,"1,00","1,00","1,00",2401 00 119 JX 32102
+333,Payments for Professional and Special Services,35,61,91,61,2401 00 119 JX 33300
+01,Pleaders Fees,35,60,90,60,2401 00 119 JX 33301
+04,Contract Payment,,1,1,1,2401 00 119 JX 33304
+334,Other Charges,,8,8,8,2401 00 119 JX 33400
+01,Other Items,,8,8,8,2401 00 119 JX 33401
+345,"Petroleum, Oil and Lubricant","16,17","25,13","25,13","25,13",2401 00 119 JX 34500
+01,"Petroleum, Oil and Lubricant","16,17","25,13","25,13","25,13",2401 00 119 JX 34501
+346,"Clothing, Tentage and Stores",27,75,75,75,2401 00 119 JX 34600
+01,"Clothing, Tentage and Stores",27,75,75,75,2401 00 119 JX 34601
+349,Festival Advances,- 35,,,,2401 00 119 JX 34900
+01,Festival Advances-Debit,"38,15","75,00","1,50,00","1,50,00",2401 00 119 JX 34901
+02,Festival Advances-Credit,"- 38,50","- 75,00","- 1,50,00","- 1,50,00",2401 00 119 JX 34902
+359,Prizes and Awards,"1,06",70,"1,00","1,00",2401 00 119 JX 35900
+01,Prizes and Awards,"1,06",70,"1,00","1,00",2401 00 119 JX 35901
+369,Procurement of Agricultural Inputs,"3,24,62","25,04,38","25,04,38","37,56,57",2401 00 119 JX 36900
+01,Procurement of Agricultural Inputs,"3,24,62","25,04,38","25,04,38","37,56,57",2401 00 119 JX 36901
+371,Printing Charges,27,40,40,40,2401 00 119 JX 37100
+01,Printing Charges,27,40,40,40,2401 00 119 JX 37101
+376,Computer and Accessories,"9,13","9,47","10,50","10,50",2401 00 119 JX 37600
+02,Maintenance,"3,97","4,50","5,00","5,00",2401 00 119 JX 37602
+03,Stationery,"5,16","4,97","5,50","5,50",2401 00 119 JX 37603
+JX,Total JX,"1,01,09,84","93,67,61","1,23,78,39","1,36,83,33",
+LE,Agriculture Package for Rejuvenation of Horticultural Crops affected by cyclone THANE,,,,,2401 00 119 LE 30000
+309,Grants-in-Aid,,1,"22,80",1,2401 00 119 LE 30900
+01,Grants for Current Expenditure,,1,"22,80",1,2401 00 119 LE 30901
+LE,Total LE,1,"22,80",1,,
+LF,Urban Horticulture Development Scheme,,,,,2401 00 119 LF 30000
+308,Advertising and Publicity,,1,1,1,2401 00 119 LF 30800
+01,Advertisement Charges,,1,1,1,2401 00 119 LF 30801
+369,Procurement of Agricultural Inputs,,1,1,1,2401 00 119 LF 36900
+01,Procurement of Agricultural Inputs,,1,1,1,2401 00 119 LF 36901
+373,Transport Charges,,1,1,1,2401 00 119 LF 37300
+01,Transport Charges,,1,1,1,2401 00 119 LF 37301
+376,Computer and Accessories,,1,1,1,2401 00 119 LF 37600
+01,Purchase,,1,1,1,2401 00 119 LF 37601
+LF,Total LF,4,4,4,,
+LH,"Relief assistance to the """"""Ockhi"""" cyclone affected"" farmer",,,,,2401 00 119 LH 30000
+309,Grants-in-Aid,,1,1,1,2401 00 119 LH 30900
+03,Grants for Specific Schemes,,1,1,1,2401 00 119 LH 30903
+LH,Total LH,1,1,1,,
+LI,"Diploma in Horticulture at Horticulture Researchand Training Centre, Thally",,,,,2401 00 119 LI 30000
+304,Travel Expenses,"24,00","24,00","24,00","8,00",2401 00 119 LI 30400
+01,Tour Travelling Allowances,"24,00","24,00","24,00","8,00",2401 00 119 LI 30401
+305,Office Expenses,"23,99","24,00","24,00","8,00",2401 00 119 LI 30500
+02,Other Contingencies,"23,99","24,00","24,00","8,00",2401 00 119 LI 30502
+308,Advertising and Publicity,"10,00","10,00","10,00","3,35",2401 00 119 LI 30800
+01,Advertisement Charges,"10,00","10,00","10,00","3,35",2401 00 119 LI 30801
+324,Materials and Supplies,"8,00","8,00","8,00","2,65",2401 00 119 LI 32400
+01,Materials and Supplies,"8,00","8,00","8,00","2,65",2401 00 119 LI 32401
+333,Payments for Professional and Special Services,"40,80","40,80","40,80","13,60",2401 00 119 LI 33300
+03,Special Service,"30,00","30,00","30,00","10,00",2401 00 119 LI 33303
+04,Contract Payment,"10,80","10,80","10,80","3,60",2401 00 119 LI 33304
+368,"Cost of Books/Note Books/Slates, etc.","10,00","10,00","10,00","3,35",2401 00 119 LI 36800
+01,"Cost of Books/Note Books/Slates, etc.","10,00","10,00","10,00","3,35",2401 00 119 LI 36801
+369,Procurement of Agricultural Inputs,"40,00","40,00","40,00","13,30",2401 00 119 LI 36900
+01,Procurement of Agricultural Inputs,"40,00","40,00","40,00","13,30",2401 00 119 LI 36901
+376,Computer and Accessories,"10,68","12,00","12,00","4,00",2401 00 119 LI 37600
+02,Maintenance,"8,00","8,00","8,00","2,70",2401 00 119 LI 37602
+03,Stationery,"2,68","4,00","4,00","1,30",2401 00 119 LI 37603
+LI,Total LI,"1,67,47","1,68,80","1,68,80","56,25",
+LJ,Horticulture Training and Information  Centre.,,,,,2401 00 119 LJ 30000
+372,Training,,,"80,00","3,00,00",2401 00 119 LJ 37200
+01,Training,,,"80,00","3,00,00",2401 00 119 LJ 37201
+LJ,Total LJ,,"80,00","3,00,00",,
+LK,Design and development of Internet of Things (IoT) enabled portable soil nutrient measurement system- Scheme  under State Innovation Fund,,,,,2401 00 119 LK 30000
+376,Computer and Accessories,,,1,"1,53,23",2401 00 119 LK 37600
+01,Purchase,,,1,"1,53,23",2401 00 119 LK 37601
+LK,Total LK,,1,"1,53,23",,
+LL,"Diploma in Horticulture at Centre of Excellence for Vegetables,Reddiyarchathiram",,,,,2401 00 119 LL 30000
+304,Travel Expenses,,,,"8,00",2401 00 119 LL 30400
+01,Tour Travelling Allowances,,,,"8,00",2401 00 119 LL 30401
+305,Office Expenses,,,,"8,00",2401 00 119 LL 30500
+02,Other Contingencies,,,,"8,00",2401 00 119 LL 30502
+308,Advertising and Publicity,,,,"3,35",2401 00 119 LL 30800
+01,Advertisement Charges,,,,"3,35",2401 00 119 LL 30801
+324,Materials and Supplies,,,,"2,65",2401 00 119 LL 32400
+01,Materials and Supplies,,,,"2,65",2401 00 119 LL 32401
+333,Payments for Professional and Special Services,,,,"13,60",2401 00 119 LL 33300
+03,Special Service,,,,"10,00",2401 00 119 LL 33303
+04,Contract Payment,,,,"3,60",2401 00 119 LL 33304
+368,"Cost of Books/Note Books/Slates, etc.",,,,"3,35",2401 00 119 LL 36800
+01,"Cost of Books/Note Books/Slates, etc.",,,,"3,35",2401 00 119 LL 36801
+369,Procurement of Agricultural Inputs,,,,"13,30",2401 00 119 LL 36900
+01,Procurement of Agricultural Inputs,,,,"13,30",2401 00 119 LL 36901
+376,Computer and Accessories,,,,"4,05",2401 00 119 LL 37600
+02,Maintenance,,,,"2,65",2401 00 119 LL 37602
+03,Stationery,,,,"1,40",2401 00 119 LL 37603
+LL,Total LL,,,"56,30",,
+LM,"Diploma in Horticulture at Tamil Nadu Horticulture Management Institute, Madhavaram",,,,,2401 00 119 LM 30000
+304,Travel Expenses,,,,"8,00",2401 00 119 LM 30400
+01,Tour Travelling Allowances,,,,"8,00",2401 00 119 LM 30401
+305,Office Expenses,,,,"8,00",2401 00 119 LM 30500
+02,Other Contingencies,,,,"8,00",2401 00 119 LM 30502
+308,Advertising and Publicity,,,,"3,30",2401 00 119 LM 30800
+01,Advertisement Charges,,,,"3,30",2401 00 119 LM 30801
+324,Materials and Supplies,,,,"2,70",2401 00 119 LM 32400
+01,Materials and Supplies,,,,"2,70",2401 00 119 LM 32401
+333,Payments for Professional and Special Services,,,,"13,60",2401 00 119 LM 33300
+03,Special Service,,,,"10,00",2401 00 119 LM 33303
+04,Contract Payment,,,,"3,60",2401 00 119 LM 33304
+368,"Cost of Books/Note Books/Slates, etc.",,,,"3,30",2401 00 119 LM 36800
+01,"Cost of Books/Note Books/Slates, etc.",,,,"3,30",2401 00 119 LM 36801
+369,Procurement of Agricultural Inputs,,,,"13,40",2401 00 119 LM 36900
+01,Procurement of Agricultural Inputs,,,,"13,40",2401 00 119 LM 36901
+376,Computer and Accessories,,,,"3,95",2401 00 119 LM 37600
+02,Maintenance,,,,"2,65",2401 00 119 LM 37602
+03,Stationery,,,,"1,30",2401 00 119 LM 37603
+LM,Total LM,,,"56,25",,
+LN,Dry Land Horticulture Farming,,,,,2401 00 119 LN 30000
+311,Subsidies,,,,"10,00,00",2401 00 119 LN 31100
+01,Individual Based Subsidy,,,,"10,00,00",2401 00 119 LN 31101
+LN,Total LN,,,"10,00,00",,
+#State's Expenditure Total,"1,18,72,26","1,47,69,40","1,42,56,62","8,45,89,68",,
+#Externally Aided Projects,,,,,,
+PE,Improved Horticulture and Vegetable Crop Productivity under Tamil Nadu Irrigated Agriculture Modernisation Project-II,,,,,2401 00 119 PE 30000
+308,Advertising and Publicity,"46,08","60,40","62,62","71,94",2401 00 119 PE 30800
+01,Advertisement Charges,"46,08","60,40","62,62","71,94",2401 00 119 PE 30801
+333,Payments for Professional and Special Services,"3,82","48,00","48,00","48,00",2401 00 119 PE 33300
+04,Contract Payment,"3,82","48,00","48,00","48,00",2401 00 119 PE 33304
+354,Expenses on Conducted Tours,"9,68","14,00","15,90","16,90",2401 00 119 PE 35400
+01,Expenses on Conducted Tours,"9,68","14,00","15,90","16,90",2401 00 119 PE 35401
+369,Procurement of Agricultural Inputs,"11,70,98","15,46,80","15,27,90","19,24,81",2401 00 119 PE 36900
+01,Procurement of Agricultural Inputs,"11,70,98","15,46,80","15,27,90","19,24,81",2401 00 119 PE 36901
+372,Training,"21,70","10,00","2,02,25","2,20,02",2401 00 119 PE 37200
+01,Training,"21,70","10,00","2,02,25","2,20,02",2401 00 119 PE 37201
+PE,Total PE,"12,52,26","16,79,20","18,56,67","22,81,67",
+PF,Establishment of Project Cell under Tamil Nadu Irrigated Agriculture Modernisation Project-II - Department of Horticulture and Plantation Crops,,,,,2401 00 119 PF 30000
+305,Office Expenses,"2,89","3,24","2,41","2,01",2401 00 119 PF 30500
+01,Telephone Charges,,24,1,1,2401 00 119 PF 30501
+02,Other Contingencies,"2,89","3,00","2,40","2,00",2401 00 119 PF 30502
+333,Payments for Professional and Special Services,"4,20","10,80","10,80","10,80",2401 00 119 PF 33300
+04,Contract Payment,"4,20","10,80","10,80","10,80",2401 00 119 PF 33304
+345,"Petroleum, Oil and Lubricant",89,1,"1,00",1,2401 00 119 PF 34500
+01,"Petroleum, Oil and Lubricant",89,1,"1,00",1,2401 00 119 PF 34501
+373,Transport Charges,"1,00",1,"1,00","1,00",2401 00 119 PF 37300
+01,Transport Charges,"1,00",1,"1,00","1,00",2401 00 119 PF 37301
+376,Computer and Accessories,"2,26","1,16",51,"1,80",2401 00 119 PF 37600
+01,Purchase,"1,12",1,1,"1,00",2401 00 119 PF 37601
+02,Maintenance,35,35,10,40,2401 00 119 PF 37602
+03,Stationery,79,80,40,40,2401 00 119 PF 37603
+PF,Total PF,"11,24","15,22","15,72","15,62",
+PG,Micro Irrigation in Tank and Non-Tank Command Area under Tamil Nadu Irrigated Agriculture Modernisation Project-II,,,,,2401 00 119 PG 30000
+311,Subsidies,"4,98,93","20,23,32","20,23,32","27,36,64",2401 00 119 PG 31100
+01,Individual Based Subsidy,"4,98,93","20,23,32","20,23,32","27,36,64",2401 00 119 PG 31101
+PG,Total PG,"4,98,93","20,23,32","20,23,32","27,36,64",
+#Externally Aided Project Total,"17,62,43","37,17,74","38,95,71","50,33,93",,
+#Central Sector Schemes,,,,,,
+SG,National Mission on Medicinal Plants,,,,,2401 00 119 SG 30000
+309,Grants-in-Aid,,1,1,1,2401 00 119 SG 30900
+03,Grants for Specific Schemes,,1,1,1,2401 00 119 SG 30903
+SG,Total SG,1,1,1,,
+#Central Sector Schemes Total,,1,1,1,,
+#Schemes shared between State and Centre,,,,,,
+UE,National Agriculture Development Programme (NADP-RKVY) - Horticulture  Department,,,,,2401 00 119 UE 30000
+305,Office Expenses,,1,1,1,2401 00 119 UE 30500
+02,Other Contingencies,,1,1,1,2401 00 119 UE 30502
+308,Advertising and Publicity,,1,1,1,2401 00 119 UE 30800
+01,Advertisement Charges,,1,1,1,2401 00 119 UE 30801
+309,Grants-in-Aid,,1,1,1,2401 00 119 UE 30900
+03,Grants for Specific Schemes,,1,1,1,2401 00 119 UE 30903
+311,Subsidies,"16,27,04","13,47,64","20,74,03","21,76,06",2401 00 119 UE 31100
+01,Individual Based Subsidy,"16,27,04","13,47,64","20,74,03","21,76,06",2401 00 119 UE 31101
+333,Payments for Professional and Special Services,,1,1,1,2401 00 119 UE 33300
+03,Special Service,,1,1,1,2401 00 119 UE 33303
+372,Training,"7,00","7,00","7,00","10,50",2401 00 119 UE 37200
+01,Training,"7,00","7,00","7,00","10,50",2401 00 119 UE 37201
+373,Transport Charges,,1,1,1,2401 00 119 UE 37300
+01,Transport Charges,,1,1,1,2401 00 119 UE 37301
+376,Computer and Accessories,,1,1,1,2401 00 119 UE 37600
+02,Maintenance,,1,1,1,2401 00 119 UE 37602
+UE,Total UE,"16,34,04","13,54,70","20,81,09","21,86,62",
+UF,Micro Irrigation Scheme,,,,,2401 00 119 UF 30000
+309,Grants-in-Aid,,"22,32,02",1,1,2401 00 119 UF 30900
+03,Grants for Specific Schemes,,"22,32,02",1,1,2401 00 119 UF 30903
+311,Subsidies,"8,51,07,34","11,09,57,55","9,14,48,47","6,00,00,00",2401 00 119 UF 31100
+01,Individual Based Subsidy,"8,51,07,34","11,09,57,55","9,14,48,47","6,00,00,00",2401 00 119 UF 31101
+UF,Total UF,"8,51,07,34","11,31,89,57","9,14,48,48","6,00,00,01",
+UG,Assistance to TANHODA under National Horticulture Mission,,,,,2401 00 119 UG 30000
+311,Subsidies,"1,47,07,89","1,31,72,55","1,71,72,55","1,80,00,00",2401 00 119 UG 31100
+01,Individual Based Subsidy,"1,47,07,89","1,31,72,55","1,71,72,55","1,80,00,00",2401 00 119 UG 31101
+UG,Total UG,"1,47,07,89","1,31,72,55","1,71,72,55","1,80,00,00",
+UH,National Bamboo Mission,,,,,2401 00 119 UH 30000
+309,Grants-in-Aid,,1,"2,36,25","2,36,25",2401 00 119 UH 30900
+03,Grants for Specific Schemes,,1,"2,36,25","2,36,25",2401 00 119 UH 30903
+UH,Total UH,,1,"2,36,25","2,36,25",
+UI,Rainfed Area Development under National Mission for sustainable Agriculture for Horticulture Crops,,,,,2401 00 119 UI 30000
+311,Subsidies,,,"19,95,74","19,95,74",2401 00 119 UI 31100
+01,Individual Based Subsidy,,,"19,95,74","19,95,74",2401 00 119 UI 31101
+UI,Total UI,,,"19,95,74","19,95,74",
+#Schemes shared between State and Centre Total,"10,14,49,27","12,77,16,83","11,29,34,11","8,24,18,62",,
+119,Total 119,"11,50,83,96","14,62,03,98","13,10,86,45","17,20,42,24",
+789,Special Component Plan for Scheduled Castes,,,,,
+#State's Expenditure,,,,,,
+AC,Production of Fruits and Vegetables for Scheduled Caste Sub-Plan,,,,,2401 00 789 AC 30000
+311,Subsidies,,"9,50,00",1,1,2401 00 789 AC 31100
+01,Individual Based Subsidy,,"9,50,00",1,1,2401 00 789 AC 31101
+AC,Total AC,"9,50,00",1,1,,
+JD,Development of Horticulture in Districts,,,,,2401 00 789 JD 30000
+369,Procurement of Agricultural Inputs,"83,04","6,00,57","6,00,57","9,00,85",2401 00 789 JD 36900
+01,Procurement of Agricultural Inputs,"83,04","6,00,57","6,00,57","9,00,85",2401 00 789 JD 36901
+JD,Total JD,"83,04","6,00,57","6,00,57","9,00,85",
+JO,State subsidy to Agriculture Insurance Scheme to Non-loanee/ Tenant Farmers and loanee farmers in Horticulture Department  under Special Component Plan,,,,,2401 00 789 JO 30000
+309,Grants-in-Aid,,1,1,1,2401 00 789 JO 30900
+03,Grants for Specific Schemes,,1,1,1,2401 00 789 JO 30903
+JO,Total JO,1,1,1,,
+JV,State's Share towards Premium Subsidy under Pradhan Mantri Fasal Bima Yojana (PMFBY) for Horticulture Crops for Scheduled Caste Sub-Plan,,,,,2401 00 789 JV 30000
+309,Grants-in-Aid,"4,36,22","3,39,74","4,63,94","5,63,94",2401 00 789 JV 30900
+03,Grants for Specific Schemes,"4,36,22","3,39,74","4,63,94","5,63,94",2401 00 789 JV 30903
+JV,Total JV,"4,36,22","3,39,74","4,63,94","5,63,94",
+#State's Expenditure Total,"5,19,26","18,90,32","10,64,53","14,64,81",,
+789,Total 789,"5,19,26","18,90,32","10,64,53","14,64,81",
+793,Special Central Assistance for Scheduled Caste Component Plan,,,,,
+#Central Sector Schemes,,,,,,
+SF,National Mission on Medicinal Plants,,,,,2401 00 793 SF 30000
+309,Grants-in-Aid,,1,1,1,2401 00 793 SF 30900
+03,Grants for Specific Schemes,,1,1,1,2401 00 793 SF 30903
+SF,Total SF,1,1,1,,
+#Central Sector Schemes Total,,1,1,1,,
+#Schemes shared between State and Centre,,,,,,
+UO,National Agriculture Development Programme (NADP-RKVY) under Special Component Plan - Horticulture Department,,,,,2401 00 793 UO 30000
+311,Subsidies,"5,11,08","4,62,39","6,45,43","7,99,63",2401 00 793 UO 31100
+01,Individual Based Subsidy,"5,11,08","4,62,39","6,45,43","7,99,63",2401 00 793 UO 31101
+UO,Total UO,"5,11,08","4,62,39","6,45,43","7,99,63",
+UP,Micro Irrigation Scheme,,,,,2401 00 793 UP 30000
+311,Subsidies,"1,49,76,24","2,14,29,32","2,78,61,17","2,06,00,00",2401 00 793 UP 31100
+01,Individual Based Subsidy,"1,49,76,24","2,14,29,32","2,78,61,17","2,06,00,00",2401 00 793 UP 31101
+UP,Total UP,"1,49,76,24","2,14,29,32","2,78,61,17","2,06,00,00",
+UQ,Assistance to TANHODA under National Horticulture Mission,,,,,2401 00 793 UQ 30000
+311,Subsidies,"27,06,32","31,17,85","40,67,85","42,75,00",2401 00 793 UQ 31100
+01,Individual Based Subsidy,"27,06,32","31,17,85","40,67,85","42,75,00",2401 00 793 UQ 31101
+UQ,Total UQ,"27,06,32","31,17,85","40,67,85","42,75,00",
+UR,National Bamboo Mission,,,,,2401 00 793 UR 30000
+309,Grants-in-Aid,,1,"30,25","47,25",2401 00 793 UR 30900
+03,Grants for Specific Schemes,,1,"30,25","47,25",2401 00 793 UR 30903
+UR,Total UR,,1,"30,25","47,25",
+UV,Paramparagat Krishi Vikas Yojana (PKVY) under National Mission on Sustainable Agriculture under Special Component Plan - Horticulture Crops,,,,,2401 00 793 UV 30000
+305,Office Expenses,"19,71",1,"17,88","26,82",2401 00 793 UV 30500
+02,Other Contingencies,"19,71",1,"17,88","26,82",2401 00 793 UV 30502
+309,Grants-in-Aid,,,"18,35","27,52",2401 00 793 UV 30900
+02,Grants for Creation of Capital Assets,,,"18,35","27,52",2401 00 793 UV 30902
+311,Subsidies,"45,97",1,"40,52","40,52",2401 00 793 UV 31100
+01,Individual Based Subsidy,"45,97",1,"40,52","40,52",2401 00 793 UV 31101
+333,Payments for Professional and Special Services,,,"11,22",1,2401 00 793 UV 33300
+03,Special Service,,,"11,22",1,2401 00 793 UV 33303
+UV,Total UV,"65,68",2,"87,97","94,87",
+UW,Rainfed Area Development under National Mission for sustainable Agriculture for Horticulture Crops for Scheduled caste,,,,,2401 00 793 UW 30000
+311,Subsidies,,,"5,05,25","5,05,25",2401 00 793 UW 31100
+01,Individual Based Subsidy,,,"5,05,25","5,05,25",2401 00 793 UW 31101
+UW,Total UW,,,"5,05,25","5,05,25",
+#Schemes shared between State and Centre Total,"1,82,59,32","2,50,09,59","3,31,97,92","2,63,22,00",,
+793,Total 793,"1,82,59,32","2,50,09,60","3,31,97,93","2,63,22,01",
+794,Special Central Assistance for Tribal Sub-Plan,,,,,
+#Schemes shared between State and Centre,,,,,,
+UK,Micro Irrigation Scheme,,,,,2401 00 794 UK 30000
+311,Subsidies,"11,10,64","14,66,43","14,66,36","15,00,00",2401 00 794 UK 31100
+01,Individual Based Subsidy,"11,10,64","14,66,43","14,66,36","15,00,00",2401 00 794 UK 31101
+UK,Total UK,"11,10,64","14,66,43","14,66,36","15,00,00",
+UL,Assistance to TANHODA under National Horticulture Mission,,,,,2401 00 794 UL 30000
+311,Subsidies,"1,65,01","2,06,24","2,56,24","2,25,00",2401 00 794 UL 31100
+01,Individual Based Subsidy,"1,65,01","2,06,24","2,56,24","2,25,00",2401 00 794 UL 31101
+UL,Total UL,"1,65,01","2,06,24","2,56,24","2,25,00",
+UM,National Bamboo Mission,,,,,2401 00 794 UM 30000
+309,Grants-in-Aid,,1,"1,67","2,37",2401 00 794 UM 30900
+03,Grants for Specific Schemes,,1,"1,67","2,37",2401 00 794 UM 30903
+UM,Total UM,,1,"1,67","2,37",
+UO,National Agriculture Development Programme (NADP-RKVY) - Horticulture  Department,,,,,2401 00 794 UO 30000
+311,Subsidies,"18,96","14,85","37,79","45,14",2401 00 794 UO 31100
+01,Individual Based Subsidy,"18,96","14,85","37,79","45,14",2401 00 794 UO 31101
+UO,Total UO,"18,96","14,85","37,79","45,14",
+UQ,Paramparagat Krishi Vikas Yojana (PKVY) under National Mission on Sustainable Agriculture under  Tribal Sub-Plan - Horticulture Crops,,,,,2401 00 794 UQ 30000
+305,Office Expenses,,,52,1,2401 00 794 UQ 30500
+02,Other Contingencies,,,52,1,2401 00 794 UQ 30502
+311,Subsidies,"3,07",1,"1,96","1,96",2401 00 794 UQ 31100
+01,Individual Based Subsidy,"3,07",1,"1,96","1,96",2401 00 794 UQ 31101
+333,Payments for Professional and Special Services,,,54,1,2401 00 794 UQ 33300
+03,Special Service,,,54,1,2401 00 794 UQ 33303
+UQ,Total UQ,"3,07",1,"3,02","1,98",
+UR,Rainfed Area Development under National Mission for sustainable Agriculture for Horticulture crops for Scheduled Tribe,,,,,2401 00 794 UR 30000
+311,Subsidies,,,"25,26","25,26",2401 00 794 UR 31100
+01,Individual Based Subsidy,,,"25,26","25,26",2401 00 794 UR 31101
+UR,Total UR,,,"25,26","25,26",
+#Schemes shared between State and Centre Total,"12,97,68","16,87,54","17,90,34","17,99,75",,
+794,Total 794,"12,97,68","16,87,54","17,90,34","17,99,75",
+796,Tribal Area Sub-Plan,,,,,
+#State's Expenditure,,,,,,
+AB,Production of Fruits and Vegetables for Tribal Sub-Plan,,,,,2401 00 796 AB 30000
+311,Subsidies,,"50,00",1,1,2401 00 796 AB 31100
+01,Individual Based Subsidy,,"50,00",1,1,2401 00 796 AB 31101
+AB,Total AB,,"50,00",1,1,
+JG,Development of Horticulture in Districts,,,,,2401 00 796 JG 30000
+369,Procurement of Agricultural Inputs,"4,91","31,82","31,68","47,52",2401 00 796 JG 36900
+01,Procurement of Agricultural Inputs,"4,91","31,82","31,68","47,52",2401 00 796 JG 36901
+JG,Total JG,"4,91","31,82","31,68","47,52",
+#State's Expenditure Total,"4,91","81,82","31,69","47,53",,
+796,Total 796,"4,91","81,82","31,69","47,53",
+911,Deduct - Recoveries of Overpayments,,,,,
+#State's Expenditure,,,,,,
+JX,Development of Horticulture in Districts,,,,,2401 00 911 JX 30000
+377,Deduct-Recoveries,"- 1,32",,,,2401 00 911 JX 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"- 1,32",,,,2401 00 911 JX 37702
+JX,Total JX,"- 1,32",,,,
+LH,Relief assistance to the Ockhi cyclone affected farmer,,,,,2401 00 911 LH 30000
+377,Deduct-Recoveries,"- 1,57,04",,,,2401 00 911 LH 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"- 1,57,04",,,,2401 00 911 LH 37702
+LH,Total LH,"- 1,57,04",,,,
+#,State's Expenditure Total,"- 1,58,36",,,,
+911,Total 911,"- 1,58,36",,,,
+00,Total 00 Charged,,1,1,2,
+00,Total 00 Voted,"14,06,89,15","17,97,88,81","17,35,26,29","20,83,66,09",
+2401,Total 2401 Charged,,1,1,2,
+2401,Total 2401 Voted,"14,06,89,15","17,97,88,81","17,35,26,29","20,83,66,09",
+4401-00,CAPITAL OUTLAY ON CROP HUSBANDRY,,,,,
+119,Horticulture and vegetable crops,,,,,
+#State's Expenditure,,,,,,
+JM,Production and Distribution of Planting Material Dendrobium Cultivation to the farmers at subsidized rate and demonstrate the orchids cultivation,,,,,4401 00 119 JM 40000
+416,Major Works,,1,1,1,4401 00 119 JM 41600
+01,Major Works,,1,1,1,4401 00 119 JM 41601
+JM,Total JM,1,1,1,,
+JO,Creation of Infrastructure for the State Horticulture - Farms under NABARD,,,,,4401 00 119 JO 40000
+416,Major Works,"16,86,97","50,00,00",1,1,4401 00 119 JO 41600
+01,Major Works,"16,86,97","50,00,00",1,1,4401 00 119 JO 41601
+JO,Total JO,"16,86,97","50,00,00",1,1,
+JP,Establishment of Special Centres for Encouraging Remunerative Horticulture Crops,,,,,4401 00 119 JP 40000
+416,Major Works,,,,"18,00,00",4401 00 119 JP 41600
+01,Major Works,,,,"18,00,00",4401 00 119 JP 41601
+JP,Total JP,,,"18,00,00",,
+#State's Expenditure Total,"16,86,97","50,00,01",2,"18,00,02",,
+#Schemes shared between State and Centre,,,,,,
+UA,Construction work under National Agricultural Development Programme - (NADP -  RKVY) - Horticulture Department,,,,,4401 00 119 UA 40000
+416,Major Works,"1,00,00",1,"1,40,00","1,00,00",4401 00 119 UA 41600
+01,Major Works,"1,00,00",1,"1,40,00","1,00,00",4401 00 119 UA 41601
+UA,Total UA,"1,00,00",1,"1,40,00","1,00,00",
+#Schemes shared between State and Centre Total,"1,00,00",1,"1,40,00","1,00,00",,
+119,Total 119,"17,86,97","50,00,02","1,40,02","19,00,02",
+793,Special Central Assistance for Scheduled Caste Component Plan,,,,,
+#Schemes shared between State and Centre,,,,,,
+UB,National Agriculture Development Programme (NADP-RKVY) - Horticulture  Department,,,,,4401 00 793 UB 40000
+416,Major Works,"21,00",1,"30,00","25,00",4401 00 793 UB 41600
+01,Major Works,"21,00",1,"30,00","25,00",4401 00 793 UB 41601
+UB,Total UB,"21,00",1,"30,00","25,00",
+#Schemes shared between State and Centre Total,"21,00",1,"30,00","25,00",,
+793,Total 793,"21,00",1,"30,00","25,00",
+794,Special Central Assistance for Tribal Sub-Plan,,,,,
+#Schemes shared between State and Centre,,,,,,
+UB,National Agriculture Development Programme (NADP-RKVY) - Horticulture  Department,,,,,4401 00 794 UB 40000
+416,Major Works,"4,00",1,"15,30","12,00",4401 00 794 UB 41600
+01,Major Works,"4,00",1,"15,30","12,00",4401 00 794 UB 41601
+UB,Total UB,"4,00",1,"15,30","12,00",
+#Schemes shared between State and Centre Total,"4,00",1,"15,30","12,00",,
+794,Total 794,"4,00",1,"15,30","12,00",
+00,Total 00,"18,11,97","50,00,04","1,85,32","19,37,02",
+4401,Total 4401,"18,11,97","50,00,04","1,85,32","19,37,02",
