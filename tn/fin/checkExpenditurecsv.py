@@ -62,14 +62,14 @@ parent_tree={}
 dropindexes=[]
 i=0
 se=0
-print(df.head())
+#print(df.head())
 while True:
 	try:
 		head=df.iloc[i]['head'].split('-')[0]
 		desc=df.iloc[i]['desc'] if not p.isnull(df.iloc[i]['desc']) else head+' MISSING Desc' 
 	except AttributeError as e:
-		print('head was prob nan chk desc',i,df.iloc[i])
-		#raise ValueError("csv:"+sys.argv[1]+" in line "+str(i))
+		#print('head was prob nan chk desc',i,df.iloc[i])
+		raise ValueError("csv:"+sys.argv[1]+" in line "+str(i))
 	#if head=="State's Expenditure,,,,,":
 	#	df.iloc[i]['head']="#State's Expenditure"
 	#	df.iloc[i]['desc']=""
