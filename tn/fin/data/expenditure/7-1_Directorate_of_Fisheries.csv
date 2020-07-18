@@ -1,0 +1,1491 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2059,PUBLIC WORKS,,,,,
+01,Office Buildings,,,,,
+053,Maintenance and Repairs,,,,,
+#,State's Expenditure,,,,,
+AX,Buildings- Fisheries Department (Administered by Chief Engineer (Buildings)),,,,,2059 01 053 AX 30000
+318,Maintenance,,"10,00","10,00","10,00",2059 01 053 AX 31800
+01,Periodical Maintenance,,"10,00","10,00","10,00",2059 01 053 AX 31801
+AX,Total AX,,"10,00","10,00","10,00",
+#,State's Expenditure Total,"10,00","10,00","10,00",,
+053,Total 053,,"10,00","10,00","10,00",
+01,Total 01,,"10,00","10,00","10,00",
+2059,Total 2059,,"10,00","10,00","10,00",
+2216,HOUSING,,,,,
+80,General,,,,,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+JB,Construction of houses for fishermen,,,,,2216 80 800 JB 30000
+309,Grants-in-Aid,"2,14,65",1,1,1,2216 80 800 JB 30900
+02,Grants for Creation of Capital Assets,"2,14,65",1,1,1,2216 80 800 JB 30902
+JB,Total JB,"2,14,65",1,1,1,
+#,State's Expenditure Total,"2,14,65",1,1,1,
+#,Schemes shared between State and Centre,,,,,
+UA,Construction of houses for fishermen,,,,,2216 80 800 UA 30000
+309,Grants-in-Aid,"25,00,00","25,00,00",2,"25,00,00",2216 80 800 UA 30900
+03,Grants for Specific Schemes,"25,00,00","25,00,00",2,"25,00,00",2216 80 800 UA 30903
+UA,Total UA,"25,00,00","25,00,00",2,"25,00,00",
+#,Schemes shared between State and Centre Total,"25,00,00","25,00,00",2,"25,00,00",
+800,Total 800,"27,14,65","25,00,01",3,"25,00,01",
+80,Total 80,"27,14,65","25,00,01",3,"25,00,01",
+2216,Total 2216,"27,14,65","25,00,01",3,"25,00,01",
+2225,"WELFARE OF SCHEDULED CASTE, SCHEDULED TRIBES, OTHER BACKWARD CLASSES AND MINORITIES",,,,,
+03,Welfare of Backward classes,,,,,
+283,Housing,,,,,
+#,State's Expenditure,,,,,
+AB,Establishment expenses for monitoring Construction of Houses for Fishermen,,,,,2225 03 283 AB 30000
+301,Salaries,"82,44","68,29","74,14","1,10,76",2225 03 283 AB 30100
+01,Pay,"74,40","60,82","66,79","1,00,00",2225 03 283 AB 30101
+02,Medical Allowance,43,38,41,41,2225 03 283 AB 30102
+04,Other Allowances,25,28,28,28,2225 03 283 AB 30104
+06,House Rent Allowance,"6,46","5,61","5,58","8,87",2225 03 283 AB 30106
+07,Travel Concession,,42,30,42,2225 03 283 AB 30107
+08,City Compensatory Allowance,90,78,78,78,2225 03 283 AB 30108
+302,Wages,4,4,2,2,2225 03 283 AB 30200
+01,Wages,4,4,2,2,2225 03 283 AB 30201
+303,Dearness Allowance,"38,95","8,22","37,97","24,50",2225 03 283 AB 30300
+01,Dearness Allowance,"38,95","8,22","37,97","24,50",2225 03 283 AB 30301
+304,Travel Expenses,"5,11","5,84","4,05","4,05",2225 03 283 AB 30400
+01,Tour Travelling Allowances,"4,30","5,10","4,05","4,05",2225 03 283 AB 30401
+02,Transfer Travelling Allowances,81,74,,,2225 03 283 AB 30402
+305,Office Expenses,"1,09","1,15","1,13","1,13",2225 03 283 AB 30500
+01,Telephone Charges,21,26,24,24,2225 03 283 AB 30501
+02,Other Contingencies,74,75,75,75,2225 03 283 AB 30502
+03,Electricity Charges,6,6,6,6,2225 03 283 AB 30503
+04,Service Postage & Postal Expenditure,8,8,8,8,2225 03 283 AB 30504
+306,"Rent, Rates and Taxes",,1,"1,30","1,37",2225 03 283 AB 30600
+01,Rent,,1,"1,30","1,37",2225 03 283 AB 30601
+309,Grants-in-Aid,,1,,,2225 03 283 AB 30900
+03,Grants for Specific Schemes,,1,,,2225 03 283 AB 30903
+321,Motor Vehicles,,10,10,10,2225 03 283 AB 32100
+02,Maintenance of Functional Vehicles,,10,10,10,2225 03 283 AB 32102
+345,"Petroleum, Oil and Lubricant","1,69","2,10","1,80","1,80",2225 03 283 AB 34500
+01,"Petroleum, Oil and Lubricant","1,69","2,10","1,80","1,80",2225 03 283 AB 34501
+349,Festival Advances,- 1,,,,2225 03 283 AB 34900
+01,Festival Advances-Debit,30,85,"1,70","1,80",2225 03 283 AB 34901
+02,Festival Advances-Credit,- 31,- 85,"- 1,70","- 1,80",2225 03 283 AB 34902
+376,Computer and Accessories,77,80,80,80,2225 03 283 AB 37600
+02,Maintenance,49,50,50,50,2225 03 283 AB 37602
+03,Stationery,28,30,30,30,2225 03 283 AB 37603
+AB,Total AB,"1,30,08","86,56","1,21,31","1,44,53",
+#,State's Expenditure Total,"1,30,08","86,56","1,21,31","1,44,53",
+283,Total 283,"1,30,08","86,56","1,21,31","1,44,53",
+03,Total 03,"1,30,08","86,56","1,21,31","1,44,53",
+2225,Total 2225,"1,30,08","86,56","1,21,31","1,44,53",
+2405-00,FISHERIES,,,,,
+001,Direction and Administration,,,,,
+#,State's Expenditure,,,,,
+AA,Headquarters Establishment,,,,,2405 00 001 AA 30000
+301,Salaries,"4,05,60","4,52,30","4,52,97","4,53,12",2405 00 001 AA 30100
+01,Pay,"3,51,61","4,02,23","4,02,23","4,02,23",2405 00 001 AA 30101
+02,Medical Allowance,"2,80","3,30","3,30","3,30",2405 00 001 AA 30102
+03,Medical Charges,95,"1,15","1,00","1,00",2405 00 001 AA 30103
+04,Other Allowances,"5,45","5,72","5,72","5,74",2405 00 001 AA 30104
+06,House Rent Allowance,"37,66","31,80","32,63","32,63",2405 00 001 AA 30106
+07,Travel Concession,,51,50,51,2405 00 001 AA 30107
+08,City Compensatory Allowance,"7,13","7,59","7,59","7,71",2405 00 001 AA 30108
+303,Dearness Allowance,"67,16","59,09","59,09","98,55",2405 00 001 AA 30300
+01,Dearness Allowance,"67,16","59,09","59,09","98,55",2405 00 001 AA 30301
+304,Travel Expenses,"9,65","17,45","10,65","10,65",2405 00 001 AA 30400
+01,Tour Travelling Allowances,"9,15","16,80","10,00","10,00",2405 00 001 AA 30401
+02,Transfer Travelling Allowances,50,65,65,65,2405 00 001 AA 30402
+305,Office Expenses,"26,61","64,33","30,75","28,39",2405 00 001 AA 30500
+01,Telephone Charges,"16,71","21,17","16,45","16,45",2405 00 001 AA 30501
+02,Other Contingencies,"7,00","8,43","10,43","8,43",2405 00 001 AA 30502
+03,Electricity Charges,"1,90","31,23",37,1,2405 00 001 AA 30503
+04,Service Postage & Postal Expenditure,"1,00","3,50","3,50","3,50",2405 00 001 AA 30504
+306,"Rent, Rates and Taxes",,37,37,39,2405 00 001 AA 30600
+03,Water Charges,,37,37,39,2405 00 001 AA 30603
+308,Advertising and Publicity,"15,65",1,"3,34",1,2405 00 001 AA 30800
+01,Advertisement Charges,"15,65",1,"2,29",1,2405 00 001 AA 30801
+02,Exhibition,,,"1,05",,2405 00 001 AA 30802
+309,Grants-in-Aid,,1,,1,2405 00 001 AA 30900
+01,Grants for Current Expenditure,,1,,1,2405 00 001 AA 30901
+311,Subsidies,,1,,1,2405 00 001 AA 31100
+01,Individual Based Subsidy,,1,,1,2405 00 001 AA 31101
+318,Maintenance,,1,1,1,2405 00 001 AA 31800
+01,Periodical Maintenance,,1,1,1,2405 00 001 AA 31801
+319,Machinery and Equipments,,2,2,2,2405 00 001 AA 31900
+01,Purchase,,1,1,1,2405 00 001 AA 31901
+03,Maintenance,,1,1,1,2405 00 001 AA 31903
+321,Motor Vehicles,"14,40","7,71","14,61","14,61",2405 00 001 AA 32100
+01,Purchase,,1,1,1,2405 00 001 AA 32101
+02,Maintenance of Functional Vehicles,,20,20,20,2405 00 001 AA 32102
+03,Hire Charges,"14,40","7,50","14,40","14,40",2405 00 001 AA 32103
+333,Payments for Professional and Special Services,,63,"9,37",63,2405 00 001 AA 33300
+01,Pleaders Fees,,62,"9,36",62,2405 00 001 AA 33301
+09,Other Payments,,1,1,1,2405 00 001 AA 33309
+345,"Petroleum, Oil and Lubricant","15,04","19,23","19,23","19,23",2405 00 001 AA 34500
+01,"Petroleum, Oil and Lubricant","15,04","19,23","19,23","19,23",2405 00 001 AA 34501
+349,Festival Advances,24,,,,2405 00 001 AA 34900
+01,Festival Advances-Debit,"2,80","4,50","10,70","12,00",2405 00 001 AA 34901
+02,Festival Advances-Credit,"- 2,56","- 4,50","- 10,70","- 12,00",2405 00 001 AA 34902
+351,Compensation Charged,,1,1,1,2405 00 001 AA 35100
+51,Claims under no fault liability -  principal charges Charged,,1,1,1,2405 00 001 AA 35151
+359,Prizes and Awards,2,22,22,23,2405 00 001 AA 35900
+01,Prizes and Awards,2,22,22,23,2405 00 001 AA 35901
+371,Printing Charges,"1,30","2,21","7,01","2,21",2405 00 001 AA 37100
+01,Printing Charges,"1,30","2,21","7,01","2,21",2405 00 001 AA 37101
+373,Transport Charges,,1,"1,77",1,2405 00 001 AA 37300
+01,Transport Charges,,1,"1,77",1,2405 00 001 AA 37301
+376,Computer and Accessories,"2,53","3,23","3,23","3,23",2405 00 001 AA 37600
+01,Purchase,,1,1,1,2405 00 001 AA 37601
+02,Maintenance,"1,12","1,80","1,80","1,80",2405 00 001 AA 37602
+03,Stationery,"1,41","1,42","1,42","1,42",2405 00 001 AA 37603
+AA,Total AA Charged,,1,1,1,
+AA,Total AA Voted,"5,58,20","6,26,84","6,12,64","6,31,31",
+AB,District Establishment,,,,,2405 00 001 AB 30000
+301,Salaries,"11,53,59","11,48,92","12,81,42","19,71,44",2405 00 001 AB 30100
+01,Pay,"10,64,08","10,50,24","11,75,78","17,81,79",2405 00 001 AB 30101
+02,Medical Allowance,"8,97","9,65","10,00","10,00",2405 00 001 AB 30102
+03,Medical Charges,32,40,35,35,2405 00 001 AB 30103
+04,Other Allowances,"9,71","9,20","10,39","11,05",2405 00 001 AB 30104
+06,House Rent Allowance,"64,60","72,36","77,88","1,53,82",2405 00 001 AB 30106
+07,Travel Concession,31,45,40,45,2405 00 001 AB 30107
+08,City Compensatory Allowance,"5,60","6,62","6,62","13,98",2405 00 001 AB 30108
+302,Wages,"15,70","17,90","22,27","22,27",2405 00 001 AB 30200
+01,Wages,"15,70","17,90","22,27","22,27",2405 00 001 AB 30201
+303,Dearness Allowance,"2,83,10","1,55,51","3,40,71","3,78,36",2405 00 001 AB 30300
+01,Dearness Allowance,"2,83,10","1,55,51","3,40,71","3,78,36",2405 00 001 AB 30301
+304,Travel Expenses,"23,65","27,71","41,38","75,30",2405 00 001 AB 30400
+01,Tour Travelling Allowances,"23,08","26,42","39,96","73,88",2405 00 001 AB 30401
+02,Transfer Travelling Allowances,57,"1,29","1,42","1,42",2405 00 001 AB 30402
+305,Office Expenses,"20,06","26,99","32,33","33,96",2405 00 001 AB 30500
+01,Telephone Charges,"3,38","6,04","5,59","5,59",2405 00 001 AB 30501
+02,Other Contingencies,"4,28","4,84","5,17","5,84",2405 00 001 AB 30502
+03,Electricity Charges,"10,42","13,76","19,20","20,16",2405 00 001 AB 30503
+04,Service Postage & Postal Expenditure,"1,98","2,35","2,37","2,37",2405 00 001 AB 30504
+306,"Rent, Rates and Taxes","12,14","16,56","15,84","17,14",2405 00 001 AB 30600
+01,Rent,"7,88","11,91","12,26","12,88",2405 00 001 AB 30601
+02,Property tax,"4,21","4,54","3,39","3,56",2405 00 001 AB 30602
+03,Water Charges,5,11,19,70,2405 00 001 AB 30603
+308,Advertising and Publicity,,1,1,1,2405 00 001 AB 30800
+01,Advertisement Charges,,1,1,1,2405 00 001 AB 30801
+318,Maintenance,"1,54","3,25","3,25","3,25",2405 00 001 AB 31800
+01,Periodical Maintenance,"1,54","3,25","3,25","3,25",2405 00 001 AB 31801
+319,Machinery and Equipments,,1,1,1,2405 00 001 AB 31900
+01,Purchase,,1,1,1,2405 00 001 AB 31901
+321,Motor Vehicles,"1,93","1,87","2,13,47","66,67",2405 00 001 AB 32100
+01,Purchase,,1,"1,90,01",1,2405 00 001 AB 32101
+02,Maintenance of Functional Vehicles,"1,93","1,86","5,66","13,26",2405 00 001 AB 32102
+03,Hire Charges,,,"17,80","53,40",2405 00 001 AB 32103
+324,Materials and Supplies,,1,1,1,2405 00 001 AB 32400
+01,Materials and Supplies,,1,1,1,2405 00 001 AB 32401
+333,Payments for Professional and Special Services,13,23,88,23,2405 00 001 AB 33300
+01,Pleaders Fees,13,23,88,23,2405 00 001 AB 33301
+345,"Petroleum, Oil and Lubricant","20,27","23,83","40,77","75,57",2405 00 001 AB 34500
+01,"Petroleum, Oil and Lubricant","20,27","23,83","40,77","75,57",2405 00 001 AB 34501
+347,Stores and Equipments,5,5,5,5,2405 00 001 AB 34700
+01,Stores - Voted,5,5,5,5,2405 00 001 AB 34701
+349,Festival Advances,"1,01",,,,2405 00 001 AB 34900
+01,Festival Advances-Debit,"11,16","15,50","30,30","30,00",2405 00 001 AB 34901
+02,Festival Advances-Credit,"- 10,15","- 15,50","- 30,30","- 30,00",2405 00 001 AB 34902
+351,Compensation,,1,1,,2405 00 001 AB 35100
+02,Other Compensations  - Voted,,1,1,,2405 00 001 AB 35102
+354,Expenses on Conducted Tours,,1,1,1,2405 00 001 AB 35400
+01,Expenses on Conducted Tours,,1,1,1,2405 00 001 AB 35401
+359,Prizes and Awards,20,23,8,8,2405 00 001 AB 35900
+01,Prizes and Awards,20,23,8,8,2405 00 001 AB 35901
+367,Feeding/Dietary Charges,,1,1,1,2405 00 001 AB 36700
+09,Others,,1,1,1,2405 00 001 AB 36709
+371,Printing Charges,,1,1,1,2405 00 001 AB 37100
+01,Printing Charges,,1,1,1,2405 00 001 AB 37101
+373,Transport Charges,4,20,20,20,2405 00 001 AB 37300
+01,Transport Charges,4,20,20,20,2405 00 001 AB 37301
+376,Computer and Accessories,"5,15","5,76","5,76","5,76",2405 00 001 AB 37600
+02,Maintenance,"2,36","2,96","2,96","2,96",2405 00 001 AB 37602
+03,Stationery,"2,79","2,80","2,80","2,80",2405 00 001 AB 37603
+AB,Total AB,"15,38,56","14,29,08","19,98,48","26,50,34",
+AE,Distress Management Cell,,,,,2405 00 001 AE 30000
+305,Office Expenses,"1,40","1,71","1,71","1,71",2405 00 001 AE 30500
+01,Telephone Charges,11,32,32,32,2405 00 001 AE 30501
+02,Other Contingencies,"1,29","1,39","1,39","1,39",2405 00 001 AE 30502
+319,Machinery and Equipments,,1,1,1,2405 00 001 AE 31900
+01,Purchase,,1,1,1,2405 00 001 AE 31901
+376,Computer and Accessories,15,17,17,17,2405 00 001 AE 37600
+01,Purchase,,1,1,1,2405 00 001 AE 37601
+02,Maintenance,15,16,16,16,2405 00 001 AE 37602
+AE,Total AE,"1,55","1,89","1,89","1,89",
+#,State's Expenditure Total Charged,,1,1,1,
+#,State's Expenditure Total Voted,"20,98,31","20,57,81","26,13,01","32,83,54",
+001,Total 001 Charged,,1,1,1,
+001,Total 001 Voted,"20,98,31","20,57,81","26,13,01","32,83,54",
+101,Inland Fisheries,,,,,
+#,State's Expenditure,,,,,
+AA,Conservation and Development,,,,,2405 00 101 AA 30000
+301,Salaries,"10,07,24","10,95,82","10,05,28","10,93,83",2405 00 101 AA 30100
+01,Pay,"9,28,38","10,12,00","9,23,86","9,83,19",2405 00 101 AA 30101
+02,Medical Allowance,"10,21","10,94","12,13","12,13",2405 00 101 AA 30102
+03,Medical Charges,12,42,10,10,2405 00 101 AA 30103
+04,Other Allowances,"21,71","18,97","18,97","20,74",2405 00 101 AA 30104
+06,House Rent Allowance,"44,03","47,99","44,92","72,17",2405 00 101 AA 30106
+07,Travel Concession,15,35,15,35,2405 00 101 AA 30107
+08,City Compensatory Allowance,"2,64","5,15","5,15","5,15",2405 00 101 AA 30108
+302,Wages,"20,72","22,97","30,79","30,79",2405 00 101 AA 30200
+01,Wages,"20,72","22,97","30,79","30,79",2405 00 101 AA 30201
+303,Dearness Allowance,"2,23,79","1,36,82","2,10,80","2,40,88",2405 00 101 AA 30300
+01,Dearness Allowance,"2,23,79","1,36,82","2,10,80","2,40,88",2405 00 101 AA 30301
+304,Travel Expenses,"20,02","22,37","20,40","20,40",2405 00 101 AA 30400
+01,Tour Travelling Allowances,"19,93","21,97","20,00","20,00",2405 00 101 AA 30401
+02,Transfer Travelling Allowances,9,40,40,40,2405 00 101 AA 30402
+305,Office Expenses,"39,24","51,55","43,71","45,06",2405 00 101 AA 30500
+01,Telephone Charges,"2,60","3,48","3,07","3,07",2405 00 101 AA 30501
+02,Other Contingencies,"10,34","12,80","12,80","12,80",2405 00 101 AA 30502
+03,Electricity Charges,"25,50","34,35","26,97","28,32",2405 00 101 AA 30503
+04,Service Postage & Postal Expenditure,80,92,87,87,2405 00 101 AA 30504
+306,"Rent, Rates and Taxes","17,66","19,55","22,13","23,23",2405 00 101 AA 30600
+01,Rent,"14,14","15,27","18,63","19,56",2405 00 101 AA 30601
+02,Property tax,"3,19","3,90","3,20","3,36",2405 00 101 AA 30602
+03,Water Charges,33,38,30,31,2405 00 101 AA 30603
+308,Advertising and Publicity,"5,73","6,65","6,65","6,65",2405 00 101 AA 30800
+01,Advertisement Charges,14,1,1,1,2405 00 101 AA 30801
+02,Exhibition,"5,59","6,64","6,64","6,64",2405 00 101 AA 30802
+309,Grants-in-Aid,,1,,,2405 00 101 AA 30900
+03,Grants for Specific Schemes,,1,,,2405 00 101 AA 30903
+311,Subsidies,"50,02",1,,1,2405 00 101 AA 31100
+01,Individual Based Subsidy,"50,02",1,,1,2405 00 101 AA 31101
+317,Minor Works,16,25,25,25,2405 00 101 AA 31700
+01,Minor Works,16,25,25,25,2405 00 101 AA 31701
+318,Maintenance,"2,68","3,67","3,67","3,67",2405 00 101 AA 31800
+01,Periodical Maintenance,"2,68","3,67","3,67","3,67",2405 00 101 AA 31801
+319,Machinery and Equipments,55,69,69,69,2405 00 101 AA 31900
+01,Purchase,19,2,2,2,2405 00 101 AA 31901
+03,Maintenance,36,67,67,67,2405 00 101 AA 31903
+321,Motor Vehicles,81,"1,09","1,09","1,09",2405 00 101 AA 32100
+01,Purchase,,1,1,1,2405 00 101 AA 32101
+02,Maintenance of Functional Vehicles,81,"1,08","1,08","1,08",2405 00 101 AA 32102
+324,Materials and Supplies,"2,24","2,44","2,44","2,44",2405 00 101 AA 32400
+01,Materials and Supplies,"2,24","2,44","2,44","2,44",2405 00 101 AA 32401
+333,Payments for Professional and Special Services,45,90,90,90,2405 00 101 AA 33300
+01,Pleaders Fees,45,89,89,89,2405 00 101 AA 33301
+04,Contract Payment,,1,1,1,2405 00 101 AA 33304
+345,"Petroleum, Oil and Lubricant","11,30","12,27","13,78","13,78",2405 00 101 AA 34500
+01,"Petroleum, Oil and Lubricant","11,30","12,27","13,78","13,78",2405 00 101 AA 34501
+347,Stores and Equipments,"1,61","1,70","1,70","1,70",2405 00 101 AA 34700
+01,Stores - Voted,"1,61","1,70","1,70","1,70",2405 00 101 AA 34701
+349,Festival Advances,- 45,,,,2405 00 101 AA 34900
+01,Festival Advances-Debit,"9,30","13,80","24,60","26,00",2405 00 101 AA 34901
+02,Festival Advances-Credit,"- 9,75","- 13,80","- 24,60","- 26,00",2405 00 101 AA 34902
+359,Prizes and Awards,10,11,6,6,2405 00 101 AA 35900
+01,Prizes and Awards,10,11,6,6,2405 00 101 AA 35901
+367,Feeding/Dietary Charges,"55,69","33,20","33,20","33,20",2405 00 101 AA 36700
+09,Others,"55,69","33,20","33,20","33,20",2405 00 101 AA 36709
+368,"Cost of Books/Note Books/Slates, etc.",,1,1,1,2405 00 101 AA 36800
+01,"Cost of Books/Note Books/Slates, etc.",,1,1,1,2405 00 101 AA 36801
+373,Transport Charges,"3,18","3,55","3,55","3,55",2405 00 101 AA 37300
+01,Transport Charges,"3,18","3,55","3,55","3,55",2405 00 101 AA 37301
+376,Computer and Accessories,"2,38","2,53","2,53","2,53",2405 00 101 AA 37600
+02,Maintenance,"1,21","1,23","1,23","1,23",2405 00 101 AA 37602
+03,Stationery,"1,17","1,30","1,30","1,30",2405 00 101 AA 37603
+AA,Total AA,"14,65,12","14,18,16","14,03,63","15,24,72",
+AB,Fish seed production and collection for stock,,,,,2405 00 101 AB 30000
+301,Salaries,"78,17","1,26,68","1,01,03","1,19,32",2405 00 101 AB 30100
+01,Pay,"74,31","1,18,15","94,24","1,12,66",2405 00 101 AB 30101
+02,Medical Allowance,70,90,68,65,2405 00 101 AB 30102
+03,Medical Charges,,"1,18",50,50,2405 00 101 AB 30103
+04,Other Allowances,"1,33","1,91","1,91","1,91",2405 00 101 AB 30104
+06,House Rent Allowance,"1,68","3,78","3,17","2,84",2405 00 101 AB 30106
+07,Travel Concession,7,43,20,43,2405 00 101 AB 30107
+08,City Compensatory Allowance,8,33,33,33,2405 00 101 AB 30108
+302,Wages,"12,83","12,90","15,00","15,00",2405 00 101 AB 30200
+01,Wages,"12,83","12,90","15,00","15,00",2405 00 101 AB 30201
+303,Dearness Allowance,"27,91","15,97","23,84","27,60",2405 00 101 AB 30300
+01,Dearness Allowance,"27,91","15,97","23,84","27,60",2405 00 101 AB 30301
+304,Travel Expenses,"1,41","1,04","1,04","1,04",2405 00 101 AB 30400
+01,Tour Travelling Allowances,"1,36",99,99,99,2405 00 101 AB 30401
+02,Transfer Travelling Allowances,5,5,5,5,2405 00 101 AB 30402
+305,Office Expenses,"9,87","11,09","8,21","8,60",2405 00 101 AB 30500
+02,Other Contingencies,49,50,50,50,2405 00 101 AB 30502
+03,Electricity Charges,"9,35","10,56","7,68","8,07",2405 00 101 AB 30503
+04,Service Postage & Postal Expenditure,3,3,3,3,2405 00 101 AB 30504
+306,"Rent, Rates and Taxes",93,"1,19","1,37","1,43",2405 00 101 AB 30600
+02,Property tax,93,"1,19","1,37","1,43",2405 00 101 AB 30602
+318,Maintenance,"1,03","1,14","1,38","1,38",2405 00 101 AB 31800
+01,Periodical Maintenance,"1,03","1,14","1,38","1,38",2405 00 101 AB 31801
+319,Machinery and Equipments,14,14,14,14,2405 00 101 AB 31900
+03,Maintenance,14,14,14,14,2405 00 101 AB 31903
+321,Motor Vehicles,11,11,11,11,2405 00 101 AB 32100
+02,Maintenance of Functional Vehicles,11,11,11,11,2405 00 101 AB 32102
+324,Materials and Supplies,,1,1,1,2405 00 101 AB 32400
+01,Materials and Supplies,,1,1,1,2405 00 101 AB 32401
+345,"Petroleum, Oil and Lubricant",92,"1,79","2,04","2,04",2405 00 101 AB 34500
+01,"Petroleum, Oil and Lubricant",92,"1,79","2,04","2,04",2405 00 101 AB 34501
+347,Stores and Equipments,46,47,47,47,2405 00 101 AB 34700
+01,Stores - Voted,46,47,47,47,2405 00 101 AB 34701
+349,Festival Advances,- 1,,,,2405 00 101 AB 34900
+01,Festival Advances-Debit,75,"1,15","2,00","2,10",2405 00 101 AB 34901
+02,Festival Advances-Credit,- 76,"- 1,15","- 2,00","- 2,10",2405 00 101 AB 34902
+359,Prizes and Awards,,1,1,1,2405 00 101 AB 35900
+01,Prizes and Awards,,1,1,1,2405 00 101 AB 35901
+364,Lands,,1,1,1,2405 00 101 AB 36400
+01,Lands - Voted,,1,1,1,2405 00 101 AB 36401
+367,Feeding/Dietary Charges,"4,78","3,69","3,69","3,69",2405 00 101 AB 36700
+09,Others,"4,78","3,69","3,69","3,69",2405 00 101 AB 36709
+AB,Total AB,"1,38,55","1,76,24","1,58,35","1,80,85",
+AC,Major reservoir fisheries,,,,,2405 00 101 AC 30000
+301,Salaries,"1,28,71","1,66,04","1,44,63","2,19,16",2405 00 101 AC 30100
+01,Pay,"1,20,38","1,53,11","1,35,79","2,06,98",2405 00 101 AC 30101
+02,Medical Allowance,"1,14","1,23","1,27","1,27",2405 00 101 AC 30102
+04,Other Allowances,"2,19","3,93","2,20","2,29",2405 00 101 AC 30104
+06,House Rent Allowance,"5,00","7,72","5,37","8,57",2405 00 101 AC 30106
+07,Travel Concession,,5,,5,2405 00 101 AC 30107
+302,Wages,"2,20","2,21","2,30","2,30",2405 00 101 AC 30200
+01,Wages,"2,20","2,21","2,30","2,30",2405 00 101 AC 30201
+303,Dearness Allowance,"33,80","23,50","34,88","50,71",2405 00 101 AC 30300
+01,Dearness Allowance,"33,80","23,50","34,88","50,71",2405 00 101 AC 30301
+304,Travel Expenses,"3,08","4,33","3,11","3,11",2405 00 101 AC 30400
+01,Tour Travelling Allowances,"3,00","4,22","3,00","3,00",2405 00 101 AC 30401
+02,Transfer Travelling Allowances,8,11,11,11,2405 00 101 AC 30402
+305,Office Expenses,"2,59","2,95","3,37","3,50",2405 00 101 AC 30500
+01,Telephone Charges,9,16,16,16,2405 00 101 AC 30501
+02,Other Contingencies,52,52,52,52,2405 00 101 AC 30502
+03,Electricity Charges,"1,87","2,14","2,56","2,69",2405 00 101 AC 30503
+04,Service Postage & Postal Expenditure,11,13,13,13,2405 00 101 AC 30504
+306,"Rent, Rates and Taxes","1,69","1,98","1,66","1,74",2405 00 101 AC 30600
+01,Rent,"1,05","1,31","1,10","1,15",2405 00 101 AC 30601
+02,Property tax,64,67,56,59,2405 00 101 AC 30602
+308,Advertising and Publicity,,1,53,"1,14",2405 00 101 AC 30800
+01,Advertisement Charges,,1,53,"1,14",2405 00 101 AC 30801
+318,Maintenance,10,15,20,20,2405 00 101 AC 31800
+01,Periodical Maintenance,10,15,20,20,2405 00 101 AC 31801
+319,Machinery and Equipments,12,12,12,12,2405 00 101 AC 31900
+03,Maintenance,12,12,12,12,2405 00 101 AC 31903
+321,Motor Vehicles,10,12,12,12,2405 00 101 AC 32100
+02,Maintenance of Functional Vehicles,10,12,12,12,2405 00 101 AC 32102
+333,Payments for Professional and Special Services,18,32,32,32,2405 00 101 AC 33300
+01,Pleaders Fees,18,32,32,32,2405 00 101 AC 33301
+345,"Petroleum, Oil and Lubricant","1,41","1,94","1,74","1,74",2405 00 101 AC 34500
+01,"Petroleum, Oil and Lubricant","1,41","1,94","1,74","1,74",2405 00 101 AC 34501
+347,Stores and Equipments,34,50,50,50,2405 00 101 AC 34700
+01,Stores - Voted,34,50,50,50,2405 00 101 AC 34701
+349,Festival Advances,- 40,,,,2405 00 101 AC 34900
+01,Festival Advances-Debit,90,"1,75","3,50","3,70",2405 00 101 AC 34901
+02,Festival Advances-Credit,"- 1,30","- 1,75","- 3,50","- 3,70",2405 00 101 AC 34902
+367,Feeding/Dietary Charges,"2,17","1,75","1,75","1,75",2405 00 101 AC 36700
+09,Others,"2,17","1,75","1,75","1,75",2405 00 101 AC 36709
+373,Transport Charges,34,47,47,47,2405 00 101 AC 37300
+01,Transport Charges,34,47,47,47,2405 00 101 AC 37301
+376,Computer and Accessories,18,22,22,22,2405 00 101 AC 37600
+02,Maintenance,6,10,10,10,2405 00 101 AC 37602
+03,Stationery,12,12,12,12,2405 00 101 AC 37603
+AC,Total AC,"1,76,61","2,06,61","1,95,92","2,87,10",
+AG,Setting up of fresh water Prawn hatchery,,,,,2405 00 101 AG 30000
+311,Subsidies,,1,1,1,2405 00 101 AG 31100
+02,General Subsidy,,1,1,1,2405 00 101 AG 31102
+AG,Total AG,1,1,1,,
+AI,Enhancing Fish Diversity and Biomass in the sea near Pulicate lake - Scheme  under State Innovation Fund,,,,,2405 00 101 AI 30000
+309,Grants-in-Aid,,,"3,01,72","1,07,22",2405 00 101 AI 30900
+03,Grants for Specific Schemes,,,"3,01,72","1,07,22",2405 00 101 AI 30903
+AI,Total AI,,"3,01,72","1,07,22",,
+JD,Development of Inland Fish Culture through Fish Farmers Development Agency,,,,,2405 00 101 JD 30000
+309,Grants-in-Aid,,1,,,2405 00 101 JD 30900
+03,Grants for Specific Schemes,,1,,,2405 00 101 JD 30903
+JD,Total JD,1,,,,
+JL,National Agriculture Development Programme (NADP-RKVY) -  Fisheries Department,,,,,2405 00 101 JL 30000
+305,Office Expenses,,1,1,1,2405 00 101 JL 30500
+02,Other Contingencies,,1,1,1,2405 00 101 JL 30502
+309,Grants-in-Aid,,1,,,2405 00 101 JL 30900
+03,Grants for Specific Schemes,,1,,,2405 00 101 JL 30903
+311,Subsidies,,1,,1,2405 00 101 JL 31100
+01,Individual Based Subsidy,,1,,1,2405 00 101 JL 31101
+317,Minor Works,,1,1,1,2405 00 101 JL 31700
+01,Minor Works,,1,1,1,2405 00 101 JL 31701
+319,Machinery and Equipments,,1,1,1,2405 00 101 JL 31900
+01,Purchase,,1,1,1,2405 00 101 JL 31901
+324,Materials and Supplies,,1,1,1,2405 00 101 JL 32400
+01,Materials and Supplies,,1,1,1,2405 00 101 JL 32401
+372,Training,,1,1,1,2405 00 101 JL 37200
+01,Training,,1,1,1,2405 00 101 JL 37201
+373,Transport Charges,,1,1,1,2405 00 101 JL 37300
+01,Transport Charges,,1,1,1,2405 00 101 JL 37301
+JL,Total JL,8,6,7,,
+JO,Introduction of Short Seasonal Fish Species in Existing Farm ponds with Poly Liners (Silpaulin / HDPE Sheets) State Innovation Fund,,,,,2405 00 101 JO 30000
+309,Grants-in-Aid,,,,"23,10",2405 00 101 JO 30900
+03,Grants for Specific Schemes,,,,"23,10",2405 00 101 JO 30903
+JO,Total JO,,,"23,10",,
+#,State's Expenditure Total,"17,80,28","18,01,11","20,59,69","21,23,07",
+#,Externally Aided Projects,,,,,
+PA,Improving inland fisheries for Tank and its Command Areas under Tamil Nadu Irrigated Agriculture Modernization and Water Bodies Restoration and Management (IAMWARM) Project,,,,,2405 00 101 PA 30000
+367,Feeding/Dietary Charges,,1,,,2405 00 101 PA 36700
+09,Others,,1,,,2405 00 101 PA 36709
+PA,Total PA,,1,,,
+PC,Implementation of Fisheries Management and Sustainable Livelihood (FIMSUL) Project with World Bank assistance,,,,,2405 00 101 PC 30000
+301,Salaries,,5,5,5,2405 00 101 PC 30100
+01,Pay,,5,5,5,2405 00 101 PC 30101
+PC,Total PC,,5,5,5,
+PD,World Bank assisted scheme under Coastal Disaster Risk Reduction Project (CDRRP),,,,,2405 00 101 PD 30000
+301,Salaries,,3,"92,46",1,2405 00 101 PD 30100
+01,Pay,,3,"92,46",1,2405 00 101 PD 30101
+303,Dearness Allowance,,1,1,,2405 00 101 PD 30300
+01,Dearness Allowance,,1,1,,2405 00 101 PD 30301
+305,Office Expenses,,"12,32","1,02",4,2405 00 101 PD 30500
+01,Telephone Charges,,30,,1,2405 00 101 PD 30501
+02,Other Contingencies,,"12,00","1,00",1,2405 00 101 PD 30502
+03,Electricity Charges,,1,1,1,2405 00 101 PD 30503
+05,Furniture,,1,1,1,2405 00 101 PD 30505
+306,"Rent, Rates and Taxes",,1,1,1,2405 00 101 PD 30600
+01,Rent,,1,1,1,2405 00 101 PD 30601
+309,Grants-in-Aid,"16,54,04",1,1,1,2405 00 101 PD 30900
+03,Grants for Specific Schemes,"16,54,04",1,1,1,2405 00 101 PD 30903
+319,Machinery and Equipments,,1,1,1,2405 00 101 PD 31900
+01,Purchase,,1,1,1,2405 00 101 PD 31901
+321,Motor Vehicles,,1,1,1,2405 00 101 PD 32100
+03,Hire Charges,,1,1,1,2405 00 101 PD 32103
+PD,Total PD,"16,54,04","12,40","93,53",9,
+PE,TNIAM project in Fisheries Department,,,,,2405 00 101 PE 30000
+302,Wages,,,"8,00","8,00",2405 00 101 PE 30200
+01,Wages,,,"8,00","8,00",2405 00 101 PE 30201
+305,Office Expenses,"2,11","2,28","26,85","23,86",2405 00 101 PE 30500
+01,Telephone Charges,,21,"1,10",18,2405 00 101 PE 30501
+02,Other Contingencies,"2,11","2,07","20,95","18,88",2405 00 101 PE 30502
+03,Electricity Charges,,,"4,80","4,80",2405 00 101 PE 30503
+308,Advertising and Publicity,,,13,,2405 00 101 PE 30800
+01,Advertisement Charges,,,13,,2405 00 101 PE 30801
+317,Minor Works,"7,81,60","3,35,75","4,38,50","1,99,75",2405 00 101 PE 31700
+01,Minor Works,"7,81,60","3,35,75","4,38,50","1,99,75",2405 00 101 PE 31701
+319,Machinery and Equipments,"12,91",,,,2405 00 101 PE 31900
+01,Purchase,"12,91",,,,2405 00 101 PE 31901
+324,Materials and Supplies,"84,39","4,57,57","6,26,35","5,78,31",2405 00 101 PE 32400
+01,Materials and Supplies,"84,39","4,57,57","6,26,35","5,78,31",2405 00 101 PE 32401
+333,Payments for Professional and Special Services,,"20,00","30,50","40,00",2405 00 101 PE 33300
+04,Contract Payment,,"20,00","30,50","40,00",2405 00 101 PE 33304
+347,Stores and Equipments,"72,16","1,52,31","3,27,81","77,98",2405 00 101 PE 34700
+02,Equipments - Voted,"72,16","1,52,31","3,27,81","77,98",2405 00 101 PE 34702
+367,Feeding/Dietary Charges,"43,77","26,80","1,18,33","1,35,06",2405 00 101 PE 36700
+09,Others,"43,77","26,80","1,18,33","1,35,06",2405 00 101 PE 36709
+372,Training,"3,54","10,00","93,60","30,00",2405 00 101 PE 37200
+01,Training,"3,54","10,00","93,60","30,00",2405 00 101 PE 37201
+373,Transport Charges,68,1,"6,00","6,00",2405 00 101 PE 37300
+01,Transport Charges,68,1,"6,00","6,00",2405 00 101 PE 37301
+376,Computer and Accessories,"4,59",1,"1,05",90,2405 00 101 PE 37600
+01,Purchase,"3,85",,,,2405 00 101 PE 37601
+02,Maintenance,14,1,45,30,2405 00 101 PE 37602
+03,Stationery,60,,60,60,2405 00 101 PE 37603
+PE,Total PE,"10,05,75","10,04,73","16,77,12","10,99,86",
+QA,World Bank assisted scheme  under Emergency Tsunami Reconstruction Project (ETRP) - Fisheries,,,,,2405 00 101 QA 30000
+301,Salaries,"25,64","17,24","17,51","16,71",2405 00 101 QA 30100
+01,Pay,"25,64","13,95","14,77","15,36",2405 00 101 QA 30101
+02,Medical Allowance,,6,5,5,2405 00 101 QA 30102
+03,Medical Charges,,7,,,2405 00 101 QA 30103
+04,Other Allowances,,53,22,23,2405 00 101 QA 30104
+06,House Rent Allowance,,"2,04","2,04",92,2405 00 101 QA 30106
+07,Travel Concession,,16,,,2405 00 101 QA 30107
+08,City Compensatory Allowance,,43,43,15,2405 00 101 QA 30108
+303,Dearness Allowance,,"12,43","17,15","3,76",2405 00 101 QA 30300
+01,Dearness Allowance,,"12,43","17,15","3,76",2405 00 101 QA 30301
+304,Travel Expenses,,31,,,2405 00 101 QA 30400
+01,Tour Travelling Allowances,,21,,,2405 00 101 QA 30401
+02,Transfer Travelling Allowances,,10,,,2405 00 101 QA 30402
+305,Office Expenses,,"1,47","1,09","2,08",2405 00 101 QA 30500
+01,Telephone Charges,,33,,,2405 00 101 QA 30501
+02,Other Contingencies,,"1,09","1,09","2,08",2405 00 101 QA 30502
+03,Electricity Charges,,5,,,2405 00 101 QA 30503
+308,Advertising and Publicity,,1,,,2405 00 101 QA 30800
+01,Advertisement Charges,,1,,,2405 00 101 QA 30801
+321,Motor Vehicles,,1,1,,2405 00 101 QA 32100
+03,Hire Charges,,1,1,,2405 00 101 QA 32103
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,1,10,10,2405 00 101 QA 34901
+02,Festival Advances-Credit,,- 1,- 10,- 10,2405 00 101 QA 34902
+376,Computer and Accessories,,20,,,2405 00 101 QA 37600
+02,Maintenance,,20,,,2405 00 101 QA 37602
+QA,Total QA,"25,64","31,67","35,76","22,55",
+#,Externally Aided Projects Total,"26,85,43","10,48,86","18,06,46","11,22,55",
+#,Central Sector Schemes,,,,,
+SA,Scheme for Strengthening of infrastructure for inland fish Marketing,,,,,2405 00 101 SA 30000
+309,Grants-in-Aid,,1,1,1,2405 00 101 SA 30900
+03,Grants for Specific Schemes,,1,1,1,2405 00 101 SA 30903
+SA,Total SA,1,1,1,,
+#,Central Sector Schemes Total,,1,1,1,
+#,Schemes shared between State and Centre,,,,,
+UA,Establishment of Fish Farmers Development Agency,,,,,2405 00 101 UA 30000
+309,Grants-in-Aid,,1,1,1,2405 00 101 UA 30900
+01,Grants for Current Expenditure,,1,1,1,2405 00 101 UA 30901
+UA,Total UA,1,1,1,,
+UB,Development of Inland Fisheries and Aquaculture,,,,,2405 00 101 UB 30000
+309,Grants-in-Aid,,2,3,2,2405 00 101 UB 30900
+01,Grants for Current Expenditure,,1,1,1,2405 00 101 UB 30901
+03,Grants for Specific Schemes,,1,2,1,2405 00 101 UB 30903
+321,Motor Vehicles,,1,1,1,2405 00 101 UB 32100
+01,Purchase,,1,1,1,2405 00 101 UB 32101
+UB,Total UB,3,4,3,,
+UC,National Agriculture Development Programme (NADP-RKVY) - Fisheries Department,,,,,2405 00 101 UC 30000
+309,Grants-in-Aid,"10,45,50",1,"17,81,20","83,60",2405 00 101 UC 30900
+03,Grants for Specific Schemes,"10,45,50",1,"17,81,20","83,60",2405 00 101 UC 30903
+311,Subsidies,"1,40,00",1,"1,82,40",,2405 00 101 UC 31100
+02,General Subsidy,"1,40,00",1,"1,82,40",,2405 00 101 UC 31102
+UC,Total UC,"11,85,50",2,"19,63,60","83,60",
+#,Schemes shared between State and Centre Total,"11,85,50",6,"19,63,65","83,64",
+101,Total 101,"56,51,21","28,50,04","58,29,81","33,29,27",
+103,Marine Fisheries,,,,,
+#,State's Expenditure,,,,,
+AB,Maintenance of Fishing Harbours and Jetties,,,,,2405 00 103 AB 30000
+301,Salaries,"5,28,68","5,66,81","6,12,69","7,95,38",2405 00 103 AB 30100
+01,Pay,"4,90,84","5,25,75","5,67,84","7,50,00",2405 00 103 AB 30101
+02,Medical Allowance,"3,80","3,93","4,63","4,63",2405 00 103 AB 30102
+03,Medical Charges,2,10,,,2405 00 103 AB 30103
+04,Other Allowances,"4,16","4,63","4,63","4,63",2405 00 103 AB 30104
+06,House Rent Allowance,"27,79","29,95","33,67","33,67",2405 00 103 AB 30106
+07,Travel Concession,34,68,15,68,2405 00 103 AB 30107
+08,City Compensatory Allowance,"1,73","1,77","1,77","1,77",2405 00 103 AB 30108
+302,Wages,"1,35","2,07","4,00","4,00",2405 00 103 AB 30200
+01,Wages,"1,35","2,07","4,00","4,00",2405 00 103 AB 30201
+303,Dearness Allowance,"1,81,02","71,08","2,19,89","1,83,75",2405 00 103 AB 30300
+01,Dearness Allowance,"1,81,02","71,08","2,19,89","1,83,75",2405 00 103 AB 30301
+304,Travel Expenses,"20,52","22,22","20,50","20,50",2405 00 103 AB 30400
+01,Tour Travelling Allowances,"20,34","21,55","20,00","20,00",2405 00 103 AB 30401
+02,Transfer Travelling Allowances,18,67,50,50,2405 00 103 AB 30402
+305,Office Expenses,"6,81","8,59","8,43","8,71",2405 00 103 AB 30500
+01,Telephone Charges,"1,24","1,64","1,52","1,52",2405 00 103 AB 30501
+02,Other Contingencies,94,96,96,96,2405 00 103 AB 30502
+03,Electricity Charges,"4,23","5,60","5,57","5,85",2405 00 103 AB 30503
+04,Service Postage & Postal Expenditure,40,39,38,38,2405 00 103 AB 30504
+306,"Rent, Rates and Taxes","4,92","5,23","3,24","3,40",2405 00 103 AB 30600
+01,Rent,"4,15","4,39","2,14","2,24",2405 00 103 AB 30601
+02,Property tax,77,84,"1,10","1,16",2405 00 103 AB 30602
+308,Advertising and Publicity,"2,56","3,12","2,60","2,73",2405 00 103 AB 30800
+01,Advertisement Charges,"2,56","3,12","2,60","2,73",2405 00 103 AB 30801
+318,Maintenance,"51,44","52,50","52,50","52,50",2405 00 103 AB 31800
+01,Periodical Maintenance,"51,44","52,50","52,50","52,50",2405 00 103 AB 31801
+321,Motor Vehicles,20,25,25,25,2405 00 103 AB 32100
+02,Maintenance of Functional Vehicles,20,25,25,25,2405 00 103 AB 32102
+333,Payments for Professional and Special Services,14,58,55,58,2405 00 103 AB 33300
+01,Pleaders Fees,14,58,55,58,2405 00 103 AB 33301
+345,"Petroleum, Oil and Lubricant","6,93","7,51","7,29","7,29",2405 00 103 AB 34500
+01,"Petroleum, Oil and Lubricant","6,93","7,51","7,29","7,29",2405 00 103 AB 34501
+349,Festival Advances,- 6,,,,2405 00 103 AB 34900
+01,Festival Advances-Debit,"3,50","5,70","12,20","12,80",2405 00 103 AB 34901
+02,Festival Advances-Credit,"- 3,56","- 5,70","- 12,20","- 12,80",2405 00 103 AB 34902
+376,Computer and Accessories,"1,18","1,35","1,35","1,35",2405 00 103 AB 37600
+02,Maintenance,67,65,65,65,2405 00 103 AB 37602
+03,Stationery,51,70,70,70,2405 00 103 AB 37603
+AB,Total AB,"8,05,69","7,41,31","9,33,29","10,80,44",
+AF,Chank Fishery,,,,,2405 00 103 AF 30000
+306,"Rent, Rates and Taxes","1,95","2,09","2,09","2,09",2405 00 103 AF 30600
+02,Property tax,"1,90","2,00","2,00","2,00",2405 00 103 AF 30602
+03,Water Charges,5,9,9,9,2405 00 103 AF 30603
+AF,Total AF,"1,95","2,09","2,09","2,09",
+AK,Implementation of Tamil Nadu Marine Fishing Regulation Act,,,,,2405 00 103 AK 30000
+301,Salaries,"21,47","34,72","36,03","43,20",2405 00 103 AK 30100
+01,Pay,"20,41","32,78","34,35","41,65",2405 00 103 AK 30101
+02,Medical Allowance,13,26,25,25,2405 00 103 AK 30102
+04,Other Allowances,8,8,8,8,2405 00 103 AK 30104
+06,House Rent Allowance,85,"1,60","1,35","1,22",2405 00 103 AK 30106
+303,Dearness Allowance,"5,41","4,43","8,73","10,20",2405 00 103 AK 30300
+01,Dearness Allowance,"5,41","4,43","8,73","10,20",2405 00 103 AK 30301
+304,Travel Expenses,70,"1,18","1,15","1,15",2405 00 103 AK 30400
+01,Tour Travelling Allowances,70,"1,18","1,15","1,15",2405 00 103 AK 30401
+305,Office Expenses,,1,1,1,2405 00 103 AK 30500
+02,Other Contingencies,,1,1,1,2405 00 103 AK 30502
+318,Maintenance,,1,1,1,2405 00 103 AK 31800
+01,Periodical Maintenance,,1,1,1,2405 00 103 AK 31801
+319,Machinery and Equipments,,1,1,1,2405 00 103 AK 31900
+01,Purchase,,1,1,1,2405 00 103 AK 31901
+349,Festival Advances,4,,,,2405 00 103 AK 34900
+01,Festival Advances-Debit,10,40,55,60,2405 00 103 AK 34901
+02,Festival Advances-Credit,- 6,- 40,- 55,- 60,2405 00 103 AK 34902
+376,Computer and Accessories,,1,1,1,2405 00 103 AK 37600
+01,Purchase,,1,1,1,2405 00 103 AK 37601
+AK,Total AK,"27,62","40,37","45,95","54,59",
+AL,Hydrographic Survey of Harbour Sites,,,,,2405 00 103 AL 30000
+301,Salaries,"28,02","18,54","18,79","46,53",2405 00 103 AL 30100
+01,Pay,"26,54","17,36","17,36","44,35",2405 00 103 AL 30101
+02,Medical Allowance,14,10,15,15,2405 00 103 AL 30102
+04,Other Allowances,6,6,6,6,2405 00 103 AL 30104
+06,House Rent Allowance,"1,28",92,"1,22","1,87",2405 00 103 AL 30106
+07,Travel Concession,,10,,10,2405 00 103 AL 30107
+302,Wages,,3,3,3,2405 00 103 AL 30200
+01,Wages,,3,3,3,2405 00 103 AL 30201
+303,Dearness Allowance,"13,80","2,35","10,39","10,87",2405 00 103 AL 30300
+01,Dearness Allowance,"13,80","2,35","10,39","10,87",2405 00 103 AL 30301
+304,Travel Expenses,"1,40","1,52","1,44","1,44",2405 00 103 AL 30400
+01,Tour Travelling Allowances,"1,40","1,51","1,44","1,44",2405 00 103 AL 30401
+02,Transfer Travelling Allowances,,1,,,2405 00 103 AL 30402
+305,Office Expenses,25,25,25,25,2405 00 103 AL 30500
+02,Other Contingencies,25,25,25,25,2405 00 103 AL 30502
+333,Payments for Professional and Special Services,18,"25,00","2,00,00","75,00",2405 00 103 AL 33300
+03,Special Service,18,"25,00","2,00,00","75,00",2405 00 103 AL 33303
+349,Festival Advances,- 3,,,,2405 00 103 AL 34900
+01,Festival Advances-Debit,5,20,30,40,2405 00 103 AL 34901
+02,Festival Advances-Credit,- 8,- 20,- 30,- 40,2405 00 103 AL 34902
+376,Computer and Accessories,13,21,21,21,2405 00 103 AL 37600
+02,Maintenance,4,6,6,6,2405 00 103 AL 37602
+03,Stationery,9,15,15,15,2405 00 103 AL 37603
+AL,Total AL,"43,75","47,90","2,31,11","1,34,33",
+AM,Relief assistance to the fishermen families affected by oil spill,,,,,2405 00 103 AM 30000
+309,Grants-in-Aid,,1,,,2405 00 103 AM 30900
+03,Grants for Specific Schemes,,1,,,2405 00 103 AM 30903
+AM,Total AM,1,,,,
+JL,Construction of T-Jetties,,,,,2405 00 103 JL 30000
+317,Minor Works,,1,1,1,2405 00 103 JL 31700
+01,Minor Works,,1,1,1,2405 00 103 JL 31701
+JL,Total JL,1,1,1,,
+JP,Sea safety Equipments to active Marine Fishermen,,,,,2405 00 103 JP 30000
+309,Grants-in-Aid,,1,,1,2405 00 103 JP 30900
+01,Grants for Current Expenditure,,1,,1,2405 00 103 JP 30901
+JP,Total JP,1,,1,,
+JS,Livelihood Support to Coastal Fishermen during the Fishing ban period,,,,,2405 00 103 JS 30000
+305,Office Expenses,"4,95","4,96","5,01","4,96",2405 00 103 JS 30500
+02,Other Contingencies,"4,95","4,96","5,01","4,96",2405 00 103 JS 30502
+309,Grants-in-Aid,"82,55,00","83,50,00","83,50,00","83,50,00",2405 00 103 JS 30900
+01,Grants for Current Expenditure,"82,55,00","83,50,00","83,50,00","83,50,00",2405 00 103 JS 30901
+JS,Total JS,"82,59,95","83,54,96","83,55,01","83,54,96",
+JT,National Agricultural Development Programme - Rashtriya Krishi Vikas Yojana  (NADP-RKVY)  - Fisheries Department,,,,,2405 00 103 JT 30000
+305,Office Expenses,,1,1,1,2405 00 103 JT 30500
+02,Other Contingencies,,1,1,1,2405 00 103 JT 30502
+309,Grants-in-Aid,,1,,1,2405 00 103 JT 30900
+01,Grants for Current Expenditure,,1,,1,2405 00 103 JT 30901
+311,Subsidies,,1,,1,2405 00 103 JT 31100
+01,Individual Based Subsidy,,1,,1,2405 00 103 JT 31101
+324,Materials and Supplies,,1,1,1,2405 00 103 JT 32400
+01,Materials and Supplies,,1,1,1,2405 00 103 JT 32401
+372,Training,,1,1,1,2405 00 103 JT 37200
+01,Training,,1,1,1,2405 00 103 JT 37201
+JT,Total JT,5,3,5,,
+JU,Machanisation of Traditional Fishing Vessels,,,,,2405 00 103 JU 30000
+309,Grants-in-Aid,,1,,,2405 00 103 JU 30900
+03,Grants for Specific Schemes,,1,,,2405 00 103 JU 30903
+JU,Total JU,1,,,,
+JV,Grants to Commercial based Kerosene to the Fishermen,,,,,2405 00 103 JV 30000
+309,Grants-in-Aid,"26,00,00","40,00,00","30,00,00","40,00,00",2405 00 103 JV 30900
+03,Grants for Specific Schemes,"26,00,00","40,00,00","30,00,00","40,00,00",2405 00 103 JV 30903
+JV,Total JV,"26,00,00","40,00,00","30,00,00","40,00,00",
+JW,Fish Processing Park,,,,,2405 00 103 JW 30000
+319,Machinery and Equipments,,1,1,1,2405 00 103 JW 31900
+01,Purchase,,1,1,1,2405 00 103 JW 31901
+321,Motor Vehicles,,1,1,1,2405 00 103 JW 32100
+01,Purchase,,1,1,1,2405 00 103 JW 32101
+333,Payments for Professional and Special Services,,1,1,1,2405 00 103 JW 33300
+09,Other Payments,,1,1,1,2405 00 103 JW 33309
+399,Miscellaneous,,1,1,1,2405 00 103 JW 39900
+01,Miscellaneous,,1,1,1,2405 00 103 JW 39901
+JW,Total JW,4,4,4,,
+JX,Hiring of Mid-sea mother vessel with processing facility,,,,,2405 00 103 JX 30000
+308,Advertising and Publicity,,1,1,1,2405 00 103 JX 30800
+01,Advertisement Charges,,1,1,1,2405 00 103 JX 30801
+309,Grants-in-Aid,,1,,,2405 00 103 JX 30900
+03,Grants for Specific Schemes,,1,,,2405 00 103 JX 30903
+JX,Total JX,2,1,1,,
+JY,Special allowance to fishermen during Non-fishing period,,,,,2405 00 103 JY 30000
+309,Grants-in-Aid,"82,50,00","86,62,50","88,41,11","86,62,50",2405 00 103 JY 30900
+03,Grants for Specific Schemes,"82,50,00","86,62,50","88,41,11","86,62,50",2405 00 103 JY 30903
+JY,Total JY,"82,50,00","86,62,50","88,41,11","86,62,50",
+JZ,Subsidy assistance for the purchase of Mechanised boats for Tuna Fishing,,,,,2405 00 103 JZ 30000
+311,Subsidies,,"17,10,00","17,10,00","16,22,28",2405 00 103 JZ 31100
+01,Individual Based Subsidy,,"17,10,00","17,10,00","16,22,28",2405 00 103 JZ 31101
+JZ,Total JZ,"17,10,00","17,10,00","16,22,28",,
+#,State's Expenditure Total,"1,99,88,96","2,35,59,28","2,31,18,65","2,39,11,31",
+#,Schemes shared between State and Centre,,,,,
+UC,Construction of Mechanised fishing boats,,,,,2405 00 103 UC 30000
+311,Subsidies,,1,"8,08,29","6,35,23",2405 00 103 UC 31100
+02,General Subsidy,,1,"8,08,29","6,35,23",2405 00 103 UC 31102
+UC,Total UC,1,"8,08,29","6,35,23",,
+UE,Procurement and Supply of Distress Alert Transmitters to Fishermen / Fishing Vessels,,,,,2405 00 103 UE 30000
+311,Subsidies,,"6,00,00",1,1,2405 00 103 UE 31100
+01,Individual Based Subsidy,,"6,00,00",1,1,2405 00 103 UE 31101
+UE,Total UE,"6,00,00",1,1,,
+#,Schemes shared between State and Centre Total,,"6,00,01","8,08,30","6,35,24",
+103,Total 103,"1,99,88,96","2,41,59,29","2,39,26,95","2,45,46,55",
+105,"Processing, Preservation and Marketing",,,,,
+#,State's Expenditure,,,,,
+AC,Ice plant and cold storage,,,,,2405 00 105 AC 30000
+301,Salaries,"18,23","21,30","20,00","35,94",2405 00 105 AC 30100
+01,Pay,"17,09","20,01","18,83","34,77",2405 00 105 AC 30101
+02,Medical Allowance,12,13,14,14,2405 00 105 AC 30102
+04,Other Allowances,7,6,6,6,2405 00 105 AC 30104
+06,House Rent Allowance,95,"1,10",97,97,2405 00 105 AC 30106
+303,Dearness Allowance,"6,34","2,71","8,70","8,52",2405 00 105 AC 30300
+01,Dearness Allowance,"6,34","2,71","8,70","8,52",2405 00 105 AC 30301
+304,Travel Expenses,20,75,50,50,2405 00 105 AC 30400
+01,Tour Travelling Allowances,20,75,50,50,2405 00 105 AC 30401
+305,Office Expenses,2,2,2,4,2405 00 105 AC 30500
+02,Other Contingencies,2,2,2,4,2405 00 105 AC 30502
+306,"Rent, Rates and Taxes",57,60,57,60,2405 00 105 AC 30600
+02,Property tax,57,60,57,60,2405 00 105 AC 30602
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,15,25,40,50,2405 00 105 AC 34901
+02,Festival Advances-Credit,- 15,- 25,- 40,- 50,2405 00 105 AC 34902
+AC,Total AC,"25,36","25,38","29,79","45,60",
+AF,Development of Infrastructural facilities in fishing villages,,,,,2405 00 105 AF 30000
+301,Salaries,,"3,72","3,72","1,67",2405 00 105 AF 30100
+01,Pay,,"2,93","2,93","1,20",2405 00 105 AF 30101
+02,Medical Allowance,,6,6,6,2405 00 105 AF 30102
+04,Other Allowances,,6,6,6,2405 00 105 AF 30104
+06,House Rent Allowance,,55,55,23,2405 00 105 AF 30106
+07,Travel Concession,,2,2,2,2405 00 105 AF 30107
+08,City Compensatory Allowance,,10,10,10,2405 00 105 AF 30108
+303,Dearness Allowance,,40,40,29,2405 00 105 AF 30300
+01,Dearness Allowance,,40,40,29,2405 00 105 AF 30301
+304,Travel Expenses,,2,2,2,2405 00 105 AF 30400
+01,Tour Travelling Allowances,,2,2,2,2405 00 105 AF 30401
+305,Office Expenses,,3,3,3,2405 00 105 AF 30500
+02,Other Contingencies,,3,3,3,2405 00 105 AF 30502
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,5,10,10,2405 00 105 AF 34901
+02,Festival Advances-Credit,,- 5,- 10,- 10,2405 00 105 AF 34902
+AF,Total AF,"4,17","4,17","2,01",,
+AG,Fishery Marketing and Information - Headquarters Establishment,,,,,2405 00 105 AG 30000
+301,Salaries,"55,12","36,52","36,42","67,94",2405 00 105 AG 30100
+01,Pay,"48,06","31,64","31,64","63,16",2405 00 105 AG 30101
+02,Medical Allowance,34,24,24,24,2405 00 105 AG 30102
+03,Medical Charges,,10,,,2405 00 105 AG 30103
+04,Other Allowances,37,21,21,21,2405 00 105 AG 30104
+06,House Rent Allowance,"5,36","3,49","3,49","3,49",2405 00 105 AG 30106
+07,Travel Concession,,5,5,5,2405 00 105 AG 30107
+08,City Compensatory Allowance,99,79,79,79,2405 00 105 AG 30108
+302,Wages,,1,1,1,2405 00 105 AG 30200
+01,Wages,,1,1,1,2405 00 105 AG 30201
+303,Dearness Allowance,"9,45","4,28","4,43","15,47",2405 00 105 AG 30300
+01,Dearness Allowance,"9,45","4,28","4,43","15,47",2405 00 105 AG 30301
+304,Travel Expenses,34,64,63,63,2405 00 105 AG 30400
+01,Tour Travelling Allowances,25,53,53,53,2405 00 105 AG 30401
+02,Transfer Travelling Allowances,9,11,10,10,2405 00 105 AG 30402
+305,Office Expenses,16,44,44,44,2405 00 105 AG 30500
+02,Other Contingencies,16,44,44,44,2405 00 105 AG 30502
+308,Advertising and Publicity,"3,27","2,88","3,44","2,88",2405 00 105 AG 30800
+02,Exhibition,"3,27","2,88","3,44","2,88",2405 00 105 AG 30802
+319,Machinery and Equipments,,28,28,28,2405 00 105 AG 31900
+03,Maintenance,,28,28,28,2405 00 105 AG 31903
+321,Motor Vehicles,,5,5,5,2405 00 105 AG 32100
+02,Maintenance of Functional Vehicles,,5,5,5,2405 00 105 AG 32102
+349,Festival Advances,3,,,,2405 00 105 AG 34900
+01,Festival Advances-Debit,35,65,"1,30","1,40",2405 00 105 AG 34901
+02,Festival Advances-Credit,- 32,- 65,"- 1,30","- 1,40",2405 00 105 AG 34902
+359,Prizes and Awards,,4,4,4,2405 00 105 AG 35900
+01,Prizes and Awards,,4,4,4,2405 00 105 AG 35901
+AG,Total AG,"68,37","45,14","45,74","87,74",
+AH,Fishery Marketing and Information - District Establishment,,,,,2405 00 105 AH 30000
+301,Salaries,"15,04","16,20","20,07","49,07",2405 00 105 AH 30100
+01,Pay,"13,90","14,83","18,47","47,28",2405 00 105 AH 30101
+02,Medical Allowance,8,9,10,10,2405 00 105 AH 30102
+04,Other Allowances,3,10,10,10,2405 00 105 AH 30104
+06,House Rent Allowance,98,"1,09","1,31","1,50",2405 00 105 AH 30106
+07,Travel Concession,,6,6,6,2405 00 105 AH 30107
+08,City Compensatory Allowance,5,3,3,3,2405 00 105 AH 30108
+303,Dearness Allowance,"8,79","2,01","12,74","11,58",2405 00 105 AH 30300
+01,Dearness Allowance,"8,79","2,01","12,74","11,58",2405 00 105 AH 30301
+304,Travel Expenses,32,68,65,65,2405 00 105 AH 30400
+01,Tour Travelling Allowances,32,66,63,63,2405 00 105 AH 30401
+02,Transfer Travelling Allowances,,2,2,2,2405 00 105 AH 30402
+308,Advertising and Publicity,,1,1,1,2405 00 105 AH 30800
+02,Exhibition,,1,1,1,2405 00 105 AH 30802
+349,Festival Advances,2,,,,2405 00 105 AH 34900
+01,Festival Advances-Debit,10,20,30,40,2405 00 105 AH 34901
+02,Festival Advances-Credit,- 8,- 20,- 30,- 40,2405 00 105 AH 34902
+AH,Total AH,"24,17","18,90","33,47","61,31",
+AI,Transport of Fish to Marketing Centres,,,,,2405 00 105 AI 30000
+311,Subsidies,,1,"1,81,84",1,2405 00 105 AI 31100
+01,Individual Based Subsidy,,1,"1,81,84",1,2405 00 105 AI 31101
+AI,Total AI,1,"1,81,84",1,,
+#,State's Expenditure Total,"1,17,90","93,60","2,95,01","1,96,67",
+105,Total 105,"1,17,90","93,60","2,95,01","1,96,67",
+109,Extension and Training,,,,,
+#,State's Expenditure,,,,,
+AA,Training Centre for Fishermen,,,,,2405 00 109 AA 30000
+301,Salaries,"1,31,38","1,69,03","1,54,47","2,12,52",2405 00 109 AA 30100
+01,Pay,"1,22,88","1,57,50","1,43,79","2,00,00",2405 00 109 AA 30101
+02,Medical Allowance,"1,14","1,28","1,39","1,39",2405 00 109 AA 30102
+04,Other Allowances,"1,24","1,56","1,24","1,24",2405 00 109 AA 30104
+06,House Rent Allowance,"5,91","8,30","7,66","9,50",2405 00 109 AA 30106
+07,Travel Concession,5,5,5,5,2405 00 109 AA 30107
+08,City Compensatory Allowance,16,34,34,34,2405 00 109 AA 30108
+302,Wages,"1,11","1,65","1,50","1,50",2405 00 109 AA 30200
+01,Wages,"1,11","1,65","1,50","1,50",2405 00 109 AA 30201
+303,Dearness Allowance,"57,02","21,29","43,86","49,00",2405 00 109 AA 30300
+01,Dearness Allowance,"57,02","21,29","43,86","49,00",2405 00 109 AA 30301
+304,Travel Expenses,"3,86","4,79","4,13","4,13",2405 00 109 AA 30400
+01,Tour Travelling Allowances,"3,86","4,66","4,00","4,00",2405 00 109 AA 30401
+02,Transfer Travelling Allowances,,13,13,13,2405 00 109 AA 30402
+305,Office Expenses,"1,86","2,20","2,37","2,47",2405 00 109 AA 30500
+01,Telephone Charges,42,70,67,67,2405 00 109 AA 30501
+02,Other Contingencies,59,39,39,44,2405 00 109 AA 30502
+03,Electricity Charges,61,86,"1,07","1,12",2405 00 109 AA 30503
+04,Service Postage & Postal Expenditure,24,25,24,24,2405 00 109 AA 30504
+306,"Rent, Rates and Taxes",74,80,"1,96","2,06",2405 00 109 AA 30600
+01,Rent,19,22,91,96,2405 00 109 AA 30601
+02,Property tax,49,51,98,"1,03",2405 00 109 AA 30602
+03,Water Charges,6,7,7,7,2405 00 109 AA 30603
+308,Advertising and Publicity,,1,1,1,2405 00 109 AA 30800
+02,Exhibition,,1,1,1,2405 00 109 AA 30802
+319,Machinery and Equipments,3,3,3,3,2405 00 109 AA 31900
+03,Maintenance,3,3,3,3,2405 00 109 AA 31903
+321,Motor Vehicles,25,25,25,25,2405 00 109 AA 32100
+02,Maintenance of Functional Vehicles,25,25,25,25,2405 00 109 AA 32102
+324,Materials and Supplies,,1,1,1,2405 00 109 AA 32400
+01,Materials and Supplies,,1,1,1,2405 00 109 AA 32401
+334,Other Charges,,1,1,1,2405 00 109 AA 33400
+02,"Purchase  of  Books & Periodicals to Libraries etc.,",,1,1,1,2405 00 109 AA 33402
+345,"Petroleum, Oil and Lubricant","4,45","5,21","4,58","4,58",2405 00 109 AA 34500
+01,"Petroleum, Oil and Lubricant","4,45","5,21","4,58","4,58",2405 00 109 AA 34501
+347,Stores and Equipments,,1,1,1,2405 00 109 AA 34700
+01,Stores - Voted,,1,1,1,2405 00 109 AA 34701
+349,Festival Advances,22,,,,2405 00 109 AA 34900
+01,Festival Advances-Debit,"1,25","2,15","4,00","4,20",2405 00 109 AA 34901
+02,Festival Advances-Credit,"- 1,03","- 2,15","- 4,00","- 4,20",2405 00 109 AA 34902
+376,Computer and Accessories,40,40,40,40,2405 00 109 AA 37600
+02,Maintenance,20,20,20,20,2405 00 109 AA 37602
+03,Stationery,20,20,20,20,2405 00 109 AA 37603
+AA,Total AA,"2,01,32","2,05,69","2,13,59","2,76,98",
+JI,Imparting Special Training to fisher youth to join Navy and Coast Guard,,,,,2405 00 109 JI 30000
+372,Training,,1,1,1,2405 00 109 JI 37200
+01,Training,,1,1,1,2405 00 109 JI 37201
+JI,Total JI,,1,1,1,
+JJ,Establishment of Deep Sea Fishing Technology Training and Management Centre at Thoothukudi and Thoothoor,,,,,2405 00 109 JJ 30000
+309,Grants-in-Aid,"33,80","3,48,20","3,48,20",,2405 00 109 JJ 30900
+03,Grants for Specific Schemes,"33,80","3,48,20","3,48,20",,2405 00 109 JJ 30903
+JJ,Total JJ,"33,80","3,48,20","3,48,20",,
+KA,Beach Life Guard & Scuba Diver Training Course to Fisher Youth of TN under State innovation Fund,,,,,2405 00 109 KA 30000
+309,Grants-in-Aid,,,,"1,11,17",2405 00 109 KA 30900
+03,Grants for Specific Schemes,,,,"1,11,17",2405 00 109 KA 30903
+KA,Total KA,,,"1,11,17",,
+#,State's Expenditure Total,"2,35,12","5,53,90","5,61,80","3,88,16",
+#,Schemes shared between State and Centre,,,,,
+UA,Schemes on Fisheries Training and extension,,,,,2405 00 109 UA 30000
+309,Grants-in-Aid,,"3,00","6,00",1,2405 00 109 UA 30900
+03,Grants for Specific Schemes,,"3,00","6,00",1,2405 00 109 UA 30903
+UA,Total UA,"3,00","6,00",1,,
+#,Schemes shared between State and Centre Total,,"3,00","6,00",1,
+109,Total 109,"2,35,12","5,56,90","5,67,80","3,88,17",
+110,Mechanisation and Improvement of Fish Crafts,,,,,
+#,State's Expenditure,,,,,
+AC,Relief assistance to the damages caused to Fishing Boats/Nets due to accident,,,,,2405 00 110 AC 30000
+351,Compensation,"6,83,15",1,1,,2405 00 110 AC 35100
+02,Other Compensations  - Voted,"6,83,15",1,1,,2405 00 110 AC 35102
+AC,Total AC,"6,83,15",1,1,,
+AD,Retrieval of Damaged Fishing Boats affected GAJA Cyclone,,,,,2405 00 110 AD 30000
+318,Maintenance,,,"36,04",,2405 00 110 AD 31800
+02,Special Maintenance,,,"36,04",,2405 00 110 AD 31802
+AD,Total AD,,"36,04",,,
+#,State's Expenditure Total,"6,83,15",1,"36,05",,
+110,Total 110,"6,83,15",1,"36,05",,
+120,Fisheries Cooperatives,,,,,
+#,State's Expenditure,,,,,
+AA,Administration of Fisheries Co-operative Societies,,,,,2405 00 120 AA 30000
+301,Salaries,"1,50,90","1,41,45","1,25,59","1,68,10",2405 00 120 AA 30100
+01,Pay,"1,36,78","1,26,10","1,14,12","1,57,14",2405 00 120 AA 30101
+02,Medical Allowance,73,92,66,69,2405 00 120 AA 30102
+03,Medical Charges,,14,5,5,2405 00 120 AA 30103
+04,Other Allowances,33,"1,01","1,01",47,2405 00 120 AA 30104
+06,House Rent Allowance,"11,54","11,63","8,10","8,10",2405 00 120 AA 30106
+07,Travel Concession,,7,7,7,2405 00 120 AA 30107
+08,City Compensatory Allowance,"1,52","1,58","1,58","1,58",2405 00 120 AA 30108
+303,Dearness Allowance,"12,39","17,05","14,60","38,50",2405 00 120 AA 30300
+01,Dearness Allowance,"12,39","17,05","14,60","38,50",2405 00 120 AA 30301
+304,Travel Expenses,"1,19","1,63","1,20","1,20",2405 00 120 AA 30400
+01,Tour Travelling Allowances,"1,19","1,63","1,20","1,20",2405 00 120 AA 30401
+305,Office Expenses,5,6,6,6,2405 00 120 AA 30500
+02,Other Contingencies,5,5,5,5,2405 00 120 AA 30502
+04,Service Postage & Postal Expenditure,,1,1,1,2405 00 120 AA 30504
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,70,"1,15","2,70","2,70",2405 00 120 AA 34901
+02,Festival Advances-Credit,- 70,"- 1,15","- 2,70","- 2,70",2405 00 120 AA 34902
+AA,Total AA,"1,64,53","1,60,19","1,41,45","2,07,86",
+AD,Fisherwomen Co-operative Societies,,,,,2405 00 120 AD 30000
+301,Salaries,"33,75","34,09","33,93","64,60",2405 00 120 AD 30100
+01,Pay,"29,32","30,22","30,22","60,89",2405 00 120 AD 30101
+02,Medical Allowance,17,15,15,15,2405 00 120 AD 30102
+03,Medical Charges,,16,,,2405 00 120 AD 30103
+04,Other Allowances,18,6,6,6,2405 00 120 AD 30104
+06,House Rent Allowance,"3,45","2,92","2,92","2,92",2405 00 120 AD 30106
+08,City Compensatory Allowance,63,58,58,58,2405 00 120 AD 30108
+303,Dearness Allowance,"12,72","4,09","10,00","14,92",2405 00 120 AD 30300
+01,Dearness Allowance,"12,72","4,09","10,00","14,92",2405 00 120 AD 30301
+349,Festival Advances,- 4,,,,2405 00 120 AD 34900
+01,Festival Advances-Debit,10,35,80,80,2405 00 120 AD 34901
+02,Festival Advances-Credit,- 14,- 35,- 80,- 80,2405 00 120 AD 34902
+AD,Total AD,"46,43","38,18","43,93","79,52",
+#,State's Expenditure Total,"2,10,96","1,98,37","1,85,38","2,87,38",
+120,Total 120,"2,10,96","1,98,37","1,85,38","2,87,38",
+121,Welfare Schemes for Fishermen,,,,,
+#,State's Expenditure,,,,,
+AA,Natural Calamities Relief Assistance to the Fishermen and their Families,,,,,2405 00 121 AA 30000
+305,Office Expenses,"7,75",,,,2405 00 121 AA 30500
+02,Other Contingencies,"7,75",,,,2405 00 121 AA 30502
+351,Compensation,"5,20,00",1,"9,00",,2405 00 121 AA 35100
+02,Other Compensations  - Voted,"5,20,00",1,"9,00",,2405 00 121 AA 35102
+AA,Total AA,"5,27,75",1,"9,00",,
+AB,Revolving Fund for Relief assistance to the damages caused to Fishing Boats Equipments and Houses due to unexpected circumstances,,,,,2405 00 121 AB 30000
+351,Compensation,"26,49","1,30,00","1,30,00","1,30,00",2405 00 121 AB 35100
+02,Other Compensations  - Voted,"26,49","1,30,00","1,30,00","1,30,00",2405 00 121 AB 35102
+AB,Total AB,"26,49","1,30,00","1,30,00","1,30,00",
+#,State's Expenditure Total,"5,54,24","1,30,01","1,39,00","1,30,00",
+121,Total 121,"5,54,24","1,30,01","1,39,00","1,30,00",
+190,Assistance to Public Sector and Other Undertakings,,,,,
+#,State's Expenditure,,,,,
+JA,Grants to Fishermen Welfare Board,,,,,2405 00 190 JA 30000
+309,Grants-in-Aid,,1,,,2405 00 190 JA 30900
+03,Grants for Specific Schemes,,1,,,2405 00 190 JA 30903
+JA,Total JA,,1,,,
+#,State's Expenditure Total,,1,,,
+190,Total 190,,1,,,
+789,Special Component Plan for Scheduled Castes,,,,,
+#,Central Sector Sechemes,,,,,
+SA,Integrated Development and Management of Fisheries under Blue Revolution under Special Component Plan,,,,,2405 00 789 SA 30000
+311,Subsidies,,1,1,1,2405 00 789 SA 31100
+01,Individual Based Subsidy,,1,1,1,2405 00 789 SA 31101
+SA,Total SA,,1,1,1,
+#,Central Sector Schemes Total,,1,1,1,
+#,Schemes shared between State and Centre,,,,,
+UC,National Agriculture Development Programme (NADP-RKVY) - Fisheries Department,,,,,2405 00 789 UC 30000
+309,Grants-in-Aid,,1,2,1,2405 00 789 UC 30900
+03,Grants for Specific Schemes,,1,2,1,2405 00 789 UC 30903
+UC,Total UC,,1,2,1,
+#,Schemes shared between State and Centre Total,,1,2,1,
+789,Total 789,,2,3,2,
+793,Special Central Assistance for Scheduled Caste Component Plan Central Sector Schemes Central Sector Sechemes,,,,,
+SA,Integrated Development and Management of Fisheries under Blue Revolution under Special Component Plan,,,,,2405 00 793 SA 30000
+311,Subsidies,,1,,,2405 00 793 SA 31100
+02,General Subsidy,,1,,,2405 00 793 SA 31102
+SA,Total SA,,,1,,
+#,Central Sector Schemes Total,,1,,,
+#,Schemes shared between State and Centre,,,,,
+UA,Development of Inland Fisheries and Aquaculture,,,,,2405 00 793 UA 30000
+309,Grants-in-Aid,,1,1,1,2405 00 793 UA 30900
+01,Grants for Current Expenditure,,1,1,1,2405 00 793 UA 30901
+UA,Total UA,1,1,1,,
+UB,National Agriculture Development Programme (NADP-RKVY) - Tamil Nadu Fisheries University,,,,,2405 00 793 UB 30000
+309,Grants-in-Aid,,1,2,1,2405 00 793 UB 30900
+03,Grants for Specific Schemes,,1,2,1,2405 00 793 UB 30903
+UB,Total UB,1,2,1,,
+UC,National Agriculture Development Programme (NADP-RKVY) - Fisheries Department,,,,,2405 00 793 UC 30000
+309,Grants-in-Aid,"2,09,80",1,"4,13,40","30,90",2405 00 793 UC 30900
+03,Grants for Specific Schemes,"2,09,80",1,"4,13,40","30,90",2405 00 793 UC 30903
+311,Subsidies,"60,00",1,"57,40",,2405 00 793 UC 31100
+02,General Subsidy,"60,00",1,"57,40",,2405 00 793 UC 31102
+UC,Total UC,"2,69,80",2,"4,70,80","30,90",
+#,Schemes shared between State and Centre Total,"2,69,80",4,"4,70,83","30,92",
+793,Total 793,"2,69,80",5,"4,70,83","30,92",
+794,Special Central Assistance for Tribal Sub-Plan,,,,,
+#,Schemes shared between State and Centre,,,,,
+UA,National Agriculture Development Programme (NADP-RKVY) - Tamil Nadu Fisheries University,,,,,2405 00 794 UA 30000
+309,Grants-in-Aid,,1,2,1,2405 00 794 UA 30900
+03,Grants for Specific Schemes,,1,2,1,2405 00 794 UA 30903
+UA,Total UA,1,2,1,,
+UB,National Agriculture Development Programme (NADP-RKVY) - Fisheries Department,,,,,2405 00 794 UB 30000
+309,Grants-in-Aid,,1,2,1,2405 00 794 UB 30900
+03,Grants for Specific Schemes,,1,2,1,2405 00 794 UB 30903
+UB,Total UB,1,2,1,,
+#,Schemes shared between State and Centre Total,,2,4,2,
+794,Total 794,2,4,2,,
+796,Tribal Area Sub-Plan,,,,,
+#,Schemes shared between State and Centre,,,,,
+UB,National Agriculture Development Programme (NADP-RKVY) - Fisheries Department,,,,,2405 00 796 UB 30000
+309,Grants-in-Aid,,,"1,42,20",1,2405 00 796 UB 30900
+03,Grants for Specific Schemes,,,"1,42,20",1,2405 00 796 UB 30903
+UB,Total UB,,,"1,42,20",1,
+#,Schemes shared between State and Central Total,,,"1,42,20",1,
+796,Total 796,,,"1,42,20",1,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+AL,Petty construction and repairs,,,,,2405 00 800 AL 30000
+317,Minor Works,14,15,15,15,2405 00 800 AL 31700
+01,Minor Works,14,15,15,15,2405 00 800 AL 31701
+318,Maintenance,54,74,74,74,2405 00 800 AL 31800
+01,Periodical Maintenance,54,74,74,74,2405 00 800 AL 31801
+AL,Total AL,68,89,89,89,
+AM,Fisheries Rentals,,,,,2405 00 800 AM 30000
+351,Compensation,,51,51,1,2405 00 800 AM 35100
+01,Claims under no fault liability -  principal charges  - Voted,,1,1,1,2405 00 800 AM 35101
+02,Other Compensations  - Voted,,50,50,,2405 00 800 AM 35102
+AM,Total AM,51,51,1,,
+BD,Strengthening of Management Information System,,,,,2405 00 800 BD 30000
+376,Computer and Accessories,"1,50","1,66","1,66","1,66",2405 00 800 BD 37600
+03,Stationery,"1,50","1,66","1,66","1,66",2405 00 800 BD 37603
+BD,Total BD,"1,50","1,66","1,66","1,66",
+BE,Payment of relief amount to the families of Tamil Nadu Fishermen who were distressed by Government of Srilanka,,,,,2405 00 800 BE 30000
+309,Grants-in-Aid,"12,79","32,00","25,00","25,00",2405 00 800 BE 30900
+03,Grants for Specific Schemes,"12,79","32,00","25,00","25,00",2405 00 800 BE 30903
+351,Compensation,- 12,1,1,1,2405 00 800 BE 35100
+01,Claims under no fault liability -  principal charges  - Voted,- 12,1,1,1,2405 00 800 BE 35101
+BE,Total BE,"12,67","32,01","25,01","25,01",
+BG,Tamil Nadu Fishermen Group Insurance Scheme,,,,,2405 00 800 BG 30000
+311,Subsidies,"33,45","1,01,46","40,72","40,72",2405 00 800 BG 31100
+01,Individual Based Subsidy,"33,45","1,01,46","40,72","40,72",2405 00 800 BG 31101
+333,Payments for Professional and Special Services,,1,,1,2405 00 800 BG 33300
+02,Remuneration,,1,,1,2405 00 800 BG 33302
+351,Compensation,,1,,,2405 00 800 BG 35100
+02,Other Compensations  - Voted,,1,,,2405 00 800 BG 35102
+BG,Total BG,"33,45","1,01,48","40,72","40,73",
+BH,Food Subsidy to Fishermen,,,,,2405 00 800 BH 30000
+311,Subsidies,,1,1,1,2405 00 800 BH 31100
+02,General Subsidy,,1,1,1,2405 00 800 BH 31102
+BH,Total BH,1,1,1,,
+BI,Monthly Assistance to the Families of missing Fishermen,,,,,2405 00 800 BI 30000
+309,Grants-in-Aid,"14,34","27,00","27,00","27,00",2405 00 800 BI 30900
+03,Grants for Specific Schemes,"14,34","27,00","27,00","27,00",2405 00 800 BI 30903
+BI,Total BI,"14,34","27,00","27,00","27,00",
+BJ,Repatriation of Tamil Nadu Fishermen who were distressed by the foreign Government,,,,,2405 00 800 BJ 30000
+309,Grants-in-Aid,,1,"1,51",1,2405 00 800 BJ 30900
+01,Grants for Current Expenditure,,1,"1,51",1,2405 00 800 BJ 30901
+345,"Petroleum, Oil and Lubricant",,1,1,1,2405 00 800 BJ 34500
+01,"Petroleum, Oil and Lubricant",,1,1,1,2405 00 800 BJ 34501
+BJ,Total BJ,2,"1,52",2,,
+BK,"Setting up of an Oceanarium, Mamallapuram",,,,,2405 00 800 BK 30000
+305,Office Expenses,,1,1,,2405 00 800 BK 30500
+02,Other Contingencies,,1,1,,2405 00 800 BK 30502
+308,Advertising and Publicity,"58,50",1,1,1,2405 00 800 BK 30800
+01,Advertisement Charges,"58,50",1,1,1,2405 00 800 BK 30801
+BK,Total BK,"58,50",2,2,1,
+JA,"Supply of synthetic and cotton nets, engines and other accessories",,,,,2405 00 800 JA 30000
+317,Minor Works,,1,1,1,2405 00 800 JA 31700
+01,Minor Works,,1,1,1,2405 00 800 JA 31701
+324,Materials and Supplies,,1,1,1,2405 00 800 JA 32400
+01,Materials and Supplies,,1,1,1,2405 00 800 JA 32401
+JA,Total JA,,2,2,2,
+JY,Census of Marine Fisher Folk,,,,,2405 00 800 JY 30000
+333,Payments for Professional and Special Services,,,"50,00",,2405 00 800 JY 33300
+03,Special Service,,,"50,00",,2405 00 800 JY 33303
+JY,Total JY,,,"50,00",,
+KD,Relief Scheme for Tamil Nadu Marine Fisherwomen during lean months,,,,,2405 00 800 KD 30000
+311,Subsidies,"59,65,00","63,00,00","62,12,33","63,00,00",2405 00 800 KD 31100
+01,Individual Based Subsidy,"59,65,00","63,00,00","62,12,33","63,00,00",2405 00 800 KD 31101
+KD,Total KD,"59,65,00","63,00,00","62,12,33","63,00,00",
+KF,Development of Larvicidal Fish Stock for control and eradication of Mosquito,,,,,2405 00 800 KF 30000
+347,Stores and Equipments,,1,1,1,2405 00 800 KF 34700
+01,Stores - Voted,,1,1,1,2405 00 800 KF 34701
+KF,Total KF,,1,1,1,
+KG,Employment opportunities to educated fishermen youth,,,,,2405 00 800 KG 30000
+312,Scholarships and Stipends,,1,1,1,2405 00 800 KG 31200
+09,Others,,1,1,1,2405 00 800 KG 31209
+KG,Total KG,1,1,1,,
+KH,Assistance for settlement of Fishermen's loan from Banks,,,,,2405 00 800 KH 30000
+309,Grants-in-Aid,,1,1,1,2405 00 800 KH 30900
+09,Others,,1,1,1,2405 00 800 KH 30909
+KH,Total KH,1,1,1,,
+KI,Repairs and Renovation of Staff Quarters,,,,,2405 00 800 KI 30000
+318,Maintenance,,1,,1,2405 00 800 KI 31800
+02,Special Maintenance,,1,,1,2405 00 800 KI 31802
+KI,Total KI,1,,1,,
+KJ,"Tamil Nadu Fisheries University, Nagapattinam",,,,,2405 00 800 KJ 30000
+309,Grants-in-Aid,"7,01,52","7,35,82","8,97,82","8,06,71",2405 00 800 KJ 30900
+01,Grants for Current Expenditure,"5,44,22","6,88,91","8,50,91","8,06,70",2405 00 800 KJ 30901
+02,Grants for Creation of Capital Assets,,1,1,1,2405 00 800 KJ 30902
+03,Grants for Specific Schemes,"1,57,30","46,90","46,90",,2405 00 800 KJ 30903
+KJ,Total KJ,"7,01,52","7,35,82","8,97,82","8,06,71",
+#,State's Expenditure Total,"67,87,66","71,99,48","72,57,54","72,02,11",
+#,Externally Aided Projects,,,,,
+PA,Establishment of Irrigated Agriculture Modernization and Water Bodies Restoration and Management Cell and capacity building under Tamil Nadu Irrigated Agriculture Modernization and Water Bodies Restoration and Management (IAMWARM) Project,,,,,2405 00 800 PA 30000
+376,Computer and Accessories,,1,1,,2405 00 800 PA 37600
+03,Stationery,,1,1,,2405 00 800 PA 37603
+PA,Total PA,1,1,,,
+#,Externally Aided Projects Total,,1,1,,
+#,Central Sector Schemes,,,,,
+SA,Development of Statistics,,,,,2405 00 800 SA 30000
+301,Salaries,"14,75","11,85","12,10","12,51",2405 00 800 SA 30100
+01,Pay,"12,92","10,25","10,25","10,66",2405 00 800 SA 30101
+02,Medical Allowance,4,9,9,9,2405 00 800 SA 30102
+04,Other Allowances,3,12,3,3,2405 00 800 SA 30104
+06,House Rent Allowance,"1,49","1,18","1,49","1,49",2405 00 800 SA 30106
+08,City Compensatory Allowance,27,21,24,24,2405 00 800 SA 30108
+303,Dearness Allowance,"6,51","1,33","7,00","2,61",2405 00 800 SA 30300
+01,Dearness Allowance,"6,51","1,33","7,00","2,61",2405 00 800 SA 30301
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,5,10,20,30,2405 00 800 SA 34901
+02,Festival Advances-Credit,- 5,- 10,- 20,- 30,2405 00 800 SA 34902
+SA,Total SA,"21,26","13,18","19,10","15,12",
+SE,Online Registration of Fishing Vessels,,,,,2405 00 800 SE 30000
+309,Grants-in-Aid,,1,1,1,2405 00 800 SE 30900
+03,Grants for Specific Schemes,,1,1,1,2405 00 800 SE 30903
+SE,Total SE,,1,1,1,
+SF,Integrated Development and Management of Fisheries under Blue Revolution,,,,,2405 00 800 SF 30000
+311,Subsidies,"69,27",1,"18,00","1,74,16",2405 00 800 SF 31100
+02,General Subsidy,"69,27",1,"18,00","1,74,16",2405 00 800 SF 31102
+SF,Total SF,"69,27",1,"18,00","1,74,16",
+SG,Development of ornamental Fisheries under Blue Revolution,,,,,2405 00 800 SG 30000
+311,Subsidies,,,"16,96","67,84",2405 00 800 SG 31100
+02,General Subsidy,,,"16,96","67,84","2405 00 800 SG 31102"""
+SG,Total SG,,,"16,96","67,84",
+#,Central Sector Schemes Total,"90,53","13,20","54,07","2,57,13",
+#,Schemes shared between State and Centre,,,,,
+UA,Relief Scheme for Tamil Nadu Marine  Fishermen during Lean Months,,,,,2405 00 800 UA 30000
+311,Subsidies,"62,43,45","66,00,00","63,70,26","65,00,00",2405 00 800 UA 31100 
+01,Individual Based Subsidy,"62,43,45","66,00,00","63,70,26","65,00,00",2405 00 800 UA 31101
+UA,Total UA,"62,43,45","66,00,00","63,70,26","65,00,00",
+UC,Assistance to Fishermen for purchase of Diesel,,,,,2405 00 800 UC 30000
+311,Subsidies,,1,1,1,2405 00 800 UC 31100
+01,Individual Based Subsidy,,1,1,1,2405 00 800 UC 31101
+UC,Total UC,,1,1,1,
+UD,Diversification of trawl fishing boats from Palk Bay into Deep Sea Fishing boats,,,,,2405 00 800 UD 30000
+311,Subsidies,,"77,00,00","14,10,00","30,00,00",2405 00 800 UD 31100
+01,Individual Based Subsidy,,"77,00,00","14,10,00","30,00,00",2405 00 800 UD 31101
+UD,Total UD,,"77,00,00","14,10,00","30,00,00",
+UE,National Agriculture Development Programme (NADP-RKVY) - Tamil Nadu Fisheries University,,,,,2405 00 800 UE 30000
+309,Grants-in-Aid,,1,2,1,2405 00 800 UE 30900
+03,Grants for Specific Schemes,,1,2,1,2405 00 800 UE 30903
+UE,Total UE,,1,2,1,
+#,Schemes shared between State and Centre Total,"62,43,45","1,43,00,02","77,80,29","95,00,02",
+800,Total 800,"1,31,21,64","2,15,12,71","1,50,91,91","1,69,59,26",
+902,Deduct - Amount met from State Innovation Fund,,,,,
+#,State's Expenditure,,,,,
+AA,Deduct - Amount met from State Innovation Fund,,,,,2405 00 902 AA 30000
+330,Inter-Account Transfers,,,"- 3,01,72","- 2,41,49",2405 00 902 AA 33000
+01,Inter-Account Transfers,,,"- 3,01,72","- 2,41,49",2405 00 902 AA 33001
+AA,Total AA,,"- 3,01,72","- 2,41,49",,
+#,State's Expenditure Total,,,"- 3,01,72","- 2,41,49",
+902,Total 902,,"- 3,01,72","- 2,41,49",,
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+AA,Training Centre for Fishermen,,,,,2405 00 911 AA 30000
+377,Deduct-Recoveries,"- 33,55",,,,2405 00 911 AA 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"- 33,55",,,,2405 00 911 AA 37702
+AA,Total AA,"- 33,55",,,,
+AB,Maintenance of Fishing Harbours and Jetties,,,,,2405 00 911 AB 30000
+377,Deduct-Recoveries,- 4,,,,2405 00 911 AB 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,- 4,,,,2405 00 911 AB 37702
+AB,Total AB,- 4,,,,
+#,State's Expenditure Total,"- 33,59",,,,
+#,Schemes shared between State and Centre,,,,,
+UC,Schemes on Fisheries Training and extension,,,,,2405 00 911 UC 30000
+377,Deduct-Recoveries,- 79,,,,2405 00 911 UC 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,- 79,,,,2405 00 911 UC 37702
+UC,Total UC,- 79,,,,
+#,Schemes shared between State and Centre Total,,- 79,,,
+911,Total 911,,"- 34,38",,,
+00,Total 00 Charged,,1,1,1,
+00,Total 00 Voted,"4,28,96,91","5,15,58,84","4,89,96,30","4,89,10,32",
+2405,Total 2405 Charged,,1,1,1,
+2405,Total 2405 Voted,"4,28,96,91","5,15,58,84","4,89,96,30","4,89,10,32",
+2415,AGRICULTURAL RESEARCH AND EDUCATION,,,,,
+05,Fisheries,,,,,
+004,Research,,,,,
+#,State's Expenditure,,,,,
+AA,Research on Inland Fisheries,,,,,2415 05 004 AA 30000
+301,Salaries,"55,83","64,64","63,24","98,37",2415 05 004 AA 30100
+01,Pay,"51,29","59,97","58,29","93,41",2415 05 004 AA 30101
+02,Medical Allowance,54,45,46,46,2415 05 004 AA 30102
+04,Other Allowances,41,39,28,29,2415 05 004 AA 30104
+06,House Rent Allowance,"3,07","3,28","3,66","3,66",2415 05 004 AA 30106
+08,City Compensatory Allowance,52,55,55,55,2415 05 004 AA 30108
+303,Dearness Allowance,"19,01","8,11","31,85","22,89",2415 05 004 AA 30300
+01,Dearness Allowance,"19,01","8,11","31,85","22,89",2415 05 004 AA 30301
+304,Travel Expenses,87,"1,56","1,15","1,15",2415 05 004 AA 30400
+01,Tour Travelling Allowances,84,"1,37","1,00","1,00",2415 05 004 AA 30401
+02,Transfer Travelling Allowances,3,19,15,15,2415 05 004 AA 30402
+305,Office Expenses,24,"1,12","1,08","1,13",2415 05 004 AA 30500
+02,Other Contingencies,17,18,18,18,2415 05 004 AA 30502
+03,Electricity Charges,7,94,90,95,2415 05 004 AA 30503
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,40,90,"1,70","1,80",2415 05 004 AA 34901
+02,Festival Advances-Credit,- 40,- 90,"- 1,70","- 1,80",2415 05 004 AA 34902
+367,Feeding/Dietary Charges,10,10,10,10,2415 05 004 AA 36700
+09,Others,10,10,10,10,2415 05 004 AA 36709
+AA,Total AA,"76,05","75,53","97,42","1,23,64",
+AB,Research on Marine Biology,,,,,2415 05 004 AB 30000
+301,Salaries,"13,50","16,44","13,01","20,52",2415 05 004 AB 30100
+01,Pay,"12,54","15,26","12,07","19,58",2415 05 004 AB 30101
+02,Medical Allowance,18,21,14,14,2415 05 004 AB 30102
+04,Other Allowances,12,15,8,8,2415 05 004 AB 30104
+06,House Rent Allowance,66,82,72,72,2415 05 004 AB 30106
+303,Dearness Allowance,"4,66","2,06","7,46","4,80",2415 05 004 AB 30300
+01,Dearness Allowance,"4,66","2,06","7,46","4,80",2415 05 004 AB 30301
+304,Travel Expenses,16,21,21,21,2415 05 004 AB 30400
+01,Tour Travelling Allowances,16,19,19,19,2415 05 004 AB 30401
+02,Transfer Travelling Allowances,,2,2,2,2415 05 004 AB 30402
+305,Office Expenses,17,30,30,30,2415 05 004 AB 30500
+01,Telephone Charges,,1,1,1,2415 05 004 AB 30501
+02,Other Contingencies,11,11,11,10,2415 05 004 AB 30502
+03,Electricity Charges,3,15,15,16,2415 05 004 AB 30503
+04,Service Postage & Postal Expenditure,3,3,3,3,2415 05 004 AB 30504
+306,"Rent, Rates and Taxes",15,16,31,33,2415 05 004 AB 30600
+02,Property tax,15,16,31,33,2415 05 004 AB 30602
+319,Machinery and Equipments,5,5,5,5,2415 05 004 AB 31900
+03,Maintenance,5,5,5,5,2415 05 004 AB 31903
+324,Materials and Supplies,10,10,10,10,2415 05 004 AB 32400
+01,Materials and Supplies,10,10,10,10,2415 05 004 AB 32401
+347,Stores and Equipments,10,10,10,10,2415 05 004 AB 34700
+01,Stores - Voted,10,10,10,10,2415 05 004 AB 34701
+349,Festival Advances,- 7,,,,2415 05 004 AB 34900
+01,Festival Advances-Debit,20,45,45,50,2415 05 004 AB 34901
+02,Festival Advances-Credit,- 27,- 45,- 45,- 50,2415 05 004 AB 34902
+359,Prizes and Awards,,1,1,1,2415 05 004 AB 35900
+01,Prizes and Awards,,1,1,1,2415 05 004 AB 35901
+371,Printing Charges,1,1,1,1,2415 05 004 AB 37100
+01,Printing Charges,1,1,1,1,2415 05 004 AB 37101
+376,Computer and Accessories,5,5,5,5,2415 05 004 AB 37600
+03,Stationery,5,5,5,5,2415 05 004 AB 37603
+AB,Total AB,"18,88","19,49","21,61","26,48",
+AD,Estuarine Fish Farm,,,,,2415 05 004 AD 30000
+301,Salaries,"2,59,13","2,62,01","2,64,00","3,98,24",2415 05 004 AD 30100
+01,Pay,"2,39,59","2,41,45","2,41,45","3,75,69",2415 05 004 AD 30101
+02,Medical Allowance,"2,36","2,55","2,67","2,67",2415 05 004 AD 30102
+03,Medical Charges,,15,,,2415 05 004 AD 30103
+04,Other Allowances,"1,66","2,01","3,17","3,17",2415 05 004 AD 30104
+06,House Rent Allowance,"14,40","14,44","15,30","15,30",2415 05 004 AD 30106
+07,Travel Concession,,5,5,5,2415 05 004 AD 30107
+08,City Compensatory Allowance,"1,12","1,36","1,36","1,36",2415 05 004 AD 30108
+302,Wages,"1,06","1,24","4,00","4,00",2415 05 004 AD 30200
+01,Wages,"1,06","1,24","4,00","4,00",2415 05 004 AD 30201
+303,Dearness Allowance,"63,68","32,64","67,60","92,04",2415 05 004 AD 30300
+01,Dearness Allowance,"63,68","32,64","67,60","92,04",2415 05 004 AD 30301
+304,Travel Expenses,"5,64","7,28","5,42","5,42",2415 05 004 AD 30400
+01,Tour Travelling Allowances,"5,29","6,77","5,30","5,30",2415 05 004 AD 30401
+02,Transfer Travelling Allowances,35,51,12,12,2415 05 004 AD 30402
+305,Office Expenses,"3,41","4,24","4,44","4,97",2415 05 004 AD 30500
+01,Telephone Charges,54,66,60,60,2415 05 004 AD 30501
+02,Other Contingencies,65,65,65,65,2415 05 004 AD 30502
+03,Electricity Charges,"2,01","2,68","2,95","3,48",2415 05 004 AD 30503
+04,Service Postage & Postal Expenditure,21,25,24,24,2415 05 004 AD 30504
+306,"Rent, Rates and Taxes","3,39","3,76","3,40","3,57",2415 05 004 AD 30600
+01,Rent,"3,39","3,76","3,40","3,57",2415 05 004 AD 30601
+321,Motor Vehicles,19,23,28,23,2415 05 004 AD 32100
+02,Maintenance of Functional Vehicles,19,23,28,23,2415 05 004 AD 32102
+324,Materials and Supplies,12,15,15,15,2415 05 004 AD 32400
+01,Materials and Supplies,12,15,15,15,2415 05 004 AD 32401
+345,"Petroleum, Oil and Lubricant","2,85","3,24","2,83","2,83",2415 05 004 AD 34500
+01,"Petroleum, Oil and Lubricant","2,85","3,24","2,83","2,83",2415 05 004 AD 34501
+347,Stores and Equipments,,1,1,1,2415 05 004 AD 34700
+01,Stores - Voted,,1,1,1,2415 05 004 AD 34701
+349,Festival Advances,- 62,,,,2415 05 004 AD 34900
+01,Festival Advances-Debit,"1,80","3,80","6,50","6,50",2415 05 004 AD 34901
+02,Festival Advances-Credit,"- 2,42","- 3,80","- 6,50","- 6,50",2415 05 004 AD 34902
+351,Compensation,,2,2,1,2415 05 004 AD 35100
+01,Claims under no fault liability -  principal charges  - Voted,,1,1,1,2415 05 004 AD 35101
+02,Other Compensations  - Voted,,1,1,,2415 05 004 AD 35102
+359,Prizes and Awards,2,4,2,2,2415 05 004 AD 35900
+01,Prizes and Awards,2,4,2,2,2415 05 004 AD 35901
+367,Feeding/Dietary Charges,"1,92",50,50,50,2415 05 004 AD 36700
+09,Others,"1,92",50,50,50,2415 05 004 AD 36709
+373,Transport Charges,,1,1,1,2415 05 004 AD 37300
+01,Transport Charges,,1,1,1,2415 05 004 AD 37301
+376,Computer and Accessories,53,52,52,52,2415 05 004 AD 37600
+02,Maintenance,31,32,32,32,2415 05 004 AD 37602
+03,Stationery,22,20,20,20,2415 05 004 AD 37603
+AD,Total AD,"3,41,32","3,15,89","3,53,20","5,12,52",
+AJ,Brackish water fish farming,,,,,2415 05 004 AJ 30000
+301,Salaries,"83,24","1,16,66","97,64","1,18,21",2415 05 004 AJ 30100
+01,Pay,"77,60","1,09,49","91,79","1,12,30",2415 05 004 AJ 30101
+02,Medical Allowance,75,76,73,73,2415 05 004 AJ 30102
+04,Other Allowances,50,29,17,18,2415 05 004 AJ 30104
+06,House Rent Allowance,"4,17","5,63","4,51","4,51",2415 05 004 AJ 30106
+07,Travel Concession,,5,,5,2415 05 004 AJ 30107
+08,City Compensatory Allowance,22,44,44,44,2415 05 004 AJ 30108
+302,Wages,"3,65","4,00","7,02","7,02",2415 05 004 AJ 30200
+01,Wages,"3,65","4,00","7,02","7,02",2415 05 004 AJ 30201
+303,Dearness Allowance,"41,41","14,80","34,87","27,51",2415 05 004 AJ 30300
+01,Dearness Allowance,"41,41","14,80","34,87","27,51",2415 05 004 AJ 30301
+304,Travel Expenses,"2,28","4,28","3,08","3,08",2415 05 004 AJ 30400
+01,Tour Travelling Allowances,"2,28","4,20","3,00","3,00",2415 05 004 AJ 30401
+02,Transfer Travelling Allowances,,8,8,8,2415 05 004 AJ 30402
+305,Office Expenses,"12,39","3,96","5,47","5,69",2415 05 004 AJ 30500
+01,Telephone Charges,10,17,22,22,2415 05 004 AJ 30501
+02,Other Contingencies,"9,76",68,68,68,2415 05 004 AJ 30502
+03,Electricity Charges,"2,45","3,03","4,49","4,71",2415 05 004 AJ 30503
+04,Service Postage & Postal Expenditure,8,8,8,8,2415 05 004 AJ 30504
+306,"Rent, Rates and Taxes",,1,1,1,2415 05 004 AJ 30600
+02,Property tax,,1,1,1,2415 05 004 AJ 30602
+321,Motor Vehicles,20,25,20,25,2415 05 004 AJ 32100
+02,Maintenance of Functional Vehicles,20,25,20,25,2415 05 004 AJ 32102
+333,Payments for Professional and Special Services,,1,1,1,2415 05 004 AJ 33300
+01,Pleaders Fees,,1,1,1,2415 05 004 AJ 33301
+345,"Petroleum, Oil and Lubricant","1,40","1,47","1,65","1,65",2415 05 004 AJ 34500
+01,"Petroleum, Oil and Lubricant","1,40","1,47","1,65","1,65",2415 05 004 AJ 34501
+347,Stores and Equipments,14,15,15,15,2415 05 004 AJ 34700
+01,Stores - Voted,14,15,15,15,2415 05 004 AJ 34701
+349,Festival Advances,10,,,,2415 05 004 AJ 34900
+01,Festival Advances-Debit,80,"1,30","2,30","2,40",2415 05 004 AJ 34901
+02,Festival Advances-Credit,- 70,"- 1,30","- 2,30","- 2,40",2415 05 004 AJ 34902
+359,Prizes and Awards,6,6,6,6,2415 05 004 AJ 35900
+01,Prizes and Awards,6,6,6,6,2415 05 004 AJ 35901
+367,Feeding/Dietary Charges,"2,27",75,75,75,2415 05 004 AJ 36700
+09,Others,"2,27",75,75,75,2415 05 004 AJ 36709
+373,Transport Charges,58,60,60,60,2415 05 004 AJ 37300
+01,Transport Charges,58,60,60,60,2415 05 004 AJ 37301
+376,Computer and Accessories,12,12,12,12,2415 05 004 AJ 37600
+02,Maintenance,2,2,2,2,2415 05 004 AJ 37602
+03,Stationery,10,10,10,10,2415 05 004 AJ 37603
+AJ,Total AJ,"1,47,84","1,47,12","1,51,63","1,65,11",
+#,State's Expenditure Total,"5,84,09","5,58,03","6,23,86","8,27,75",
+#,Externally Aided Projects,,,,,
+PA,Grants to Tamil Nadu Fisheries University (TNFU) under Tamil Nadu Irrigated Agriculture Modernization Project,,,,,2415 05 004 PA 30000
+309,Grants-in-Aid,"51,45",1,1,1,2415 05 004 PA 30900
+03,Grants for Specific Schemes,"51,45",1,1,1,2415 05 004 PA 30903
+PA,Total PA,"51,45",1,1,1,
+#,Externally Aided Projects Total,"51,45",1,1,1,
+004,Total 004,"6,35,54","5,58,04","6,23,87","8,27,76",
+120,Assistance to Other Institutions,,,,,
+#,State's Expenditure,,,,,
+JC,"College of Fisheries Engineering, Nagapattinam",,,,,2415 05 120 JC 30000
+309,Grants-in-Aid,"3,39,39","3,51,43","4,08,80","3,36,53",2415 05 120 JC 30900
+01,Grants for Current Expenditure,"3,39,39","3,51,42","4,08,79","3,36,52",2415 05 120 JC 30901
+02,Grants for Creation of Capital Assets,,1,1,1,2415 05 120 JC 30902
+JC,Total JC,"3,39,39","3,51,43","4,08,80","3,36,53",
+JD,"Fisheries College and Research Institute, Ponneri",,,,,2415 05 120 JD 30000
+309,Grants-in-Aid,"4,00,39","4,22,86","5,89,87","4,65,32",2415 05 120 JD 30900
+01,Grants for Current Expenditure,"4,00,39","4,22,85","5,84,73","4,65,31",2415 05 120 JD 30901
+02,Grants for Creation of Capital Assets,,1,"5,14",1,2415 05 120 JD 30902
+JD,Total JD,"4,00,39","4,22,86","5,89,87","4,65,32",
+JE,Construction and Infrastructure Development of Tamil Nadu Fisheries University with loan assistance from NABARD,,,,,2415 05 120 JE 30000
+309,Grants-in-Aid,,1,1,1,2415 05 120 JE 30900
+02,Grants for Creation of Capital Assets,,1,1,1,2415 05 120 JE 30902
+JE,Total JE,1,1,1,,
+JF,E-Fish Health Surveillance  - Scheme under State Innovation Fund,,,,,2415 05 120 JF 30000
+309,Grants-in-Aid,"81,40",1,1,1,2415 05 120 JF 30900
+02,Grants for Creation of Capital Assets,"81,40",1,1,1,2415 05 120 JF 30902
+JF,Total JF,"81,40",1,1,1,
+JH,Grants to Tamil Nadu Fisheries University (TNFU) under NABARD loan assistance,,,,,2415 05 120 JH 30000
+309,Grants-in-Aid,"18,65,00",,,,2415 05 120 JH 30900
+02,Grants for Creation of Capital Assets,"18,65,00",,,,2415 05 120 JH 30902
+JH,Total JH,"18,65,00",,,,
+#,State's Expenditure Total,"26,86,18","7,74,31","9,98,69","8,01,87",
+120,Total 120,"26,86,18","7,74,31","9,98,69","8,01,87",
+277,Education,,,,,
+#,State's Expenditure,,,,,
+JC,Assistance to Tamil Nadu Fisheries University,,,,,2415 05 277 JC 30000
+309,Grants-in-Aid,"23,00,60","26,68,17","25,56,33","23,78,23",2415 05 277 JC 30900
+03,Grants for Specific Schemes,"23,00,60","26,68,17","25,56,33","23,78,23",2415 05 277 JC 30903
+JC,Total JC,"23,00,60","26,68,17","25,56,33","23,78,23",
+JD,Grants to Tamil Nadu Fisheries University for implementing new Schemes under Fisheries Education,,,,,2415 05 277 JD 30000
+309,Grants-in-Aid,,1,,,2415 05 277 JD 30900
+03,Grants for Specific Schemes,,1,,,2415 05 277 JD 30903
+JD,Total JD,1,,,,
+JF,"Paraprofessional Institute of Fisheries Technology at Royapuram, Chennai",,,,,2415 05 277 JF 30000
+319,Machinery and Equipments,"2,00,00",1,1,1,2415 05 277 JF 31900
+01,Purchase,"2,00,00",1,1,1,2415 05 277 JF 31901
+372,Training,"1,50,00",1,"2,34,01",1,2415 05 277 JF 37200
+01,Training,"1,50,00",1,"2,34,01",1,2415 05 277 JF 37201
+JF,Total JF,"3,50,00",2,"2,34,02",2,
+#,State's Expenditure Total,"26,50,60","26,68,20","27,90,35","23,78,25",
+277,Total 277,"26,50,60","26,68,20","27,90,35","23,78,25",
+793,Special Central Assistance for Scheduled Caste Component Plan,,,,,
+#,Schemes shared between State and Centre,,,,,
+UA,National Agricultur Development Programme (NADP-RKVY) - Tamil Nadu Fisheries University,,,,,2415 05 793 UA 30000
+309,Grants-in-Aid,"2,35,00",1,"1,36,44",1,2415 05 793 UA 30900
+03,Grants for Specific Schemes,"2,35,00",1,"1,36,44",1,2415 05 793 UA 30903
+UA,Total UA,"2,35,00",1,"1,36,44",1,
+#,Schemes shared between State and Centre Total,"2,35,00",1,"1,36,44",1,
+793,Total 793,"2,35,00",1,"1,36,44",1,
+794,Special Central Assistance for Tribal Sub-Plan,,,,,
+#,Schemes shared between State and Centre,,,,,
+UA,National Agricultur Development Programme (NADP-RKVY) - Tamil Nadu Fisheries University,,,,,2415 05 794 UA 30000
+309,Grants-in-Aid,,1,"5,30",1,2415 05 794 UA 30900
+03,Grants for Specific Schemes,,1,"5,30",1,2415 05 794 UA 30903
+UA,Total UA,1,"5,30",1,,
+#,Schemes shared between State and Centre Total,,1,"5,30",1,
+794,Total 794,1,"5,30",1,,
+800,Other Expenditure,,,,,
+#,Schemes shared between State and Centre,,,,,
+UA,National Agriculture Development Programme (NADP-RKVY) - Tamil Nadu Fisheries University,,,,,2415 05 800 UA 30000
+309,Grants-in-Aid,"6,15,00",1,"3,68,26",1,2415 05 800 UA 30900
+03,Grants for Specific Schemes,"6,15,00",1,"3,68,26",1,2415 05 800 UA 30903
+UA,Total UA,"6,15,00",1,"3,68,26",1,
+#,Schemes shared between State and Centre Total,"6,15,00",1,"3,68,26",1,
+800,Total 800,"6,15,00",1,"3,68,26",1,
+902,Deduct - Amount met from State Innovation Fund,,,,,
+#,State's Expenditure,,,,,
+JA,Deduct - Amount met from State Innovation Fund,,,,,2415 05 902 JA 30000
+330,Inter-Account Transfers,"- 81,40",,,,2415 05 902 JA 33000
+01,Inter-Account Transfers,"- 81,40",,,,2415 05 902 JA 33001
+JA,Total JA,"- 81,40",,,,
+#,State's Expenditure Total,,"- 81,40",,,
+902,Total 902,"- 81,40",,,,
+05,Total 05,"67,40,92","40,00,58","49,22,91","40,07,91",
+2415,Total 2415,"67,40,92","40,00,58","49,22,91","40,07,91",
+4405-00,CAPITAL OUTLAY ON FISHERIES,,,,,
+101,Inland Fisheries,,,,,
+#,State's Expenditure,,,,,
+JA,Fish Seed Farm Nurseries,,,,,4405 00 101 JA 40000
+416,Major Works,,1,1,,4405 00 101 JA 41600
+01,Major Works,,1,1,,4405 00 101 JA 41601
+JA,Total JA,1,1,,,
+JN,Improvement to Fish Seed Farms with loan assistance from NABARD,,,,,4405 00 101 JN 40000
+416,Major Works,"5,18,61",1,1,,4405 00 101 JN 41600
+01,Major Works,"5,18,61",1,1,,4405 00 101 JN 41601
+JN,Total JN,"5,18,61",1,1,,
+JO,Construction of Buildings for Tamil Nadu Fisheries Development Corporation Ltd (TNFDC) and Tamil Nadu State Apex Fisheries Co-operative Federation Ltd,,,,,4405 00 101 JO 40000
+416,Major Works,,1,1,,4405 00 101 JO 41600
+01,Major Works,,1,1,,4405 00 101 JO 41601
+JO,Total JO,1,1,,,
+JP,National Agriculture Development Programme (NADP-RKVY) - Fisheries Department,,,,,4405 00 101 JP 40000
+416,Major Works,"3,62,54",1,1,,4405 00 101 JP 41600
+01,Major Works,"3,62,54",1,1,,4405 00 101 JP 41601
+477,Deduct-Recoveries,"- 3,68,50",,,,4405 00 101 JP 47700
+02,Recoveries of Overpayments / Remittance of excess drawals,"- 3,68,50",,,,4405 00 101 JP 47702
+JP,Total JP,"- 5,96",1,1,,
+#,State's Expenditure Total,"5,12,65",4,4,,
+#,Externally Aided Projects,,,,,
+PC,Eco-Restoration of Peerkankaranai Lake under TNIPP Phase-2,,,,,4405 00 101 PC 40000
+416,Major Works,,1,1,1,4405 00 101 PC 41600
+01,Major Works,,1,1,1,4405 00 101 PC 41601
+PC,Total PC,1,1,1,,
+#,Externally Aided Projects Total,,1,1,1,
+101,Total 101,"5,12,65",5,5,1,
+103,Marine Fisheries,,,,,
+#,State's Expenditure,,,,,
+JD,Survey cum INSHORE Fishing Stations,,,,,4405 00 103 JD 40000
+416,Major Works,,1,,,4405 00 103 JD 41600
+01,Major Works,,1,,,4405 00 103 JD 41601
+JD,Total JD,1,,,,
+JU,Installation of Artificial Reefs in the Coastal Districts,,,,,4405 00 103 JU 40000
+416,Major Works,,1,1,,4405 00 103 JU 41600
+01,Major Works,,1,1,,4405 00 103 JU 41601
+JU,Total JU,1,1,,,
+JW,National Agriculture Development Programme (NADP-RKVY)- Fisheries Department,,,,,4405 00 103 JW 40000
+416,Major Works,,1,1,,4405 00 103 JW 41600
+01,Major Works,,1,1,,4405 00 103 JW 41601
+JW,Total JW,1,1,,,
+JX,Construction of Buildings,,,,,4405 00 103 JX 40000
+416,Major Works,,1,"30,00","90,00",4405 00 103 JX 41600
+01,Major Works,,1,"30,00","90,00",4405 00 103 JX 41601
+JX,Total JX,1,"30,00","90,00",,
+JY,Construction of Institute of Fisheries Paraprofessional Fisheries Technology,,,,,4405 00 103 JY 40000
+416,Major Works,"1,50,00",1,1,,4405 00 103 JY 41600
+01,Major Works,"1,50,00",1,1,,4405 00 103 JY 41601
+JY,Total JY,"1,50,00",1,1,,
+#,State's Expenditure Total,"1,50,00",5,"30,03","90,00",
+103,Total 103,"1,50,00",5,"30,03","90,00",
+104,Fishing Harbour and landing facilities,,,,,
+#,State's Expenditure,,,,,
+JB,Scheme to open up river mouths in fishing areas/harbours,,,,,4405 00 104 JB 40000
+416,Major Works,"13,23,87",1,"11,79,93","4,42,92",4405 00 104 JB 41600
+01,Major Works,"13,23,87",1,"11,79,93","4,42,92",4405 00 104 JB 41601
+JB,Total JB,"13,23,87",1,"11,79,93","4,42,92",
+JE,Improvement to Fish Landing Facilities with loan asssistance from NABARD,,,,,4405 00 104 JE 40000
+416,Major Works,"31,95,89","1,46,28,76","60,35,56","1,36,29,60",4405 00 104 JE 41600
+01,Major Works,"31,95,89","1,46,28,76","60,35,56","1,36,29,60",4405 00 104 JE 41601
+JE,Total JE,"31,95,89","1,46,28,76","60,35,56","1,36,29,60",
+JK,Land Acquisition for Fishing Harbour,,,,,4405 00 104 JK 40000
+464,Lands,,1,1,1,4405 00 104 JK 46400
+01,Lands - Voted,,1,1,1,4405 00 104 JK 46401
+JK,Total JK,1,1,1,,
+JL,Restoration of Fishing Harbour and Landing Facilities damaged due to 'Ockhi Cyclone' in Kanniyakumari District,,,,,4405 00 104 JL 40000
+416,Major Works,"19,07,30",1,"92,70",1,4405 00 104 JL 41600
+01,Major Works,"19,07,30",1,"92,70",1,4405 00 104 JL 41601
+JL,Total JL,"19,07,30",1,"92,70",1,
+JM,Construction of Fishing Harbour/Fish Landing Centre with Loan asistance from fisheries and Aquaculture infrastructure Development Fund (FIDF),,,,,4405 00 104 JM 40000
+416,Major Works,,,"60,00,00","5,30,00,00",4405 00 104 JM 41600
+01,Major Works,,,"60,00,00","5,30,00,00",4405 00 104 JM 41601
+JM,Total JM,,"60,00,00","5,30,00,00",,
+#,State's Expenditure Total,"64,27,06","1,46,28,79","1,33,08,20","6,70,72,54",
+#,Externally Aided Projects,,,,,
+PA,World Bank assisted Scheme under Coastal Disaster Risk Reduction Project (CDRRP) - Fisheries,,,,,4405 00 104 PA 40000
+416,Major Works,"24,00,00",1,,,4405 00 104 PA 41600
+01,Major Works,"24,00,00",1,,,4405 00 104 PA 41601
+PA,Total PA,"24,00,00",1,,,
+#,Externally Aided Projects Total,"24,00,00",1,,,
+#,Schemes shared between State and Centre,,,,,
+UA,Development of Fish Landing Facilities,,,,,4405 00 104 UA 40000
+416,Major Works,"1,51,85,04","2,00,00,00","4,21,74","8,01",4405 00 104 UA 41600
+01,Major Works,"1,51,85,04","2,00,00,00","4,21,74","8,01",4405 00 104 UA 41601
+UA,Total UA,"1,51,85,04","2,00,00,00","4,21,74","8,01",
+#,Schemes shared between State and Centre Total,"1,51,85,04","2,00,00,00","4,21,74","8,01",
+104,Total 104,"2,40,12,10","3,46,28,80","1,37,29,94","6,70,80,55",
+00,Total 00,"2,46,74,75","3,46,28,90","1,37,60,02","6,71,70,56",
+4405,Total 4405,"2,46,74,75","3,46,28,90","1,37,60,02","6,71,70,56",
+4551,CAPITAL OUTLAY ON HILL AREAS,,,,,
+01,Western Ghats,,,,,
+104,Fisheries,,,,,
+#,State's Expenditure,,,,,
+JA,Construction of a Masheer Hatchery Buildings and Laboratory Buildings,,,,,4551 01 104 JA 40000
+416,Major Works,,1,1,,4551 01 104 JA 41600
+01,Major Works,,1,1,,4551 01 104 JA 41601
+JA,Total JA,,1,1,,
+#,State's Expenditure Total,,1,1,,
+#,Central Sector Schemes,,,,,
+SA,Establishment of Chinese Hatchery,,,,,4551 01 104 SA 40000
+416,Major Works,,1,1,1,4551 01 104 SA 41600
+01,Major Works,,1,1,1,4551 01 104 SA 41601
+SA,Total SA,,1,1,1,
+#,Central Sector Schemes Total,,1,1,1,
+104,Total 104,,2,2,1,
+01,Total 01,,2,2,1,
+4551,Total 4551,,2,2,1,

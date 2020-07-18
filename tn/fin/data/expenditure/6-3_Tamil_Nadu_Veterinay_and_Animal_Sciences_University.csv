@@ -1,0 +1,87 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2202,GENERAL EDUCATION,,,,,
+80,General,,,,,
+107,Scholarships,,,,,
+#,State's Expenditure,,,,,
+JI,Reimbursement of Tuition Fees for First Generation Graduates - Veterinary and Animal Sciences,,,,,2202 80 107 JI 30000
+312,Scholarships and Stipends,"11,00","11,00","30,77","11,00",2202 80 107 JI 31200
+09,Others,"11,00","11,00","30,77","11,00",2202 80 107 JI 31209
+JI,Total JI,"11,00","11,00","30,77","11,00",
+#,State's Expenditure Total,"11,00","11,00","30,77","11,00",
+107,Total 107,"11,00","11,00","30,77","11,00",
+80,Total 80,"11,00","11,00","30,77","11,00",
+2202,Total 2202,"11,00","11,00","30,77","11,00",
+2415,AGRICULTURAL RESEARCH AND EDUCATION,,,,,
+03,Animal Husbandry,,,,,
+004,Research,,,,,
+#,State's Expenditure,,,,,
+JB,"Establishment of Ethno veterinary herbal product research and development centre, Thanjavur - Schemes under State Innovation Fund",,,,,2415 03 004 JB 30000
+309,Grants-in-Aid,"70,42",,,,2415 03 004 JB 30900
+03,Grants for Specific Schemes,"70,42",,,,2415 03 004 JB 30903
+JB,Total JB,"70,42",,,,
+JC,Standardization of Novel DIVA Vaccine against New Castle disease - Scheme under State Innovation Fund,,,,,2415 03 004 JC 30000
+309,Grants-in-Aid,"20,75","20,75","20,75",,2415 03 004 JC 30900
+03,Grants for Specific Schemes,"20,75","20,75","20,75",,2415 03 004 JC 30903
+JC,Total JC,"20,75","20,75","20,75",,
+JD,Bio-electricity and Bio-hydrogen Production using slaughter house waste rumen fluid - Scheme under State Innovation Fund,,,,,2415 03 004 JD 30000
+309,Grants-in-Aid,"4,75","4,75","4,75",,2415 03 004 JD 30900
+03,Grants for Specific Schemes,"4,75","4,75","4,75",,2415 03 004 JD 30903
+JD,Total JD,"4,75","4,75","4,75",,
+JE,Health Approach for Animal and Public Health to Augment Food Safety and Productivity - Scheme under State Innovation Fund,,,,,2415 03 004 JE 30000
+309,Grants-in-Aid,"37,00","37,00","37,00",,2415 03 004 JE 30900
+03,Grants for Specific Schemes,"37,00","37,00","37,00",,2415 03 004 JE 30903
+JE,Total JE,"37,00","37,00","37,00",,
+#,State's Expenditure Total,"1,32,92","62,50","62,50",,
+004,Total 004,"1,32,92","62,50","62,50",,
+277,Education,,,,,
+#,State's Expenditure,,,,,
+AA,Grants to Tamil Nadu Veterinary and Animal Sciences University,,,,,2415 03 277 AA 30000
+309,Grants-in-Aid,"2,38,65,73","2,75,04,72","4,02,39,15","3,15,81,21",2415 03 277 AA 30900
+02,Grants for Creation of Capital Assets,"15,56,00","30,00,00","91,78,00","44,91,00",2415 03 277 AA 30902
+03,Grants for Specific Schemes,"2,23,09,73","2,45,04,72","3,10,61,15","2,70,90,21",2415 03 277 AA 30903
+AA,Total AA,"2,38,65,73","2,75,04,72","4,02,39,15","3,15,81,21",
+AC,"Establishment of a centre at Madhavaram, Chennai for developing low cost and user friendly hydroponic fodder production units",,,,,2415 03 277 AC 30000
+309,Grants-in-Aid,"74,48",,,,2415 03 277 AC 30900
+03,Grants for Specific Schemes,"74,48",,,,2415 03 277 AC 30903
+AC,Total AC,"74,48",,,,
+JE,Establishment of Veterinary College and Research Institute at Advanced Institute for Integrated Research on Livestock and Animal Sciences (AIIRLIVAS) at Salem,,,,,2415 03 277 JE 30000
+309,Grants-in-Aid,,,,"6,83,40",2415 03 277 JE 30900
+03,Grants for Specific Schemes,,,,"6,83,40",2415 03 277 JE 30903
+JE,Total JE,,,"6,83,40",,
+#,State's Expenditure Total,"2,39,40,21","2,75,04,72","4,02,39,15","3,22,64,61",
+277,Total 277,"2,39,40,21","2,75,04,72","4,02,39,15","3,22,64,61",
+793,Special Central Assistance for Scheduled Caste Component Plan,,,,,
+#,Schemes shared between State and Centre,,,,,
+#,Schemes shared between State and Centre,,,,,
+UA,National Agriculture Development Programme (NADP-RKVY) - Tamil Nadu Veterinary and Animal Sciences University,,,,,2415 03 793 UA 30000
+309,Grants-in-Aid,"79,80",1,"1,95,00","1,93,00",2415 03 793 UA 30900
+03,Grants for Specific Schemes,"79,80",1,"1,95,00","1,93,00",2415 03 793 UA 30903
+UA,Total UA,"79,80",1,"1,95,00","1,93,00",
+#,Schemes shared between State and Centre Total,"79,80",1,"1,95,00","1,93,00",
+793,Total 793,"79,80",1,"1,95,00","1,93,00",
+794,Special Central Assistance for Tribal Sub-Plan,,,,,
+#,Schemes shared between State and Centre,,,,,
+UA,National Agriculture Development Programme(NADP-RKVY) - TamilNadu Veterinary and Animal Sciences University,,,,,2415 03 794 UA 30000
+309,Grants-in-Aid,"3,30",1,"10,60","10,49",2415 03 794 UA 30900
+03,Grants for Specific Schemes,"3,30",1,"10,60","10,49",2415 03 794 UA 30903
+UA,Total UA,"3,30",1,"10,60","10,49",
+#,Schemes shared between State and Centre Total,"3,30",1,"10,60","10,49",
+794,Total 794,"3,30",1,"10,60","10,49",
+800,Other Expenditure,,,,,
+#,Schemes shared between State and Centre,,,,,
+UA,National Agriculture Development Programme (NADP-RKVY) - Tamil Nadu Veterinary and Animal Sciences University,,,,,2415 03 800 UA 30000
+309,Grants-in-Aid,"2,18,00",1,"5,03,40","4,98,00",2415 03 800 UA 30900
+03,Grants for Specific Schemes,"2,18,00",1,"5,03,40","4,98,00",2415 03 800 UA 30903
+UA,Total UA,"2,18,00",1,"5,03,40","4,98,00",
+#,Schemes shared between State and Centre Total,"2,18,00",1,"5,03,40","4,98,00",
+800,Total 800,"2,18,00",1,"5,03,40","4,98,00",
+902,Deduct - Amount met from State Innovation Fund,,,,,
+#,State's Expenditure,,,,,
+JA,Deduct - Amount met from State Innovation Fund,,,,,2415 03 902 JA 30000
+330,Inter-Account Transfers,"-1,32,92","- 62,50","-62,50",,2415 03 902 JA 33000
+01,Inter-Account Transfers,"-1,32,92","- 62,50","-62,50",,2415 03 902 JA 33001
+JA,Total JA,"-1,32,92","- 62,50","- 62,50",,
+#,State's Expenditure Total,,"- 1,32,92","-62,50","-62,50",
+902,Total 902,"-1,32,92","- 62,50","-62,50",,
+03,Total 03,"2,42,41,31","2,75,04,75","4,09,48,15","3,29,66,10",
+2415,Total 2415,"2,42,41,31","2,75,04,75","4,09,48,15","3,29,66,10",
