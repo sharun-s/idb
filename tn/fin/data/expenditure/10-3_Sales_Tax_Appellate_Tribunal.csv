@@ -1,0 +1,54 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2040-00,TAXES ON SALES TRADE ETC.,,,,,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+AA,Appellate Tribunal,,,,,2040 00 800 AA 30000
+301,"Salaries","3,42,78","3,43,77","3,58,35","3,67,99",2040 00 800 AA 30100
+01,"Pay","3,02,24","2,90,18","3,14,34","3,26,91",2040 00 800 AA 30101
+02,Medical Allowance,"2,64","4,22","2,60","2,60",2040 00 800 AA 30102
+03,Medical Charges,"1,94","4,50","8,55","4,50",2040 00 800 AA 30103
+04,Other Allowances,"4,80","7,72","5,10","5,30",2040 00 800 AA 30104
+06,House Rent Allowance,"27,01","30,38","22,91","23,83",2040 00 800 AA 30106
+07,"Travel Concession",,63,63,63,2040 00 800 AA 30107
+08,City Compensatory,"4,15","6,14","4,22","4,22",2040 00 800 AA 30108
+Allowance,,,,,
+303,Dearness Allowance,"59,50","37,72","50,29","81,73",2040 00 800 AA 30300
+01,Dearness Allowance,"59,50","37,72","50,29","81,73",2040 00 800 AA 30301
+304,Travel Expenses,"1,70","3,70","3,70","3,70",2040 00 800 AA 30400
+01,"Tour Travelling","1,64","2,10","2,10","2,10",2040 00 800 AA 30401
+Allowances,,,,,
+02,"Transfer Travelling",6,"1,60","1,60","1,60",2040 00 800 AA 30402
+Allowances,,,,,
+305,Office Expenses,"4,53","6,30","6,80","6,80",2040 00 800 AA 30500
+01,"Telephone Charges","1,02","1,50","1,50","1,50",2040 00 800 AA 30501
+02,Other Contingencies,"1,90","3,00","3,50","3,50",2040 00 800 AA 30502
+03,"Electricity Charges",61,80,80,80,2040 00 800 AA 30503
+04,"Service Postage & Postal","1,00","1,00","1,00","1,00",2040 00 800 AA 30504
+Expenditure,,,,,
+306,"Rent, Rates and Taxes","2,34","3,10","3,10","3,10",2040 00 800 AA 30600
+01,Rent,"2,34","3,10","3,10","3,10",2040 00 800 AA 30601
+314,Sumptuary Allowances,5,"1,20","1,20","1,20",2040 00 800 AA 31400
+01,Sumptuary Allowances,5,"1,20","1,20","1,20",2040 00 800 AA 31401
+319,Machinery and Equipments,,1,1,1,2040 00 800 AA 31900
+01,Purchase,,1,1,1,2040 00 800 AA 31901
+321,Motor Vehicles,,50,51,51,2040 00 800 AA 32100
+01,Purchase,,,1,1,2040 00 800 AA 32101
+02,Maintenance of,,50,50,50,2040 00 800 AA 32102
+Functional Vehicles,,,,,,
+345,"Petroleum, Oil and","1,44","3,20","3,20","3,20",2040 00 800 AA 34500
+Lubricant,,,,,,
+01,"Petroleum, Oil and","1,44","3,20","3,20","3,20",2040 00 800 AA 34501
+Lubricant,,,,,,
+349,Festival Advances,- 4,,,,2040 00 800 AA 34900
+01,Festival Advances-Debit,"2,00","4,10","4,10","4,10",2040 00 800 AA 34901
+02,Festival Advances-Credit,"- 2,04","- 4,10","- 4,10","- 4,10",2040 00 800 AA 34902
+359,Prizes and Awards,,10,10,10,2040 00 800 AA 35900
+01,Prizes and Awards,,10,10,10,2040 00 800 AA 35901
+376,Computer and Accessories,26,85,85,85,2040 00 800 AA 37600
+02,Maintenance,,25,25,25,2040 00 800 AA 37602
+03,Stationery,26,60,60,60,2040 00 800 AA 37603
+AA,Total AA,"4,12,56","4,00,45","4,28,11","4,69,19",
+#,State's Expenditure Total,"4,12,56","4,00,45","4,28,11","4,69,19",
+800,Total 800,"4,12,56","4,00,45","4,28,11","4,69,19",
+00,Total 00,"4,12,56","4,00,45","4,28,11","4,69,19",
+2040,Total 2040,"4,12,56","4,00,45","4,28,11","4,69,19",
