@@ -1,0 +1,61 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2225,"WELFARE OF SCHEDULED CASTE, SCHEDULED TRIBES, OTHER BACKWARD CLASSES AND MINORITIES",,,,,
+03,Welfare of Backward classes,,,,,
+001,Direction and Administration,,,,,
+#,State's Expenditure,,,,,
+AD,Tamil Nadu Backward Classes Commission Staff,,,,,2225 03 001 AD 30000
+301,Salaries,"60,50","72,62","47,00","59,29",2225 03 001 AD 30100
+01,Pay,"44,21","50,46","36,55","39,74",2225 03 001 AD 30101
+02,Medical Allowance,14,15,15,15,2225 03 001 AD 30102
+03,Medical Charges,"1,21","3,00","1,00","2,00",2225 03 001 AD 30103
+04,Other Allowances,"2,25","3,12","1,55","3,45",2225 03 001 AD 30104
+06,House Rent Allowance,"8,63","11,09","5,32","9,10",2225 03 001 AD 30106
+07,Travel Concession,6,10,10,10,2225 03 001 AD 30107
+08,City Compensatory Allowance,72,70,41,43,2225 03 001 AD 30108
+09,Honorarium,"3,28","4,00","1,92","4,32",2225 03 001 AD 30109
+302,Wages,,1,1,1,2225 03 001 AD 30200
+01,Wages,,1,1,1,2225 03 001 AD 30201
+303,Dearness Allowance,"10,36","6,56","5,85","9,74",2225 03 001 AD 30300
+01,Dearness Allowance,"10,36","6,56","5,85","9,74",2225 03 001 AD 30301
+304,Travel Expenses,"1,07","3,00","1,50","3,00",2225 03 001 AD 30400
+01,Tour Travelling Allowances,"1,07","3,00","1,50","3,00",2225 03 001 AD 30401
+305,Office Expenses,"2,70","3,75","2,85","3,75",2225 03 001 AD 30500
+01,Telephone Charges,27,40,30,40,2225 03 001 AD 30501
+02,Other Contingencies,"1,56","2,00","1,50","2,00",2225 03 001 AD 30502
+03,Electricity Charges,87,"1,25","1,00","1,25",2225 03 001 AD 30503
+04,Service Postage & Postal Expenditure,,10,5,10,2225 03 001 AD 30504
+306,"Rent, Rates and Taxes","9,90","10,59","10,59","11,12",2225 03 001 AD 30600
+01,Rent,"9,90","10,59","10,59","11,12",2225 03 001 AD 30601
+308,Advertising and Publicity,,1,1,1,2225 03 001 AD 30800
+01,Advertisement Charges,,1,1,1,2225 03 001 AD 30801
+319,Machinery and Equipments,24,25,25,25,2225 03 001 AD 31900
+01,Purchase,,1,1,1,2225 03 001 AD 31901
+03,Maintenance,24,24,24,24,2225 03 001 AD 31903
+321,Motor Vehicles,62,61,61,61,2225 03 001 AD 32100
+01,Purchase,,1,1,1,2225 03 001 AD 32101
+02,Maintenance of Functional Vehicles,62,60,60,60,2225 03 001 AD 32102
+333,Payments for Professional and Special Services,,1,1,1,2225 03 001 AD 33300
+01,Pleaders Fees,,1,1,1,2225 03 001 AD 33301
+345,"Petroleum, Oil and Lubricant",97,"1,55","1,37","1,43",2225 03 001 AD 34500
+01,"Petroleum, Oil and Lubricant",97,"1,55","1,37","1,43",2225 03 001 AD 34501
+349,Festival Advances,- 4,,,,2225 03 001 AD 34900
+01,Festival Advances-Debit,20,30,30,30,2225 03 001 AD 34901
+02,Festival Advances-Credit,- 24,- 30,- 30,- 30,2225 03 001 AD 34902
+351,Compensation Charged,,1,,,2225 03 001 AD 35100
+51,Claims under no fault liability -  principal charges Charged,,1,,,2225 03 001 AD 35151
+359,Prizes and Awards,2,1,1,1,2225 03 001 AD 35900
+01,Prizes and Awards,2,1,1,1,2225 03 001 AD 35901
+376,Computer and Accessories,53,64,64,64,2225 03 001 AD 37600
+01,Purchase,,1,1,1,2225 03 001 AD 37601
+02,Maintenance,19,23,23,23,2225 03 001 AD 37602
+03,Stationery,34,40,40,40,2225 03 001 AD 37603
+AD,Total AD Charged,,1,,,
+AD,Total AD Voted,"86,87","99,61","70,70","89,87",
+#,State's Expenditure Total Charged,,1,,,
+#,State's Expenditure Total Voted,"86,87","99,61","70,70","89,87",
+001,Total 001 Charged,,1,,,
+001,Total 001 Voted,"86,87","99,61","70,70","89,87",
+03,Total 03 Charged,,1,,,
+03,Total 03 Voted,"86,87","99,61","70,70","89,87",
+2225,Total 2225 Voted,,1,,,
+2225,Total 2225 Voted,"86,87","99,61","70,70","89,87",

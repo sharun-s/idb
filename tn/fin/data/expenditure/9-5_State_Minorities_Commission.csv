@@ -1,0 +1,61 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2070-00,OTHERADMINISTRATIVE SERVICES,,,,,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+BM,Headquarters Staff - State Minorities Commission,,,,,2070 00 800 BM 30000
+301,Salaries,"31,98","44,28","37,19","38,41",2070 00 800 BM 30100
+01,Pay,"25,61","35,62","26,80","27,87",2070 00 800 BM 30101
+02,Medical Allowance,26,27,33,36,2070 00 800 BM 30102
+03,Medical Charges,,2,2,2,2070 00 800 BM 30103
+04,Other Allowances,24,30,30,30,2070 00 800 BM 30104
+06,House Rent Allowance,"2,80","3,75","2,88","3,00",2070 00 800 BM 30106
+07,Travel Concession,,1,1,1,2070 00 800 BM 30107
+08,City Compensatory Allowance,57,71,75,75,2070 00 800 BM 30108
+09,Honorarium,"2,50","3,60","6,10","6,10",2070 00 800 BM 30109
+302,Wages,,1,1,1,2070 00 800 BM 30200
+01,Wages,,1,1,1,2070 00 800 BM 30201
+303,Dearness Allowance,"3,30","4,64","4,29","6,83",2070 00 800 BM 30300
+01,Dearness Allowance,"3,30","4,64","4,29","6,83",2070 00 800 BM 30301
+304,Travel Expenses,24,"1,02","1,02","1,02",2070 00 800 BM 30400
+01,Tour Travelling Allowances,24,"1,00","1,00","1,00",2070 00 800 BM 30401
+02,Transfer Travelling Allowances,,2,2,2,2070 00 800 BM 30402
+305,Office Expenses,"3,59","3,85","6,60","5,75",2070 00 800 BM 30500
+01,Telephone Charges,21,30,35,50,2070 00 800 BM 30501
+02,Other Contingencies,"1,97","2,00","3,00","2,00",2070 00 800 BM 30502
+03,Electricity Charges,"1,31","1,40","3,00","3,00",2070 00 800 BM 30503
+04,Service Postage & Postal Expenditure,10,15,25,25,2070 00 800 BM 30504
+306,"Rent, Rates and Taxes","5,98","6,75","6,75","6,75",2070 00 800 BM 30600
+01,Rent,"5,98","6,75","6,75","6,75",2070 00 800 BM 30601
+308,Advertising and Publicity,,1,1,1,2070 00 800 BM 30800
+01,Advertisement Charges,,1,1,1,2070 00 800 BM 30801
+319,Machinery and Equipments,,1,1,1,2070 00 800 BM 31900
+01,Purchase,,1,1,1,2070 00 800 BM 31901
+321,Motor Vehicles,8,21,"7,31",36,2070 00 800 BM 32100
+01,Purchase,,1,"7,01",1,2070 00 800 BM 32101
+02,Maintenance of Functional Vehicles,8,20,30,35,2070 00 800 BM 32102
+333,Payments for Professional and Special Services,,1,1,1,2070 00 800 BM 33300
+01,Pleaders Fees,,1,1,1,2070 00 800 BM 33301
+345,"Petroleum, Oil and Lubricant",72,94,84,88,2070 00 800 BM 34500
+01,"Petroleum, Oil and Lubricant",72,94,84,88,2070 00 800 BM 34501
+349,Festival Advances,- 4,,,,2070 00 800 BM 34900
+01,Festival Advances-Debit,30,55,"1,00","1,00",2070 00 800 BM 34901
+02,Festival Advances-Credit,- 34,- 55,"- 1,00","- 1,00",2070 00 800 BM 34902
+351,Compensation Charged,,1,1,1,2070 00 800 BM 35100
+51,Claims under no fault liability -  principal charges Charged,,1,1,1,2070 00 800 BM 35151
+359,Prizes and Awards,,1,1,1,2070 00 800 BM 35900
+01,Prizes and Awards,,1,1,1,2070 00 800 BM 35901
+360,T.A./D.A.to Non-Official Members,22,"1,50","1,50","1,50",2070 00 800 BM 36000
+01,T.A./D.A.to Non-Official Members,22,"1,50","1,50","1,50",2070 00 800 BM 36001
+376,Computer and Accessories,37,41,51,51,2070 00 800 BM 37600
+01,Purchase,,1,1,1,2070 00 800 BM 37601
+02,Maintenance,37,40,50,50,2070 00 800 BM 37602
+BM,Total BM Charged,,1,1,1,
+BM,Total BM Voted,"46,44","63,65","66,06","62,06",
+#,State's Expenditure Total Charged,,1,1,1,
+#,State's Expenditure Total Voted,"46,44","63,65","66,06","62,06",
+800,Total 800 Charged,,1,1,1,
+800,Total 800 Voted,"46,44","63,65","66,06","62,06",
+00,Total 00 Charged,,1,1,1,
+00,Total 00 Voted,"46,44","63,65","66,06","62,06",
+2070,Total 2070 Charged,,1,1,1,
+2070,Total 2070 Voted,"46,44","63,65","66,06","62,06",

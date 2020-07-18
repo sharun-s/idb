@@ -1,0 +1,285 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2404-00,DAIRY DEVELOPMENT,,,,,
+001,Direction and Administration,,,,,
+#,State's Expenditure,,,,,
+AA,Establishment of Milk Production and Dairy Development Department,,,,,2404 00 001 AA 30000
+301,Salaries,"6,88,06","6,71,37","7,51,81","7,81,33",2404 00 001 AA 30100
+01,Pay,"6,07,99","5,82,30","6,66,43","6,93,09",2404 00 001 AA 30101
+02,Medical Allowance,"5,00","4,66","5,67","5,90",2404 00 001 AA 30102
+03,Medical Charges,17,25,25,25,2404 00 001 AA 30103
+04,Other Allowances,"12,88","12,00","13,30","13,30",2404 00 001 AA 30104
+06,House Rent Allowance,"54,66","64,13","57,88","60,19",2404 00 001 AA 30106
+07,Travel Concession,,40,10,10,2404 00 001 AA 30107
+08,City Compensatory Allowance,"7,36","7,63","8,18","8,50",2404 00 001 AA 30108
+302,Wages,63,60,"1,10","1,15",2404 00 001 AA 30200
+01,Wages,63,60,"1,10","1,15",2404 00 001 AA 30201
+303,Dearness Allowance,"59,70","75,72","1,06,62","1,69,81",2404 00 001 AA 30300
+01,Dearness Allowance,"59,70","75,72","1,06,62","1,69,81",2404 00 001 AA 30301
+304,Travel Expenses,"11,25","12,40","10,80","10,80",2404 00 001 AA 30400
+01,Tour Travelling Allowances,"11,16","12,00","10,50","10,50",2404 00 001 AA 30401
+02,Transfer Travelling Allowances,9,40,30,30,2404 00 001 AA 30402
+305,Office Expenses,"14,39","17,70","21,70","20,70",2404 00 001 AA 30500
+01,Telephone Charges,"1,15","2,00","2,00","2,00",2404 00 001 AA 30501
+02,Other Contingencies,"2,56","2,70","2,70","2,70",2404 00 001 AA 30502
+03,Electricity Charges,"9,79","12,00","16,00","15,00",2404 00 001 AA 30503
+04,Service Postage & Postal Expenditure,89,"1,00","1,00","1,00",2404 00 001 AA 30504
+306,"Rent, Rates and Taxes","8,47","11,57","10,28","9,81",2404 00 001 AA 30600
+01,Rent,81,"3,00",70,73,2404 00 001 AA 30601
+02,Property tax,"6,67","7,00","7,00","7,28",2404 00 001 AA 30602
+03,Water Charges,99,"1,57","2,58","1,80",2404 00 001 AA 30603
+308,Advertising and Publicity,"1,76","1,00","4,60","1,00",2404 00 001 AA 30800
+01,Advertisement Charges,"1,76","1,00","4,60","1,00",2404 00 001 AA 30801
+317,Minor Works,"2,10","3,30","3,30","3,30",2404 00 001 AA 31700
+01,Minor Works,"2,10","3,30","3,30","3,30",2404 00 001 AA 31701
+318,Maintenance,23,51,"36,61",51,2404 00 001 AA 31800
+01,Periodical Maintenance,23,50,50,50,2404 00 001 AA 31801
+02,Special Maintenance,,1,"36,11",1,2404 00 001 AA 31802
+319,Machinery and Equipments,15,17,17,17,2404 00 001 AA 31900
+01,Purchase,,1,1,1,2404 00 001 AA 31901
+02,Renewal and Replacement,,1,1,1,2404 00 001 AA 31902
+03,Maintenance,15,15,15,15,2404 00 001 AA 31903
+321,Motor Vehicles,53,61,"21,60",61,2404 00 001 AA 32100
+01,Purchase,,1,"21,00",1,2404 00 001 AA 32101
+02,Maintenance of Functional Vehicles,53,60,60,60,2404 00 001 AA 32102
+333,Payments for Professional and Special Services,,15,1,1,2404 00 001 AA 33300
+03,Special Service,,15,1,1,2404 00 001 AA 33303
+345,"Petroleum, Oil and Lubricant","7,91","9,00","9,00","9,36",2404 00 001 AA 34500
+01,"Petroleum, Oil and Lubricant","7,91","9,00","9,00","9,36",2404 00 001 AA 34501
+347,Stores and Equipments,53,"1,00",50,50,2404 00 001 AA 34700
+01,Stores - Voted,53,"1,00",50,50,2404 00 001 AA 34701
+349,Festival Advances,- 5,,,,2404 00 001 AA 34900
+01,Festival Advances-Debit,"4,85","12,00","17,75","17,75",2404 00 001 AA 34901
+02,Festival Advances-Credit,"- 4,90","- 12,00","- 17,75","- 17,75",2404 00 001 AA 34902
+351,Compensation Charged,,1,1,1,2404 00 001 AA 35100
+51,Claims under no fault liability -  principal charges Charged,,1,1,1,2404 00 001 AA 35151
+359,Prizes and Awards,18,40,15,15,2404 00 001 AA 35900
+01,Prizes and Awards,18,40,15,15,2404 00 001 AA 35901
+367,Feeding/Dietary Charges,32,50,25,25,2404 00 001 AA 36700
+09,Others,32,50,25,25,2404 00 001 AA 36709
+369,Procurement of Agricultural Inputs,99,"1,00","1,00","1,00",2404 00 001 AA 36900
+01,Procurement of Agricultural Inputs,99,"1,00","1,00","1,00",2404 00 001 AA 36901
+372,Training,,1,1,1,2404 00 001 AA 37200
+01,Training,,1,1,1,2404 00 001 AA 37201
+376,Computer and Accessories,"2,73","3,15","2,95","2,95",2404 00 001 AA 37600
+02,Maintenance,"1,24","1,20","1,20","1,20",2404 00 001 AA 37602
+03,Stationery,"1,49","1,95","1,75","1,75",2404 00 001 AA 37603
+AA,Total AA Charged,,1,1,1,
+AA,Total AA Voted,"7,99,88","8,10,16","9,82,46","10,13,42",
+JA,Headquarters Establishment - Milk Production and Dairy Development Department,,,,,2404 00 001 JA 30000
+309,Grants-in-Aid,,1,1,1,2404 00 001 JA 30900
+03,Grants for Specific Schemes,,1,1,1,2404 00 001 JA 30903
+317,Minor Works,,1,1,1,2404 00 001 JA 31700
+01,Minor Works,,1,1,1,2404 00 001 JA 31701
+318,Maintenance,,1,1,1,2404 00 001 JA 31800
+02,Special Maintenance,,1,1,1,2404 00 001 JA 31802
+319,Machinery and Equipments,,1,1,1,2404 00 001 JA 31900
+01,Purchase,,1,1,1,2404 00 001 JA 31901
+321,Motor Vehicles,,1,1,1,2404 00 001 JA 32100
+01,Purchase,,1,1,1,2404 00 001 JA 32101
+376,Computer and Accessories,,1,1,1,2404 00 001 JA 37600
+01,Purchase,,1,1,1,2404 00 001 JA 37601
+JA,Total JA,,6,6,6,
+#,State's Expenditure Total Charged,,1,1,1,
+#,State's Expenditure Total Voted,"7,99,88","8,10,22","9,82,52","10,13,48",
+001,Total 001 Charged,,1,1,1,
+001,Total 001 Voted,"7,99,88","8,10,22","9,82,52","10,13,48",
+102,Dairy Development Project,,,,,
+#,State's Expenditure,,,,,
+AA,Procurement of Milk through Co-operative Societies,,,,,2404 00 102 AA 30000
+301,Salaries,"12,95,58","12,19,68","13,63,04","14,17,11",2404 00 102 AA 30100
+01,Pay,"11,91,96","11,08,54","12,51,60","13,01,66",2404 00 102 AA 30101
+02,Medical Allowance,"9,05","9,33","9,50","9,88",2404 00 102 AA 30102
+03,Medical Charges,21,25,25,25,2404 00 102 AA 30103
+04,Other Allowances,"9,43","11,00","10,80","10,80",2404 00 102 AA 30104
+06,House Rent Allowance,"77,36","82,59","82,59","85,90",2404 00 102 AA 30106
+07,Travel Concession,,35,30,30,2404 00 102 AA 30107
+08,City Compensatory Allowance,"7,57","7,62","8,00","8,32",2404 00 102 AA 30108
+302,Wages,"1,50","1,60","2,81","2,93",2404 00 102 AA 30200
+01,Wages,"1,50","1,60","2,81","2,93",2404 00 102 AA 30201
+303,Dearness Allowance,"1,24,32","1,44,09","2,00,26","3,18,91",2404 00 102 AA 30300
+01,Dearness Allowance,"1,24,32","1,44,09","2,00,26","3,18,91",2404 00 102 AA 30301
+304,Travel Expenses,"39,25","36,40","38,58","38,58",2404 00 102 AA 30400
+01,Tour Travelling Allowances,"39,02","36,00","38,50","38,50",2404 00 102 AA 30401
+02,Transfer Travelling Allowances,23,40,8,8,2404 00 102 AA 30402
+305,Office Expenses,"8,73","10,70","10,70","10,94",2404 00 102 AA 30500
+01,Telephone Charges,"2,76","2,40","2,40","2,40",2404 00 102 AA 30501
+02,Other Contingencies,"1,05","1,10","1,10","1,10",2404 00 102 AA 30502
+03,Electricity Charges,"3,72","6,00","6,00","6,24",2404 00 102 AA 30503
+04,Service Postage & Postal Expenditure,"1,20","1,20","1,20","1,20",2404 00 102 AA 30504
+306,"Rent, Rates and Taxes","8,89","10,20","8,50","8,84",2404 00 102 AA 30600
+01,Rent,"8,88","10,00","8,30","8,64",2404 00 102 AA 30601
+03,Water Charges,1,20,20,20,2404 00 102 AA 30603
+321,Motor Vehicles,93,"1,15","1,15","1,15",2404 00 102 AA 32100
+02,Maintenance of Functional Vehicles,93,"1,15","1,15","1,15",2404 00 102 AA 32102
+333,Payments for Professional and Special Services,"4,95",10,"5,00","2,00",2404 00 102 AA 33300
+01,Pleaders Fees,"4,95",10,"5,00","2,00",2404 00 102 AA 33301
+345,"Petroleum, Oil and Lubricant","17,46","20,00","19,00","19,00",2404 00 102 AA 34500
+01,"Petroleum, Oil and Lubricant","17,46","20,00","19,00","19,00",2404 00 102 AA 34501
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,"7,60","13,00","27,75","27,75",2404 00 102 AA 34901
+02,Festival Advances-Credit,"- 7,60","- 13,00","- 27,75","- 27,75",2404 00 102 AA 34902
+359,Prizes and Awards,2,40,15,15,2404 00 102 AA 35900
+01,Prizes and Awards,2,40,15,15,2404 00 102 AA 35901
+366,Medicine,,"1,00",10,10,2404 00 102 AA 36600
+01,Medicine,,"1,00",10,10,2404 00 102 AA 36601
+372,Training,,1,1,1,2404 00 102 AA 37200
+01,Training,,1,1,1,2404 00 102 AA 37201
+AA,Total AA,"15,01,63","14,45,33","16,49,30","18,19,72",
+AC,Establishment of Deputy Registrar (Dairying) Offices,,,,,2404 00 102 AC 30000
+301,Salaries,"1,77,66","1,94,44","1,86,72","1,94,15",2404 00 102 AC 30100
+01,Pay,"1,66,02","1,81,16","1,74,34","1,81,31",2404 00 102 AC 30101
+02,Medical Allowance,"1,41","1,01","1,50","1,56",2404 00 102 AC 30102
+04,Other Allowances,88,"2,00",90,90,2404 00 102 AC 30104
+06,House Rent Allowance,"8,91","9,72","9,40","9,78",2404 00 102 AC 30106
+07,Travel Concession,,20,10,10,2404 00 102 AC 30107
+08,City Compensatory Allowance,44,35,48,50,2404 00 102 AC 30108
+302,Wages,30,30,"1,00","1,04",2404 00 102 AC 30200
+01,Wages,30,30,"1,00","1,04",2404 00 102 AC 30201
+303,Dearness Allowance,"17,06","23,55","27,90","44,42",2404 00 102 AC 30300
+01,Dearness Allowance,"17,06","23,55","27,90","44,42",2404 00 102 AC 30301
+304,Travel Expenses,"8,66","7,20","6,02","6,02",2404 00 102 AC 30400
+01,Tour Travelling Allowances,"8,65","7,00","6,00","6,00",2404 00 102 AC 30401
+02,Transfer Travelling Allowances,1,20,2,2,2404 00 102 AC 30402
+305,Office Expenses,"1,57","3,11","2,41","2,45",2404 00 102 AC 30500
+01,Telephone Charges,54,60,60,60,2404 00 102 AC 30501
+02,Other Contingencies,43,40,40,40,2404 00 102 AC 30502
+03,Electricity Charges,40,"1,50",80,84,2404 00 102 AC 30503
+04,Service Postage & Postal Expenditure,20,60,60,60,2404 00 102 AC 30504
+05,Furniture,,1,1,1,2404 00 102 AC 30505
+306,"Rent, Rates and Taxes","4,51","3,08","2,78","2,91",2404 00 102 AC 30600
+01,Rent,"4,50","3,00","2,70","2,81",2404 00 102 AC 30601
+03,Water Charges,1,8,8,10,2404 00 102 AC 30603
+319,Machinery and Equipments,,1,1,1,2404 00 102 AC 31900
+01,Purchase,,1,1,1,2404 00 102 AC 31901
+321,Motor Vehicles,20,26,26,26,2404 00 102 AC 32100
+01,Purchase,,1,1,1,2404 00 102 AC 32101
+02,Maintenance of Functional Vehicles,20,25,25,25,2404 00 102 AC 32102
+345,"Petroleum, Oil and Lubricant","3,42","5,00","5,00","5,00",2404 00 102 AC 34500
+01,"Petroleum, Oil and Lubricant","3,42","5,00","5,00","5,00",2404 00 102 AC 34501
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,80,"5,00","2,00","2,00",2404 00 102 AC 34901
+02,Festival Advances-Credit,- 80,"- 5,00","- 2,00","- 2,00",2404 00 102 AC 34902
+372,Training,,1,1,1,2404 00 102 AC 37200
+01,Training,,1,1,1,2404 00 102 AC 37201
+376,Computer and Accessories,51,56,56,56,2404 00 102 AC 37600
+01,Purchase,,1,1,1,2404 00 102 AC 37601
+02,Maintenance,24,30,30,30,2404 00 102 AC 37602
+03,Stationery,27,25,25,25,2404 00 102 AC 37603
+AC,Total AC,"2,13,89","2,37,52","2,32,67","2,56,83",
+AD,"Installation of cloud based remote monitoring system for milk collection, testing and chilling operations 17 district unions under State Innovation Fund",,,,,2404 00 102 AD 30000
+309,Grants-in-Aid,,,"21,00","21,00",2404 00 102 AD 30900
+03,Grants for Specific Schemes,,,"21,00","21,00",2404 00 102 AD 30903
+AD,Total AD,,"21,00","21,00",,
+JH,National Agriculture Development Programme (NADP-RKVY) - Milk Production and Dairy Development Department,,,,,2404 00 102 JH 30000
+309,Grants-in-Aid,,1,1,1,2404 00 102 JH 30900
+03,Grants for Specific Schemes,,1,1,1,2404 00 102 JH 30903
+JH,Total JH,1,1,1,,
+JI,Scheme for Establishing Milk Villages under National Agriculture Development Programme (NADP-RKVY),,,,,2404 00 102 JI 30000
+309,Grants-in-Aid,,1,1,1,2404 00 102 JI 30900
+03,Grants for Specific Schemes,,1,1,1,2404 00 102 JI 30903
+JI,Total JI,1,1,1,,
+JJ,Artificial Insemination Services,,,,,2404 00 102 JJ 30000
+311,Subsidies,,1,1,1,2404 00 102 JJ 31100
+02,General Subsidy,,1,1,1,2404 00 102 JJ 31102
+JJ,Total JJ,1,1,1,,
+#,State's Expenditure Total,"17,15,52","16,82,88","19,03,00","20,97,58",
+#,Central Sector Schemes,,,,,
+SC,Strengthening Infrastructure for Quality and Clean Milk Production,,,,,2404 00 102 SC 30000
+309,Grants-in-Aid,,1,1,1,2404 00 102 SC 30900
+03,Grants for Specific Schemes,,1,1,1,2404 00 102 SC 30903
+SC,Total SC,1,1,1,,
+SF,Intensive Dairy Development Project,,,,,2404 00 102 SF 30000
+309,Grants-in-Aid,,1,1,1,2404 00 102 SF 30900
+03,Grants for Specific Schemes,,1,1,1,2404 00 102 SF 30903
+SF,Total SF,1,1,1,,
+SG,National Programme for Bovine Breeding and Dairy Development (NPBBDD),,,,,2404 00 102 SG 30000
+309,Grants-in-Aid,,1,1,1,2404 00 102 SG 30900
+02,Grants for Creation of Capital Assets,,1,1,1,2404 00 102 SG 30902
+SG,Total SG,1,1,1,,
+#,Central Sector Schemes Total,,3,3,3,
+102,Total 102,"17,15,52","16,82,91","19,03,03","20,97,61",
+195,Assistance to Co-operatives,,,,,
+#,Schemes shared between State and Centre,,,,,
+UB,Assistance to Co-operatives for implementation of the rehabilitation schemes,,,,,2404 00 195 UB 30000
+309,Grants-in-Aid,,2,2,2,2404 00 195 UB 30900
+01,Grants for Current Expenditure,,1,1,1,2404 00 195 UB 30901
+03,Grants for Specific Schemes,,1,1,1,2404 00 195 UB 30903
+UB,Total UB,2,2,2,,
+#,Schemes shared between State and Centre Total,,2,2,2,
+195,Total 195,2,2,2,,
+789,Special Component Plan for Scheduled Castes,,,,,
+#,Central Sector Schemes Central Sector Sechemes,,,,,
+SA,National Programme for Bovine Breeding and Dairy Development (NPBBDD),,,,,2404 00 789 SA 30000
+309,Grants-in-Aid,,1,1,1,2404 00 789 SA 30900
+02,Grants for Creation of Capital Assets,,1,1,1,2404 00 789 SA 30902
+SA,Total SA,1,1,1,,
+#,Central Sector Schemes Total,,1,1,1,
+#,Schemes shared between State and Centre,,,,,
+UA,Special Component Plan for Scheduled Castes - Dairy Development,,,,,2404 00 789 UA 30000
+309,Grants-in-Aid,,1,1,1,2404 00 789 UA 30900
+01,Grants for Current Expenditure,,1,1,1,2404 00 789 UA 30901
+UA,Total UA,1,1,1,,
+#,Schemes shared between State and Centre Total,,1,1,1,
+789,Total 789,2,2,2,,
+793,Special Central Assistance for Scheduled Caste Component Plan,,,,,
+#,Schemes shared between State and Centre,,,,,
+UA,Special Component Plan for Scheduled Castes - Dairy Development (NADP-RKVY),,,,,2404 00 793 UA 30000
+309,Grants-in-Aid,"4,05,00","6,28,00","6,28,00",1,2404 00 793 UA 30900
+03,Grants for Specific Schemes,"4,05,00","6,28,00","6,28,00",1,2404 00 793 UA 30903
+UA,Total UA,"4,05,00","6,28,00","6,28,00",1,
+#,Schemes shared between State and Centre Total,"4,05,00","6,28,00","6,28,00",1,
+793,Total 793,"4,05,00","6,28,00","6,28,00",1,
+794,Special Central Assistance for Tribal Sub-Plan,,,,,
+#,Schemes shared between State and Centre,,,,,
+UA,National Agriclture Development Programme (NADP-RKVY),,,,,2404 00 794 UA 30000
+309,Grants-in-Aid,"55,00","69,78","69,78",1,2404 00 794 UA 30900
+03,Grants for Specific Schemes,"55,00","69,78","69,78",1,2404 00 794 UA 30903
+UA,Total UA,"55,00","69,78","69,78",1,
+#,Schemes shared between State and Centre Total,"55,00","69,78","69,78",1,
+794,Total 794,"55,00","69,78","69,78",1,
+800,Other Expenditure,,,,,
+#,Schemes shared between State and Centre,,,,,
+UA,National Agriclture Development Programme (NADP-RKVY),,,,,2404 00 800 UA 30000
+309,Grants-in-Aid,"7,70,00","14,94,02","14,94,02",1,2404 00 800 UA 30900
+03,Grants for Specific Schemes,"7,70,00","14,94,02","14,94,02",1,2404 00 800 UA 30903
+UA,Total UA,"7,70,00","14,94,02","14,94,02",1,
+#,Schemes shared between State and Centre Total,"7,70,00","14,94,02","14,94,02",1,
+800,Total 800,"7,70,00","14,94,02","14,94,02",1,
+902,Deduct - Amount met from Reserve Fund,,,,,
+#,State's Expenditure,,,,,
+AA,Deduct - Amount met from State Innovation Fund,,,,,2404 00 902 AA 30000
+330,Inter-Account Transfers,,,"- 21,00","- 21,00",2404 00 902 AA 33000
+01,Inter-Account Transfers,,,"- 21,00","- 21,00",2404 00 902 AA 33001
+AA,Total AA,,,"- 21,00","- 21,00",
+#,State's Expenditure Total,,,"- 21,00","- 21,00",
+902,Total 902,,,"- 21,00","- 21,00",
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+AA,Procurement of Milk through Co-operative Societies,,,,,2404 00 911 AA 30000
+377,Deduct-Recoveries,,- 1,,,2404 00 911 AA 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,- 1,,,,2404 00 911 AA 37702
+AA,Total AA,- 1,,,,
+AB,Deputy Registrar - Dairying Offices,,,,,2404 00 911 AB 30000
+377,Deduct-Recoveries,,- 77,,,2404 00 911 AB 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,- 77,,,,2404 00 911 AB 37702
+AB,Total AB,- 77,,,,
+#,State's Expenditure Total,- 78,,,,
+911,Total 911,- 78,,,,
+00,Total 00,,,,,
+2404,Total 2404 Charged,1,1,,1,
+2404,Total 2404 Voted,"37,44,62","46,84,97","50,56,39","30,90,16",
+4404-00,CAPITAL OUTLAY ON DAIRY DEVELOPMENT,,,,,
+102,Dairy Development Project,,,,,
+#,State's Expenditure,,,,,
+JE,Construction of Buildings,,,,,4404 00 102 JE 40000
+416,Major Works,1,1,,1,4404 00 102 JE 41600
+01,Major Works,1,1,,1,4404 00 102 JE 41601
+JE,Total JE,1,1,,1,
+JF,NABARD assisted schemes for providing infrastructure facilities to Dairies and expansion of Cattle Feeds,,,,,4404 00 102 JF 40000
+416,Major Works,"44,62,60","2,00,00,00","10,00,00",1,4404 00 102 JF 41600
+01,Major Works,"44,62,60","2,00,00,00","10,00,00",1,4404 00 102 JF 41601
+JF,Total JF,"44,62,60","2,00,00,00","10,00,00",1,
+#,State's Expenditure Total,"44,62,60","2,00,00,01","10,00,01",2,
+102,Total 102,"44,62,60","2,00,00,01","10,00,01",2,
+00,Total 00,"44,62,60","2,00,00,01","10,00,01",2,
+4404,Total 4404,,,,,

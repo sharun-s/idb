@@ -1,0 +1,52 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2404-00,DAIRYDEVELOPMENT,,,,,
+001,Direction and Administration,,,,,
+#,State's Expenditure,,,,,
+AB,Establishment of Directorate of Audit for Milk Co-operatives,,,,,2404 00 001 AB 30000
+301,Salaries,"8,77,53","9,70,08","9,13,64",,2404 00 001 AB 30100
+01,Pay,"8,06,96","8,84,00","8,35,00",,2404 00 001 AB 30101
+02,Medical Allowance,"4,52","6,00","4,61",,2404 00 001 AB 30102
+03,Medical Charges,,40,10,,2404 00 001 AB 30103
+04,Other Allowances,"3,57","6,00","6,48",,2404 00 001 AB 30104
+06,House Rent Allowance,"55,81","64,98","60,00",,2404 00 001 AB 30106
+07,Travel Concession,17,45,45,,2404 00 001 AB 30107
+08,City Compensatory Allowance,"6,50","8,25","7,00",,2404 00 001 AB 30108
+302,Wages,34,48,48,,2404 00 001 AB 30200
+01,Wages,34,48,48,,2404 00 001 AB 30201
+303,Dearness Allowance,"95,44","1,14,92","1,33,60",,2404 00 001 AB 30300
+01,Dearness Allowance,"95,44","1,14,92","1,33,60",,2404 00 001 AB 30301
+304,Travel Expenses,"31,53","40,12","35,21",,2404 00 001 AB 30400
+01,Tour Travelling Allowances,"31,53","40,00","35,00",,2404 00 001 AB 30401
+02,Transfer Travelling Allowances,,10,20,,2404 00 001 AB 30402
+03,Fixed Travelling Allowances,,2,1,,2404 00 001 AB 30403
+305,Office Expenses,,"5,48","6,09","6,22",2404 00 001 AB 30500
+01,Telephone Charges,"1,80","2,00","2,00",,2404 00 001 AB 30501
+02,Other Contingencies,"1,03","1,02","1,02",,2404 00 001 AB 30502
+03,Electricity Charges,"2,32","2,67","2,80",,2404 00 001 AB 30503
+04,Service Postage & Postal Expenditure,33,40,40,,2404 00 001 AB 30504
+306,"Rent, Rates and Taxes","22,46","26,14","29,80",,2404 00 001 AB 30600
+01,Rent,,"22,46","26,14","29,80",2404 00 001 AB 30601
+319,Machinery and Equipments,,2,2,,2404 00 001 AB 31900
+01,Purchase,,1,1,,2404 00 001 AB 31901
+03,Maintenance,,1,1,,2404 00 001 AB 31903
+321,Motor Vehicles,,6,7,2,2404 00 001 AB 32100
+01,Purchase,,1,1,,2404 00 001 AB 32101
+02,Maintenance of Functional Vehicles,6,6,1,,2404 00 001 AB 32102
+345,"Petroleum, Oil and Lubricant",78,"1,56","2,80",,2404 00 001 AB 34500
+01,"Petroleum, Oil and Lubricant",78,"1,56","2,80",,2404 00 001 AB 34501
+349,Festival Advances,- 67,,,,2404 00 001 AB 34900
+01,Festival Advances-Debit,"2,45","9,00","12,00",,2404 00 001 AB 34901
+02,Festival Advances-Credit,"- 3,12","- 9,00","- 12,00",,2404 00 001 AB 34902
+359,Prizes and Awards,2,10,5,,2404 00 001 AB 35900
+01,Prizes and Awards,2,10,5,,2404 00 001 AB 35901
+372,Training,,"1,20",1,"1,50",2404 00 001 AB 37200
+01,Training,"1,20",1,"1,50",,2404 00 001 AB 37201
+376,Computer and Accessories,38,41,46,,2404 00 001 AB 37600
+01,Purchase,1,1,6,,2404 00 001 AB 37601
+02,Maintenance,18,10,10,,2404 00 001 AB 37602
+03,Stationery,19,30,30,,2404 00 001 AB 37603
+AB,Total AB,"10,34,55","11,60,00","11,23,80",,
+#,State's Expenditure Total,"10,34,55","11,60,00","11,23,80",,
+001,Total 001,,"10,34,55","11,60,00","11,23,80",
+00,Total 00,"10,34,55","11,60,00","11,23,80",,
+2404,Total 2404,"10,34,55","11,60,00","11,23,80",,

@@ -1,0 +1,266 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2225,"WELFARE OF SCHEDULED CASTE, SCHEDULED TRIBES, OTHER BACKWARD CLASSES AND MINORITIES",,,,,
+03,Welfare of Backward classes,,,,,
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+JF,Deduct - Recoveries of Overpayments - Post - Matric Scholarship to Backward Classes,,,,,2225 03 911 JF 30000
+377,Deduct-Recoveries,"- 1,61",,,,2225 03 911 JF 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"- 1,61",,,,2225 03 911 JF 37702
+JF,Total JF,"- 1,61",,,,
+#,State's Expenditure Total,"- 1,61",,,,
+911,Total 911,"- 1,61",,,,
+03,Total 03,"- 1,61",,,,
+04,Welfare of Minorities,,,,,
+001,Direction and Administration,,,,,
+#,State's Expenditure,,,,,
+AA,Directorate of Minorities Welfare,,,,,2225 04 001 AA 30000
+301,Salaries,"1,22,08","1,31,30","1,12,30","1,18,42",2225 04 001 AA 30100
+01,Pay,"1,02,63","1,14,52","95,00","1,00,00",2225 04 001 AA 30101
+02,Medical Allowance,65,54,54,54,2225 04 001 AA 30102
+03,Medical Charges,49,"1,06",77,"1,03",2225 04 001 AA 30103
+04,Other Allowances,"2,54","1,90","1,90","1,90",2225 04 001 AA 30104
+06,House Rent Allowance,"13,90","11,50","12,01","13,00",2225 04 001 AA 30106
+07,Travel Concession,15,10,25,10,2225 04 001 AA 30107
+08,City Compensatory Allowance,"1,72","1,68","1,83","1,85",2225 04 001 AA 30108
+302,Wages,23,"1,20",72,1,2225 04 001 AA 30200
+01,Wages,23,"1,20",72,1,2225 04 001 AA 30201
+303,Dearness Allowance,"11,76","14,89","18,39","24,50",2225 04 001 AA 30300
+01,Dearness Allowance,"11,76","14,89","18,39","24,50",2225 04 001 AA 30301
+304,Travel Expenses,"2,49","2,77","6,02","4,02",2225 04 001 AA 30400
+01,Tour Travelling Allowances,"2,49","2,75","6,00","4,00",2225 04 001 AA 30401
+02,Transfer Travelling Allowances,,2,2,2,2225 04 001 AA 30402
+305,Office Expenses,"6,31","6,81","40,77","7,06",2225 04 001 AA 30500
+01,Telephone Charges,"1,15","2,00","2,00","2,00",2225 04 001 AA 30501
+02,Other Contingencies,"3,27","1,50","1,50","1,75",2225 04 001 AA 30502
+03,Electricity Charges,"1,79","3,00","3,00","3,00",2225 04 001 AA 30503
+04,Service Postage & Postal Expenditure,10,30,30,30,2225 04 001 AA 30504
+05,Furniture,,1,"33,97",1,2225 04 001 AA 30505
+306,"Rent, Rates and Taxes","2,61",1,1,1,2225 04 001 AA 30600
+01,Rent,"2,61",1,1,1,2225 04 001 AA 30601
+308,Advertising and Publicity,"8,33","15,00","15,00","15,00",2225 04 001 AA 30800
+01,Advertisement Charges,"8,33","15,00","15,00","15,00",2225 04 001 AA 30801
+317,Minor Works,,,"9,10",1,2225 04 001 AA 31700
+01,Minor Works,,,"9,10",1,2225 04 001 AA 31701
+318,Maintenance,9,10,10,10,2225 04 001 AA 31800
+01,Periodical Maintenance,9,10,10,10,2225 04 001 AA 31801
+319,Machinery and Equipments,23,1,"6,88",1,2225 04 001 AA 31900
+01,Purchase,23,1,"6,88",1,2225 04 001 AA 31901
+321,Motor Vehicles,49,44,63,51,2225 04 001 AA 32100
+01,Purchase,,1,1,1,2225 04 001 AA 32101
+02,Maintenance of Functional Vehicles,49,43,62,50,2225 04 001 AA 32102
+324,Materials and Supplies,,,"4,40",1,2225 04 001 AA 32400
+01,Materials and Supplies,,,"4,40",1,2225 04 001 AA 32401
+345,"Petroleum, Oil and Lubricant","2,22","2,68","2,69","2,81",2225 04 001 AA 34500
+01,"Petroleum, Oil and Lubricant","2,22","2,68","2,69","2,81",2225 04 001 AA 34501
+349,Festival Advances,6,,,,2225 04 001 AA 34900
+01,Festival Advances-Debit,75,90,"2,00","2,00",2225 04 001 AA 34901
+02,Festival Advances-Credit,- 69,- 90,"- 2,00","- 2,00",2225 04 001 AA 34902
+351,Compensation,,,,,
+Charged,,1,1,1,2225 04 001 AA 35100,
+51,Claims under no fault liability -  principal charges,,,,,
+Charged,,1,1,1,2225 04 001 AA 35151,
+359,Prizes and Awards,"12,69",1,1,1,2225 04 001 AA 35900
+01,Prizes and Awards,"12,69",1,1,1,2225 04 001 AA 35901
+373,Transport Charges,60,64,64,10,2225 04 001 AA 37300
+01,Transport Charges,60,64,64,10,2225 04 001 AA 37301
+376,Computer and Accessories,"1,40","1,36","17,01","1,36",2225 04 001 AA 37600
+01,Purchase,,1,"15,66",1,2225 04 001 AA 37601
+02,Maintenance,13,15,15,15,2225 04 001 AA 37602
+03,Stationery,"1,27","1,20","1,20","1,20",2225 04 001 AA 37603
+AA,Total AA Charged,,1,1,1,
+AA,Total AA Voted,"1,71,59","1,77,22","2,34,67","1,73,94",
+AB,Prizes to the Urudu Language Students Securing High Marks,,,,,2225 04 001 AB 30000
+359,Prizes and Awards,,1,1,1,2225 04 001 AB 35900
+01,Prizes and Awards,,1,1,1,2225 04 001 AB 35901
+AB,Total AB,1,1,1,,
+AC,District Staff - Minorities Welfare Department,,,,,2225 04 001 AC 30000
+301,Salaries,"2,18,30","2,71,70","2,74,41","2,75,66",2225 04 001 AC 30100
+01,Pay,"2,00,96","2,50,99","2,52,72","2,53,00",2225 04 001 AC 30101
+02,Medical Allowance,"1,94","1,96","2,47","2,66",2225 04 001 AC 30102
+03,Medical Charges,,1,1,1,2225 04 001 AC 30103
+04,Other Allowances,"2,77","1,42","2,33","3,00",2225 04 001 AC 30104
+06,House Rent Allowance,"10,98","15,73","15,70","15,74",2225 04 001 AC 30106
+07,Travel Concession,4,50,26,30,2225 04 001 AC 30107
+08,City Compensatory Allowance,"1,61","1,09",92,95,2225 04 001 AC 30108
+303,Dearness Allowance,"19,67","32,63","39,78","61,98",2225 04 001 AC 30300
+01,Dearness Allowance,"19,67","32,63","39,78","61,98",2225 04 001 AC 30301
+304,Travel Expenses,"1,64","3,20","3,20","4,70",2225 04 001 AC 30400
+01,Tour Travelling Allowances,"1,58","3,00","3,00","4,50",2225 04 001 AC 30401
+02,Transfer Travelling Allowances,6,20,20,20,2225 04 001 AC 30402
+305,Office Expenses,"10,52","4,27","6,57","6,52",2225 04 001 AC 30500
+01,Telephone Charges,"1,49","2,50","2,50","2,50",2225 04 001 AC 30501
+02,Other Contingencies,"3,10","1,25","3,00","3,00",2225 04 001 AC 30502
+03,Electricity Charges,,1,1,1,2225 04 001 AC 30503
+04,Service Postage & Postal Expenditure,50,50,"1,05","1,00",2225 04 001 AC 30504
+05,Furniture,"5,43",1,1,1,2225 04 001 AC 30505
+333,Payments for Professional and Special Services,,1,1,1,2225 04 001 AC 33300
+01,Pleaders Fees,,1,1,1,2225 04 001 AC 33301
+345,"Petroleum, Oil and Lubricant",,1,1,1,2225 04 001 AC 34500
+01,"Petroleum, Oil and Lubricant",,1,1,1,2225 04 001 AC 34501
+349,Festival Advances,31,,,,2225 04 001 AC 34900
+01,Festival Advances-Debit,"2,15","4,50","7,40","9,00",2225 04 001 AC 34901
+02,Festival Advances-Credit,"- 1,84","- 4,50","- 7,40","- 9,00",2225 04 001 AC 34902
+376,Computer and Accessories,"20,10",35,"1,15","1,16",2225 04 001 AC 37600
+01,Purchase,"19,87",,,1,2225 04 001 AC 37601
+02,Maintenance,15,25,85,85,2225 04 001 AC 37602
+03,Stationery,8,10,30,30,2225 04 001 AC 37603
+AC,Total AC,"2,70,54","3,12,17","3,25,13","3,50,04",
+#,State's Expenditure Total Charged,,1,1,1,
+#,State's Expenditure Total Voted,"4,42,13","4,89,40","5,59,81","5,23,99",
+001,Total 001 Charged,,1,1,1,
+001,Total 001 Voted,"4,42,13","4,89,40","5,59,81","5,23,99",
+190,Assistance to Public Undertakings,,,,,
+#,State's Expenditure,,,,,
+AA,Assistance to Tamil Nadu Minorities Economic Development Corporation for paying service charges to certain institutions,,,,,2225 04 190 AA 30000
+309,Grants-in-Aid,,1,,1,2225 04 190 AA 30900
+03,Grants for Specific Schemes,,1,,1,2225 04 190 AA 30903
+AA,Total AA,,1,,1,
+#,State's Expenditure Total,,1,,1,
+190,Total 190,,1,,1,
+277,Education,,,,,
+#,State's Expenditure,,,,,
+JA,Job Oriented Training Courses to Minorities,,,,,2225 04 277 JA 30000
+372,Training,,1,1,1,2225 04 277 JA 37200
+01,Training,,1,1,1,2225 04 277 JA 37201
+JA,Total JA,1,1,1,,
+JB,Minorities Hostels,,,,,2225 04 277 JB 30000
+301,Salaries,"1,98,88","1,97,86","1,96,85","2,09,10",2225 04 277 JB 30100
+01,Pay,"1,82,90","1,81,51","1,81,51","1,93,65",2225 04 277 JB 30101
+02,Medical Allowance,"1,69","1,56","1,56","1,56",2225 04 277 JB 30102
+04,Other Allowances,"4,51","4,68","4,62","4,68",2225 04 277 JB 30104
+06,House Rent Allowance,"9,15","9,39","8,51","8,51",2225 04 277 JB 30106
+08,City Compensatory Allowance,63,72,65,70,2225 04 277 JB 30108
+303,Dearness Allowance,"19,80","23,60","25,41","47,44",2225 04 277 JB 30300
+01,Dearness Allowance,"19,80","23,60","25,41","47,44",2225 04 277 JB 30301
+305,Office Expenses,"5,13","7,71","10,29","35,09",2225 04 277 JB 30500
+01,Telephone Charges,,,,81,2225 04 277 JB 30501
+02,Other Contingencies,29,50,"1,00","1,25",2225 04 277 JB 30502
+03,Electricity Charges,"4,84","7,20","8,77","8,50",2225 04 277 JB 30503
+05,Furniture,,1,52,"24,53",2225 04 277 JB 30505
+306,"Rent, Rates and Taxes","12,15","17,60","13,00","15,40",2225 04 277 JB 30600
+01,Rent,"10,25","14,60","10,00","12,40",2225 04 277 JB 30601
+03,Water Charges,"1,90","3,00","3,00","3,00",2225 04 277 JB 30603
+318,Maintenance,"2,55","2,65","2,65","8,15",2225 04 277 JB 31800
+01,Periodical Maintenance,"2,55","2,65","2,65","8,15",2225 04 277 JB 31801
+319,Machinery and Equipments,"3,64",1,"1,94","19,34",2225 04 277 JB 31900
+01,Purchase,"3,64",1,"1,94","19,34",2225 04 277 JB 31901
+324,Materials and Supplies,"5,26","5,00","5,00","6,73",2225 04 277 JB 32400
+01,Materials and Supplies,"5,26","5,00","5,00","6,73",2225 04 277 JB 32401
+333,Payments for Professional and Special Services,"1,50","2,70","2,70","3,36",2225 04 277 JB 33300
+04,Contract Payment,"1,50","2,70","2,70","3,36",2225 04 277 JB 33304
+334,Other Charges,"8,67","6,91","8,91","9,85",2225 04 277 JB 33400
+01,Other Items,"8,67","6,90","8,90","9,44",2225 04 277 JB 33401
+02,"Purchase  of  Books & Periodicals to Libraries etc.,",,1,1,41,2225 04 277 JB 33402
+346,"Clothing, Tentage and Stores","3,54","5,00","5,00","5,00",2225 04 277 JB 34600
+01,"Clothing, Tentage and Stores","3,54","5,00","5,00","5,00",2225 04 277 JB 34601
+349,Festival Advances,- 38,,,,2225 04 277 JB 34900
+01,Festival Advances-Debit,"1,25","1,95","4,10","4,10",2225 04 277 JB 34901
+02,Festival Advances-Credit,"- 1,63","- 1,95","- 4,10","- 4,10",2225 04 277 JB 34902
+359,Prizes and Awards,,1,1,1,2225 04 277 JB 35900
+01,Prizes and Awards,,1,1,1,2225 04 277 JB 35901
+367,Feeding/Dietary Charges,"1,01,37","1,26,50","96,39","1,16,42",2225 04 277 JB 36700
+09,Others,"1,01,37","1,26,50","96,39","1,16,42",2225 04 277 JB 36709
+368,"Cost of Books/Note Books/Slates, etc.",63,50,50,50,2225 04 277 JB 36800
+01,"Cost of Books/Note Books/Slates, etc.",63,50,50,50,2225 04 277 JB 36801
+372,Training,,1,"1,12",1,2225 04 277 JB 37200
+01,Training,,1,"1,12",1,2225 04 277 JB 37201
+373,Transport Charges,13,16,16,70,2225 04 277 JB 37300
+01,Transport Charges,13,16,16,70,2225 04 277 JB 37301
+376,Computer and Accessories,,1,1,"2,71",2225 04 277 JB 37600
+01,Purchase,,1,1,"2,71",2225 04 277 JB 37601
+JB,Total JB,"3,62,87","3,96,23","3,69,94","4,79,81",
+JC,Renovation of Minority Students Hostel Buildings,,,,,2225 04 277 JC 30000
+318,Maintenance,,1,1,1,2225 04 277 JC 31800
+02,Special Maintenance,,1,1,1,2225 04 277 JC 31802
+JC,Total JC,,1,1,1,
+#,State's Expenditure Total,"3,62,87","3,96,25","3,69,96","4,79,83",
+#,Central Sector Schemes,,,,,
+SA,Scholarship to Students belonging to Minority Communities,,,,,2225 04 277 SA 30000
+312,Scholarships and Stipends,- 1,3,3,3,2225 04 277 SA 31200
+01,Pre-Matric,,1,1,1,2225 04 277 SA 31201
+02,Post-Matric,,1,1,1,2225 04 277 SA 31202
+09,Others,-1,1,1,1,2225 04 277 SA 31209
+SA,Total SA,- 1,3,3,3,
+#,Central Sector Schemes Total,- 1,3,3,3,
+277,Total 277,"3,62,86","3,96,28","3,69,99","4,79,86",
+04,Total 04 Charged,,1,1,1,
+04,Total 04 Voted,"8,04,99","8,85,69","9,29,80","10,03,86",
+80,General,,,,,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+JJ,Ulemas and other Employees Welfare Board,,,,,2225 80 800 JJ 30000
+309,Grants-in-Aid,"1,00,00",1,,1,2225 80 800 JJ 30900
+01,Grants for Current Expenditure,"1,00,00",1,,1,2225 80 800 JJ 30901
+JJ,Total JJ,"1,00,00",1,,1,
+#,State's Expenditure Total,"1,00,00",1,,1,
+800,Total 800,"1,00,00",1,,1,
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+AE,Supply of free Bicycles to Ulemas and Motinars belonging to Islamic Communities,,,,,2225 80 911 AE 30000
+377,Deduct-Recoveries,"- 20,90",,,,2225 80 911 AE 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"- 20,90",,,,2225 80 911 AE 37702
+AE,Total AE,"- 20,90",,,,
+#,State's Expenditure Total,"- 20,90",,,,
+911,Total 911,"- 20,90",,,,
+80,Total 80,"79,10",1,,1,
+2225,Total 2225 Charged,,1,1,1,
+2225,Total 2225 Voted,"8,82,48","8,85,70","9,29,80","10,03,87",
+2235,SOCIAL SECURITY AND WELFARE,,,,,
+60,Other Social Security and Welfare Programmes,,,,,
+200,Other Programmes,,,,,
+#,State's Expenditure,,,,,
+DF,Muslim Women Society,,,,,2235 60 200 DF 30000
+309,Grants-in-Aid,"1,26,78","1,00,00","1,00,00","4,13,11",2235 60 200 DF 30900
+01,Grants for Current Expenditure,"1,26,78","1,00,00","1,00,00","4,13,11",2235 60 200 DF 30901
+DF,Total DF,"1,26,78","1,00,00","1,00,00","4,13,11",
+MA,Financial Assistance to Christian Associations for Women,,,,,2235 60 200 MA 30000
+309,Grants-in-Aid,,,"32,00","2,97,54",2235 60 200 MA 30900
+01,Grants for Current Expenditure,,,"32,00","2,97,54",2235 60 200 MA 30901
+MA,Total MA,,"32,00","2,97,54",,
+#,State's Expenditure Total,"1,26,78","1,00,00","1,32,00","7,10,65",
+200,Total 200,"1,26,78","1,00,00","1,32,00","7,10,65",
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+AV,Grants to Christians for pilgrimage to Jerusalem,,,,,2235 60 800 AV 30000
+309,Grants-in-Aid,"93,06","1,00,00","1,26,82","1,20,00",2235 60 800 AV 30900
+03,Grants for Specific Schemes,"93,06","1,00,00","1,26,82","1,20,00",2235 60 800 AV 30903
+AV,Total AV,"93,06","1,00,00","1,26,82","1,20,00",
+#,State's Expenditure Total,"93,06","1,00,00","1,26,82","1,20,00",
+800,Total 800,"93,06","1,00,00","1,26,82","1,20,00",
+60,Total 60,"2,19,84","2,00,00","2,58,82","8,30,65",
+2235,Total 2235,"2,19,84","2,00,00","2,58,82","8,30,65",
+2250-00,OTHER SOCIAL SERVICES,,,,,
+103,"Upkeep of Shrines,Temples etc.,",,,,,,
+#,State's Expenditure,,,,,
+JA,Repairs and Renovation of Christian Churches,,,,,2250 00 103 JA 30000
+309,Grants-in-Aid,,1,"1,00,00","1,00,00",2250 00 103 JA 30900
+03,Grants for Specific Schemes,,1,"1,00,00","1,00,00",2250 00 103 JA 30903
+JA,Total JA,,1,"1,00,00","1,00,00",
+#,State's Expenditure Total,,1,"1,00,00","1,00,00",
+103,Total 103,,1,"1,00,00","1,00,00",
+00,Total 00,,1,"1,00,00","1,00,00",
+2250,Total 2250,,1,"1,00,00","1,00,00",
+4225,"CAPITAL OUTLAY ON WELFARE OF SCHEDULED CASTES, SCHEDULED TRIBES, OTHER BACKWARD CLASSES AND MINORITIES",,,,,
+04,Welfare of Minorities,,,,,
+190,Investments in Public Undertakings,,,,,
+#,State's Expenditure,,,,,
+JA,Share Capital assistance to Tamil Nadu Minorities Economic Development Corporation,,,,4225 04 190 JA 40000,
+422,Investments,,1,1,1,4225 04 190 JA 42200
+01,Investments,,1,1,1,4225 04 190 JA 42201
+JA,Total JA,,1,1,1,
+#,State's Expenditure Total,,1,1,1,
+190,Total 190,,1,1,1,
+277,Education,,,,,
+#,State's Expenditure,,,,,
+JA,Construction of Hostel Buildings for Minority Students with Loan Assistance from NABARD,,,,4225 04 277 JA 40000,
+416,Major Works,,1,1,1,4225 04 277 JA 41600
+01,Major Works,,1,1,1,4225 04 277 JA 41601
+JA,Total JA,,1,1,1,
+JB,Construction of Hostel Buildings for Miniority Students,,,,,4225 04 277 JB 40000
+416,Major Works,"17,11","3,00,97","13,70","3,28,98",4225 04 277 JB 41600
+01,Major Works,"17,11","3,00,97","13,70","3,28,98",4225 04 277 JB 41601
+JB,Total JB,"17,11","3,00,97","13,70","3,28,98",
+#,State's Expenditure Total,"17,11","3,00,98","13,71","3,28,99",
+277,Total 277,"17,11","3,00,98","13,71","3,28,99",
+04,Total 04,"17,11","3,00,99","13,72","3,29,00",
+4225,Total 4225,"17,11","3,00,99","13,72","3,29,00",
