@@ -26,6 +26,7 @@ common_overflow={
 'Grants for Creation of':['Capital Assets'],
 'Grants for Current':['Expenditure'],
 'Grants for Specific':['Schemes'],
+'Grants for Debt':['Servicing'],
 'Maintenance of':['Functional Vehicles'],
 'Other Compensations  -':['Voted'],
 'Purchase  of  Books &':['Periodicals to Libraries','etc.,'],
@@ -39,7 +40,13 @@ common_overflow={
 'Hospitality /':['Entertainment','Expenditure'],
 'Claims under no fault':['liability -  principal'],
 'Purchase and Upkeep of':['Animals'],
-'Contribution to Specific':['Fund']
+'Contribution to Specific':['Fund'],
+'Other Compensations  - ':['Voted'],
+'Other Compensations':['Charged'],
+'"Upkeep of Shrines,"':['"Temples etc.,"'],
+'Discounts paid to Stamp':['Vendors'],
+'Commission paid to Stock':['Holding Corporation of', 'India Limited'],
+'Secret Service':['Expenditure']
 }
 
 import pandas as p

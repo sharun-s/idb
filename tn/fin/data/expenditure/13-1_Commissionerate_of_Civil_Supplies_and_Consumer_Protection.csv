@@ -1,0 +1,488 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2235,SOCIAL SECURITY AND WELFARE,,,,,
+60,Other Social Security and Welfare Programmes,,,,,
+200,Other Programmes,,,,,
+#,State's Expenditure,,,,,
+JO,Implementation of Annapurna Scheme,,,,,2235 60 200 JO 30000
+309,Grants-in-Aid,"42,16","47,76","47,76","47,76",2235 60 200 JO 30900
+03,Grants for Specific Schemes,"42,16","47,76","47,76","47,76",2235 60 200 JO 30903
+JO,Total JO,"42,16","47,76","47,76","47,76",
+#,State's Expenditure Total,"42,16","47,76","47,76","47,76",
+#,Central Sector Schemes,,,,,
+SE,Tamilnadu State Society for Consumer Protection and Empowerment,,,,,2235 60 200 SE 30000
+309,Grants-in-Aid,,1,1,1,2235 60 200 SE 30900
+03,Grants for Specific Schemes,,1,1,1,2235 60 200 SE 30903
+SE,Total SE,1,1,1,,
+#,Central Sector Schemes Total,,1,1,1,
+200,Total 200,"42,16","47,77","47,77","47,77",
+789,Special Component Plan for Scheduled Castes State's Expenditure,,,,,
+JB,Implementation of Annapurna Scheme Under Special Component Plan,,,,,2235 60 789 JB 30000
+309,Grants-in-Aid,"11,61","17,88","17,88","17,88",2235 60 789 JB 30900
+03,Grants for Specific Schemes,"11,61","17,88","17,88","17,88","2235 60 789 JB 30903"""
+JB,Total JB,"11,61","17,88","17,88","17,88",
+#,State's Expenditure Total,"11,61","17,88","17,88","17,88",
+789,Total 789,"11,61","17,88","17,88","17,88",
+60,Total 60,"53,77","65,65","65,65","65,65",
+2235,Total 2235,"53,77","65,65","65,65","65,65",
+2408,FOOD STORAGE AND WAREHOUSING,,,,,
+01,Food,,,,,
+101,Procurement and Supply State's Expenditure,,,,,
+JA,Implement the e-procurement system in the Direct Purchase Centres in Tamil Nadu,,,,2408 01 101 JA 30000,
+305,Office Expenses,,,2,2,2408 01 101 JA 30500
+01,Telephone Charges,,,1,1,2408 01 101 JA 30501
+02,Other Contingencies,,,1,1,2408 01 101 JA 30502
+333,Payments for Professional and Special Services,,1,1,1,2408 01 101 JA 33300
+03,Special Service,,1,1,1,"2408 01 101 JA 33303"""
+JA,Total JA,,1,3,3,
+#,State's Expenditure Total,,1,3,3,
+101,Total 101,,1,3,3,
+01,Total 01,1,3,3,,
+2408,Total 2408,1,3,3,,
+3456-00,CIVIL SUPPLIES,,,,,
+001,Direction and Administration,,,,,
+#,State's Expenditure,,,,,
+AA,Headquarters,,,,,3456 00 001 AA 30000
+301,Salaries,"4,81,66","6,78,59","6,07,88","6,21,08",3456 00 001 AA 30100
+01,Pay,"4,16,99","5,95,00","4,85,00","5,00,00",3456 00 001 AA 30101
+02,Medical Allowance,"3,08","3,42","3,78","3,90",3456 00 001 AA 30102
+03,Medical Charges,26,50,"5,93","1,20",3456 00 001 AA 30103
+04,Other Allowances,"4,52","4,50","4,80","5,00",3456 00 001 AA 30104
+06,House Rent Allowance,"48,13","60,97","60,97","62,80",3456 00 001 AA 30106
+07,Travel Concession,9,72,72,72,3456 00 001 AA 30107
+08,City Compensatory Allowance,"8,23","11,80","9,00","9,78",3456 00 001 AA 30108
+09,Honorarium,36,"1,68","37,68","37,68",3456 00 001 AA 30109
+303,Dearness Allowance,"43,37","77,35","77,60","1,22,50",3456 00 001 AA 30300
+01,Dearness Allowance,"43,37","77,35","77,60","1,22,50",3456 00 001 AA 30301
+304,Travel Expenses,"1,99","6,16","6,16","6,16",3456 00 001 AA 30400
+01,Tour Travelling Allowances,"1,99","6,00","6,00","6,00",3456 00 001 AA 30401
+02,Transfer Travelling Allowances,,16,16,16,3456 00 001 AA 30402
+305,Office Expenses,"11,93","15,97","15,97","16,04",3456 00 001 AA 30500
+01,Telephone Charges,"4,50","7,50","7,50","7,50",3456 00 001 AA 30501
+02,Other Contingencies,"6,49","7,52","7,52","7,52",3456 00 001 AA 30502
+04,Service Postage & Postal Expenditure,94,94,94,"1,01",3456 00 001 AA 30504
+05,Furniture,,1,1,1,3456 00 001 AA 30505
+319,Machinery and Equipments,"1,57",31,"1,34",31,3456 00 001 AA 31900
+01,Purchase,"1,32",1,"1,04",1,3456 00 001 AA 31901
+03,Maintenance,25,30,30,30,3456 00 001 AA 31903
+321,Motor Vehicles,"9,89",21,"6,40",26,3456 00 001 AA 32100
+01,Purchase,"9,84",1,"6,20",1,3456 00 001 AA 32101
+02,Maintenance of Functional Vehicles,5,20,20,25,3456 00 001 AA 32102
+333,Payments for Professional and Special Services,"38,25","46,51","8,37","6,22",3456 00 001 AA 33300
+01,Pleaders Fees,"6,12","7,79","3,50","3,50",3456 00 001 AA 33301
+03,Special Service,,1,"2,16",1,3456 00 001 AA 33303
+04,Contract Payment,"32,13","38,71","2,71","2,71",3456 00 001 AA 33304
+339,Rewards,,25,25,25,3456 00 001 AA 33900
+01,Rewards,,25,25,25,3456 00 001 AA 33901
+342,Service or Commitment Charges,,1,1,1,3456 00 001 AA 34200
+01,Service or Commitment Charges,,1,1,1,3456 00 001 AA 34201
+345,"Petroleum, Oil and Lubricant","3,64","6,22","6,22","6,22",3456 00 001 AA 34500
+01,"Petroleum, Oil and Lubricant","3,64","6,22","6,22","6,22",3456 00 001 AA 34501
+349,Festival Advances,- 16,,,,3456 00 001 AA 34900
+01,Festival Advances-Debit,"2,70","4,00","10,00","11,00",3456 00 001 AA 34901
+02,Festival Advances-Credit,"- 2,86","- 4,00","- 10,00","- 11,00",3456 00 001 AA 34902
+351,Compensation Charged,,1,1,1,3456 00 001 AA 35100
+51,Claims under no fault liability -  principal charges Charged,,1,1,1,3456 00 001 AA 35151
+359,Prizes and Awards,4,10,10,10,3456 00 001 AA 35900
+01,Prizes and Awards,4,10,10,10,3456 00 001 AA 35901
+371,Printing Charges,,1,1,1,3456 00 001 AA 37100
+01,Printing Charges,,1,1,1,3456 00 001 AA 37101
+372,Training,,1,1,1,3456 00 001 AA 37200
+01,Training,,1,1,1,3456 00 001 AA 37201
+373,Transport Charges,,1,1,1,3456 00 001 AA 37300
+01,Transport Charges,,1,1,1,3456 00 001 AA 37301
+376,Computer and Accessories,85,16,"1,75,67",16,3456 00 001 AA 37600
+01,Purchase,70,1,"1,75,52",1,3456 00 001 AA 37601
+03,Stationery,15,15,15,15,3456 00 001 AA 37603
+AA,Total AA Charged,,1,1,1,
+AA,Total AA Voted,"5,93,03","8,31,87","9,06,00","7,79,34",
+AB,District Establishment,,,,,3456 00 001 AB 30000
+301,Salaries,"50,72,89","54,42,56","50,20,23","59,47,15",3456 00 001 AB 30100
+01,Pay,"46,96,99","50,52,82","46,18,15","54,30,02",3456 00 001 AB 30101
+02,Medical Allowance,"38,52","36,93","43,35","49,58",3456 00 001 AB 30102
+03,Medical Charges,,2,2,2,3456 00 001 AB 30103
+04,Other Allowances,"61,37","60,00","65,00","67,96",3456 00 001 AB 30104
+06,House Rent Allowance,"2,61,78","2,78,17","2,78,19","3,84,05",3456 00 001 AB 30106
+07,Travel Concession,,52,52,52,3456 00 001 AB 30107
+08,City Compensatory Allowance,"14,23","14,10","15,00","15,00",3456 00 001 AB 30108
+303,Dearness Allowance,"5,28,75","6,56,87","7,38,90","13,30,36",3456 00 001 AB 30300
+01,Dearness Allowance,"5,28,75","6,56,87","7,38,90","13,30,36",3456 00 001 AB 30301
+304,Travel Expenses,"1,12,52","1,14,40","1,24,80","1,34,80",3456 00 001 AB 30400
+01,Tour Travelling Allowances,"97,51","1,00,00","1,09,00","1,19,00",3456 00 001 AB 30401
+02,Transfer Travelling Allowances,31,"1,40",80,80,3456 00 001 AB 30402
+03,Fixed Travelling Allowances,"14,70","13,00","15,00","15,00",3456 00 001 AB 30403
+305,Office Expenses,"41,62","49,74","56,74","58,74",3456 00 001 AB 30500
+01,Telephone Charges,"13,96","18,18","20,00","20,00",3456 00 001 AB 30501
+02,Other Contingencies,"9,17","8,32","13,50","13,50",3456 00 001 AB 30502
+03,Electricity Charges,"15,25","20,00","20,00","22,00",3456 00 001 AB 30503
+04,Service Postage & Postal Expenditure,"3,24","3,24","3,24","3,24",3456 00 001 AB 30504
+306,"Rent, Rates and Taxes",,25,,,3456 00 001 AB 30600
+01,Rent,,25,,,3456 00 001 AB 30601
+321,Motor Vehicles,"1,57","1,65","1,65","1,70",3456 00 001 AB 32100
+01,Purchase,,,,5,3456 00 001 AB 32101
+02,Maintenance of Functional Vehicles,"1,57","1,65","1,65","1,65",3456 00 001 AB 32102
+333,Payments for Professional and Special Services,"1,63,86","84,61","92,02","92,02",3456 00 001 AB 33300
+04,Contract Payment,"1,63,86","84,61","92,02","92,02",3456 00 001 AB 33304
+339,Rewards,,1,1,1,3456 00 001 AB 33900
+01,Rewards,,1,1,1,3456 00 001 AB 33901
+345,"Petroleum, Oil and Lubricant","54,56","75,00","75,00","75,00",3456 00 001 AB 34500
+01,"Petroleum, Oil and Lubricant","54,56","75,00","75,00","75,00",3456 00 001 AB 34501
+349,Festival Advances,"- 3,09",,,,3456 00 001 AB 34900
+01,Festival Advances-Debit,"26,95","37,50","1,20,00","1,20,00",3456 00 001 AB 34901
+02,Festival Advances-Credit,"- 30,04","- 37,50","- 1,20,00","- 1,20,00",3456 00 001 AB 34902
+351,Compensation Charged,,1,"8,40",1,3456 00 001 AB 35100
+52,Other Compensations Charged,,1,"8,40",1,3456 00 001 AB 35152
+359,Prizes and Awards,,8,8,8,3456 00 001 AB 35900
+01,Prizes and Awards,,8,8,8,3456 00 001 AB 35901
+371,Printing Charges,,1,1,1,3456 00 001 AB 37100
+01,Printing Charges,,1,1,1,3456 00 001 AB 37101
+AB,Total AB Charged,,1,"8,40",1,
+AB,Total AB Voted,"59,72,68","64,25,18","61,09,44","76,39,87",
+AK,Establishment of monitoring cell for Public Distribution system,,,,,3456 00 001 AK 30000
+301,Salaries,,10,,,3456 00 001 AK 30100
+01,Pay,,3,,,3456 00 001 AK 30101
+02,Medical Allowance,,3,,,3456 00 001 AK 30102
+06,House Rent Allowance,,2,,,3456 00 001 AK 30106
+08,City Compensatory Allowance,,2,,,3456 00 001 AK 30108
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,1,1,1,3456 00 001 AK 34901
+02,Festival Advances-Credit,,- 1,- 1,- 1,3456 00 001 AK 34902
+AK,Total AK,10,,,,
+AM,Computerisation of Zonal Offices of the Civil Supplies and Consumer Protection Department,,,,,3456 00 001 AM 30000
+376,Computer and Accessories,"3,25","3,25","3,25","3,25",3456 00 001 AM 37600
+02,Maintenance,"3,25","3,25","3,25","3,25",3456 00 001 AM 37602
+AM,Total AM,"3,25","3,25","3,25","3,25",
+AN,Strengthening of Computer Cell in the Civil Supplies Department,,,,,3456 00 001 AN 30000
+372,Training,,1,1,1,3456 00 001 AN 37200
+01,Training,,1,1,1,3456 00 001 AN 37201
+376,Computer and Accessories,"6,55","9,00","9,00","9,00",3456 00 001 AN 37600
+03,Stationery,"6,55","9,00","9,00","9,00",3456 00 001 AN 37603
+AN,Total AN,"6,55","9,01","9,01","9,01",
+#,State's Expenditure Total Charged,,2,"8,41",2,
+Voted,,"65,75,51","72,69,41","70,27,70","84,31,47",
+#,Central Sector Schemes,,,,,
+SA,Strengthening of Price Monitoring Cell,,,,,3456 00 001 SA 30000
+309,Grants-in-Aid,"10,55",,,,3456 00 001 SA 30900
+03,Grants for Specific Schemes,"10,55",,,,3456 00 001 SA 30903
+SA,Total SA,"10,55",,,,
+#,Central Sector Schemes Total,"10,55",,,,
+001,Total 001 Charged,,2,"8,41",2,
+101,Inspection,,,,,
+#,State's Expenditure,,,,,
+AA,Vigilance Cell,,,,,3456 00 101 AA 30000
+301,Salaries,"16,17,99","15,74,98","15,44,22","15,90,41",3456 00 101 AA 30100
+01,Pay,"14,51,13","14,34,75","14,00,00","14,46,50",3456 00 101 AA 30101
+02,Medical Allowance,"9,01","9,00","9,00","9,00",3456 00 101 AA 30102
+03,Medical Charges,81,91,91,91,3456 00 101 AA 30103
+04,Other Allowances,"66,84","61,40","61,40","61,40",3456 00 101 AA 30104
+06,House Rent Allowance,"80,17","60,37","60,37","62,20",3456 00 101 AA 30106
+07,Travel Concession,18,31,"3,54",40,3456 00 101 AA 30107
+08,City Compensatory Allowance,"9,85","8,24","9,00","10,00",3456 00 101 AA 30108
+302,Wages,,,"6,67","6,67",3456 00 101 AA 30200
+01,Wages,,,"6,67","6,67",3456 00 101 AA 30201
+303,Dearness Allowance,"1,26,79","1,86,52","2,24,00","3,54,39",3456 00 101 AA 30300
+01,Dearness Allowance,"1,26,79","1,86,52","2,24,00","3,54,39",3456 00 101 AA 30301
+304,Travel Expenses,"99,31","1,00,34","90,30","93,95",3456 00 101 AA 30400
+01,Tour Travelling Allowances,"99,25","1,00,00","90,00","93,60",3456 00 101 AA 30401
+02,Transfer Travelling Allowances,6,34,30,35,3456 00 101 AA 30402
+305,Office Expenses,"62,65","24,95","30,90","31,71",3456 00 101 AA 30500
+01,Telephone Charges,"6,06","8,50","9,70","9,70",3456 00 101 AA 30501
+02,Other Contingencies,"1,97","1,98","1,98","2,06",3456 00 101 AA 30502
+03,Electricity Charges,"13,00","13,52","18,27","19,00",3456 00 101 AA 30503
+04,Service Postage & Postal Expenditure,94,94,94,94,3456 00 101 AA 30504
+05,Furniture,"40,68",1,1,1,3456 00 101 AA 30505
+306,"Rent, Rates and Taxes","91,47","14,82","63,01","63,01",3456 00 101 AA 30600
+01,Rent,"91,47","14,82","63,01","63,01",3456 00 101 AA 30601
+315,Secret Service Expenditure,"25,00","20,00","20,00","20,00",3456 00 101 AA 31500
+01,Secret Service Expenditure,"25,00","20,00","20,00","20,00",3456 00 101 AA 31501
+319,Machinery and Equipments,"30,53",1,1,1,3456 00 101 AA 31900
+01,Purchase,"30,53",1,1,1,3456 00 101 AA 31901
+321,Motor Vehicles,81,82,82,82,3456 00 101 AA 32100
+01,Purchase,,1,1,1,3456 00 101 AA 32101
+02,Maintenance of Functional Vehicles,81,81,81,81,3456 00 101 AA 32102
+333,Payments for Professional and Special Services,2,"1,44","1,00","1,00",3456 00 101 AA 33300
+01,Pleaders Fees,2,"1,44","1,00","1,00",3456 00 101 AA 33301
+334,Other Charges,,,"2,00",,3456 00 101 AA 33400
+02,"Purchase  of  Books & Periodicals to Libraries etc.,",,,"2,00",,3456 00 101 AA 33402
+339,Rewards,"4,50","4,50","4,50","4,50",3456 00 101 AA 33900
+01,Rewards,"4,50","4,50","4,50","4,50",3456 00 101 AA 33901
+345,"Petroleum, Oil and Lubricant","59,41","68,45","83,06","88,46",3456 00 101 AA 34500
+01,"Petroleum, Oil and Lubricant","59,41","68,45","83,06","88,46",3456 00 101 AA 34501
+349,Festival Advances,62,,,,3456 00 101 AA 34900
+01,Festival Advances-Debit,"6,40","9,30","22,50","22,50",3456 00 101 AA 34901
+02,Festival Advances-Credit,"- 5,78","- 9,30","- 22,50","- 22,50",3456 00 101 AA 34902
+351,Compensation,,,,,
+Charged,,1,1,1,3456 00 101 AA 35100,
+51,Claims under no fault liability -  principal charges,,,,,
+Charged,,1,1,1,3456 00 101 AA 35151,
+359,Prizes and Awards,,2,2,2,3456 00 101 AA 35900
+01,Prizes and Awards,,2,2,2,3456 00 101 AA 35901
+376,Computer and Accessories,"13,27","4,61","7,12","4,61",3456 00 101 AA 37600
+01,Purchase,"8,63",1,"2,52",1,3456 00 101 AA 37601
+02,Maintenance,56,75,75,75,3456 00 101 AA 37602
+03,Stationery,"4,08","3,85","3,85","3,85",3456 00 101 AA 37603
+399,Miscellaneous,"7,87","5,00","5,00","5,00",3456 00 101 AA 39900
+01,Miscellaneous,"7,87","5,00","5,00","5,00",3456 00 101 AA 39901
+AA,Total AA Charged,,1,1,1,
+Voted,"21,40,24","20,06,46","20,82,63","22,64,56",,
+#,State's Expenditure Total Charged,,1,1,1,
+Voted,,"21,40,24","20,06,46","20,82,63","22,64,56",
+101,Total 101 Charged,,1,1,1,
+Voted,"21,40,24","20,06,46","20,82,63","22,64,56",,
+102,Civil supply Schemes,,,,,
+#,State's Expenditure,,,,,
+AA,City Distribution Organisation,,,,,3456 00 102 AA 30000
+301,Salaries,"12,82,51","15,50,29","13,37,63","13,88,67",3456 00 102 AA 30100
+01,Pay,"11,15,56","13,50,00","11,38,50","11,84,00",3456 00 102 AA 30101
+02,Medical Allowance,"8,36","8,00","10,90","11,30",3456 00 102 AA 30102
+03,Medical Charges,88,"1,00","1,00","1,00",3456 00 102 AA 30103
+04,Other Allowances,"6,62","8,00","8,00","8,00",3456 00 102 AA 30104
+06,House Rent Allowance,"1,27,52","1,54,71","1,54,71","1,59,35",3456 00 102 AA 30106
+07,Travel Concession,27,52,52,52,3456 00 102 AA 30107
+08,City Compensatory Allowance,"23,30","28,06","24,00","24,50",3456 00 102 AA 30108
+303,Dearness Allowance,"1,21,74","1,75,50","1,82,16","2,90,08",3456 00 102 AA 30300
+01,Dearness Allowance,"1,21,74","1,75,50","1,82,16","2,90,08",3456 00 102 AA 30301
+304,Travel Expenses,"4,59","6,63","7,20","7,20",3456 00 102 AA 30400
+01,Tour Travelling Allowances,"2,00","3,50","4,00","4,00",3456 00 102 AA 30401
+02,Transfer Travelling Allowances,,10,10,10,3456 00 102 AA 30402
+03,Fixed Travelling Allowances,"2,59","3,03","3,10","3,10",3456 00 102 AA 30403
+305,Office Expenses,"16,26","19,75","27,93","30,84",3456 00 102 AA 30500
+01,Telephone Charges,"5,46","6,80","10,90","12,95",3456 00 102 AA 30501
+02,Other Contingencies,"2,74","2,92","7,00","7,00",3456 00 102 AA 30502
+03,Electricity Charges,"7,22","9,14","9,14","10,00",3456 00 102 AA 30503
+04,Service Postage & Postal Expenditure,84,88,88,88,3456 00 102 AA 30504
+05,Furniture,,1,1,1,3456 00 102 AA 30505
+306,"Rent, Rates and Taxes","41,49","55,93","84,76","58,73",3456 00 102 AA 30600
+01,Rent,"41,49","55,93","84,76","58,73",3456 00 102 AA 30601
+321,Motor Vehicles,81,"1,27","1,27","1,27",3456 00 102 AA 32100
+01,Purchase,,1,1,1,3456 00 102 AA 32101
+02,Maintenance of Functional Vehicles,81,"1,26","1,26","1,26",3456 00 102 AA 32102
+333,Payments for Professional and Special Services,"44,02","35,42","28,01","28,01",3456 00 102 AA 33300
+03,Special Service,,1,1,1,3456 00 102 AA 33303
+04,Contract Payment,"44,02","35,41","28,00","28,00",3456 00 102 AA 33304
+345,"Petroleum, Oil and Lubricant","8,02","14,00","12,00","14,00",3456 00 102 AA 34500
+01,"Petroleum, Oil and Lubricant","8,02","14,00","12,00","14,00",3456 00 102 AA 34501
+349,Festival Advances,18,,,,3456 00 102 AA 34900
+01,Festival Advances-Debit,"8,00","11,00","30,00","30,00",3456 00 102 AA 34901
+02,Festival Advances-Credit,"- 7,82","- 11,00","- 30,00","- 30,00",3456 00 102 AA 34902
+359,Prizes and Awards,6,22,22,22,3456 00 102 AA 35900
+01,Prizes and Awards,6,22,22,22,3456 00 102 AA 35901
+371,Printing Charges,,1,1,1,3456 00 102 AA 37100
+01,Printing Charges,,1,1,1,3456 00 102 AA 37101
+373,Transport Charges,,1,1,1,3456 00 102 AA 37300
+01,Transport Charges,,1,1,1,3456 00 102 AA 37301
+376,Computer and Accessories,,1,1,1,3456 00 102 AA 37600
+01,Purchase,,1,1,1,3456 00 102 AA 37601
+AA,Total AA,"15,19,68","18,59,04","16,81,21","18,19,05",
+AC,Procurement of 200 Universal Moisture Meters,,,,,3456 00 102 AC 30000
+319,Machinery and Equipments,"60,00",,,,3456 00 102 AC 31900
+01,Purchase,"60,00",,,,3456 00 102 AC 31901
+AC,Total AC,"60,00",,,,
+JB,Price Stabilisation Fund,,,,,3456 00 102 JB 30000
+310,Contributions,"2,50,00",1,1,1,3456 00 102 JB 31000
+01,Contribution to Specific Fund,"2,50,00",1,1,1,3456 00 102 JB 31001
+JB,Total JB,"2,50,00",1,1,1,
+#,State's Expenditure Total,"18,29,68","18,59,05","16,81,22","18,19,06",
+#,Central Sector Schemes,,,,,
+SA,Purchase of Winnowing Machines to Direct Purchase Centres (NADP-RKVY),,,,,3456 00 102 SA 30000
+319,Machinery and Equipments,,1,1,1,3456 00 102 SA 31900
+01,Purchase,,1,1,1,3456 00 102 SA 31901
+SA,Total SA,1,1,1,,
+#,Central Sector Schemes Total,,1,1,1,
+013,01   Commissionerate of Civil Supplies and Consumer Protection,,,,,
+#,Schemes shared between State and Centre,,,,,
+UA,End-to-End computerisation of Targeted Public Distribution System Operations,,,,,3456 00 102 UA 30000
+305,Office Expenses,"37,07",,1,1,3456 00 102 UA 30500
+01,Telephone Charges,"37,07",,1,1,3456 00 102 UA 30501
+308,Advertising and Publicity,"6,45",,,,3456 00 102 UA 30800
+01,Advertisement Charges,"6,45",,,,3456 00 102 UA 30801
+319,Machinery and Equipments,"17,98,50",,,,3456 00 102 UA 31900
+01,Purchase,"17,98,50",,,,3456 00 102 UA 31901
+333,Payments for Professional and Special Services,"40,77,06","34,72,13","36,05,00","34,72,14",3456 00 102 UA 33300
+09,Other Payments,"40,77,06","34,72,13","36,05,00","34,72,14",3456 00 102 UA 33309
+UA,Total UA,"59,19,08","34,72,13","36,05,01","34,72,15",
+#,Schemes shared between State and Centre Total,"59,19,08","34,72,13","36,05,01","34,72,15",
+102,Total 102,"77,48,76","53,31,19","52,86,24","52,91,22",
+103,Consumer Subsidies,,,,,
+#,State's Expenditure,,,,,
+AE,Social safety Net - Food Security - PDS Support,,,,,3456 00 103 AE 30000
+311,Subsidies,"79,88,77,40","60,00,00,00","83,63,13,00","65,00,00,00",3456 00 103 AE 31100
+02,General Subsidy,"79,88,77,40","60,00,00,00","83,63,13,00","65,00,00,00",3456 00 103 AE 31102
+AE,Total AE,"79,88,77,40","60,00,00,00","83,63,13,00","65,00,00,00",
+#,State's Expenditure Total,"79,88,77,40","60,00,00,00","83,63,13,00","65,00,00,00",
+103,Total 103,"79,88,77,40","60,00,00,00","83,63,13,00","65,00,00,00",
+190,Assistance to Public Undertakings,,,,,
+#,State's Expenditure,,,,,
+AI,Assistance to Tamil Nadu Civil Supplies Corporation,,,,,3456 00 190 AI 30000
+309,Grants-in-Aid,"24,00",,,,3456 00 190 AI 30900
+02,Grants for Creation of Capital Assets,"24,00",,,,3456 00 190 AI 30902
+AI,Total AI,"24,00",,,,
+#,State's Expenditure Total,"24,00",,,,
+190,Total 190,"24,00",,,,
+797,Transfer to Reserve Fund and Deposit Account,,,,,
+#,Schemes shared between State and Centre,,,,,
+UA,Transfer to Tamilnadu State Consumer Welfare Fund,,,,,3456 00 797 UA 30000
+330,Inter-Account Transfers,"16,96",1,"13,62",1,3456 00 797 UA 33000
+01,Inter-Account Transfers,"16,96",1,"13,62",1,3456 00 797 UA 33001
+UA,Total UA,"16,96",1,"13,62",1,
+UB,Transfer to Tamil Nadu State Consumer Welfare Fund (Corpus) - Interest on investment,,,,,3456 00 797 UB 30000
+330,Inter-Account Transfers,,"70,53",1,1,3456 00 797 UB 33000
+01,Inter-Account Transfers,,"70,53",1,1,3456 00 797 UB 33001
+UB,Total UB,,"70,53",1,1,
+UC,Transfer to Tamil Nadu State Consumer Welfare Fund (Corpus) - Interest,,,,,
+on,investment Account,,,,,3456 00 797 UC 30000
+330,Inter-Account Transfers,"68,68",,"31,91",1,3456 00 797 UC 33000
+01,Inter-Account Transfers,"68,68",,"31,91",1,3456 00 797 UC 33001
+UC,Total UC,"68,68",,"31,91",1,
+#,Schemes shared between State and Centre Total,"85,64","70,54","45,54",3,
+797,Total 797,"85,64","70,54","45,54",3,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+AF,Issue of Family cards under Public Distribution System,,,,,3456 00 800 AF 30000
+305,Office Expenses,,1,1,1,3456 00 800 AF 30500
+02,Other Contingencies,,1,1,1,3456 00 800 AF 30502
+319,Machinery and Equipments,,,"15,83",1,3456 00 800 AF 31900
+01,Purchase,,,"15,83",1,3456 00 800 AF 31901
+333,Payments for Professional and Special Services,,2,"35,41","22,01",3456 00 800 AF 33300
+02,Remuneration,,1,"35,40","22,00",3456 00 800 AF 33302
+03,Special Service,,1,1,1,3456 00 800 AF 33303
+351,Compensation Charged,,1,1,1,3456 00 800 AF 35100
+52,Other Compensations Charged,,1,1,1,3456 00 800 AF 35152
+371,Printing Charges,,1,"95,21","37,96",3456 00 800 AF 37100
+01,Printing Charges,,1,"95,21","37,96",3456 00 800 AF 37101
+AF,Total AF Charged,,1,1,1,
+Voted,,4,"1,46,46","59,99",,
+#,State's Expenditure Total Charged,,1,1,1,
+#,State's Expenditure Total Voted,,4,"1,46,46","59,99",
+#,Central Sector Schemes,,,,,
+SB,Consumer Awarness Programme,,,,,3456 00 800 SB 30000
+309,Grants-in-Aid,,1,1,1,3456 00 800 SB 30900
+03,Grants for Specific Schemes,,1,1,1,3456 00 800 SB 30903
+SB,Total SB,1,1,1,,
+#,Central Sector Schemes Total,,1,1,1,
+#,Schemes shared between State and Centre,,,,,
+UB,Consumer awareness activities - Expenditure incurred under Tamil Nadu State Consumer Welfare Fund,,,,,3456 00 800 UB 30000
+309,Grants-in-Aid,,1,1,1,3456 00 800 UB 30900
+03,Grants for Specific Schemes,,1,1,1,3456 00 800 UB 30903
+UB,Total UB,1,1,1,,
+UC,Expenditure under Tamil Nadu State Consumer Welfare Fund (Corpus),,,,,3456 00 800 UC 30000
+309,Grants-in-Aid,"30,00",,"78,06",1,3456 00 800 UC 30900
+03,Grants for Specific Schemes,"30,00",,"78,06",1,3456 00 800 UC 30903
+UC,Total UC,"30,00",,"78,06",1,
+#,Schemes shared between State and Centre Total,"30,00",1,"78,07",2,
+800,Total 800 Charged,,1,1,1,
+800,Total 800 Voted,"30,00",6,"2,24,54","60,02",
+902,Deduct - Amount met from Reserve Fund,,,,,
+#,Schemes shared between State and Centre,,,,,
+UC,Deduct - Amount met from Tamil Nadu State Consumer Welfare Fund (Corpus),,,,,3456 00 902 UC 30000
+330,Inter-Account Transfers,"- 30,00",,,,3456 00 902 UC 33000
+01,Inter-Account Transfers,"- 30,00",,,,3456 00 902 UC 33001
+UC,Total UC,"- 30,00",,,,
+#,Schemes shared between State and Centre Total,,"- 30,00",,,
+902,Total 902,"- 30,00",,,,
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+AA,Vigilance Cell,,,,,3456 00 911 AA 30000
+377,Deduct-Recoveries,"- 2,50",,,,3456 00 911 AA 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"- 2,50",,,,3456 00 911 AA 37702
+AA,Total AA,"- 2,50",,,,
+AB,District Establishment,,,,,3456 00 911 AB 30000
+377,Deduct-Recoveries,- 78,,,,3456 00 911 AB 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,- 78,,,,3456 00 911 AB 37702
+AB,Total AB,- 78,,,,
+AC,Headquarters,,,,,3456 00 911 AC 30000
+377,Deduct-Recoveries,- 29,,,,3456 00 911 AC 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,- 29,,,,3456 00 911 AC 37702
+AC,Total AC,- 29,,,,
+#,State's Expenditure Total,"- 3,57",,,,
+911,Total 911,"- 3,57",,,,
+00,Total 00 Charged,,4,"8,43",4,
+00,Total 00 Voted,"81,54,58,53","61,46,77,66","85,09,79,65","66,60,47,30",
+3456,Total 3456 Charged,,4,"8,43",4,
+3456,Total 3456 Voted,"81,54,58,53","61,46,77,66","85,09,79,65","66,60,47,30",
+4070-00,CAPITAL OUTLAY ON OTHER ADMINISTRATIVE SERVICES,,,,,
+051,Construction,,,,,
+#,State's Expenditure,,,,,
+JA,Construction of Buildings for Civil Supplies,,,,,4070 00 051 JA 40000
+416,Major Works,"2,69,00",,,,4070 00 051 JA 41600
+01,Major Works,"2,69,00",,,,4070 00 051 JA 41601
+JA,Total JA,"2,69,00",,,,
+#,State's Expenditure Total,"2,69,00",,,,
+051,Total 051,"2,69,00",,,,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+BW,Add-Percentage charges for Establishment Transferred from the Major Head 2059-Public Works,,,,,4070 00 800 BW 40000
+430,Inter-Account Transfers,"10,32",,,,4070 00 800 BW 43000
+01,Inter-Account Transfers,"10,32",,,,4070 00 800 BW 43001
+BW,Total BW,"10,32",,,,
+BX,Add-Percentage charges for Machinery and Equipment Transferred from the Major Head 2059-Public Works,,,,,4070 00 800 BX 40000
+430,Inter-Account Transfers,15,,,,4070 00 800 BX 43000
+01,Inter-Account Transfers,15,,,,4070 00 800 BX 43001
+BX,Total BX,15,,,,
+#,State's Expenditure Total,"10,47",,,,
+#,Central Sector Schemes,,,,,
+SW,Other expenditure,,,,,4070 00 800 SW 40000
+430,Inter-Account Transfers,"2,66",,1,1,4070 00 800 SW 43000
+01,Inter-Account Transfers,"2,66",,1,1,4070 00 800 SW 43001
+SW,Total SW,"2,66",,1,1,
+SX,Add-Percentage charges for Machinery and Equipment Transferred from the Major Head 2059-Public Works,,,,,4070 00 800 SX 40000
+430,Inter-Account Transfers,4,,,,4070 00 800 SX 43000
+01,Inter-Account Transfers,4,,,,4070 00 800 SX 43001
+SX,Total SX,4,,,,
+#,Central Sector Schemes Total,"2,70",,1,1,
+800,Total 800,"13,17",,1,1,
+00,Total 00,"2,82,17",,1,1,
+4070,Total 4070,"2,82,17",,1,1,
+4408,CAPITAL OUTLAY ON FOOD STORAGE AND WARE HOUSING,,,,,
+01,Food,,,,,
+101,Procurement and Supply State's Expenditure,,,,,
+JC,Implement the e-procurement system in the Direct Purchase Centres in Tamil Nadu,,,,,4408 01 101 JC 40000
+419,Machinery and Equipments,,,1,1,4408 01 101 JC 41900
+01,Purchase,,,1,1,"4408 01 101 JC 41901"""
+JC,Total JC,,,1,1,
+#,State's Expenditure Total,,,1,1,
+101,Total 101,,,1,1,
+01,Total 01,,,1,1,
+02,Storage and Ware Housing,,,,,
+101,Rural Godown Programmes Schemes shared between State and Centre Schemes shared between State and Centre,,,,,
+UA,Construction of Paddy purchase centre in the Delta Districts - (NADP-RKVY),,,,4408 02 101 UA 40000,
+416,Major Works,"3,00,00",,"1,80,00",1,4408 02 101 UA 41600
+01,Major Works,"3,00,00",,"1,80,00",1,4408 02 101 UA 41601
+UA,Total UA,,"3,00,00",,"1,80,00",1
+#,Schemes shared between State and Centre Total,"3,00,00",,"1,80,00",1,
+#101,Total 101,"3,00,00",,"1,80,00",1,
+789,Special Component Plan for Scheduled Castes,,,,,
+#,Schemes shared between State and Centre,,,,,
+UA,Construction of Paddy purchase centre in the Delta Districts - (NADP-RKVY),,,,,4408 02 789 UA 40000
+416,Major Works,"1,45,00",,"66,25",1,4408 02 789 UA 41600
+01,Major Works,"1,45,00",,"66,25",1,4408 02 789 UA 41601
+UA,Total UA,"1,45,00",,"66,25",1,
+#,Schemes shared between State and Centre Total,"1,45,00",,"66,25",1,
+789,Total 789,"1,45,00",,"66,25",1,
+796,Tribal Area Sub-Plan,,,,,
+#,Schemes shared between State and Centre,,,,,
+UA,Construction of Paddy purchase centre in the Delta Districts - (NADP-RKVY),,,,,4408 02 796 UA 40000
+416,Major Works,"5,00",,"3,75",1,4408 02 796 UA 41600
+01,Major Works,"5,00",,"3,75",1,4408 02 796 UA 41601
+UA,Total UA,"5,00",,"3,75",1,
+#,Schemes shared between State and Centre Total,"5,00",,"3,75",1,
+796,Total 796,"5,00",,"3,75",1,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+JA,Construction of Godowns with Loan assistance from NABARD,,,,,4408 02 800 JA 40000
+416,Major Works,"1,11,13,49","4,44,00,00","4,44,00,00","3,40,09,00",4408 02 800 JA 41600
+01,Major Works,"1,11,13,49","4,44,00,00","4,44,00,00","3,40,09,00",4408 02 800 JA 41601
+419,Machinery and Equipments,,,"6,11,39",,4408 02 800 JA 41900
+01,Purchase,,,"6,11,39",,4408 02 800 JA 41901
+JA,Total JA,"1,11,13,49","4,44,00,00","4,50,11,39","3,40,09,00",
+JB,Construction of Godowns using Silo-Technology with the Loan Assistance from NABARD,,,,,4408 02 800 JB 40000
+416,Major Works,"22,62,00","32,00,00","16,00,00","16,00,00",4408 02 800 JB 41600
+01,Major Works,"22,62,00","32,00,00","16,00,00","16,00,00",4408 02 800 JB 41601
+JB,Total JB,"22,62,00","32,00,00","16,00,00","16,00,00",
+JC,"Construction of Food Testing Laboratory in collaboration with Centre for Consumer Education Research, Teaching, Training and Testing (CONCERT)",,,,,4408 02 800 JC 40000
+416,Major Works,"3,96,90","5,31,00",,"5,31,00",4408 02 800 JC 41600
+01,Major Works,"3,96,90","5,31,00",,"5,31,00",4408 02 800 JC 41601
+JC,Total JC,"3,96,90","5,31,00",,"5,31,00",
+#,State's Expenditure Total,"1,37,72,39","4,81,31,00","4,66,11,39","3,61,40,00",
+800,Total 800,"1,37,72,39","4,81,31,00","4,66,11,39","3,61,40,00",
+02,Total 02,"1,42,22,39","4,81,31,00","4,68,61,39","3,61,40,03",
+4408,Total 4408,"1,42,22,39","4,81,31,00","4,68,61,40","3,61,40,04",
