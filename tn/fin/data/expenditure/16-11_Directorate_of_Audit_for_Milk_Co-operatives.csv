@@ -1,0 +1,52 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2404-00,DAIRY DEVELOPMENT,,,,,
+001,Direction and Administration,,,,,
+#,State's Expenditure,,,,,
+AD,Establishment of Directorate of Audit for Milk Co-operatives,,,,,2404 00 001 AD 30000
+301,Salaries,,,,"9,47,04",2404 00 001 AD 30100
+01,Pay,,,,"8,68,40",2404 00 001 AD 30101
+02,Medical Allowance,,,,"4,61",2404 00 001 AD 30102
+03,Medical Charges,,,,10,2404 00 001 AD 30103
+04,Other Allowances,,,,"6,48",2404 00 001 AD 30104
+06,House Rent Allowance,,,,"60,00",2404 00 001 AD 30106
+07,Travel Concession,,,,45,2404 00 001 AD 30107
+08,City Compensatory,,,,"7,00",2404 00 001 AD 30108
+302,Wages,,,,48,2404 00 001 AD 30200
+01,Wages,,,,48,2404 00 001 AD 30201
+303,Dearness Allowance,,,,"2,12,76",2404 00 001 AD 30300
+01,Dearness Allowance,,,,"2,12,76",2404 00 001 AD 30301
+304,Travel Expenses,,,,"35,11",2404 00 001 AD 30400
+01,Tour Travelling,,,,"35,00",2404 00 001 AD 30401
+02,Transfer Travelling,,,,10,2404 00 001 AD 30402
+03,Fixed Travelling,,,,1,2404 00 001 AD 30403
+305,Office Expenses,,,,"6,36",2404 00 001 AD 30500
+01,Telephone Charges,,,,"2,00",2404 00 001 AD 30501
+02,Other Contingencies,,,,"1,02",2404 00 001 AD 30502
+03,Electricity Charges,,,,"2,94",2404 00 001 AD 30503
+04,Service Postage & Postal,,,,40,2404 00 001 AD 30504
+306,"Rent, Rates and Taxes",,,,"31,29",2404 00 001 AD 30600
+01,Rent,,,,"31,29",2404 00 001 AD 30601
+319,Machinery and Equipments,,,,2,2404 00 001 AD 31900
+01,Purchase,,,,1,2404 00 001 AD 31901
+03,Maintenance,,,,1,2404 00 001 AD 31903
+321,Motor Vehicles,,,,"7,07",2404 00 001 AD 32100
+01,Purchase,,,,"7,06",2404 00 001 AD 32101
+02,Maintenance of,,,,1,2404 00 001 AD 32102
+345,"Petroleum, Oil and",,,,"3,00",2404 00 001 AD 34500
+01,"Petroleum, Oil and",,,,"3,00",2404 00 001 AD 34501
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,,,"12,00",2404 00 001 AD 34901
+02,Festival Advances-Credit,,,,"- 12,00",2404 00 001 AD 34902
+359,Prizes and Awards,,,,5,2404 00 001 AD 35900
+01,Prizes and Awards,,,,5,2404 00 001 AD 35901
+372,Training,,,,"1,50",2404 00 001 AD 37200
+01,Training,,,,"1,50",2404 00 001 AD 37201
+376,Computer and Accessories,,,,41,2404 00 001 AD 37600
+01,Purchase,,,,1,2404 00 001 AD 37601
+02,Maintenance,,,,10,2404 00 001 AD 37602
+03,Stationery,,,,30,2404 00 001 AD 37603
+AD,Total AD,,,,"12,45,09",
+#,State's Expenditure Total,,,,"12,45,09",
+001,Total 001,,,,"12,45,09",
+00,Total 00,,,,"12,45,09",
+2404,Total 2404,,,,"12,45,09",

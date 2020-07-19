@@ -1,0 +1,76 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+3454,CENSUS SURVEYS AND STATISTICS,,,,,
+02,Surveys and Statistics,,,,,
+203,Computer Services,,,,,
+#,State's Expenditure,,,,,
+AA,Government Data Centre,,,,,3454 02 203 AA 30000
+301,Salaries,"4,06,63","4,26,23","4,26,88","4,29,77",3454 02 203 AA 30100
+01,Pay,"3,54,28","3,69,64","3,69,64","3,72,03",3454 02 203 AA 30101
+02,Medical Allowance,"2,85","2,92","3,20","3,20",3454 02 203 AA 30102
+03,Medical Charges,52,"1,70",70,70,3454 02 203 AA 30103
+04,Other Allowances,"2,81","3,76","3,76","3,76",3454 02 203 AA 30104
+06,House Rent Allowance,"38,90","40,49","41,40","41,40",3454 02 203 AA 30106
+07,Travel Concession,4,21,50,"1,00",3454 02 203 AA 30107
+08,City Compensatory Allowance,"7,23","7,51","7,68","7,68",3454 02 203 AA 30108
+302,Wages,,1,,,3454 02 203 AA 30200
+01,Wages,,1,,,3454 02 203 AA 30201
+303,Dearness Allowance,"43,30","48,05","59,14","91,15",3454 02 203 AA 30300
+01,Dearness Allowance,"43,30","48,05","59,14","91,15",3454 02 203 AA 30301
+304,Travel Expenses,33,"1,01","1,01","1,01",3454 02 203 AA 30400
+01,Tour Travelling Allowances,33,"1,00","1,00","1,00",3454 02 203 AA 30401
+02,Transfer Travelling Allowances,,1,1,1,3454 02 203 AA 30402
+305,Office Expenses,"29,59","27,89","30,89","34,69",3454 02 203 AA 30500
+01,Telephone Charges,"8,82","6,33","6,33","6,33",3454 02 203 AA 30501
+02,Other Contingencies,"3,99","3,60","3,60","3,60",3454 02 203 AA 30502
+03,Electricity Charges,"13,08","14,75","14,75","14,75",3454 02 203 AA 30503
+04,Service Postage & Postal Expenditure,"3,70","3,20","6,20","10,00",3454 02 203 AA 30504
+05,Furniture,,1,1,1,3454 02 203 AA 30505
+306,"Rent, Rates and Taxes",31,33,"1,01",70,3454 02 203 AA 30600
+02,Property tax,26,27,95,64,3454 02 203 AA 30602
+03,Water Charges,5,6,6,6,3454 02 203 AA 30603
+308,Advertising and Publicity,,1,1,1,3454 02 203 AA 30800
+01,Advertisement Charges,,1,1,1,3454 02 203 AA 30801
+317,Minor Works,,,"13,70",,3454 02 203 AA 31700
+01,Minor Works,,,"13,70",,3454 02 203 AA 31701
+318,Maintenance,"2,93","3,50","4,50","3,50",3454 02 203 AA 31800
+01,Periodical Maintenance,"2,93","3,50","4,50","3,50",3454 02 203 AA 31801
+319,Machinery and Equipments,"1,55","1,01","1,01","1,01",3454 02 203 AA 31900
+01,Purchase,63,1,1,1,3454 02 203 AA 31901
+03,Maintenance,92,"1,00","1,00","1,00",3454 02 203 AA 31903
+321,Motor Vehicles,76,25,50,50,3454 02 203 AA 32100
+02,Maintenance of Functional Vehicles,76,25,50,50,3454 02 203 AA 32102
+324,Materials and Supplies,,1,1,1,3454 02 203 AA 32400
+01,Materials and Supplies,,1,1,1,3454 02 203 AA 32401
+333,Payments for Professional and Special Services,"33,56","18,01","18,01","18,50",3454 02 203 AA 33300
+01,Pleaders Fees,,1,1,50,3454 02 203 AA 33301
+04,Contract Payment,"33,56","18,00","18,00","18,00",3454 02 203 AA 33304
+334,Other Charges,13,14,14,14,3454 02 203 AA 33400
+02,"Purchase  of  Books & Periodicals to Libraries etc.,",13,14,14,14,3454 02 203 AA 33402
+345,"Petroleum, Oil and Lubricant","2,07","2,37","2,37","2,37",3454 02 203 AA 34500
+01,"Petroleum, Oil and Lubricant","2,07","2,37","2,37","2,37",3454 02 203 AA 34501
+349,Festival Advances,- 16,,,,3454 02 203 AA 34900
+01,Festival Advances-Debit,"3,40","4,55","9,70","9,70",3454 02 203 AA 34901
+02,Festival Advances-Credit,"- 3,56","- 4,55","- 9,70","- 9,70",3454 02 203 AA 34902
+351,Compensation,,2,2,2,3454 02 203 AA 35100
+02,Other Compensations  - Voted,,2,2,2,3454 02 203 AA 35102
+359,Prizes and Awards,4,2,4,4,3454 02 203 AA 35900
+01,Prizes and Awards,4,2,4,4,3454 02 203 AA 35901
+372,Training,47,"3,01","3,01","3,01",3454 02 203 AA 37200
+01,Training,47,"3,01","3,01","3,01",3454 02 203 AA 37201
+376,Computer and Accessories,"23,26","13,01","13,01","13,01",3454 02 203 AA 37600
+01,Purchase,"18,53",1,1,1,3454 02 203 AA 37601
+02,Maintenance,"2,95","4,00","4,00","4,00",3454 02 203 AA 37602
+03,Stationery,"1,78","9,00","9,00","9,00",3454 02 203 AA 37603
+AA,Total AA,"5,44,77","5,44,88","5,75,26","5,99,44",
+#,State's Expenditure Total,"5,44,77","5,44,88","5,75,26","5,99,44",
+203,Total 203,"5,44,77","5,44,88","5,75,26","5,99,44",
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+AA,Government Data Centre,,,,,3454 02 911 AA 30000
+377,Deduct-Recoveries,- 97,,,,3454 02 911 AA 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,- 97,,,,3454 02 911 AA 37702
+AA,Total AA,- 97,,,,
+#,State's Expenditure Total,- 97,,,,
+911,Total 911,- 97,,,,
+02,Total 02,"5,43,80","5,44,88","5,75,26","5,99,44",
+3454,Total 3454,"5,43,80","5,44,88","5,75,26","5,99,44",

@@ -1,0 +1,114 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2054-00,TREASURY AND ACCOUNTS ADMINISTRATION,,,,,
+098,Local Fund Audit,,,,,
+#,State's Expenditure,,,,,
+AC,State Housing Board,,,,,2054 00 098 AC 30000
+301,Salaries,"1,15,55","1,29,57","1,53,28","1,59,32",2054 00 098 AC 30100
+01,Pay,"1,01,56","1,18,91","1,39,90","1,45,49",2054 00 098 AC 30101
+02,Medical Allowance,41,43,91,91,2054 00 098 AC 30102
+03,Medical Charges,35,39,39,39,2054 00 098 AC 30103
+04,Other Allowances,6,27,93,93,2054 00 098 AC 30104
+06,House Rent Allowance,"11,17","7,51","9,74","10,13",2054 00 098 AC 30106
+07,Travel Concession,6,10,30,30,2054 00 098 AC 30107
+08,City Compensatory Allowance,"1,94","1,96","1,11","1,17",2054 00 098 AC 30108
+303,Dearness Allowance,"9,30","15,46","22,38","35,65",2054 00 098 AC 30300
+01,Dearness Allowance,"9,30","15,46","22,38","35,65",2054 00 098 AC 30301
+304,Travel Expenses,"2,54","4,33","4,33","4,33",2054 00 098 AC 30400
+01,Tour Travelling Allowances,"2,54","4,20","4,20","4,20",2054 00 098 AC 30401
+02,Transfer Travelling Allowances,,13,13,13,2054 00 098 AC 30402
+305,Office Expenses,22,40,40,40,2054 00 098 AC 30500
+02,Other Contingencies,22,40,40,40,2054 00 098 AC 30502
+349,Festival Advances,- 4,,,,2054 00 098 AC 34900
+01,Festival Advances-Debit,40,"1,00","2,80","2,80",2054 00 098 AC 34901
+02,Festival Advances-Credit,- 44,"- 1,00","- 2,80","- 2,80",2054 00 098 AC 34902
+359,Prizes and Awards,,2,2,2,2054 00 098 AC 35900
+01,Prizes and Awards,,2,2,2,2054 00 098 AC 35901
+AC,Total AC,"1,27,57","1,49,78","1,80,41","1,99,72",
+AD,Chief  Internal Auditor and Chief Auditor of Statutory Boards,,,,,2054 00 098 AD 30000
+301,Salaries,"15,17,96","15,74,24","15,22,25","15,82,28",2054 00 098 AD 30100
+01,Pay,"13,80,81","14,47,50","13,93,28","14,49,00",2054 00 098 AD 30101
+02,Medical Allowance,"8,69","9,08","9,10","9,10",2054 00 098 AD 30102
+03,Medical Charges,71,"1,47","1,47","1,47",2054 00 098 AD 30103
+04,Other Allowances,"9,27","5,93","9,23","9,23",2054 00 098 AD 30104
+06,House Rent Allowance,"1,05,23","96,42","97,48","1,01,37",2054 00 098 AD 30106
+07,Travel Concession,2,60,"1,00","1,00",2054 00 098 AD 30107
+08,City Compensatory Allowance,"13,23","13,24","10,69","11,11",2054 00 098 AD 30108
+302,Wages,94,"1,77","1,50","2,50",2054 00 098 AD 30200
+01,Wages,94,"1,77","1,50","2,50",2054 00 098 AD 30201
+303,Dearness Allowance,"1,31,88","1,88,17","2,22,92","3,55,00",2054 00 098 AD 30300
+01,Dearness Allowance,"1,31,88","1,88,17","2,22,92","3,55,00",2054 00 098 AD 30301
+304,Travel Expenses,"40,72","54,36","54,36","54,36",2054 00 098 AD 30400
+01,Tour Travelling Allowances,"40,52","53,80","53,80","53,80",2054 00 098 AD 30401
+02,Transfer Travelling Allowances,20,56,56,56,2054 00 098 AD 30402
+305,Office Expenses,"14,82","21,10","23,02","21,42",2054 00 098 AD 30500
+01,Telephone Charges,"3,67","7,20","7,52","7,52",2054 00 098 AD 30501
+02,Other Contingencies,"4,29","4,39","4,39","4,39",2054 00 098 AD 30502
+03,Electricity Charges,"5,08","7,00","8,60","7,00",2054 00 098 AD 30503
+04,Service Postage & Postal Expenditure,"1,78","2,50","2,50","2,50",2054 00 098 AD 30504
+05,Furniture,,1,1,1,2054 00 098 AD 30505
+306,"Rent, Rates and Taxes","44,90","48,00","48,00","48,00",2054 00 098 AD 30600
+01,Rent,"44,90","48,00","48,00","48,00",2054 00 098 AD 30601
+319,Machinery and Equipments,"1,52",11,11,11,2054 00 098 AD 31900
+01,Purchase,"1,52",1,1,1,2054 00 098 AD 31901
+03,Maintenance,,10,10,10,2054 00 098 AD 31903
+321,Motor Vehicles,,20,20,20,2054 00 098 AD 32100
+02,Maintenance of Functional Vehicles,,20,20,20,2054 00 098 AD 32102
+333,Payments for Professional and Special Services,,12,12,20,2054 00 098 AD 33300
+01,Pleaders Fees,,12,12,20,2054 00 098 AD 33301
+345,"Petroleum, Oil and Lubricant",51,90,"1,20","1,20",2054 00 098 AD 34500
+01,"Petroleum, Oil and Lubricant",51,90,"1,20","1,20",2054 00 098 AD 34501
+349,Festival Advances,- 27,,,,2054 00 098 AD 34900
+01,Festival Advances-Debit,"7,35","11,65","27,80","28,70",2054 00 098 AD 34901
+02,Festival Advances-Credit,"- 7,62","- 11,65","- 27,80","- 28,70",2054 00 098 AD 34902
+351,Compensation Charged,,1,1,1,2054 00 098 AD 35100
+52,Other Compensations Charged,,1,1,1,2054 00 098 AD 35152
+359,Prizes and Awards,,18,18,18,2054 00 098 AD 35900
+01,Prizes and Awards,,18,18,18,2054 00 098 AD 35901
+372,Training,,1,1,1,2054 00 098 AD 37200
+01,Training,,1,1,1,2054 00 098 AD 37201
+376,Computer and Accessories,"27,53","1,91","1,91","1,91",2054 00 098 AD 37600
+01,Purchase,"25,85",1,1,1,2054 00 098 AD 37601
+02,Maintenance,81,90,90,90,2054 00 098 AD 37602
+03,Stationery,87,"1,00","1,00","1,00",2054 00 098 AD 37603
+AD,Total AD Charged,,1,1,1,
+AD,Total AD Voted,"17,80,51","18,91,07","18,75,78","20,67,37",
+AF,Audit Staff for Puratchi Thalaivar M.G.R. Nutritious Meal Programme,,,,,2054 00 098 AF 30000
+301,Salaries,"14,90,65","14,28,69","18,72,80","19,46,79",2054 00 098 AF 30100
+01,Pay,"13,76,78","13,17,27","17,16,36","17,85,02",2054 00 098 AF 30101
+02,Medical Allowance,"8,84","8,04","11,21","11,21",2054 00 098 AF 30102
+03,Medical Charges,,14,14,14,2054 00 098 AF 30103
+04,Other Allowances,"7,73","8,68","11,37","11,37",2054 00 098 AF 30104
+06,House Rent Allowance,"89,35","89,96","1,20,08","1,24,89",2054 00 098 AF 30106
+07,Travel Concession,,30,50,50,2054 00 098 AF 30107
+08,City Compensatory Allowance,"7,95","4,30","13,14","13,66",2054 00 098 AF 30108
+303,Dearness Allowance,"1,20,68","1,71,25","2,74,62","4,37,33",2054 00 098 AF 30300
+01,Dearness Allowance,"1,20,68","1,71,25","2,74,62","4,37,33",2054 00 098 AF 30301
+304,Travel Expenses,"67,78","78,31","78,31","78,31",2054 00 098 AF 30400
+01,Tour Travelling Allowances,"67,78","78,00","78,00","78,00",2054 00 098 AF 30401
+02,Transfer Travelling Allowances,,31,31,31,2054 00 098 AF 30402
+305,Office Expenses,"1,06","1,10","1,10","1,10",2054 00 098 AF 30500
+02,Other Contingencies,"1,06","1,10","1,10","1,10",2054 00 098 AF 30502
+349,Festival Advances,- 29,,,,2054 00 098 AF 34900
+01,Festival Advances-Debit,"7,00","13,25","34,20","35,40",2054 00 098 AF 34901
+02,Festival Advances-Credit,"- 7,29","- 13,25","- 34,20","- 35,40",2054 00 098 AF 34902
+AF,Total AF,"16,79,88","16,79,35","22,26,83","24,63,53",
+AH,Cell for Data Management and Analytics System- Scheme  under State Innovation Fund,,,,,2054 00 098 AH 30000
+376,Computer and Accessories,,,"8,97",,2054 00 098 AH 37600
+01,Purchase,,,"8,97",,2054 00 098 AH 37601
+AH,Total AH,,,"8,97",,
+#,State's Expenditure Total Charged,,1,1,1,
+#,State's Expenditure Total Voted,"35,87,96","37,20,20","42,91,99","47,30,62",
+098,Total 098 Charged,,1,1,1,
+098,Total 098 Voted,"35,87,96","37,20,20","42,91,99","47,30,62",
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+AD,Chief Internal Auditor and Chief Auditor of Statutory Boards,,,,,2054 00 911 AD 30000
+377,Deduct-Recoveries,"- 1,55",,,,2054 00 911 AD 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"- 1,55",,,,2054 00 911 AD 37702
+AD,Total AD,"- 1,55",,,,
+#,State's Expenditure Total,"- 1,55",,,,
+911,Total 911,"- 1,55",,,,
+00,Total 00 Charged,,1,1,1,
+00,Total 00 Voted,"35,86,41","37,20,20","42,91,99","47,30,62",
+2054,Total 2054 Charged,,1,1,1,
+2054,Total 2054 Voted,"35,86,41","37,20,20","42,91,99","47,30,62",

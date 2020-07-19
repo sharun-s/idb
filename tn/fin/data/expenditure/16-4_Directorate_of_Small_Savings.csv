@@ -1,0 +1,202 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2047-00,OTHER FISCAL SERVICES,,,,,
+103,Promotion of Small Savings,,,,,
+#,State's Expenditure,,,,,
+AB,Headquarters Staff,,,,,2047 00 103 AB 30000
+301,Salaries,"1,63,94","1,78,01","1,78,47","1,85,74",2047 00 103 AB 30100
+01,Pay,"1,43,68","1,57,07","1,57,07","1,63,35",2047 00 103 AB 30101
+02,Medical Allowance,68,72,72,72,2047 00 103 AB 30102
+03,Medical Charges,62,"1,12","1,10","1,10",2047 00 103 AB 30103
+04,Other Allowances,"1,33","1,44","1,44","1,71",2047 00 103 AB 30104
+06,House Rent Allowance,"15,12","15,06","15,50","16,12",2047 00 103 AB 30106
+07,Travel Concession,,10,10,10,2047 00 103 AB 30107
+08,City Compensatory Allowance,"2,51","2,50","2,54","2,64",2047 00 103 AB 30108
+302,Wages,,1,1,1,2047 00 103 AB 30200
+01,Wages,,1,1,1,2047 00 103 AB 30201
+303,Dearness Allowance,"13,87","20,42","25,13","40,02",2047 00 103 AB 30300
+01,Dearness Allowance,"13,87","20,42","25,13","40,02",2047 00 103 AB 30301
+304,Travel Expenses,,34,45,45,2047 00 103 AB 30400
+01,Tour Travelling Allowances,,30,30,30,2047 00 103 AB 30401
+02,Transfer Travelling Allowances,,4,15,15,2047 00 103 AB 30402
+305,Office Expenses,"6,00","7,60","7,05","7,05",2047 00 103 AB 30500
+01,Telephone Charges,82,"1,34","1,34","1,34",2047 00 103 AB 30501
+02,Other Contingencies,"2,81","3,00","3,00","3,00",2047 00 103 AB 30502
+03,Electricity Charges,"1,97","2,70","2,20","2,20",2047 00 103 AB 30503
+04,Service Postage & Postal Expenditure,40,55,50,50,2047 00 103 AB 30504
+05,Furniture,,1,1,1,2047 00 103 AB 30505
+306,"Rent, Rates and Taxes","10,58","11,00","11,00","11,00",2047 00 103 AB 30600
+01,Rent,"10,58","11,00","11,00","11,00",2047 00 103 AB 30601
+319,Machinery and Equipments,,2,2,2,2047 00 103 AB 31900
+01,Purchase,,1,1,1,2047 00 103 AB 31901
+03,Maintenance,,1,1,1,2047 00 103 AB 31903
+321,Motor Vehicles,50,67,67,67,2047 00 103 AB 32100
+01,Purchase,,1,1,1,2047 00 103 AB 32101
+02,Maintenance of Functional Vehicles,50,66,66,66,2047 00 103 AB 32102
+333,Payments for Professional and Special Services,,21,21,21,2047 00 103 AB 33300
+01,Pleaders Fees,,20,20,20,2047 00 103 AB 33301
+03,Special Service,,1,1,1,2047 00 103 AB 33303
+345,"Petroleum, Oil and Lubricant","1,42","1,60","1,55","1,60",2047 00 103 AB 34500
+01,"Petroleum, Oil and Lubricant","1,42","1,60","1,55","1,60",2047 00 103 AB 34501
+349,Festival Advances,- 10,,,,2047 00 103 AB 34900
+01,Festival Advances-Debit,90,"1,15","2,50","2,50",2047 00 103 AB 34901
+02,Festival Advances-Credit,"- 1,00","- 1,15","- 2,50","- 2,50",2047 00 103 AB 34902
+351,Compensation Charged,,1,1,1,2047 00 103 AB 35100
+52,Other Compensations Charged,,1,1,1,2047 00 103 AB 35152
+359,Prizes and Awards,2,10,10,10,2047 00 103 AB 35900
+01,Prizes and Awards,2,10,10,10,2047 00 103 AB 35901
+372,Training,,1,1,1,2047 00 103 AB 37200
+01,Training,,1,1,1,2047 00 103 AB 37201
+376,Computer and Accessories,38,40,40,40,2047 00 103 AB 37600
+01,Purchase,,1,1,1,2047 00 103 AB 37601
+03,Stationery,38,39,39,39,2047 00 103 AB 37603
+AB,Total AB Charged,,1,1,1,
+AB,Total AB Voted,"1,96,61","2,20,39","2,25,07","2,47,28",
+AC,District Staff,,,,,2047 00 103 AC 30000
+301,Salaries,"6,26,91","6,14,00","6,08,88","6,34,07",2047 00 103 AC 30100
+01,Pay,"5,83,14","5,61,01","5,61,01","5,83,45",2047 00 103 AC 30101
+02,Medical Allowance,"3,81","3,90","3,90","3,90",2047 00 103 AC 30102
+03,Medical Charges,46,60,60,60,2047 00 103 AC 30103
+04,Other Allowances,"6,63","6,99","6,99","8,28",2047 00 103 AC 30104
+06,House Rent Allowance,"30,87","39,15","34,24","35,62",2047 00 103 AC 30106
+07,Travel Concession,14,10,10,10,2047 00 103 AC 30107
+08,City Compensatory Allowance,"1,86","2,25","2,04","2,12",2047 00 103 AC 30108
+302,Wages,31,36,36,36,2047 00 103 AC 30200
+01,Wages,31,36,36,36,2047 00 103 AC 30201
+303,Dearness Allowance,"58,37","72,93","89,76","1,42,95",2047 00 103 AC 30300
+01,Dearness Allowance,"58,37","72,93","89,76","1,42,95",2047 00 103 AC 30301
+304,Travel Expenses,"15,89","20,14","19,83","19,83",2047 00 103 AC 30400
+01,Tour Travelling Allowances,"15,78","20,00","19,80","19,80",2047 00 103 AC 30401
+02,Transfer Travelling Allowances,11,14,3,3,2047 00 103 AC 30402
+305,Office Expenses,"10,04","14,89","15,14","15,14",2047 00 103 AC 30500
+01,Telephone Charges,"1,49","4,45","4,45","4,45",2047 00 103 AC 30501
+02,Other Contingencies,"4,95","4,99","4,99","4,99",2047 00 103 AC 30502
+03,Electricity Charges,"2,86","4,50","5,00","5,00",2047 00 103 AC 30503
+04,Service Postage & Postal Expenditure,74,95,70,70,2047 00 103 AC 30504
+306,"Rent, Rates and Taxes",47,"1,50","1,00","1,00",2047 00 103 AC 30600
+01,Rent,47,"1,50","1,00","1,00",2047 00 103 AC 30601
+333,Payments for Professional and Special Services,"5,37","5,43","12,24","7,15",2047 00 103 AC 33300
+04,Contract Payment,"5,37","5,43","12,24","7,15",2047 00 103 AC 33304
+349,Festival Advances,- 21,,,,2047 00 103 AC 34900
+01,Festival Advances-Debit,"2,40","3,60","11,40","11,40",2047 00 103 AC 34901
+02,Festival Advances-Credit,"- 2,61","- 3,60","- 11,40","- 11,40",2047 00 103 AC 34902
+359,Prizes and Awards,6,20,10,10,2047 00 103 AC 35900
+01,Prizes and Awards,6,20,10,10,2047 00 103 AC 35901
+376,Computer and Accessories,1,1,1,1,2047 00 103 AC 37600
+03,Stationery,1,1,1,1,2047 00 103 AC 37603
+AC,Total AC,"7,17,22","7,29,46","7,47,32","8,20,61",
+AD,Publicity,,,,,2047 00 103 AD 30000
+301,Salaries,"13,69","22,37","22,37","23,28",2047 00 103 AD 30100
+01,Pay,"11,99","20,73","20,73","21,57",2047 00 103 AD 30101
+02,Medical Allowance,5,10,10,10,2047 00 103 AD 30102
+03,Medical Charges,8,16,15,15,2047 00 103 AD 30103
+04,Other Allowances,14,10,10,12,2047 00 103 AD 30104
+06,House Rent Allowance,"1,24","1,07","1,10","1,14",2047 00 103 AD 30106
+07,Travel Concession,1,1,1,1,2047 00 103 AD 30107
+08,City Compensatory Allowance,18,20,18,19,2047 00 103 AD 30108
+303,Dearness Allowance,"1,08","2,69","3,32","5,28",2047 00 103 AD 30300
+01,Dearness Allowance,"1,08","2,69","3,32","5,28",2047 00 103 AD 30301
+304,Travel Expenses,26,"1,11",61,61,2047 00 103 AD 30400
+01,Tour Travelling Allowances,26,"1,10",60,60,2047 00 103 AD 30401
+02,Transfer Travelling Allowances,,1,1,1,2047 00 103 AD 30402
+308,Advertising and Publicity,"15,25","20,34","19,10","19,10",2047 00 103 AD 30800
+01,Advertisement Charges,"3,30","6,74","5,50","5,50",2047 00 103 AD 30801
+02,Exhibition,"2,27","3,60","3,60","3,60",2047 00 103 AD 30802
+03,Demonstration,"9,68","10,00","10,00","10,00",2047 00 103 AD 30803
+313,Hospitality / Entertainment Expenditure,"1,01","1,15",99,99,2047 00 103 AD 31300
+01,Hospitality / Entertainment Expenditure,"1,01","1,15",99,99,2047 00 103 AD 31301
+321,Motor Vehicles,"1,57","1,64","1,64","1,64",2047 00 103 AD 32100
+02,Maintenance of Functional Vehicles,"1,57","1,64","1,64","1,64",2047 00 103 AD 32102
+345,"Petroleum, Oil and Lubricant","9,57","19,60","21,78","21,78",2047 00 103 AD 34500
+01,"Petroleum, Oil and Lubricant","9,57","19,60","21,78","21,78",2047 00 103 AD 34501
+349,Festival Advances,1,,,,2047 00 103 AD 34900
+01,Festival Advances-Debit,5,10,30,30,2047 00 103 AD 34901
+02,Festival Advances-Credit,- 4,- 10,- 30,- 30,2047 00 103 AD 34902
+351,Compensation,,1,1,1,2047 00 103 AD 35100
+01,Claims under no fault liability -  principal charges  - Voted,,1,1,1,2047 00 103 AD 35101
+359,Prizes and Awards,"9,50","10,00","10,00","10,00",2047 00 103 AD 35900
+01,Prizes and Awards,"9,50","10,00","10,00","10,00",2047 00 103 AD 35901
+372,Training,,1,1,1,2047 00 103 AD 37200
+01,Training,,1,1,1,2047 00 103 AD 37201
+376,Computer and Accessories,"1,97","2,38","2,38","2,38",2047 00 103 AD 37600
+02,Maintenance,"1,97","2,38","2,38","2,38",2047 00 103 AD 37602
+AD,Total AD,"53,91","81,30","82,21","85,08",
+AE,Office of the State Advisory Board,,,,,2047 00 103 AE 30000
+301,Salaries,,8,8,8,2047 00 103 AE 30100
+01,Pay,,1,1,1,2047 00 103 AE 30101
+02,Medical Allowance,,3,3,3,2047 00 103 AE 30102
+04,Other Allowances,,2,2,2,2047 00 103 AE 30104
+06,House Rent Allowance,,1,1,1,2047 00 103 AE 30106
+08,City Compensatory Allowance,,1,1,1,2047 00 103 AE 30108
+303,Dearness Allowance,,1,1,,2047 00 103 AE 30300
+01,Dearness Allowance,,1,1,,2047 00 103 AE 30301
+304,Travel Expenses,,2,2,2,2047 00 103 AE 30400
+01,Tour Travelling Allowances,,2,2,2,2047 00 103 AE 30401
+305,Office Expenses,,2,2,2,2047 00 103 AE 30500
+01,Telephone Charges,,1,1,1,2047 00 103 AE 30501
+02,Other Contingencies,,1,1,1,2047 00 103 AE 30502
+313,Hospitality / Entertainment Expenditure,,1,1,1,2047 00 103 AE 31300
+01,Hospitality / Entertainment Expenditure,,1,1,1,2047 00 103 AE 31301
+345,"Petroleum, Oil and Lubricant",,1,1,1,2047 00 103 AE 34500
+01,"Petroleum, Oil and Lubricant",,1,1,1,2047 00 103 AE 34501
+AE,Total AE,,15,15,14,
+AH,Pay Roll Savings Scheme Cell,,,,,2047 00 103 AH 30000
+301,Salaries,"27,20","22,56","21,30","22,14",2047 00 103 AH 30100
+01,Pay,"24,46","19,32","19,32","20,09",2047 00 103 AH 30101
+02,Medical Allowance,8,11,11,11,2047 00 103 AH 30102
+03,Medical Charges,8,24,5,5,2047 00 103 AH 30103
+04,Other Allowances,5,5,5,6,2047 00 103 AH 30104
+06,House Rent Allowance,"2,16","2,41","1,50","1,55",2047 00 103 AH 30106
+07,Travel Concession,,1,1,1,2047 00 103 AH 30107
+08,City Compensatory Allowance,37,42,26,27,2047 00 103 AH 30108
+303,Dearness Allowance,"2,13","2,51","3,08","4,92",2047 00 103 AH 30300
+01,Dearness Allowance,"2,13","2,51","3,08","4,92",2047 00 103 AH 30301
+304,Travel Expenses,55,71,71,71,2047 00 103 AH 30400
+01,Tour Travelling Allowances,55,70,70,70,2047 00 103 AH 30401
+02,Transfer Travelling Allowances,,1,1,1,2047 00 103 AH 30402
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,15,15,20,20,2047 00 103 AH 34901
+02,Festival Advances-Credit,- 15,- 15,- 20,- 20,2047 00 103 AH 34902
+AH,Total AH,"29,88","25,78","25,09","27,77",
+AI,Investors Incentive Scheme,,,,,2047 00 103 AI 30000
+339,Rewards,,1,1,1,2047 00 103 AI 33900
+01,Rewards,,1,1,1,2047 00 103 AI 33901
+AI,Total AI,1,1,1,,
+AJ,Agent's Incentive Scheme,,,,,2047 00 103 AJ 30000
+339,Rewards,,1,1,1,2047 00 103 AJ 33900
+01,Rewards,,1,1,1,2047 00 103 AJ 33901
+AJ,Total AJ,1,1,1,,
+#,State's Expenditure Total Charged,,1,1,1,
+#,State's Expenditure Total Voted,"9,97,62","10,57,10","10,79,86","11,80,90",
+103,Total 103 Charged,,1,1,1,
+103,Total Voted,"9,97,62","10,57,10","10,79,86","11,80,90",
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+AB,Headquarters Staff,,,,,2047 00 911 AB 30000
+377,Deduct-Recoveries,- 57,,,,2047 00 911 AB 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,- 57,,,,2047 00 911 AB 37702
+AB,Total AB,- 57,,,,
+AD,Publicity,,,,,2047 00 911 AD 30000
+377,Deduct-Recoveries,- 64,,- 36,,2047 00 911 AD 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,- 64,,- 36,,2047 00 911 AD 37702
+AD,Total AD,- 64,,- 36,,
+AJ,Agent's Incentive Scheme,,,,,2047 00 911 AJ 30000
+377,Deduct-Recoveries,- 93,,,,2047 00 911 AJ 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,- 93,,,,2047 00 911 AJ 37702
+AJ,Total AJ,- 93,,,,
+#,State's Expenditure Total,"- 2,14",,- 36,,
+911,Total 911,"- 2,14",,- 36,,
+00,Total 00 Charged,,1,1,1,
+00,Total 00 Voted,"9,95,48","10,57,10","10,79,50","11,80,90",
+2047,Total 2047 Charged,,1,1,1,
+2047,Total 2047 Voted,"9,95,48","10,57,10","10,79,50","11,80,90",
+3604-00,COMPENSATION AND ASSIGNMENTS TO LOCAL BODIES AND PANCHAYAT RAJ INSTITUTIONS,,,,,
+200,Other Miscellaneous Compensations and Assignments,,,,,
+#,State's Expenditure,,,,,
+BE,Local Bodies Incentive Scheme,,,,,3604 00 200 BE 30000
+309,Grants-in-Aid,,1,1,1,3604 00 200 BE 30900
+03,Grants for Specific Schemes,,1,1,1,3604 00 200 BE 30903
+BE,Total BE,1,1,1,,
+#,State's Expenditure Total,,1,1,1,
+200,Total 200,1,1,1,,
+00,Total 00,1,1,1,,
+3604,Total 3604,1,1,1,,

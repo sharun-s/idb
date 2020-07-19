@@ -1,0 +1,96 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2059,PUBLIC WORKS,,,,,
+01,Office Buildings,,,,,
+053,Maintenance and Repairs,,,,,
+#,State's Expenditure,,,,,
+DF,Buildings - Directorate of Pension (Administered by Chief Engineer - Buildings),,,,,2059 01 053 DF 30000
+318,Maintenance,91,"2,50","2,50","2,50",2059 01 053 DF 31800
+01,Periodical Maintenance,91,"2,50","2,50","2,50",2059 01 053 DF 31801
+DF,Total DF,91,"2,50","2,50","2,50",
+#,State's Expenditure Total,91,"2,50","2,50","2,50",
+053,Total 053,91,"2,50","2,50","2,50",
+01,Total 01,91,"2,50","2,50","2,50",
+2059,Total 2059,91,"2,50","2,50","2,50",
+2075-00,MISCELLANEOUS GENERAL SERVICES,,,,,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+GI,Directorate of Pension,,,,,2075 00 800 GI 30000
+301,Salaries,"1,69,67","1,72,53","1,73,23","1,79,89",2075 00 800 GI 30100
+01,Pay,"1,47,68","1,49,53","1,50,02","1,56,02",2075 00 800 GI 30101
+02,Medical Allowance,98,87,"1,01","1,01",2075 00 800 GI 30102
+03,Medical Charges,49,80,80,50,2075 00 800 GI 30103
+04,Other Allowances,"1,00","1,24","1,31","1,31",2075 00 800 GI 30104
+06,House Rent Allowance,"16,35","16,62","16,62","17,28",2075 00 800 GI 30106
+07,Travel Concession,31,47,47,47,2075 00 800 GI 30107
+08,City Compensatory Allowance,"2,86","3,00","3,00","3,30",2075 00 800 GI 30108
+302,Wages,,1,1,1,2075 00 800 GI 30200
+01,Wages,,1,1,1,2075 00 800 GI 30201
+303,Dearness Allowance,"18,30","19,44","24,00","38,22",2075 00 800 GI 30300
+01,Dearness Allowance,"18,30","19,44","24,00","38,22",2075 00 800 GI 30301
+304,Travel Expenses,"3,50","6,10","4,50","5,00",2075 00 800 GI 30400
+01,Tour Travelling Allowances,"3,50","6,10","4,50","5,00",2075 00 800 GI 30401
+305,Office Expenses,"3,87","4,82","4,82","4,82",2075 00 800 GI 30500
+01,Telephone Charges,50,"1,00","1,00","1,00",2075 00 800 GI 30501
+02,Other Contingencies,"1,79","1,80","1,80","1,80",2075 00 800 GI 30502
+03,Electricity Charges,8,1,1,1,2075 00 800 GI 30503
+04,Service Postage & Postal Expenditure,"1,50","2,00","2,00","2,00",2075 00 800 GI 30504
+05,Furniture,,1,1,1,2075 00 800 GI 30505
+317,Minor Works,,1,1,1,2075 00 800 GI 31700
+01,Minor Works,,1,1,1,2075 00 800 GI 31701
+318,Maintenance,,1,1,1,2075 00 800 GI 31800
+01,Periodical Maintenance,,1,1,1,2075 00 800 GI 31801
+319,Machinery and Equipments,67,29,51,31,2075 00 800 GI 31900
+01,Purchase,,1,1,1,2075 00 800 GI 31901
+03,Maintenance,67,28,50,30,2075 00 800 GI 31903
+321,Motor Vehicles,7,25,25,25,2075 00 800 GI 32100
+01,Purchase,,1,1,1,2075 00 800 GI 32101
+02,Maintenance of Functional Vehicles,7,24,24,24,2075 00 800 GI 32102
+324,Materials and Supplies,,1,1,1,2075 00 800 GI 32400
+01,Materials and Supplies,,1,1,1,2075 00 800 GI 32401
+325,Interest,,1,1,1,2075 00 800 GI 32500
+01,Interest,,1,1,1,2075 00 800 GI 32501
+333,Payments for Professional and Special Services,"25,56","27,35","19,02","19,12",2075 00 800 GI 33300
+01,Pleaders Fees,,1,1,1,2075 00 800 GI 33301
+04,Contract Payment,"25,56","27,33","19,00","19,10",2075 00 800 GI 33304
+09,Other Payments,,1,1,1,2075 00 800 GI 33309
+345,"Petroleum, Oil and Lubricant","1,23","1,66","1,46","1,52",2075 00 800 GI 34500
+01,"Petroleum, Oil and Lubricant","1,23","1,66","1,46","1,52",2075 00 800 GI 34501
+349,Festival Advances,9,,,,2075 00 800 GI 34900
+01,Festival Advances-Debit,"1,00","1,25","3,00","3,00",2075 00 800 GI 34901
+02,Festival Advances-Credit,- 91,"- 1,25","- 3,00","- 3,00",2075 00 800 GI 34902
+351,Compensation Charged,,1,1,1,2075 00 800 GI 35100
+52,Other Compensations Charged,,1,1,1,2075 00 800 GI 35152
+359,Prizes and Awards,,1,2,2,2075 00 800 GI 35900
+01,Prizes and Awards,,1,2,2,2075 00 800 GI 35901
+372,Training,,1,1,1,2075 00 800 GI 37200
+01,Training,,1,1,1,2075 00 800 GI 37201
+376,Computer and Accessories,"3,33","3,51","3,51","3,51",2075 00 800 GI 37600
+01,Purchase,92,1,"1,01",1,2075 00 800 GI 37601
+02,Maintenance,"1,50","1,50","1,50","1,50",2075 00 800 GI 37602
+03,Stationery,91,"2,00","1,00","2,00",2075 00 800 GI 37603
+GI,Total GI Charged,,1,1,1,
+GI,Total GI Voted,"2,26,29","2,36,02","2,31,38","2,52,72",
+#,State's Expenditure Total,,,,,
+800,Total 800 Charged,,1,1,1,
+800,Total 800 Voted,"2,26,29","2,36,02","2,31,38","2,52,72",
+00,Total 00 Charged,,1,1,1,
+00,Total 00 Voted,"2,26,29","2,36,02","2,31,38","2,52,72",
+2075,Total 2075 Charged,,1,1,1,
+2075,Total 2075 Voted,"2,26,29","2,36,02","2,31,38","2,52,72",
+2235,SOCIAL SECURITY AND WELFARE,,,,,
+60,Other Social Security,,,,,
+and,Welfare Programmes,,,,,
+200,Other Programmes,,,,,
+#,State's Expenditure,,,,,
+BE,Tamil Nadu Government Employees Special Provident Fund - cum - Gratuity Scheme,,,,,2235 60 200 BE 30000
+310,Contributions,"25,00,00","25,00,00","25,82,00","32,54,00",2235 60 200 BE 31000
+01,Contribution to Specific Fund,"25,00,00","25,00,00","25,82,00","32,54,00",2235 60 200 BE 31001
+BE,Total BE,"25,00,00","25,00,00","25,82,00","32,54,00",
+BI,Village Officers Special Provident Fund,,,,,2235 60 200 BI 30000
+310,Contributions,"10,00","10,00","6,00","6,50",2235 60 200 BI 31000
+09,Others,"10,00","10,00","6,00","6,50",2235 60 200 BI 31009
+BI,Total BI,"10,00","10,00","6,00","6,50",
+#,State's Expenditure Total,"25,10,00","25,10,00","25,88,00","32,60,50",
+200,Total 200,"25,10,00","25,10,00","25,88,00","32,60,50",
+60,Total 60,"25,10,00","25,10,00","25,88,00","32,60,50",
+2235,Total 2235,"25,10,00","25,10,00","25,88,00","32,60,50",

@@ -1,0 +1,143 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2425-00,CO-OPERATION,,,,,
+101,Audit of Co-Operatives,,,,,
+#,State's Expenditure,,,,,
+AB,Headquarters Staff,,,,,2425 00 101 AB 30000
+301,Salaries,"2,38,05","2,81,56","2,33,45","3,15,89",2425 00 101 AB 30100
+01,Pay,"2,09,93","2,54,60","2,03,45","2,85,89",2425 00 101 AB 30101
+02,Medical Allowance,"1,39","1,16","1,22","1,22",2425 00 101 AB 30102
+03,Medical Charges,26,15,50,50,2425 00 101 AB 30103
+04,Other Allowances,"1,00",66,71,71,2425 00 101 AB 30104
+06,House Rent Allowance,"21,60","21,77","23,98","23,98",2425 00 101 AB 30106
+07,Travel Concession,,10,10,10,2425 00 101 AB 30107
+08,City Compensatory Allowance,"3,87","3,12","3,49","3,49",2425 00 101 AB 30108
+302,Wages,,1,1,1,2425 00 101 AB 30200
+01,Wages,,1,1,1,2425 00 101 AB 30201
+303,Dearness Allowance,"18,41","33,10","32,55","70,04",2425 00 101 AB 30300
+01,Dearness Allowance,"18,41","33,10","32,55","70,04",2425 00 101 AB 30301
+304,Travel Expenses,"1,31","4,18","4,18","4,18",2425 00 101 AB 30400
+01,Tour Travelling Allowances,"1,26","4,08","4,08","4,08",2425 00 101 AB 30401
+02,Transfer Travelling Allowances,5,10,10,10,2425 00 101 AB 30402
+305,Office Expenses,"3,48","3,91","9,80","4,06",2425 00 101 AB 30500
+01,Telephone Charges,"1,04","1,33","7,24","1,75",2425 00 101 AB 30501
+02,Other Contingencies,"1,64","1,75","1,75","1,50",2425 00 101 AB 30502
+04,Service Postage & Postal Expenditure,80,82,80,80,2425 00 101 AB 30504
+05,Furniture,,1,1,1,2425 00 101 AB 30505
+313,Hospitality / Entertainment Expenditure,27,"1,00","1,00","2,00",2425 00 101 AB 31300
+01,Hospitality / Entertainment Expenditure,27,"1,00","1,00","2,00",2425 00 101 AB 31301
+319,Machinery and Equipments,"4,31","1,57","7,63","1,60",2425 00 101 AB 31900
+01,Purchase,,,"6,03",,2425 00 101 AB 31901
+03,Maintenance,"4,31","1,57","1,60","1,60",2425 00 101 AB 31903
+321,Motor Vehicles,60,11,51,51,2425 00 101 AB 32100
+01,Purchase,,1,1,1,2425 00 101 AB 32101
+02,Maintenance of Functional Vehicles,60,10,50,50,2425 00 101 AB 32102
+333,Payments for Professional and Special Services,"1,90","5,70","11,03","10,78",2425 00 101 AB 33300
+01,Pleaders Fees,79,"1,00","1,27","1,02",2425 00 101 AB 33301
+04,Contract Payment,"1,11","4,70","9,76","9,76",2425 00 101 AB 33304
+345,"Petroleum, Oil and Lubricant",87,"2,00","2,25","2,46",2425 00 101 AB 34500
+01,"Petroleum, Oil and Lubricant",87,"2,00","2,25","2,46",2425 00 101 AB 34501
+349,Festival Advances,15,,,,2425 00 101 AB 34900
+01,Festival Advances-Debit,"1,55","2,26","3,70","3,70",2425 00 101 AB 34901
+02,Festival Advances-Credit,"- 1,40","- 2,26","- 3,70","- 3,70",2425 00 101 AB 34902
+359,Prizes and Awards,2,10,4,4,2425 00 101 AB 35900
+01,Prizes and Awards,2,10,4,4,2425 00 101 AB 35901
+372,Training,,,"10,00",,2425 00 101 AB 37200
+01,Training,,,"10,00",,2425 00 101 AB 37201
+376,Computer and Accessories,"1,53,24","2,08","2,36","2,26",2425 00 101 AB 37600
+01,Purchase,"1,52,15",1,1,1,2425 00 101 AB 37601
+02,Maintenance,33,97,"1,25","1,25",2425 00 101 AB 37602
+03,Stationery,76,"1,10","1,10","1,00",2425 00 101 AB 37603
+AB,Total AB,"4,22,61","3,35,32","3,14,81","4,13,83",
+AC,District Staff,,,,,2425 00 101 AC 30000
+301,Salaries,"68,55,12","68,45,08","68,12,43","69,84,65",2425 00 101 AC 30100
+01,Pay,"63,01,77","62,29,29","62,31,60","63,82,76",2425 00 101 AC 30101
+02,Medical Allowance,"42,71","43,78","37,62","37,62",2425 00 101 AC 30102
+03,Medical Charges,"2,98","2,69","3,91","2,75",2425 00 101 AC 30103
+04,Other Allowances,"36,97","48,26","32,39","32,39",2425 00 101 AC 30104
+06,House Rent Allowance,"4,30,57","4,86,49","4,71,91","4,92,50",2425 00 101 AC 30106
+07,Travel Concession,27,65,30,30,2425 00 101 AC 30107
+08,City Compensatory Allowance,"39,85","33,92","34,70","36,33",2425 00 101 AC 30108
+302,Wages,98,"1,04","7,21","5,99",2425 00 101 AC 30200
+01,Wages,98,"1,04","7,21","5,99",2425 00 101 AC 30201
+303,Dearness Allowance,"5,85,63","8,09,80","9,97,06","15,63,78",2425 00 101 AC 30300
+01,Dearness Allowance,"5,85,63","8,09,80","9,97,06","15,63,78",2425 00 101 AC 30301
+304,Travel Expenses,"2,69,12","3,40,66","3,40,40","3,40,40",2425 00 101 AC 30400
+01,Tour Travelling Allowances,"2,61,17","3,29,90","3,29,90","3,29,90",2425 00 101 AC 30401
+02,Transfer Travelling Allowances,27,76,50,50,2425 00 101 AC 30402
+03,Fixed Travelling Allowances,"7,68","10,00","10,00","10,00",2425 00 101 AC 30403
+305,Office Expenses,"13,37","16,40","21,82","21,65",2425 00 101 AC 30500
+01,Telephone Charges,"3,84","4,79","4,79","4,37",2425 00 101 AC 30501
+02,Other Contingencies,"1,35","1,26","1,40","1,65",2425 00 101 AC 30502
+03,Electricity Charges,"5,67","6,31","11,88","11,88",2425 00 101 AC 30503
+04,Service Postage & Postal Expenditure,"2,51","4,04","3,75","3,75",2425 00 101 AC 30504
+306,"Rent, Rates and Taxes","41,41","44,29","51,74","51,68",2425 00 101 AC 30600
+01,Rent,"41,41","44,29","51,74","51,68",2425 00 101 AC 30601
+319,Machinery and Equipments,,"1,65","1,62","1,62",2425 00 101 AC 31900
+03,Maintenance,,"1,65","1,62","1,62",2425 00 101 AC 31903
+321,Motor Vehicles,,5,20,20,2425 00 101 AC 32100
+02,Maintenance of Functional Vehicles,,5,20,20,2425 00 101 AC 32102
+333,Payments for Professional and Special Services,"1,04",5,3,3,2425 00 101 AC 33300
+01,Pleaders Fees,,3,1,1,2425 00 101 AC 33301
+03,Special Service,,1,1,1,2425 00 101 AC 33303
+04,Contract Payment,"1,04",1,1,1,2425 00 101 AC 33304
+345,"Petroleum, Oil and Lubricant",19,80,80,80,2425 00 101 AC 34500
+01,"Petroleum, Oil and Lubricant",19,80,80,80,2425 00 101 AC 34501
+349,Festival Advances,79,,,,2425 00 101 AC 34900
+01,Festival Advances-Debit,"36,95","66,19","1,16,20","1,16,20",2425 00 101 AC 34901
+02,Festival Advances-Credit,"- 36,16","- 66,19","- 1,16,20","- 1,16,20",2425 00 101 AC 34902
+359,Prizes and Awards,12,34,24,24,2425 00 101 AC 35900
+01,Prizes and Awards,12,34,24,24,2425 00 101 AC 35901
+372,Training,"10,00","10,00","10,00","10,00",2425 00 101 AC 37200
+01,Training,"10,00","10,00","10,00","10,00",2425 00 101 AC 37201
+376,Computer and Accessories,"1,68","2,83","2,84","2,96",2425 00 101 AC 37600
+01,Purchase,26,,1,1,2425 00 101 AC 37601
+02,Maintenance,70,"1,99","1,99","1,99",2425 00 101 AC 37602
+03,Stationery,72,84,84,96,2425 00 101 AC 37603
+AC,Total AC,"77,79,45","80,72,99","82,46,39","89,84,00",
+AD,Regional Staff,,,,,2425 00 101 AD 30000
+301,Salaries,"2,44,98","3,38,13","3,23,99","3,59,80",2425 00 101 AD 30100
+01,Pay,"2,23,11","3,17,29","3,00,31","3,36,12",2425 00 101 AD 30101
+02,Medical Allowance,"1,49","1,26","1,22","1,22",2425 00 101 AD 30102
+03,Medical Charges,4,6,25,25,2425 00 101 AD 30103
+04,Other Allowances,"2,36",90,87,87,2425 00 101 AD 30104
+06,House Rent Allowance,"15,59","16,52","18,76","18,76",2425 00 101 AD 30106
+07,Travel Concession,,10,10,10,2425 00 101 AD 30107
+08,City Compensatory Allowance,"2,39","2,00","2,48","2,48",2425 00 101 AD 30108
+302,Wages,20,22,"1,00","1,25",2425 00 101 AD 30200
+01,Wages,20,22,"1,00","1,25",2425 00 101 AD 30201
+303,Dearness Allowance,"22,79","41,25","48,05","82,35",2425 00 101 AD 30300
+01,Dearness Allowance,"22,79","41,25","48,05","82,35",2425 00 101 AD 30301
+304,Travel Expenses,"3,35","4,20","4,20","4,20",2425 00 101 AD 30400
+01,Tour Travelling Allowances,"3,27","4,00","4,00","4,00",2425 00 101 AD 30401
+02,Transfer Travelling Allowances,8,20,20,20,2425 00 101 AD 30402
+305,Office Expenses,"4,77","9,31","7,67","7,67",2425 00 101 AD 30500
+01,Telephone Charges,"2,44","3,06","3,06","3,06",2425 00 101 AD 30501
+02,Other Contingencies,77,44,60,60,2425 00 101 AD 30502
+03,Electricity Charges,94,"4,08","3,00","3,00",2425 00 101 AD 30503
+04,Service Postage & Postal Expenditure,62,"1,72","1,00","1,00",2425 00 101 AD 30504
+05,Furniture,,1,1,1,2425 00 101 AD 30505
+306,"Rent, Rates and Taxes","8,01","8,43","8,37","8,43",2425 00 101 AD 30600
+01,Rent,"8,01","8,43","8,37","8,43",2425 00 101 AD 30601
+319,Machinery and Equipments,57,"1,41","1,41","1,41",2425 00 101 AD 31900
+01,Purchase,19,1,1,1,2425 00 101 AD 31901
+03,Maintenance,38,"1,40","1,40","1,40",2425 00 101 AD 31903
+321,Motor Vehicles,,5,"1,50","1,50",2425 00 101 AD 32100
+02,Maintenance of Functional Vehicles,,5,"1,50","1,50",2425 00 101 AD 32102
+333,Payments for Professional and Special Services,"6,85","17,11","17,11","17,11",2425 00 101 AD 33300
+01,Pleaders Fees,"4,47",1,1,1,2425 00 101 AD 33301
+04,Contract Payment,"2,38","17,10","17,10","17,10",2425 00 101 AD 33304
+345,"Petroleum, Oil and Lubricant","1,78","2,96","3,00","3,40",2425 00 101 AD 34500
+01,"Petroleum, Oil and Lubricant","1,78","2,96","3,00","3,40",2425 00 101 AD 34501
+349,Festival Advances,8,,,,2425 00 101 AD 34900
+01,Festival Advances-Debit,"1,30","2,25","4,60","4,60",2425 00 101 AD 34901
+02,Festival Advances-Credit,"- 1,22","- 2,25","- 4,60","- 4,60",2425 00 101 AD 34902
+359,Prizes and Awards,,6,2,2,2425 00 101 AD 35900
+01,Prizes and Awards,,6,2,2,2425 00 101 AD 35901
+376,Computer and Accessories,70,94,"1,22","1,20",2425 00 101 AD 37600
+02,Maintenance,49,72,"1,00","1,00",2425 00 101 AD 37602
+03,Stationery,21,22,22,20,2425 00 101 AD 37603
+AD,Total AD,"2,94,08","4,24,07","4,17,54","4,88,34",
+#,State's Expenditure Total,"84,96,14","88,32,38","89,78,74","98,86,17",
+101,Total 101,"84,96,14","88,32,38","89,78,74","98,86,17",
+00,Total 00,"84,96,14","88,32,38","89,78,74","98,86,17",
+2425,Total 2425,"84,96,14","88,32,38","89,78,74","98,86,17",
