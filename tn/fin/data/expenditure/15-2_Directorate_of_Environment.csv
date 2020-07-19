@@ -1,0 +1,198 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+3435,ECOLOGY AND ENVIRONMENT,,,,,
+03,Environmental Research and Ecological Regeneration,,,,,
+001,Direction and Administration,,,,,
+#,State's Expenditure,,,,,
+AA,Environment Department,,,,,3435 03 001 AA 30000
+301,Salaries,"78,24","1,05,57","1,31,64","1,36,05",3435 03 001 AA 30100
+01,Pay,"66,04","85,80","1,10,00","1,14,40",3435 03 001 AA 30101
+02,Medical Allowance,45,56,60,60,3435 03 001 AA 30102
+03,Medical Charges,10,"1,00",50,50,3435 03 001 AA 30103
+04,Other Allowances,"1,54","2,99","2,99","3,00",3435 03 001 AA 30104
+06,House Rent Allowance,"8,92","13,18","15,00","15,00",3435 03 001 AA 30106
+07,Travel Concession,,55,55,55,3435 03 001 AA 30107
+08,City Compensatory Allowance,"1,19","1,49","2,00","2,00",3435 03 001 AA 30108
+302,Wages,,1,1,1,3435 03 001 AA 30200
+01,Wages,,1,1,1,3435 03 001 AA 30201
+303,Dearness Allowance,"5,66","11,85","17,60","28,03",3435 03 001 AA 30300
+01,Dearness Allowance,"5,66","11,85","17,60","28,03",3435 03 001 AA 30301
+304,Travel Expenses,17,"1,39",99,99,3435 03 001 AA 30400
+01,Tour Travelling Allowances,17,"1,29",95,95,3435 03 001 AA 30401
+02,Transfer Travelling Allowances,,10,4,4,3435 03 001 AA 30402
+305,Office Expenses,"5,12","7,51","7,40","7,40",3435 03 001 AA 30500
+01,Telephone Charges,33,41,45,45,3435 03 001 AA 30501
+02,Other Contingencies,"1,92","2,10","2,00","2,00",3435 03 001 AA 30502
+03,Electricity Charges,"2,42","4,50","4,50","4,50",3435 03 001 AA 30503
+04,Service Postage & Postal Expenditure,45,50,45,45,3435 03 001 AA 30504
+306,"Rent, Rates and Taxes","5,56","6,00","15,00","10,00",3435 03 001 AA 30600
+01,Rent,"5,56","6,00","15,00","10,00",3435 03 001 AA 30601
+307,Publications,,1,1,1,3435 03 001 AA 30700
+01,Publications,,1,1,1,3435 03 001 AA 30701
+308,Advertising and Publicity,"54,00",2,2,2,3435 03 001 AA 30800
+02,Exhibition,,1,1,1,3435 03 001 AA 30802
+09,Others,"54,00",1,1,1,3435 03 001 AA 30809
+309,Grants-in-Aid,"2,78,04",2,2,2,3435 03 001 AA 30900
+03,Grants for Specific Schemes,"2,28,04",1,1,1,3435 03 001 AA 30903
+09,Others,"50,00",1,1,1,3435 03 001 AA 30909
+319,Machinery and Equipments,,1,1,1,3435 03 001 AA 31900
+01,Purchase,,1,1,1,3435 03 001 AA 31901
+321,Motor Vehicles,18,25,25,25,3435 03 001 AA 32100
+02,Maintenance of Functional Vehicles,18,25,25,25,3435 03 001 AA 32102
+333,Payments for Professional and Special Services,"4,24","3,61","7,21","7,21",3435 03 001 AA 33300
+03,Special Service,,1,1,1,3435 03 001 AA 33303
+04,Contract Payment,"4,24","3,60","7,20","7,20",3435 03 001 AA 33304
+345,"Petroleum, Oil and Lubricant","1,66","3,00","3,00","3,00",3435 03 001 AA 34500
+01,"Petroleum, Oil and Lubricant","1,66","3,00","3,00","3,00",3435 03 001 AA 34501
+346,"Clothing, Tentage and Stores",9,12,12,12,3435 03 001 AA 34600
+01,"Clothing, Tentage and Stores",9,12,12,12,3435 03 001 AA 34601
+349,Festival Advances,- 4,,,,3435 03 001 AA 34900
+01,Festival Advances-Debit,40,70,"2,00","2,00",3435 03 001 AA 34901
+02,Festival Advances-Credit,- 44,- 70,"- 2,00","- 2,00",3435 03 001 AA 34902
+351,Compensation Charged,,1,,,3435 03 001 AA 35100,
+351,Compensation Voted,,1,,,3435 03 001 AA 35100,
+01,Claims under no fault liability -  principal charges Voted,,1,,,3435 03 001 AA 35101
+51,Claims under no fault liability -  principal charges Charged,,1,,,3435 03 001 AA 35151,
+359,Prizes and Awards,"1,31","2,00","1,50","1,50",3435 03 001 AA 35900
+01,Prizes and Awards,"1,31","2,00","1,50","1,50",3435 03 001 AA 35901
+372,Training,,1,1,1,3435 03 001 AA 37200
+01,Training,,1,1,1,3435 03 001 AA 37201
+376,Computer and Accessories,59,60,"2,65",61,3435 03 001 AA 37600
+01,Purchase,,,"2,05",1,3435 03 001 AA 37601
+03,Stationery,59,60,60,60,3435 03 001 AA 37603
+AA,Total AA Charged,,1,,,
+AA,Total AA Voted,"4,34,82","1,41,99","1,87,44","1,95,24",
+JC,Award for best Ad-film on Environmental protection under State Innovation Fund,,,,,3435 03 001 JC 30000
+309,Grants-in-Aid,"20,00",1,"30,00",1,3435 03 001 JC 30900
+03,Grants for Specific Schemes,"20,00",1,"30,00",1,3435 03 001 JC 30903
+JC,Total JC,"20,00",1,"30,00",1,
+#,State's Expenditure Total Charged,,1,,,
+#,State's Expenditure Total Voted,,,,,
+001,Total 001,"4,54,82","1,42,00","2,17,44","1,95,25",
+003,Environmental Training Charged,,1,,,,
+003,Environmental Training Voted,"4,54,82","1,42,00","2,17,44","1,95,25",,
+#,State's Expenditure,,,,,
+AA,Formation of Environment Clubs in all Government - Government Aided Educational Institutions,,,,,3435 03 003 AA 30000
+309,Grants-in-Aid,,1,1,1,3435 03 003 AA 30900
+01,Grants for Current Expenditure,,1,1,1,3435 03 003 AA 30901
+AA,Total AA,1,1,1,,
+JC,"Grants to the Centre for Climate Change, Chennai",,,,,3435 03 003 JC 30000
+309,Grants-in-Aid,,1,1,1,3435 03 003 JC 30900
+01,Grants for Current Expenditure,,1,1,1,3435 03 003 JC 30901
+JC,Total JC,1,1,1,,
+JE,"Information, Education and Communication campaigns for sensitising the public to eschew non-degrading plastics",,,,,3435 03 003 JE 30000
+308,Advertising and Publicity,"64,00",1,1,1,3435 03 003 JE 30800
+03,Demonstration,"64,00",1,1,1,3435 03 003 JE 30803
+309,Grants-in-Aid,,1,1,1,3435 03 003 JE 30900
+09,Others,,1,1,1,3435 03 003 JE 30909
+JE,Total JE,"64,00",2,2,2,
+JG,E-learning - Interactive Online Environmental Awareness for School Children - Schemes under State Innovation Fund,,,,,3435 03 003 JG 30000
+309,Grants-in-Aid,"14,16",1,1,1,3435 03 003 JG 30900
+03,Grants for Specific Schemes,"14,16",1,1,1,3435 03 003 JG 30903
+JG,Total JG,"14,16",1,1,1,
+#,State's Expenditure Total,"78,16",5,5,5,
+003,Total 003,"78,16",5,5,5,
+902,Deduct - Amount met from State Innovation Fund,,,,,
+#,State's Expenditure,,,,,
+JA,Deduct - Amount met from State Innovation Fund,,,,,3435 03 902 JA 30000
+330,Inter-Account Transfers,"- 34,16",- 1,- 2,- 1,3435 03 902 JA 33000
+01,Inter-Account Transfers,"- 34,16",- 1,- 2,- 1,3435 03 902 JA 33001
+JA,Total JA,"- 34,16",- 1,- 2,- 1,
+#,State's Expenditure Total,"- 34,16",- 1,- 2,- 1,
+902,Total 902,"- 34,16",- 1,- 2,- 1,
+03,Total 03,,,,,
+Voted,"4,98,82","1,42,04","2,17,47","1,95,29",,
+04,Prevention and Control of Pollution,,,,,
+103,Prevention of Air and Water Pollution,,,,,
+#,State's Expenditure,,,,,
+AA,Establishment of Project Management Cell for the Cauvery Action Programme,,,,,3435 04 103 AA 30000
+301,Salaries,"10,37","14,53","17,16","17,76",3435 04 103 AA 30100
+01,Pay,"9,04","13,00","15,00","15,60",3435 04 103 AA 30101
+02,Medical Allowance,4,4,8,8,3435 04 103 AA 30102
+03,Medical Charges,,1,1,1,3435 04 103 AA 30103
+04,Other Allowances,,1,1,1,3435 04 103 AA 30104
+06,House Rent Allowance,"1,12","1,25","1,75","1,75",3435 04 103 AA 30106
+07,Travel Concession,,1,1,1,3435 04 103 AA 30107
+08,City Compensatory Allowance,17,21,30,30,3435 04 103 AA 30108
+303,Dearness Allowance,77,"1,00","2,40","3,82",3435 04 103 AA 30300
+01,Dearness Allowance,77,"1,00","2,40","3,82",3435 04 103 AA 30301
+304,Travel Expenses,,2,6,6,3435 04 103 AA 30400
+01,Tour Travelling Allowances,,1,5,5,3435 04 103 AA 30401
+02,Transfer Travelling Allowances,,1,1,1,3435 04 103 AA 30402
+305,Office Expenses,5,9,9,9,3435 04 103 AA 30500
+01,Telephone Charges,5,9,9,9,3435 04 103 AA 30501
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,5,15,30,30,3435 04 103 AA 34901
+02,Festival Advances-Credit,- 5,- 15,- 30,- 30,3435 04 103 AA 34902
+AA,Total AA,"11,19","15,64","19,71","21,73",
+#,State's Expenditure Total,"11,19","15,64","19,71","21,73",
+103,Total 103,"11,19","15,64","19,71","21,73",
+04,Total 04,"11,19","15,64","19,71","21,73",
+60,Others,,,,,
+797,Transfer to Reserve Fund and Deposit Account,,,,,
+#,State's Expenditure,,,,,
+JB,Amount Transferred to State Coastal Zone Development Fund,,,,,3435 60 797 JB 30000
+330,Inter-Account Transfers,"1,50,00",1,"1,41,00","20,00",3435 60 797 JB 33000
+01,Inter-Account Transfers,"1,50,00",1,"1,41,00","20,00",3435 60 797 JB 33001
+JB,Total JB,"1,50,00",1,"1,41,00","20,00",
+JC,Amount Transferred to State Level Environment Impact Assessment Authority,,,,,3435 60 797 JC 30000
+330,Inter-Account Transfers,,,,"4,43,80",3435 60 797 JC 33000
+01,Inter-Account Transfers,,,,"4,43,80",3435 60 797 JC 33001
+JC,Total JC,,,,"4,43,80",
+#,State's Expenditure Total,"1,50,00",1,"1,41,00","4,63,80",
+797,Total 797,"1,50,00",1,"1,41,00","4,63,80",
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+JA,Tamil Nadu Environment Protection Fund,,,,,3435 60 800 JA 30000
+309,Grants-in-Aid,,1,1,1,3435 60 800 JA 30900
+01,Grants for Current Expenditure,,1,1,1,3435 60 800 JA 30901
+JA,Total JA,,1,1,1,
+JB,Assistance to Coastal Development and Conservation Programmes from State Coastal Zone Development Fund,,,,,3435 60 800 JB 30000
+309,Grants-in-Aid,"29,96","30,00","70,00","20,00",3435 60 800 JB 30900
+03,Grants for Specific Schemes,"29,96","30,00","70,00","20,00",3435 60 800 JB 30903
+JB,Total JB,"29,96","30,00","70,00","20,00",
+JC,Assistant to State Level Environment Assessment Authority from SEIAA Fund,,,,,3435 60 800 JC 30000
+309,Grants-in-Aid,,,,"3,34,77",3435 60 800 JC 30900
+03,Grants for Specific Schemes,,,,"3,34,77",3435 60 800 JC 30903
+JC,Total JC,,,,"3,34,77",
+#,State's Expenditure Total,"29,96","30,01","70,01","3,54,78",
+800,Total 800,"29,96","30,01","70,01","3,54,78",
+902,Deduct - Amount met from Tamil Nadu Environment Protection Fund,,,,,
+#,State's Expenditure,,,,,
+JB,Deduct - Amount Met From State Coastal Zone Development Fund,,,,,3435 60 902 JB 30000
+330,Inter-Account Transfers,"- 29,96","- 30,01",,,3435 60 902 JB 33000
+01,Inter-Account Transfers,"- 29,96","- 30,01",,,3435 60 902 JB 33001
+JB,Total JB,"- 29,96","- 30,01",,,
+JC,Deduct - Amount met from State Level Environment Impact Assessment Authority Fund,,,,,3435 60 902 JC 30000
+330,Inter-Account Transfers,,,,"- 3,34,77",3435 60 902 JC 33000
+01,Inter-Account Transfers,,,,"- 3,34,77",3435 60 902 JC 33001
+JC,Total JC,,,,"- 3,34,77",
+#,State's Expenditure Total,"- 29,96","- 30,01",,"- 3,34,77",
+902,Total 902,"- 29,96","- 30,01",,"- 3,34,77",
+60,Total 60,"1,50,00",1,"2,11,01","4,83,81",
+3435,Total 3435 Charged,,1,,,
+3435,Total 3435 Voted,"6,60,01","1,57,69","4,48,19","7,00,83",
+5425-00,CAPITAL OUTLAY ON OTHER SCIENTIFIC AND ENVIRONMENTAL RESEARCH,,,,,
+208,Ecology and Environment,,,,,
+#,State's Expenditure,,,,,
+JB,Relaying of Roads using Plastic Wastes collected in the Local Bodies,,,,,5425 00 208 JB 40000
+477,Deduct-Recoveries,"- 3,61",,,,5425 00 208 JB 47700
+02,Recoveries of Overpayments / Remittance of excess drawals,"- 3,61",,,,5425 00 208 JB 47702
+JB,Total JB,"- 3,61",,,,
+JC,Restoration of Eco sencitive areas,,,,,5425 00 208 JC 40000
+416,Major Works,"13,17,94",1,"20,32,89","28,20,00",5425 00 208 JC 41600
+01,Major Works,"13,17,94",1,"20,32,89","28,20,00",5425 00 208 JC 41601
+477,Deduct-Recoveries,"- 71,49",,,,5425 00 208 JC 47700
+02,Recoveries of Overpayments / Remittance of excess drawals,"- 71,49",,,,5425 00 208 JC 47702
+JC,Total JC,"12,46,45",1,"20,32,89","28,20,00",
+JW,Add-Percentage charges for Establishment transferred from Major head 2059-Public Works,,,,,5425 00 208 JW 40000
+430,Inter-Account Transfers,"2,63,56",,,,5425 00 208 JW 43000
+01,Inter-Account Transfers,"2,63,56",,,,5425 00 208 JW 43001
+JW,Total JW,"2,63,56",,,,
+JX,Add-Percentage charges for Machinery and Equipments  transferred from Major head 2059-Public Works,,,,,5425 00 208 JX 40000
+430,Inter-Account Transfers,"1,71",,,,5425 00 208 JX 43000
+01,Inter-Account Transfers,"1,71",,,,5425 00 208 JX 43001
+JX,Total JX,"1,71",,,,
+#,State's Expenditure Total,"15,08,11",1,"20,32,89","28,20,00",
+208,Total 208,"15,08,11",1,"20,32,89","28,20,00",
+00,Total 00,"15,08,11",1,"20,32,89","28,20,00",
+5425,Total 5425,"15,08,11",1,"20,32,89","28,20,00",
