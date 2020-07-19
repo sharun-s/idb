@@ -1,0 +1,163 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2801,POWER,,,,,
+80,General,,,,,
+101,Assistance to Electricity Board,,,,,
+#,State's Expenditure,,,,,
+AG,Hydel Swing Support Scheme,,,,,2801 80 101 AG 30000
+311,Subsidies,,"1,25,00,00",1,1,2801 80 101 AG 31100
+01,Individual Based Subsidy,,"1,25,00,00",1,1,2801 80 101 AG 31101
+AG,Total AG,"1,25,00,00",1,1,,
+JD,Assistance to Tamil Nadu Electricity Board for Accelerated Power Development Reforms Programme,,,,,2801 80 101 JD 30000
+309,Grants-in-Aid,,1,1,1,2801 80 101 JD 30900
+01,Grants for Current Expenditure,,1,1,1,2801 80 101 JD 30901
+JD,Total JD,1,1,1,,
+JF,CFL Lamps for Huts,,,,,2801 80 101 JF 30000
+309,Grants-in-Aid,,1,1,1,2801 80 101 JF 30900
+03,Grants for Specific Schemes,,1,1,1,2801 80 101 JF 30903
+JF,Total JF,1,1,1,,
+JG,Intra State Transmission Scheme under Green Energy Corridor Project with Grant from Ministry of New and Renewable Energy,,,,,2801 80 101 JG 30000
+309,Grants-in-Aid,,1,1,1,2801 80 101 JG 30900
+09,Others,,1,1,1,2801 80 101 JG 30909
+JG,Total JG,1,1,1,,
+JH,Grants to TANGEDCO under UDAY Scheme,,,,,2801 80 101 JH 30000
+309,Grants-in-Aid,"45,63,00,00","45,63,00,00","45,63,00,00","45,63,00,00",2801 80 101 JH 30900
+04,Grants for Debt Servicing,"45,63,00,00","45,63,00,00","45,63,00,00","45,63,00,00",2801 80 101 JH 30904
+JH,Total JH,"45,63,00,00","45,63,00,00","45,63,00,00","45,63,00,00",
+#,State's Expenditure Total,"45,63,00,00","46,88,00,03","45,63,00,04","45,63,00,04",
+101,Total 101,"45,63,00,00","46,88,00,03","45,63,00,04","45,63,00,04",
+80,Total 80,"45,63,00,00","46,88,00,03","45,63,00,04","45,63,00,04",
+2801,Total 2801,"45,63,00,00","46,88,00,03","45,63,00,04","45,63,00,04",
+4801,CAPITAL OUTLAY ON POWER PROJECTS,,,,,
+05,Transmission and Distribution,,,,,
+190,Investments in Public Sector and other undertakings,,,,,
+#,State's Expenditure,,,,,
+AA,Share Capital -Assistance to TANTRANSCO for Chennai-Kanyakumari Industrial Corridor(CKIC) Project,,,,,4801 05 190 AA 40000
+422,Investments,,,"1,50,00,00","4,50,00,00",4801 05 190 AA 42200
+01,Investments,,,"1,50,00,00","4,50,00,00",4801 05 190 AA 42201
+AA,Total AA,,,"1,50,00,00","4,50,00,00",
+#,State's Expenditure Total,,,"1,50,00,00","4,50,00,00",
+190,Total 190,,,"1,50,00,00","4,50,00,00",
+05,Total 05,,,"1,50,00,00","4,50,00,00",
+80,General,,,,,
+101,Investments in State Electricity Boards,,,,,
+#,State's Expenditure,,,,,
+JA,Share Capital Assistance to Tamil Nadu Electricity Board,,,,,4801 80 101 JA 40000
+422,Investments,,1,1,1,4801 80 101 JA 42200
+01,Investments,,1,1,1,4801 80 101 JA 42201
+JA,Total JA,,1,1,1,
+#,State's Expenditure Total,,1,1,1,
+#,Externally Aided Projects,,,,,
+PB,Cyclone Resilient Electrical Network under Coastal Disaster Risk Reduction Project (CDRRP),,,,,4801 80 101 PB 40000
+422,Investments,"1,11,63,89","1,65,00,00","2,78,98,00","16,21,11",4801 80 101 PB 42200
+01,Investments,"1,11,63,89","1,65,00,00","2,78,98,00","16,21,11",4801 80 101 PB 42201
+PB,Total PB,"1,11,63,89","1,65,00,00","2,78,98,00","16,21,11",
+PC,Upgradation of Avadi 110 KV SS to 230 / 110KV SS with associated lines - Thiruvallur District under TNIPP Phase-2,,,,,4801 80 101 PC 40000
+422,Investments,,"36,00,00","6,45,00","29,55,00",4801 80 101 PC 42200
+01,Investments,,"36,00,00","6,45,00","29,55,00",4801 80 101 PC 42201
+PC,Total PC,,"36,00,00","6,45,00","29,55,00",
+PD,Establishment of 230 / 110 KV SS at BHEL Thuvakudi - Trichy District under TNIPP Phase-2,,,,,4801 80 101 PD 40000
+422,Investments,"10,00,00","29,24,00","29,24,00",,4801 80 101 PD 42200
+01,Investments,"10,00,00","29,24,00","29,24,00",,4801 80 101 PD 42201
+PD,Total PD,"10,00,00","29,24,00","29,24,00",,
+PE,Erection of 230 KV and 110 KV transmission lines associated with BHEL Thuvakudi - Trichy District under TNIPP Phase-2,,,,,4801 80 101 PE 40000
+422,Investments,"10,00,00","67,76,00","67,76,00",,4801 80 101 PE 42200
+01,Investments,"10,00,00","67,76,00","67,76,00",,4801 80 101 PE 42201
+PE,Total PE,"10,00,00","67,76,00","67,76,00",,
+PF,Establishment of 110 KV SS with associated 110 KV lines at Sojitz Motherson - Kancheepuram District under TNIPP Phase-2,,,,,4801 80 101 PF 40000
+422,Investments,"6,00,00","6,00,00","2,06,00","3,94,00",4801 80 101 PF 42200
+01,Investments,"6,00,00","6,00,00","2,06,00","3,94,00",4801 80 101 PF 42201
+PF,Total PF,"6,00,00","6,00,00","2,06,00","3,94,00",
+PG,Establishment of 110 KV SS with associated 110 KV lines at Mahendra World City-II - Kancheepuram District under TNIPP Phase-2,,,,,4801 80 101 PG 40000
+422,Investments,"5,00,00","5,00,00","5,00,00",,4801 80 101 PG 42200
+01,Investments,"5,00,00","5,00,00","5,00,00",,4801 80 101 PG 42201
+PG,Total PG,"5,00,00","5,00,00","5,00,00",,
+PH,Establishment of 110 KV SS with associated 110 KV lines at Thirumani - Kancheepuram District under TNIPP Phase-2,,,,,4801 80 101 PH 40000
+422,Investments,"2,00,00","8,00,00","8,00,00",,4801 80 101 PH 42200
+01,Investments,"2,00,00","8,00,00","8,00,00",,4801 80 101 PH 42201
+PH,Total PH,"2,00,00","8,00,00","8,00,00",,
+PI,Upgradation of 33/11 KV SS into 110/33/11 KV SS with associated 110 KV lines at Madhuravoyal - Thiruvallur District under TNIPP Phase-2,,,,,4801 80 101 PI 40000
+422,Investments,"2,00,00","10,75,00","10,75,00",,4801 80 101 PI 42200
+01,Investments,"2,00,00","10,75,00","10,75,00",,4801 80 101 PI 42201
+PI,Total PI,"2,00,00","10,75,00","10,75,00",,
+PJ,Upgradation of 33/11 KV SS into 110/33/11 KV SS with associated 110 KV lines at Denkanikottai - Krishnagiri District under TNIPP Phase-2,,,,,4801 80 101 PJ 40000
+422,Investments,"6,66,90","7,65,10","1,07,10","6,58,00",4801 80 101 PJ 42200
+01,Investments,"6,66,90","7,65,10","1,07,10","6,58,00",4801 80 101 PJ 42201
+PJ,Total PJ,"6,66,90","7,65,10","1,07,10","6,58,00",
+PK,Establishment of 110/33-11 KV SS with associated 110 KV lines at Papparampakkam - Thiruvallur District under TNIPP Phase-2,,,,,4801 80 101 PK 40000
+422,Investments,"2,00,00","10,00,00","10,00,00",,4801 80 101 PK 42200
+01,Investments,"2,00,00","10,00,00","10,00,00",,4801 80 101 PK 42201
+PK,Total PK,"2,00,00","10,00,00","10,00,00",,
+PL,Establishment of 110/33-11 KV SS with associated 110 KV lines at Kunjallam - Thiruvallur District under TNIPP Phase-2,,,,,4801 80 101 PL 40000
+422,Investments,"2,00,00","24,00,00","24,00,00",,4801 80 101 PL 42200
+01,Investments,"2,00,00","24,00,00","24,00,00",,4801 80 101 PL 42201
+PL,Total PL,"2,00,00","24,00,00","24,00,00",,
+PM,"Establishment of 110/11 KV,SS with associated 110 KV,lines at Mangadu indoor - Kancheepuram District under TNIPP Phase-2",,,,,4801 80 101 PM 40000
+422,Investments,"11,48,28","6,86,72","6,86,72",,4801 80 101 PM 42200
+01,Investments,"11,48,28","6,86,72","6,86,72",,4801 80 101 PM 42201
+PM,Total PM,"11,48,28","6,86,72","6,86,72",,
+PN,"Upgradation of 33/11 KV SS into 110/33/11 KV SS with associated 110 KV lines at Pulianthope -, Chennai District under TNIPP Phase-2",,,,,4801 80 101 PN 40000
+422,Investments,"5,00,00","35,10,00","11,19,00","23,91,00",4801 80 101 PN 42200
+01,Investments,"5,00,00","35,10,00","11,19,00","23,91,00",4801 80 101 PN 42201
+PN,Total PN,"5,00,00","35,10,00","11,19,00","23,91,00",
+PO,Establishment of 110/33-11 KV indoor SS at Pallikaranai with associated 110 KV lines - Kanchipuram District under TNIPP Phase-2,,,,,4801 80 101 PO 40000
+422,Investments,"15,78,58","2,34,42","2,23,00","11,42",4801 80 101 PO 42200
+01,Investments,"15,78,58","2,34,42","2,23,00","11,42",4801 80 101 PO 42201
+PO,Total PO,"15,78,58","2,34,42","2,23,00","11,42",
+PP,Establishment of 230/33 KV GIS SS at Thiruvanmiyur with associated lines - Chennai District under TNIPP Phase-2,,,,,4801 80 101 PP 40000
+422,Investments,"5,00,00","80,00,00","80,00,00",,4801 80 101 PP 42200
+01,Investments,"5,00,00","80,00,00","80,00,00",,4801 80 101 PP 42201
+PP,Total PP,"5,00,00","80,00,00","80,00,00",,
+PQ,"Establishment of 230 KV sub-station in Durai Nallur for Mahindra Industrial Park Chennai Ltd., under TNIPP Phase-2",,,,,4801 80 101 PQ 40000
+422,Investments,,"70,00,00","70,00,00",,4801 80 101 PQ 42200
+01,Investments,,"70,00,00","70,00,00",,4801 80 101 PQ 42201
+PQ,Total PQ,,"70,00,00","70,00,00",,
+#,Externally Aided Projects Total,"1,94,57,65","5,63,71,24","6,13,59,82","80,30,53",
+101,Total 101,"1,94,57,65","5,63,71,25","6,13,59,83","80,30,54",
+80,Total 80,"1,94,57,65","5,63,71,25","6,13,59,83","80,30,54",
+4801,Total 4801,"1,94,57,65","5,63,71,25","7,63,59,83","5,30,30,54",
+6505-00,LOANS FOR RURAL EMPLOYMENT,,,,,
+201,National Programmes,,,,,
+#,State's Expenditure,,,,,
+JA,"Loans to TNEB for Implementation of Rural Electrification under Prime Minister's,Gramodaya Yojana (PMGY) Scheme",,,,,6505 00 201 JA 50000
+502,Loan - Outgo,,1,1,1,6505 00 201 JA 50200
+01,Bearing Interest,,1,1,1,6505 00 201 JA 50201
+JA,Total JA,,1,1,1,
+#,State's Expenditure Total,,1,1,1,
+201,Total 201,,1,1,1,
+00,Total 00,,1,1,1,
+6505,Total 6505,,1,1,1,
+6801-00,LOANS FOR POWERPROJECTS,,,,,
+190,Loans to Public Sector,,,,,
+#,State's Expenditure,,,,,
+AJ,Interest free loan to TANTRANSCO on capitalization of interest dues till the end of 2017-18,,,,,6801 00 190 AJ 50000
+502,Loan - Outgo,"20,45,06",,,,6801 00 190 AJ 50200
+02,Not Bearing Interest,"20,45,06",,,,6801 00 190 AJ 50202
+AJ,Total AJ,"20,45,06",,,,
+#,State's Expenditure Total,"20,45,06",,,,
+190,Total 190,"20,45,06",,,,
+205,Transmission and Distribution,,,,,
+#,State's Expenditure,,,,,
+AA,ADB Loan assistance to TANTRANSCO for Chennai-Kanyakumari Industrial CorridiorProject,,,,,6801 00 205 AA 50000
+502,Loan - Outgo,,,"90,00,00","15,13,00,00",6801 00 205 AA 50200
+01,Bearing Interest,,,"90,00,00","15,13,00,00",6801 00 205 AA 50201
+AA,Total AA,,"90,00,00","15,13,00,00",,
+#,State's Expenditure Total,,,"90,00,00","15,13,00,00",
+205,Total 205,,"90,00,00","15,13,00,00",,
+800,Other Loans to Electricity Board,,,,,
+#,State's Expenditure,,,,,
+AH,Intra State Transmission Scheme under Green Energy Corridor Project with loan assistance from KfW,,,,,6801 00 800 AH 50000
+502,Loan - Outgo,,,"37,46,55",,6801 00 800 AH 50200
+01,Bearing Interest,,,"37,46,55",,6801 00 800 AH 50201
+AH,Total AH,,"37,46,55",,,
+AI,Tamil Nadu Transmission System Improvement Project with Loan Assistance from JICA,,,,,6801 00 800 AI 50000
+502,Loan - Outgo,"3,33,14,32","6,60,95,75","3,21,40,00","3,46,10,00",6801 00 800 AI 50200
+01,Bearing Interest,"3,33,14,32","6,60,95,75","3,21,40,00","3,46,10,00",6801 00 800 AI 50201
+AI,Total AI,"3,33,14,32","6,60,95,75","3,21,40,00","3,46,10,00",
+JB,Loans to Tamil Nadu Electricity Board (TNEB) for Accelerated Power Development Reforms Programme,,,,,6801 00 800 JB 50000
+502,Loan - Outgo,,1,1,1,6801 00 800 JB 50200
+01,Bearing Interest,,1,1,1,6801 00 800 JB 50201
+JB,Total JB,1,1,1,,
+#,State's Expenditure Total,"3,33,14,32","6,60,95,76","3,58,86,56","3,46,10,01",
+800,Total 800,"3,33,14,32","6,60,95,76","3,58,86,56","3,46,10,01",
+00,Total 00,"3,53,59,38","6,60,95,76","4,48,86,56","18,59,10,01",
+6801,Total 6801,"3,53,59,38","6,60,95,76","4,48,86,56","18,59,10,01",
