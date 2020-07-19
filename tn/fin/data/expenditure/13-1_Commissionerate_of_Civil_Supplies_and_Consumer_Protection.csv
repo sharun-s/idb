@@ -157,8 +157,8 @@ AN,Strengthening of Computer Cell in the Civil Supplies Department,,,,,3456 00 0
 376,Computer and Accessories,"6,55","9,00","9,00","9,00",3456 00 001 AN 37600
 03,Stationery,"6,55","9,00","9,00","9,00",3456 00 001 AN 37603
 AN,Total AN,"6,55","9,01","9,01","9,01",
-#,State's Expenditure Total Charged,,2,"8,41",2,
-Voted,,"65,75,51","72,69,41","70,27,70","84,31,47",
+#,State's Expenditure Total Charged,2,"8,41",2,
+#,State's Expenditure Total Voted,"65,75,51","72,69,41","70,27,70","84,31,47",
 #,Central Sector Schemes,,,,,
 SA,Strengthening of Price Monitoring Cell,,,,,3456 00 001 SA 30000
 309,Grants-in-Aid,"10,55",,,,3456 00 001 SA 30900
@@ -210,10 +210,8 @@ AA,Vigilance Cell,,,,,3456 00 101 AA 30000
 349,Festival Advances,62,,,,3456 00 101 AA 34900
 01,Festival Advances-Debit,"6,40","9,30","22,50","22,50",3456 00 101 AA 34901
 02,Festival Advances-Credit,"- 5,78","- 9,30","- 22,50","- 22,50",3456 00 101 AA 34902
-351,Compensation,,,,,
-Charged,,1,1,1,3456 00 101 AA 35100,
-51,Claims under no fault liability -  principal charges,,,,,
-Charged,,1,1,1,3456 00 101 AA 35151,
+351,Compensation Charged,,1,1,1,3456 00 101 AA 35100,
+51,Claims under no fault liability -  principal charges Charged,,1,1,1,3456 00 101 AA 35151,
 359,Prizes and Awards,,2,2,2,3456 00 101 AA 35900
 01,Prizes and Awards,,2,2,2,3456 00 101 AA 35901
 376,Computer and Accessories,"13,27","4,61","7,12","4,61",3456 00 101 AA 37600
@@ -223,11 +221,11 @@ Charged,,1,1,1,3456 00 101 AA 35151,
 399,Miscellaneous,"7,87","5,00","5,00","5,00",3456 00 101 AA 39900
 01,Miscellaneous,"7,87","5,00","5,00","5,00",3456 00 101 AA 39901
 AA,Total AA Charged,,1,1,1,
-Voted,"21,40,24","20,06,46","20,82,63","22,64,56",,
+AA,Total AA Voted,"21,40,24","20,06,46","20,82,63","22,64,56",
 #,State's Expenditure Total Charged,,1,1,1,
-Voted,,"21,40,24","20,06,46","20,82,63","22,64,56",
+#,State's Expenditure Total Voted,,"21,40,24","20,06,46","20,82,63","22,64,56",
 101,Total 101 Charged,,1,1,1,
-Voted,"21,40,24","20,06,46","20,82,63","22,64,56",,
+101,Total 101 Voted,"21,40,24","20,06,46","20,82,63","22,64,56",,
 102,Civil supply Schemes,,,,,
 #,State's Expenditure,,,,,
 AA,City Distribution Organisation,,,,,3456 00 102 AA 30000
@@ -350,7 +348,7 @@ AF,Issue of Family cards under Public Distribution System,,,,,3456 00 800 AF 300
 371,Printing Charges,,1,"95,21","37,96",3456 00 800 AF 37100
 01,Printing Charges,,1,"95,21","37,96",3456 00 800 AF 37101
 AF,Total AF Charged,,1,1,1,
-Voted,,4,"1,46,46","59,99",,
+AF,Total AF Voted,,4,"1,46,46","59,99",
 #,State's Expenditure Total Charged,,1,1,1,
 #,State's Expenditure Total Voted,,4,"1,46,46","59,99",
 #,Central Sector Schemes,,,,,
