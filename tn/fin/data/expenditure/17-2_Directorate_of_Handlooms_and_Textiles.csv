@@ -1,0 +1,517 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2235,SOCIAL SECURITY AND WELFARE,,,,,
+60,Other Social Security and Welfare Programmes,,,,,
+200,Other Programmes,,,,,
+#,State's Expenditure,,,,,
+JK,Free distribution of Handloom Cloth to the People Below Poverty Line,,,,,2235 60 200 JK 30000
+308,Advertising and Publicity,"29,95","20,00","27,86","27,00",2235 60 200 JK 30800
+01,Advertisement Charges,"29,95","20,00","27,86","27,00",2235 60 200 JK 30801
+309,Grants-in-Aid,"4,99,24","5,00,00","5,00,00","5,00,00",2235 60 200 JK 30900
+03,Grants for Specific Schemes,"4,99,24","5,00,00","5,00,00","5,00,00",2235 60 200 JK 30903
+311,Subsidies,"3,36,54,85","3,59,00,00","3,59,00,00","3,59,00,00",2235 60 200 JK 31100
+02,General Subsidy,"3,36,54,85","3,59,00,00","3,59,00,00","3,59,00,00",2235 60 200 JK 31102
+342,Service or Commitment Charges,"45,67","75,00","75,00","75,00",2235 60 200 JK 34200
+01,Service or Commitment Charges,"45,67","75,00","75,00","75,00",2235 60 200 JK 34201
+JK,Total JK,"3,42,29,71","3,64,95,00","3,65,02,86","3,65,02,00",
+LZ,Supply of Bed sheets and Lungies etc to Kerala State for flood Relief,,,,,2235 60 200 LZ 30000
+346,"Clothing, Tentage and Stores",,,"3,52,33",,2235 60 200 LZ 34600
+01,"Clothing, Tentage and Stores",,,"3,52,33",,2235 60 200 LZ 34601
+LZ,Total LZ,,,"3,52,33",,
+#,State's Expenditure Total,"3,42,29,71","3,64,95,00","3,68,55,19","3,65,02,00",
+200,Total 200,"3,42,29,71","3,64,95,00","3,68,55,19","3,65,02,00",
+789,Special Component Plan for Scheduled Castes,,,,,
+#,State's Expenditure,,,,,
+JS,Free Distribution of Handloom Cloth to the People Below Poverty line under Special Component Plan,,,,,2235 60 789 JS 30000
+311,Subsidies,"1,19,99,99","1,20,00,00","1,20,00,00","1,20,00,00",2235 60 789 JS 31100
+02,General Subsidy,"1,19,99,99","1,20,00,00","1,20,00,00","1,20,00,00",2235 60 789 JS 31102
+JS,Total JS,"1,19,99,99","1,20,00,00","1,20,00,00","1,20,00,00",
+#,State's Expenditure Total,"1,19,99,99","1,20,00,00","1,20,00,00","1,20,00,00",
+789,Total 789,"1,19,99,99","1,20,00,00","1,20,00,00","1,20,00,00",
+796,Tribal Area Sub-Plan,,,,,
+#,State's Expenditure,,,,,
+JB,Free distribution of Handloom Cloth to the People Below Poverty Line,,,,,2235 60 796 JB 30000
+311,Subsidies,"5,25,00","5,25,00","5,25,00","5,25,00",2235 60 796 JB 31100
+02,General Subsidy,"5,25,00","5,25,00","5,25,00","5,25,00",2235 60 796 JB 31102
+JB,Total JB,"5,25,00","5,25,00","5,25,00","5,25,00",
+#,State's Expenditure Total,"5,25,00","5,25,00","5,25,00","5,25,00",
+796,Total 796,"5,25,00","5,25,00","5,25,00","5,25,00",
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+JZ,Free distribution of Handloom Cloth to the People Below Poverty Line,,,,,2235 60 911 JZ 30000
+377,Deduct-Recoveries,"- 4,75,52",,,,2235 60 911 JZ 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"- 4,75,52",,,,2235 60 911 JZ 37702
+JZ,Total JZ,"- 4,75,52",,,,
+#,State's Expenditure Total,"- 4,75,52",,,,
+911,Total 911,"- 4,75,52",,,,
+60,Total 60,"4,62,79,18","4,90,20,00","4,93,80,19","4,90,27,00",
+2235,Total 2235,"4,62,79,18","4,90,20,00","4,93,80,19","4,90,27,00",
+2851-00,VILLAGE AND SMALL INDUSTRIES,,,,,
+103,Handloom Industries,,,,,
+#,State's Expenditure,,,,,
+AB,Directorate of Handloom and Textiles,,,,,2851 00 103 AB 30000
+301,Salaries,"5,43,20","4,44,30","5,14,60","4,34,38",2851 00 103 AB 30100
+01,Pay,"4,70,97","3,82,26","4,55,52","3,75,30",2851 00 103 AB 30101
+02,Medical Allowance,"2,40","2,16","2,16","2,16",2851 00 103 AB 30102
+03,Medical Charges,"3,31","3,92","3,92","3,92",2851 00 103 AB 30103
+04,Other Allowances,"3,17","2,75","1,64","1,64",2851 00 103 AB 30104
+06,House Rent Allowance,"55,01","44,83","43,41","43,41",2851 00 103 AB 30106
+07,Travel Concession,,60,17,17,2851 00 103 AB 30107
+08,City Compensatory Allowance,"8,34","7,78","7,78","7,78",2851 00 103 AB 30108
+302,Wages,"1,01","1,20","1,26","1,30",2851 00 103 AB 30200
+01,Wages,"1,01","1,20","1,26","1,30",2851 00 103 AB 30201
+303,Dearness Allowance,"49,44","49,70","72,90","91,95",2851 00 103 AB 30300
+01,Dearness Allowance,"49,44","49,70","72,90","91,95",2851 00 103 AB 30301
+304,Travel Expenses,"13,78","18,58","18,58","18,58",2851 00 103 AB 30400
+01,Tour Travelling Allowances,"13,68","18,34","18,34","18,34",2851 00 103 AB 30401
+02,Transfer Travelling Allowances,10,24,24,24,2851 00 103 AB 30402
+305,Office Expenses,"15,15","16,83","17,15","17,51",2851 00 103 AB 30500
+01,Telephone Charges,"1,71","2,58","2,60","2,60",2851 00 103 AB 30501
+02,Other Contingencies,"3,50","3,50","3,50","3,86",2851 00 103 AB 30502
+03,Electricity Charges,"8,74","9,55","9,55","9,55",2851 00 103 AB 30503
+04,Service Postage & Postal Expenditure,"1,20","1,20","1,50","1,50",2851 00 103 AB 30504
+306,"Rent, Rates and Taxes","86,55","86,65","84,30","84,35",2851 00 103 AB 30600
+01,Rent,"85,90","85,90","83,30","83,30",2851 00 103 AB 30601
+03,Water Charges,65,75,"1,00","1,05",2851 00 103 AB 30603
+308,Advertising and Publicity,"2,07,55","7,55","7,55","6,26",2851 00 103 AB 30800
+01,Advertisement Charges,"7,55","7,55","7,55","6,26",2851 00 103 AB 30801
+02,Exhibition,"2,00,00",,,,2851 00 103 AB 30802
+317,Minor Works,,1,1,1,2851 00 103 AB 31700
+01,Minor Works,,1,1,1,2851 00 103 AB 31701
+319,Machinery and Equipments,"1,90","1,91","1,91","1,91",2851 00 103 AB 31900
+01,Purchase,,1,1,1,2851 00 103 AB 31901
+03,Maintenance,"1,90","1,90","1,90","1,90",2851 00 103 AB 31903
+321,Motor Vehicles,,22,22,22,2851 00 103 AB 32100
+01,Purchase,,1,1,1,2851 00 103 AB 32101
+02,Maintenance of Functional Vehicles,,21,21,21,2851 00 103 AB 32102
+333,Payments for Professional and Special Services,"14,51",25,25,25,2851 00 103 AB 33300
+01,Pleaders Fees,"14,51",25,25,25,2851 00 103 AB 33301
+345,"Petroleum, Oil and Lubricant","1,88","3,00","3,00","3,00",2851 00 103 AB 34500
+01,"Petroleum, Oil and Lubricant","1,88","3,00","3,00","3,00",2851 00 103 AB 34501
+349,Festival Advances,- 13,,,,2851 00 103 AB 34900
+01,Festival Advances-Debit,"2,15","3,45","6,35","6,35",2851 00 103 AB 34901
+02,Festival Advances-Credit,"- 2,28","- 3,45","- 6,35","- 6,35",2851 00 103 AB 34902
+351,Compensation,,,,,
+Charged,,1,1,1,2851 00 103 AB 35100,
+52,Other Compensations Charged,,,,,
+359,Prizes and Awards,,20,20,20,2851 00 103 AB 35900
+01,Prizes and Awards,,20,20,20,2851 00 103 AB 35901
+372,Training,"25,00",1,"13,83",60,2851 00 103 AB 37200
+01,Training,"25,00",1,"13,83",60,2851 00 103 AB 37201
+376,Computer and Accessories,"4,70","4,75","5,00","5,00",2851 00 103 AB 37600
+02,Maintenance,"1,96","2,00","2,00","2,00",2851 00 103 AB 37602
+03,Stationery,"2,74","2,75","3,00","3,00",2851 00 103 AB 37603
+AB,Total AB,,,,,
+Charged,,1,1,1,,
+Voted,"9,64,54","6,35,16","7,40,76","6,65,52",,
+AC,District Administration,,,,,2851 00 103 AC 30000
+301,Salaries,"13,64,59","14,18,03","13,32,53","14,88,84",2851 00 103 AC 30100
+01,Pay,"12,62,88","13,16,64","12,24,30","13,80,61",2851 00 103 AC 30101
+02,Medical Allowance,"8,51","8,75","8,75","8,75",2851 00 103 AC 30102
+03,Medical Charges,14,20,20,20,2851 00 103 AC 30103
+04,Other Allowances,"6,54","5,40","6,75","6,75",2851 00 103 AC 30104
+06,House Rent Allowance,"77,84","79,99","85,86","85,86",2851 00 103 AC 30106
+07,Travel Concession,9,54,16,16,2851 00 103 AC 30107
+08,City Compensatory Allowance,"8,59","6,51","6,51","6,51",2851 00 103 AC 30108
+303,Dearness Allowance,"1,38,99","1,71,16","1,95,87","3,38,25",2851 00 103 AC 30300
+01,Dearness Allowance,"1,38,99","1,71,16","1,95,87","3,38,25",2851 00 103 AC 30301
+304,Travel Expenses,"23,11","23,94","23,94","23,94",2851 00 103 AC 30400
+01,Tour Travelling Allowances,"23,06","22,80","22,80","22,80",2851 00 103 AC 30401
+02,Transfer Travelling Allowances,5,"1,14","1,14","1,14",2851 00 103 AC 30402
+305,Office Expenses,"12,70","15,30","17,90","17,90",2851 00 103 AC 30500
+01,Telephone Charges,"3,20","4,45","4,43","4,43",2851 00 103 AC 30501
+02,Other Contingencies,"1,81","1,75","1,75","1,75",2851 00 103 AC 30502
+03,Electricity Charges,"6,56","7,85","10,37","10,37",2851 00 103 AC 30503
+04,Service Postage & Postal Expenditure,"1,13","1,25","1,35","1,35",2851 00 103 AC 30504
+306,"Rent, Rates and Taxes","18,74","23,00","21,18","21,18",2851 00 103 AC 30600
+01,Rent,"18,74","23,00","21,18","21,18",2851 00 103 AC 30601
+308,Advertising and Publicity,"7,69","7,00","7,00","7,00",2851 00 103 AC 30800
+02,Exhibition,"7,69","7,00","7,00","7,00",2851 00 103 AC 30802
+317,Minor Works,,1,1,1,2851 00 103 AC 31700
+01,Minor Works,,1,1,1,2851 00 103 AC 31701
+319,Machinery and Equipments,"1,60","1,60","1,60","1,60",2851 00 103 AC 31900
+03,Maintenance,"1,60","1,60","1,60","1,60",2851 00 103 AC 31903
+321,Motor Vehicles,53,55,55,55,2851 00 103 AC 32100
+01,Purchase,2,1,1,1,2851 00 103 AC 32101
+02,Maintenance of Functional Vehicles,51,54,54,54,2851 00 103 AC 32102
+333,Payments for Professional and Special Services,"28,41","32,22","37,09","37,09",2851 00 103 AC 33300
+04,Contract Payment,"28,41","32,22","37,09","37,09",2851 00 103 AC 33304
+345,"Petroleum, Oil and Lubricant","12,20","13,70","14,25","14,25",2851 00 103 AC 34500
+01,"Petroleum, Oil and Lubricant","12,20","13,70","14,25","14,25",2851 00 103 AC 34501
+349,Festival Advances,51,,,,2851 00 103 AC 34900
+01,Festival Advances-Debit,"7,55","11,50","21,90","21,90",2851 00 103 AC 34901
+02,Festival Advances-Credit,"- 7,04","- 11,50","- 21,90","- 21,90",2851 00 103 AC 34902
+359,Prizes and Awards,,46,46,46,2851 00 103 AC 35900
+01,Prizes and Awards,,46,46,46,2851 00 103 AC 35901
+376,Computer and Accessories,"1,24","1,25","1,65","1,65",2851 00 103 AC 37600
+03,Stationery,"1,24","1,25","1,65","1,65",2851 00 103 AC 37603
+AC,Total AC,"16,10,31","17,08,22","16,54,03","19,52,72",
+AD,Yarn and Cloth Control,,,,,2851 00 103 AD 30000
+301,Salaries,"1,66,63","1,50,82","1,57,90","1,51,64",2851 00 103 AD 30100
+01,Pay,"1,53,18","1,36,95","1,43,55","1,37,29",2851 00 103 AD 30101
+02,Medical Allowance,"1,02","1,04","1,02","1,02",2851 00 103 AD 30102
+03,Medical Charges,,2,2,2,2851 00 103 AD 30103
+04,Other Allowances,"1,41","1,03","1,57","1,57",2851 00 103 AD 30104
+06,House Rent Allowance,"9,42","10,38","10,43","10,43",2851 00 103 AD 30106
+07,Travel Concession,3,13,4,4,2851 00 103 AD 30107
+08,City Compensatory Allowance,"1,57","1,27","1,27","1,27",2851 00 103 AD 30108
+303,Dearness Allowance,"13,96","17,80","22,97","33,64",2851 00 103 AD 30300
+01,Dearness Allowance,"13,96","17,80","22,97","33,64",2851 00 103 AD 30301
+304,Travel Expenses,"2,32","2,42","2,42","2,42",2851 00 103 AD 30400
+01,Tour Travelling Allowances,"2,32","2,30","2,30","2,30",2851 00 103 AD 30401
+02,Transfer Travelling Allowances,,12,12,12,2851 00 103 AD 30402
+349,Festival Advances,33,,,,2851 00 103 AD 34900
+01,Festival Advances-Debit,"1,25","1,45","2,60","2,60",2851 00 103 AD 34901
+02,Festival Advances-Credit,- 92,"- 1,45","- 2,60","- 2,60",2851 00 103 AD 34902
+359,Prizes and Awards,,2,2,2,2851 00 103 AD 35900
+01,Prizes and Awards,,2,2,2,2851 00 103 AD 35901
+AD,Total AD,"1,83,24","1,71,06","1,83,31","1,87,72",
+AO,Relief to Handloom Weavers,,,,,2851 00 103 AO 30000
+301,Salaries,"2,86,04","3,08,85","2,92,06","2,96,46",2851 00 103 AO 30100
+01,Pay,"2,56,93","2,78,25","2,60,70","2,65,10",2851 00 103 AO 30101
+02,Medical Allowance,"1,73","1,91","1,77","1,77",2851 00 103 AO 30102
+03,Medical Charges,,44,44,44,2851 00 103 AO 30103
+04,Other Allowances,"1,02","1,03","1,28","1,28",2851 00 103 AO 30104
+06,House Rent Allowance,"22,94","24,06","24,92","24,92",2851 00 103 AO 30106
+07,Travel Concession,2,31,10,10,2851 00 103 AO 30107
+08,City Compensatory Allowance,"3,40","2,85","2,85","2,85",2851 00 103 AO 30108
+303,Dearness Allowance,"24,49","36,17","41,72","64,95",2851 00 103 AO 30300
+01,Dearness Allowance,"24,49","36,17","41,72","64,95",2851 00 103 AO 30301
+304,Travel Expenses,"3,89","4,56","4,56","4,56",2851 00 103 AO 30400
+01,Tour Travelling Allowances,"3,89","4,32","4,32","4,32",2851 00 103 AO 30401
+02,Transfer Travelling Allowances,,24,24,24,2851 00 103 AO 30402
+349,Festival Advances,- 2,,,,2851 00 103 AO 34900
+01,Festival Advances-Debit,"1,20","3,60","4,50","4,50",2851 00 103 AO 34901
+02,Festival Advances-Credit,"- 1,22","- 3,60","- 4,50","- 4,50",2851 00 103 AO 34902
+359,Prizes and Awards,"1,00","1,00","1,00","1,00",2851 00 103 AO 35900
+01,Prizes and Awards,"1,00","1,00","1,00","1,00",2851 00 103 AO 35901
+AO,Total AO,"3,15,40","3,50,58","3,39,34","3,66,97",
+AW,The Co-operative Handloom Weavers Savings and Securities Scheme,,,,,2851 00 103 AW 30000
+301,Salaries,"1,04,45","1,12,27","1,05,26","1,18,22",2851 00 103 AW 30100
+01,Pay,"94,95","1,03,28","95,49","1,08,45",2851 00 103 AW 30101
+02,Medical Allowance,60,61,62,62,2851 00 103 AW 30102
+03,Medical Charges,,2,2,2,2851 00 103 AW 30103
+04,Other Allowances,68,31,62,62,2851 00 103 AW 30104
+06,House Rent Allowance,"7,08","7,16","7,67","7,67",2851 00 103 AW 30106
+07,Travel Concession,,8,3,3,2851 00 103 AW 30107
+08,City Compensatory Allowance,"1,14",81,81,81,2851 00 103 AW 30108
+303,Dearness Allowance,"8,99","13,43","15,27","26,57",2851 00 103 AW 30300
+01,Dearness Allowance,"8,99","13,43","15,27","26,57",2851 00 103 AW 30301
+304,Travel Expenses,"2,14","2,34","2,34","2,34",2851 00 103 AW 30400
+01,Tour Travelling Allowances,"2,14","2,24","2,24","2,24",2851 00 103 AW 30401
+02,Transfer Travelling Allowances,,10,10,10,2851 00 103 AW 30402
+310,Contributions,"9,02,97","12,00,00","11,77,98","12,00,00",2851 00 103 AW 31000
+01,Contribution to Specific Fund,"9,02,97","12,00,00","11,77,98","12,00,00",2851 00 103 AW 31001
+349,Festival Advances,31,,,,2851 00 103 AW 34900
+01,Festival Advances-Debit,90,"1,30","2,00","2,00",2851 00 103 AW 34901
+02,Festival Advances-Credit,- 59,"- 1,30","- 2,00","- 2,00",2851 00 103 AW 34902
+359,Prizes and Awards,,2,2,2,2851 00 103 AW 35900
+01,Prizes and Awards,,2,2,2,2851 00 103 AW 35901
+AW,Total AW,"10,18,86","13,28,06","13,00,87","13,47,15",
+AY,Payment to Tamil Nadu Electricity Board on behalf of Handloom Weavers,,,,2851 00 103 AY 30000,
+311,Subsidies,"6,41,00","6,73,05","6,81,00","7,15,05",2851 00 103 AY 31100
+01,Individual Based Subsidy,"6,41,00","6,73,05","6,81,00","7,15,05",2851 00 103 AY 31101
+AY,Total AY,"6,41,00","6,73,05","6,81,00","7,15,05",
+BD,Handloom Support Programme,,,,2851 00 103 BD 30000,
+309,Grants-in-Aid,"40,00,00","40,00,00","40,00,00","40,00,00",2851 00 103 BD 30900
+03,Grants for Specific Schemes,"40,00,00","40,00,00","40,00,00","40,00,00",2851 00 103 BD 30903
+BD,Total BD,,"40,00,00","40,00,00","40,00,00","40,00,00"
+KG,Payment of interest subsidy to Primary Weavers Co-operative Societies and Co-optex,,,,,2851 00 103 KG 30000
+311,Subsidies,"19,16,36","14,40,00","21,60,00","21,60,00",2851 00 103 KG 31100
+02,General Subsidy,"19,16,36","14,40,00","21,60,00","21,60,00",2851 00 103 KG 31102
+KG,Total KG,,"19,16,36","14,40,00","21,60,00","21,60,00"
+KL,Rebate on Sale of Handloom Cloth,,,,2851 00 103 KL 30000,
+311,Subsidies,"1,50,00,00","1,50,00,00","1,50,00,00","1,50,00,00",2851 00 103 KL 31100
+02,General Subsidy,"1,50,00,00","1,50,00,00","1,50,00,00","1,50,00,00",2851 00 103 KL 31102
+Total KL,,"1,50,00,00","1,50,00,00","1,50,00,00","1,50,00,00",
+KN,Payment of premium for Tamil Nadu  Co-operative Handloom Weavers under Bunkar Bima Yojana Scheme,,,,,2851 00 103 KN 30000
+310,Contributions,"1,00,37","1,20,00","90,42","1,20,00",2851 00 103 KN 31000
+02,Insurance Premium,"1,00,37","1,20,00","90,42","1,20,00",2851 00 103 KN 31002
+KN,Total KN,"1,00,37","1,20,00","90,42","1,20,00",
+KP,New Health Insurance Scheme for Handloom Weavers,,,,,2851 00 103 KP 30000
+310,Contributions,,"1,50,00","1,50,00","1,50,00",2851 00 103 KP 31000
+02,Insurance Premium,,"1,50,00","1,50,00","1,50,00",2851 00 103 KP 31002
+KP,Total KP,"1,50,00","1,50,00","1,50,00",,
+KR,Assistance for the payment of Old Age Pension and Family Pension for Co-operative Handloom Weavers,,,,,2851 00 103 KR 30000
+309,Grants-in-Aid,"26,10,49","26,00,00","26,95,65","27,00,00",2851 00 103 KR 30900
+03,Grants for Specific Schemes,"26,10,49","26,00,00","26,95,65","27,00,00",2851 00 103 KR 30903
+KR,Total KR,"26,10,49","26,00,00","26,95,65","27,00,00",
+KU,Assistance to Co-operative Spinning Mills,,,,,2851 00 103 KU 30000
+309,Grants-in-Aid,"2,07,60",,,,2851 00 103 KU 30900
+03,Grants for Specific Schemes,"2,07,60",,,,2851 00 103 KU 30903
+311,Subsidies,,1,1,1,2851 00 103 KU 31100
+09,Others,,1,1,1,2851 00 103 KU 31109
+KU,Total KU,"2,07,60",1,1,1,
+KV,Establishment of Hi-Tech Weaving Parks under Textile Centres infrastructure development Scheme,,,,,2851 00 103 KV 30000
+309,Grants-in-Aid,,1,1,1,2851 00 103 KV 30900
+03,Grants for Specific Schemes,,1,1,1,2851 00 103 KV 30903
+KV,Total KV,1,1,1,,
+KW,Assistance to Handloom Weavers Co-operative Societies,,,,,2851 00 103 KW 30000
+309,Grants-in-Aid,,1,1,1,2851 00 103 KW 30900
+03,Grants for Specific Schemes,,1,1,1,2851 00 103 KW 30903
+KW,Total KW,1,1,1,,
+KX,Assistance to Handloom Weavers,,,,,2851 00 103 KX 30000
+309,Grants-in-Aid,,1,1,1,2851 00 103 KX 30900
+03,Grants for Specific Schemes,,1,1,1,2851 00 103 KX 30903
+359,Prizes and Awards,"4,90","4,90","4,90","4,90",2851 00 103 KX 35900
+01,Prizes and Awards,"4,90","4,90","4,90","4,90",2851 00 103 KX 35901
+KX,Total KX,"4,90","4,91","4,91","4,91",
+KY,Grants to Tamil Nadu Handloom Weavers Co-operative Society Ltd (Co-optex),,,,,2851 00 103 KY 30000
+309,Grants-in-Aid,,2,1,1,2851 00 103 KY 30900
+02,Grants for Creation of Capital Assets,,1,,,2851 00 103 KY 30902
+03,Grants for Specific Schemes,,1,1,1,2851 00 103 KY 30903
+KY,Total KY,2,1,1,,
+LG,State Textile Advisory Committee,,,,,2851 00 103 LG 30000
+305,Office Expenses,"5,00","2,00","2,00","2,00",2851 00 103 LG 30500
+02,Other Contingencies,"5,00","2,00","2,00","2,00",2851 00 103 LG 30502
+360,T.A./D.A.to Non-Official Members,,1,50,50,2851 00 103 LG 36000
+01,T.A./D.A.to Non-Official Members,,1,50,50,2851 00 103 LG 36001
+LG,Total LG,"5,00","2,01","2,50","2,50",
+LL,Special Health Camps for Handloom Weavers,,,,,2851 00 103 LL 30000
+309,Grants-in-Aid,"10,00",,,,2851 00 103 LL 30900
+03,Grants for Specific Schemes,"10,00",,,,2851 00 103 LL 30903
+LL,Total LL,"10,00",,,,
+LM,Installation of Electronic 4 Colour Feeder for Air Jet Looms under State Innovation Fund,,,,,2851 00 103 LM 30000
+309,Grants-in-Aid,,,"59,00",,2851 00 103 LM 30900
+03,Grants for Specific Schemes,,,"59,00",,2851 00 103 LM 30903
+LM,Total LM,,"59,00",,,
+LN,Facilitating Co-optex showroom with POS Machines (Point of sale) with printer  under State Innovation Fund,,,,,2851 00 103 LN 30000
+309,Grants-in-Aid,,,"20,00",,2851 00 103 LN 30900
+03,Grants for Specific Schemes,,,"20,00",,2851 00 103 LN 30903
+LN,Total LN,,"20,00",,,
+LO,"""Design and Development of Advanced Dryer for ""Silk Skeins""""  after"" Degumming/Dyeing Process under State Innovation Fund",,,,,2851 00 103 LO 30000
+309,Grants-in-Aid,,,"9,00",,2851 00 103 LO 30900
+03,Grants for Specific Schemes,,,"9,00",,2851 00 103 LO 30903
+LO,Total LO,,"9,00",,,
+LP,Development of Handloom with Electro Magnet Dobby for persons with Disabilities under State Innovation Fund,,,,,2851 00 103 LP 30000
+309,Grants-in-Aid,,,"5,56",,2851 00 103 LP 30900
+03,Grants for Specific Schemes,,,"5,56",,2851 00 103 LP 30903
+LP,Total LP,,"5,56",,,
+LQ,Facilitating Co-optex showroom with RFID (Radio Frequency Identification Devise) under State Innovation Fund,,,,,2851 00 103 LQ 30000
+309,Grants-in-Aid,,,"8,58",,2851 00 103 LQ 30900
+03,Grants for Specific Schemes,,,"8,58",,2851 00 103 LQ 30903
+LQ,Total LQ,,"8,58",,,
+LR,"Capital Subsidy for purchase of Wider Width Fabric Printing Machine under New integrated Textile Policy, 2019.",,,,,2851 00 103 LR 30000
+311,Subsidies,,,,"1,00,00",2851 00 103 LR 31100
+01,Individual Based Subsidy,,,,"1,00,00",2851 00 103 LR 31101
+LR,Total LR,,,"1,00,00",,
+LS,"Assistance for conducting Energy Audit / Water Audit / Environmental Compliance under New Integrated Textile Policy, 2019.",,,,,2851 00 103 LS 30000
+309,Grants-in-Aid,,,,"3,00,00",2851 00 103 LS 30900
+03,Grants for Specific Schemes,,,,"3,00,00",2851 00 103 LS 30903
+LS,Total LS,,,"3,00,00",,
+LT,"Promotion of Powerloom Sector under New Integrated Textile Policy, 2019",,,,,2851 00 103 LT 30000
+311,Subsidies,,,,"32,82,51",2851 00 103 LT 31100
+02,General Subsidy,,,,"32,82,50",2851 00 103 LT 31102
+09,Others,,,,1,2851 00 103 LT 31109
+LT,Total LT,,,"32,82,51",,
+LU,"Interest Subvention for Modernisation of Spindles in existing spinning mills under New Integrated Textile Policy, 2019",,,,,2851 00 103 LU 30000
+309,Grants-in-Aid,,,,"11,20,00",2851 00 103 LU 30900
+03,Grants for Specific Schemes,,,,"11,20,00",2851 00 103 LU 30903
+LU,Total LU,,,"11,20,00",,
+#,State's Expenditure Total Charged,,1,1,1,
+#,State's Expenditure Total Voted,"2,85,88,07","2,81,83,10","2,91,04,97","3,41,75,09",
+#,Central Sector Schemes,,,,,
+SP,Establishment of Enforcement Machinery,,,,,2851 00 103 SP 30000
+301,Salaries,"2,10,07","2,10,63","1,88,36","1,96,19",2851 00 103 SP 30100
+01,Pay,"1,96,54","1,94,64","1,72,44","1,79,34",2851 00 103 SP 30101
+02,Medical Allowance,85,"1,05",98,98,2851 00 103 SP 30102
+03,Medical Charges,2,14,14,14,2851 00 103 SP 30103
+04,Other Allowances,60,30,30,30,2851 00 103 SP 30104
+06,House Rent Allowance,"10,49","12,72","12,72","13,65",2851 00 103 SP 30106
+07,Travel Concession,1,12,12,12,2851 00 103 SP 30107
+08,City Compensatory Allowance,"1,56","1,66","1,66","1,66",2851 00 103 SP 30108
+303,Dearness Allowance,"12,39","25,30","24,14","43,94",2851 00 103 SP 30300
+01,Dearness Allowance,"12,39","25,30","24,14","43,94",2851 00 103 SP 30301
+304,Travel Expenses,"5,16","6,68","6,68","6,68",2851 00 103 SP 30400
+01,Tour Travelling Allowances,"5,16","6,36","6,36","6,36",2851 00 103 SP 30401
+02,Transfer Travelling Allowances,,32,32,32,2851 00 103 SP 30402
+305,Office Expenses,"2,27","3,10","3,36","3,36",2851 00 103 SP 30500
+01,Telephone Charges,70,95,"1,15","1,15",2851 00 103 SP 30501
+02,Other Contingencies,78,"1,00","1,00","1,00",2851 00 103 SP 30502
+03,Electricity Charges,62,91,97,97,2851 00 103 SP 30503
+04,Service Postage & Postal Expenditure,17,24,24,24,2851 00 103 SP 30504
+306,"Rent, Rates and Taxes","2,55","3,65","3,90","3,90",2851 00 103 SP 30600
+01,Rent,"2,55","3,65","3,90","3,90",2851 00 103 SP 30601
+321,Motor Vehicles,25,30,"7,25",43,2851 00 103 SP 32100
+01,Purchase,,,"6,83",1,2851 00 103 SP 32101
+02,Maintenance of Functional Vehicles,25,30,42,42,2851 00 103 SP 32102
+333,Payments for Professional and Special Services,"9,70","14,71","12,51","12,51",2851 00 103 SP 33300
+01,Pleaders Fees,,1,1,1,2851 00 103 SP 33301
+04,Contract Payment,"9,70","14,70","12,50","12,50",2851 00 103 SP 33304
+345,"Petroleum, Oil and Lubricant","2,25","3,52","3,80","3,80",2851 00 103 SP 34500
+01,"Petroleum, Oil and Lubricant","2,25","3,52","3,80","3,80",2851 00 103 SP 34501
+349,Festival Advances,- 42,,,,2851 00 103 SP 34900
+01,Festival Advances-Debit,10,"1,60","2,40","2,40",2851 00 103 SP 34901
+02,Festival Advances-Credit,- 52,"- 1,60","- 2,40","- 2,40",2851 00 103 SP 34902
+359,Prizes and Awards,,10,10,10,2851 00 103 SP 35900
+01,Prizes and Awards,,10,10,10,2851 00 103 SP 35901
+376,Computer and Accessories,37,47,47,47,2851 00 103 SP 37600
+02,Maintenance,22,30,30,30,2851 00 103 SP 37602
+03,Stationery,15,17,17,17,2851 00 103 SP 37603
+SP,Total SP,"2,44,59","2,68,46","2,50,57","2,71,38",
+#,Central Sector Schemes Total,"2,44,59","2,68,46","2,50,57","2,71,38",
+#,Schemes shared between State and Centre,,,,,
+UP,Establishment of Hi-Tech Weaving Parks under Textile Centres infrastructure development Scheme,,,,,2851 00 103 UP 30000
+309,Grants-in-Aid,"90,00",1,1,1,2851 00 103 UP 30900
+03,Grants for Specific Schemes,"90,00",1,1,1,2851 00 103 UP 30903
+UP,Total UP,"90,00",1,1,1,
+UV,Cluster Development Programme under Integrated Handloom Development Scheme,,,,,2851 00 103 UV 30000
+309,Grants-in-Aid,,"50,00","50,00","50,00",2851 00 103 UV 30900
+03,Grants for Specific Schemes,,"50,00","50,00","50,00",2851 00 103 UV 30903
+UV,Total UV,"50,00","50,00","50,00",,
+UX,Marketing Incentive under Integrated Handloom Development Scheme,,,,,2851 00 103 UX 30000
+309,Grants-in-Aid,"2,43,01","30,00,00","3,00,00","30,00,00",2851 00 103 UX 30900
+03,Grants for Specific Schemes,"2,43,01","30,00,00","3,00,00","30,00,00",2851 00 103 UX 30903
+UX,Total UX,"2,43,01","30,00,00","3,00,00","30,00,00",
+UY,"Revival, Reform and Restructuring Package for Handloom Sector",,,,,2851 00 103 UY 30000
+309,Grants-in-Aid,,1,,,2851 00 103 UY 30900
+03,Grants for Specific Schemes,,1,,,2851 00 103 UY 30903
+UY,Total UY,1,,,,
+#,Schemes shared between State and Centre Total,"3,33,01","30,50,02","3,50,01","30,50,01",
+103,Total 103 Charged,,1,1,1,
+103,Total 103 Voted,"2,91,65,67","3,15,01,58","2,97,05,55","3,74,96,48",
+108,Powerloom Industries,,,,,
+#,State's Expenditure,,,,,
+AA,Payment to Tamil Nadu Electricity Board on behalf of Powerloom Weavers,,,,,2851 00 108 AA 30000
+311,Subsidies,"3,43,13,00","3,60,28,65","3,36,35,00","3,53,16,75",2851 00 108 AA 31100
+01,Individual Based Subsidy,"3,43,13,00","3,60,28,65","3,36,35,00","3,53,16,75",2851 00 108 AA 31101
+AA,Total AA,"3,43,13,00","3,60,28,65","3,36,35,00","3,53,16,75",
+JA,Powerloom Census,,,,,2851 00 108 JA 30000
+306,"Rent, Rates and Taxes","6,72","3,12","6,72","6,72",2851 00 108 JA 30600
+01,Rent,"6,72","3,12","6,72","6,72",2851 00 108 JA 30601
+JA,Total JA,"6,72","3,12","6,72","6,72",
+JC,Modernisation of Existing Powerlooms,,,,,2851 00 108 JC 30000
+311,Subsidies,,1,,,2851 00 108 JC 31100
+01,Individual Based Subsidy,,1,,,2851 00 108 JC 31101
+JC,Total JC,,1,,,
+#,State's Expenditure Total,"3,43,19,72","3,60,31,78","3,36,41,72","3,53,23,47",
+108,Total 108,"3,43,19,72","3,60,31,78","3,36,41,72","3,53,23,47",
+797,Transfer to Reserve Fund / Deposit Account,,,,,
+#,State's Expenditure,,,,,
+AA,Transfer to Powerloom Registration Fund,,,,,2851 00 797 AA 30000
+330,Inter-Account Transfers,,1,"98,00","10,40",2851 00 797 AA 33000
+01,Inter-Account Transfers,,1,"98,00","10,40",2851 00 797 AA 33001
+AA,Total AA,,1,"98,00","10,40",
+#,State's Expenditure Total,,1,"98,00","10,40",
+797,Total 797,,1,"98,00","10,40",
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+JA,Zero Liquid Discharge System at Tiruppur,,,,,2851 00 800 JA 30000
+309,Grants-in-Aid,,1,1,1,2851 00 800 JA 30900
+03,Grants for Specific Schemes,,1,1,1,2851 00 800 JA 30903
+JA,Total JA,,1,1,1,
+#,State's Expenditure Total,,1,1,1,
+800,Total 800,,1,1,1,
+902,Deduct - Amount met from State Innovation Fund,,,,,
+#,State's Expenditure,,,,,
+JC,Deduct - Amount met from State Innovation Fund,,,,,2851 00 902 JC 30000
+330,Inter-Account Transfers,"2,60,94",,"- 1,02,14",,2851 00 902 JC 33000
+01,Inter-Account Transfers,"2,60,94",,"- 1,02,14",,2851 00 902 JC 33001
+JC,Total JC,"2,60,94",,"- 1,02,14",,
+#,State's Expenditure Total,,"2,60,94",,"- 1,02,14",
+902,Total 902,"2,60,94",,"- 1,02,14",,
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+AO,Relief to Handloom Weavers,,,,,2851 00 911 AO 30000
+377,Deduct-Recoveries,- 88,,,,2851 00 911 AO 37700
+03,Other Recoveries,- 88,,,,2851 00 911 AO 37703
+AO,Total AO,- 88,,,,
+AY,Payment to Tamil Nadu Electricity Board on behalf of Handloom Weavers,,,,,2851 00 911 AY 30000
+377,Deduct-Recoveries,"- 2,92",,,,2851 00 911 AY 37700
+03,Other Recoveries,"- 2,92",,,,2851 00 911 AY 37703
+AY,Total AY,"- 2,92",,,,
+KW,Assistance to Handloom Weavers Co-operative Societies,,,,,2851 00 911 KW 30000
+377,Deduct-Recoveries,"- 2,00",,,,2851 00 911 KW 37700
+03,Other Recoveries,"- 2,00",,,,2851 00 911 KW 37703
+KW,Total KW,"- 2,00",,,,
+KZ,Purchase of Electronic Jacquard operated through Pneumatic Drive System for Handloom - Scheme under State Innovation Fund,,,,,2851 00 911 KZ 30000
+377,Deduct-Recoveries,"- 1,62,30",,,,2851 00 911 KZ 37700
+03,Other Recoveries,"- 1,62,30",,,,2851 00 911 KZ 37703
+KZ,Total KZ,"- 1,62,30",,,,
+LF,Purchase of Motorised Jacquard Machines for Handlooms - Scheme under State Innovation Fund,,,,,2851 00 911 LF 30000
+377,Deduct-Recoveries,"- 86,94",,,,2851 00 911 LF 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"- 86,94",,,,2851 00 911 LF 37702
+LF,Total LF,"- 86,94",,,,
+#,State's Expenditure Total,"- 2,55,04",,,,
+#,Schemes shared between State and Centre,,,,,
+UO,Implementation of Textile centre Infrastructure Development Scheme,,,,,2851 00 911 UO 30000
+377,Deduct-Recoveries,"- 72,32",,,,2851 00 911 UO 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"- 72,32",,,,2851 00 911 UO 37702
+UO,Total UO,"- 72,32",,,,
+UV,Cluster Development Programme under Integrated Handloom Development Scheme,,,,,2851 00 911 UV 30000
+377,Deduct-Recoveries,"- 2,50",,,,2851 00 911 UV 37700
+03,Other Recoveries,"- 2,50",,,,2851 00 911 UV 37703
+UV,Total UV,"- 2,50",,,,
+#,Schemes shared between State and Centre Total,"- 74,82",,,,
+911,Total 911,"- 3,29,86",,,,
+00,Total 00,,,,,
+Charged,,1,1,1,,
+Voted,"6,34,16,47","6,75,33,38","6,33,43,14","7,28,30,36",,
+2851,Total 2851,,,,,
+Charged,,1,1,1,,
+Voted,"6,34,16,47","6,75,33,38","6,33,43,14","7,28,30,36",,
+4851-00,CAPITAL OUTLAY ON VILLAGE AND SMALL INDUSTRIES,,,,,
+103,Handloom Industries,,,,,
+#,State's Expenditure,,,,,
+JJ,Construction of new Building for the offices of the Department of Handlooms and Textiles,,,,,4851 00 103 JJ 40000
+416,Major Works,"54,81",,"30,00",,4851 00 103 JJ 41600
+01,Major Works,"54,81",,"30,00",,4851 00 103 JJ 41601
+JJ,Total JJ,"54,81",,"30,00",,
+#,State's Expenditure Total,"54,81",,"30,00",,
+103,Total 103,"54,81",,"30,00",,
+00,Total 00,"54,81",,"30,00",,
+4851,Total 4851,"54,81",,"30,00",,
+4860,CAPITAL OUTLAY ON CONSUMER INDUSTRIES,,,,,
+01,Textiles,,,,,
+195,Investment in Co-operatives,,,,,
+#,State's Expenditure,,,,,
+JA,Share Capital Assistance to Co-operative Spinning Mills,,,,,4860 01 195 JA 40000
+422,Investments,,1,"1,20,00",1,4860 01 195 JA 42200
+01,Investments,,1,"1,20,00",1,4860 01 195 JA 42201
+JA,Total JA,,1,"1,20,00",1,
+#,State's Expenditure Total,,1,"1,20,00",1,
+195,Total 195,,1,"1,20,00",1,
+01,Total 01,,1,"1,20,00",1,
+4860,Total 4860,,1,"1,20,00",1,
+6851-00,LOANS FOR VILLAGE AND SMALL INDUSTRIES,,,,,
+103,Handloom Industries,,,,,
+#,State's Expenditure,,,,,
+AN,Loan for Zero Liquid Discharge System at Tiruppur,,,,,6851 00 103 AN 50000
+502,Loan - Outgo,,1,,,6851 00 103 AN 50200
+01,Bearing Interest,,1,,,6851 00 103 AN 50201
+AN,Total AN,,1,,,
+#,State's Expenditure Total,,,1,,
+103,Total 103,,1,,,
+108,Powerloom Industries,,,,,
+#,State's Expenditure,,,,,
+AA,Loans to Powerloom Industries,,,,,6851 00 108 AA 50000
+502,Loan - Outgo,,1,,,6851 00 108 AA 50200
+01,Bearing Interest,,1,,,6851 00 108 AA 50201
+AA,Total AA,1,,,,
+#,State's Expenditure Total,,1,,,
+108,Total 108,1,,,,
+00,Total 00,2,,,,
+6851,Total 6851,2,,,,
+6860,LOANS FOR CONSUMER INDUSTRIES,,,,,
+01,Textiles,,,,,
+101,Loans to Co-operative Spinning Mills,,,,,
+#,State's Expenditure,,,,,
+AA,Loans to Co-operative Institutions and Banks - Controlled by the Director of Handlooms and Textiles,,,,,6860 01 101 AA 50000
+502,Loan - Outgo,,3,1,1,6860 01 101 AA 50200
+01,Bearing Interest,,3,1,1,6860 01 101 AA 50201
+AA,Total AA,3,1,1,,
+AC,Ways and Means Advance to Non functional Co-operative Spinning Mills controlled by Commissioner / Director of Handlooms and Textiles,,,,,6860 01 101 AC 50000
+502,Loan - Outgo,"43,90","1,00,00","4,23,30","1,00,00",6860 01 101 AC 50200
+01,Bearing Interest,"43,90","1,00,00","4,23,30","1,00,00",6860 01 101 AC 50201
+AC,Total AC,"43,90","1,00,00","4,23,30","1,00,00",
+AE,Loans to Co-operative Spinniing Mills - Controlled by the Director of Handlooms and Textiles,,,,,6860 01 101 AE 50000
+502,Loan - Outgo,,1,1,1,6860 01 101 AE 50200
+01,Bearing Interest,,1,1,1,6860 01 101 AE 50201
+AE,Total AE,1,1,1,,
+AF,Ways and Means Advance to functional Co-operative Spinning Mills controlled by Commissioner / Director of Handlooms and Textiles,,,,,6860 01 101 AF 50000
+502,Loan - Outgo,,,"33,45,00",1,6860 01 101 AF 50200
+01,Bearing Interest,,,"33,45,00",1,6860 01 101 AF 50201
+AF,Total AF,,"33,45,00",1,,
+#,State's Expenditure Total,"43,90","1,00,04","37,68,32","1,00,03",
+101,Total 101,"43,90","1,00,04","37,68,32","1,00,03",
+01,Total 01,"43,90","1,00,04","37,68,32","1,00,03",
+6860,Total 6860,"43,90","1,00,04","37,68,32","1,00,03",

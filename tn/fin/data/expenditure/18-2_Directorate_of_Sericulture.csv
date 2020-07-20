@@ -1,0 +1,463 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2551,HILL AREAS,,,,,
+01,Western Ghats,,,,,
+108,Village and Small Industries,,,,,
+#,State's Expenditure,,,,,
+JB,Establishment of Government Mulberry Seed Farm and Disinfection Squad under Western Ghat Development Programme,,,,,2551 01 108 JB 30000
+309,Grants-in-Aid,,1,1,1,2551 01 108 JB 30900
+01,Grants for Current Expenditure,,1,1,1,2551 01 108 JB 30901
+JB,Total JB,,1,1,1,
+#,State's Expenditure Total,,1,1,1,
+Total 108,,1,1,,1,
+Total 01,,1,1,,1,
+60,Other Hill Areas,,,,,
+108,Village and Small Industries,,,,,
+#,State's Expenditure,,,,,
+JB,Implementation of Sericulture Schemes under Hill Area Development Programme,,,,,2551 60 108 JB 30000
+309,Grants-in-Aid,,1,1,1,2551 60 108 JB 30900
+03,Grants for Specific Schemes,,1,1,1,2551 60 108 JB 30903
+JB,Total JB,1,1,1,,
+#,State's Expenditure Total,,1,1,1,
+108,Total 108,1,1,1,,
+60,Total 60,1,1,1,,
+2551,Total 2551,2,2,2,,
+2851-00,VILLAGE AND SMALL INDUSTRIES,,,,,
+107,Sericulture Industries,,,,,
+#,State's Expenditure,,,,,
+AA,Sericulture Development and Maintenance,,,,,2851 00 107 AA 30000
+317,Minor Works,,"6,00","6,00",1,2851 00 107 AA 31700
+01,Minor Works,,"6,00","6,00",1,2851 00 107 AA 31701
+318,Maintenance,,"3,75","3,75","9,01",2851 00 107 AA 31800
+01,Periodical Maintenance,,"1,75","1,75","9,00",2851 00 107 AA 31801
+02,Special Maintenance,,"2,00","2,00",1,2851 00 107 AA 31802
+AA,Total AA,"9,75","9,75","9,02",,
+AB,Direction and Administration,,,,,2851 00 107 AB 30000
+301,Salaries,"12,49,85","12,30,12","12,74,94","12,84,94",2851 00 107 AB 30100
+01,Pay,"11,51,29","11,44,63","11,85,83","11,95,83",2851 00 107 AB 30101
+02,Medical Allowance,"7,89","8,10","8,26","8,26",2851 00 107 AB 30102
+03,Medical Charges,"1,12",5,1,1,2851 00 107 AB 30103
+04,Other Allowances,"17,89","23,50","16,57","16,57",2851 00 107 AB 30104
+06,House Rent Allowance,"65,20","46,44","58,56","58,56",2851 00 107 AB 30106
+07,Travel Concession,2,6,1,1,2851 00 107 AB 30107
+08,City Compensatory Allowance,"6,44","7,34","5,70","5,70",2851 00 107 AB 30108
+302,Wages,80,1,,,2851 00 107 AB 30200
+01,Wages,80,1,,,2851 00 107 AB 30201
+303,Dearness Allowance,"1,09,75","1,51,24","1,86,25","2,92,98",2851 00 107 AB 30300
+01,Dearness Allowance,"1,09,75","1,51,24","1,86,25","2,92,98",2851 00 107 AB 30301
+304,Travel Expenses,"39,05","40,37","36,69","36,69",2851 00 107 AB 30400
+01,Tour Travelling Allowances,"37,96","39,26","36,00","36,00",2851 00 107 AB 30401
+02,Transfer Travelling Allowances,"1,09","1,11",69,69,2851 00 107 AB 30402
+305,Office Expenses,"24,26","26,75","28,70","29,35",2851 00 107 AB 30500
+01,Telephone Charges,"4,73","5,14","5,28","5,28",2851 00 107 AB 30501
+02,Other Contingencies,"4,07","4,13","4,22","4,13",2851 00 107 AB 30502
+03,Electricity Charges,"12,58","14,48","16,94","16,94",2851 00 107 AB 30503
+04,Service Postage & Postal Expenditure,"2,88","3,00","2,26","3,00",2851 00 107 AB 30504
+306,"Rent, Rates and Taxes","21,58","21,25","34,83","34,83",2851 00 107 AB 30600
+01,Rent,"2,23","1,88","1,88","1,88",2851 00 107 AB 30601
+02,Property tax,"18,39","18,39","31,97","31,97",2851 00 107 AB 30602
+03,Water Charges,96,98,98,98,2851 00 107 AB 30603
+308,Advertising and Publicity,"7,74","14,33","7,49","7,49",2851 00 107 AB 30800
+01,Advertisement Charges,"3,98","12,00","4,92","4,92",2851 00 107 AB 30801
+02,Exhibition,"3,76","2,33","2,57","2,57",2851 00 107 AB 30802
+310,Contributions,1,1,1,1,2851 00 107 AB 31000
+02,Insurance Premium,1,1,1,1,2851 00 107 AB 31002
+319,Machinery and Equipments,"4,64","4,69","4,01","4,01",2851 00 107 AB 31900
+01,Purchase,,1,1,1,2851 00 107 AB 31901
+03,Maintenance,"4,64","4,68","4,00","4,00",2851 00 107 AB 31903
+321,Motor Vehicles,"3,78","4,01","60,70","4,01",2851 00 107 AB 32100
+01,Purchase,,1,"56,70",1,2851 00 107 AB 32101
+02,Maintenance of Functional Vehicles,"3,78","4,00","4,00","4,00",2851 00 107 AB 32102
+324,Materials and Supplies,"4,45","3,50","3,50","3,50",2851 00 107 AB 32400
+01,Materials and Supplies,"4,45","3,50","3,50","3,50",2851 00 107 AB 32401
+333,Payments for Professional and Special Services,"45,62","93,65","63,88","65,88",2851 00 107 AB 33300
+01,Pleaders Fees,"5,70","5,43","5,88","5,88",2851 00 107 AB 33301
+04,Contract Payment,"39,92","88,22","58,00","60,00",2851 00 107 AB 33304
+345,"Petroleum, Oil and Lubricant","48,80","60,20","51,68","53,84",2851 00 107 AB 34500
+01,"Petroleum, Oil and Lubricant","48,80","60,20","51,68","53,84",2851 00 107 AB 34501
+346,"Clothing, Tentage and Stores",91,96,89,89,2851 00 107 AB 34600
+01,"Clothing, Tentage and Stores",91,96,89,89,2851 00 107 AB 34601
+347,Stores and Equipments,"2,34","2,38","2,38","2,38",2851 00 107 AB 34700
+01,Stores - Voted,"2,34","2,38","2,38","2,38",2851 00 107 AB 34701
+349,Festival Advances,24,,,,2851 00 107 AB 34900
+01,Festival Advances-Debit,"7,70","9,65","18,10","18,10",2851 00 107 AB 34901
+02,Festival Advances-Credit,"- 7,46","- 9,65","- 18,10","- 18,10",2851 00 107 AB 34902
+351,Compensation Charged,,2,26,2,2851 00 107 AB 35100
+51,Claims under no fault liability -  principal charges Charged,,1,1,1,2851 00 107 AB 35151
+52,Other Compensations Charged,,1,25,1,2851 00 107 AB 35152
+359,Prizes and Awards,14,14,49,14,2851 00 107 AB 35900
+01,Prizes and Awards,14,14,49,14,2851 00 107 AB 35901
+373,Transport Charges,59,66,70,70,2851 00 107 AB 37300
+01,Transport Charges,59,66,70,70,2851 00 107 AB 37301
+376,Computer and Accessories,"13,45","3,03","15,62","3,97",2851 00 107 AB 37600
+01,Purchase,"10,50",1,"11,66",1,2851 00 107 AB 37601
+02,Maintenance,"1,83","1,88","2,35","2,35",2851 00 107 AB 37602
+03,Stationery,"1,12","1,14","1,61","1,61",2851 00 107 AB 37603
+AB,Total AB Charged,,2,26,2,
+AB,Total AB Voted,"15,78,00","16,57,30","17,72,76","18,25,61",
+AD,Sericulture Service and Extension Centres,,,,,2851 00 107 AD 30000
+301,Salaries,"35,81","30,17","33,29","37,40",2851 00 107 AD 30100
+01,Pay,"33,56","28,15","31,32","35,43",2851 00 107 AD 30101
+02,Medical Allowance,55,55,55,55,2851 00 107 AD 30102
+04,Other Allowances,43,23,23,23,2851 00 107 AD 30104
+06,House Rent Allowance,"1,27","1,24","1,19","1,19",2851 00 107 AD 30106
+302,Wages,"6,46",,16,,2851 00 107 AD 30200
+01,Wages,"6,46",,16,,2851 00 107 AD 30201
+303,Dearness Allowance,"3,31","2,02","5,00","8,68",2851 00 107 AD 30300
+01,Dearness Allowance,"3,31","2,02","5,00","8,68",2851 00 107 AD 30301
+304,Travel Expenses,55,55,55,55,2851 00 107 AD 30400
+01,Tour Travelling Allowances,55,55,55,55,2851 00 107 AD 30401
+305,Office Expenses,53,59,54,54,2851 00 107 AD 30500
+02,Other Contingencies,11,11,11,11,2851 00 107 AD 30502
+03,Electricity Charges,42,48,43,43,2851 00 107 AD 30503
+306,"Rent, Rates and Taxes",2,5,6,6,2851 00 107 AD 30600
+02,Property tax,2,5,6,6,2851 00 107 AD 30602
+319,Machinery and Equipments,3,4,12,12,2851 00 107 AD 31900
+03,Maintenance,3,4,12,12,2851 00 107 AD 31903
+324,Materials and Supplies,63,63,51,51,2851 00 107 AD 32400
+01,Materials and Supplies,63,63,51,51,2851 00 107 AD 32401
+333,Payments for Professional and Special Services,,"7,96","6,50","6,50",2851 00 107 AD 33300
+04,Contract Payment,,"7,96","6,50","6,50",2851 00 107 AD 33304
+347,Stores and Equipments,5,6,6,6,2851 00 107 AD 34700
+01,Stores - Voted,5,6,6,6,2851 00 107 AD 34701
+349,Festival Advances,2,,,,2851 00 107 AD 34900
+01,Festival Advances-Debit,60,75,"1,30","1,30",2851 00 107 AD 34901
+02,Festival Advances-Credit,- 58,- 75,"- 1,30","- 1,30",2851 00 107 AD 34902
+364,Lands,,1,1,1,2851 00 107 AD 36400
+01,Lands - Voted,,1,1,1,2851 00 107 AD 36401
+369,Procurement of Agricultural Inputs,"1,48","1,50","1,50","1,50",2851 00 107 AD 36900
+01,Procurement of Agricultural Inputs,"1,48","1,50","1,50","1,50",2851 00 107 AD 36901
+373,Transport Charges,11,11,15,15,2851 00 107 AD 37300
+01,Transport Charges,11,11,15,15,2851 00 107 AD 37301
+AD,Total AD,"49,00","43,69","48,45","56,08",
+AE,Silk Reeling Units in the State,,,,,2851 00 107 AE 30000
+301,Salaries,"99,39","90,50","82,30","95,16",2851 00 107 AE 30100
+01,Pay,"83,60","74,57","69,66","82,52",2851 00 107 AE 30101
+02,Medical Allowance,"1,65","1,64","1,51","1,51",2851 00 107 AE 30102
+04,Other Allowances,"9,59","9,71","6,64","6,64",2851 00 107 AE 30104
+06,House Rent Allowance,"4,49","4,53","4,42","4,42",2851 00 107 AE 30106
+08,City Compensatory Allowance,6,5,7,7,2851 00 107 AE 30108
+302,Wages,"93,33",,42,,2851 00 107 AE 30200
+01,Wages,"93,33",,42,,2851 00 107 AE 30201
+303,Dearness Allowance,"7,42","9,85","12,00","20,22",2851 00 107 AE 30300
+01,Dearness Allowance,"7,42","9,85","12,00","20,22",2851 00 107 AE 30301
+304,Travel Expenses,"1,42","1,35","1,27","1,27",2851 00 107 AE 30400
+01,Tour Travelling Allowances,"1,33","1,35","1,21","1,21",2851 00 107 AE 30401
+02,Transfer Travelling Allowances,9,,6,6,2851 00 107 AE 30402
+305,Office Expenses,"2,34","2,52","2,41","2,41",2851 00 107 AE 30500
+02,Other Contingencies,12,15,15,15,2851 00 107 AE 30502
+03,Electricity Charges,"2,22","2,37","2,26","2,26",2851 00 107 AE 30503
+306,"Rent, Rates and Taxes",98,"1,07",99,99,2851 00 107 AE 30600
+01,Rent,96,"1,04",96,96,2851 00 107 AE 30601
+02,Property tax,2,3,3,3,2851 00 107 AE 30602
+319,Machinery and Equipments,33,40,40,40,2851 00 107 AE 31900
+03,Maintenance,33,40,40,40,2851 00 107 AE 31903
+324,Materials and Supplies,"4,72,74","5,29,46","4,92,80","4,92,80",2851 00 107 AE 32400
+01,Materials and Supplies,"4,72,74","5,29,46","4,92,80","4,92,80",2851 00 107 AE 32401
+333,Payments for Professional and Special Services,,"86,20","93,81","93,81",2851 00 107 AE 33300
+04,Contract Payment,,"86,20","93,81","93,81",2851 00 107 AE 33304
+347,Stores and Equipments,7,7,7,7,2851 00 107 AE 34700
+01,Stores - Voted,7,7,7,7,2851 00 107 AE 34701
+349,Festival Advances,- 22,,,,2851 00 107 AE 34900
+01,Festival Advances-Debit,"1,90","2,05","3,75","3,75",2851 00 107 AE 34901
+02,Festival Advances-Credit,"- 2,12","- 2,05","- 3,75","- 3,75",2851 00 107 AE 34902
+373,Transport Charges,"3,83","3,90","3,67","3,67",2851 00 107 AE 37300
+01,Transport Charges,"3,83","3,90","3,67","3,67",2851 00 107 AE 37301
+AE,Total AE,"6,81,63","7,25,32","6,90,14","7,10,80",
+AG,Cocoon Market in the State,,,,,2851 00 107 AG 30000
+301,Salaries,"1,49,82","1,40,14","1,30,62","1,40,60",2851 00 107 AG 30100
+01,Pay,"1,36,19","1,25,94","1,18,32","1,28,30",2851 00 107 AG 30101
+02,Medical Allowance,"1,57","1,62","1,43","1,43",2851 00 107 AG 30102
+04,Other Allowances,"4,20","4,19","4,10","4,10",2851 00 107 AG 30104
+06,House Rent Allowance,"7,49","7,93","6,38","6,38",2851 00 107 AG 30106
+08,City Compensatory Allowance,37,46,39,39,2851 00 107 AG 30108
+302,Wages,"8,59",,10,,2851 00 107 AG 30200
+01,Wages,"8,59",,10,,2851 00 107 AG 30201
+303,Dearness Allowance,"13,11","10,04","19,00","31,43",2851 00 107 AG 30300
+01,Dearness Allowance,"13,11","10,04","19,00","31,43",2851 00 107 AG 30301
+304,Travel Expenses,"2,10","2,21","2,02","2,02",2851 00 107 AG 30400
+01,Tour Travelling Allowances,"2,10","2,20","2,01","2,01",2851 00 107 AG 30401
+02,Transfer Travelling Allowances,,1,1,1,2851 00 107 AG 30402
+305,Office Expenses,"7,57","8,34","7,65","7,64",2851 00 107 AG 30500
+02,Other Contingencies,56,59,60,59,2851 00 107 AG 30502
+03,"Electricity Charges""","7,01","7,75","7,05","7,05",2851 00 107 AG 30503
+306,"Rent, Rates and Taxes","4,08","4,15","5,79","5,79",2851 00 107 AG 30600
+01,Rent,,1,1,1,2851 00 107 AG 30601
+02,Property tax,"3,77","3,78","5,42","5,42",2851 00 107 AG 30602
+03,Water Charges,5,6,6,6,2851 00 107 AG 30603
+05,Others,26,30,30,30,2851 00 107 AG 30605
+319,Machinery and Equipments,23,26,26,28,2851 00 107 AG 31900
+03,Maintenance,23,26,26,28,2851 00 107 AG 31903
+324,Materials and Supplies,"2,41","2,49","2,49","2,49",2851 00 107 AG 32400
+01,Materials and Supplies,"2,41","2,49","2,49","2,49",2851 00 107 AG 32401
+333,Payments for Professional and Special Services,,"8,71","8,48","8,48",2851 00 107 AG 33300
+04,Contract Payment,,"8,71","8,48","8,48",2851 00 107 AG 33304
+347,Stores and Equipments,37,38,38,38,2851 00 107 AG 34700
+01,Stores - Voted,37,38,38,38,2851 00 107 AG 34701
+349,Festival Advances,6,,,,2851 00 107 AG 34900
+01,Festival Advances-Debit,"1,70","1,90","3,60","3,60",2851 00 107 AG 34901
+02,Festival Advances-Credit,"- 1,64","- 1,90","- 3,60","- 3,60",2851 00 107 AG 34902
+371,Printing Charges,9,7,1,1,2851 00 107 AG 37100
+01,Printing Charges,9,7,1,1,2851 00 107 AG 37101
+373,Transport Charges,10,11,11,11,2851 00 107 AG 37300
+01,Transport Charges,10,11,11,11,2851 00 107 AG 37301
+376,Computer and Accessories,14,18,26,26,2851 00 107 AG 37600
+02,Maintenance,11,12,20,20,2851 00 107 AG 37602
+03,Stationery,3,6,6,6,2851 00 107 AG 37603
+AG,Total AG,"1,88,67","1,77,08","1,77,17","1,99,49",
+AO,Large Scale Silk Farms in the State,,,,,2851 00 107 AO 30000
+301,Salaries,"2,80,83","1,52,22","1,87,15","2,07,15",2851 00 107 AO 30100
+01,Pay,"2,33,48","1,07,46","1,60,95","1,80,95",2851 00 107 AO 30101
+02,Medical Allowance,"4,68","4,48","3,45","3,45",2851 00 107 AO 30102
+04,Other Allowances,"33,72","31,33","17,21","17,21",2851 00 107 AO 30104
+06,House Rent Allowance,"8,95","8,95","5,54","5,54",2851 00 107 AO 30106
+302,Wages,"18,31",,29,,2851 00 107 AO 30200
+01,Wages,"18,31",,29,,2851 00 107 AO 30201
+303,Dearness Allowance,"21,03","14,20","25,47","44,33",2851 00 107 AO 30300
+01,Dearness Allowance,"21,03","14,20","25,47","44,33",2851 00 107 AO 30301
+304,Travel Expenses,"3,01","3,06","2,75","2,75",2851 00 107 AO 30400
+01,Tour Travelling Allowances,"2,90","3,05","2,74","2,74",2851 00 107 AO 30401
+02,Transfer Travelling Allowances,11,1,1,1,2851 00 107 AO 30402
+305,Office Expenses,"5,39","6,07","6,82","6,82",2851 00 107 AO 30500
+02,Other Contingencies,34,33,33,33,2851 00 107 AO 30502
+03,Electricity Charges,"5,05","5,74","6,49","6,49",2851 00 107 AO 30503
+306,"Rent, Rates and Taxes","1,02","1,04","1,06","1,06",2851 00 107 AO 30600
+02,"Property tax""",87,89,89,89,2851 00 107 AO 30602
+04,Lease for Land,15,15,17,17,2851 00 107 AO 30604
+319,Machinery and Equipments,54,56,52,52,2851 00 107 AO 31900
+03,Maintenance,54,56,52,52,2851 00 107 AO 31903
+324,Materials and Supplies,"5,74","5,77","5,51","5,51",2851 00 107 AO 32400
+01,Materials and Supplies,"5,74","5,77","5,51","5,51",2851 00 107 AO 32401
+333,Payments for Professional and Special Services,,"21,75","17,43","17,43",2851 00 107 AO 33300
+04,Contract Payment,,"21,75","17,43","17,43",2851 00 107 AO 33304
+347,Stores and Equipments,61,62,62,62,2851 00 107 AO 34700
+01,Stores - Voted,61,62,62,62,2851 00 107 AO 34701
+349,Festival Advances,38,,,,2851 00 107 AO 34900
+01,Festival Advances-Debit,"5,70","6,20","11,30","11,30",2851 00 107 AO 34901
+02,Festival Advances-Credit,"- 5,32","- 6,20","- 11,30","- 11,30",2851 00 107 AO 34902
+369,Procurement of Agricultural Inputs,"7,94","10,35","8,43","8,43",2851 00 107 AO 36900
+01,Procurement of Agricultural Inputs,"7,94","10,35","8,43","8,43",2851 00 107 AO 36901
+373,Transport Charges,54,60,56,56,2851 00 107 AO 37300
+01,Transport Charges,54,60,56,56,2851 00 107 AO 37301
+AO,Total AO,"3,45,34","2,16,24","2,56,61","2,95,18",
+AY,Training Centre,,,,,2851 00 107 AY 30000
+301,Salaries,"1,74,26","1,79,08","1,48,17","1,68,17",2851 00 107 AY 30100
+01,Pay,"1,55,37","1,59,70","1,31,09","1,51,09",2851 00 107 AY 30101
+02,Medical Allowance,"1,97","2,00","1,89","1,89",2851 00 107 AY 30102
+03,Medical Charges,,1,,,2851 00 107 AY 30103
+04,Other Allowances,"8,56","8,79","7,83","7,83",2851 00 107 AY 30104
+06,House Rent Allowance,"8,09","8,33","7,11","7,11",2851 00 107 AY 30106
+08,City Compensatory Allowance,27,25,25,25,2851 00 107 AY 30108
+302,Wages,"20,46",,26,,2851 00 107 AY 30200
+01,Wages,"20,46",,26,,2851 00 107 AY 30201
+303,Dearness Allowance,"17,71","21,10","20,75","37,02",2851 00 107 AY 30300
+01,Dearness Allowance,"17,71","21,10","20,75","37,02",2851 00 107 AY 30301
+304,Travel Expenses,"4,34","4,52","3,32","3,32",2851 00 107 AY 30400
+01,Tour Travelling Allowances,"4,31","4,42","3,27","3,27",2851 00 107 AY 30401
+02,Transfer Travelling Allowances,3,10,5,5,2851 00 107 AY 30402
+305,Office Expenses,"5,52","7,44","5,15","5,15",2851 00 107 AY 30500
+02,Other Contingencies,25,26,26,26,2851 00 107 AY 30502
+03,Electricity Charges,"5,27","7,18","4,89","4,89",2851 00 107 AY 30503
+306,"Rent, Rates and Taxes","2,92","3,65","5,68","5,68",2851 00 107 AY 30600
+02,Property tax,"2,92","3,65","5,68","5,68",2851 00 107 AY 30602
+319,Machinery and Equipments,49,60,60,70,2851 00 107 AY 31900
+03,Maintenance,49,60,60,70,2851 00 107 AY 31903
+324,Materials and Supplies,"1,94","2,10","1,82","1,82",2851 00 107 AY 32400
+01,Materials and Supplies,"1,94","2,10","1,82","1,82",2851 00 107 AY 32401
+333,Payments for Professional and Special Services,,"26,78","22,89","22,89",2851 00 107 AY 33300
+04,Contract Payment,,"26,78","22,89","22,89",2851 00 107 AY 33304
+347,Stores and Equipments,15,45,16,16,2851 00 107 AY 34700
+01,Stores - Voted,15,45,16,16,2851 00 107 AY 34701
+349,Festival Advances,- 13,,,,2851 00 107 AY 34900
+01,Festival Advances-Debit,"1,96","2,55","3,90","3,90",2851 00 107 AY 34901
+02,Festival Advances-Credit,"- 2,09","- 2,55","- 3,90","- 3,90",2851 00 107 AY 34902
+369,Procurement of Agricultural Inputs,"3,18",45,"3,49","3,49",2851 00 107 AY 36900
+01,Procurement of Agricultural Inputs,"3,18",45,"3,49","3,49",2851 00 107 AY 36901
+372,Training,"2,00","2,00","2,00","2,00",2851 00 107 AY 37200
+01,Training,"2,00","2,00","2,00","2,00",2851 00 107 AY 37201
+373,Transport Charges,87,88,84,84,2851 00 107 AY 37300
+01,Transport Charges,87,88,84,84,2851 00 107 AY 37301
+AY,Total AY,"2,33,71","2,49,05","2,15,13","2,51,24",
+AZ,Expansion of Grainage activities in the State,,,,,2851 00 107 AZ 30000
+301,Salaries,"2,48,97","2,66,37","2,17,78","2,33,78",2851 00 107 AZ 30100
+01,Pay,"2,24,13","2,40,62","1,95,98","2,11,98",2851 00 107 AZ 30101
+02,Medical Allowance,"2,56","2,61","2,40","2,40",2851 00 107 AZ 30102
+04,Other Allowances,"9,56","10,21","8,26","8,26",2851 00 107 AZ 30104
+06,House Rent Allowance,"12,12","12,26","10,63","10,63",2851 00 107 AZ 30106
+07,Travel Concession,,1,,,2851 00 107 AZ 30107
+08,City Compensatory Allowance,60,66,51,51,2851 00 107 AZ 30108
+303,Dearness Allowance,"22,52","31,79","31,05","51,94",2851 00 107 AZ 30300
+01,Dearness Allowance,"22,52","31,79","31,05","51,94",2851 00 107 AZ 30301
+304,Travel Expenses,"9,20","9,21","8,92","8,92",2851 00 107 AZ 30400
+01,Tour Travelling Allowances,"9,15","9,16","8,91","8,91",2851 00 107 AZ 30401
+02,Transfer Travelling Allowances,5,5,1,1,2851 00 107 AZ 30402
+306,"Rent, Rates and Taxes","4,97","5,02","7,17","7,17",2851 00 107 AZ 30600
+02,Property tax,"4,52","4,52","6,80","6,80",2851 00 107 AZ 30602
+03,Water Charges,45,50,37,37,2851 00 107 AZ 30603
+349,Festival Advances,- 10,,,,2851 00 107 AZ 34900
+01,Festival Advances-Debit,"2,62","3,10","5,90","5,90",2851 00 107 AZ 34901
+02,Festival Advances-Credit,"- 2,72","- 3,10","- 5,90","- 5,90",2851 00 107 AZ 34902
+AZ,Total AZ,"2,85,56","3,12,39","2,64,92","3,01,81",
+BA,Schemes for Re-organisation of Silk Worm Seed Production Programme,,,,,2851 00 107 BA 30000
+301,Salaries,"4,70,26","4,64,62","3,97,93","4,28,40",2851 00 107 BA 30100
+01,Pay,"3,80,22","3,74,15","3,26,53","3,57,00",2851 00 107 BA 30101
+02,Medical Allowance,"4,93","5,09","4,65","4,65",2851 00 107 BA 30102
+03,Medical Charges,,4,,,2851 00 107 BA 30103
+04,Other Allowances,"65,26","65,62","51,04","51,04",2851 00 107 BA 30104
+06,House Rent Allowance,"19,75","19,62","15,61","15,61",2851 00 107 BA 30106
+08,City Compensatory Allowance,10,10,10,10,2851 00 107 BA 30108
+302,Wages,"19,52",,27,,2851 00 107 BA 30200
+01,Wages,"19,52",,27,,2851 00 107 BA 30201
+303,Dearness Allowance,"34,96","49,44","51,66","87,46",2851 00 107 BA 30300
+01,Dearness Allowance,"34,96","49,44","51,66","87,46",2851 00 107 BA 30301
+304,Travel Expenses,"8,56","8,76","10,66","10,66",2851 00 107 BA 30400
+01,Tour Travelling Allowances,"8,21","8,38","10,25","10,25",2851 00 107 BA 30401
+02,Transfer Travelling Allowances,35,38,41,41,2851 00 107 BA 30402
+305,Office Expenses,"12,30","13,71","13,61","13,58",2851 00 107 BA 30500
+02,Other Contingencies,71,73,76,73,2851 00 107 BA 30502
+03,Electricity Charges,"11,59","12,98","12,85","12,85",2851 00 107 BA 30503
+306,"Rent, Rates and Taxes","1,71","1,77","3,94","3,94",2851 00 107 BA 30600
+02,Property tax,"1,59","1,64","3,81","3,81",2851 00 107 BA 30602
+03,Water Charges,12,13,13,13,2851 00 107 BA 30603
+319,Machinery and Equipments,"8,09","8,11","8,75","9,38",2851 00 107 BA 31900
+03,Maintenance,"8,09","8,11","8,75","9,38",2851 00 107 BA 31903
+324,Materials and Supplies,"5,90","6,05","6,10","6,10",2851 00 107 BA 32400
+01,Materials and Supplies,"5,90","6,05","6,10","6,10",2851 00 107 BA 32401
+333,Payments for Professional and Special Services,,"14,66","17,25","15,25",2851 00 107 BA 33300
+04,Contract Payment,,"14,66","17,25","15,25",2851 00 107 BA 33304
+346,"Clothing, Tentage and Stores",6,6,7,7,2851 00 107 BA 34600
+01,"Clothing, Tentage and Stores",6,6,7,7,2851 00 107 BA 34601
+347,Stores and Equipments,51,51,54,54,2851 00 107 BA 34700
+01,Stores - Voted,51,51,54,54,2851 00 107 BA 34701
+349,Festival Advances,- 74,,,,2851 00 107 BA 34900
+01,Festival Advances-Debit,"5,40","5,90","11,80","11,80",2851 00 107 BA 34901
+02,Festival Advances-Credit,"- 6,14","- 5,90","- 11,80","- 11,80",2851 00 107 BA 34902
+369,Procurement of Agricultural Inputs,"9,33","10,61","9,49","9,49",2851 00 107 BA 36900
+01,Procurement of Agricultural Inputs,"9,33","10,61","9,49","9,49",2851 00 107 BA 36901
+373,Transport Charges,65,74,97,97,2851 00 107 BA 37300
+01,Transport Charges,65,74,97,97,2851 00 107 BA 37301
+BA,Total BA,"5,71,11","5,79,04","5,21,24","5,85,84",
+BB,Establishment of Sericulture Extension and Development Centre,,,,,2851 00 107 BB 30000
+301,Salaries,"14,74,52","17,52,08","13,53,38","13,74,34",2851 00 107 BB 30100
+01,Pay,"13,56,25","16,35,70","12,44,35","12,65,31",2851 00 107 BB 30101
+02,Medical Allowance,"13,08","13,22","12,75","12,75",2851 00 107 BB 30102
+03,Medical Charges,,1,,,2851 00 107 BB 30103
+04,Other Allowances,"41,81","41,99","36,59","36,59",2851 00 107 BB 30104
+06,House Rent Allowance,"61,52","59,66","57,90","57,90",2851 00 107 BB 30106
+07,Travel Concession,,3,,,2851 00 107 BB 30107
+08,City Compensatory Allowance,"1,86","1,47","1,79","1,79",2851 00 107 BB 30108
+303,Dearness Allowance,"1,29,97","2,16,13","2,00,46","3,10,00",2851 00 107 BB 30300
+01,Dearness Allowance,"1,29,97","2,16,13","2,00,46","3,10,00",2851 00 107 BB 30301
+304,Travel Expenses,"46,77","47,33","49,23","49,23",2851 00 107 BB 30400
+01,Tour Travelling Allowances,"46,43","46,97","48,87","48,87",2851 00 107 BB 30401
+02,Transfer Travelling Allowances,34,36,36,36,2851 00 107 BB 30402
+305,Office Expenses,"2,76","3,23","3,36","3,16",2851 00 107 BB 30500
+02,Other Contingencies,"1,60","1,66","1,86","1,66",2851 00 107 BB 30502
+03,"Electricity Charges""","1,16","1,57","1,50","1,50",2851 00 107 BB 30503
+306,"Rent, Rates and Taxes","6,95","7,88","9,69","9,69",2851 00 107 BB 30600
+01,Rent,"5,49","6,07","8,06","8,06",2851 00 107 BB 30601
+02,Property tax,"1,42","1,64","1,59","1,59",2851 00 107 BB 30602
+03,Water Charges,4,17,4,4,2851 00 107 BB 30603
+347,Stores and Equipments,17,19,20,20,2851 00 107 BB 34700
+01,Stores - Voted,17,19,20,20,2851 00 107 BB 34701
+349,Festival Advances,- 3,,,,2851 00 107 BB 34900
+01,Festival Advances-Debit,"12,88","17,10","34,30","34,30",2851 00 107 BB 34901
+02,Festival Advances-Credit,"- 12,91","- 17,10","- 34,30","- 34,30",2851 00 107 BB 34902
+359,Prizes and Awards,,,2,,2851 00 107 BB 35900
+01,Prizes and Awards,,,2,,2851 00 107 BB 35901
+BB,Total BB,"16,61,11","20,26,84","16,16,34","17,46,62",
+KG,"Scheme for Mulberry Expansion, Administration and Monitoring",,,,,2851 00 107 KG 30000
+311,Subsidies,"24,01,18","11,06,00","20,68,67","11,06,00",2851 00 107 KG 31100
+01,Individual Based Subsidy,"24,01,18","11,06,00","20,68,67","11,06,00",2851 00 107 KG 31101
+319,Machinery and Equipments,,1,1,1,2851 00 107 KG 31900
+01,Purchase,,1,1,1,2851 00 107 KG 31901
+359,Prizes and Awards,"20,85","20,85","20,85","20,85",2851 00 107 KG 35900
+01,Prizes and Awards,"20,85","20,85","20,85","20,85",2851 00 107 KG 35901
+KG,Total KG,"24,22,03","11,26,86","20,89,53","11,26,86",
+LE,"Assistance to Research and Publicity, Mass Disinfection, TANSILK, etc.",,,,,2851 00 107 LE 30000
+309,Grants-in-Aid,"2,05,44","1,00,00","3,45,00","2,45,00",2851 00 107 LE 30900
+03,Grants for Specific Schemes,"2,05,44","1,00,00","3,45,00","2,45,00",2851 00 107 LE 30903
+LE,Total LE,"2,05,44","1,00,00","3,45,00","2,45,00",
+#,State's Expenditure Total Charged,,2,26,2,
+#,State's Expenditure Total Voted,"82,21,60","72,23,56","80,07,04","73,53,55",
+107,Total 107 Charged,,2,26,2,
+107,Total 107 Voted,"82,21,60","72,23,56","80,07,04","73,53,55",
+110,Composite village and Small Industries and Co-operatives,,,,,
+#,State's Expenditure,,,,,
+AD,Assistance to Industrial Co-operative Societies under the control of Director of Sericulture,,,,,2851 00 110 AD 30000
+301,Salaries,,4,"5,74",4,2851 00 110 AD 30100
+01,Pay,,1,"5,60",1,2851 00 110 AD 30101
+02,Medical Allowance,,1,1,1,2851 00 110 AD 30102
+04,Other Allowances,,1,1,1,2851 00 110 AD 30104
+06,House Rent Allowance,,1,12,1,2851 00 110 AD 30106
+303,Dearness Allowance,,1,"3,50",,2851 00 110 AD 30300
+01,Dearness Allowance,,1,"3,50",,2851 00 110 AD 30301
+AD,Total AD,5,"9,24",4,,
+#,State's Expenditure Total,,5,"9,24",4,
+110,Total 110,5,"9,24",4,,
+797,Transfer to Reserve Fund / Deposit Account,,,,,
+#,State's Expenditure,,,,,
+JA,Amount transferred to Sericulture Development and Price Stabilisation Fund,,,,,2851 00 797 JA 30000
+330,Inter-Account Transfers,"1,86,33","1,90,00","1,50,00","1,50,00",2851 00 797 JA 33000
+01,Inter-Account Transfers,"1,86,33","1,90,00","1,50,00","1,50,00",2851 00 797 JA 33001
+JA,Total JA,"1,86,33","1,90,00","1,50,00","1,50,00",
+#,State's Expenditure Total,"1,86,33","1,90,00","1,50,00","1,50,00",
+797,Total 797,"1,86,33","1,90,00","1,50,00","1,50,00",
+902,Deduct - Amount met from State Innovation Fund,,,,,
+#,State's Expenditure,,,,,
+JA,Deduct - Amount met from Sericulture Development and Price Stabilisation Fund,,,,,2851 00 902 JA 30000
+330,Inter-Account Transfers,"- 2,05,44","- 1,00,00","- 3,45,00","- 1,95,00",2851 00 902 JA 33000
+01,Inter-Account Transfers,"- 2,05,44","- 1,00,00","- 3,45,00","- 1,95,00",2851 00 902 JA 33001
+JA,Total JA,"- 2,05,44","- 1,00,00","- 3,45,00","- 1,95,00",
+#,State's Expenditure Total,"- 2,05,44","- 1,00,00","- 3,45,00","- 1,95,00",
+902,Total 902,"- 2,05,44","- 1,00,00","- 3,45,00","- 1,95,00",
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+AD,Sericulture Service and Extension Centres,,,,,2851 00 911 AD 30000
+377,Deduct-Recoveries,"- 4,14",,,,2851 00 911 AD 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"- 4,14",,,,2851 00 911 AD 37702
+AD,Total AD,"- 4,14",,,,
+AE,Silk Reeling Units in the State,,,,,2851 00 911 AE 30000
+377,Deduct-Recoveries,"- 3,60",,,,2851 00 911 AE 37700
+03,Other Recoveries,"- 3,60",,,,2851 00 911 AE 37703
+AE,Total AE,"- 3,60",,,,
+AG,Cocoon Market in the State,,,,,2851 00 911 AG 30000
+377,Deduct-Recoveries,"- 1,36",,,,2851 00 911 AG 37700
+03,Other Recoveries,"- 1,36",,,,2851 00 911 AG 37703
+AG,Total AG,"- 1,36",,,,
+AX,Direction and Administration,,,,,2851 00 911 AX 30000
+377,Deduct-Recoveries,- 14,,,,2851 00 911 AX 37700
+03,Other Recoveries,- 14,,,,2851 00 911 AX 37703
+AX,Total AX,- 14,,,,
+AZ,Expansion of Grainage activities in the State,,,,,2851 00 911 AZ 30000
+377,Deduct-Recoveries,"- 5,00",,,,2851 00 911 AZ 37700
+03,Other Recoveries,"- 5,00",,,,2851 00 911 AZ 37703
+AZ,Total AZ,"- 5,00",,,,
+BA,Schemes for Re-organisation of Silk Worm Seed Production Programme,,,,,2851 00 911 BA 30000
+377,Deduct-Recoveries,"- 2,01",,,,2851 00 911 BA 37700
+03,Other Recoveries,"- 2,01",,,,2851 00 911 BA 37703
+BA,Total BA,"- 2,01",,,,
+BB,Establishment of Sericulture Extension and Development Centre,,,,,2851 00 911 BB 30000
+377,Deduct-Recoveries,"- 4,40",,,,2851 00 911 BB 37700
+03,Other Recoveries,"- 4,40",,,,2851 00 911 BB 37703
+BB,Total BB,"- 4,40",,,,
+KG,Scheme for Mulberry Expansion, Administration and Monitoring,,,,2851 00 911 KG 30000
+377,Deduct-Recoveries,"- 28,21",,,,2851 00 911 KG 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"- 28,21",,,,2851 00 911 KG 37702
+KG,Total KG,"- 28,21",,,,
+#,State's Expenditure Total,"- 48,86",,,,
+911,Total 911,"- 48,86",,,,
+00,Total 00 Charged,,2,26,2,
+00,Total 00 Voted,"81,53,63","73,13,61","78,21,28","73,08,59",
+2851,Total 2851 Charged,,2,26,2,
+2851,Total 2851 Voted,"81,53,63","73,13,61","78,21,28","73,08,59",
+4851-00,CAPITAL OUTLAY ON VILLAGE AND SMALL INDUSTRIES,,,,,
+107,Sericulture Industries,,,,,
+#,State's Expenditure,,,,,
+KE,Directorate of Sericulture,,,,,4851 00 107 KE 40000
+416,Major Works,,,"55,80",,4851 00 107 KE 41600
+01,Major Works,,,"55,80",,4851 00 107 KE 41601
+KE,Total KE,,"55,80",,,
+#,State's Expenditure Total,,,"55,80",,
+107,Total 107,,"55,80",,,
+00,Total 00,,"55,80",,,
+4851,Total 4851,,"55,80",,,

@@ -1,0 +1,96 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2851-00,VILLAGE AND SMALL INDUSTRIES,,,,,
+104,Handicraft Industries,,,,,
+#,State's Expenditure,,,,,
+JN,Assistance to Tamil Nadu Handicrafts Development Corporation - Khadi and Village Industries,,,,,2851 00 104 JN 30000
+309,Grants-in-Aid,"12,34,50","2,81,50","6,56,50","2,81,50",2851 00 104 JN 30900
+03,Grants for Specific Schemes,"12,34,50","2,81,50","6,56,50","2,81,50",2851 00 104 JN 30903
+JN,Total JN,"12,34,50","2,81,50","6,56,50","2,81,50",
+JP,Promoting Heritage and Handicrafts of Tamil Nadu under State Innovation Fund,,,,,2851 00 104 JP 30000
+309,Grants-in-Aid,,"14,20","28,40",1,2851 00 104 JP 30900
+03,Grants for Specific Schemes,,"14,20","28,40",1,2851 00 104 JP 30903
+JP,Total JP,"14,20","28,40",1,,
+#,State's Expenditure Total,"12,34,50","2,95,70","6,84,90","2,81,51",
+104,Total 104,"12,34,50","2,95,70","6,84,90","2,81,51",
+105,Khadi and Village Industries,,,,,
+#,State's Expenditure,,,,,
+AB,Grants to the Tamil Nadu Khadi and Village Industries Board towards the payment of Audit fees,,,,,2851 00 105 AB 30000
+309,Grants-in-Aid,"3,84,69","3,94,69","5,13,64","5,24,15",2851 00 105 AB 30900
+09,Others,"3,84,69","3,94,69","5,13,64","5,24,15",2851 00 105 AB 30909
+AB,Total AB,"3,84,69","3,94,69","5,13,64","5,24,15",
+AJ,Grants for Development of Khadi,,,,,2851 00 105 AJ 30000
+309,Grants-in-Aid,"94,65,42","86,05,00","95,42,52","93,84,36",2851 00 105 AJ 30900
+01,Grants for Current Expenditure,"94,65,42","86,05,00","95,42,52","93,84,36",2851 00 105 AJ 30901
+AJ,Total AJ,"94,65,42","86,05,00","95,42,52","93,84,36",
+AL,Rebate  on Sale of Khadi Cloth to Khadi Board,,,,,2851 00 105 AL 30000
+311,Subsidies,"2,00,00","4,00,00","4,00,00","4,00,00",2851 00 105 AL 31100
+02,General Subsidy,"2,00,00","4,00,00","4,00,00","4,00,00",2851 00 105 AL 31102
+AL,Total AL,"2,00,00","4,00,00","4,00,00","4,00,00",
+AM,Rebate on Sale of Khadi Cloth to Other Certified Institutions,,,,,2851 00 105 AM 30000
+311,Subsidies,"30,00,00","30,00,00","30,00,00","30,00,00",2851 00 105 AM 31100
+02,General Subsidy,"30,00,00","30,00,00","30,00,00","30,00,00",2851 00 105 AM 31102
+AM,Total AM,"30,00,00","30,00,00","30,00,00","30,00,00",
+AN,Provision of Maintenance Allowance to Potters during Rainy Season,,,,,2851 00 105 AN 30000
+309,Grants-in-Aid,"5,78,58","5,94,25","5,99,65","6,02,60",2851 00 105 AN 30900
+03,Grants for Specific Schemes,"5,78,58","5,94,25","5,99,65","6,02,60",2851 00 105 AN 30903
+AN,Total AN,"5,78,58","5,94,25","5,99,65","6,02,60",
+AO,Distribution of Shaila Wheel to Potters,,,,,2851 00 105 AO 30000
+309,Grants-in-Aid,"4,08,00","4,08,00",,"4,08,00",2851 00 105 AO 30900
+03,Grants for Specific Schemes,"4,08,00","4,08,00",,"4,08,00",2851 00 105 AO 30903
+AO,Total AO,"4,08,00","4,08,00",,"4,08,00",
+JP,Assistance to Village Industries Development,,,,,2851 00 105 JP 30000
+309,Grants-in-Aid,"83,21",1,"30,00",1,2851 00 105 JP 30900
+03,Grants for Specific Schemes,"83,21",1,"30,00",1,2851 00 105 JP 30903
+318,Maintenance,,,"66,56",,2851 00 105 JP 31800
+02,Special Maintenance,,,"66,56",,2851 00 105 JP 31802
+319,Machinery and Equipments,,,"10,00",,2851 00 105 JP 31900
+01,Purchase,,,"10,00",,2851 00 105 JP 31901
+JP,otal JP,"83,21",1,"1,06,56",1,
+KG,Khadi Workers Welfare Board,,,,,2851 00 105 KG 30000
+309,Grants-in-Aid,,1,1,1,2851 00 105 KG 30900
+03,Grants for Specific Schemes,,1,1,1,2851 00 105 KG 30903
+KG,Total KG,1,1,1,,
+KI,Installation of Vending machine for sale of Khadi and Village Industries product under State Innovation Fund,,,,,2851 00 105 KI 30000
+319,Machinery and Equipments,,,"20,00",,2851 00 105 KI 31900
+01,Purchase,,,"20,00",,2851 00 105 KI 31901
+KI,Total KI,,,"20,00",,
+#,State's Expenditure Total,"1,41,19,90","1,34,01,96","1,41,82,38","1,43,19,13",
+105,Total 105,"1,41,19,90","1,34,01,96","1,41,82,38","1,43,19,13",
+190,Assistance to Public Undertakings,,,,,
+#,Schemes shared between State and Centre,,,,,
+#,Schemes shared between State and Centre,,,,,
+UA,Integrated Development and Promotion of Handicrafts,,,,,2851 00 190 UA 30000
+309,Grants-in-Aid,"1,31,53",,,,2851 00 190 UA 30900
+03,Grants for Specific Schemes,"1,31,53",,,,2851 00 190 UA 30903
+UA,Total UA,"1,31,53",,,,
+#,Schemes shared between State and Centre Total,"1,31,53",,,,
+190,Total 190,"1,31,53",,,,
+200,Other Village Industries,,,,,
+#,State's Expenditure,,,,,
+JA,Grants to Tamil Nadu Palm products Development Board for Development of Palm Units,,,,,2851 00 200 JA 30000
+309,Grants-in-Aid,,1,1,1,2851 00 200 JA 30900
+03,Grants for Specific Schemes,,1,1,1,2851 00 200 JA 30903
+JA,Total JA,,1,1,1,
+#,State's Expenditure Total,,1,1,1,
+200,Total 200,,1,1,1,
+902,Deduct - Amount met from State Innovation Fund,,,,,
+#,State's Expenditure,,,,,
+JE,Deduct - Amount met from State Innovation Fund,,,,,2851 00 902 JE 30000
+330,Inter-Account Transfers,,,"- 20,00",1,2851 00 902 JE 33000
+01,Inter-Account Transfers,,,"- 20,00",1,2851 00 902 JE 33001
+JE,Total JE,,,"- 20,00",1,
+#,State's Expenditure Total,,,"- 20,00",1,
+902,Total 902,,,"- 20,00",1,
+00,Total 00,"1,54,85,93","1,36,97,67","1,48,47,29","1,46,00,66",
+2851,Total 2851,"1,54,85,93","1,36,97,67","1,48,47,29","1,46,00,66",
+6851-00,LOANS FOR VILLAGE AND SMALL INDUSTRIES,,,,,
+105,Khadi and Village Industries,,,,,
+#,State's Expenditure,,,,,
+AA,Loans to Khadi and Village Industries Board,,,,,6851 00 105 AA 50000
+502,Loan-Outgo,,1,,,6851 00 105 AA 50200
+01,Bearing Interest,,1,,,6851 00 105 AA 50201
+AA,Total AA,1,,,,
+#,State's Expenditure Total,,1,,,
+105,Total 105,1,,,,
+00,Total 00,1,,,,
+6851,Total 6851,1,,,,
