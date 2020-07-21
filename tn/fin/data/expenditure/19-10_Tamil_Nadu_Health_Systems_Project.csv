@@ -1,0 +1,133 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2210,MEDICAL AND PUBLIC HEALTH,,,,,
+01,Urban Health Services-Allopathy,,,,,
+110,Hospitals and Dispensaries,,,,,
+#,Externally Aided Projects Externally Aided Project,,,,,
+PC,Tamil Nadu Urban Health Care Project,,,,,2210 01 110 PC 30000
+309,Grants-in-Aid,"2,12,34","21,88,64",1,"13,75,00",2210 01 110 PC 30900
+03,Grants for Specific Schemes,"2,12,34","21,88,64",1,"13,75,00",2210 01 110 PC 30903
+319,Machinery and Equipments,"1,09,47,06","1,18,00,00",1,"2,64,40,00",2210 01 110 PC 31900
+01,Purchase,"1,09,47,06","1,18,00,00",1,"2,64,40,00",2210 01 110 PC 31901
+PC,Total PC,"1,11,59,40","1,39,88,64",2,"2,78,15,00",
+PG,Tamil Nadu Health System Reform Project,,,,,2210 01 110 PG 30000
+309,Grants-in-Aid,"1,00,00",1,"39,57,68","1,44,27,33",2210 01 110 PG 30900
+03,Grants for Specific Schemes,"1,00,00",1,"39,57,68","1,44,27,33",2210 01 110 PG 30903
+PG,Total PG,"1,00,00",1,"39,57,68","1,44,27,33",
+#,Externally Aided Projects Total,"1,12,59,40","1,39,88,65","39,57,70","4,22,42,33",
+110,Total 110,"1,12,59,40","1,39,88,65","39,57,70","4,22,42,33",
+911,Deduct - Recoveries of Overpayments Externally Aided Project,,,,,
+PA,Rationalization of Secondary Care Facilities under Health System Project,,,,,2210 01 911 PA 30000
+377,Deduct-Recoveries,- 55,,,,2210 01 911 PA 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,- 55,,,,2210 01 911 PA 37702
+PA,Total PA,- 55,,,,
+#,Externally Aided Projects Total,- 55,,,,
+911,Total 911,- 55,,,,
+01,Total 01,"1,12,58,85","1,39,88,65","39,57,70","4,22,42,33",
+80,General,,,,,
+789,Special Component Plan for Scheduled Castes,,,,,
+#,State's Expenditure,,,,,
+JB,Ineligible Cost of Emergency Ambulance Service under National Rural Health Mission Schemes under Special Component Plan,,,,,2210 80 789 JB 30000
+309,Grants-in-Aid,"13,92,76","13,92,76","13,92,76","13,92,76",2210 80 789 JB 30900
+03,Grants for Specific Schemes,"13,92,76","13,92,76","13,92,76","13,92,76",2210 80 789 JB 30903
+JB,Total JB,"13,92,76","13,92,76","13,92,76","13,92,76",
+JC,Chief Ministers Comprehensive Health Insurance Scheme,,,,,2210 80 789 JC 30000
+308,Advertising and Publicity,,1,1,1,2210 80 789 JC 30800
+01,Advertisement Charges,,1,1,1,2210 80 789 JC 30801
+310,Contributions,"2,85,82,85","2,65,23,00","2,16,46,17","2,16,46,17",2210 80 789 JC 31000
+02,Insurance Premium,"2,85,82,85","2,65,23,00","2,16,46,17","2,16,46,17",2210 80 789 JC 31002
+JC,Total JC,"2,85,82,85","2,65,23,01","2,16,46,18","2,16,46,18",
+#,State's Expenditure Total,"2,99,75,61","2,79,15,77","2,30,38,94","2,30,38,94",
+789,Total 789,"2,99,75,61","2,79,15,77","2,30,38,94","2,30,38,94",
+796,Tribal Area Sub-Plan,,,,,
+#,State's Expenditure,,,,,
+JB,Chief Ministers Comprehensive Health Insurance Scheme,,,,,2210 80 796 JB 30000
+310,Contributions,"13,61,08","12,63,00","10,30,77","10,30,77",2210 80 796 JB 31000
+02,Insurance Premium,"13,61,08","12,63,00","10,30,77","10,30,77",2210 80 796 JB 31002
+JB,Total JB,"13,61,08","12,63,00","10,30,77","10,30,77",
+#,State's Expenditure Total,"13,61,08","12,63,00","10,30,77","10,30,77",
+796,Total 796,"13,61,08","12,63,00","10,30,77","10,30,77",
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+JF,Ineligible Cost of Emergency Ambulance Service under National Rural Health Mission Schemes,,,,,2210 80 800 JF 30000
+309,Grants-in-Aid,"1,10,23,23","1,10,23,25","1,57,07,25","1,97,91,25",2210 80 800 JF 30900
+02,Grants for Creation of Capital Assets,,1,1,1,2210 80 800 JF 30902
+03,Grants for Specific Schemes,"1,10,23,23","1,10,23,24","1,57,07,24","1,97,91,24",2210 80 800 JF 30903
+JF,Total JF,"1,10,23,23","1,10,23,25","1,57,07,25","1,97,91,25",
+JJ,Chief Ministers Comprehensive Health Insurance Scheme,,,,,2210 80 800 JJ 30000
+301,Salaries,"1,07,50","77,62","1,83,24","1,89,95",2210 80 800 JJ 30100
+01,Pay,"91,53","69,10","1,65,84","1,72,47",2210 80 800 JJ 30101
+02,Medical Allowance,37,25,47,47,2210 80 800 JJ 30102
+03,Medical Charges,11,1,1,1,2210 80 800 JJ 30103
+04,Other Allowances,"3,30","1,58","3,18","3,20",2210 80 800 JJ 30104
+06,House Rent Allowance,"10,64","5,72","11,96","12,00",2210 80 800 JJ 30106
+08,City Compensatory Allowance,"1,55",96,"1,78","1,80",2210 80 800 JJ 30108
+303,Dearness Allowance,"10,17","8,98","26,53","42,26",2210 80 800 JJ 30300
+01,Dearness Allowance,"10,17","8,98","26,53","42,26",2210 80 800 JJ 30301
+305,Office Expenses,"3,47","3,31","4,70","4,15",2210 80 800 JJ 30500
+01,Telephone Charges,"2,26","1,46","2,20","2,25",2210 80 800 JJ 30501
+02,Other Contingencies,48,"1,10","1,75","1,10",2210 80 800 JJ 30502
+04,Service Postage & Postal Expenditure,73,75,75,80,2210 80 800 JJ 30504
+308,Advertising and Publicity,,1,1,1,2210 80 800 JJ 30800
+01,Advertisement Charges,,1,1,1,2210 80 800 JJ 30801
+310,Contributions,"10,61,64,85","9,85,14,00","8,04,00,06","8,04,00,06",2210 80 800 JJ 31000
+02,Insurance Premium,"10,61,64,85","9,85,14,00","8,04,00,06","8,04,00,06",2210 80 800 JJ 31002
+313,Hospitality / Entertainment Expenditure,"7,50","5,50","10,00","10,00",2210 80 800 JJ 31300
+01,Hospitality / Entertainment Expenditure,"7,50","5,50","10,00","10,00",2210 80 800 JJ 31301
+319,Machinery and Equipments,,53,53,56,2210 80 800 JJ 31900
+01,Purchase,,1,1,1,2210 80 800 JJ 31901
+03,Maintenance,,52,52,55,2210 80 800 JJ 31903
+321,Motor Vehicles,"8,67","10,80","10,80","10,80",2210 80 800 JJ 32100 
+03,Hire Charges,"8,67","10,80","10,80","10,80",2210 80 800 JJ 32103
+333,Payments for Professional and Special Services,"1,91","2,16","3,16","3,16",2210 80 800 JJ 33300
+01,Pleaders Fees,,,"1,00","1,00",2210 80 800 JJ 33301
+04,Contract Payment,"1,91","2,16","2,16","2,16",2210 80 800 JJ 33304
+349,Festival Advances,- 2,,,,2210 80 800 JJ 34900
+01,Festival Advances-Debit,,35,"1,30","1,30",2210 80 800 JJ 34901
+02,Festival Advances-Credit,- 2,- 35,"- 1,30","- 1,30",2210 80 800 JJ 34902
+351,Compensation,,1,1,1,2210 80 800 JJ 35100
+01,Claims under no fault liability -  principal charges  - Voted,,1,1,1,2210 80 800 JJ 35101
+371,Printing Charges,,1,1,1,2210 80 800 JJ 37100
+01,Printing Charges,,1,1,1,2210 80 800 JJ 37101
+372,Training,,1,1,1,2210 80 800 JJ 37200
+01,Training,,1,1,1,2210 80 800 JJ 37201
+376,Computer and Accessories,59,71,"1,44",78,2210 80 800 JJ 37600
+01,Purchase,,1,1,1,2210 80 800 JJ 37601
+02,Maintenance,14,18,18,25,2210 80 800 JJ 37602
+03,Stationery,45,52,"1,25",52,2210 80 800 JJ 37603
+380,Lumpsum Provision,,"2,90,99",,,2210 80 800 JJ 38000
+01,Lumpsum Provision,,"2,90,99",,,2210 80 800 JJ 38001
+JJ,Total JJ,"10,63,04,64","9,89,14,64","8,06,40,50","8,06,61,76",
+JK,Establishment of free Hearse Services in Government Medical Institutions through IRCS,,,,,2210 80 800 JK 30000
+309,Grants-in-Aid,"13,80,00","13,80,00","20,00,00","20,00,00",2210 80 800 JK 30900
+03,Grants for Specific Schemes,"13,80,00","13,80,00","20,00,00","20,00,00",2210 80 800 JK 30903
+319,Machinery and Equipments,"2,25,00",,,,2210 80 800 JK 31900
+01,Purchase,"2,25,00",,,,2210 80 800 JK 31901
+321,Motor Vehicles,"9,00,00",,,,2210 80 800 JK 32100
+01,Purchase,"9,00,00",,,,2210 80 800 JK 32101
+JK,Total JK,"25,05,00","13,80,00","20,00,00","20,00,00",
+JL,Corpus Fund Under Chief Ministers Comprehensive Health Insurance Scheme,,,,,2210 80 800 JL 30000
+310,Contributions,,1,1,1,2210 80 800 JL 31000
+01,Contribution to Specific Fund,,1,1,1,2210 80 800 JL 31001
+JL,Total JL,1,1,1,,
+#,State's Expenditure Total,"11,98,32,87","11,13,17,90","9,83,47,76","10,24,53,02",
+#,Schemes shared between State and Centre,,,,,
+UC,Chief Minister Comprehensive Health Insurance Scheme converged with Pradhan Mantri Jan Arogya Yojana,,,,,2210 80 800 UC 30000
+310,Contributions,,"1,00,00,00","2,43,00,00","2,43,00,00",2210 80 800 UC 31000
+01,Contribution to Specific Fund,,"1,00,00,00","2,43,00,00","2,43,00,00",2210 80 800 UC 31001
+UC,Total UC,"1,00,00,00","2,43,00,00","2,43,00,00",,
+#,Schemes shared between State and Centre Total,,"1,00,00,00","2,43,00,00","2,43,00,00",
+800,Total 800,"11,98,32,87","12,13,17,90","12,26,47,76","12,67,53,02",
+80,Total 80,"15,11,69,56","15,04,96,67","14,67,17,47","15,08,22,73",
+2210,Total 2210,"16,24,28,41","16,44,85,32","15,06,75,17","19,30,65,06",
+4210,CAPITAL OUTLAY ON MEDICAL AND PUBLIC HEALTH,,,,,
+01,Urban Health Services,,,,,
+200,Other Health Schemes,,,,,
+#,Externally Aided Projects Externally Aided Project,,,,,
+PA,Civil Works towards Tamil Nadu Urban Health Care Project,,,,,4210 01 200 PA 40000
+416,Major Works,,"1,03,03,05",1,"2,32,00,00",4210 01 200 PA 41600
+01,Major Works,,"1,03,03,05",1,"2,32,00,00",4210 01 200 PA 41601
+PA,Total PA,"1,03,03,05",1,"2,32,00,00",,
+#,Externally Aided Projects Total,,"1,03,03,05",1,"2,32,00,00",
+200,Total 200,"1,03,03,05",1,"2,32,00,00",,
+01,Total 01,"1,03,03,05",1,"2,32,00,00",,
+4210,Total 4210,"1,03,03,05",1,"2,32,00,00",,

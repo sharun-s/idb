@@ -1,0 +1,202 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2210,MEDICAL AND PUBLIC HEALTH,,,,,
+01,Urban Health Services-Allopathy,,,,,
+110,Hospitals and Dispensaries,,,,,
+#,State's Expenditure,,,,,
+EM,Tamil Nadu Accident and Emergency Care Initiative (TAEI) - Establishment of Emergency Care Units in Medical College Hospitals under State Innovation Fund,,,,,2210 01 110 EM 30000
+319,Machinery and Equipments,"6,10,00","2,44,00","2,44,00",1,2210 01 110 EM 31900
+01,Purchase,"6,10,00","2,44,00","2,44,00",1,2210 01 110 EM 31901
+EM,Total EM,"6,10,00","2,44,00","2,44,00",1,
+EN,Tamil Nadu Accident and Emergency Care Initiative (TAEI) - Installing Portable CT Scan and Transport Ventilator for Emergency Room under State Innovation Fund,,,,,2210 01 110 EN 30000
+319,Machinery and Equipments,"7,96,00",,,,2210 01 110 EN 31900
+01,Purchase,"7,96,00",,,,2210 01 110 EN 31901
+EN,Total EN,"7,96,00",,,,
+EO,Reduction of IMR - Salvaging Preterm / VLBW Neonates under State Innovation Fund,,,,,2210 01 110 EO 30000
+366,Medicine,"4,01,48",,,,2210 01 110 EO 36600
+01,Medicine,"4,01,48",,,,2210 01 110 EO 36601
+EO,Total EO,"4,01,48",,,,
+EP,Pilot Project for use of Intrathecal  Baclofen pump for spastic children to reduce spasticity under State Innovation Fund,,,,,2210 01 110 EP 30000
+309,Grants-in-Aid,"1,00,00",,,,2210 01 110 EP 30900
+03,Grants for Specific Schemes,"1,00,00",,,,2210 01 110 EP 30903
+EP,Total EP,"1,00,00",,,,
+EQ,Tamil Nadu Accident and Emergency Care Initiative - Point of care testing (POCT) in Emergency Room in Medical College Hospitals under State Innovation Fund,,,,,2210 01 110 EQ 30000
+319,Machinery and Equipments,"2,77,50",,,,2210 01 110 EQ 31900
+01,Purchase,"2,77,50",,,,2210 01 110 EQ 31901
+EQ,Total EQ,"2,77,50",,,,
+LP,Emergency Care Centres under State Innovation Fund,,,,,2210 01 110 LP 30000
+309,Grants-in-Aid,"24,66","24,66","24,66",1,2210 01 110 LP 30900
+03,Grants for Specific Schemes,"24,66","24,66","24,66",1,2210 01 110 LP 30903
+LP,Total LP,"24,66","24,66","24,66",1,
+LX,"Interventional Neurology Centre at Rajiv Gandhi Government General Hospital, Institute of Neurology, Chennai under State Innovation Fund",,,,,2210 01 110 LX 30000
+319,Machinery and Equipments,,,"6,54,00",1,2210 01 110 LX 31900
+01,Purchase,,,"6,54,00",1,2210 01 110 LX 31901
+324,Materials and Supplies,,,"1,00,00",1,2210 01 110 LX 32400
+01,Materials and Supplies,,,"1,00,00",1,2210 01 110 LX 32401
+333,Payments for Professional and Special Services,,,"5,00",1,2210 01 110 LX 33300
+03,Special Service,,,"5,00",1,2210 01 110 LX 33303
+LX,Total LX,,"7,59,00",3,,
+LY,"Modernisation of Labour room at Institute of Obstetrics and Gynaecology (IOG), Egmore,Chennai under State Innovation Fund",,,,,2210 01 110 LY 30000
+305,Office Expenses,,,"32,00",1,2210 01 110 LY 30500
+05,Furniture,,,"32,00",1,2210 01 110 LY 30505
+317,Minor Works,,,"58,66",1,2210 01 110 LY 31700
+01,Minor Works,,,"58,66",1,2210 01 110 LY 31701
+319,Machinery and Equipments,,,"89,27",1,2210 01 110 LY 31900
+01,Purchase,,,"89,27",1,2210 01 110 LY 31901
+LY,Total LY,,,"1,79,93",3,
+LZ,Setting up of Therapeutic Park at District Early Intervention Centres under State Innovation Fund,,,,,2210 01 110 LZ 30000
+317,Minor Works,,,"42,00",1,2210 01 110 LZ 31700
+01,Minor Works,,,"42,00",1,2210 01 110 LZ 31701
+LZ,Total LZ,,,"42,00",1,
+MA,Provision of advance facilities  to the Special Newborn Care Units (SNCU) under State Innovation Fund,,,,,2210 01 110 MA 30000
+319,Machinery and Equipments,,,"93,00",1,2210 01 110 MA 31900
+01,Purchase,,,"93,00",1,2210 01 110 MA 31901
+MA,Total MA,,,"93,00",1,
+MB,Establishment of facilities to identify Intracranial Hematoma (Bleeding in Brain / Stroke) without using X-Rays / CT under State Innovation Fund,,,,,2210 01 110 MB 30000
+319,Machinery and Equipments,,,"1,50,00",1,2210 01 110 MB 31900
+01,Purchase,,,"1,50,00",1,2210 01 110 MB 31901
+MB,Total MB,,,"1,50,00",1,
+MC,Monitoring of asphyxia babies in Special Newborn Care Units (SNCUs) -Scheme  under State Innovation Fund,,,,,2210 01 110 MC 30000
+319,Machinery and Equipments,,,"45,00",1,2210 01 110 MC 31900
+01,Purchase,,,"45,00",1,2210 01 110 MC 31901
+MC,Total MC,,"45,00",1,,
+MD,"Centre of Excellence in Cardiovascular imaging in Rajiv Gandhi Government General Hospital, Chennai under State Innovation Fund",,,,,2210 01 110 MD 30000
+319,Machinery and Equipments,,,"2,85,00",1,2210 01 110 MD 31900
+01,Purchase,,,"2,85,00",1,2210 01 110 MD 31901
+324,Materials and Supplies,,,"26,40","26,40",2210 01 110 MD 32400
+01,Materials and Supplies,,,"26,40","26,40",2210 01 110 MD 32401
+MD,Total MD,,"3,11,40","26,41",,
+#,State's Expenditure Total,"22,09,64","2,68,66","18,48,99","26,53",
+#,Externally Aided Projects,,,,,
+PF,Tamil Nadu Health System Reform Project - Administrated by Director of National Health Mission,,,,,2210 01 110 PF 30000
+309,Grants-in-Aid,,1,"2,35,00","11,00,00",2210 01 110 PF 30900
+03,Grants for Specific Schemes,,1,"2,35,00","11,00,00",2210 01 110 PF 30903
+PF,Total PF,1,"2,35,00","11,00,00",,
+#,Externally Aided Projects Total,,1,"2,35,00","11,00,00",
+110,Total 110,"22,09,64","2,68,67","20,83,99","11,26,53",
+902,Deduct - Amount met from State Innovation Fund,,,,,
+#,State's Expenditure,,,,,
+JB,Deduct - Amount met from State Innovation Fund,,,,,2210 01 902 JB 30000
+330,Inter-Account Transfers,"- 22,09,64","- 2,68,66","- 18,48,99","- 26,53",2210 01 902 JB 33000
+01,Inter-Account Transfers,"- 22,09,64","- 2,68,66","- 18,48,99","- 26,53",2210 01 902 JB 33001
+JB,Total JB,"- 22,09,64","- 2,68,66","- 18,48,99","- 26,53",
+#,State's Expenditure Total,"- 22,09,64","- 2,68,66","- 18,48,99","- 26,53",
+902,Total 902,"- 22,09,64","- 2,68,66","- 18,48,99","- 26,53",
+01,Total 01,,1,"2,35,00","11,00,00",
+03,Rural Health Service-Allopathy,,,,,
+103,Primary Health Centres,,,,,
+#,State's Expenditure,,,,,
+KT,Emergency Care Centres under State Innovation Fund,,,,,2210 03 103 KT 30000
+309,Grants-in-Aid,"24,66","24,66","24,66",1,2210 03 103 KT 30900
+03,Grants for Specific Schemes,"24,66","24,66","24,66",1,2210 03 103 KT 30903
+KT,Total KT,"24,66","24,66","24,66",1,
+KU,Equipments for Block Early Intervention Centres   under State Innovation Fund,,,,,2210 03 103 KU 30000
+319,Machinery and Equipments,"3,40",,,,2210 03 103 KU 31900
+01,Purchase,"3,40",,,,2210 03 103 KU 31901
+KU,Total KU,"3,40",,,,
+#,State's Expenditure Total,"28,06","24,66","24,66",1,
+103,Total 103,"28,06","24,66","24,66",1,
+902,Deduct - Amount met from State Innovation Fund,,,,,
+#,State's Expenditure,,,,,
+JA,Deduct - Amount met from State Innovation Fund,,,,,2210 03 902 JA 30000
+330,Inter-Account Transfers,"- 28,06","- 24,66","- 24,66",- 1,2210 03 902 JA 33000
+01,Inter-Account Transfers,"- 28,06","- 24,66","- 24,66",- 1,2210 03 902 JA 33001
+JA,Total JA,"- 28,06","- 24,66","- 24,66",- 1,
+#,State's Expenditure Total,"- 28,06","- 24,66","- 24,66",- 1,
+902,Total 902,"- 28,06","- 24,66","- 24,66",- 1,
+03,Total 03,,,,,
+80,General,,,,,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+JP,Cardiac Care Network - Scheme under State Innovation Fund,,,,,2210 80 800 JP 30000
+309,Grants-in-Aid,"1,95,40","1,45,40","1,45,40",1,2210 80 800 JP 30900
+03,Grants for Specific Schemes,"1,95,40","1,45,40","1,45,40",1,2210 80 800 JP 30903
+JP,Total JP,"1,95,40","1,45,40","1,45,40",1,
+#,State's Expenditure Total,"1,95,40","1,45,40","1,45,40",1,
+800,Total 800,"1,95,40","1,45,40","1,45,40",1,
+902,Deduct - Amount met from State Innovation Fund,,,,,
+#,State's Expenditure,,,,,
+JB,Deduct - Amount met from State Innovation Fund,,,,,2210 80 902 JB 30000
+330,Inter-Account Transfers,"- 1,95,40","- 1,45,40","- 1,45,40",- 1,2210 80 902 JB 33000
+01,Inter-Account Transfers,"- 1,95,40","- 1,45,40","- 1,45,40",- 1,2210 80 902 JB 33001
+JB,Total JB,"- 1,95,40","- 1,45,40","- 1,45,40",- 1,
+#,State's Expenditure Total,"- 1,95,40","- 1,45,40","- 1,45,40",- 1,
+902,Total 902,"- 1,95,40","- 1,45,40","- 1,45,40",- 1,
+80,Total 80,,,,,
+2210,Total 2210,,1,"2,35,00","11,00,00",
+2211-00,FAMILY WELFARE,,,,,
+103,Maternity and Child Health,,,,,
+#,Schemes shared between State and Centre,,,,,
+#,Schemes shared between State and Centre,,,,,
+UA,National Health Mission Schemes,,,,,2211 00 103 UA 30000
+309,Grants-in-Aid,"11,25,80,03","11,72,54,09","12,08,59,33","12,50,78,41",2211 00 103 UA 30900 
+03,Grants for Specific Schemes,"11,25,80,03","11,72,54,09","12,08,59,33","12,50,78,41",2211 00 103 UA 30903
+UA,Total UA,"11,25,80,03","11,72,54,09","12,08,59,33","12,50,78,41",
+UB,Kind Grant under National Health Mission,,,,,2211 00 103 UB 30000
+309,Grants-in-Aid,"4,51,47,44","48,02,95","2,18,17,68","1,04,38,74",2211 00 103 UB 30900 
+03,Grants for Specific Schemes,"4,51,47,44","48,02,95","2,18,17,68","1,04,38,74",2211 00 103 UB 30903
+UB,Total UB,"4,51,47,44","48,02,95","2,18,17,68","1,04,38,74",
+UC,National Urban Health Mission Schemes,,,,,2211 00 103 UC 30000
+309,Grants-in-Aid,"1,04,00,00","93,71,44","1,30,07,47","1,04,32,03",2211 00 103 UC 30900
+03,Grants for Specific Schemes,"1,04,00,00","93,71,44","1,30,07,47","1,04,32,03",2211 00 103 UC 30903
+UC,Total UC,"1,04,00,00","93,71,44","1,30,07,47","1,04,32,03",
+#,Schemes shared between State and Centre Total,"16,81,27,47","13,14,28,48","15,56,84,48","14,59,49,18",
+103,Total 103,"16,81,27,47","13,14,28,48","15,56,84,48","14,59,49,18",
+793,Special Central Assistance for Scheduled Caste Component Plan,,,,,
+#,Schemes shared between State and Centre,,,,,
+UA,National Health Mission Schemes under Special Component Plan,,,,,2211 00 793 UA 30000
+309,Grants-in-Aid,"4,06,74,69","3,15,68,41","3,17,89,05","3,36,74,96",2211 00 793 UA 30900
+03,Grants for Specific Schemes,"4,06,74,69","3,15,68,41","3,17,89,05","3,36,74,96",2211 00 793 UA 30903
+UA,Total UA,"4,06,74,69","3,15,68,41","3,17,89,05","3,36,74,96",
+UB,Kind Grant under National Health Mission,,,,,2211 00 793 UB 30000
+309,Grants-in-Aid,"31,98,98","9,25,15","52,11,55","28,10,43",2211 00 793 UB 30900
+03,Grants for Specific Schemes,"31,98,98","9,25,15","52,11,55","28,10,43",2211 00 793 UB 30903
+UB,Total UB,"31,98,98","9,25,15","52,11,55","28,10,43",
+UC,National Urban Health Mission Schemes under Special Component Plan,,,,,2211 00 793 UC 30000
+309,Grants-in-Aid,"17,56,67","25,23,04","33,35,00","28,08,62",2211 00 793 UC 30900
+03,Grants for Specific Schemes,"17,56,67","25,23,04","33,35,00","28,08,62",2211 00 793 UC 30903
+UC,Total UC,"17,56,67","25,23,04","33,35,00","28,08,62",
+#,Schemes shared between State and Centre Total,"4,56,30,34","3,50,16,60","4,03,35,60","3,92,94,01",
+793,Total 793,"4,56,30,34","3,50,16,60","4,03,35,60","3,92,94,01",
+794,Special Central Assistance for Tribal Sub-Plan,,,,,
+#,Schemes shared between State and Centre,,,,,
+UA,National Health Mission Schemes under Tribal Sub Plan,,,,,2211 00 794 UA 30000
+309,Grants-in-Aid,"26,01,28","15,03,26","15,40,99","16,03,57",2211 00 794 UA 30900
+03,Grants for Specific Schemes,"26,01,28","15,03,26","15,40,99","16,03,57",2211 00 794 UA 30903
+UA,Total UA,"26,01,28","15,03,26","15,40,99","16,03,57",
+UB,Kind Grant under National Health Mission,,,,,2211 00 794 UB 30000
+309,Grants-in-Aid,"12,57,56","50,87","7,00,65","1,33,83",2211 00 794 UB 30900
+03,Grants for Specific Schemes,"12,57,56","50,87","7,00,65","1,33,83",2211 00 794 UB 30903
+UB,Total UB,"12,57,56","50,87","7,00,65","1,33,83",
+UC,National Urban Health Mission Schemes under Tribal Sub-Plan,,,,,2211 00 794 UC 30000
+309,Grants-in-Aid,"46,67","1,20,64","2,26,87","1,33,75",2211 00 794 UC 30900 
+03,Grants for Specific Schemes,"46,67","1,20,64","2,26,87","1,33,75",2211 00 794 UC 30903
+UC,Total UC,"46,67","1,20,64","2,26,87","1,33,75",
+#,Schemes shared between State and Centre Total,"39,05,51","16,74,77","24,68,51","18,71,15",
+794,Total 794,"39,05,51","16,74,77","24,68,51","18,71,15",
+00,Total 00,"21,76,63,32","16,81,19,85","19,84,88,59","18,71,14,34",
+2211,Total 2211,"21,76,63,32","16,81,19,85","19,84,88,59","18,71,14,34",
+4211-00,CAPITAL OUTLAY ON FAMILY WELFARE,,,,,
+103,Maternity and Child Health,,,,,
+#,State's Expenditure,,,,,
+AA,Civil Works under National Health Mission Scheme,,,,,4211 00 103 AA 40000
+416,Major Works,"2,38,57,07","2,67,20,21","3,67,00,91","1,61,50,27",4211 00 103 AA 41600 
+01,Major Works,"2,38,57,07","2,67,20,21","3,67,00,91","1,61,50,27",4211 00 103 AA 41601
+AA,Total AA,"2,38,57,07","2,67,20,21","3,67,00,91","1,61,50,27",
+AW,"Add - Percentage charges for Establishment transferred from Major ""Head """"2701 - Major and"" ""Medium Irrigation""""""",,,,,4211 00 103 AW 40000
+430,Inter-Account Transfers,"26,72,79",,,,4211 00 103 AW 43000
+01,Inter-Account Transfers,"26,72,79",,,,4211 00 103 AW 43001
+AW,Total AW,"26,72,79",,,,
+AX,"Add-Percentage charges for Machinery and Equipment  Transferred from the Major Head """"""2059-Public Works""""""",,,,,4211 00 103 AX 40000
+430,Inter-Account Transfers,"37,74",,,,4211 00 103 AX 43000
+01,Inter-Account Transfers,"37,74",,,,4211 00 103 AX 43001
+AX,Total AX,"37,74",,,,
+#,State's Expenditure Total,"2,65,67,60","2,67,20,21","3,67,00,91","1,61,50,27",
+#,Central Sector Schemes,,,,,
+SA,National Component - Reproductive and Child Health Project,,,,,4211 00 103 SA 40000
+477,Deduct-Recoveries,- 10,,,,4211 00 103 SA 47700
+02,Recoveries of Overpayments / Remittance of excess drawals,- 10,,,,4211 00 103 SA 47702
+SA,Total SA,- 10,,,,
+#,Central Sector Schemes Total,,- 10,,,
+103,Total 103,"2,65,67,50","2,67,20,21","3,67,00,91","1,61,50,27",
+00,Total 00,"2,65,67,50","2,67,20,21","3,67,00,91","1,61,50,27",
+4211,Total 4211,"2,65,67,50","2,67,20,21","3,67,00,91","1,61,50,27",

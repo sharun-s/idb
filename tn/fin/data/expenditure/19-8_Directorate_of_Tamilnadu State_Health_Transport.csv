@@ -1,0 +1,84 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2059,PUBLIC WORKS,,,,,
+01,Office Buildings,,,,,
+053,Maintenance and Repairs,,,,,
+#,State's Expenditure,,,,,
+CG,Buildings - State Health Transport (Administered by Chief Engineer (Buildings)),,,,,2059 01 053 CG 30000
+318,Maintenance,"44,41","47,50","47,50","49,88",2059 01 053 CG 31800 
+01,Periodical Maintenance,"44,41","47,50","47,50","49,88",2059 01 053 CG 31801
+CG,Total CG,"44,41","47,50","47,50","49,88",
+#,State's Expenditure Total,"44,41","47,50","47,50","49,88",
+053,Total 053,"44,41","47,50","47,50","49,88",
+01,Total 01,"44,41","47,50","47,50","49,88",
+2059,Total 2059,"44,41","47,50","47,50","49,88",
+2211-00,FAMILY WELFARE,,,,,
+104,Transport,,,,,
+#,State's Expenditure,,,,,
+AA,Establishment for the maintenance of motor vehicles of Public Health and Medical Department,,,,,2211 00 104 AA 30000
+301,Salaries,"20,62,65","21,47,49","21,47,80","22,26,16",2211 00 104 AA 30100
+01,Pay,"18,49,70","19,20,17","19,20,17","19,96,98",2211 00 104 AA 30101
+02,Medical Allowance,"13,02","14,18","13,64","14,18",2211 00 104 AA 30102
+03,Medical Charges,"1,21","1,35","1,35","1,35",2211 00 104 AA 30103
+04,Other Allowances,"27,28","26,65","27,50","27,50",2211 00 104 AA 30104
+06,House Rent Allowance,"1,48,73","1,59,86","1,59,86","1,59,86",2211 00 104 AA 30106
+07,Travel Concession,"1,84","3,25","3,25","3,38",2211 00 104 AA 30107
+08,City Compensatory Allowance,"20,87","22,03","22,03","22,91",2211 00 104 AA 30108
+303,Dearness Allowance,"2,46,40","2,49,62","3,07,23","4,89,26",2211 00 104 AA 30300
+01,Dearness Allowance,"2,46,40","2,49,62","3,07,23","4,89,26",2211 00 104 AA 30301
+304,Travel Expenses,"10,02","10,47","20,30","15,30",2211 00 104 AA 30400
+01,Tour Travelling Allowances,"10,01","10,13","20,00","15,00",2211 00 104 AA 30401
+02,Transfer Travelling Allowances,1,34,30,30,2211 00 104 AA 30402
+305,Office Expenses,"23,89","31,71","32,11","32,77",2211 00 104 AA 30500
+01,Telephone Charges,"4,40","5,98","6,58","6,22",2211 00 104 AA 30501
+02,Other Contingencies,"8,57","8,50","8,50","8,84",2211 00 104 AA 30502
+03,Electricity Charges,"9,90","16,00","16,00","16,64",2211 00 104 AA 30503
+04,Service Postage & Postal Expenditure,"1,02","1,23","1,03","1,07",2211 00 104 AA 30504
+306,"Rent, Rates and Taxes","4,40","5,97","7,13","7,42",2211 00 104 AA 30600
+02,Property tax,"4,33","5,83","6,99","7,27",2211 00 104 AA 30602
+03,Water Charges,7,14,14,15,2211 00 104 AA 30603
+308,Advertising and Publicity,91,"1,50","2,50","1,50",2211 00 104 AA 30800
+01,Advertisement Charges,91,"1,50","2,50","1,50",2211 00 104 AA 30801
+312,Scholarships and Stipends,"35,90","45,76","45,76","47,59",2211 00 104 AA 31200
+09,Others,"35,90","45,76","45,76","47,59",2211 00 104 AA 31209
+319,Machinery and Equipments,"4,92","5,10","5,10","5,10",2211 00 104 AA 31900
+01,Purchase,"2,11","2,04","2,04","2,04",2211 00 104 AA 31901
+02,Renewal and Replacement,"1,80","1,85","1,85","1,85",2211 00 104 AA 31902
+03,Maintenance,"1,01","1,21","1,21","1,21",2211 00 104 AA 31903
+324,Materials and Supplies,"3,35,78","3,36,00","3,16,00","3,16,00",2211 00 104 AA 32400
+01,Materials and Supplies,"3,35,78","3,36,00","3,16,00","3,16,00",2211 00 104 AA 32401
+333,Payments for Professional and Special Services,"6,95","15,29","10,45","10,50",2211 00 104 AA 33300
+01,Pleaders Fees,"1,21",45,45,50,2211 00 104 AA 33301
+04,Contract Payment,"5,74","14,84","10,00","10,00",2211 00 104 AA 33304
+345,"Petroleum, Oil and Lubricant","62,70","94,00","84,00","87,36",2211 00 104 AA 34500
+01,"Petroleum, Oil and Lubricant","62,70","94,00","84,00","87,36",2211 00 104 AA 34501
+346,"Clothing, Tentage and Stores","11,44","10,00","10,00","10,00",2211 00 104 AA 34600
+01,"Clothing, Tentage and Stores","11,44","10,00","10,00","10,00",2211 00 104 AA 34601
+349,Festival Advances,- 66,,,,2211 00 104 AA 34900
+01,Festival Advances-Debit,"13,40","21,32","36,00","37,44",2211 00 104 AA 34901
+02,Festival Advances-Credit,"- 14,06","- 21,32","- 36,00","- 37,44",2211 00 104 AA 34902
+351,Compensation Charged,,2,2,2,2211 00 104 AA 35100,
+51,Claims under no fault liability -  principal charges Charged,,1,1,1,2211 00 104 AA 35151,
+52,Other Compensations Charged,,,,,
+359,Prizes and Awards,6,54,20,30,2211 00 104 AA 35900
+01,Prizes and Awards,6,54,20,30,2211 00 104 AA 35901
+376,Computer and Accessories,"3,43","3,76","9,53","4,21",2211 00 104 AA 37600
+01,Purchase,,1,"5,33",1,2211 00 104 AA 37601
+02,Maintenance,"1,20","1,40","1,85","1,85",2211 00 104 AA 37602
+03,Stationery,"2,23","2,35","2,35","2,35",2211 00 104 AA 37603
+AA,Total AA Charged,,2,2,2,
+AA,Total AA Voted,"28,08,79","29,57,21","29,98,11","32,53,47",
+#,State's Expenditure Total Charged,,2,2,2,
+#,State's Expenditure Total Voted,"28,08,79","29,57,21","29,98,11","32,53,47",
+104,Total 104 Charged,,2,2,2,
+104,Total 104 Voted,"28,08,79","29,57,21","29,98,11","32,53,47",
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+AA,Establishment for the maintenance of motor vehicles of Public Health and Medical Department,,,,,2211 00 911 AA 30000
+377,Deduct-Recoveries,"- 7,46",,"- 1,50,00","- 1,56,00",2211 00 911 AA 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"- 7,46",,"- 1,50,00","- 1,56,00",2211 00 911 AA 37702
+AA,Total AA,"- 7,46",,"- 1,50,00","- 1,56,00",
+911,Total 911,"- 7,46",,"- 1,50,00","- 1,56,00",
+00,Total 00 Charged,,2,2,2,
+00,Total 00 Voted,"28,01,33","29,57,21","28,48,11","30,97,47",
+2211,Total 2211 Charged,,2,2,2,
+2211,Total 2211 Voted,"28,01,33","29,57,21","28,48,11","30,97,47",
