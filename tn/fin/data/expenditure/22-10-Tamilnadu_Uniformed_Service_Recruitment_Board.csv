@@ -1,0 +1,81 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2051-00,PUBLIC SERVICE COMMISSION,,,,,
+103,Staff Selection Commission,,,,,
+#,State's Expenditure,,,,,
+AB,Tamil Nadu Uniformed Services Recruitment Board,,,,,2051 00 103 AB 30000
+301,Salaries,"3,58,28","3,73,79","3,73,61","3,87,69",2051 00 103 AB 30100
+01,Pay,"3,05,26","3,15,03","3,15,03","3,27,63",2051 00 103 AB 30101
+02,Medical Allowance,"1,08","1,02","1,48","1,48",2051 00 103 AB 30102
+03,Medical Charges,46,"4,00","4,00","4,00",2051 00 103 AB 30103
+04,Other Allowances,"8,11","8,22","8,22","8,42",2051 00 103 AB 30104
+06,House Rent Allowance,"37,00","38,20","38,20","39,34",2051 00 103 AB 30106
+07,Travel Concession,"1,94","2,12","2,12","2,12",2051 00 103 AB 30107
+08,City Compensatory Allowance,"4,43","5,20","4,56","4,70",2051 00 103 AB 30108
+302,Wages,,1,1,1,2051 00 103 AB 30200
+01,Wages,,1,1,1,2051 00 103 AB 30201
+303,Dearness Allowance,"26,86","40,96","50,40","80,27",2051 00 103 AB 30300
+01,Dearness Allowance,"26,86","40,96","50,40","80,27",2051 00 103 AB 30301
+304,Travel Expenses,"5,99","5,50","5,50","5,50",2051 00 103 AB 30400
+01,Tour Travelling Allowances,"5,79","5,00","5,00","5,00",2051 00 103 AB 30401
+02,Transfer Travelling Allowances,20,50,50,50,2051 00 103 AB 30402
+305,Office Expenses,"16,49","16,26","45,19","21,94",2051 00 103 AB 30500
+01,Telephone Charges,"1,47","2,00","2,68","2,68",2051 00 103 AB 30501
+02,Other Contingencies,"3,72","3,75","3,75","3,75",2051 00 103 AB 30502
+03,Electricity Charges,"11,30","10,00","15,00","15,00",2051 00 103 AB 30503
+04,Service Postage & Postal Expenditure,,50,50,50,2051 00 103 AB 30504
+05,Furniture,,1,"23,26",1,2051 00 103 AB 30505
+306,"Rent, Rates and Taxes","1,25","1,51","8,17","1,51",2051 00 103 AB 30600
+01,Rent,,,"6,66",,2051 00 103 AB 30601
+02,Property tax,,1,1,1,2051 00 103 AB 30602
+03,Water Charges,"1,25","1,50","1,50","1,50",2051 00 103 AB 30603
+308,Advertising and Publicity,,1,1,1,2051 00 103 AB 30800
+01,Advertisement Charges,,1,1,1,2051 00 103 AB 30801
+309,Grants-in-Aid,"3,10,16","1,50,00","3,00,00","1,50,00",2051 00 103 AB 30900
+09,Others,"3,10,16","1,50,00","3,00,00","1,50,00",2051 00 103 AB 30909
+313,Hospitality / Entertainment Expenditure,"7,13","1,00","6,50","3,00",2051 00 103 AB 31300
+01,Hospitality / Entertainment Expenditure,"7,13","1,00","6,50","3,00",2051 00 103 AB 31301
+318,Maintenance,,1,1,1,2051 00 103 AB 31800
+01,Periodical Maintenance,,1,1,1,2051 00 103 AB 31801
+319,Machinery and Equipments,,50,"1,50","1,50",2051 00 103 AB 31900
+03,Maintenance,,50,"1,50","1,50",2051 00 103 AB 31903
+321,Motor Vehicles,"38,69","5,01","6,53","5,01",2051 00 103 AB 32100
+01,Purchase,"35,12",1,"1,53",1,2051 00 103 AB 32101
+02,Maintenance of Functional Vehicles,"3,57","5,00","5,00","5,00",2051 00 103 AB 32102
+333,Payments for Professional and Special Services,"11,55","14,35","18,30","16,80",2051 00 103 AB 33300
+01,Pleaders Fees,"4,90","6,77","8,27","6,77",2051 00 103 AB 33301
+04,Contract Payment,"6,65","7,58","10,03","10,03",2051 00 103 AB 33304
+339,Rewards,50,50,50,50,2051 00 103 AB 33900
+01,Rewards,50,50,50,50,2051 00 103 AB 33901
+345,"Petroleum, Oil and Lubricant","14,62","15,20","21,74","23,61",2051 00 103 AB 34500
+01,"Petroleum, Oil and Lubricant","14,62","15,20","21,74","23,61",2051 00 103 AB 34501
+349,Festival Advances,-6,,,,2051 00 103 AB 34900
+01,Festival Advances-Debit,90,"1,90","4,00","4,00",2051 00 103 AB 34901
+02,Festival Advances-Credit,-96,"-1,90","-4,00","-4,00",2051 00 103 AB 34902
+351,Compensation Charged,,1,1,1,2051 00 103 AB 35100,
+351,Compensation Voted,,4,4,4,2051 00 103 AB 35100,
+01,Claims under no fault liability -  principal charges  - Voted,,3,3,3,2051 00 103 AB 35101
+02,Other Compensations  - Voted,,1,1,1,2051 00 103 AB 35102
+51,Claims under no fault liability -  principal charges,,,,,
+Charged,,1,1,1,2051 00 103 AB 35151,
+359,Prizes and Awards,,10,10,10,2051 00 103 AB 35900
+01,Prizes and Awards,,10,10,10,2051 00 103 AB 35901
+364,Lands,,1,,,2051 00 103 AB 36400
+01,Lands - Voted,,1,,,2051 00 103 AB 36401
+368,"Cost of Books/Note Books/Slates, etc.",29,30,50,50,2051 00 103 AB 36800
+01,"Cost of Books/Note Books/Slates, etc.",29,30,50,50,2051 00 103 AB 36801
+372,Training,,1,1,1,2051 00 103 AB 37200
+01,Training,,1,1,1,2051 00 103 AB 37201
+376,Computer and Accessories,"2,32","2,74","2,75","2,75",2051 00 103 AB 37600 
+01,Purchase,,1,1,1,2051 00 103 AB 37601
+02,Maintenance,"1,77","2,08","2,09","2,09",2051 00 103 AB 37602 
+03,Stationery,55,65,65,65,2051 00 103 AB 37603
+AB,Total AB Charged,,1,1,1,
+AB,Total AB Voted,"7,94,07","6,27,81","8,41,37","7,00,76",
+#,State's Expenditure Total Charged,,1,1,1,
+#,State's Expenditure Total Voted,"7,94,07","6,27,81","8,41,37","7,00,76",
+103,Total 103 Charged,,1,1,1,
+103,Total 103 Voted,"7,94,07","6,27,81","8,41,37","7,00,76",
+00,Total 00 Charged,,1,1,1,
+00,Total 00 Voted,"7,94,07","6,27,81","8,41,37","7,00,76",
+2051,Total 2051 Charged,,1,1,1,
+2051,Total 2051 Voted,"7,94,07","6,27,81","8,41,37","7,00,76",

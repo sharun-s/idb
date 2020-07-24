@@ -1,0 +1,113 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2055-00,POLICE,,,,,
+116,Forensic Science,,,,,
+#,State's Expenditure,,,,,
+AA,Forensic Science and Chemical Laboratory,,,,,2055 00 116 AA 30000
+301,Salaries,"24,01,10","25,61,73","24,37,43","25,31,98",2055 00 116 AA 30100
+01,Pay,"21,72,81","23,16,60","22,00,00","22,88,00",2055 00 116 AA 30101
+02,Medical Allowance,"11,27","11,65","12,57","12,95",2055 00 116 AA 30102
+03,Medical Charges,"2,26","4,50","2,54","2,00",2055 00 116 AA 30103
+04,Other Allowances,"16,70","18,72","17,21","17,71",2055 00 116 AA 30104
+06,House Rent Allowance,"1,71,85","1,81,72","1,77,00","1,82,32",2055 00 116 AA 30106
+07,Travel Concession,38,"1,50","1,50","1,60",2055 00 116 AA 30107
+08,City Compensatory Allowance,"25,83","27,04","26,61","27,40",2055 00 116 AA 30108
+303,Dearness Allowance,"1,98,88","3,01,16","3,52,00","5,60,56",2055 00 116 AA 30300
+01,Dearness Allowance,"1,98,88","3,01,16","3,52,00","5,60,56",2055 00 116 AA 30301
+304,Travel Expenses,"27,26","31,50","31,50","31,50",2055 00 116 AA 30400
+01,Tour Travelling Allowances,"26,24","30,00","30,00","30,00",2055 00 116 AA 30401
+02,Transfer Travelling Allowances,"1,02","1,50","1,50","1,50",2055 00 116 AA 30402
+305,Office Expenses,"61,23","62,36","69,18","73,81",2055 00 116 AA 30500
+01,Telephone Charges,"3,32","4,25","4,50","4,60",2055 00 116 AA 30501
+02,Other Contingencies,"8,92","10,00","10,00","11,00",2055 00 116 AA 30502
+03,Electricity Charges,"46,29","45,00","50,00","55,00",2055 00 116 AA 30503
+04,Service Postage & Postal Expenditure,"2,70","3,10","3,00","3,20",2055 00 116 AA 30504
+05,Furniture,,1,"1,68",1,2055 00 116 AA 30505
+306,"Rent, Rates and Taxes","91,37","16,79","47,69","46,15",2055 00 116 AA 30600
+01,Rent,"4,68","5,54","5,74","5,74",2055 00 116 AA 30601
+02,Property tax,"65,99","11,00","30,06","28,52",2055 00 116 AA 30602
+03,Water Charges,"20,70",25,"11,89","11,89",2055 00 116 AA 30603
+308,Advertising and Publicity,91,"1,00","5,00","1,00",2055 00 116 AA 30800
+01,Advertisement Charges,91,"1,00","5,00","1,00",2055 00 116 AA 30801
+319,Machinery and Equipments,"70,10","60,01","3,95,01","66,01",2055 00 116 AA 31900
+01,Purchase,,1,"3,29,01",1,2055 00 116 AA 31901
+03,Maintenance,"70,10","60,00","66,00","66,00",2055 00 116 AA 31903
+321,Motor Vehicles,"1,39","1,51","1,75","2,00",2055 00 116 AA 32100
+01,Purchase,-2,1,,,2055 00 116 AA 32101
+02,Maintenance of Functional Vehicles,"1,41","1,50","1,75","2,00",2055 00 116 AA 32102
+333,Payments for Professional and Special Services,"67,13","73,46","84,00","81,00",2055 00 116 AA 33300
+01,Pleaders Fees,,1,,,2055 00 116 AA 33301
+03,Special Service,"11,94","14,00","19,00","16,00",2055 00 116 AA 33303
+04,Contract Payment,"55,19","59,45","65,00","65,00",2055 00 116 AA 33304
+334,Other Charges,"13,83","13,91","15,72","15,72",2055 00 116 AA 33400
+02,"Purchase  of  Books & Periodicals to Libraries etc.,","13,83","13,91","15,72","15,72",2055 00 116 AA 33402
+345,"Petroleum, Oil and Lubricant","21,87","25,00","28,00","30,00",2055 00 116 AA 34500
+01,"Petroleum, Oil and Lubricant","21,87","25,00","28,00","30,00",2055 00 116 AA 34501
+347,Stores and Equipments,"2,13,36","2,15,50","2,30,00","2,50,00",2055 00 116 AA 34700
+01,Stores - Voted,"2,13,36","2,15,49","2,30,00","2,50,00",2055 00 116 AA 34701
+02,Equipments - Voted,,1,,,2055 00 116 AA 34702
+349,Festival Advances,-36,,,,2055 00 116 AA 34900
+01,Festival Advances-Debit,"9,90","15,00","30,00","40,00",2055 00 116 AA 34901
+02,Festival Advances-Credit,"-10,26","-15,00","-30,00","-40,00",2055 00 116 AA 34902
+351,Compensation Charged,,1,1,1,2055 00 116 AA 35100
+51,Claims under no fault liability -  principal charges Charged,,1,1,1,2055 00 116 AA 35151
+359,Prizes and Awards,37,48,45,51,2055 00 116 AA 35900
+01,Prizes and Awards,37,48,45,51,2055 00 116 AA 35901
+372,Training,"1,22","2,00","2,00","2,00",2055 00 116 AA 37200 
+01,Training,"1,22","2,00","2,00","2,00",2055 00 116 AA 37201
+376,Computer and Accessories,"37,23","6,25","16,62","7,25",2055 00 116 AA 37600
+01,Purchase,"31,37","1,00","8,87","1,00",2055 00 116 AA 37601
+02,Maintenance,"1,89","2,75","2,75","2,75",2055 00 116 AA 37602
+03,Stationery,"3,97","2,50","5,00","3,50",2055 00 116 AA 37603
+AA,Total AA Charged,,1,1,1,
+AA,Total AA Voted,"32,06,89","33,72,66","37,16,35","36,99,49",
+JC,Mobile Device Forensic Division  - Scheme under State Innovation Fund,,,,,2055 00 116 JC 30000
+319,Machinery and Equipments,"2,00",,,"7,30",2055 00 116 JC 31900
+01,Purchase,"2,00",,,"7,30",2055 00 116 JC 31901
+JC,Total JC,"2,00",,,"7,30",
+JD,Establishment of Computer Forensic Division Scheme under State Innovation Fund,,,,,2055 00 116 JD 30000
+376,Computer and Accessories,,"4,50","4,50",,2055 00 116 JD 37600
+01,Purchase,,"4,50","4,50",,2055 00 116 JD 37601
+JD,Total JD,,"4,50","4,50",,
+JE,Creation of Counterfeit Indian Currency Profiling Unit at Forensic Sciences Department under State Innovation Fund,,,,,2055 00 116 JE 30000
+319,Machinery and Equipments,,,,"85,11",2055 00 116 JE 31900
+01,Purchase,,,,"85,11",2055 00 116 JE 31901
+JE,Total JE,,,,"85,11",
+#,State's Expenditure Total Charged,,1,1,1,
+#,State's Expenditure Total Voted,"32,08,89","33,77,16","37,20,85","37,91,90",
+116,Total 116 Charged,,1,1,1,
+116,Total 116 Voted,"32,08,89","33,77,16","37,20,85","37,91,90",
+902,Deduct - Amount met from Reserve Fund,,,,,
+#,State's Expenditure,,,,,
+JB,Deduct - Amount met from State Innovation Fund,,,,,2055 00 902 JB 30000
+330,Inter-Account Transfers,"-2,00","-4,50","-4,50","-92,41",2055 00 902 JB 33000
+01,Inter-Account Transfers,"-2,00","-4,50","-4,50","-92,41",2055 00 902 JB 33001
+JB,Total JB,"-2,00","-4,50","-4,50","-92,41",
+#,State's Expenditure Total,"-2,00","-4,50","-4,50","-92,41",
+902,Total 902,"-2,00","-4,50","-4,50","-92,41",
+00,Total 00 Charged,,1,1,1,
+00,Total 00 Voted,"32,06,89","33,72,66","37,16,35","36,99,49",
+2055,Total 2055 Charged,,1,1,1,
+2055,Total 2055 Voted,"32,06,89","33,72,66","37,16,35","36,99,49",
+2059,PUBLIC WORKS,,,,,
+01,Office Buildings,,,,,
+053,Maintenance and Repairs,,,,,
+#,State's Expenditure,,,,,
+DL,Buildings - Directorate of Forensic Sciences,,,,,2059 01 053 DL 30000
+317,Minor Works,"50,00",1,"50,00","1,50,00",2059 01 053 DL 31700
+01,Minor Works,"50,00",1,"50,00","1,50,00",2059 01 053 DL 31701
+DL,Total DL,"50,00",1,"50,00","1,50,00",
+#,State's Expenditure Total,"50,00",1,"50,00","1,50,00",
+053,Total 053,"50,00",1,"50,00","1,50,00",
+01,Total 01,"50,00",1,"50,00","1,50,00",
+2059,Total 2059,"50,00",1,"50,00","1,50,00",
+4055-00,CAPITAL OUTLAY ON POLICE,,,,,
+211,Police Housing,,,,,
+#,State's Expenditure,,,,,
+AO,Payment to Tamil Nadu Police Housing Corporation for construction works Controlled by Director of Forensic Sciences,,,,,4055 00 211 AO 40000
+416,Major Works,,1,,,4055 00 211 AO 41600
+01,Major Works,,1,,,4055 00 211 AO 41601
+AO,Total AO,1,,,,
+#,State's Expenditure Total,,1,,,
+211,Total 211,1,,,,
+00,Total 00,1,,,,
+4055,Total 4055,1,,,,

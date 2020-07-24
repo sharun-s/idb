@@ -1,0 +1,58 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2070-00,OTHER ADMINISTRATIVE SERVICES,,,,,
+106,Civil Defence,,,,,
+#,State's Expenditure,,,,,
+AA,Air-Raid precautions,,,,,2070 00 106 AA 30000
+301,Salaries,"1,08,35","92,88","93,70","97,13",2070 00 106 AA 30100
+01,Pay,"92,87","72,88","74,76","77,75",2070 00 106 AA 30101
+02,Medical Allowance,28,32,28,32,2070 00 106 AA 30102
+03,Medical Charges,90,"3,60","3,60","3,60",2070 00 106 AA 30103
+04,Other Allowances,"2,27","3,36","2,34","2,40",2070 00 106 AA 30104
+06,House Rent Allowance,"10,20","10,48","10,48","10,79",2070 00 106 AA 30106
+07,Travel Concession,84,"1,25","1,25","1,25",2070 00 106 AA 30107
+08,City Compensatory Allowance,99,99,99,"1,02",2070 00 106 AA 30108
+303,Dearness Allowance,"6,29","9,48","11,96","19,05",2070 00 106 AA 30300
+01,Dearness Allowance,"6,29","9,48","11,96","19,05",2070 00 106 AA 30301
+304,Travel Expenses,33,"3,40","3,40","3,40",2070 00 106 AA 30400
+01,Tour Travelling Allowances,20,"3,00","3,00","3,00",2070 00 106 AA 30401
+02,Transfer Travelling Allowances,13,40,40,40,2070 00 106 AA 30402
+305,Office Expenses,"2,44","2,65","2,90","2,85",2070 00 106 AA 30500
+01,Telephone Charges,68,"1,00","1,00","1,10",2070 00 106 AA 30501
+02,Other Contingencies,90,"1,00","1,00","1,10",2070 00 106 AA 30502
+04,Service Postage & Postal Expenditure,60,60,60,60,2070 00 106 AA 30504
+05,Furniture,26,5,30,5,2070 00 106 AA 30505
+313,Hospitality / Entertainment Expenditure,40,20,30,40,2070 00 106 AA 31300
+01,Hospitality / Entertainment Expenditure,40,20,30,40,2070 00 106 AA 31301
+319,Machinery and Equipments,25,30,40,40,2070 00 106 AA 31900
+02,Renewal and Replacement,25,30,40,40,2070 00 106 AA 31902
+321,Motor Vehicles,21,75,"1,00","1,00",2070 00 106 AA 32100
+02,Maintenance of Functional Vehicles,21,75,"1,00","1,00",2070 00 106 AA 32102
+339,Rewards,20,35,35,40,2070 00 106 AA 33900
+01,Rewards,20,35,35,40,2070 00 106 AA 33901
+345,"Petroleum, Oil and Lubricant","3,93","8,00","8,00","8,00",2070 00 106 AA 34500
+01,"Petroleum, Oil and Lubricant","3,93","8,00","8,00","8,00",2070 00 106 AA 34501
+349,Festival Advances,-3,,,,2070 00 106 AA 34900
+01,Festival Advances-Debit,35,50,"1,30","1,30",2070 00 106 AA 34901
+02,Festival Advances-Credit,-38,-50,"-1,30","-1,30",2070 00 106 AA 34902
+376,Computer and Accessories,"1,08","1,15","1,50","1,50",2070 00 106 AA 37600
+02,Maintenance,75,75,"1,00","1,00",2070 00 106 AA 37602
+03,Stationery,33,40,50,50,2070 00 106 AA 37603
+AA,Total AA,"1,23,45","1,19,16","1,23,51","1,34,13",
+#,State's Expenditure Total,"1,23,45","1,19,16","1,23,51","1,34,13",
+#,Schemes shared between State and Centre,,,,,
+UA,Civil Defence Training Institute at Palani,,,,,2070 00 106 UA 30000
+305,Office Expenses,62,"1,50","1,50","1,50",2070 00 106 UA 30500
+03,Electricity Charges,62,"1,50","1,50","1,50",2070 00 106 UA 30503
+UA,Total UA,62,"1,50","1,50","1,50",
+#,Schemes shared between State and Centre Total,62,"1,50","1,50","1,50",
+106,Total 106,"1,24,07","1,20,66","1,25,01","1,35,63",
+107,Home Guards,,,,,
+#,Schemes shared between State and Centre,,,,,
+UA,Home Guards Welfare and Benevolent Fund,,,,,2070 00 107 UA 30000
+309,Grants-in-Aid,"1,75","1,75","1,75","1,75",2070 00 107 UA 30900 
+09,Others,"1,75","1,75","1,75","1,75",2070 00 107 UA 30909 
+UA,Total UA,"1,75","1,75","1,75","1,75",
+#,Schemes shared between State and Centre Total,"1,75","1,75","1,75","1,75",
+107,Total 107,"1,75","1,75","1,75","1,75",
+00,Total 00,"1,25,82","1,22,41","1,26,76","1,37,38",
+2070,Total 2070,"1,25,82","1,22,41","1,26,76","1,37,38",

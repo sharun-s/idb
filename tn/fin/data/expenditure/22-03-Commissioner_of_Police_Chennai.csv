@@ -1,0 +1,413 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2055-00,POLICE,,,,,
+108,State Headquarters Police,,,,,
+#,State's Expenditure,,,,,
+AA,"Commissioner of Police, Chennai",,,,,2055 00 108 AA 30000
+301,Salaries,"91,52,08","96,81,63","96,49,03","96,73,43",2055 00 108 AA 30100
+01,Pay,"78,77,46","83,60,52","83,60,52","83,60,52",2055 00 108 AA 30101
+02,Medical Allowance,"56,38","63,85","63,85","63,85",2055 00 108 AA 30102
+03,Medical Charges,"5,51","10,00","7,00","7,00",2055 00 108 AA 30103
+04,Other Allowances,"4,40,73","4,42,90","4,42,90","4,42,90",2055 00 108 AA 30104
+06,House Rent Allowance,"5,92,36","5,85,60","5,85,60","6,00,00",2055 00 108 AA 30106
+07,Travel Concession,"8,65","9,16","9,16","9,16",2055 00 108 AA 30107
+08,City Compensatory Allowance,"1,70,99","2,09,60","1,80,00","1,90,00",2055 00 108 AA 30108
+303,Dearness Allowance,"7,03,62","10,86,87","13,37,68","20,48,33",2055 00 108 AA 30300
+01,Dearness Allowance,"7,03,62","10,86,87","13,37,68","20,48,33",2055 00 108 AA 30301
+304,Travel Expenses,"4,04","8,80","8,80","8,80",2055 00 108 AA 30400
+01,Tour Travelling Allowances,"3,82","8,00","8,00","8,00",2055 00 108 AA 30401
+02,Transfer Travelling Allowances,22,80,80,80,2055 00 108 AA 30402
+305,Office Expenses,"8,34","8,51","8,51","8,51",2055 00 108 AA 30500
+01,Telephone Charges,"2,99","3,00","3,00","3,00",2055 00 108 AA 30501
+02,Other Contingencies,"5,35","5,50","5,50","5,50",2055 00 108 AA 30502
+05,Furniture,,1,1,1,2055 00 108 AA 30505
+309,Grants-in-Aid,74,"1,00","1,00","1,00",2055 00 108 AA 30900
+03,Grants for Specific Schemes,74,"1,00","1,00","1,00",2055 00 108 AA 30903
+315,Secret Service Expenditure,"19,00","19,00","29,00","25,00",2055 00 108 AA 31500
+01,Secret Service Expenditure,"19,00","19,00","29,00","25,00",2055 00 108 AA 31501
+319,Machinery and Equipments,51,1,1,1,2055 00 108 AA 31900
+01,Purchase,51,1,1,1,2055 00 108 AA 31901
+333,Payments for Professional and Special Services,"1,04","2,01","2,01","3,00",2055 00 108 AA 33300
+01,Pleaders Fees,,1,1,"1,00",2055 00 108 AA 33301
+04,Contract Payment,"1,04","2,00","2,00","2,00",2055 00 108 AA 33304
+339,Rewards,"4,80","5,00","5,00","5,00",2055 00 108 AA 33900 
+01,Rewards,"4,80","5,00","5,00","5,00",2055 00 108 AA 33901
+347,Stores and Equipments,10,26,25,25,2055 00 108 AA 34700
+01,Stores - Voted,10,25,25,25,2055 00 108 AA 34701
+02,Equipments - Voted,,1,,,2055 00 108 AA 34702
+349,Festival Advances,"-27,12",,,,2055 00 108 AA 34900
+01,Festival Advances-Debit,"21,60","25,45","1,03,70","1,03,70",2055 00 108 AA 34901
+02,Festival Advances-Credit,"-48,72","-25,45","-1,03,70","-1,03,70",2055 00 108 AA 34902
+351,Compensation Charged,,2,2,2,2055 00 108 AA 35100
+351,Compensation Voted,"1,00",,,,2055 00 108 AA 35100
+01,Claims under no fault liability -  principal charges Voted,"1,00",,,,2055 00 108 AA 35101
+51,Claims under no fault liability -  principal charges Charged,,1,1,1,2055 00 108 AA 35151
+52,Other Compensations Charged,,,,,
+359,Prizes and Awards,"5,28","5,00","9,65","9,65",2055 00 108 AA 35900
+01,Prizes and Awards,"5,28","5,00","9,65","9,65",2055 00 108 AA 35901
+367,Feeding/Dietary Charges,74,"2,00","2,00","2,00",2055 00 108 AA 36700
+09,Others,74,"2,00","2,00","2,00",2055 00 108 AA 36709
+372,Training,"2,00","2,00","2,00","2,00",2055 00 108 AA 37200
+01,Training,"2,00","2,00","2,00","2,00",2055 00 108 AA 37201
+376,Computer and Accessories,"1,79,72","1,80,01","1,80,00","1,80,00",2055 00 108 AA 37600
+01,Purchase,,1,,,2055 00 108 AA 37601
+02,Maintenance,"29,80","30,00","30,00","30,00",2055 00 108 AA 37602
+03,Stationery,"1,49,92","1,50,00","1,50,00","1,50,00",2055 00 108 AA 37603
+AA,Total AA Charged,,2,2,2,
+AA,Total AA Voted,"1,00,55,89","1,10,02,10","1,12,34,94","1,19,66,98",
+AB,Law and Order,,,,,2055 00 108 AB 30000
+301,Salaries,"7,50,70,44","7,80,57,86","7,83,87,79","8,28,61,41",2055 00 108 AB 30100
+01,Pay,"6,40,55,22","6,67,92,51","6,67,92,51","7,08,87,37",2055 00 108 AB 30101
+02,Medical Allowance,"5,43,67","5,31,44","5,31,44","5,31,44",2055 00 108 AB 30102
+03,Medical Charges,"10,58","31,54","16,50","16,50",2055 00 108 AB 30103
+04,Other Allowances,"38,19,19","38,24,57","39,14,66","40,94,84",2055 00 108 AB 30104
+06,House Rent Allowance,"52,43,39","51,71,49","55,40,38","57,06,28",2055 00 108 AB 30106
+07,Travel Concession,"13,88","22,59","22,59","22,59",2055 00 108 AB 30107
+08,City Compensatory Allowance,"13,84,51","16,83,72","15,69,71","16,02,39",2055 00 108 AB 30108
+302,Wages,60,"1,80","1,80","1,80",2055 00 108 AB 30200
+01,Wages,60,"1,80","1,80","1,80",2055 00 108 AB 30201
+303,Dearness Allowance,"57,64,21","86,83,02","1,06,86,80","1,73,67,41",2055 00 108 AB 30300
+01,Dearness Allowance,"57,64,21","86,83,02","1,06,86,80","1,73,67,41",2055 00 108 AB 30301
+304,Travel Expenses,"19,79","56,98","27,20","37,20",2055 00 108 AB 30400 
+01,Tour Travelling Allowances,"3,71","51,58","21,80","31,80",2055 00 108 AB 30401
+02,Transfer Travelling Allowances,"16,08","5,40","5,40","5,40",2055 00 108 AB 30402
+305,Office Expenses,"7,55,61","9,09,42","8,80,42","8,78,93",2055 00 108 AB 30500 
+01,Telephone Charges,"81,22","97,19","97,19","97,19",2055 00 108 AB 30501
+02,Other Contingencies,"41,79","42,80","43,80","41,00",2055 00 108 AB 30502
+03,Electricity Charges,"5,81,50","7,16,22","7,16,22","7,16,22",2055 00 108 AB 30503
+04,Service Postage & Postal Expenditure,"3,15","3,20","3,20","4,51",2055 00 108 AB 30504
+05,Furniture,"40,01",1,1,1,2055 00 108 AB 30505
+06,Investigation Charges,"7,94","50,00","20,00","20,00",2055 00 108 AB 30506
+306,"Rent, Rates and Taxes","7,67,74","6,91,95","9,33,75","9,17,45",2055 00 108 AB 30600
+01,Rent,"50,23","71,95","71,95","71,95",2055 00 108 AB 30601 
+02,Property tax,"1,48,06","1,50,00","2,16,30","2,00,00",2055 00 108 AB 30602
+03,Water Charges,"5,69,45","4,70,00","6,45,50","6,45,50",2055 00 108 AB 30603
+308,Advertising and Publicity,"11,42","8,00","8,00","8,00",2055 00 108 AB 30800 
+01,Advertisement Charges,"10,72","3,00","3,00","3,00",2055 00 108 AB 30801
+02,Exhibition,70,"5,00","5,00","5,00",2055 00 108 AB 30802
+315,Secret Service Expenditure,"35,00","35,00","39,00","45,00",2055 00 108 AB 31500
+01,Secret Service Expenditure,"35,00","35,00","39,00","45,00",2055 00 108 AB 31501
+317,Minor Works,"1,17","1,17","1,17","1,17",2055 00 108 AB 31700 
+01,Minor Works,"1,17","1,17","1,17","1,17",2055 00 108 AB 31701
+319,Machinery and Equipments,,1,1,1,2055 00 108 AB 31900
+01,Purchase,,1,1,1,2055 00 108 AB 31901
+321,Motor Vehicles,"1,85,04","1,39,96","3,13,48","1,89,95",2055 00 108 AB 32100
+01,Purchase,,1,,,2055 00 108 AB 32101
+02,Maintenance of Functional Vehicles,"90,04","89,95","96,48","1,09,95",2055 00 108 AB 32102
+03,Hire Charges,"95,00","50,00","2,17,00","80,00",2055 00 108 AB 32103
+324,Materials and Supplies,"4,76","2,00","2,00","2,00",2055 00 108 AB 32400
+01,Materials and Supplies,"4,76","2,00","2,00","2,00",2055 00 108 AB 32401
+339,Rewards,"28,51","28,70","32,70","32,70",2055 00 108 AB 33900
+01,Rewards,"28,51","28,70","32,70","32,70",2055 00 108 AB 33901
+344,Arms and Ammunition,,1,,,2055 00 108 AB 34400
+01,Purchase,,1,,,2055 00 108 AB 34401
+345,"Petroleum, Oil and Lubricant","30,80,29","25,34,82","24,35,98","24,50,00",2055 00 108 AB 34500
+01,"Petroleum, Oil and Lubricant","30,80,29","25,34,82","24,35,98","24,50,00",2055 00 108 AB 34501
+346,"Clothing, Tentage and Stores","2,24,99","2,25,00","1,00,00","1,00,00",2055 00 108 AB 34600
+01,"Clothing, Tentage and Stores","2,24,99","2,25,00","1,00,00","1,00,00",2055 00 108 AB 34601
+347,Stores and Equipments,"1,11",1,1,1,2055 00 108 AB 34700
+01,Stores - Voted,"1,11",1,1,1,2055 00 108 AB 34701
+349,Festival Advances,"-10,48",,,,2055 00 108 AB 34900
+01,Festival Advances-Debit,"4,24,25","5,86,75","8,35,00","8,35,00",2055 00 108 AB 34901
+02,Festival Advances-Credit,"-4,34,73","-5,86,75","-8,35,00","-8,35,00",2055 00 108 AB 34902
+367,Feeding/Dietary Charges,"1,70,74,79","1,70,91,00","1,70,91,00","1,89,91,00",2055 00 108 AB 36700
+09,Others,"1,70,74,79","1,70,91,00","1,70,91,00","1,89,91,00",2055 00 108 AB 36709
+368,"Cost of Books/Note Books/Slates, etc.",,1,1,1,2055 00 108 AB 36800
+01,"Cost of Books/Note Books/Slates, etc.",,1,1,1,2055 00 108 AB 36801
+371,Printing Charges,,1,,,2055 00 108 AB 37100
+01,Printing Charges,,1,,,2055 00 108 AB 37101
+374,Purchase and Upkeep of Animals,"1,06,74","84,90","84,90","1,15,00",2055 00 108 AB 37400
+01,Purchase and Upkeep of Animals,"1,06,74","84,90","84,90","1,15,00",2055 00 108 AB 37401
+AB,Total AB,"10,31,21,73","10,85,51,63","11,10,26,02","12,39,99,05",
+AC,Crime,,,,,2055 00 108 AC 30000
+301,Salaries,"91,96,14","96,44,16","96,32,50","97,25,41",2055 00 108 AC 30100
+01,Pay,"79,16,94","83,03,34","83,03,34","83,03,34",2055 00 108 AC 30101
+02,Medical Allowance,"61,56","70,25","70,25","70,25",2055 00 108 AC 30102
+03,Medical Charges,"2,11","11,66","3,00","3,00",2055 00 108 AC 30103
+04,Other Allowances,"5,46,18","5,41,49","5,73,57","6,37,71",2055 00 108 AC 30104
+06,House Rent Allowance,"4,96,12","5,01,23","5,01,23","5,20,00",2055 00 108 AC 30106
+07,Travel Concession,"3,31","11,61","11,11","11,11",2055 00 108 AC 30107
+08,City Compensatory Allowance,"1,69,92","2,04,58","1,70,00","1,80,00",2055 00 108 AC 30108
+303,Dearness Allowance,"6,86,48","10,79,43","13,28,54","20,34,32",2055 00 108 AC 30300
+01,Dearness Allowance,"6,86,48","10,79,43","13,28,54","20,34,32",2055 00 108 AC 30301
+304,Travel Expenses,"11,23","45,20","21,20","21,20",2055 00 108 AC 30400
+01,Tour Travelling Allowances,"11,23","44,00","20,00","20,00",2055 00 108 AC 30401
+02,Transfer Travelling Allowances,,"1,20","1,20","1,20",2055 00 108 AC 30402
+305,Office Expenses,"7,00","7,20","7,20","7,20",2055 00 108 AC 30500
+01,Telephone Charges,,20,20,20,2055 00 108 AC 30501
+02,Other Contingencies,"7,00","7,00","7,00","7,00",2055 00 108 AC 30502
+315,Secret Service Expenditure,"25,00","25,00","25,00","30,00",2055 00 108 AC 31500
+01,Secret Service Expenditure,"25,00","25,00","25,00","30,00",2055 00 108 AC 31501
+333,Payments for Professional and Special Services,"71,84","84,90","84,90","84,90",2055 00 108 AC 33300
+01,Pleaders Fees,"56,94","70,00","70,00","70,00",2055 00 108 AC 33301
+03,Special Service,"14,90","14,90","14,90","14,90",2055 00 108 AC 33303
+339,Rewards,"9,97","10,00","11,50","11,50",2055 00 108 AC 33900 
+01,Rewards,"9,97","10,00","11,50","11,50",2055 00 108 AC 33901
+349,Festival Advances,"-28,57",,,,2055 00 108 AC 34900
+01,Festival Advances-Debit,"24,90","73,90","80,00","80,00",2055 00 108 AC 34901
+02,Festival Advances-Credit,"-53,47","-73,90","-80,00","-80,00",2055 00 108 AC 34902
+AC,Total AC,"99,79,09","1,08,95,89","1,11,10,84","1,19,14,53",
+AD,Traffic,,,,,2055 00 108 AD 30000
+301,Salaries,"1,08,68,09","1,11,16,97","1,11,40,79","1,12,41,80",2055 00 108 AD 30100
+01,Pay,"95,53,87","97,50,73","97,50,73","97,50,73",2055 00 108 AD 30101
+02,Medical Allowance,"56,17","63,70","63,70","63,70",2055 00 108 AD 30102
+03,Medical Charges,"9,64","12,84","8,00","8,00",2055 00 108 AD 30103
+04,Other Allowances,"5,05,57","5,45,00","5,83,53","6,60,58",2055 00 108 AD 30104
+06,House Rent Allowance,"5,11,65","4,76,04","4,96,04","5,10,00",2055 00 108 AD 30106
+07,Travel Concession,"17,56","18,79","18,79","18,79",2055 00 108 AD 30107
+08,City Compensatory Allowance,"2,13,63","2,49,87","2,20,00","2,30,00",2055 00 108 AD 30108
+303,Dearness Allowance,"8,57,78","12,67,60","15,60,11","23,88,93",2055 00 108 AD 30300
+01,Dearness Allowance,"8,57,78","12,67,60","15,60,11","23,88,93",2055 00 108 AD 30301
+304,Travel Expenses,"2,75","3,50","3,50","3,50",2055 00 108 AD 30400
+01,Tour Travelling Allowances,"1,94","2,00","2,00","2,00",2055 00 108 AD 30401
+02,Transfer Travelling Allowances,81,"1,50","1,50","1,50",2055 00 108 AD 30402
+305,Office Expenses,"76,13","72,43","88,58","87,58",2055 00 108 AD 30500
+01,Telephone Charges,"8,70","12,00","12,00","12,00",2055 00 108 AD 30501
+02,Other Contingencies,"32,43","25,38","26,38","25,38",2055 00 108 AD 30502
+03,Electricity Charges,"35,00","35,00","35,00","35,00",2055 00 108 AD 30503
+04,Service Postage & Postal Expenditure,,5,"15,20","15,20",2055 00 108 AD 30504
+306,"Rent, Rates and Taxes","5,70","6,00","6,00","6,00",2055 00 108 AD 30600
+01,Rent,"5,70","6,00","6,00","6,00",2055 00 108 AD 30601
+308,Advertising and Publicity,"4,98","2,00","5,10","3,00",2055 00 108 AD 30800
+01,Advertisement Charges,"4,98","2,00","5,10","3,00",2055 00 108 AD 30801
+339,Rewards,"9,00","9,00","10,00","10,00",2055 00 108 AD 33900
+01,Rewards,"9,00","9,00","10,00","10,00",2055 00 108 AD 33901
+349,Festival Advances,"51,81",,,,2055 00 108 AD 34900
+01,Festival Advances-Debit,"94,70","1,50,00","3,17,25","3,17,25",2055 00 108 AD 34901
+02,Festival Advances-Credit,"-42,89","-1,50,00","-3,17,25","-3,17,25",2055 00 108 AD 34902
+351,Compensation,,1,,,2055 00 108 AD 35100
+02,Other Compensations  - Voted,,1,,,2055 00 108 AD 35102
+AD,Total AD,"1,18,76,24","1,24,77,51","1,28,14,08","1,37,40,81",
+AG,City Traffic Improvement Works,,,,,2055 00 108 AG 30000
+305,Office Expenses,"33,50","30,01","60,21","25,61",2055 00 108 AG 30500
+02,Other Contingencies,"33,50","30,00","60,20","25,60",2055 00 108 AG 30502
+05,Furniture,,1,1,1,2055 00 108 AG 30505
+318,Maintenance,,,,"50,00",2055 00 108 AG 31800
+01,Periodical Maintenance,,,,"50,00",2055 00 108 AG 31801
+319,Machinery and Equipments,,1,1,1,2055 00 108 AG 31900
+01,Purchase,,1,1,1,2055 00 108 AG 31901
+AG,Total AG,"33,50","30,02","60,22","75,62",
+AL,"Petrol, Oil and Lubricants for the Vehicles Hired by Commissioner of Police",,,,,2055 00 108 AL 30000
+345,"Petroleum, Oil and Lubricant","49,24","50,00","50,00","50,00",2055 00 108 AL 34500
+01,"Petroleum, Oil and Lubricant","49,24","50,00","50,00","50,00",2055 00 108 AL 34501
+AL,Total AL,"49,24","50,00","50,00","50,00",
+AM,Security - Chennai Police,,,,,2055 00 108 AM 30000
+301,Salaries,"16,41,16","16,74,61","16,80,11","14,27,75",2055 00 108 AM 30100
+01,Pay,"14,09,01","14,63,08","14,63,08","12,00,00",2055 00 108 AM 30101
+02,Medical Allowance,"10,09","10,05","10,05","10,05",2055 00 108 AM 30102
+03,Medical Charges,42,"2,12",30,30,2055 00 108 AM 30103
+04,Other Allowances,"73,83","68,41","72,50","80,67",2055 00 108 AM 30104
+06,House Rent Allowance,"1,12,36","93,83","98,00","99,00",2055 00 108 AM 30106
+07,Travel Concession,,73,73,73,2055 00 108 AM 30107
+08,City Compensatory Allowance,"35,45","36,39","35,45","37,00",2055 00 108 AM 30108
+303,Dearness Allowance,"1,41,29","1,90,20","2,34,10","2,94,00",2055 00 108 AM 30300
+01,Dearness Allowance,"1,41,29","1,90,20","2,34,10","2,94,00",2055 00 108 AM 30301
+304,Travel Expenses,"1,39","5,20","5,20","5,20",2055 00 108 AM 30400
+01,Tour Travelling Allowances,"1,39","5,00","5,00","5,00",2055 00 108 AM 30401
+02,Transfer Travelling Allowances,,20,20,20,2055 00 108 AM 30402
+305,Office Expenses,"1,99","4,15","4,15","4,15",2055 00 108 AM 30500
+01,Telephone Charges,32,"1,00","1,00","1,00",2055 00 108 AM 30501
+02,Other Contingencies,"1,00","1,00","1,00","1,00",2055 00 108 AM 30502
+03,Electricity Charges,67,"2,10","2,10","2,10",2055 00 108 AM 30503
+04,Service Postage & Postal Expenditure,,5,5,5,2055 00 108 AM 30504
+315,Secret Service Expenditure,"3,00","3,00","3,00","3,00",2055 00 108 AM 31500
+01,Secret Service Expenditure,"3,00","3,00","3,00","3,00",2055 00 108 AM 31501
+319,Machinery and Equipments,"20,36","21,00","21,00","21,00",2055 00 108 AM 31900
+03,Maintenance,"20,36","21,00","21,00","21,00",2055 00 108 AM 31903
+321,Motor Vehicles,,5,5,5,2055 00 108 AM 32100
+02,Maintenance of Functional Vehicles,,5,5,5,2055 00 108 AM 32102
+333,Payments for Professional and Special Services,,10,10,10,2055 00 108 AM 33300
+03,Special Service,,10,10,10,2055 00 108 AM 33303
+339,Rewards,"2,99","1,00","1,00","1,00",2055 00 108 AM 33900 
+01,Rewards,"2,99","1,00","1,00","1,00",2055 00 108 AM 33901
+345,"Petroleum, Oil and Lubricant","10,00","10,00","10,00","10,00",2055 00 108 AM 34500
+01,"Petroleum, Oil and Lubricant","10,00","10,00","10,00","10,00",2055 00 108 AM 34501
+346,"Clothing, Tentage and Stores","7,00","7,00","7,00","7,00",2055 00 108 AM 34600
+01,"Clothing, Tentage and Stores","7,00","7,00","7,00","7,00",2055 00 108 AM 34601
+349,Festival Advances,"-8,28",,,,2055 00 108 AM 34900
+01,Festival Advances-Debit,,"17,85","17,85","17,85",2055 00 108 AM 34901
+02,Festival Advances-Credit,"-8,28","-17,85","-17,85","-17,85",2055 00 108 AM 34902
+AM,Total AM,"18,20,90","19,16,31","19,65,71","17,73,25",
+AN,Indian Police Service Officers Mess in Chennai City Police,,,,,2055 00 108 AN 30000
+305,Office Expenses,"11,11","18,25","18,25","18,25",2055 00 108 AN 30500
+01,Telephone Charges,31,75,75,75,2055 00 108 AN 30501
+02,Other Contingencies,"3,35","2,50","2,50","2,50",2055 00 108 AN 30502
+03,Electricity Charges,"7,45","15,00","15,00","15,00",2055 00 108 AN 30503
+306,"Rent, Rates and Taxes","2,00","2,00","2,00","2,00",2055 00 108 AN 30600
+03,Water Charges,"2,00","2,00","2,00","2,00",2055 00 108 AN 30603
+318,Maintenance,"9,45","5,00","5,00","5,00",2055 00 108 AN 31800
+01,Periodical Maintenance,"9,45","5,00","5,00","5,00",2055 00 108 AN 31801
+333,Payments for Professional and Special Services,"6,92","8,00","8,00","8,00",2055 00 108 AN 33300
+04,Contract Payment,"6,92","8,00","8,00","8,00",2055 00 108 AN 33304
+347,Stores and Equipments,"3,37","3,50","3,50","3,50",2055 00 108 AN 34700
+01,Stores - Voted,"3,37","3,50","3,50","3,50",2055 00 108 AN 34701
+AN,Total AN,"32,85","36,75","36,75","36,75",
+AO,"Police Stations under the control of Commissioner of Police, Chennai",,,,,2055 00 108 AO 30000
+305,Office Expenses,"67,66","67,68","67,68","48,21",2055 00 108 AO 30500
+02,Other Contingencies,"67,66","67,68","67,68","48,21",2055 00 108 AO 30502
+AO,Total AO,"67,66","67,68","67,68","48,21",
+#,State's Expenditure Total Charged,,2,2,2,
+#,State's Expenditure Total Voted,"13,70,37,10","14,50,27,89","14,83,66,24","16,36,05,20",
+108,Total 108 Charged,,2,2,2,
+108,Total 108 Voted,"13,70,37,10","14,50,27,89","14,83,66,24","16,36,05,20",
+112,Harbour Police,,,,,
+#,State's Expenditure,,,,,
+AA,Harbour Police Force,,,,,2055 00 112 AA 30000
+301,Salaries,"7,89,78","8,14,08","8,18,56","8,26,37",2055 00 112 AA 30100
+01,Pay,"6,86,74","7,24,51","7,24,51","7,24,51",2055 00 112 AA 30101
+02,Medical Allowance,"7,24","6,97","6,97","6,97",2055 00 112 AA 30102
+03,Medical Charges,10,24,10,10,2055 00 112 AA 30103
+04,Other Allowances,"44,35","38,29","40,20","44,02",2055 00 112 AA 30104
+06,House Rent Allowance,"33,00","25,29","28,00","30,00",2055 00 112 AA 30106
+07,Travel Concession,94,"1,17","1,17","1,77",2055 00 112 AA 30107
+08,City Compensatory Allowance,"17,41","17,61","17,61","19,00",2055 00 112 AA 30108
+303,Dearness Allowance,"70,63","94,19","1,15,92","1,77,50",2055 00 112 AA 30300
+01,Dearness Allowance,"70,63","94,19","1,15,92","1,77,50",2055 00 112 AA 30301
+304,Travel Expenses,18,"3,40","3,40","3,40",2055 00 112 AA 30400
+01,Tour Travelling Allowances,3,"3,00","3,00","3,00",2055 00 112 AA 30401
+02,Transfer Travelling Allowances,15,40,40,40,2055 00 112 AA 30402
+305,Office Expenses,"2,73","2,60","1,38","1,38",2055 00 112 AA 30500
+01,Telephone Charges,17,25,25,25,2055 00 112 AA 30501
+02,Other Contingencies,57,35,35,35,2055 00 112 AA 30502
+03,Electricity Charges,"1,99","2,00",78,78,2055 00 112 AA 30503
+339,Rewards,"1,00","1,00","1,00","1,00",2055 00 112 AA 33900
+01,Rewards,"1,00","1,00","1,00","1,00",2055 00 112 AA 33901
+349,Festival Advances,"-7,20",,,,2055 00 112 AA 34900
+01,Festival Advances-Debit,,"10,20","10,20","10,20",2055 00 112 AA 34901
+02,Festival Advances-Credit,"-7,20","-10,20","-10,20","-10,20",2055 00 112 AA 34902
+AA,Total AA,"8,57,12","9,15,27","9,40,26","10,09,65",
+#,State's Expenditure,,,,,
+112,Total 112,"8,57,12","9,15,27","9,40,26","10,09,65",
+113,Welfare of Police Personnel,,,,,
+#,State's Expenditure,,,,,
+AA,State Headquarters Police Hospital,,,,,2055 00 113 AA 30000
+301,Salaries,"2,44,65","2,52,21","2,50,26","2,52,61",2055 00 113 AA 30100
+01,Pay,"2,12,40","2,19,24","2,19,24","2,19,24",2055 00 113 AA 30101
+02,Medical Allowance,"1,18","1,34","1,34","1,34",2055 00 113 AA 30102
+03,Medical Charges,7,28,10,10,2055 00 113 AA 30103
+04,Other Allowances,"2,82","2,63","2,63","2,63",2055 00 113 AA 30104
+06,House Rent Allowance,"24,23","23,77","22,00","24,00",2055 00 113 AA 30106
+07,Travel Concession,,30,30,30,2055 00 113 AA 30107
+08,City Compensatory Allowance,"3,95","4,65","4,65","5,00",2055 00 113 AA 30108
+303,Dearness Allowance,"18,47","28,50","35,08","53,71",2055 00 113 AA 30300
+01,Dearness Allowance,"18,47","28,50","35,08","53,71",2055 00 113 AA 30301
+305,Office Expenses,"13,02","10,46","1,20,41","1,19,16",2055 00 113 AA 30500
+01,Telephone Charges,4,20,"1,90","1,90",2055 00 113 AA 30501
+02,Other Contingencies,82,"1,25","42,50","41,25",2055 00 113 AA 30502
+03,Electricity Charges,"6,02","9,00","76,00","76,00",2055 00 113 AA 30503
+05,Furniture,"6,14",1,1,1,2055 00 113 AA 30505
+306,"Rent, Rates and Taxes",,,"10,00","10,00",2055 00 113 AA 30600
+03,Water Charges,,,"10,00","10,00",2055 00 113 AA 30603
+319,Machinery and Equipments,"4,35,67",1,"3,01","3,01",2055 00 113 AA 31900
+01,Purchase,"4,35,67",1,1,1,2055 00 113 AA 31901
+03,Maintenance,,,"3,00","3,00",2055 00 113 AA 31903
+321,Motor Vehicles,,,"5,00","5,00",2055 00 113 AA 32100
+02,Maintenance of Functional Vehicles,,,"5,00","5,00",2055 00 113 AA 32102
+333,Payments for Professional and Special Services,,,"12,00","12,00",2055 00 113 AA 33300
+04,Contract Payment,,,"12,00","12,00",2055 00 113 AA 33304
+345,"Petroleum, Oil and Lubricant",,,"10,00","10,00",2055 00 113 AA 34500
+01,"Petroleum, Oil and Lubricant",,,"10,00","10,00",2055 00 113 AA 34501
+346,"Clothing, Tentage and Stores",,1,1,1,2055 00 113 AA 34600
+01,"Clothing, Tentage and Stores",,1,1,1,2055 00 113 AA 34601
+347,Stores and Equipments,,,"20,00","10,00",2055 00 113 AA 34700
+01,Stores - Voted,,,"20,00","10,00",2055 00 113 AA 34701
+349,Festival Advances,-44,,,,2055 00 113 AA 34900
+01,Festival Advances-Debit,60,"3,85","3,85","3,85",2055 00 113 AA 34901
+02,Festival Advances-Credit,"-1,04","-3,85","-3,85","-3,85",2055 00 113 AA 34902
+366,Medicine,"90,00","90,00","90,00","90,00",2055 00 113 AA 36600 
+01,Medicine,"90,00","90,00","90,00","90,00",2055 00 113 AA 36601
+367,Feeding/Dietary Charges,17,"2,00","37,00","37,00",2055 00 113 AA 36700
+09,Others,17,"2,00","37,00","37,00",2055 00 113 AA 36709
+371,Printing Charges,,,"2,50","2,50",2055 00 113 AA 37100
+01,Printing Charges,,,"2,50","2,50",2055 00 113 AA 37101
+AA,Total AA,"8,01,54","3,83,19","5,95,27","6,05,00",
+#,State's Expenditure Total,"8,01,54","3,83,19","5,95,27","6,05,00",
+113,Total 113,"8,01,54","3,83,19","5,95,27","6,05,00",
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+AM,Settlement of Bus/Train Warrants Controlled by Commissioner of Police,,,,,2055 00 800 AM 30000
+304,Travel Expenses,"1,10,32","90,00","90,00","90,00",2055 00 800 AM 30400 
+01,Tour Travelling Allowances,"1,10,32","90,00","90,00","90,00",2055 00 800 AM 30401 
+AM,Total AM,"1,10,32","90,00","90,00","90,00",
+#,State's Expenditure Total,"1,10,32","90,00","90,00","90,00",
+800,Total 800,"1,10,32","90,00","90,00","90,00",
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+AG,City Traffic Improvement Works,,,,,2055 00 911 AG 30000
+377,Deduct-Recoveries,"-1,76",,,,2055 00 911 AG 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-1,76",,,,2055 00 911 AG 37702
+AG,Total AG,,,"-1,76",,
+#,State's Expenditure Total,"-1,76",,,,
+911,Total 911,"-1,76",,,,
+00,Total 00 Charged,,2,2,2,
+00,Total 00 Voted,"13,88,04,32","14,64,16,35","14,99,91,77","16,53,09,85",
+2055,Total 2055 Charged,,2,2,2,
+2055,Total 2055 Voted,"13,88,04,32","14,64,16,35","14,99,91,77","16,53,09,85",
+2059,PUBLIC WORKS,,,,,
+01,Office Buildings,,,,,
+053,Maintenance and Repairs,,,,,
+#,State's Expenditure,,,,,
+CU,"Non Residential Buildings - Police Department - Administered by the Commissioner of Police, Chennai",,,,,2059 01 053 CU 30000
+318,Maintenance,"1,05,00","1,05,00","1,05,00","1,05,00",2059 01 053 CU 31800
+01,Periodical Maintenance,"1,05,00","1,05,00","1,05,00","1,05,00",2059 01 053 CU 31801
+CU,Total CU,"1,05,00","1,05,00","1,05,00","1,05,00",
+#,State's Expenditure Total,"1,05,00","1,05,00","1,05,00","1,05,00",
+053,Total 053,"1,05,00","1,05,00","1,05,00","1,05,00",
+01,Total 01,"1,05,00","1,05,00","1,05,00","1,05,00",
+2059,Total 2059,"1,05,00","1,05,00","1,05,00","1,05,00",
+2070-00,OTHER ADMINISTRATIVE SERVICES,,,,,
+107,Home Guards,,,,,
+#,State's Expenditure,,,,,
+AA,Home Guards in Chennai city,,,,,2070 00 107 AA 30000
+301,Salaries,"6,76,22","76,09","76,11","71,81",2070 00 107 AA 30100
+01,Pay,"5,64,70","66,07","66,07","61,49",2070 00 107 AA 30101
+02,Medical Allowance,"6,98",56,56,56,2070 00 107 AA 30102
+04,Other Allowances,"41,14","2,95","2,97","3,00",2070 00 107 AA 30104
+06,House Rent Allowance,"50,96","4,75","4,75","5,00",2070 00 107 AA 30106
+07,Travel Concession,,18,18,18,2070 00 107 AA 30107
+08,City Compensatory Allowance,"12,44","1,58","1,58","1,58",2070 00 107 AA 30108
+303,Dearness Allowance,"51,55","8,59","10,57","15,07",2070 00 107 AA 30300
+01,Dearness Allowance,"51,55","8,59","10,57","15,07",2070 00 107 AA 30301
+304,Travel Expenses,,20,20,20,2070 00 107 AA 30400
+01,Tour Travelling Allowance,,20,20,20,2070 00 107 AA 30401
+305,Office Expenses,40,90,90,90,2070 00 107 AA 30500
+01,Telephone Charges,,25,25,25,2070 00 107 AA 30501
+02,Other Contingencies,5,5,5,5,2070 00 107 AA 30502
+03,Electricity Charges,35,50,50,50,2070 00 107 AA 30503
+04,Service Postage & Postal Expenditure,,10,10,10,2070 00 107 AA 30504
+342,Service or Commitment Charges,"6,69,80","7,25,00","7,25,00","7,25,00",2070 00 107 AA 34200
+01,Service or Commitment Charges,"6,69,80","7,25,00","7,25,00","7,25,00",2070 00 107 AA 34201
+346,"Clothing, Tentage and Stores","5,98","6,00","6,00","6,00",2070 00 107 AA 34600
+01,"Clothing, Tentage and Stores","5,98","6,00","6,00","6,00",2070 00 107 AA 34601
+349,Festival Advances,"-5,74",,,,2070 00 107 AA 34900
+01,Festival Advances-Debit,,"1,25","1,25","1,25",2070 00 107 AA 34901
+02,Festival Advances-Credit,"-5,74","-1,25","-1,25","-1,25",2070 00 107 AA 34902
+367,Feeding/Dietary Charges,"4,98","5,00","5,00","5,00",2070 00 107 AA 36700
+09,Others,"4,98","5,00","5,00","5,00",2070 00 107 AA 36709 
+AA,Total AA,"14,03,19","8,21,78","8,23,78","8,23,98",
+#,State's Expenditure Total,"14,03,19","8,21,78","8,23,78","8,23,98",
+107,Total 107,"14,03,19","8,21,78","8,23,78","8,23,98",
+00,Total 00,"14,03,19","8,21,78","8,23,78","8,23,98",
+2070,Total 2070,"14,03,19","8,21,78","8,23,78","8,23,98",
+2235,SOCIAL SECURITY AND WELFARE,,,,,
+02,Social Welfare,,,,,
+104,"Welfare of aged, infirm and destitute",,,,,
+#,State's Expenditure,,,,,
+AF,Boys Club in Chennai city,,,,,2235 02 104 AF 30000
+305,Office Expenses,"1,19","5,00","2,23","2,23",2235 02 104 AF 30500
+03,Electricity Charges,"1,19","5,00","2,23","2,23",2235 02 104 AF 30503
+306,"Rent, Rates and Taxes",,"6,50","2,87","2,87",2235 02 104 AF 30600
+01,Rent,,"6,50","2,87","2,87",2235 02 104 AF 30601
+309,Grants-in-Aid,37,50,50,50,2235 02 104 AF 30900
+03,Grants for Specific Schemes,37,50,50,50,2235 02 104 AF 30903
+333,Payments for Professional and Special Services,"35,11","40,80","40,80","40,80",2235 02 104 AF 33300
+02,Remuneration,"35,11","40,80","40,80","40,80",2235 02 104 AF 33302
+334,Other Charges,"2,98","3,98","3,98","3,98",2235 02 104 AF 33400
+02,"Purchase  of  Books & Periodicals to Libraries etc.,","2,98","3,98","3,98","3,98",2235 02 104 AF 33402
+347,Stores and Equipments,"3,49","4,66","4,65","4,65",2235 02 104 AF 34700
+01,Stores - Voted,"3,49","4,65","4,65","4,65",2235 02 104 AF 34701
+02,Equipments - Voted,,1,,,2235 02 104 AF 34702
+AF,Total AF,"43,14","61,44","55,03","55,03",
+#,State's Expenditure Total,"43,14","61,44","55,03","55,03",
+104,Total 104,"43,14","61,44","55,03","55,03",
+02,Total 02,"43,14","61,44","55,03","55,03",
+2235,Total 2235,"43,14","61,44","55,03","55,03",
