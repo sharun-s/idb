@@ -1,0 +1,380 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2041-00,TAXES ON VEHICLES,,,,,
+001,Direction and Administration,,,,,
+#,State's Expenditure,,,,,
+AA,State Transport Authority,,,,,2041 00 001 AA 30000
+301,Salaries,"4,40,22","5,19,78","5,20,94","5,41,76",2041 00 001 AA 30100
+01,Pay,"3,85,75","4,54,69","4,54,69","4,72,88",2041 00 001 AA 30101
+02,Medical Allowance,"3,54","4,16","4,56","4,74",2041 00 001 AA 30102
+03,Medical Charges,18,"1,19",49,49,2041 00 001 AA 30103
+04,Other Allowances,"2,17","1,04","2,50","2,60",2041 00 001 AA 30104
+06,House Rent Allowance,"40,85","48,88","48,88","50,84",2041 00 001 AA 30106
+07,Travel Concession,,24,24,25,2041 00 001 AA 30107
+08,City Compensatory Allowance,"7,73","9,58","9,58","9,96",2041 00 001 AA 30108
+303,Dearness Allowance,"1,08,83","45,45","55,55","1,15,86",2041 00 001 AA 30300
+01,Dearness Allowance,"1,08,83","45,45","55,55","1,15,86",2041 00 001 AA 30301
+304,Travel Expenses,"1,63","4,09","4,06","4,09",2041 00 001 AA 30400
+01,Tour Travelling Allowances,"1,63","3,20","3,20","3,20",2041 00 001 AA 30401
+02,Transfer Travelling Allowances,,89,86,89,2041 00 001 AA 30402
+305,Office Expenses,"8,53","11,13","10,63","11,13",2041 00 001 AA 30500
+01,Telephone Charges,"2,48","4,50","4,00","4,50",2041 00 001 AA 30501
+02,Other Contingencies,"3,72","4,00","4,00","4,00",2041 00 001 AA 30502
+03,Electricity Charges,9,37,37,37,2041 00 001 AA 30503
+025,01   Commissionerate of Transport,,,,,
+04,Service Postage & Postal Expenditure,"2,24","2,25","2,25","2,25",2041 00 001 AA 30504
+05,Furniture,,1,1,1,2041 00 001 AA 30505
+308,Advertising and Publicity,"61,50","5,00","75,95","5,00",2041 00 001 AA 30800
+01,Advertisement Charges,"61,50","5,00","75,95","5,00",2041 00 001 AA 30801
+317,Minor Works,,1,"22,47",1,2041 00 001 AA 31700
+01,Minor Works,,1,"22,47",1,2041 00 001 AA 31701
+319,Machinery and Equipments,17,31,31,31,2041 00 001 AA 31900
+01,Purchase,,1,1,1,2041 00 001 AA 31901
+03,Maintenance,17,30,30,30,2041 00 001 AA 31903
+321,Motor Vehicles,7,33,51,51,2041 00 001 AA 32100
+01,Purchase,,1,1,1,2041 00 001 AA 32101
+02,Maintenance of Functional Vehicles,7,32,50,50,2041 00 001 AA 32102
+333,Payments for Professional and Special Services,17,"2,39","2,30","2,39",2041 00 001 AA 33300
+01,Pleaders Fees,17,"2,38","2,29","2,38",2041 00 001 AA 33301
+04,Contract Payment,,1,1,1,2041 00 001 AA 33304
+334,Other Charges,,1,,,2041 00 001 AA 33400
+02,"Purchase  of  Books & Periodicals to Libraries etc.,",,1,,,2041 00 001 AA 33402
+345,"Petroleum, Oil and Lubricant","5,00","7,31","7,31","7,31",2041 00 001 AA 34500
+01,"Petroleum, Oil and Lubricant","5,00","7,31","7,31","7,31",2041 00 001 AA 34501
+349,Festival Advances,23,,,,2041 00 001 AA 34900
+01,Festival Advances-Debit,"2,45","5,84","7,84","7,84",2041 00 001 AA 34901
+02,Festival Advances-Credit,"-2,22","-5,84","-7,84","-7,84",2041 00 001 AA 34902
+351,Compensation Charged,,1,1,1,2041 00 001 AA 35100
+52,Other Compensations Charged,,1,1,1,2041 00 001 AA 35152
+359,Prizes and Awards,,8,8,8,2041 00 001 AA 35900
+01,Prizes and Awards,,8,8,8,2041 00 001 AA 35901
+371,Printing Charges,,1,1,1,2041 00 001 AA 37100
+01,Printing Charges,,1,1,1,2041 00 001 AA 37101
+372,Training,,"2,41",1,1,2041 00 001 AA 37200
+01,Training,,"2,41",1,1,2041 00 001 AA 37201
+376,Computer and Accessories,,1,1,1,2041 00 001 AA 37600
+01,Purchase,,1,1,1,2041 00 001 AA 37601
+AA,Total AA Charged,,1,1,1,
+AA,Total AA Voted,"6,26,35","5,98,32","7,00,14","6,88,48",
+AB,Regional Transport Authority - Chennai city,,,,,2041 00 001 AB 30000
+301,Salaries,"7,65,94","7,78,47","7,77,80","8,09,83",2041 00 001 AB 30100
+01,Pay,"6,69,67","6,81,41","6,81,41","7,08,67",2041 00 001 AB 30101
+02,Medical Allowance,"7,35","6,24","6,48","6,73",2041 00 001 AB 30102
+04,Other Allowances,"4,32","2,08","2,50","2,60",2041 00 001 AB 30104
+06,House Rent Allowance,"71,12","74,38","73,48","77,35",2041 00 001 AB 30106
+07,Travel Concession,,1,1,1,2041 00 001 AB 30107
+08,City Compensatory Allowance,"13,48","14,35","13,92","14,47",2041 00 001 AB 30108
+303,Dearness Allowance,"2,44,31","74,22","1,00,00","1,73,62",2041 00 001 AB 30300
+025,01   Commissionerate of Transport,,,,,
+01,Dearness Allowance,"2,44,31","74,22","1,00,00","1,73,62",2041 00 001 AB 30301
+304,Travel Expenses,"1,21","2,51","2,50","2,50",2041 00 001 AB 30400
+01,Tour Travelling Allowances,"1,21","2,20","2,20","2,20",2041 00 001 AB 30401
+02,Transfer Travelling Allowances,,31,30,30,2041 00 001 AB 30402
+305,Office Expenses,"33,97","46,61","46,61","46,61",2041 00 001 AB 30500
+01,Telephone Charges,"2,60","4,50","4,50","4,50",2041 00 001 AB 30501
+02,Other Contingencies,"1,61","3,10","3,10","3,10",2041 00 001 AB 30502
+03,Electricity Charges,"23,23","31,00","31,00","31,00",2041 00 001 AB 30503
+04,Service Postage & Postal Expenditure,"6,53","8,00","8,00","8,00",2041 00 001 AB 30504
+05,Furniture,,1,1,1,2041 00 001 AB 30505
+306,"Rent, Rates and Taxes","89,93","1,03,97","1,10,69","1,08,50",2041 00 001 AB 30600
+01,Rent,"87,54","98,00","98,00","98,00",2041 00 001 AB 30601
+02,Property tax,"1,61","4,20","10,19","8,00",2041 00 001 AB 30602
+03,Water Charges,78,"1,77","2,50","2,50",2041 00 001 AB 30603
+319,Machinery and Equipments,1,45,45,45,2041 00 001 AB 31900
+01,Purchase,,1,1,1,2041 00 001 AB 31901
+03,Maintenance,1,44,44,44,2041 00 001 AB 31903
+321,Motor Vehicles,3,33,53,53,2041 00 001 AB 32100
+01,Purchase,,1,1,1,2041 00 001 AB 32101
+02,Maintenance of Functional Vehicles,3,32,52,52,2041 00 001 AB 32102
+333,Payments for Professional and Special Services,"17,10","18,52","18,52","18,52",2041 00 001 AB 33300
+025,01   Commissionerate of Transport,,,,,
+01,Pleaders Fees,,52,52,52,2041 00 001 AB 33301
+04,Contract Payment,"17,10","18,00","18,00","18,00",2041 00 001 AB 33304
+345,"Petroleum, Oil and Lubricant","5,71","7,00","9,00","9,00",2041 00 001 AB 34500
+01,"Petroleum, Oil and Lubricant","5,71","7,00","9,00","9,00",2041 00 001 AB 34501
+349,Festival Advances,34,,,,2041 00 001 AB 34900
+01,Festival Advances-Debit,"2,00","6,50","9,50","9,50",2041 00 001 AB 34901
+02,Festival Advances-Credit,"-1,66","-6,50","-9,50","-9,50",2041 00 001 AB 34902
+359,Prizes and Awards,6,12,12,12,2041 00 001 AB 35900
+01,Prizes and Awards,6,12,12,12,2041 00 001 AB 35901
+AB,Total AB,"11,58,61","10,32,20","10,66,22","11,69,68",
+AC,Regional Transport Authority - Mofussil,,,,,2041 00 001 AC 30000
+301,Salaries,"57,20,47","52,45,73","58,23,92","60,47,79",2041 00 001 AC 30100
+01,Pay,"52,48,40","48,26,69","53,44,99","55,59,00",2041 00 001 AC 30101
+02,Medical Allowance,"43,01","37,28","48,36","49,75",2041 00 001 AC 30102
+03,Medical Charges,6,62,"1,64",1,2041 00 001 AC 30103
+04,Other Allowances,"67,28","69,70","68,72","70,69",2041 00 001 AC 30104
+06,House Rent Allowance,"3,32,31","2,87,26","3,31,61","3,38,86",2041 00 001 AC 30106
+08,City Compensatory Allowance,"29,41","24,18","28,60","29,48",2041 00 001 AC 30108
+302,Wages,"1,16","2,31","1,69",,2041 00 001 AC 30200
+01,Wages,"1,16","2,31","1,69",,2041 00 001 AC 30201
+303,Dearness Allowance,"16,47,44","6,52,70","8,96,04","13,61,96",2041 00 001 AC 30300
+01,Dearness Allowance,"16,47,44","6,52,70","8,96,04","13,61,96",2041 00 001 AC 30301
+304,Travel Expenses,"3,69","5,80","6,84","6,82",2041 00 001 AC 30400
+025,01   Commissionerate of Transport,,,,,
+01,Tour Travelling Allowances,"3,37","4,80","5,80","5,81",2041 00 001 AC 30401
+02,Transfer Travelling Allowances,32,"1,00","1,04","1,01",2041 00 001 AC 30402
+305,Office Expenses,"3,06,03","4,07,65","4,10,11","4,23,10",2041 00 001 AC 30500
+01,Telephone Charges,"32,43","43,73","45,19","45,97",2041 00 001 AC 30501
+02,Other Contingencies,"12,46","14,12","15,12","16,12",2041 00 001 AC 30502
+03,Electricity Charges,"2,00,05","2,80,04","2,80,04","2,91,25",2041 00 001 AC 30503
+04,Service Postage & Postal Expenditure,"61,09","69,75","69,75","69,75",2041 00 001 AC 30504
+05,Furniture,,1,1,1,2041 00 001 AC 30505
+306,"Rent, Rates and Taxes","3,25,75","5,05,68","5,03,18","5,03,31",2041 00 001 AC 30600
+01,Rent,"3,04,88","4,74,10","4,74,10","4,74,10",2041 00 001 AC 30601
+02,Property tax,"20,63","28,32","26,32","26,32",2041 00 001 AC 30602
+03,Water Charges,24,"3,26","2,76","2,89",2041 00 001 AC 30603
+308,Advertising and Publicity,"6,30","6,60","6,60","6,60",2041 00 001 AC 30800
+02,Exhibition,"6,30","6,60","6,60","6,60",2041 00 001 AC 30802
+319,Machinery and Equipments,"6,32","6,42","6,42","6,71",2041 00 001 AC 31900
+01,Purchase,,1,1,1,2041 00 001 AC 31901
+03,Maintenance,"6,32","6,41","6,41","6,70",2041 00 001 AC 31903
+321,Motor Vehicles,"2,14","2,49","3,11","3,27",2041 00 001 AC 32100
+01,"Purchase""",,1,1,1,2041 00 001 AC 32101
+02,Maintenance of Functional Vehicles,"2,14","2,48","3,10","3,26",2041 00 001 AC 32102
+333,Payments for Professional and Special Services,"3,40,19","4,01,69","5,01,78","4,51,69",2041 00 001 AC 33300
+01,Pleaders Fees,15,"1,71","1,80","1,71",2041 00 001 AC 33301
+04,Contract Payment,"3,40,04","3,99,98","4,99,98","4,49,98",2041 00 001 AC 33304
+345,"Petroleum, Oil and Lubricant","75,32","90,20","91,34","96,37",2041 00 001 AC 34500
+01,"Petroleum, Oil and Lubricant","75,32","90,20","91,34","96,37",2041 00 001 AC 34501
+349,Festival Advances,"-1,20",,,,2041 00 001 AC 34900
+01,Festival Advances-Debit,"12,60","37,00","55,00","55,00",2041 00 001 AC 34901
+02,Festival Advances-Credit,"-13,80","-37,00","-55,00","-55,00",2041 00 001 AC 34902
+359,Prizes and Awards,,28,28,28,2041 00 001 AC 35900
+01,Prizes and Awards,,28,28,28,2041 00 001 AC 35901
+364,Lands,,1,,,2041 00 001 AC 36400
+01,Lands - Voted,,1,,,2041 00 001 AC 36401
+372,Training,,1,1,1,2041 00 001 AC 37200
+01,Training,,1,1,1,2041 00 001 AC 37201
+376,Computer and Accessories,,1,1,1,2041 00 001 AC 37600
+01,Purchase,,1,1,1,2041 00 001 AC 37601
+AC,Total AC,"84,33,61","73,27,58","82,51,33","89,07,92",
+AD,Internal Audit of Accounts,,,,,2041 00 001 AD 30000
+301,Salaries,"2,11,25","2,35,37","2,35,88","2,45,05",2041 00 001 AD 30100
+01,Pay,"1,91,05","2,11,79","2,11,79","2,20,26",2041 00 001 AD 30101
+02,Medical Allowance,"1,48","1,62","2,00","2,00",2041 00 001 AD 30102
+04,Other Allowances,98,"1,87","2,00","2,02",2041 00 001 AD 30104
+06,House Rent Allowance,"15,35","17,10","17,10","17,78",2041 00 001 AD 30106
+08,City Compensatory Allowance,"2,39","2,99","2,99","2,99",2041 00 001 AD 30108
+025,01   Commissionerate of Transport,,,,,
+303,Dearness Allowance,"27,25","18,10","20,00","53,96",2041 00 001 AD 30300
+01,Dearness Allowance,"27,25","18,10","20,00","53,96",2041 00 001 AD 30301
+304,Travel Expenses,"11,54","10,75","10,75","10,75",2041 00 001 AD 30400
+01,Tour Travelling Allowances,"11,54","10,75","10,75","10,75",2041 00 001 AD 30401
+305,Office Expenses,71,72,72,72,2041 00 001 AD 30500
+02,Other Contingencies,71,72,72,72,2041 00 001 AD 30502
+349,Festival Advances,10,,,,2041 00 001 AD 34900
+01,Festival Advances-Debit,80,"1,81","4,81","4,81",2041 00 001 AD 34901
+02,Festival Advances-Credit,-70,"-1,81","-4,81","-4,81",2041 00 001 AD 34902
+AD,Total AD,"2,50,85","2,64,94","2,67,35","3,10,48",
+AE,Headquarters Staff - Commissioner for Transport,,,,,2041 00 001 AE 30000
+301,Salaries,"23,25","35,36","43,50","45,24",2041 00 001 AE 30100
+01,Pay,"17,22","25,62","30,00","31,20",2041 00 001 AE 30101
+03,Medical Charges,5,89,50,52,2041 00 001 AE 30103
+04,Other Allowances,"1,66","3,12","5,00","5,20",2041 00 001 AE 30104
+06,House Rent Allowance,"4,18","5,36","7,50","7,80",2041 00 001 AE 30106
+07,Travel Concession,,10,10,10,2041 00 001 AE 30107
+08,City Compensatory Allowance,14,27,40,42,2041 00 001 AE 30108
+303,Dearness Allowance,"1,51","3,12","4,20","7,64",2041 00 001 AE 30300
+01,Dearness Allowance,"1,51","3,12","4,20","7,64",2041 00 001 AE 30301
+304,Travel Expenses,"3,35","9,05","4,21","4,21",2041 00 001 AE 30400
+01,Tour Travelling Allowances,"3,35","8,84","4,00","4,00",2041 00 001 AE 30401
+02,Transfer Travelling Allowances,,21,21,21,2041 00 001 AE 30402
+025,01   Commissionerate of Transport,,,,,
+AE,Total AE,"28,11","47,53","51,91","57,09",
+AF,Road Safety Council,,,,,2041 00 001 AF 30000
+301,Salaries,"55,51","45,55","36,22","37,42",2041 00 001 AF 30100
+01,Pay,"49,45","39,06","30,00","31,00",2041 00 001 AF 30101
+02,Medical Allowance,24,26,26,26,2041 00 001 AF 30102
+04,Other Allowances,22,62,62,62,2041 00 001 AF 30104
+06,House Rent Allowance,"4,79","4,74","4,74","4,93",2041 00 001 AF 30106
+08,City Compensatory Allowance,81,87,60,61,2041 00 001 AF 30108
+303,Dearness Allowance,"16,10","4,08","5,00","7,60",2041 00 001 AF 30300
+01,Dearness Allowance,"16,10","4,08","5,00","7,60",2041 00 001 AF 30301
+304,Travel Expenses,10,15,15,15,2041 00 001 AF 30400
+01,Tour Travelling Allowances,10,15,15,15,2041 00 001 AF 30401
+305,Office Expenses,,8,8,8,2041 00 001 AF 30500
+01,Telephone Charges,,8,8,8,2041 00 001 AF 30501
+321,Motor Vehicles,,1,1,1,2041 00 001 AF 32100
+02,Maintenance of Functional Vehicles,,1,1,1,2041 00 001 AF 32102
+333,Payments for Professional and Special Services,,1,1,1,2041 00 001 AF 33300
+04,Contract Payment,,1,1,1,2041 00 001 AF 33304
+345,"Petroleum, Oil and Lubicant","10,95","21,14","18,00","18,00",2041 00 001 AF 34500
+01,"Petroleum, Oil and Lubicant","10,95","21,14","18,00","18,00",2041 00 001 AF 34501
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,5,60,"1,60","1,60",2041 00 001 AF 34901
+02,Festival Advances-Credit,-5,-60,"-1,60","-1,60",2041 00 001 AF 34902
+AF,Total AF,"82,66","71,02","59,47","63,27",
+AI,Establishment of Regional Training Centre for Drivers,,,,,2041 00 001 AI 30000
+301,Salaries,,3,3,3,2041 00 001 AI 30100
+01,Pay,,3,3,3,2041 00 001 AI 30101
+333,Payments for Professional and Special Services,,1,,,2041 00 001 AI 33300
+02,Remuneration,,1,,,2041 00 001 AI 33302
+AI,Total AI,,4,3,3,
+JA,Special Initiatives in e-governance in Transport Department,,,,,2041 00 001 JA 30000
+319,Machinery and Equipments,"2,28,75",1,"27,43",1,2041 00 001 JA 31900
+01,Purchase,"2,28,75",1,"27,43",1,2041 00 001 JA 31901
+376,Computer and Accessories,"3,25,82",41,41,43,2041 00 001 JA 37600
+01,Purchase,"3,25,43",1,1,1,2041 00 001 JA 37601
+03,Stationery,39,40,40,42,2041 00 001 JA 37603
+JA,Total JA,"5,54,57",42,"27,84",44,
+#,State's Expenditure Total Charged,,1,1,1,
+#,State's Expenditure Total Voted,"1,11,34,76","93,42,05","1,04,24,29","1,11,97,39",
+001,Total 001 Charged,,1,1,1,
+001,Total 001 Voted,"1,11,34,76","93,42,05","1,04,24,29","1,11,97,39",
+025,01   Commissionerate of Transport,,,,,
+101,Collection Charges,,,,,
+#,State's Expenditure,,,,,
+AA,City,,,,,2041 00 101 AA 30000
+301,Salaries,"25,18","30,45","31,37","32,44",2041 00 101 AA 30100
+01,Pay,"21,87","26,10","26,76","27,83",2041 00 101 AA 30101
+02,Medical Allowance,24,26,26,26,2041 00 101 AA 30102
+04,Other Allowances,27,73,73,73,2041 00 101 AA 30104
+06,House Rent Allowance,"2,28","2,74","3,00","3,00",2041 00 101 AA 30106
+08,City Compensatory Allowance,52,62,62,62,2041 00 101 AA 30108
+303,Dearness Allowance,"3,44","4,10","4,10","6,82",2041 00 101 AA 30300
+01,Dearness Allowance,"3,44","4,10","4,10","6,82",2041 00 101 AA 30301
+304,Travel Expenses,,2,2,2,2041 00 101 AA 30400
+01,Tour Travelling Allowances,,2,2,2,2041 00 101 AA 30401
+349,Festival Advances,-2,,,,2041 00 101 AA 34900
+01,Festival Advances-Debit,15,40,40,40,2041 00 101 AA 34901
+02,Festival Advances-Credit,-17,-40,-40,-40,2041 00 101 AA 34902
+AA,Total AA,"28,60","34,57","35,49","39,28",
+AB,Mofussil,,,,,2041 00 101 AB 30000
+301,Salaries,,"3,48","2,04","2,10",2041 00 101 AB 30100
+01,Pay,,"2,60","1,50","1,56",2041 00 101 AB 30101
+02,Medical Allowance,,6,3,3,2041 00 101 AB 30102
+04,Other Allowances,,58,32,32,2041 00 101 AB 30104
+06,House Rent Allowance,,22,17,17,2041 00 101 AB 30106
+08,City Compensatory Allowance,,2,2,2,2041 00 101 AB 30108
+303,Dearness Allowance,,12,5,38,2041 00 101 AB 30300
+01,Dearness Allowance,,12,5,38,2041 00 101 AB 30301
+025,01   Commissionerate of Transport,,,,,
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,20,5,5,2041 00 101 AB 34901
+02,Festival Advances-Credit,,-20,-5,-5,2041 00 101 AB 34902
+AB,Total AB,"3,60","2,09","2,48",,
+#,State's Expenditure Total,"28,60","38,17","37,58","41,76",
+101,Total 101,"28,60","38,17","37,58","41,76",
+102,Inspection of Motor Vehicles,,,,,
+#,State's Expenditure,,,,,
+AA,Inspection and Flying Squad,,,,,2041 00 102 AA 30000
+301,Salaries,"4,42,05","4,72,49","4,71,66","4,90,35",2041 00 102 AA 30100
+01,Pay,"4,03,87","4,29,06","4,29,06","4,46,22",2041 00 102 AA 30101
+02,Medical Allowance,"2,75","2,87","3,36","3,49",2041 00 102 AA 30102
+04,Other Allowances,"2,45","4,37","6,00","6,24",2041 00 102 AA 30104
+06,House Rent Allowance,"28,33","31,95","29,00","30,16",2041 00 102 AA 30106
+08,City Compensatory Allowance,"4,65","4,24","4,24","4,24",2041 00 102 AA 30108
+303,Dearness Allowance,"2,15,09","62,25","62,25","1,09,32",2041 00 102 AA 30300
+01,Dearness Allowance,"2,15,09","62,25","62,25","1,09,32",2041 00 102 AA 30301
+304,Travel Expenses,23,2,2,2,2041 00 102 AA 30400
+01,Tour Travelling Allowances,23,2,2,2,2041 00 102 AA 30401
+349,Festival Advances,-23,,,,2041 00 102 AA 34900
+01,Festival Advances-Debit,80,"2,00","6,00","6,00",2041 00 102 AA 34901
+02,Festival Advances-Credit,"-1,03","-2,00","-6,00","-6,00",2041 00 102 AA 34902
+AA,Total AA,"6,57,14","5,34,76","5,33,93","5,99,69",
+#,State's Expenditure Total,"6,57,14","5,34,76","5,33,93","5,99,69",
+025,01   Commissionerate of Transport,,,,,
+102,Total 102,"6,57,14","5,34,76","5,33,93","5,99,69",
+797,Transfers to Reserve Funds / Deposit Accounts,,,,,
+#,State's Expenditure,,,,,
+AA,Amount transferred to Road Safety Fund,,,,,2041 00 797 AA 30000
+330,Inter-Account Transfers,"44,56,28","65,00,00","65,00,00","65,00,00",2041 00 797 AA 33000
+01,Inter-Account Transfers,"44,56,28","65,00,00","65,00,00","65,00,00",2041 00 797 AA 33001
+AA,Total AA,"44,56,28","65,00,00","65,00,00","65,00,00",
+#,State's Expenditure Total,"44,56,28","65,00,00","65,00,00","65,00,00",
+797,Total 797,"44,56,28","65,00,00","65,00,00","65,00,00",
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+AE,Payment to ELCOT for preparation of Laminated Type Driving Licences,,,,,2041 00 800 AE 30000
+342,Service or Commitment Charges,"9,70,94","10,00,00","1,80,28",,2041 00 800 AE 34200
+01,Service or Commitment Charges,"9,70,94","10,00,00","1,80,28",,2041 00 800 AE 34201
+AE,Total AE,"9,70,94","10,00,00","1,80,28",,
+AF,Computerisation of Registration and Licencing of Motor Vehicles in Transport Department,,,,,2041 00 800 AF 30000
+305,Office Expenses,"9,14","7,24","7,24","7,24",2041 00 800 AF 30500
+01,Telephone Charges,"9,10","7,19","7,19","7,19",2041 00 800 AF 30501
+02,Other Contingencies,4,5,5,5,2041 00 800 AF 30502
+308,Advertising and Publicity,"2,82","5,00","5,00","5,00",2041 00 800 AF 30800
+01,Advertisement Charges,"2,82","5,00","5,00","5,00",2041 00 800 AF 30801
+317,Minor Works,"4,54","6,00","6,00","8,50",2041 00 800 AF 31700
+025,01 Commissionerate of Transport,,,,,
+01,Minor Works,"4,54","6,00","6,00","8,50",2041 00 800 AF 31701
+333,Payments for Professional and Special Services,"1,33,25","32,00","82,49","32,00",2041 00 800 AF 33300
+04,Contract Payment,"1,33,25","32,00","82,49","32,00",2041 00 800 AF 33304
+334,Other Charges,,1,,,2041 00 800 AF 33400
+01,Other Items,,1,,,2041 00 800 AF 33401
+345,"Petroleum, Oil and Lubricant",,1,1,1,2041 00 800 AF 34500
+01,"Petroleum, Oil and Lubricant",,1,1,1,2041 00 800 AF 34501
+360,T.A./D.A.to Non-Official Members,,1,,,2041 00 800 AF 36000
+01,T.A./D.A.to Non-Official Members,,1,,,2041 00 800 AF 36001
+371,Printing Charges,"4,32",1,"1,00","1,50",2041 00 800 AF 37100
+01,Printing Charges,"4,32",1,"1,00","1,50",2041 00 800 AF 37101
+376,Computer and Accessories,"65,54","70,98","70,98","70,98",2041 00 800 AF 37600
+02,Maintenance,"46,67","51,38","51,38","51,38",2041 00 800 AF 37602
+03,Stationery,"18,87","19,60","19,60","19,60",2041 00 800 AF 37603
+AF,otal AF,"2,19,61","1,21,26","1,72,72","1,25,23",
+AG,Implementation of Road Safety Programme,,,,,2041 00 800 AG 30000
+309,Grants-in-Aid,"37,52,10","65,00,00","65,00,00","65,00,00",2041 00 800 AG 30900
+03,Grants for Specific Schemes,"37,52,10","65,00,00","65,00,00","65,00,00",2041 00 800 AG 30903
+AG,Total AG,"37,52,10","65,00,00","65,00,00","65,00,00",
+AH,Supply of Smart Card based Driving License and  Registration Certificate,,,,,2041 00 800 AH 30000
+333,Payments for Professional and Special Services,"41,38","1,00,00","1,00,00","56,11,81",2041 00 800 AH 33300
+03,Special Service,"41,38","1,00,00","1,00,00","56,11,81",2041 00 800 AH 33303
+AH,Total AH,"41,38","1,00,00","1,00,00","56,11,81",
+#,State's Expenditure Total,"49,84,03","77,21,26","69,53,00","1,22,37,04",
+800,Total 800,"49,84,03","77,21,26","69,53,00","1,22,37,04",
+902,Deduct - Amount met from Road Safety Fund,,,,,
+#,State's Expenditure,,,,,
+AA,Deduct - Amount met from Road Safety Fund,,,,,2041 00 902 AA 30000
+330,Inter-Account Transfers,"-37,52,10","-65,00,00","-65,00,00","-65,00,00",2041 00 902 AA 33000
+01,Inter-Account Transfers,"-37,52,10","-65,00,00","-65,00,00","-65,00,00",2041 00 902 AA 33001
+AA,Total AA,"-37,52,10","-65,00,00","-65,00,00","-65,00,00",
+#,State's Expenditure Total,"-37,52,10","-65,00,00","-65,00,00","-65,00,00",
+902,Total 902,"-37,52,10","-65,00,00","-65,00,00","-65,00,00",
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+AC,Regional Transport Authority - Mofussil,,,,,2041 00 911 AC 30000
+377,Deduct-Recoveries,-95,,,,2041 00 911 AC 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-95,,,,2041 00 911 AC 37702
+AC,Total AC,-95,,,,
+AG,Implementation of Road Safety Programme,,,,,2041 00 911 AG 30000
+377,Deduct-Recoveries,"-26,21",,,,2041 00 911 AG 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-26,21",,,,2041 00 911 AG 37702
+AG,Total AG,"-26,21",,,,
+#,State's Expenditure Total,"-27,16",,,,
+911,Total 911,"-27,16",,,,
+00,Total 00 Charged,,1,1,1,
+00,Total 00 Voted,"1,74,81,55","1,76,36,24","1,79,48,80","2,40,75,88",
+2041,Total 2041 Charged,,1,1,1,
+2041,Total 2041 Voted,"1,74,81,55","1,76,36,24","1,79,48,80","2,40,75,88",
+2059,PUBLIC WORKS,,,,,
+01,Office Buildings,,,,,
+053,Maintenance and Repairs,,,,,
+#,State's Expenditure,,,,,
+AF,Buildings- Buildings under the control of Transport Commissioner (Administered by Chief Engineer (Buildings)),,,,,2059 01 053 AF 30000
+318,Maintenance,"1,38,66","1,35,00","1,35,00","1,37,50",2059 01 053 AF 31800 
+01,Periodical Maintenance,"1,38,66","1,35,00","1,35,00","1,37,50",2059 01 053 AF 31801
+AF,Total AF,"1,38,66","1,35,00","1,35,00","1,37,50",
+#,State's Expenditure Total,"1,38,66","1,35,00","1,35,00","1,37,50",
+053,Total 053,"1,38,66","1,35,00","1,35,00","1,37,50",
+01,Total 01,"1,38,66","1,35,00","1,35,00","1,37,50",
+2059,Total 2059,"1,38,66","1,35,00","1,35,00","1,37,50",
+2235,SOCIAL SECURITY AND WELFARE,,,,,
+02,Social Welfare,,,,,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+AI,Payment of Cash Relief to Traffic Accident Victims,,,,,2235 02 800 AI 30000
+351,Compensation,"98,90,49","80,00,00","1,00,00,00","1,00,00,00",2235 02 800 AI 35100 
+02,Other Compensations  - Voted,"98,90,49","80,00,00","1,00,00,00","1,00,00,00",2235 02 800 AI 35102
+AI,Total AI,"98,90,49","80,00,00","1,00,00,00","1,00,00,00",
+#,State's Expenditure Total,"98,90,49","80,00,00","1,00,00,00","1,00,00,00",
+800,Total 800,"98,90,49","80,00,00","1,00,00,00","1,00,00,00",
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,, 
+AI,Payment of Cash Relief to Traffic Accident Victims,,,,,2235 02 911 AI 30000
+377,Deduct-Recoveries,"-1,00",,,,2235 02 911 AI 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-1,00",,,,2235 02 911 AI 37702
+AI,Total AI,"-1,00",,,,
+#,State's Expenditure Total,"-1,00",,,,
+911,Total 911,"-1,00",,,,
+02,Total 02,"98,89,49","80,00,00","1,00,00,00","1,00,00,00",
+2235,Total 2235,"98,89,49","80,00,00","1,00,00,00","1,00,00,00",
