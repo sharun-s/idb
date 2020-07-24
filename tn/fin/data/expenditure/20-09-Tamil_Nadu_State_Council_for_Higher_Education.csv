@@ -1,0 +1,36 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2202,GENERAL EDUCATION,,,,,
+03,University and Higher Education,,,,,
+104,Assistance to Non-Government Colleges and Institutes,,,,,
+#,State's Expenditure,,,,,
+AC,Tamil Nadu State Council for Higher Education,,,,,2202 03 104 AC 30000
+309,Grants-in-Aid,"3,95,44","3,90,50","29,01,44","28,97,90",2202 03 104 AC 30900
+01,Grants for Current Expenditure,"1,68,44","1,63,50","1,74,44","1,70,90",2202 03 104 AC 30901
+03,Grants for Specific Schemes,"2,27,00","2,27,00","27,27,00","27,27,00",2202 03 104 AC 30903
+AC,Total AC,"3,95,44","3,90,50","29,01,44","28,97,90",
+#,State's Expenditure Total,"3,95,44","3,90,50","29,01,44","28,97,90",
+#,Schemes shared between State and Centre,,,,,
+UA,Grants for implementation of Rashtriya Uchhatar Siksha Abhiyan (RUSA),,,,,2202 03 104 UA 30000
+309,Grants-in-Aid,"1,01,26,74","70,31,70","70,31,70","73,83,29",2202 03 104 UA 30900
+03,Grants for Specific Schemes,"1,01,26,74","70,31,70","70,31,70","73,83,29",2202 03 104 UA 30903
+UA,Total UA,"1,01,26,74","70,31,70","70,31,70","73,83,29",
+#,Schemes shared between State and Centre Total,"1,01,26,74","70,31,70","70,31,70","73,83,29",
+104,Total 104,"1,05,22,18","74,22,20","99,33,14","1,02,81,19",
+793,Special Central Assistance for Scheduled Caste Component Plan,,,,,
+#,Schemes shared between State and Centre,,,,,
+UA,Grants for implementation of Rashtriya Uchhatar Siksha Abhiyan (RUSA),,,,,2202 03 793 UA 30000
+309,Grants-in-Aid,"27,26,43","18,93,15","18,93,15","19,87,81",2202 03 793 UA 30900
+03,Grants for Specific Schemes,"27,26,43","18,93,15","18,93,15","19,87,81",2202 03 793 UA 30903
+UA,Total UA,"27,26,43","18,93,15","18,93,15","19,87,81",
+#,Schemes shared between State and Centre Total,"27,26,43","18,93,15","18,93,15","19,87,81",
+793,Total 793,"27,26,43","18,93,15","18,93,15","19,87,81",
+794,Special Central Assistance for Tribal Sub-Plan,,,,,
+#,Schemes shared between State and Centre,,,,,
+UA,Grants for implementation of Rashtriya Uchhatar Siksha Abhiyan (RUSA),,,,,2202 03 794 UA 30000
+309,Grants-in-Aid,"1,29,83","90,15","90,15","94,66",2202 03 794 UA 30900
+03,Grants for Specific Schemes,"1,29,83","90,15","90,15","94,66",2202 03 794 UA 30903
+UA,Total UA,"1,29,83","90,15","90,15","94,66",
+#,Schemes shared between State and Centre Total,"1,29,83","90,15","90,15","94,66",
+794,Total 794,"1,29,83","90,15","90,15","94,66",
+03,Total 03,"1,33,78,44","94,05,50","1,19,16,44","1,23,63,66",
+2202,Total 2202,"1,33,78,44","94,05,50","1,19,16,44","1,23,63,66",

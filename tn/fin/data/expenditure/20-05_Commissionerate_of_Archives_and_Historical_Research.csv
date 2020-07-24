@@ -1,0 +1,176 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2059,PUBLIC WORKS,,,,,
+01,Office Buildings,,,,,
+053,Maintenance and Repairs,,,,,
+#,State's Expenditure,,,,,
+CV,Buildings - Archives and Historical Research,,,,,2059 01 053 CV 30000
+318,Maintenance,"32,12","51,00","51,00","53,55",2059 01 053 CV 31800
+01,Periodical Maintenance,"32,12","51,00","51,00","53,55",2059 01 053 CV 31801
+CV,Total CV,"32,12","51,00","51,00","53,55",
+#,State's Expenditure Total,"32,12","51,00","51,00","53,55",
+053,Total 053,"32,12","51,00","51,00","53,55",
+01,Total 01,"32,12","51,00","51,00","53,55",
+2059,Total 2059,"32,12","51,00","51,00","53,55",
+2205-00,ART AND CULTURE,,,,,
+104,Archives,,,,,
+#,State's Expenditure,,,,,
+AA,Tamil Nadu Archives,,,,,2205 00 104 AA 30000
+301,Salaries,"8,59,28","8,43,24","8,80,85","9,12,83",2205 00 104 AA 30100
+01,Pay,"7,55,26","7,49,35","7,77,64","8,08,35",2205 00 104 AA 30101
+02,Medical Allowance,"6,77","6,75","6,57","6,71",2205 00 104 AA 30102
+03,Medical Charges,46,53,53,53,2205 00 104 AA 30103
+04,Other Allowances,"7,15","6,80","5,90","5,90",2205 00 104 AA 30104
+06,House Rent Allowance,"75,80","66,72","76,66","77,50",2205 00 104 AA 30106
+07,Travel Concession,6,62,62,62,2205 00 104 AA 30107
+08,City Compensatory Allowance,"13,78","12,47","12,93","13,22",2205 00 104 AA 30108
+303,Dearness Allowance,"1,05,65","94,80","1,17,06","1,98,05",2205 00 104 AA 30300
+01,Dearness Allowance,"1,05,65","94,80","1,17,06","1,98,05",2205 00 104 AA 30301
+304,Travel Expenses,"1,24","2,24","1,94","1,94",2205 00 104 AA 30400
+01,Tour Travelling Allowances,98,"1,84","1,54","1,54",2205 00 104 AA 30401
+02,Transfer Travelling Allowances,26,40,40,40,2205 00 104 AA 30402
+305,Office Expenses,"22,95","21,60","22,10","22,10",2205 00 104 AA 30500
+01,Telephone Charges,"1,87","2,50","2,50","2,50",2205 00 104 AA 30501
+02,Other Contingencies,"5,40","2,10","2,60","2,60",2205 00 104 AA 30502
+03,Electricity Charges,"14,70","16,00","16,00","16,00",2205 00 104 AA 30503
+04,Service Postage & Postal Expenditure,98,"1,00","1,00","1,00",2205 00 104 AA 30504
+306,"Rent, Rates and Taxes","7,42","8,82","8,82","8,82",2205 00 104 AA 30600
+01,Rent,"6,44","6,82","6,82","6,82",2205 00 104 AA 30601
+02,Property tax,48,50,50,50,2205 00 104 AA 30602
+03,Water Charges,50,"1,50","1,50","1,50",2205 00 104 AA 30603
+319,Machinery and Equipments,"8,36","10,71","11,21","10,71",2205 00 104 AA 31900
+01,Purchase,,1,1,1,2205 00 104 AA 31901
+02,Renewal and Replacement,"8,24","10,00","10,00","10,00",2205 00 104 AA 31902
+03,Maintenance,12,70,"1,20",70,2205 00 104 AA 31903
+321,Motor Vehicles,3,10,"21,30",11,2205 00 104 AA 32100
+01,Purchase,,,"21,20",1,2205 00 104 AA 32101
+02,Maintenance of Functional Vehicles,3,10,10,10,2205 00 104 AA 32102
+324,Materials and Supplies,"33,58","34,00","50,58","34,00",2205 00 104 AA 32400
+01,Materials and Supplies,"33,58","34,00","50,58","34,00",2205 00 104 AA 32401
+333,Payments for Professional and Special Services,"31,74","35,96","35,96","35,96",2205 00 104 AA 33300
+01,Pleaders Fees,,1,1,1,2205 00 104 AA 33301
+03,Special Service,"10,00","10,00","10,00","10,00",2205 00 104 AA 33303
+04,Contract Payment,"17,71","17,42","17,42","17,42",2205 00 104 AA 33304
+09,Other Payments,"4,03","8,53","8,53","8,53",2205 00 104 AA 33309
+334,Other Charges,25,25,25,25,2205 00 104 AA 33400
+02,"Purchase  of  Books & Periodicals to Libraries etc.,",25,25,25,25,2205 00 104 AA 33402
+345,"Petroleum, Oil and Lubricant",49,"1,50","1,50","1,50",2205 00 104 AA 34500
+01,"Petroleum, Oil and Lubricant",49,"1,50","1,50","1,50",2205 00 104 AA 34501
+349,Festival Advances,38,,,,2205 00 104 AA 34900
+01,Festival Advances-Debit,"8,10","10,00","17,00","17,00",2205 00 104 AA 34901
+02,Festival Advances-Credit,"-7,72","-10,00","-17,00","-17,00",2205 00 104 AA 34902
+351,Compensation,,1,1,1,2205 00 104 AA 35100
+02,Other Compensations  - Voted,,1,1,1,2205 00 104 AA 35102
+359,Prizes and Awards,4,10,10,10,2205 00 104 AA 35900
+01,Prizes and Awards,4,10,10,10,2205 00 104 AA 35901
+372,Training,,10,10,10,2205 00 104 AA 37200
+01,Training,,10,10,10,2205 00 104 AA 37201
+376,Computer and Accessories,"3,60","3,61","3,61","3,61",2205 00 104 AA 37600
+01,Purchase,,1,1,1,2205 00 104 AA 37601
+02,Maintenance,"2,32","2,00","2,00","2,00",2205 00 104 AA 37602
+03,Stationery,"1,28","1,60","1,60","1,60",2205 00 104 AA 37603
+AA,Total AA,"10,75,01","10,57,04","11,55,39","12,30,09",
+AB,Survey of Historical Records,,,,,2205 00 104 AB 30000
+301,Salaries,"7,92","8,13","8,26","8,54",2205 00 104 AB 30100
+01,Pay,"6,84","6,76","6,89","7,17",2205 00 104 AB 30101
+03,Medical Charges,4,3,3,3,2205 00 104 AB 30103
+04,Other Allowances,,2,2,2,2205 00 104 AB 30104
+06,House Rent Allowance,89,"1,01","1,01","1,01",2205 00 104 AB 30106
+07,Travel Concession,,11,11,11,2205 00 104 AB 30107
+08,City Compensatory Allowance,15,20,20,20,2205 00 104 AB 30108
+303,Dearness Allowance,60,40,"1,46","1,76",2205 00 104 AB 30300
+01,Dearness Allowance,60,40,"1,46","1,76",2205 00 104 AB 30301
+349,Festival Advances,-4,,,,2205 00 104 AB 34900
+01,Festival Advances-Debit,,5,10,10,2205 00 104 AB 34901
+02,Festival Advances-Credit,-4,-5,-10,-10,2205 00 104 AB 34902
+AB,Total AB,"8,48","8,53","9,72","10,30",
+AC,Tamil Nadu Council of Historical Research,,,,,2205 00 104 AC 30000
+301,Salaries,"4,57","2,90","6,34","6,55",2205 00 104 AC 30100
+01,Pay,"3,70","2,10","5,35","5,56",2205 00 104 AC 30101
+02,Medical Allowance,4,3,3,3,2205 00 104 AC 30102
+04,Other Allowances,,6,6,6,2205 00 104 AC 30104
+06,House Rent Allowance,68,56,70,70,2205 00 104 AC 30106
+07,Travel Concession,,5,5,5,2205 00 104 AC 30107
+08,City Compensatory Allowance,15,10,15,15,2205 00 104 AC 30108
+303,Dearness Allowance,"2,62","2,18","2,99","1,36",2205 00 104 AC 30300
+01,Dearness Allowance,"2,62","2,18","2,99","1,36",2205 00 104 AC 30301
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,5,10,10,2205 00 104 AC 34901
+02,Festival Advances-Credit,,-5,-10,-10,2205 00 104 AC 34902
+AC,Total AC,"7,19","5,08","9,33","7,91",
+AD,"Starting of an Interim Repository Tamil Nadu Archives, Chennai",,,,,2205 00 104 AD 30000
+301,Salaries,"6,99","10,48","9,36","9,66",2205 00 104 AD 30100
+01,Pay,"6,10","6,99","7,51","7,81",2205 00 104 AD 30101
+02,Medical Allowance,9,24,24,24,2205 00 104 AD 30102
+03,Medical Charges,,4,4,4,2205 00 104 AD 30103
+04,Other Allowances,3,24,24,24,2205 00 104 AD 30104
+06,House Rent Allowance,63,"2,34",70,70,2205 00 104 AD 30106
+07,Travel Concession,,11,11,11,2205 00 104 AD 30107
+08,City Compensatory Allowance,14,52,52,52,2205 00 104 AD 30108
+303,Dearness Allowance,"1,31","1,75","3,00","1,91",2205 00 104 AD 30300
+01,Dearness Allowance,"1,31","1,75","3,00","1,91",2205 00 104 AD 30301
+349,Festival Advances,-6,,,,2205 00 104 AD 34900
+01,Festival Advances-Debit,,30,60,60,2205 00 104 AD 34901
+02,Festival Advances-Credit,-6,-30,-60,-60,2205 00 104 AD 34902
+AD,Total AD,"8,24","12,23","12,36","11,57",
+JH,e-Archives Portal of Tamil Nadu  - Scheme under State Innovation Fund,,,,,2205 00 104 JH 30000
+309,Grants-in-Aid,,,"1,00,00","1,50,00",2205 00 104 JH 30900
+03,Grants for Specific Schemes,,,"1,00,00","1,50,00",2205 00 104 JH 30903
+JH,Total JH,,"1,00,00","1,50,00",,
+#,State's Expenditure Total,"10,98,92","10,82,88","12,86,80","14,09,87",
+#,Schemes shared between State and Centre,,,,,
+UB,Microfilming of Records of Tamil Nadu Archives,,,,,2205 00 104 UB 30000
+333,Payments for Professional and Special Services,,1,1,1,2205 00 104 UB 33300
+09,Other Payments,,1,1,1,2205 00 104 UB 33309
+376,Computer and Accessories,,1,1,1,2205 00 104 UB 37600
+01,Purchase,,1,1,1,2205 00 104 UB 37601
+UB,Total UB,,2,2,2,
+#,Schemes shared between State and Centre Total,,2,2,2,
+104,Total 104,"10,98,92","10,82,90","12,86,82","14,09,89",
+902,Deduct - Amount met from State Innovation Fund,,,,,
+#,State's Expenditure,,,,,
+JA,Deduct - Amount met from State Innovation Fund,,,,,2205 00 902 JA 30000
+330,Inter-Account Transfers,,,"-1,00,00","-1,50,00",2205 00 902 JA 33000
+01,Inter-Account Transfers,,,"-1,00,00","-1,50,00",2205 00 902 JA 33001
+JA,Total JA,,,"-1,00,00","-1,50,00",
+#,State's Expenditure Total,,,"-1,00,00","-1,50,00",
+902,Total 902,,,"-1,00,00","-1,50,00",
+911,Deduct - Recoveries of Overpayments,,,,,
+#,Schemes shared between State and Centre,,,,,
+#,Schemes shared between State and Centre,,,,,
+UB,Microfilming of Records of Tamil Nadu Archives,,,,,2205 00 911 UB 30000
+377,Deduct-Recoveries,-16,,,,2205 00 911 UB 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-16,,,,2205 00 911 UB 37702
+UB,Total UB,-16,,,,
+#,Schemes shared between State and Centre Total,-16,,,,
+911,Total 911,-16,,,,
+00,Total 00,"10,98,76","10,82,90","11,86,82","12,59,89",
+2205,Total 2205,"10,98,76","10,82,90","11,86,82","12,59,89",
+3454,CENSUS SURVEYS AND STATISTICS,,,,,
+02,Surveys and Statistics,,,,,
+110,Gazette and Statistical Memoirs,,,,,
+#,State's Expenditure,,,,,
+BX,Gazetteor Unit,,,,,3454 02 110 BX 30000
+301,Salaries,"53,80","60,72","56,02","59,20",3454 02 110 BX 30100
+01,Pay,"46,81","50,09","48,39","50,72",3454 02 110 BX 30101
+02,Medical Allowance,33,36,36,36,3454 02 110 BX 30102
+03,Medical Charges,9,10,10,10,3454 02 110 BX 30103
+04,Other Allowances,6,38,38,38,3454 02 110 BX 30104
+06,House Rent Allowance,"5,50","8,50","5,50","6,35",3454 02 110 BX 30106
+07,Travel Concession,,11,11,11,3454 02 110 BX 30107
+08,City Compensatory Allowance,"1,01","1,18","1,18","1,18",3454 02 110 BX 30108
+303,Dearness Allowance,"7,47","6,85","10,81","12,43",3454 02 110 BX 30300
+01,Dearness Allowance,"7,47","6,85","10,81","12,43",3454 02 110 BX 30301
+304,Travel Expenses,,36,26,26,3454 02 110 BX 30400
+01,Tour Travelling Allowances,,36,26,26,3454 02 110 BX 30401
+334,Other Charges,10,10,10,10,3454 02 110 BX 33400
+02,"Purchase  of  Books & Periodicals to Libraries etc.,",10,10,10,10,3454 02 110 BX 33402
+349,Festival Advances,4,,,,3454 02 110 BX 34900
+01,Festival Advances-Debit,50,50,"1,00","1,00",3454 02 110 BX 34901
+02,Festival Advances-Credit,-46,-50,"-1,00","-1,00",3454 02 110 BX 34902
+371,Printing Charges,34,"6,00","6,00","6,00",3454 02 110 BX 37100
+01,Printing Charges,34,"6,00","6,00","6,00",3454 02 110 BX 37101
+BX,Total BX,"61,75","74,03","73,19","77,99",
+#,State's Expenditure Total,"61,75","74,03","73,19","77,99",
+110,Total 110,"61,75","74,03","73,19","77,99",
+02,Total 02,"61,75","74,03","73,19","77,99",
+3454,Total 3454,"61,75","74,03","73,19","77,99",

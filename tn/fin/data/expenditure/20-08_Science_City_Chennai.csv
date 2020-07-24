@@ -1,0 +1,34 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+3425,OTHER SCIENTIFIC RESEARCH,,,,,
+60,Others,,,,,
+200,Assistance to other Scientific Bodies,,,,,
+#,State's Expenditure,,,,,
+AH,Creating Innovators Hub in Schools  - Scheme under State Innovation Fund,,,,,3425 60 200 AH 30000
+309,Grants-in-Aid,,,"49,10","39,44",3425 60 200 AH 30900
+03,Grants for Specific Schemes,,,"49,10","39,44",3425 60 200 AH 30903
+AH,Total AH,,"49,10","39,44",,
+AI,Summer Training Programmes in Basic Sciences for Post Graduate Students - Scheme  under State Innovation Fund,,,,,3425 60 200 AI 30000
+309,Grants-in-Aid,,,"15,00","16,50",3425 60 200 AI 30900
+03,Grants for Specific Schemes,,,"15,00","16,50",3425 60 200 AI 30903
+AI,Total AI,,,"15,00","16,50",
+AJ,Organizing Tamil Nadu Students Scientist Congress - Scheme  under State Innovation Fund,,,,,3425 60 200 AJ 30000
+309,Grants-in-Aid,,,"19,32","19,32",3425 60 200 AJ 30900
+03,Grants for Specific Schemes,,,"19,32","19,32",3425 60 200 AJ 30903
+AJ,Total AJ,,,"19,32","19,32",
+JQ,Science City in Chennai,,,,,3425 60 200 JQ 30000
+309,Grants-in-Aid,"1,68,95","1,65,34","1,90,01","1,76,49",3425 60 200 JQ 30900 
+01,Grants for Current Expenditure,"1,34,20","1,23,19","1,30,51","1,34,34",3425 60 200 JQ 30901
+03,Grants for Specific Schemes,"34,75","42,15","59,50","42,15",3425 60 200 JQ 30903
+JQ,Total JQ,"1,68,95","1,65,34","1,90,01","1,76,49",
+#,State's Expenditure Total,"1,68,95","1,65,34","2,73,43","2,51,75",
+200,Total 200,"1,68,95","1,65,34","2,73,43","2,51,75",
+902,Deduct - Amount met from Reserve Fund,,,,,
+#,State's Expenditure,,,,,
+AA,Deduct - Amount met from State Innovation Fund,,,,,3425 60 902 AA 30000
+330,Inter-Account Transfers,,,"-83,42","-75,26",3425 60 902 AA 33000
+01,Inter-Account Transfers,,,"-83,42","-75,26",3425 60 902 AA 33001
+AA,Total AA,,,"-83,42","-75,26",
+#,State's Expenditure Total,,,"-83,42","-75,26",
+902,Total 902,,,"-83,42","-75,26",
+60,Total 60,"1,68,95","1,65,34","1,90,01","1,76,49",
+3425,Total 3425,"1,68,95","1,65,34","1,90,01","1,76,49",

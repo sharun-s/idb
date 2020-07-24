@@ -1,0 +1,185 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2202,GENERAL EDUCATION,,,,,
+03,University and Higher Education,,,,,
+102,Assistance to Universities,,,,,
+#,State's Expenditure,,,,,
+AA,University of Madras,,,,,2202 03 102 AA 30000
+309,Grants-in-Aid,"34,93,18","30,59,69","1,08,81,92","62,31,50",2202 03 102 AA 30900
+01,Grants for Current Expenditure,"24,93,18","30,59,68","84,66,91","62,31,49",2202 03 102 AA 30901
+02,Grants for Creation of Capital Assets,,,"24,15,00",,2202 03 102 AA 30902
+03,Grants for Specific Schemes,"10,00,00",1,1,1,2202 03 102 AA 30903
+AA,Total AA,"34,93,18","30,59,69","1,08,81,92","62,31,50",
+AB,Annamalai University,,,,,2202 03 102 AB 30000
+309,Grants-in-Aid,"2,56,87,14","2,50,00,01","4,90,36,38","2,25,77,52",2202 03 102 AB 30900
+01,Grants for Current Expenditure,"2,50,00,00","2,50,00,00","4,83,67,96","2,25,77,51",2202 03 102 AB 30901
+03,Grants for Specific Schemes,"6,87,14",1,"6,68,42",1,2202 03 102 AB 30903
+AB,Total AB,"2,56,87,14","2,50,00,01","4,90,36,38","2,25,77,52",
+AC,Madurai Kamaraj University,,,,,2202 03 102 AC 30000
+309,Grants-in-Aid,"20,66,34","20,71,97","27,90,50","20,71,97",2202 03 102 AC 30900
+01,Grants for Current Expenditure,"20,66,34","20,71,96","27,90,49","20,71,96",2202 03 102 AC 30901
+03,Grants for Specific Schemes,,1,1,1,2202 03 102 AC 30903
+AC,Total AC,"20,66,34","20,71,97","27,90,50","20,71,97",
+AE,"Bharathiyar University, Coimbatore",,,,,2202 03 102 AE 30000
+309,Grants-in-Aid,"34,10,42","34,10,35","37,87,32","22,71,35",2202 03 102 AE 30900
+01,Grants for Current Expenditure,"34,10,42","34,10,34","36,98,45","22,71,34",2202 03 102 AE 30901
+03,Grants for Specific Schemes,,1,"88,87",1,2202 03 102 AE 30903
+AE,Total AE,"34,10,42","34,10,35","37,87,32","22,71,35",
+AF,"Bharathidasan University, Tiruchirapalli",,,,,2202 03 102 AF 30000
+309,Grants-in-Aid,"43,37,88","35,64,76","45,91,99","43,78,44",2202 03 102 AF 30900
+01,Grants for Current Expenditure,"43,37,88","35,64,75","45,61,98","39,08,43",2202 03 102 AF 30901
+02,Grants for Creation of Capital Assets,,,"30,00","4,70,00",2202 03 102 AF 30902
+03,Grants for Specific Schemes,,1,1,1,2202 03 102 AF 30903
+AF,Total AF,"43,37,88","35,64,76","45,91,99","43,78,44",
+AG,"Alagappa University, Karaikudi",,,,,2202 03 102 AG 30000
+309,Grants-in-Aid,"20,64,63","13,86,20","13,86,20","16,45,45",2202 03 102 AG 30900
+01,Grants for Current Expenditure,"20,64,63","13,86,19","13,86,19","16,45,44",2202 03 102 AG 30901
+03,Grants for Specific Schemes,,1,1,1,2202 03 102 AG 30903
+AG,Total AG,"20,64,63","13,86,20","13,86,20","16,45,45",
+AH,Mother Teresa Women's  University Kodaikanal,,,,,2202 03 102 AH 30000
+309,Grants-in-Aid,"14,16,18","12,16,19","14,16,19","38,90,85",2202 03 102 AH 30900
+01,Grants for Current Expenditure,"14,16,18","12,16,18","12,16,18","10,90,84",2202 03 102 AH 30901
+02,Grants for Creation of Capital Assets,,,"2,00,00","28,00,00",2202 03 102 AH 30902
+03,Grants for Specific Schemes,,1,1,1,2202 03 102 AH 30903
+AH,Total AH,"14,16,18","12,16,19","14,16,19","38,90,85",
+AJ,Avinashilingam Institute for Home Science and Higher Education for  Women Coimbatore,,,,,2202 03 102 AJ 30000
+309,Grants-in-Aid,"85,20","85,20","85,20","85,20",2202 03 102 AJ 30900
+01,Grants for Current Expenditure,"85,20","85,20","85,20","85,20",2202 03 102 AJ 30901
+AJ,Total AJ,"85,20","85,20","85,20","85,20",
+AK,Manonmaniam Sundaranar  University Tirunelveli,,,,,2202 03 102 AK 30000
+309,Grants-in-Aid,"25,23,75","18,72,14","38,72,14","23,54,77",2202 03 102 AK 30900
+01,Grants for Current Expenditure,"25,23,75","18,72,13","18,72,13","23,54,76",2202 03 102 AK 30901
+03,Grants for Specific Schemes,,1,"20,00,01",1,2202 03 102 AK 30903
+AK,Total AK,"25,23,75","18,72,14","38,72,14","23,54,77",
+BG, Periyar University Salem,,,,,2202 03 102 BG 30000
+309,Grants-in-Aid,"4,13,39","4,13,39","4,13,39","4,13,39",2202 03 102 BG 30900
+01,Grants for Current Expenditure,"4,13,39","4,13,39","4,13,39","4,13,39",2202 03 102 BG 30901
+BG,Total BG,"4,13,39","4,13,39","4,13,39","4,13,39",
+BM,"Tamil Nadu Open University, Chennai",,,,,2202 03 102 BM 30000
+309,Grants-in-Aid,"1,09,32","1,09,34","1,09,34","1,09,34",2202 03 102 BM 30900
+01,Grants for Current Expenditure,"1,09,32","1,09,32","1,09,32","1,09,32",2202 03 102 BM 30901
+02,Grants for Creation of Capital Assets,,1,1,1,2202 03 102 BM 30902
+03,Grants for Specific Schemes,,1,1,1,2202 03 102 BM 30903
+BM,Total BM,"1,09,32","1,09,34","1,09,34","1,09,34",
+BQ,Thiruvalluvar University,,,,,2202 03 102 BQ 30000
+309,Grants-in-Aid,"11,70,86","11,70,87","30,20,87","39,80,42",2202 03 102 BQ 30900
+01,Grants for Current Expenditure,"11,70,86","11,70,86","11,70,86","25,80,40",2202 03 102 BQ 30901
+02,Grants for Creation of Capital Assets,,,"18,50,00","14,00,01",2202 03 102 BQ 30902
+03,Grants for Specific Schemes,,1,1,1,2202 03 102 BQ 30903
+BQ,Total BQ,"11,70,86","11,70,87","30,20,87","39,80,42",
+JW,Grants to Periyar University Constituent Colleges,,,,,2202 03 102 JW 30000
+309,Grants-in-Aid,"13,08,50",2,"1,04,70",2,2202 03 102 JW 30900
+01,Grants for Current Expenditure,,1,"1,04,69",1,2202 03 102 JW 30901
+02,Grants for Creation of Capital Assets,"13,08,50",1,1,1,2202 03 102 JW 30902
+JW,Total JW,"13,08,50",2,"1,04,70",2,
+JX,Grants to Manonmaniam Sundaranar University Constituent Colleges,,,,,2202 03 102 JX 30000
+309,Grants-in-Aid,,2,2,2,2202 03 102 JX 30900
+01,Grants for Current Expenditure,,1,1,1,2202 03 102 JX 30901
+02,Grants for Creation of Capital Assets,,1,1,1,2202 03 102 JX 30902
+JX,Total JX,2,2,2,,
+JY,Grants to Madurai Kamaraj University Constituent Colleges,,,,,2202 03 102 JY 30000
+309,Grants-in-Aid,"2,30,92",2,2,2,2202 03 102 JY 30900
+01,Grants for Current Expenditure,"2,30,92",1,1,1,2202 03 102 JY 30901
+02,Grants for Creation of Capital Assets,,1,1,1,2202 03 102 JY 30902
+JY,Total JY,"2,30,92",2,2,2,
+JZ,Grants to Bharathiyar University Constituent Colleges,,,,,2202 03 102 JZ 30000
+309,Grants-in-Aid,,1,1,1,2202 03 102 JZ 30900
+01,Grants for Current Expenditure,,1,1,1,2202 03 102 JZ 30901
+JZ,Total JZ,1,1,1,,
+KA,Grants to Chennai University Constituent Colleges,,,,,2202 03 102 KA 30000
+309,Grants-in-Aid,"55,15",1,"47,73",2,2202 03 102 KA 30900
+01,Grants for Current Expenditure,"55,15",,"47,72",1,2202 03 102 KA 30901
+02,Grants for Creation of Capital Assets,,1,1,1,2202 03 102 KA 30902
+KA,Total KA,"55,15",1,"47,73",2,
+KB,Grants to Alagappa University Constituent Colleges,,,,,2202 03 102 KB 30000
+309,Grants-in-Aid,"41,33",2,2,2,2202 03 102 KB 30900
+01,Grants for Current Expenditure,"41,33",1,1,1,2202 03 102 KB 30901
+02,Grants for Creation of Capital Assets,,1,1,1,2202 03 102 KB 30902
+KB,Total KB,"41,33",2,2,2,
+KC,Grants to Bharathidasan University Constituent Colleges,,,,,2202 03 102 KC 30000
+309,Grants-in-Aid,,2,"1,70,38",2,2202 03 102 KC 30900
+01,Grants for Current Expenditure,,1,"1,70,37",1,2202 03 102 KC 30901
+02,Grants for Creation of Capital Assets,,1,1,1,2202 03 102 KC 30902
+KC,Total KC,2,"1,70,38",2,,
+KD,Grants to Thiruvalluvar University Constituent Colleges,,,,,2202 03 102 KD 30000
+309,Grants-in-Aid,,2,2,2,2202 03 102 KD 30900
+01,Grants for Current Expenditure,,1,1,1,2202 03 102 KD 30901
+02,Grants for Creation of Capital Assets,,1,1,1,2202 03 102 KD 30902
+KD,Total KD,,2,2,2,
+KJ,Grants for the creation of Solar based improved power quality interleaved boost convertor fed marine boat involving  DC / Hybrid Drive under State Innovation  Fund,,,,,2202 03 102 KJ 30000
+309,Grants-in-Aid,,"18,50","63,55","3,40",2202 03 102 KJ 30900
+03,Grants for Specific Schemes,,"18,50","63,55","3,40",2202 03 102 KJ 30903
+KJ,Total KJ,,"18,50","63,55","3,40",
+#,State's Expenditure Total,"4,84,14,19","4,33,78,75","8,17,77,89","5,00,13,75",
+102,Total 102,"4,84,14,19","4,33,78,75","8,17,77,89","5,00,13,75",
+902,Deduct - Amount met from State Innovation Fund,,,,,
+#,State's Expenditure,,,,,
+JD,Deduct - Amount met from State Innovation Fund,,,,,2202 03 902 JD 30000
+330,Inter-Account Transfers,,"-18,50","-63,55","-3,40",2202 03 902 JD 33000
+01,Inter-Account Transfers,,"-18,50","-63,55","-3,40",2202 03 902 JD 33001
+JD,Total JD,,"-18,50","-63,55","-3,40",
+#,State's Expenditure Total,,"-18,50","-63,55","-3,40",
+902,Total 902,,"-18,50","-63,55","-3,40",
+03,Total 03,"4,84,14,19","4,33,60,25","8,17,14,34","5,00,10,35",
+2202,Total 2202,"4,84,14,19","4,33,60,25","8,17,14,34","5,00,10,35",
+2203-00,TECHNICAL EDUCATION,,,,,
+102,Assistance to Universities for Technical Education,,,,,
+#,State's Expenditure,,,,,
+AA,"Anna University, Chennai",,,,,2203 00 102 AA 30000
+309,Grants-in-Aid,"48,60,66","2,00,00,01","2,40,00,01","1,00,00,02",2203 00 102 AA 30900
+01,Grants for Current Expenditure,"48,60,66","1,00,00,00","1,33,00,00","1,00,00,00",2203 00 102 AA 30901
+02,Grants for Creation of Capital Assets,,"1,00,00,00","1,07,00,00",1,2203 00 102 AA 30902
+03,Grants for Specific Schemes,,1,1,1,2203 00 102 AA 30903
+AA,Total AA,"48,60,66","2,00,00,01","2,40,00,01","1,00,00,02",
+JJ,Technology for Converting inert Wastes into Bio amendments / Bio Fertilizers pilot project at legacy Wastes Dumpling site in Tamilnadu - under State Innovation Fund,,,,,2203 00 102 JJ 30000
+309,Grants-in-Aid,,,,"23,88",2203 00 102 JJ 30900
+03,Grants for Specific Schemes,,,,"23,88",2203 00 102 JJ 30903
+JJ,Total JJ,,,"23,88",,
+JK,Development of semi and fully Automated Intelligent Exo - Skeleted and Prosthetics for Disabled Communities,,,,,2203 00 102 JK 30000
+309,Grants-in-Aid,,,,"9,42,14",2203 00 102 JK 30900
+03,Grants for Specific Schemes,,,,"9,42,14",2203 00 102 JK 30903
+JK,Total JK,,,,"9,42,14",
+#,State's Expenditure Total,"48,60,66","2,00,00,01","2,40,00,01","1,09,66,04",
+102,Total 102,"48,60,66","2,00,00,01","2,40,00,01","1,09,66,04",
+902,Deduct - Amount met from State Innovation Fund,,,,,
+#,State's Expenditure,,,,,
+JA,Deduct - Amount met from State Innovation Fund,,,,,2203 00 902 JA 30000
+330,Inter-Account Transfers,,,,"-9,66,02",2203 00 902 JA 33000
+01,Inter-Account Transfers,,,,"-9,66,02",2203 00 902 JA 33001
+JA,Total JA,,,,"-9,66,02",
+#,State's Expenditure Total,,,,"-9,66,02",
+902,Total 902,,,,"-9,66,02",
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+AB,Deduct - Recoveries of unspent amount under Part,,,,,
+II,Schemes pertaining to Anna University,,,,,2203 00 911 AB 30000
+377,Deduct-Recoveries,-22,,,,2203 00 911 AB 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-22,,,,2203 00 911 AB 37702
+AB,Total AB,-22,,,,
+#,State's Expenditure Total,-22,,,,
+911,Total 911,-22,,,,
+00,Total 00,"48,60,44","2,00,00,01","2,40,00,01","1,00,00,02",
+2203,Total 2203,"48,60,44","2,00,00,01","2,40,00,01","1,00,00,02",
+3425,OTHER SCIENTIFIC RESEARCH,,,,,
+60,Others,,,,,
+200,Assistance to other Scientific Bodies,,,,,
+#,State's Expenditure,,,,,
+JG,Setting up of Research Documentation Laboratory for Textile chemistry,,,,,3425 60 200 JG 30000
+309,Grants-in-Aid,25,25,50,25,3425 60 200 JG 30900
+03,Grants for Specific Schemes,25,25,50,25,3425 60 200 JG 30903
+JG,Total JG,25,25,50,25,
+#,State's Expenditure Total,25,25,50,25,
+200,Total 200,25,25,50,25,
+60,Total 60,25,25,50,25,
+3425,Total 3425,25,25,50,25,
+6202,"LOANS FOR EDUCATION, SPORTS, ART AND CULTURE",,,,,
+01,General Education,,,,,
+203,University and Higher Education,,,,,
+#,State's Expenditure,,,,,
+AF,Ways and Means Advance to Annamalai University,,,,,6202 01 203 AF 50000
+502,Loan - Outgo,"1,37,85,26",1,1,1,6202 01 203 AF 50200
+01,Bearing Interest,"1,37,85,26",1,1,1,6202 01 203 AF 50201
+AF,Total AF,"1,37,85,26",1,1,1,
+#,State's Expenditure Total,"1,37,85,26",1,1,1,
+203,Total 203,"1,37,85,26",1,1,1,
+01,Total 01,"1,37,85,26",1,1,1,
+6202,Total 6202,"1,37,85,26",1,1,1,

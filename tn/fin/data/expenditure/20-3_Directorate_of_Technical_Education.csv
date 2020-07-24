@@ -1,0 +1,800 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2059,PUBLIC WORKS,,,,,
+01,Office Buildings,,,,,
+053,Maintenance and Repairs,,,,,
+#,State's Expenditure,,,,,
+AS,Buildings - Engineering Colleges and Polytechnics (Administered by Technical Education Wing),,,,,2059 01 053 AS 30000
+318,Maintenance,"10,71,66","11,30,00","11,30,00","11,30,00",2059 01 053 AS 31800 
+01,Periodical Maintenance,"10,71,66","11,30,00","11,30,00","11,30,00",2059 01 053 AS 31801
+AS,Total AS,"10,71,66","11,30,00","11,30,00","11,30,00",
+#,State's Expenditure Total,"10,71,66","11,30,00","11,30,00","11,30,00",
+053,Total 053,"10,71,66","11,30,00","11,30,00","11,30,00",
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+AS,Buildings - Engineering Colleges and Polytechnics (Administered by Technical Education Wing),,,,,2059 01 911 AS 30000
+377,Deduct-Recoveries,"-1,88",,,,2059 01 911 AS 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-1,88",,,,2059 01 911 AS 37702
+AS,Total AS,"-1,88",,,,
+#,State's Expenditure Total,"-1,88",,,,
+911,Total 911,"-1,88",,,,
+01,Total 01,"10,69,78","11,30,00","11,30,00","11,30,00",
+2059,Total 2059,"10,69,78","11,30,00","11,30,00","11,30,00",
+2203-00,TECHNICAL EDUCATION,,,,,
+001,Direction and Administration,,,,,
+#,State's Expenditure,,,,,
+AA,Directorate of Technical Education,,,,,2203 00 001 AA 30000
+301,Salaries,"7,60,21","13,35,82","9,03,60","10,83,30",2203 00 001 AA 30100
+01,Pay,"6,64,65","12,00,00","7,86,86","8,18,34",2203 00 001 AA 30101
+02,Medical Allowance,"4,83","6,82","6,86","13,87",2203 00 001 AA 30102
+03,Medical Charges,95,"1,40","1,50","1,70",2203 00 001 AA 30103
+04,Other Allowances,"4,62","7,18","7,32","14,23",2203 00 001 AA 30104
+06,House Rent Allowance,"71,74","1,02,52","85,11","2,03,62",2203 00 001 AA 30106
+07,Travel Concession,13,65,45,45,2203 00 001 AA 30107
+08,City Compensatory Allowance,"13,29","17,25","15,50","31,09",2203 00 001 AA 30108
+303,Dearness Allowance,"2,10,61","1,44,00","2,21,59","2,00,49",2203 00 001 AA 30300
+01,Dearness Allowance,"2,10,61","1,44,00","2,21,59","2,00,49",2203 00 001 AA 30301
+304,Travel Expenses,"6,56","12,40","12,84","12,84",2203 00 001 AA 30400
+01,Tour Travelling Allowances,"6,54","12,32","12,24","12,24",2203 00 001 AA 30401
+02,Transfer Travelling Allowances,2,8,60,60,2203 00 001 AA 30402
+305,Office Expenses,"65,19","77,80","85,18","1,01,55",2203 00 001 AA 30500
+01,Telephone Charges,"1,82","2,30","2,75","2,75",2203 00 001 AA 30501
+02,Other Contingencies,"20,83","28,00","34,93","51,05",2203 00 001 AA 30502
+03,Electricity Charges,"40,04","45,00","45,00","45,00",2203 00 001 AA 30503
+04,Service Postage & Postal Expenditure,"2,50","2,50","2,50","2,75",2203 00 001 AA 30504
+308,Advertising and Publicity,"11,13","13,70","13,70","13,70",2203 00 001 AA 30800
+01,Advertisement Charges,"11,13","13,70","13,70","13,70",2203 00 001 AA 30801
+319,Machinery and Equipments,"37,00","3,30","3,30","1,32",2203 00 001 AA 31900
+01,Purchase,"35,96","2,10","2,10",,2203 00 001 AA 31901
+03,Maintenance,"1,04","1,20","1,20","1,32",2203 00 001 AA 31903
+321,Motor Vehicles,,11,11,12,2203 00 001 AA 32100
+01,Purchase,,1,1,1,2203 00 001 AA 32101
+02,Maintenance of Functional Vehicles,,10,10,11,2203 00 001 AA 32102
+324,Materials and Supplies,,1,1,1,2203 00 001 AA 32400
+01,Materials and Supplies,,1,1,1,2203 00 001 AA 32401
+333,Payments for Professional and Special Services,"14,94","2,31,13","2,45,34","2,33,94",2203 00 001 AA 33300
+01,Pleaders Fees,"4,07","3,74","17,95","6,55",2203 00 001 AA 33301
+02,Remuneration,"2,43","3,60","3,60","3,60",2203 00 001 AA 33302
+04,Contract Payment,"8,44","2,23,79","2,23,79","2,23,79",2203 00 001 AA 33304
+345,"Petroleum, Oil and Lubricant","1,12","1,65","2,50","2,50",2203 00 001 AA 34500
+01,"Petroleum, Oil and Lubricant","1,12","1,65","2,50","2,50",2203 00 001 AA 34501
+347,Stores and Equipments,22,"2,00","2,00","2,20",2203 00 001 AA 34700
+01,Stores - Voted,22,"2,00","2,00","2,20",2203 00 001 AA 34701
+349,Festival Advances,19,,,,2203 00 001 AA 34900
+01,Festival Advances-Debit,"3,70","8,00","18,00","19,80",2203 00 001 AA 34901
+02,Festival Advances-Credit,"-3,51","-8,00","-18,00","-19,80",2203 00 001 AA 34902
+359,Prizes and Awards,,"2,50","2,50","2,50",2203 00 001 AA 35900
+01,Prizes and Awards,,"2,50","2,50","2,50",2203 00 001 AA 35901
+368,"Cost of Books/Note Books/Slates, etc.",12,20,20,22,2203 00 001 AA 36800
+01,"Cost of Books/Note Books/Slates, etc.",12,20,20,22,2203 00 001 AA 36801
+372,Training,"60,00",,,,2203 00 001 AA 37200
+01,Training,"60,00",,,,2203 00 001 AA 37201
+376,Computer and Accessories,"79,25","5,69","56,72","6,26",2203 00 001 AA 37600
+01,Purchase,"79,25",,"51,03",,2203 00 001 AA 37601
+02,Maintenance,,73,73,80,2203 00 001 AA 37602
+03,Stationery,,"4,96","4,96","5,46",2203 00 001 AA 37603
+AA,Total AA,"12,46,54","18,30,31","15,49,59","16,60,95",
+AB,Construction Wing,,,,,2203 00 001 AB 30000
+301,Salaries,"13,04,62","22,55,56","12,92,45","14,89,93",2203 00 001 AB 30100
+01,Pay,"11,92,33","21,11,23","11,74,49","12,21,47",2203 00 001 AB 30101
+02,Medical Allowance,"7,35","9,27","7,75","15,80",2203 00 001 AB 30102
+03,Medical Charges,33,63,64,80,2203 00 001 AB 30103
+04,Other Allowances,"10,53","16,20","10,33","20,08",2203 00 001 AB 30104
+06,House Rent Allowance,"83,39","1,06,41","87,48","2,09,29",2203 00 001 AB 30106
+07,Travel Concession,59,65,"1,09","1,09",2203 00 001 AB 30107
+08,City Compensatory Allowance,"10,10","11,17","10,67","21,40",2203 00 001 AB 30108
+302,Wages,,1,1,1,2203 00 001 AB 30200
+01,Wages,,1,1,1,2203 00 001 AB 30201
+303,Dearness Allowance,"7,05,88","2,53,00","6,12,84","2,99,26",2203 00 001 AB 30300
+01,Dearness Allowance,"7,05,88","2,53,00","6,12,84","2,99,26",2203 00 001 AB 30301
+304,Travel Expenses,"42,42","60,02","56,37","56,37",2203 00 001 AB 30400
+01,Tour Travelling Allowances,"41,96","58,68","55,03","55,03",2203 00 001 AB 30401
+02,Transfer Travelling Allowances,46,"1,34","1,34","1,34",2203 00 001 AB 30402
+305,Office Expenses,"9,37","9,71","11,52","11,62",2203 00 001 AB 30500
+01,Telephone Charges,"1,29","1,30","1,40","1,40",2203 00 001 AB 30501
+02,Other Contingencies,"2,53","2,69","2,69","2,69",2203 00 001 AB 30502
+03,Electricity Charges,"3,84","4,00","5,80","5,80",2203 00 001 AB 30503
+04,Service Postage & Postal Expenditure,"1,71","1,72","1,63","1,73",2203 00 001 AB 30504
+306,"Rent, Rates and Taxes","5,65","6,13","4,75","4,30",2203 00 001 AB 30600
+01,Rent,"2,16","2,33",95,50,2203 00 001 AB 30601
+02,Property tax,"3,49","3,79","3,79","3,79",2203 00 001 AB 30602
+03,Water Charges,,1,1,1,2203 00 001 AB 30603
+308,Advertising and Publicity,"1,52","2,40","2,40","1,52",2203 00 001 AB 30800 
+02,Exhibition,"1,52","2,40","2,40","1,52",2203 00 001 AB 30802
+319,Machinery and Equipments,,,"35,00",,2203 00 001 AB 31900
+01,Purchase,,,"35,00",,2203 00 001 AB 31901
+321,Motor Vehicles,"12,34",57,"2,57","1,17",2203 00 001 AB 32100
+02,Maintenance of Functional Vehicles,"12,34",57,"2,57","1,17",2203 00 001 AB 32102
+333,Payments for Professional and Special Services,"2,09","2,45","2,49","2,50",2203 00 001 AB 33300
+01,Pleaders Fees,,6,10,11,2203 00 001 AB 33301
+02,Remuneration,,1,1,1,2203 00 001 AB 33302
+04,Contract Payment,"2,09","2,38","2,38","2,38",2203 00 001 AB 33304
+345,"Petroleum, Oil and Lubricant","5,28","5,65","6,45","6,49",2203 00 001 AB 34500
+01,"Petroleum, Oil and Lubricant","5,28","5,65","6,45","6,49",2203 00 001 AB 34501
+349,Festival Advances,21,,,,2203 00 001 AB 34900
+01,Festival Advances-Debit,"5,45","17,25","28,00","29,80",2203 00 001 AB 34901
+02,Festival Advances-Credit,"-5,24","-17,25","-28,00","-29,80",2203 00 001 AB 34902
+359,Prizes and Awards,4,34,36,36,2203 00 001 AB 35900
+01,Prizes and Awards,4,34,36,36,2203 00 001 AB 35901
+376,Computer and Accessories,"1,01",97,"1,40","1,77",2203 00 001 AB 37600
+02,Maintenance,7,7,50,57,2203 00 001 AB 37602
+03,Stationery,94,90,90,"1,20",2203 00 001 AB 37603
+AB,Total AB,"20,90,43","25,96,81","20,28,61","18,75,30",
+AC,Grants to Faculty Development Training Centre,,,,,2203 00 001 AC 30000
+309,Grants-in-Aid,"1,88,50","1,00,01","1,00,01","1,00,01",2203 00 001 AC 30900
+01,Grants for Current Expenditure,"1,00,00","1,00,00","1,00,00","1,00,00",2203 00 001 AC 30901
+03,Grants for Specific Schemes,"88,50",1,1,1,2203 00 001 AC 30903
+AC,Total AC,"1,88,50","1,00,01","1,00,01","1,00,01",
+JB,Reimbursement of Tuition Fees to First Generation Graduates,,,,,2203 00 001 JB 30000
+312,Scholarships and Stipends,"3,99,34,65","4,55,00,00","4,55,00,00","4,55,00,00",2203 00 001 JB 31200
+09,Others,"3,99,34,65","4,55,00,00","4,55,00,00","4,55,00,00",2203 00 001 JB 31209
+JB,Total JB,"3,99,34,65","4,55,00,00","4,55,00,00","4,55,00,00",
+#,State's Expenditure Total,"4,34,60,12","5,00,27,13","4,91,78,21","4,91,36,26",
+001,Total 001,"4,34,60,12","5,00,27,13","4,91,78,21","4,91,36,26",
+104,Assistance to Non-Government Technical Colleges and Institutes,,,,,
+#,State's Expenditure,,,,,
+AA,Aided Engineering Colleges,,,,,2203 00 104 AA 30000
+309,Grants-in-Aid,"94,06","94,06","94,06","94,06",2203 00 104 AA 30900
+01,Grants for Current Expenditure,"94,06","94,06","94,06","94,06",2203 00 104 AA 30901
+349,Festival Advances,-75,,,,2203 00 104 AA 34900
+01,Festival Advances-Debit,"14,65","30,00","60,00","60,00",2203 00 104 AA 34901
+02,Festival Advances-Credit,"-15,40","-30,00","-60,00","-60,00",2203 00 104 AA 34902
+379,Salary Grants,"49,48,61","56,60,54","61,76,77","59,33,22",2203 00 104 AA 37900
+01,Pay,"49,48,61","56,60,54","61,76,77","47,65,64",2203 00 104 AA 37901
+09,Dearness Allowance,,,,"11,67,58",2203 00 104 AA 37909
+AA,Total AA,"50,41,92","57,54,60","62,70,83","60,27,28",
+AB,"Grants to the Indian Institute of Science, Bangalore",,,,,2203 00 104 AB 30000
+309,Grants-in-Aid,10,10,10,10,2203 00 104 AB 30900
+01,Grants for Current Expenditure,10,10,10,10,2203 00 104 AB 30901
+AB,Total AB,10,10,10,10,
+#,State's Expenditure Total,"50,42,02","57,54,70","62,70,93","60,27,38",
+104,Total 104,"50,42,02","57,54,70","62,70,93","60,27,38",
+105,Polytechnics,,,,,
+#,State's Expenditure,,,,,
+AA,Government Polytechnic Colleges (Men),,,,,2203 00 105 AA 30000
+301,Salaries,"48,49,39","1,13,51,90","55,80,12","2,20,57,28",2203 00 105 AA 30100
+01,Pay,"45,44,24","1,09,60,09","52,16,78","2,12,39,27",2203 00 105 AA 30101
+02,Medical Allowance,"31,87","41,57","41,66","85,00",2203 00 105 AA 30102
+03,Medical Charges,68,"1,20","1,18","1,44",2203 00 105 AA 30103
+04,Other Allowances,"48,83","48,53","58,80","1,14,13",2203 00 105 AA 30104
+06,House Rent Allowance,"2,10,03","2,82,40","2,45,75","5,87,93",2203 00 105 AA 30106
+07,Travel Concession,"1,05","2,01","2,47","2,47",2203 00 105 AA 30107
+08,City Compensatory Allowance,"12,69","16,10","13,48","27,04",2203 00 105 AA 30108
+303,Dearness Allowance,"31,80,95","12,94,94","30,80,23","52,03,62",2203 00 105 AA 30300
+01,Dearness Allowance,"31,80,95","12,94,94","30,80,23","52,03,62",2203 00 105 AA 30301
+304,Travel Expenses,"29,34","44,61","45,94","46,99",2203 00 105 AA 30400
+01,Tour Travelling Allowances,"26,70","38,21","39,87","40,92",2203 00 105 AA 30401
+02,Transfer Travelling Allowances,"2,64","6,40","6,07","6,07",2203 00 105 AA 30402
+305,Office Expenses,"4,45,75","4,20,39","4,95,24","4,61,44",2203 00 105 AA 30500
+01,Telephone Charges,"5,72","7,04","7,45","7,45",2203 00 105 AA 30501
+02,Other Contingencies,"40,50","43,00","43,00","43,00",2203 00 105 AA 30502
+03,Electricity Charges,"2,60,61","2,54,05","3,26,47","3,26,99",2203 00 105 AA 30503
+04,Service Postage & Postal Expenditure,"10,54","11,30","11,30","12,00",2203 00 105 AA 30504
+05,Furniture,"1,28,38","1,05,00","1,07,02","72,00",2203 00 105 AA 30505
+306,"Rent, Rates and Taxes","25,75","29,64","40,05","40,05",2203 00 105 AA 30600
+01,Rent,,1,1,1,2203 00 105 AA 30601
+03,Water Charges,"25,75","29,62","39,99","39,99",2203 00 105 AA 30603
+05,Others,,1,5,5,2203 00 105 AA 30605
+308,Advertising and Publicity,"2,40","1,00",35,39,2203 00 105 AA 30800
+01,Advertisement Charges,"2,40","1,00",35,39,2203 00 105 AA 30801
+312,Scholarships and Stipends,,1,1,1,2203 00 105 AA 31200
+09,Others,,1,1,1,2203 00 105 AA 31209
+319,Machinery and Equipments,"2,57,83","2,74,91","3,33,28","3,04,15",2203 00 105 AA 31900
+01,Purchase,"2,48,32","2,59,05","3,17,42","2,85,00",2203 00 105 AA 31901
+03,Maintenance,"9,51","15,86","15,86","19,15",2203 00 105 AA 31903
+321,Motor Vehicles,,1,1,1,2203 00 105 AA 32100
+02,Maintenance of Functional Vehicles,,1,1,1,2203 00 105 AA 32102
+324,Materials and Supplies,8,"2,50","2,50","2,50",2203 00 105 AA 32400
+01,Materials and Supplies,8,"2,50","2,50","2,50",2203 00 105 AA 32401
+333,Payments for Professional and Special Services,"15,66,55","19,47,52","19,67,92","19,67,98",2203 00 105 AA 33300
+01,Pleaders Fees,4,43,28,34,2203 00 105 AA 33301
+02,Remuneration,"15,62,68","19,12,77","19,33,32","19,33,32",2203 00 105 AA 33302
+04,Contract Payment,"3,83","34,32","34,32","34,32",2203 00 105 AA 33304
+342,Service or Commitment Charges,12,13,13,13,2203 00 105 AA 34200
+01,Service or Commitment Charges,12,13,13,13,2203 00 105 AA 34201
+345,"Petroleum, Oil and Lubricant",10,12,15,15,2203 00 105 AA 34500
+01,"Petroleum, Oil and Lubricant",10,12,15,15,2203 00 105 AA 34501
+347,Stores and Equipments,"1,05,70","1,51,32","1,51,47","1,89,69",2203 00 105 AA 34700
+01,Stores - Voted,"1,05,70","1,51,32","1,51,47","1,89,69",2203 00 105 AA 34701
+349,Festival Advances,"3,26",,,,2203 00 105 AA 34900
+01,Festival Advances-Debit,"35,15","66,50","1,31,60","1,43,40",2203 00 105 AA 34901
+02,Festival Advances-Credit,"-31,89","-66,50","-1,31,60","-1,43,40",2203 00 105 AA 34902
+351,Compensation Charged,,1,1,1,2203 00 105 AA 35100,
+351,Compensation Voted,,1,1,1,2203 00 105 AA 35100,
+02,Other Compensations  - Voted,,1,1,1,2203 00 105 AA 35102
+52,Other Compensations Charged,,,,,
+359,Prizes and Awards,20,"1,04",94,94,2203 00 105 AA 35900
+01,Prizes and Awards,20,"1,04",94,94,2203 00 105 AA 35901
+366,Medicine,"1,79","2,26","2,64","2,64",2203 00 105 AA 36600
+01,Medicine,"1,79","2,26","2,64","2,64",2203 00 105 AA 36601
+368,"Cost of Books/Note Books/Slates, etc.","8,31","61,51","62,13","43,52",2203 00 105 AA 36800
+01,"Cost of Books/Note Books/Slates, etc.","8,31","61,51","62,13","43,52",2203 00 105 AA 36801
+376,Computer and Accessories,"2,40,03","2,55,95","3,25,82","1,48,91",2203 00 105 AA 37600
+01,Purchase,"2,30,97","2,43,00","3,13,86","1,35,01",2203 00 105 AA 37601
+02,Maintenance,11,"1,00",1,1,2203 00 105 AA 37602
+03,Stationery,"8,95","11,95","11,95","13,89",2203 00 105 AA 37603
+399,Miscellaneous,,,57,,2203 00 105 AA 39900
+01,Miscellaneous,,,57,,2203 00 105 AA 39901
+AA,Total AA Charged,,1,1,1,
+AA,Total AA Voted,"1,07,17,55","1,58,39,77","1,20,89,51","3,04,70,41",
+AB,Government Polytechnic Colleges (Women),,,,,2203 00 105 AB 30000
+301,Salaries,"4,33,29","10,20,56","4,31,60","17,04,19",2203 00 105 AB 30100
+01,Pay,"4,03,68","9,76,43","4,01,92","16,36,35",2203 00 105 AB 30101
+02,Medical Allowance,"2,25","3,27","2,48","5,07",2203 00 105 AB 30102
+03,Medical Charges,,14,1,1,2203 00 105 AB 30103
+04,Other Allowances,"2,57","4,40","2,32","4,52",2203 00 105 AB 30104
+06,House Rent Allowance,"21,73","32,30","21,96","52,52",2203 00 105 AB 30106
+07,Travel Concession,19,29,9,9,2203 00 105 AB 30107
+08,City Compensatory Allowance,"2,87","3,73","2,82","5,63",2203 00 105 AB 30108
+303,Dearness Allowance,"3,64,76","1,16,00","3,35,88","4,00,91",2203 00 105 AB 30300
+01,Dearness Allowance,"3,64,76","1,16,00","3,35,88","4,00,91",2203 00 105 AB 30301
+304,Travel Expenses,"1,93","2,13","3,27","3,32",2203 00 105 AB 30400
+01,Tour Travelling Allowances,"1,91","1,93","3,00","3,00",2203 00 105 AB 30401
+02,Transfer Travelling Allowances,2,20,27,32,2203 00 105 AB 30402
+305,Office Expenses,"27,58","37,69","37,35","37,42",2203 00 105 AB 30500
+01,Telephone Charges,62,57,78,78,2203 00 105 AB 30501
+02,Other Contingencies,"1,27","1,27","1,27","1,27",2203 00 105 AB 30502
+03,Electricity Charges,"24,84","35,00","34,45","34,45",2203 00 105 AB 30503
+04,Service Postage & Postal Expenditure,85,85,85,92,2203 00 105 AB 30504
+306,"Rent, Rates and Taxes",29,41,44,44,2203 00 105 AB 30600
+03,Water Charges,29,41,44,44,2203 00 105 AB 30603
+308,Advertising and Publicity,,10,1,1,2203 00 105 AB 30800
+01,Advertisement Charges,,10,1,1,2203 00 105 AB 30801
+319,Machinery and Equipments,46,47,47,54,2203 00 105 AB 31900
+03,Maintenance,46,47,47,54,2203 00 105 AB 31903
+324,Materials and Supplies,3,3,3,3,2203 00 105 AB 32400
+01,Materials and Supplies,3,3,3,3,2203 00 105 AB 32401
+333,Payments for Professional and Special Services,"96,67","1,16,17","1,08,17","1,08,17",2203 00 105 AB 33300
+02,Remuneration,"96,67","1,16,17","1,08,17","1,08,17",2203 00 105 AB 33302
+342,Service or Commitment Charges,,1,1,1,2203 00 105 AB 34200
+01,Service or Commitment Charges,,1,1,1,2203 00 105 AB 34201
+347,Stores and Equipments,"3,72","4,67","4,52","4,94",2203 00 105 AB 34700
+01,Stores - Voted,"3,72","4,67","4,52","4,94",2203 00 105 AB 34701
+349,Festival Advances,17,,,,2203 00 105 AB 34900
+01,Festival Advances-Debit,"2,65","4,25","7,70","8,20",2203 00 105 AB 34901
+02,Festival Advances-Credit,"-2,48","-4,25","-7,70","-8,20",2203 00 105 AB 34902
+359,Prizes and Awards,6,8,2,2,2203 00 105 AB 35900
+01,Prizes and Awards,6,8,2,2,2203 00 105 AB 35901
+366,Medicine,1,1,1,1,2203 00 105 AB 36600
+01,Medicine,1,1,1,1,2203 00 105 AB 36601
+368,"Cost of Books/Note Books/Slates, etc.",35,35,35,37,2203 00 105 AB 36800
+01,"Cost of Books/Note Books/Slates, etc.",35,35,35,37,2203 00 105 AB 36801
+376,Computer and Accessories,99,"1,00","1,00","1,08",2203 00 105 AB 37600
+03,Stationery,99,"1,00","1,00","1,08",2203 00 105 AB 37603
+AB,Total AB,"9,30,31","12,99,68","9,23,13","22,61,46",
+AC,Special Diploma Institutions,,,,,2203 00 105 AC 30000
+301,Salaries,"3,73,73","9,01,77","3,94,39","15,16,22",2203 00 105 AC 30100
+01,Pay,"3,25,32","8,36,32","3,44,60","14,02,98",2203 00 105 AC 30101
+02,Medical Allowance,"2,32","3,13","2,67","5,43",2203 00 105 AC 30102
+03,Medical Charges,38,53,53,59,2203 00 105 AC 30103
+04,Other Allowances,"3,30","3,32","2,17","4,22",2203 00 105 AC 30104
+06,House Rent Allowance,"35,42","49,51","37,09","88,71",2203 00 105 AC 30106
+07,Travel Concession,16,40,40,40,2203 00 105 AC 30107
+08,City Compensatory Allowance,"6,83","8,56","6,93","13,89",2203 00 105 AC 30108
+303,Dearness Allowance,"1,58,26","1,00,00","1,68,41","3,43,73",2203 00 105 AC 30300
+01,Dearness Allowance,"1,58,26","1,00,00","1,68,41","3,43,73",2203 00 105 AC 30301
+304,Travel Expenses,62,"1,88","1,88","1,83",2203 00 105 AC 30400
+01,Tour Travelling Allowances,60,"1,49","1,49","1,49",2203 00 105 AC 30401
+02,Transfer Travelling Allowances,2,39,39,34,2203 00 105 AC 30402
+305,Office Expenses,"13,87","15,91","16,38","16,88",2203 00 105 AC 30500
+01,Telephone Charges,83,79,"1,26","1,26",2203 00 105 AC 30501
+02,Other Contingencies,"1,81","1,92","1,92","1,92",2203 00 105 AC 30502
+03,Electricity Charges,"11,17","13,00","13,00","13,50",2203 00 105 AC 30503
+04,Service Postage & Postal Expenditure,6,20,20,20,2203 00 105 AC 30504
+306,"Rent, Rates and Taxes","5,76","7,36","7,36","7,36",2203 00 105 AC 30600
+03,Water Charges,"5,76","7,36","7,36","7,36",2203 00 105 AC 30603
+308,Advertising and Publicity,,1,1,1,2203 00 105 AC 30800
+01,Advertisement Charges,,1,1,1,2203 00 105 AC 30801
+319,Machinery and Equipments,67,"1,08","1,08","1,24",2203 00 105 AC 31900
+03,Maintenance,67,"1,08","1,08","1,24",2203 00 105 AC 31903
+321,Motor Vehicles,,1,1,1,2203 00 105 AC 32100
+02,Maintenance of Functional Vehicles,,1,1,1,2203 00 105 AC 32102
+324,Materials and Supplies,26,40,40,40,2203 00 105 AC 32400
+01,Materials and Supplies,26,40,40,40,2203 00 105 AC 32401
+333,Payments for Professional and Special Services,"43,38","52,40","54,30","54,30",2203 00 105 AC 33300
+02,Remuneration,"43,38","52,40","54,30","54,30",2203 00 105 AC 33302
+345,"Petroleum, Oil and Lubricant",,1,1,1,2203 00 105 AC 34500
+01,"Petroleum, Oil and Lubricant",,1,1,1,2203 00 105 AC 34501
+347,Stores and Equipments,"1,47","2,00","2,00","2,16",2203 00 105 AC 34700
+01,Stores - Voted,"1,47","2,00","2,00","2,16",2203 00 105 AC 34701
+349,Festival Advances,9,,,,2203 00 105 AC 34900
+01,Festival Advances-Debit,"3,05","4,35","8,70","13,50",2203 00 105 AC 34901
+02,Festival Advances-Credit,"-2,96","-4,35","-8,70","-13,50",2203 00 105 AC 34902
+359,Prizes and Awards,4,20,20,20,2203 00 105 AC 35900
+01,Prizes and Awards,4,20,20,20,2203 00 105 AC 35901
+368,"Cost of Books/Note Books/Slates, etc.",44,79,79,86,2203 00 105 AC 36800
+01,"Cost of Books/Note Books/Slates, etc.",44,79,79,86,2203 00 105 AC 36801
+376,Computer and Accessories,86,88,88,"1,30",2203 00 105 AC 37600
+02,Maintenance,12,12,12,15,2203 00 105 AC 37602
+03,Stationery,74,76,76,"1,15",2203 00 105 AC 37603
+AC,Total AC,"5,99,45","10,84,70","6,48,10","19,46,51",
+AD,Grants-in-Aid to Aided Polytechnic Colleges,,,,,2203 00 105 AD 30000
+309,Grants-in-Aid,"1,94,81","1,94,82","1,94,82","1,94,82",2203 00 105 AD 30900
+01,Grants for Current Expenditure,"1,94,77","1,94,77","1,94,77","1,94,77",2203 00 105 AD 30901
+09,Others,4,5,5,5,2203 00 105 AD 30909
+349,Festival Advances,-79,,,,2203 00 105 AD 34900
+01,Festival Advances-Debit,"47,45","1,15,00","2,30,00","2,30,00",2203 00 105 AD 34901
+02,Festival Advances-Credit,"-48,24","-1,15,00","-2,30,00","-2,30,00",2203 00 105 AD 34902
+379,Salary Grants,"1,27,82,68","1,29,45,88","1,33,45,48","1,25,66,16",2203 00 105 AD 37900
+01,Pay,"1,27,82,68","1,29,45,88","1,33,45,48","1,00,93,30",2203 00 105 AD 37901
+09,Dearness Allowance,,,,"24,72,86",2203 00 105 AD 37909
+AD,Total AD,"1,29,76,70","1,31,40,70","1,35,40,30","1,27,60,98",
+AF,Supply of Free Books to Students of Polytechnic Colleges,,,,,2203 00 105 AF 30000
+368,"Cost of Books/Note Books/Slates, etc.","19,84","24,14","24,14","24,14",2203 00 105 AF 36800
+01,"Cost of Books/Note Books/Slates, etc.","19,84","24,14","24,14","24,14",2203 00 105 AF 36801
+AF,Total AF,"19,84","24,14","24,14","24,14",
+AG,Foreign Technical Training Programme for Diploma Students,,,,,2203 00 105 AG 30000
+309,Grants-in-Aid,,,"1,50,00","1,50,00",2203 00 105 AG 30900
+01,Grants for Current Expenditure,,,"1,50,00","1,50,00",2203 00 105 AG 30901
+AG,Total AG,,"1,50,00","1,50,00",,
+JH,Expansion and Development of Polytechnics and Modernisation of Laboratories,,,,,2203 00 105 JH 30000
+376,Computer and Accessories,27,80,80,"1,00",2203 00 105 JH 37600
+03,Stationery,27,80,80,"1,00",2203 00 105 JH 37603
+JH,Total JH,27,80,80,"1,00",
+JI,"Central Polytechnic College, Tharamani, Chennai",,,,,2203 00 105 JI 30000
+309,Grants-in-Aid,"9,34,89","9,94,59","8,83,68","13,61,45",2203 00 105 JI 30900
+01,Grants for Current Expenditure,"9,34,89","9,94,59","8,83,68","13,61,45",2203 00 105 JI 30901
+JI,Total JI,"9,34,89","9,94,59","8,83,68","13,61,45",
+JJ,"Dr. Dharmambal Polytechnic College for Women, Tharamani, Chennai",,,,,2203 00 105 JJ 30000
+309,Grants-in-Aid,"5,43,63","5,50,18","4,79,95","8,12,00",2203 00 105 JJ 30900
+01,Grants for Current Expenditure,"5,43,63","5,50,18","4,79,95","8,12,00",2203 00 105 JJ 30901
+JJ,Total JJ,"5,43,63","5,50,18","4,79,95","8,12,00",
+JK,"Tamil Nadu Polytechnic College, Madurai",,,,,2203 00 105 JK 30000
+309,Grants-in-Aid,"6,10,30","6,67,48","5,35,50","8,63,54",2203 00 105 JK 30900
+01,Grants for Current Expenditure,"6,10,30","6,67,47","5,35,49","8,63,53",2203 00 105 JK 30901
+03,Grants for Specific Schemes,,1,1,1,2203 00 105 JK 30903
+JK,Total JK,"6,10,30","6,67,48","5,35,50","8,63,54",
+#,State's Expenditure Total Charged,,1,1,1,
+#,State's Expenditure Total Voted,"2,73,32,94","3,36,02,04","2,92,75,11","5,06,51,49",
+#,Central Sector Schemes,,,,,
+SA,Establishment of Polytechnic Colleges / Upgradation of Polytechnic Colleges,,,,,2203 00 105 SA 30000
+305,Office Expenses,,1,1,1,2203 00 105 SA 30500
+05,Furniture,,1,1,1,2203 00 105 SA 30505
+309,Grants-in-Aid,,1,1,1,2203 00 105 SA 30900
+03,Grants for Specific Schemes,,1,1,1,2203 00 105 SA 30903
+319,Machinery and Equipments,,1,1,1,2203 00 105 SA 31900
+01,Purchase,,1,1,1,2203 00 105 SA 31901
+368,"Cost of Books/Note Books/Slates, etc.",,1,1,1,2203 00 105 SA 36800
+01,"Cost of Books/Note Books/Slates, etc.",,1,1,1,2203 00 105 SA 36801
+376,Computer and Accessories,,1,1,1,2203 00 105 SA 37600
+01,Purchase,,1,1,1,2203 00 105 SA 37601
+SA,Total SA,5,5,5,,
+SB,Construction of Women's Hostel in Government Aided Polytechnics under the Sub-Mission on Polytechnics under Co-ordinated Action for Skill Development,,,,,2203 00 105 SB 30000
+309,Grants-in-Aid,,1,1,1,2203 00 105 SB 30900
+02,Grants for Creation of Capital Assets,,1,1,1,2203 00 105 SB 30902
+SB,Total SB,1,1,1,,
+#,Central Sector Schemes Total,,6,6,6,
+105,Total 105 Charged,,1,1,1,
+105,Total 105 Voted,"2,73,32,94","3,36,02,10","2,92,75,17","5,06,51,55",
+107,Scholarships,,,,,
+#,State's Expenditure,,,,,
+AA,Engineering Colleges,,,,,2203 00 107 AA 30000
+312,Scholarships and Stipends,,10,10,10,2203 00 107 AA 31200
+09,Others,,10,10,10,2203 00 107 AA 31209
+AA,Total AA,,10,10,10,
+AB,Polytechnics and Special Institutions,,,,,2203 00 107 AB 30000
+312,Scholarships and Stipends,,10,10,10,2203 00 107 AB 31200
+09,Others,,10,10,10,2203 00 107 AB 31209
+AB,Total AB,,10,10,10,
+AC,Educational Concessions - Schemes under the control of the Director of Technical Education,,,,,2203 00 107 AC 30000
+312,Scholarships and Stipends,,"1,00","1,00","1,00",2203 00 107 AC 31200
+09,Others,,"1,00","1,00","1,00",2203 00 107 AC 31209
+AC,Total AC,,"1,00","1,00","1,00",
+#,State's Expenditure Total,,"1,20","1,20","1,20",
+107,Total 107,,"1,20","1,20","1,20",
+108,Examinations,,,,,
+#,State's Expenditure,,,,,
+AA,Conduct of Examinations,,,,,2203 00 108 AA 30000
+304,Travel Expenses,"17,34,75","21,75,97","21,75,97","21,75,97",2203 00 108 AA 30400
+01,Tour Travelling Allowances,"17,34,75","21,75,97","21,75,97","21,75,97",2203 00 108 AA 30401
+305,Office Expenses,"1,65,68","1,66,51","1,69,27","1,70,25",2203 00 108 AA 30500
+01,Telephone Charges,"9,06","9,00","9,55","9,55",2203 00 108 AA 30501
+02,Other Contingencies,"1,33,73","1,34,62","1,35,65","1,35,65",2203 00 108 AA 30502
+04,Service Postage & Postal Expenditure,"22,89","22,89","24,07","25,05",2203 00 108 AA 30504
+308,Advertising and Publicity,"4,11","4,00","4,00","4,70",2203 00 108 AA 30800
+01,Advertisement Charges,"4,11","4,00","4,00","4,70",2203 00 108 AA 30801
+319,Machinery and Equipments,83,"2,27","2,27","3,00",2203 00 108 AA 31900
+03,Maintenance,83,"2,27","2,27","3,00",2203 00 108 AA 31903
+321,Motor Vehicles,,1,1,1,2203 00 108 AA 32100
+02,Maintenance of Functional Vehicles,,1,1,1,2203 00 108 AA 32102
+333,Payments for Professional and Special Services,"25,32,05","25,72,82","29,34,93","29,34,68",2203 00 108 AA 33300
+02,Remuneration,"25,32,05","25,72,81","29,34,92","29,34,67",2203 00 108 AA 33302
+04,Contract Payment,,1,1,1,2203 00 108 AA 33304
+345,"Petroleum, Oil and Lubricant",26,80,20,20,2203 00 108 AA 34500
+01,"Petroleum, Oil and Lubricant",26,80,20,20,2203 00 108 AA 34501
+347,Stores and Equipments,,1,1,1,2203 00 108 AA 34700
+01,Stores - Voted,,1,1,1,2203 00 108 AA 34701
+372,Training,25,25,25,25,2203 00 108 AA 37200
+01,Training,25,25,25,25,2203 00 108 AA 37201
+376,Computer and Accessories,"20,30","67,13","67,13","67,52",2203 00 108 AA 37600
+02,Maintenance,"7,66","13,13","13,13","13,52",2203 00 108 AA 37602
+03,Stationery,"12,64","54,00","54,00","54,00",2203 00 108 AA 37603
+AA,Total AA,"44,58,23","49,89,77","53,54,04","53,56,59",
+#,State's Expenditure Total,"44,58,23","49,89,77","53,54,04","53,56,59",
+108,Total 108,"44,58,23","49,89,77","53,54,04","53,56,59",
+112,Engineering/Technical Colleges and Institutes,,,,,
+#,State's Expenditure,,,,,
+AA,Engineering Colleges,,,,,2203 00 112 AA 30000
+301,Salaries,"11,01,96","13,35,06","12,80,56","50,93,42",2203 00 112 AA 30100
+01,Pay,"10,38,23","12,49,44","12,11,73","49,33,36",2203 00 112 AA 30101
+02,Medical Allowance,"6,36","8,07","7,88","16,08",2203 00 112 AA 30102
+03,Medical Charges,,10,14,28,2203 00 112 AA 30103
+04,Other Allowances,"5,26","5,18","2,43","4,74",2203 00 112 AA 30104
+06,House Rent Allowance,"51,57","71,27","57,88","1,38,46",2203 00 112 AA 30106
+07,Travel Concession,54,"1,00",50,50,2203 00 112 AA 30107
+303,Dearness Allowance,"10,45,62","1,48,00","10,96,83","12,08,67",2203 00 112 AA 30300
+01,Dearness Allowance,"10,45,62","1,48,00","10,96,83","12,08,67",2203 00 112 AA 30301
+304,Travel Expenses,"4,17","5,99","7,93","7,93",2203 00 112 AA 30400
+01,Tour Travelling Allowances,"4,05","4,40","6,60","6,60",2203 00 112 AA 30401
+02,Transfer Travelling Allowances,12,"1,59","1,33","1,33",2203 00 112 AA 30402
+305,Office Expenses,"1,61,46","1,58,66","1,78,48","1,65,74",2203 00 112 AA 30500
+01,Telephone Charges,"19,77",1,1,1,2203 00 112 AA 30501
+02,Other Contingencies,"11,67","13,00","13,00","13,00",2203 00 112 AA 30502
+03,Electricity Charges,"1,29,37","1,45,00","1,51,33","1,51,33",2203 00 112 AA 30503
+04,Service Postage & Postal Expenditure,65,65,74,"1,40",2203 00 112 AA 30504
+05,Furniture,,,"13,40",,2203 00 112 AA 30505
+306,"Rent, Rates and Taxes","12,82","13,74","13,83","13,43",2203 00 112 AA 30600
+01,Rent,,1,50,10,2203 00 112 AA 30601
+03,Water Charges,"12,82","13,73","13,33","13,33",2203 00 112 AA 30603
+308,Advertising and Publicity,,1,"9,98",1,2203 00 112 AA 30800
+01,Advertisement Charges,,1,"9,98",1,2203 00 112 AA 30801
+309,Grants-in-Aid,"19,80","19,80","19,80","19,80",2203 00 112 AA 30900
+01,Grants for Current Expenditure,"19,80","19,80","19,80","19,80",2203 00 112 AA 30901
+312,Scholarships and Stipends,,"5,00","5,00","5,00",2203 00 112 AA 31200
+09,Others,,"5,00","5,00","5,00",2203 00 112 AA 31209
+313,Hospitality / Entertainment Expenditure,,1,1,1,2203 00 112 AA 31300
+01,Hospitality / Entertainment Expenditure,,1,1,1,2203 00 112 AA 31301
+319,Machinery and Equipments,"2,94","3,21","26,87,82","4,00",2203 00 112 AA 31900
+01,Purchase,,1,"26,84,62",,2203 00 112 AA 31901
+03,Maintenance,"2,94","3,20","3,20","4,00",2203 00 112 AA 31903
+321,Motor Vehicles,,1,1,1,2203 00 112 AA 32100
+02,Maintenance of Functional Vehicles,,1,1,1,2203 00 112 AA 32102
+324,Materials and Supplies,42,"3,87","3,87","3,87",2203 00 112 AA 32400
+01,Materials and Supplies,42,"3,87","3,87","3,87",2203 00 112 AA 32401
+333,Payments for Professional and Special Services,"1,02,57","1,35,82","1,88,32","1,88,32",2203 00 112 AA 33300
+02,Remuneration,"1,02,57","1,35,80","1,88,30","1,88,30",2203 00 112 AA 33302
+04,Contract Payment,,1,1,1,2203 00 112 AA 33304
+09,Other Payments,,1,1,1,2203 00 112 AA 33309
+345,"Petroleum, Oil and Lubricant",,1,1,1,2203 00 112 AA 34500
+01,"Petroleum, Oil and Lubricant",,1,1,1,2203 00 112 AA 34501
+347,Stores and Equipments,"41,97","50,00","2,26,43","51,00",2203 00 112 AA 34700
+01,Stores - Voted,"41,97","50,00","2,26,43","51,00",2203 00 112 AA 34701
+349,Festival Advances,"1,83",,,,2203 00 112 AA 34900
+01,Festival Advances-Debit,"6,65","14,25","26,00","29,70",2203 00 112 AA 34901
+02,Festival Advances-Credit,"-4,82","-14,25","-26,00","-29,70",2203 00 112 AA 34902
+354,Expenses on Conducted Tours,,1,1,1,2203 00 112 AA 35400
+01,Expenses on Conducted Tours,,1,1,1,2203 00 112 AA 35401
+359,Prizes and Awards,,18,20,20,2203 00 112 AA 35900
+01,Prizes and Awards,,18,20,20,2203 00 112 AA 35901
+366,Medicine,20,36,35,35,2203 00 112 AA 36600
+01,Medicine,20,36,35,35,2203 00 112 AA 36601
+368,"Cost of Books/Note Books/Slates, etc.",75,41,41,"5,14",2203 00 112 AA 36800
+01,"Cost of Books/Note Books/Slates, etc.",75,41,41,"5,14",2203 00 112 AA 36801
+376,Computer and Accessories,"3,87","4,00","19,29,56","4,50",2203 00 112 AA 37600
+01,Purchase,,,"19,25,56",,2203 00 112 AA 37601
+03,Stationery,"3,87","4,00","4,00","4,50",2203 00 112 AA 37603
+AA,Total AA,"25,00,38","18,84,15","76,49,41","67,71,42",
+AI,Assistance to Post Graduate Students,,,,,2203 00 112 AI 30000
+312,Scholarships and Stipends,"4,26,24","4,32,00","4,32,00","4,32,00",2203 00 112 AI 31200
+09,Others,"4,26,24","4,32,00","4,32,00","4,32,00",2203 00 112 AI 31209
+AI,Total AI,"4,26,24","4,32,00","4,32,00","4,32,00",
+AJ,Engineering Students Organizing the Interaction meet for Engineering Graduates for Employability,,,,,2203 00 112 AJ 30000
+309,Grants-in-Aid,,,"1,00,00","1,00,00",2203 00 112 AJ 30900
+01,Grants for Current Expenditure,,,"1,00,00","1,00,00",2203 00 112 AJ 30901
+AJ,Total AJ,,"1,00,00","1,00,00",,
+JK,"Government College of Engineering, Salem",,,,,2203 00 112 JK 30000
+309,Grants-in-Aid,"21,90,21","18,78,07","19,34,63","32,05,34",2203 00 112 JK 30900
+01,Grants for Current Expenditure,"21,90,21","18,78,07","19,34,63","32,05,34",2203 00 112 JK 30901
+JK,Total JK,"21,90,21","18,78,07","19,34,63","32,05,34",
+JL,"Government College of Technology, Coimbatore",,,,,2203 00 112 JL 30000
+309,Grants-in-Aid,"27,27,67","29,13,31","25,22,02","53,91,76",2203 00 112 JL 30900
+01,Grants for Current Expenditure,"27,27,67","29,13,31","25,22,02","53,91,76",2203 00 112 JL 30901
+JL,Total JL,"27,27,67","29,13,31","25,22,02","53,91,76",
+JM,"Thanthai Periyar Government Institute of Technology, Vellore",,,,,2203 00 112 JM 30000
+309,Grants-in-Aid,"9,03,96","9,65,09","11,15,48","16,58,54",2203 00 112 JM 30900
+01,Grants for Current Expenditure,"9,03,96","9,65,09","11,15,48","16,58,54",2203 00 112 JM 30901
+JM,Total JM,"9,03,96","9,65,09","11,15,48","16,58,54",
+JN,Alagappa Chettiar College of Engineering and  Technology Karaikudi,,,,,2203 00 112 JN 30000
+309,Grants-in-Aid,"18,40,34","19,43,38","19,63,10","30,43,84",2203 00 112 JN 30900
+01,Grants for Current Expenditure,"18,40,34","19,43,38","19,63,10","30,43,84",2203 00 112 JN 30901
+JN,Total JN,"18,40,34","19,43,38","19,63,10","30,43,84",
+JO,Government College of  Engineering Thirunelveli,,,,,2203 00 112 JO 30000
+309,Grants-in-Aid,"11,91,40","12,70,70","14,87,57","21,20,38",2203 00 112 JO 30900
+01,Grants for Current Expenditure,"11,91,40","12,70,70","14,87,57","21,20,38",2203 00 112 JO 30901
+JO,Total JO,"11,91,40","12,70,70","14,87,57","21,20,38",
+JQ,Government College of  Engineering Bargur,,,,,2203 00 112 JQ 30000
+309,Grants-in-Aid,"10,97,10","11,94,49","10,57,92","14,03,16",2203 00 112 JQ 30900
+01,Grants for Current Expenditure,"10,97,10","11,94,48","10,57,91","14,03,15",2203 00 112 JQ 30901
+02,Grants for Creation of Capital Assets,,1,1,1,2203 00 112 JQ 30902
+JQ,Total JQ,"10,97,10","11,94,49","10,57,92","14,03,16",
+#,State's Expenditure Total,"1,28,77,30","1,24,81,19","1,82,62,13","2,41,26,44",
+#,Schemes shared between State and Centre,,,,,
+UA,Technical Education Quality Improvement Programme - Phase II,,,,,2203 00 112 UA 30000
+305,Office Expenses,,2,2,2,2203 00 112 UA 30500
+02,Other Contingencies,,1,1,1,2203 00 112 UA 30502
+05,Furniture,,1,1,1,2203 00 112 UA 30505
+309,Grants-in-Aid,,1,1,1,2203 00 112 UA 30900
+03,Grants for Specific Schemes,,1,1,1,2203 00 112 UA 30903
+319,Machinery and Equipments,,1,1,1,2203 00 112 UA 31900
+01,Purchase,,1,1,1,2203 00 112 UA 31901
+333,Payments for Professional and Special Services,,1,1,1,2203 00 112 UA 33300
+02,Remuneration,,1,1,1,2203 00 112 UA 33302
+347,Stores and Equipments,,1,1,1,2203 00 112 UA 34700
+02,Equipments - Voted,,1,1,1,2203 00 112 UA 34702
+372,Training,,1,1,1,2203 00 112 UA 37200
+01,Training,,1,1,1,2203 00 112 UA 37201
+UA,Total UA,7,7,7,,
+#,Schemes shared between State and Centre Total,,7,7,7,
+112,Total 112,"1,28,77,30","1,24,81,26","1,82,62,20","2,41,26,51",
+789,Special Component Plan for Scheduled Castes,,,,,
+#,State's Expenditure,,,,,
+AA,Supply of Free Books to Students of Polytechnic Colleges,,,,,2203 00 789 AA 30000
+368,"Cost of Books/Note Books/Slates, etc.",,,,"6,04",2203 00 789 AA 36800
+01,"Cost of Books/Note Books/Slates, etc.",,,,"6,04",2203 00 789 AA 36801
+AA,Total AA,,,"6,04",,
+JB,Reimbursement of Tuition Fees to First Generation Graduates,,,,,2203 00 789 JB 30000
+312,Scholarships and Stipends,,,,"5,00,00",2203 00 789 JB 31200
+09,Others,,,,"5,00,00",2203 00 789 JB 31209
+JB,Total JB,,,"5,00,00",,
+#,State's Expenditure Total,,,,"5,06,04",
+789,Total 789,,,"5,06,04",,
+793,Special Central Assistance for Scheduled Caste Component Plan,,,,,
+#,State's Expenditure,,,,,
+AA,Supply of Free Books to Students of Polytechnic Colleges,,,,,2203 00 793 AA 30000
+368,"Cost of Books/Note Books/Slates, etc.","4,96","6,04","6,04",,2203 00 793 AA 36800
+01,"Cost of Books/Note Books/Slates, etc.","4,96","6,04","6,04",,2203 00 793 AA 36801
+AA,Total AA,"4,96","6,04","6,04",,
+JB,Reimbursement of Tuition Fees to First Generation Graduates,,,,,2203 00 793 JB 30000
+312,Scholarships and Stipends,"3,20,21","5,00,00","5,00,00",,2203 00 793 JB 31200
+09,Others,"3,20,21","5,00,00","5,00,00",,2203 00 793 JB 31209
+JB,Total JB,"3,20,21","5,00,00","5,00,00",,
+#,State's Expenditure Total,"3,25,17","5,06,04","5,06,04",,
+#,Central Sector Schemes,,,,,
+SA,Community Development through Polytechnics under National Mission on Skill Development,,,,,2203 00 793 SA 30000
+309,Grants-in-Aid,"10,20",1,1,1,2203 00 793 SA 30900
+03,Grants for Specific Schemes,"10,20",1,1,1,2203 00 793 SA 30903
+SA,Total SA,"10,20",1,1,1,
+SB,Construction of Women's Hostel in Government Aided Polytechnics under the Sub-Mission on Polytechnics under Co-ordinated Action for Skill Development under Special Component Plan,,,,,2203 00 793 SB 30000
+309,Grants-in-Aid,,1,1,1,2203 00 793 SB 30900
+02,Grants for Creation of Capital Assets,,1,1,1,2203 00 793 SB 30902
+SB,Total SB,1,1,1,,
+SC,Establishment of Polytechnic Colleges / Upgradation of Polytechnic Colleges,,,,,2203 00 793 SC 30000
+309,Grants-in-Aid,,1,1,1,2203 00 793 SC 30900
+03,Grants for Specific Schemes,,1,1,1,2203 00 793 SC 30903
+SC,Total SC,,1,1,1,
+#,Central Sector Schemes Total,"10,20",3,3,3,
+#,Schemes shared between State and Centre,,,,,
+UA,Technical Education Quality Improvement Programme - Phase II,,,,,2203 00 793 UA 30000
+309,Grants-in-Aid,,1,1,1,2203 00 793 UA 30900
+03,Grants for Specific Schemes,,1,1,1,2203 00 793 UA 30903
+UA,Total UA,,1,1,1,
+#,Schemes shared between State and Centre Total,,1,1,1,
+793,Total 793,"3,35,37","5,06,08","5,06,08",4,
+794,Special Central Assistance for Tribal Sub-Plan,,,,,
+#,State's Expenditure,,,,,
+JA,Reimbursement of Tuition Fees to First Generation Graduates,,,,,2203 00 794 JA 30000
+312,Scholarships and Stipends,"13,24","25,00","25,00",,2203 00 794 JA 31200
+09,Others,"13,24","25,00","25,00",,2203 00 794 JA 31209
+JA,Total JA,"13,24","25,00","25,00",,
+#,State's Expenditure Total,"13,24","25,00","25,00",,
+#,Central Sector Schemes,,,,,
+SA,Community Development through Polytechnics under National Mission on Skill Development,,,,,2203 00 794 SA 30000
+309,Grants-in-Aid,"5,10",1,1,1,2203 00 794 SA 30900
+03,Grants for Specific Schemes,"5,10",1,1,1,2203 00 794 SA 30903
+SA,Total SA,"5,10",1,1,1,
+SB,Construction of Women's Hostel in Government Aided Polytechnics under the Sub-Mission on Polytechnics under Co-ordinated Action for Skill Development under Tribal Sub Plan,,,,,2203 00 794 SB 30000
+309,Grants-in-Aid,,1,1,1,2203 00 794 SB 30900
+02,Grants for Creation of Capital Assets,,1,1,1,2203 00 794 SB 30902
+SB,Total SB,1,1,1,,
+SC,Establishment of Polytechnic Colleges / Upgradation of Polytechnic Colleges,,,,,2203 00 794 SC 30000
+309,Grants-in-Aid,,1,1,1,2203 00 794 SC 30900
+03,Grants for Specific Schemes,,1,1,1,2203 00 794 SC 30903
+SC,Total SC,1,1,1,,
+#,Central Sector Schemes Total,"5,10",3,3,3,
+#,Schemes shared between State and Centre,,,,,
+UA,Technical Education Quality Improvement Programme - Phase II,,,,,2203 00 794 UA 30000
+309,Grants-in-Aid,,1,1,1,2203 00 794 UA 30900
+03,Grants for Specific Schemes,,1,1,1,2203 00 794 UA 30903
+UA,Total UA,,1,1,1,
+#,Schemes shared between State and Centre Total,,1,1,1,
+794,Total 794,"18,34","25,04","25,04",4,
+796,Tribal Area Sub-Plan,,,,,
+#,State's Expenditure,,,,,
+JA,Reimbursement of Tuition Fees to First Generation Graduates,,,,,2203 00 796 JA 30000
+312,Scholarships and Stipends,,,,"25,00",2203 00 796 JA 31200
+09,Others,,,,"25,00",2203 00 796 JA 31209
+JA,Total JA,,,,"25,00",
+#,State's Expenditure Total,,,,"25,00",
+796,Total 796,,,,"25,00",
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+AB,Buildings,,,,,2203 00 800 AB 30000
+317,Minor Works,"1,39,86",1,"1,94,10","2,13,50",2203 00 800 AB 31700
+01,Minor Works,"1,39,86",1,"1,94,10","2,13,50",2203 00 800 AB 31701
+AB,Total AB,"1,39,86",1,"1,94,10","2,13,50",
+AH,"Committee to oversee the Admission made by the consortium  of Self-Financing Professional, Arts and Science Colleges",,,,,2203 00 800 AH 30000
+301,Salaries,"16,17","15,04","52,14","88,16",2203 00 800 AH 30100
+01,Pay,"9,15","7,20","23,14","24,07",2203 00 800 AH 30101
+04,Other Allowances,"2,34","3,27","11,62","22,53",2203 00 800 AH 30104
+06,House Rent Allowance,"4,68","4,57","17,38","41,56",2203 00 800 AH 30106
+303,Dearness Allowance,"7,80","11,00","15,26","5,90",2203 00 800 AH 30300
+01,Dearness Allowance,"7,80","11,00","15,26","5,90",2203 00 800 AH 30301
+304,Travel Expenses,,"2,20","2,20","1,00",2203 00 800 AH 30400
+01,Tour Travelling Allowances,,"2,20","2,20","1,00",2203 00 800 AH 30401
+305,Office Expenses,"1,43","4,48","4,48","3,21",2203 00 800 AH 30500
+01,Telephone Charges,27,50,50,50,2203 00 800 AH 30501
+02,Other Contingencies,73,"1,70","1,70","1,70",2203 00 800 AH 30502
+03,Electricity Charges,15,"2,00","2,00",73,2203 00 800 AH 30503
+04,Service Postage & Postal Expenditure,28,28,28,28,2203 00 800 AH 30504
+308,Advertising and Publicity,"2,95","3,00","3,00","3,00",2203 00 800 AH 30800
+01,Advertisement Charges,"2,95","3,00","3,00","3,00",2203 00 800 AH 30801
+319,Machinery and Equipments,30,30,30,35,2203 00 800 AH 31900
+03,Maintenance,30,30,30,35,2203 00 800 AH 31903
+321,Motor Vehicles,,35,1,35,2203 00 800 AH 32100
+02,Maintenance of Functional Vehicles,,35,1,35,2203 00 800 AH 32102
+333,Payments for Professional and Special Services,"5,20","9,05","9,05","9,30",2203 00 800 AH 33300
+02,Remuneration,27,"2,50","2,50","2,75",2203 00 800 AH 33302
+04,Contract Payment,"4,93","6,55","6,55","6,55",2203 00 800 AH 33304
+345,"Petroleum, Oil and Lubricant",80,"2,20","2,20","2,50",2203 00 800 AH 34500
+01,"Petroleum, Oil and Lubricant",80,"2,20","2,20","2,50",2203 00 800 AH 34501
+AH,Total AH,"34,65","47,62","88,64","1,13,77",
+AI,Committee on fixation of fee in respect of Self-Financing Professional Colleges,,,,,2203 00 800 AI 30000
+301,Salaries,63,"25,46","22,91","30,00",2203 00 800 AI 30100
+01,Pay,"-3,69","17,62","17,62","18,32",2203 00 800 AI 30101
+04,Other Allowances,"1,44","3,27","2,29","4,45",2203 00 800 AI 30104
+06,House Rent Allowance,"2,88","4,57","3,00","7,23",2203 00 800 AI 30106
+303,Dearness Allowance,"13,34","11,00","11,95","4,49",2203 00 800 AI 30300
+01,Dearness Allowance,"13,34","11,00","11,95","4,49",2203 00 800 AI 30301
+304,Travel Expenses,,"2,40","1,20","1,35",2203 00 800 AI 30400
+01,Tour Travelling Allowances,,"2,40","1,20","1,35",2203 00 800 AI 30401
+305,Office Expenses,"-2,45","3,21","3,21","3,33",2203 00 800 AI 30500
+01,Telephone Charges,31,50,50,50,2203 00 800 AI 30501
+02,Other Contingencies,"-3,33","1,65","1,65","1,65",2203 00 800 AI 30502
+03,Electricity Charges,26,75,75,85,2203 00 800 AI 30503
+04,Service Postage & Postal Expenditure,31,31,31,33,2203 00 800 AI 30504
+308,Advertising and Publicity,"1,45","2,00","2,00","2,00",2203 00 800 AI 30800
+01,Advertisement Charges,"1,45","2,00","2,00","2,00",2203 00 800 AI 30801
+319,Machinery and Equipments,27,30,30,40,2203 00 800 AI 31900
+03,Maintenance,27,30,30,40,2203 00 800 AI 31903
+321,Motor Vehicles,,34,34,34,2203 00 800 AI 32100
+01,Purchase,,1,1,1,2203 00 800 AI 32101
+02,Maintenance of Functional Vehicles,,33,33,33,2203 00 800 AI 32102
+333,Payments for Professional and Special Services,"5,57","8,69","8,69","8,69",2203 00 800 AI 33300
+02,Remuneration,64,"2,75","2,75","2,75",2203 00 800 AI 33302
+04,Contract Payment,"4,93","5,94","5,94","5,94",2203 00 800 AI 33304
+345,"Petroleum, Oil and Lubricant","1,11","2,50","2,50","2,75",2203 00 800 AI 34500
+01,"Petroleum, Oil and Lubricant","1,11","2,50","2,50","2,75",2203 00 800 AI 34501
+AI,Total AI,"19,92","55,90","53,10","53,35",
+AJ,Committee on fixation of fee in respect of Self-Financing Teacher's Education Colleges,,,,,2203 00 800 AJ 30000
+304,Travel Expenses,,"2,40","2,40","2,40",2203 00 800 AJ 30400
+01,Tour Travelling Allowances,,"2,40","2,40","2,40",2203 00 800 AJ 30401
+305,Office Expenses,"2,25","3,90","3,90","4,09",2203 00 800 AJ 30500
+01,Telephone Charges,46,75,75,75,2203 00 800 AJ 30501
+02,Other Contingencies,78,"1,65","1,65","1,65",2203 00 800 AJ 30502
+03,Electricity Charges,71,"1,20","1,20","1,35",2203 00 800 AJ 30503
+04,Service Postage & Postal Expenditure,30,30,30,34,2203 00 800 AJ 30504
+308,Advertising and Publicity,82,"1,00","1,00","1,00",2203 00 800 AJ 30800
+01,Advertisement Charges,82,"1,00","1,00","1,00",2203 00 800 AJ 30801
+333,Payments for Professional and Special Services,,"1,00","1,00","1,00",2203 00 800 AJ 33300
+02,Remuneration,,"1,00","1,00","1,00",2203 00 800 AJ 33302
+AJ,Total AJ,"3,07","8,30","8,30","8,49",
+#,State's Expenditure Total,"1,97,50","1,11,83","3,44,14","3,89,11",
+#,Central Sector Schemes,,,,,
+SA,Community Development through Polytechnics under National Mission on Skill Development,,,,,2203 00 800 SA 30000
+309,Grants-in-Aid,"52,70",1,1,1,2203 00 800 SA 30900
+03,Grants for Specific Schemes,"52,70",1,1,1,2203 00 800 SA 30903
+SA,Total SA,"52,70",1,1,1,
+#,Central Sector Schemes Total,"52,70",1,1,1,
+800,Total 800,"2,50,20","1,11,84","3,44,15","3,89,12",
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+AA,Government Polytechnic Colleges (Men),,,,,2203 00 911 AA 30000
+377,Deduct-Recoveries,"-12,09",,"-5,17",-1,2203 00 911 AA 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-12,09",,"-5,17",-1,2203 00 911 AA 37702
+AA,Total AA,"-12,09",,"-5,17",-1,
+AC,Special Diploma Institutions,,,,,2203 00 911 AC 30000
+377,Deduct-Recoveries,-41,,,,2203 00 911 AC 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-41,,,,2203 00 911 AC 37702
+AC,Total AC,-41,,,,
+JB,Reimbursement of Tuition Fees for First Generation Graduates,,,,,2203 00 911 JB 30000
+377,Deduct-Recoveries,"-10,44",,"-6,42",-1,2203 00 911 JB 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-10,44",,"-6,42",-1,2203 00 911 JB 37702
+JB,Total JB,"-10,44",,"-6,42",-1,
+#,State's Expenditure Total,"-22,94",,"-11,59",-2,
+911,Total 911,"-22,94",,"-11,59",-2,
+00,Total 00 Charged,,1,1,1,
+00,Total 00 ChargedVoted,"9,37,51,58","10,74,99,12","10,92,05,43","13,62,19,71",
+2203,Total 2203 Charged,,1,1,1,
+2203,Total 2203 Voted,"9,37,51,58","10,74,99,12","10,92,05,43","13,62,19,71",
+2235,SOCIAL SECURITY AND WELFARE,,,,,
+60,Other Social Security and Welfare Programmes,,,,,
+200,Other Programmes,,,,,
+#,State's Expenditure,,,,,
+CC,Educational concession to the children of Ex-servicemen Personnel controlled by the Director of Technical Education,,,,,2235 60 200 CC 30000
+312,Scholarships and Stipends,,8,8,8,2235 60 200 CC 31200
+09,Others,,8,8,8,2235 60 200 CC 31209
+CC,Total CC,,8,8,8,
+CE,Special Provident Fund-cum-Gratuity Scheme for Aided Educational Institutions controlled by the Director of Technical Education,,,,,2235 60 200 CE 30000
+310,Contributions,,1,1,1,2235 60 200 CE 31000
+01,Contribution to Specific Fund,,1,1,1,2235 60 200 CE 31001
+CE,Total CE,,1,1,1,
+#,State's Expenditure Total,,9,9,9,
+200,Total 200,,9,9,9,
+60,Total 60,,9,9,9,
+2235,Total 2235,,9,9,9,
+4202,"CAPITAL OUTLAY ON EDUCATION, SPORTS, ART AND, CULTURE",,,,,
+02,Technical Education,,,,,
+104,Polytechnics,,,,,
+#,State's Expenditure,,,,,
+JA,Buildings,,,,,4202 02 104 JA 40000
+416,Major Works,"84,26,30","32,51,00","47,62,67","57,68,31",4202 02 104 JA 41600
+01,Major Works,"84,26,30","32,51,00","47,62,67","57,68,31",4202 02 104 JA 41601
+464,Lands Charged,,1,1,1,4202 02 104 JA 46400,
+464,Lands Voted,"1,36",1,1,1,4202 02 104 JA 46400,
+01,Lands - Voted,"1,36",1,1,1,4202 02 104 JA 46401
+51,Lands Charged,,1,1,1,4202 02 104 JA 46451
+JA,Total JA Charged,,1,1,1,
+JA,Total JA Voted,"84,27,66","32,51,01","47,62,68","57,68,32",
+#,State's Expenditure Total Charged,,1,1,1,
+#,State's Expenditure Total Voted,"84,27,66","32,51,01","47,62,68","57,68,32",
+#,Central Sector Schemes,,,,,
+SA,Upgradation of Existing Polytechnics / Setting up of New Polytechnics,,,,,4202 02 104 SA 40000
+416,Major Works,"6,98",1,1,1,4202 02 104 SA 41600
+01,Major Works,"6,98",1,1,1,4202 02 104 SA 41601
+SA,Total SA,"6,98",1,1,1,
+SB,Construction of  Womens Hostel in Government Polytechnics  under the Sub-Mission on Polytechnics under Co-ordinated Action for Skill Development,,,,,4202 02 104 SB 40000
+416,Major Works,,1,1,1,4202 02 104 SB 41600
+01,Major Works,,1,1,1,4202 02 104 SB 41601
+SB,Total SB,1,1,1,,
+#,Central Sector Schemes Total,"6,98",2,2,2,
+104,Total 104 Charged,,1,1,1,,
+104,Total 104 Voted,"84,34,64","32,51,03","47,62,70","57,68,34",,
+105,Engineering/Technical Colleges and Institutes,,,,,
+#,State's Expenditure,,,,,
+AA,Buildings,,,,,4202 02 105 AA 40000
+416,Major Works,,,1,1,4202 02 105 AA 41600
+01,Major Works,,,1,1,4202 02 105 AA 41601
+464,Lands,,,1,1,4202 02 105 AA 46400
+01,Lands - Voted,,,1,1,4202 02 105 AA 46401
+AA,Total AA,,2,2,,
+AB,"Establishment of Indian Institute of Information Technology, Srirangam, Tiruchirappalli",,,,,4202 02 105 AB 40000
+416,Major Works,"6,32,00",1,"16,08,01",1,4202 02 105 AB 41600
+01,Major Works,"6,32,00",1,"16,08,01",1,4202 02 105 AB 41601
+AB,Total AB,"6,32,00",1,"16,08,01",1,
+JA,Buildings,,,,,4202 02 105 JA 40000
+416,Major Works,"10,53,44","58,72,90","40,03,19","30,00,00",4202 02 105 JA 41600
+01,Major Works,"10,53,44","58,72,90","40,03,19","30,00,00",4202 02 105 JA 41601
+464,Lands Charged,,1,"6,20,93",1,4202 02 105 JA 46400
+464,Lands Voted,,1,1,1,4202 02 105 JA 46400
+01,Lands - Voted,,1,1,1,4202 02 105 JA 46401
+51,Lands Charged,,1,"6,20,93",1,4202 02 105 JA 46451
+JA,Total JA Charged,,1,"6,20,93",1,
+JA,Total JA Voted,"10,53,44","58,72,91","40,03,20","30,00,01",
+#,State's Expenditure Total Charged,,1,"6,20,93",1,
+#,State's Expenditure Total Voted,"16,85,44","58,72,92","56,11,23","30,00,04",
+#,Schemes shared between State and Centre,,,,,
+UA,Construction of Boys / Girls hostels for (Engineering ) Colleges under AICTE National Skill Development Programme,,,,,4202 02 105 UA 40000
+416,Major Works,,1,1,1,4202 02 105 UA 41600
+01,Major Works,,1,1,1,4202 02 105 UA 41601
+UA,Total UA,1,1,1,,
+#,Schemes shared between State and Centre Total,,1,1,1, 
+105,Total 105 Charged,,1,"6,20,93",1,,
+105,Total 105Voted,"16,85,44","58,72,93","56,11,24","30,00,05",,
+793,Special Central Assistance for Scheduled Caste Component Plan,,,,,
+#,Central Sector Schemes Central Sector Sechemes,,,,,
+SA,Construction of  Womens Hostel in Government Polytechnics  under the Sub-mission on polytechnics under Co-ordinated action for skill development.,,,,,4202 02 793 SA 40000
+416,Major Works,,1,1,1,4202 02 793 SA 41600
+01,Major Works,,1,1,1,4202 02 793 SA 41601
+SA,Total SA,1,1,1,,
+#,Central Sector Schemes Total,,1,1,1,
+793,Total 793,1,1,1,,
+794,Special Central Assistance for Tribal Sub-Plan Central Sector Sechemes,,,,,
+SA,Construction of  Womens Hostel in Government Polytechnics  under the Sub-mission on polytechnics under Co-ordinated action for skill development.,,,,,4202 02 794 SA 40000
+416,Major Works,,1,1,1,4202 02 794 SA 41600
+01,Major Works,,1,1,1,4202 02 794 SA 41601
+SA,Total SA,,1,1,1,
+#,Central Sector Schemes Total,,1,1,1,
+794,Total 794,,1,1,1,
+02,Total 02 Charged,,2,"6,20,94",2,
+02,Total 02 Voted,"1,01,20,08","91,23,98","1,03,73,96","87,68,41",
+4202,Total 4202 Charged,,2,"6,20,94",2,
+4202,Total 4202 Voted,"1,01,20,08","91,23,98","1,03,73,96","87,68,41",
