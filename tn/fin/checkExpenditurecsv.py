@@ -46,7 +46,11 @@ common_overflow={
 '"Upkeep of Shrines,"':['"Temples etc.,"'],
 'Discounts paid to Stamp':['Vendors'],
 'Commission paid to Stock':['Holding Corporation of', 'India Limited'],
-'Secret Service':['Expenditure']
+'Secret Service':['Expenditure'],
+'Motor Car Advance to All':['India Service Officers'],
+'Work Charge':['Establishment'],
+'Misc. P.W.':['Advances-Debit'],
+'Recoveries of Festival': ['Advances']
 }
 
 import pandas as p

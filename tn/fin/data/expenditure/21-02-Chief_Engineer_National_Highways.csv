@@ -1,0 +1,213 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+3054,ROADS AND BRIDGES,,,,,
+01,National Highways,,,,,
+001,Direction and Administration,,,,,
+#,State's Expenditure,,,,,
+AA,Chief Engineer (National Highways),,,,,3054 01 001 AA 30000
+301,Salaries,"1,81,20","1,60,15","2,74,07","2,63,61",3054 01 001 AA 30100
+01,Pay,"1,59,16","1,37,25","2,42,88","2,31,30",3054 01 001 AA 30101
+02,Medical Allowance,84,85,"1,24","1,04",3054 01 001 AA 30102
+03,Medical Charges,17,15,,,3054 01 001 AA 30103
+04,Other Allowances,77,29,89,89,3054 01 001 AA 30104
+06,House Rent Allowance,"17,15","18,69","25,23","25,49",3054 01 001 AA 30106
+07,Travel Concession,13,9,5,10,3054 01 001 AA 30107
+08,City Compensatory Allowance,"2,98","2,83","3,78","4,79",3054 01 001 AA 30108
+303,Dearness Allowance,"62,04","89,75","78,06","81,97",3054 01 001 AA 30300
+01,Dearness Allowance,"62,04","89,75","78,06","81,97",3054 01 001 AA 30301
+304,Travel Expenses,"5,25","7,26","5,86","5,86",3054 01 001 AA 30400
+01,Tour Travelling Allowances,"5,15","7,16","5,79","5,79",3054 01 001 AA 30401
+02,Transfer Travelling Allowances,10,10,7,7,3054 01 001 AA 30402
+305,Office Expenses,"4,59","4,76","3,84","3,75",3054 01 001 AA 30500
+01,Telephone Charges,31,41,21,23,3054 01 001 AA 30501
+02,Other Contingencies,"4,01","4,05","3,38","3,27",3054 01 001 AA 30502
+04,Service Postage & Postal Expenditure,27,30,25,25,3054 01 001 AA 30504
+319,Machinery and Equipments,70,"1,28","1,00","1,00",3054 01 001 AA 31900
+01,Purchase,,1,,,3054 01 001 AA 31901
+03,Maintenance,70,"1,27","1,00","1,00",3054 01 001 AA 31903
+334,Other Charges,25,25,25,26,3054 01 001 AA 33400
+02,"Purchase  of  Books & Periodicals to Libraries etc.,",25,25,25,26,3054 01 001 AA 33402
+346,"Clothing, Tentage and Stores",10,10,7,7,3054 01 001 AA 34600
+01,"Clothing, Tentage and Stores",10,10,7,7,3054 01 001 AA 34601
+349,Festival Advances,-18,,,,3054 01 001 AA 34900
+01,Festival Advances-Debit,40,"1,20","1,20","1,30",3054 01 001 AA 34901
+02,Festival Advances-Credit,-58,"-1,20","-1,20","-1,30",3054 01 001 AA 34902
+376,Computer and Accessories,29,29,12,11,3054 01 001 AA 37600
+02,Maintenance,21,21,8,8,3054 01 001 AA 37602
+03,Stationery,8,8,4,3,3054 01 001 AA 37603
+AA,Total AA,"2,54,24","2,63,84","3,63,27","3,56,63",
+AB,Superintending Engineers (National Highways),,,,,3054 01 001 AB 30000
+301,Salaries,"3,80,38","3,59,69","3,70,78","3,56,11",3054 01 001 AB 30100
+01,Pay,"3,50,93","3,20,00","3,42,19","3,27,95",3054 01 001 AB 30101
+02,Medical Allowance,"2,08","2,66","1,94","1,53",3054 01 001 AB 30102
+03,Medical Charges,11,18,42,50,3054 01 001 AB 30103
+04,Other Allowances,"1,35","1,80","1,23","1,23",3054 01 001 AB 30104
+06,House Rent Allowance,"21,84","29,95","21,58","20,82",3054 01 001 AB 30106
+07,Travel Concession,29,25,34,68,3054 01 001 AB 30107
+08,City Compensatory Allowance,"3,78","4,85","3,08","3,40",3054 01 001 AB 30108
+303,Dearness Allowance,"1,66,88","2,09,19","1,09,96","1,15,45",3054 01 001 AB 30300
+01,Dearness Allowance,"1,66,88","2,09,19","1,09,96","1,15,45",3054 01 001 AB 30301
+304,Travel Expenses,"20,42","25,86","25,48","25,48",3054 01 001 AB 30400
+01,Tour Travelling Allowances,"20,28","25,70","25,19","25,19",3054 01 001 AB 30401
+02,Transfer Travelling Allowances,14,16,29,29,3054 01 001 AB 30402
+305,Office Expenses,"9,23","9,45","10,16","10,40",3054 01 001 AB 30500
+01,Telephone Charges,"1,13","1,15",78,84,3054 01 001 AB 30501
+02,Other Contingencies,"3,88","3,85","4,06","3,92",3054 01 001 AB 30502
+03,Electricity Charges,"3,70","3,80","4,72","5,04",3054 01 001 AB 30503
+04,Service Postage & Postal Expenditure,52,65,60,60,3054 01 001 AB 30504
+306,"Rent, Rates and Taxes","28,16","20,00","30,08","31,07",3054 01 001 AB 30600
+01,Rent,"28,16","20,00","30,08","31,07",3054 01 001 AB 30601
+333,Payments for Professional and Special Services,,50,85,85,3054 01 001 AB 33300
+04,Contract Payment,,50,85,85,3054 01 001 AB 33304
+346,"Clothing, Tentage and Stores",13,28,18,18,3054 01 001 AB 34600
+01,"Clothing, Tentage and Stores",13,28,18,18,3054 01 001 AB 34601
+349,Festival Advances,-19,,,,3054 01 001 AB 34900
+01,Festival Advances-Debit,"1,55","2,50","5,80","6,80",3054 01 001 AB 34901
+02,Festival Advances-Credit,"-1,74","-2,50","-5,80","-6,80",3054 01 001 AB 34902
+359,Prizes and Awards,,6,4,4,3054 01 001 AB 35900
+01,Prizes and Awards,,6,4,4,3054 01 001 AB 35901
+376,Computer and Accessories,"1,41","1,44","1,83","1,79",3054 01 001 AB 37600
+02,Maintenance,78,81,"1,21","1,21",3054 01 001 AB 37602
+03,Stationery,63,63,62,58,3054 01 001 AB 37603
+AB,Total AB,"6,06,42","6,26,47","5,49,36","5,41,37",
+AC,Executive Establishment (National Highways),,,,,3054 01 001 AC 30000
+301,Salaries,"13,22,39","12,91,59","20,05,30","23,72,80",3054 01 001 AC 30100
+01,Pay,"12,31,43","11,61,78","18,72,26","22,15,08",3054 01 001 AC 30101
+02,Medical Allowance,"7,62","11,13","10,35","11,18",3054 01 001 AC 30102
+03,Medical Charges,,15,,,3054 01 001 AC 30103
+04,Other Allowances,"8,58","6,04","8,89","8,89",3054 01 001 AC 30104
+06,House Rent Allowance,"68,73","1,04,84","1,05,38","1,26,74",3054 01 001 AC 30106
+07,Travel Concession,41,66,61,"1,22",3054 01 001 AC 30107
+08,City Compensatory Allowance,"5,62","6,99","7,81","9,69",3054 01 001 AC 30108
+303,Dearness Allowance,"8,47,43","7,59,37","11,85,02","12,44,27",3054 01 001 AC 30300
+01,Dearness Allowance,"8,47,43","7,59,37","11,85,02","12,44,27",3054 01 001 AC 30301
+304,Travel Expenses,"62,24","1,00,22","1,02,00","1,02,00",3054 01 001 AC 30400
+01,Tour Travelling Allowances,"62,23","99,51","1,01,39","1,01,39",3054 01 001 AC 30401
+02,Transfer Travelling Allowances,1,71,61,61,3054 01 001 AC 30402
+305,Office Expenses,"22,16","26,58","30,01","33,00",3054 01 001 AC 30500
+01,Telephone Charges,"1,32","3,96","2,01","2,43",3054 01 001 AC 30501
+02,Other Contingencies,"11,08","11,53","11,99","12,81",3054 01 001 AC 30502
+03,Electricity Charges,"8,02","8,54","14,06","15,81",3054 01 001 AC 30503
+04,Service Postage & Postal Expenditure,"1,74","2,55","1,95","1,95",3054 01 001 AC 30504
+306,"Rent, Rates and Taxes","28,79","50,00","62,91","63,54",3054 01 001 AC 30600
+01,Rent,"28,79","50,00","61,52","63,43",3054 01 001 AC 30601
+02,Property tax,,,"1,39",11,3054 01 001 AC 30602
+333,Payments for Professional and Special Services,"5,71","12,00","26,82","28,04",3054 01 001 AC 33300
+01,Pleaders Fees,"5,54","10,00","24,36","25,58",3054 01 001 AC 33301
+04,Contract Payment,17,"2,00","2,46","2,46",3054 01 001 AC 33304
+346,"Clothing, Tentage and Stores",66,84,97,97,3054 01 001 AC 34600
+01,"Clothing, Tentage and Stores",66,84,97,97,3054 01 001 AC 34601
+349,Festival Advances,"-1,19",,,,3054 01 001 AC 34900
+01,Festival Advances-Debit,"3,65","9,30","32,50","35,60",3054 01 001 AC 34901
+02,Festival Advances-Credit,"-4,84","-9,30","-32,50","-35,60",3054 01 001 AC 34902
+351,Compensation Charged,,1,,,3054 01 001 AC 35100
+51,Claims under no fault liability -  principal charges Charged,,1,,,3054 01 001 AC 35151
+359,Prizes and Awards,2,10,12,12,3054 01 001 AC 35900
+01,Prizes and Awards,2,10,12,12,3054 01 001 AC 35901
+376,Computer and Accessories,"2,84","2,77","2,55","2,69",3054 01 001 AC 37600
+02,Maintenance,"1,81","1,74","1,47","1,47",3054 01 001 AC 37602
+03,Stationery,"1,03","1,03","1,08","1,22",3054 01 001 AC 37603
+AC,Total AC Charged,,1,,,
+AC,Total AC Voted,"22,91,05","22,43,47","34,15,70","38,47,43",
+#,State's Expenditure Total Charged,,1,,,
+#,State's Expenditure Total Voted,"31,51,71","31,33,78","43,28,33","47,45,43",
+001,Total 001 Charged,,1,,,
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+AB,Superintending Engineers (National Highways),,,,,3054 01 911 AB 30000
+377,Deduct-Recoveries,-81,,,,3054 01 911 AB 37700
+01,Recoveries of Festival Advances,-5,,,,3054 01 911 AB 37701
+02,Recoveries of Overpayments / Remittance of excess drawals,-76,,,,3054 01 911 AB 37702
+AB,Total AB,-81,,,,
+AC,Executive Establishment (National Highways),,,,,3054 01 911 AC 30000
+377,Deduct-Recoveries,"-1,32",,,,3054 01 911 AC 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-1,32",,,,3054 01 911 AC 37702
+AC,Total AC,"-1,32",,,,
+#,State's Expenditure Total,"-2,13",,,,
+911,Total 911,"-2,13",,,,
+01,Total 01 Charged,,1,,,
+01,Total 01 Voted,"31,49,58","31,33,78","43,28,33","47,45,43",
+03,State Highways,,,,,
+052,Machinery and Equipment,,,,,
+#,State's Expenditure,,,,,
+AC,Deduct - Machinery and Equipment charges transferred on percentage basis to capital Major Heads,,,,,3054 03 052 AC 30000
+330,Inter-Account Transfers,"-40,49,73","-15,62,00","-20,20,16","-17,79,24",3054 03 052 AC 33000
+01,Inter-Account Transfers,"-40,49,73","-15,62,00","-20,20,16","-17,79,24",3054 03 052 AC 33001
+AC,Total AC,"-40,49,73","-15,62,00","-20,20,16","-17,79,24",
+AQ,Repairs and Carriages for Motor Vehicles under the Control of Chief Engineer (NH),,,,,3054 03 052 AQ 30000
+321,Motor Vehicles,"13,13","13,46","1,55,91","14,13",3054 03 052 AQ 32100 
+01,Purchase,,,"1,42,45",,3054 03 052 AQ 32101
+02,Maintenance of Functional Vehicles,"13,13","13,46","13,46","14,13",3054 03 052 AQ 32102
+333,Payments for Professional and Special Services,"5,36","5,67","22,20","22,20",3054 03 052 AQ 33300
+04,Contract Payment,"5,36","5,67","22,20","22,20",3054 03 052 AQ 33304
+345,"Petroleum, Oil and Lubricant","27,44","35,13","41,07","50,46",3054 03 052 AQ 34500
+01,"Petroleum, Oil and Lubricant","27,44","35,13","41,07","50,46",3054 03 052 AQ 34501
+AQ,Total AQ,"45,93","54,26","2,19,18","86,79",
+#,State's Expenditure Total,"-40,03,80","-15,07,74","-18,00,98","-16,92,45",
+052,Total 052,"-40,03,80","-15,07,74","-18,00,98","-16,92,45",
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+AQ,Repairs and Carriages for Motor Vehicles under the Control of Chief Engineer (NH),,,,,3054 03 911 AQ 30000
+377,Deduct-Recoveries,-9,,,,3054 03 911 AQ 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-9,,,,3054 03 911 AQ 37702
+AQ,Total AQ,-9,,,,
+#,State's Expenditure Total,-9,,,,
+911,Total 911,-9,,,,
+03,Total 03,"-40,03,89","-15,07,74","-18,00,98","-16,92,45",
+3054,Total 3054 Charged,,1,,,,
+3054,Total 3054 Voted,"-8,54,31","16,26,04","25,27,35","30,52,98",,
+5054,CAPITAL OUTLAY ON ROADS AND BRIDGES,,,,,
+01,National Highways,,,,,
+337,Road Works,,,,,
+#,State's Expenditure,,,,,
+JA,Original works,,,,,5054 01 337 JA 40000
+416,Major Works,,1,"11,47","18,00,00",5054 01 337 JA 41600
+01,Major Works,,1,"11,47","18,00,00",5054 01 337 JA 41601
+451,Compensation Charged,,,"9,87,08",,5054 01 337 JA 45100
+52,Other Compensations Charged,,,"9,87,08",,5054 01 337 JA 45152
+464,Lands,,,1,1,5054 01 337 JA 46400
+01,Lands - Voted,,,1,1,5054 01 337 JA 46401
+JA,Total JA,,,,,
+JC,"Providing Sand Fencing along seashore at Dhanushkodi in NH 49,(Madurai – Dhanushkodi Road) - Scheme under State Innovation Fund",,,,,5054 01 337 JC 40000
+416,Major Works,,,"10,00",,5054 01 337 JC 41600
+01,Major Works,,,"10,00",,5054 01 337 JC 41601
+JC,Total JC,,,,"10,00",
+#,State's Expenditure Total Charged,,,"9,87,08",,
+#,State's Expenditure Total Voted,1,"21,48","18,00,01",,
+337,Total 337 Charged,,,"9,87,08",,
+337,Total 337 Voted,,1,"21,48","18,00,01",
+902,Deduct - Amount met from State Innovation Fund,,,,,
+#,State's Expenditure,,,,,
+AA,Deduct - Amount met from Infrastructure Development Fund,,,,,5054 01 902 AA 40000
+430,Inter-Account Transfers,,,"-10,00",,5054 01 902 AA 43000
+01,Inter-Account Transfers,,,"-10,00",,5054 01 902 AA 43001
+AA,Total AA,,,"-10,00",,
+#,State's Expenditure Total,,,"-10,00",,
+902,Total 902,,,"-10,00",,
+01,Total 01 Charged,,,"9,87,08",,
+01,Total 01 Voted,,1,"11,48","18,00,01",
+05,Roads,,,,,
+800,Other Expenditure,,,,,
+#,Central Sector Schemes Central Sector Sechemes,,,,,
+SA,Revamped Central Road Fund,,,,,5054 05 800 SA 40000
+416,Major Works,"5,99,98,70","8,00,00,00","10,50,00,00","9,28,29,21",5054 05 800 SA 41600
+01,Major Works,"5,99,98,70","8,00,00,00","10,50,00,00","9,28,29,21",5054 05 800 SA 41601
+SA,Total SA,"5,99,98,70","8,00,00,00","10,50,00,00","9,28,29,21",
+#,Central Sector Schemes Total,"5,99,98,70","8,00,00,00","10,50,00,00","9,28,29,21",
+800,Total 800,"5,99,98,70","8,00,00,00","10,50,00,00","9,28,29,21",
+05,Total 05,"5,99,98,70","8,00,00,00","10,50,00,00","9,28,29,21",
+80,General,,,,,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+JS,Road Works under Bharath Nirman,,,,,5054 80 800 JS 40000
+416,Major Works,"5,27,47","5,03,36","3,20,00","2,10,00",5054 80 800 JS 41600
+01,Major Works,"5,27,47","5,03,36","3,20,00","2,10,00",5054 80 800 JS 41601
+JS,Total JS,"5,27,47","5,03,36","3,20,00","2,10,00",
+KA,Revamped Central Road Fund,,,,,5054 80 800 KA 40000
+477,Deduct-Recoveries,"-59,17",,,,5054 80 800 KA 47700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-59,17",,,,5054 80 800 KA 47702
+KA,Total KA,"-59,17",,,,
+#,State's Expenditure Total,"4,68,30","5,03,36","3,20,00","2,10,00",
+800,Total 800,"4,68,30","5,03,36","3,20,00","2,10,00",
+80,Total 80,"4,68,30","5,03,36","3,20,00","2,10,00",
+5054,Total 5054 Charged,,,"9,87,08",,
+5054,Total 5054 Voted,"6,04,67,00","8,05,03,37","10,53,31,48","9,48,39,22",

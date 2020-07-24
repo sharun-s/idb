@@ -1,0 +1,197 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+3054,ROADS AND BRIDGES,,,,,
+03,State Highways,,,,,
+052,Machinery and Equipment,,,,,
+#,State's Expenditure,,,,,
+AJ,New Supplies -Projects,,,,,3054 03 052 AJ 30000
+319,Machinery and Equipments,94,"1,00","1,00","1,00",3054 03 052 AJ 31900
+01,Purchase,94,"1,00","1,00","1,00",3054 03 052 AJ 31901
+AJ,Total AJ,94,"1,00","1,00","1,00",
+AS,Repairs and Carriages for Motor Vehicles - Projects,,,,,3054 03 052 AS 30000
+321,Motor Vehicles,"8,08","9,45","9,45","10,00",3054 03 052 AS 32100 
+02,Maintenance of Functional Vehicles,"8,08","9,45","9,45","10,00",3054 03 052 AS 32102
+345,"Petroleum, Oil and Lubricant","20,80","27,40","22,01","22,95",3054 03 052 AS 34500
+01,"Petroleum, Oil and Lubricant","20,80","27,40","22,01","22,95",3054 03 052 AS 34501
+AS,Total AS,"28,88","36,85","31,46","32,95",
+#,State's Expenditure Total,"29,82","37,85","32,46","33,95",
+052,Total 052,"29,82","37,85","32,46","33,95",
+03,Total 03,"29,82","37,85","32,46","33,95",
+80,General,,,,,
+001,Direction and Administration,,,,,
+#,State's Expenditure,,,,,
+AR,Special Staff for Land Acquisition under Tamil Nadu Urban Development Project,,,,,3054 80 001 AR 30000
+301,Salaries,"12,90","24,03","13,65","15,13",3054 80 001 AR 30100
+01,Pay,"11,24","20,86","12,00","13,20",3054 80 001 AR 30101
+02,Medical Allowance,11,15,10,15,3054 80 001 AR 30102
+03,Medical Charges,,10,10,10,3054 80 001 AR 30103
+04,Other Allowances,6,9,9,9,3054 80 001 AR 30104
+06,House Rent Allowance,"1,26","2,38","1,00","1,10",3054 80 001 AR 30106
+07,Travel Concession,,6,6,6,3054 80 001 AR 30107
+08,City Compensatory Allowance,23,39,30,43,3054 80 001 AR 30108
+303,Dearness Allowance,"2,90","2,71","2,70","2,97",3054 80 001 AR 30300
+01,Dearness Allowance,"2,90","2,71","2,70","2,97",3054 80 001 AR 30301
+304,Travel Expenses,54,79,22,24,3054 80 001 AR 30400
+01,Tour Travelling Allowances,54,77,20,22,3054 80 001 AR 30401
+02,Transfer Travelling Allowances,,2,2,2,3054 80 001 AR 30402
+305,Office Expenses,6,23,15,15,3054 80 001 AR 30500
+02,Other Contingencies,6,13,10,10,3054 80 001 AR 30502
+04,Service Postage & Postal Expenditure,,10,5,5,3054 80 001 AR 30504
+349,Festival Advances,-1,,,,3054 80 001 AR 34900
+01,Festival Advances-Debit,,15,30,30,3054 80 001 AR 34901
+02,Festival Advances-Credit,-1,-15,-30,-30,3054 80 001 AR 34902
+AR,Total AR,"16,39","27,76","16,72","18,49",
+AT,Chief Engineer  - Projects,,,,,3054 80 001 AT 30000
+301,Salaries,"15,52,81","16,67,12","15,41,63","27,64,00",3054 80 001 AT 30100
+01,Pay,"14,28,12","14,87,14","14,12,93","25,81,53",3054 80 001 AT 30101
+02,Medical Allowance,"8,42","10,94","8,60","8,85",3054 80 001 AT 30102
+03,Medical Charges,23,39,39,39,3054 80 001 AT 30103
+04,Other Allowances,"5,65","6,16","5,91","5,91",3054 80 001 AT 30104
+06,House Rent Allowance,"97,84","1,47,39","1,00,98","1,50,86",3054 80 001 AT 30106
+07,Travel Concession,60,74,74,74,3054 80 001 AT 30107
+08,City Compensatory Allowance,"11,95","14,36","12,08","15,72",3054 80 001 AT 30108
+303,Dearness Allowance,"8,19,57","9,84,29","8,56,37","8,90,46",3054 80 001 AT 30300
+01,Dearness Allowance,"8,19,57","9,84,29","8,56,37","8,90,46",3054 80 001 AT 30301
+304,Travel Expenses,"52,71","89,91","60,78","62,76",3054 80 001 AT 30400
+01,Tour Travelling Allowances,"52,49","88,32","59,80","61,78",3054 80 001 AT 30401
+02,Transfer Travelling Allowances,22,"1,59",98,98,3054 80 001 AT 30402
+305,Office Expenses,"16,52","19,90","19,48","19,48",3054 80 001 AT 30500
+01,Telephone Charges,"2,10","3,50","3,00","3,00",3054 80 001 AT 30501
+02,Other Contingencies,"4,00","4,00","4,03","4,03",3054 80 001 AT 30502
+03,Electricity Charges,"8,88","10,60","10,60","10,60",3054 80 001 AT 30503
+04,Service Postage & Postal Expenditure,"1,54","1,80","1,85","1,85",3054 80 001 AT 30504
+306,"Rent, Rates and Taxes","30,05","36,30","36,50","36,50",3054 80 001 AT 30600
+01,Rent,"27,26","33,00","33,00","33,00",3054 80 001 AT 30601
+02,Property tax,"2,79","3,30","3,50","3,50",3054 80 001 AT 30602
+312,Scholarships and Stipends,,10,,,3054 80 001 AT 31200
+09,Others,,10,,,3054 80 001 AT 31209
+319,Machinery and Equipments,"1,25","1,25","1,25","1,75",3054 80 001 AT 31900
+03,Maintenance,"1,25","1,25","1,25","1,75",3054 80 001 AT 31903
+333,Payments for Professional and Special Services,"9,25","7,50","7,60","7,60",3054 80 001 AT 33300
+01,Pleaders Fees,"7,27","4,00","4,00","4,00",3054 80 001 AT 33301
+04,Contract Payment,"1,98","3,50","3,60","3,60",3054 80 001 AT 33304
+346,"Clothing, Tentage and Stores",72,80,80,80,3054 80 001 AT 34600
+01,"Clothing, Tentage and Stores",72,80,80,80,3054 80 001 AT 34601
+349,Festival Advances,-24,,,,3054 80 001 AT 34900
+01,Festival Advances-Debit,"6,60","14,45","29,10","29,10",3054 80 001 AT 34901
+02,Festival Advances-Credit,"-6,84","-14,45","-29,10","-29,10",3054 80 001 AT 34902
+359,Prizes and Awards,,10,10,10,3054 80 001 AT 35900
+01,Prizes and Awards,,10,10,10,3054 80 001 AT 35901
+368,"Cost of Books/Note Books/Slates, etc.",10,20,20,20,3054 80 001 AT 36800
+01,"Cost of Books/Note Books/Slates, etc.",10,20,20,20,3054 80 001 AT 36801
+372,Training,,1,,,3054 80 001 AT 37200
+01,Training,,1,,,3054 80 001 AT 37201
+376,Computer and Accessories,"3,87","3,96","3,95","3,95",3054 80 001 AT 37600
+01,Purchase,,1,,,3054 80 001 AT 37601
+02,Maintenance,"2,08","2,15","2,15","2,15",3054 80 001 AT 37602
+03,Stationery,"1,79","1,80","1,80","1,80",3054 80 001 AT 37603
+AT,Total AT,"24,86,61","28,11,44","25,28,66","37,87,60",
+001,Total 001,"25,03,00","28,39,20","25,45,38","38,06,09",
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+AT,Chief Engineer  - Projects,,,,,3054 80 911 AT 30000
+377,Deduct-Recoveries,"-24,19",,,,3054 80 911 AT 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-24,19",,,,3054 80 911 AT 37702
+AT,Total AT,"-24,19",,,,
+#,State's Expenditure Total,"-24,19",,,,
+911,Total 911,"-24,19",,,,
+80,Total 80,"24,78,81","28,39,20","25,45,38","38,06,09",
+3054,Total 3054,"25,08,63","28,77,05","25,77,84","38,40,04",
+5054,CAPITAL OUTLAY ON ROADS AND BRIDGES,,,,,
+03,State Highways,,,,,
+101,Bridges,,,,,
+#,State's Expenditure,,,,,
+JB,Construction of Bridges with Loan Assistance from HUDCO,,,,,5054 03 101 JB 40000
+464,Lands Charged,,1,1,1,5054 03 101 JB 46400
+51,Lands Charged,,1,1,1,5054 03 101 JB 46451
+JB,Total JB Charged,,1,1,1,
+JD,Construction of Road over Bridges in Chennai Metro Area for Traffic Management,,,,,5054 03 101 JD 40000
+416,Major Works,"3,88,73","20,06","2,23,30","1,55,16",5054 03 101 JD 41600
+01,Major Works,"3,88,73","20,06","2,23,30","1,55,16",5054 03 101 JD 41601
+JD,Total JD,"3,88,73","20,06","2,23,30","1,55,16",
+JG,Construction of over and under bridges in lieu of Existing level crossings,,,,,5054 03 101 JG 40000
+416,Major Works,"22,57,18","87,82,67","50,55,33","1,22,68,34",5054 03 101 JG 41600
+01,Major Works,"22,57,18","87,82,67","50,55,33","1,22,68,34",5054 03 101 JG 41601
+464,Lands,"34,98,21","40,18,14","18,04,78","34,15,38",5054 03 101 JG 46400
+01,Lands - Voted,"34,98,21","40,18,14","18,04,78","34,15,38",5054 03 101 JG 46401
+JG,Total JG,"57,55,39","1,28,00,81","68,60,11","1,56,83,72",
+#,State's Expenditure Total Charged,,1,1,1,
+#,State's Expenditure Total Voted,"61,44,12","1,28,20,87","70,83,41","1,58,38,88",
+101,Total 101 Charged,,1,1,1,
+101,Total 101 Voted,"61,44,12","1,28,20,87","70,83,41","1,58,38,88",
+337,Road Works,,,,,
+#,State's Expenditure,,,,,
+JO,Comprehensive Road Infrastructure Development Programme (CRIDP) - Formation of Bye-Passes,,,,,5054 03 337 JO 40000
+416,Major Works,,"30,20,00",2,"15,00,01",5054 03 337 JO 41600
+01,Major Works,,"30,20,00",2,"15,00,01",5054 03 337 JO 41601
+464,Lands,,"5,66,17","6,16,17","1,50,01",5054 03 337 JO 46400
+01,Lands - Voted,,"5,66,17","6,16,17","1,50,01",5054 03 337 JO 46401
+JO,Total JO,"35,86,17","6,16,19","16,50,02",,
+#,State's Expenditure Total,,"35,86,17","6,16,19","16,50,02",
+337,Total 337,,"35,86,17","6,16,19","16,50,02",
+03,Total 03 Charged,,1,1,1,
+03,Total 03 Voted,"61,44,12","1,64,07,04","76,99,60","1,74,88,90",
+04,District and other Roads,,,,,
+101,Bridges,,,,,
+#,State's Expenditure,,,,,
+JE,Construction / Reconstruction of Bridges,,,,,5054 04 101 JE 40000
+416,Major Works,"26,53,64","33,08,93","41,86,76","73,17,36",5054 04 101 JE 41600 
+01,Major Works,"26,53,64","33,08,93","41,86,76","73,17,36",5054 04 101 JE 41601 
+464,Lands Charged,"16,36",,,,5054 04 101 JE 46400
+464,Lands Voted,"38,72","5,23,04","6,53,49","13,00,96",5054 04 101 JE 46400
+01,Lands - Voted,"38,72","5,23,04","6,53,49","13,00,96",5054 04 101 JE 46401 
+51,Lands Charged,"16,36",,,,5054 04 101 JE 46451
+JE,Total JE Charged,"16,36",,,,
+JE,Total JE Voted.,"26,92,36","38,31,97","48,40,25","86,18,32",
+JJ,Construction / Reconstruction of Elevated Highways,,,,,5054 04 101 JJ 40000
+416,Major Works,,,,"2,00,00,00",5054 04 101 JJ 41600
+01,Major Works,,,,"2,00,00,00",5054 04 101 JJ 41601
+JJ,Total JJ,,,,"2,00,00,00",
+#,State's Expenditure Total Charged,"16,36",,,,
+#,State's Expenditure Total Voted,"26,92,36","38,31,97","48,40,25","2,86,18,32",
+101,Total 101 Charged,"16,36",,,,
+101,Total 101 Voted,"26,92,36","38,31,97","48,40,25","2,86,18,32",
+337,Road Works,,,,,
+#,State's Expenditure,,,,,
+JQ,Construction/ Reconstruction of bridges and improvement of roads with  loan assistance from NABARD,,,,,5054 04 337 JQ 40000
+416,Major Works,,5,"4,02",52,5054 04 337 JQ 41600
+01,Major Works,,5,"4,02",52,5054 04 337 JQ 41601
+JQ,Total JQ,5,"4,02",52,,
+#,State's Expenditure Total,,5,"4,02",52,
+337,Total 337,5,"4,02",52,,
+04,Total 04 Charged,"16,36",,,,
+04,Total 04 Voted,"26,92,36","38,32,02","48,44,27","2,86,18,84",
+80,General,,,,,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+JJ,Construction of over and under bridges in lieu of Existing level crossings,,,,,5054 80 800 JJ 40000
+416,Major Works,"84,42,79","2,60,30,69","1,19,34,24","2,61,31,94",5054 80 800 JJ 41600
+01,Major Works,"84,42,79","2,60,30,69","1,19,34,24","2,61,31,94",5054 80 800 JJ 41601
+464,Lands,"1,41,00","18,73,26","4,20,73","99,51,79",5054 80 800 JJ 46400
+01,Lands - Voted,"1,41,00","18,73,26","4,20,73","99,51,79",5054 80 800 JJ 46401
+JJ,Total JJ,"85,83,79","2,79,03,95","1,23,54,97","3,60,83,73",
+JN,Provision for Road Works,,,,,5054 80 800 JN 40000
+464,Lands Charged,"33,19",,,,5054 80 800 JN 46400
+464,Lands Voted,"4,98,54","20,00,02","4,66,56","26,72,55",5054 80 800 JN 46400
+01,Lands - Voted,"4,98,54","20,00,02","4,66,56","26,72,55",5054 80 800 JN 46401
+51,Lands Charged,"33,19",,,,5054 80 800 JN 46451
+JN,Total JN Charged,"33,19",,,,
+JN,Total JN Voted,"4,98,54","20,00,02","4,66,56","26,72,55",
+JT,Construction of Railway Over Bridges /Railway Under Bridges,,,,,5054 80 800 JT 40000
+416,Major Works,"1,07,18,93","2,55,65,10","1,42,11,77","3,58,58,81",5054 80 800 JT 41600
+01,Major Works,"1,07,18,93","2,55,65,10","1,42,11,77","3,58,58,81",5054 80 800 JT 41601
+464,Lands Charged,"27,92",,,,5054 80 800 JT 46400
+464,Lands Voted,"25,83,90","63,91,77","56,79,04","7,41,49",5054 80 800 JT 46400
+01,Lands - Voted,"25,83,90","63,91,77","56,79,04","7,41,49",5054 80 800 JT 46401
+51,Lands Charged,"27,92",,,,5054 80 800 JT 46451
+477,Deduct-Recoveries,"-1,38,22",,,,5054 80 800 JT 47700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-1,38,22",,,,5054 80 800 JT 47702
+JT,Total JT Charged,"27,92",,,,
+JT,Total JT Voted,"1,31,64,61","3,19,56,87","1,98,90,81","3,66,00,30",
+#,State's Expenditure Total Charged,"61,11",,,,
+#,State's Expenditure Total Voted,"2,22,46,94","6,18,60,84","3,27,12,34","7,53,56,58",
+800,Total 800 Charged,"61,11",,,,
+800,Total 800 Voted,"2,22,46,94","6,18,60,84","3,27,12,34","7,53,56,58",
+80,Total 80 Charged,"61,11",,,,
+80,Total 80 Voted,"2,22,46,94","6,18,60,84","3,27,12,34","7,53,56,58",
+5054,Total 5054 Charged,"77,47",1,1,1,
+5054,Total 5054 Voted,"3,10,83,42","8,20,99,90","4,52,56,21","12,14,64,32",

@@ -1,0 +1,138 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+3054,ROADS AND BRIDGES,,,,,
+80,General,,,,,
+001,Direction and Administration,,,,,
+#,State's Expenditure,,,,,
+AZ,Chief Engineer (Metro),,,,,3054 80 001 AZ 30000
+301,Salaries,"4,43,57","4,61,34","4,82,20","8,69,21",3054 80 001 AZ 30100
+01,Pay,"3,90,58","3,85,73","4,22,53","7,77,90",3054 80 001 AZ 30101
+02,Medical Allowance,"1,86","2,84","2,63","3,10",3054 80 001 AZ 30102
+03,Medical Charges,8,22,22,23,3054 80 001 AZ 30103
+04,Other Allowances,"1,52","1,02","1,62","1,70",3054 80 001 AZ 30104
+06,House Rent Allowance,"41,68","60,04","46,27","74,79",3054 80 001 AZ 30106
+07,Travel Concession,27,51,51,53,3054 80 001 AZ 30107
+08,City Compensatory Allowance,"7,58","10,98","8,42","10,96",3054 80 001 AZ 30108
+303,Dearness Allowance,"2,71,28","2,90,58","2,93,18","3,03,31",3054 80 001 AZ 30300
+01,Dearness Allowance,"2,71,28","2,90,58","2,93,18","3,03,31",3054 80 001 AZ 30301
+304,Travel Expenses,"2,78","6,02","3,47","3,66",3054 80 001 AZ 30400
+01,Tour Travelling Allowances,"2,55","5,50","2,95","3,10",3054 80 001 AZ 30401
+02,Transfer Travelling Allowances,23,52,52,56,3054 80 001 AZ 30402
+305,Office Expenses,"5,80","10,18","9,72","9,61",3054 80 001 AZ 30500
+01,Telephone Charges,60,"1,16",70,74,3054 80 001 AZ 30501
+02,Other Contingencies,"2,03","1,85","1,85","1,94",3054 80 001 AZ 30502
+03,Electricity Charges,"3,03","6,76","6,76","6,49",3054 80 001 AZ 30503
+04,Service Postage & Postal Expenditure,14,41,41,44,3054 80 001 AZ 30504
+306,"Rent, Rates and Taxes","24,05","41,12","41,12","45,31",3054 80 001 AZ 30600
+01,Rent,"24,05","41,12","41,12","45,31",3054 80 001 AZ 30601 
+333,Payments for Professional and Special Services,62,"1,10","8,00","8,00",3054 80 001 AZ 33300
+01,Pleaders Fees,62,"1,10","8,00","8,00",3054 80 001 AZ 33301
+345,"Petroleum, Oil and Lubricant","8,17","8,42","8,42","8,84",3054 80 001 AZ 34500
+01,"Petroleum, Oil and Lubricant","8,17","8,42","8,42","8,84",3054 80 001 AZ 34501
+346,"Clothing, Tentage and Stores",,7,7,8,3054 80 001 AZ 34600
+01,"Clothing, Tentage and Stores",,7,7,8,3054 80 001 AZ 34601
+349,Festival Advances,-35,,,,3054 80 001 AZ 34900
+01,Festival Advances-Debit,65,"4,65","6,18","6,49",3054 80 001 AZ 34901
+02,Festival Advances-Credit,"-1,00","-4,65","-6,18","-6,49",3054 80 001 AZ 34902
+351,Compensation Charged,,1,,,3054 80 001 AZ 35100
+51,Claims under no fault liability -  principal charges Charged,,1,,,3054 80 001 AZ 35151
+359,Prizes and Awards,,22,22,24,3054 80 001 AZ 35900
+01,Prizes and Awards,,22,22,24,3054 80 001 AZ 35901
+376,Computer and Accessories,"1,95","1,94","1,93","1,93",3054 80 001 AZ 37600
+02,Maintenance,60,61,60,60,3054 80 001 AZ 37602
+03,Stationery,"1,35","1,33","1,33","1,33",3054 80 001 AZ 37603
+AZ,Total AZ Charged,,1,,,
+AZ,Total AZ Voted,"7,57,87","8,20,99","8,48,33","12,50,19",
+BG,Establishment of Special Staff for Acquisition of Lands under Metro Wing,,,,,3054 80 001 BG 30000
+301,Salaries,"55,89","65,60","65,60","63,51",3054 80 001 BG 30100
+01,Pay,"48,07","54,57","54,57","51,91",3054 80 001 BG 30101
+02,Medical Allowance,40,37,37,40,3054 80 001 BG 30102
+04,Other Allowances,64,33,33,35,3054 80 001 BG 30104
+06,House Rent Allowance,"5,64","8,73","8,73","9,17",3054 80 001 BG 30106
+07,Travel Concession,,2,2,2,3054 80 001 BG 30107
+08,City Compensatory Allowance,"1,14","1,58","1,58","1,66",3054 80 001 BG 30108
+303,Dearness Allowance,"11,37","6,82","6,82","11,69",3054 80 001 BG 30300
+01,Dearness Allowance,"11,37","6,82","6,82","11,69",3054 80 001 BG 30301
+304,Travel Expenses,52,59,59,62,3054 80 001 BG 30400
+01,Tour Travelling Allowances,52,55,55,58,3054 80 001 BG 30401
+02,Transfer Travelling Allowances,,4,4,4,3054 80 001 BG 30402
+305,Office Expenses,"3,87","2,09","2,09","2,37",3054 80 001 BG 30500
+02,Other Contingencies,64,25,25,26,3054 80 001 BG 30502
+03,Electricity Charges,"3,08","1,73","1,73","2,00",3054 80 001 BG 30503
+04,Service Postage & Postal Expenditure,15,11,11,11,3054 80 001 BG 30504
+306,"Rent, Rates and Taxes",,"1,57","1,57","1,65",3054 80 001 BG 30600
+01,Rent,,"1,57","1,57","1,65",3054 80 001 BG 30601
+349,Festival Advances,16,,,,3054 80 001 BG 34900
+01,Festival Advances-Debit,25,85,85,89,3054 80 001 BG 34901
+02,Festival Advances-Credit,-9,-85,-85,-89,3054 80 001 BG 34902
+BG,Total BG,"71,81","76,67","76,67","79,84",
+#,State's Expenditure Total Charged,,1,,,
+#,State's Expenditure Total Voted,"8,29,68","8,97,66","9,25,00","13,30,03",
+001,Total 001 Charged,,1,,,
+001,Total 001 Voted,"8,29,68","8,97,66","9,25,00","13,30,03",
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+AZ,Chief Engineer (Metro),,,,,3054 80 911 AZ 30000
+377,Deduct-Recoveries,"-1,34",,,,3054 80 911 AZ 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-1,34",,,,3054 80 911 AZ 37702
+AZ,Total AZ,"-1,34",,,,
+#,State's Expenditure Total,"-1,34",,,,
+911,Total 911,"-1,34",,,,
+80,Total 80 Charged,,1,,,
+80,Total 80 Voted,"8,28,34","8,97,66","9,25,00","13,30,03",
+3054,Total 3054 Charged,,1,,,
+3054,Total 3054 Voted,"8,28,34","8,97,66","9,25,00","13,30,03",
+5054,CAPITAL OUTLAY ON ROADS AND BRIDGES,,,,,
+04,District and other Roads,,,,,
+101,Bridges,,,,,
+#,State's Expenditure,,,,,
+JH,Chennai Metropolitan Development Plan - Traffic and Transport Improvement in Chennai City,,,,,5054 04 101 JH 40000
+416,Major Works,"3,50,00","36,59,27","30,00,00","13,61,95",5054 04 101 JH 41600
+01,Major Works,"3,50,00","36,59,27","30,00,00","13,61,95",5054 04 101 JH 41601
+464,Lands,"2,90,00","5,00","4,30,00",,5054 04 101 JH 46400
+01,Lands - Voted,"2,90,00","5,00","4,30,00",,5054 04 101 JH 46401
+477,Deduct-Recoveries,"-4,41,54",,,,5054 04 101 JH 47700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-4,41,54",,,,5054 04 101 JH 47702
+JH,Total JH,"1,98,46","36,64,27","34,30,00","13,61,95",
+JI,Construction of  Bridges and Roads under  Chennai City Traffic Decongestion  Projects (CCTDP).,,,,,5054 04 101 JI 40000
+464,Lands,,,,"48,00",5054 04 101 JI 46400
+01,Lands - Voted,,,,"48,00",5054 04 101 JI 46401
+JI,Total JI,,,"48,00",,
+#,State's Expenditure Total,"1,98,46","36,64,27","34,30,00","14,09,95",
+101,Total 101,"1,98,46","36,64,27","34,30,00","14,09,95",
+04,Total 04,"1,98,46","36,64,27","34,30,00","14,09,95",
+80,General,,,,,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+JW,Chennai Metropolitan Development Plan - Traffic and Transport Improvement in Chennai City,,,,,5054 80 800 JW 40000
+416,Major Works,"55,04,33","2,19,53,16","1,64,99,89","1,31,60,70",5054 80 800 JW 41600
+01,Major Works,"55,04,33","2,19,53,16","1,64,99,89","1,31,60,70",5054 80 800 JW 41601
+451,Compensation Charged,,,"27,81",,5054 80 800 JW 45100
+52,Other Compensations Charged,,,,,
+464,Lands Charged,,,"96,00",,5054 80 800 JW 46400
+464,Lands Voted,"1,85,32,59","57,73,06","2,00,20,03","2,80,86,63",5054 80 800 JW 46400,
+01,Lands - Voted,"1,85,32,59","57,73,06","2,00,20,03","2,80,86,63",5054 80 800 JW 46401
+51,Lands Charged,,,"96,00",,5054 80 800 JW 46451
+477,Deduct-Recoveries,"-7,11,60",,,,5054 80 800 JW 47700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-7,11,60",,,,5054 80 800 JW 47702
+JW,Total JW Charged,,,"1,23,81",,
+JW,Total JW Voted,"2,33,25,32","2,77,26,22","3,65,19,92","4,12,47,33",
+KJ,"Works executed by  Chief Engineer (Metro), Highways from State Infrastructure and Amenities Fund",,,,,5054 80 800 KJ 40000
+416,Major Works,"12,77,82","2,60,31,41","46,52,36","2,30,89,67",5054 80 800 KJ 41600 
+01,Major Works,"12,77,82","2,60,31,41","46,52,36","2,30,89,67",5054 80 800 KJ 41601 
+KJ,Total KJ,"12,77,82","2,60,31,41","46,52,36","2,30,89,67",
+#,State's Expenditure Total Charged,,,"1,23,81",,
+#,State's Expenditure Total Voted,"2,46,03,14","5,37,57,63","4,11,72,28","6,43,37,00",
+800,Total 800 Charged,,,"1,23,81",,
+800,Total 800 Voted,"2,46,03,14","5,37,57,63","4,11,72,28","6,43,37,00",
+902,Deduct Amount met from State Infrastructure and Amenities Fund,,,,,
+#,State's Expenditure,,,,,
+JB,Deduct  - Amount met from State Infrastructure and Amenities Fund,,,,,5054 80 902 JB 40000
+430,Inter-Account Transfers,"-8,18,90","-2,60,31,41","-46,52,36","-2,30,89,67",5054 80 902 JB 43000
+01,Inter-Account Transfers,"-8,18,90","-2,60,31,41","-46,52,36","-2,30,89,67",5054 80 902 JB 43001
+JB,Total JB,"-8,18,90","-2,60,31,41","-46,52,36","-2,30,89,67",
+#,State's Expenditure Total,"-8,18,90","-2,60,31,41","-46,52,36","-2,30,89,67",
+902,Total 902,"-8,18,90","-2,60,31,41","-46,52,36","-2,30,89,67",
+80,Total 80 Charged,,,"1,23,81",,
+80,Total 80 Voted,"2,37,84,24","2,77,26,22","3,65,19,92","4,12,47,33",
+5054,Total 5054 Charged,,,"1,23,81",,
+5054,Total 5054 Voted,"2,39,82,70","3,13,90,49","3,99,49,92","4,26,57,28",

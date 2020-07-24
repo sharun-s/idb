@@ -1,0 +1,118 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+3054,ROADS AND BRIDGES,,,,,
+80,General,,,,,
+004,Research and Development,,,,,
+#,State's Expenditure,,,,,
+AA,Research Station (Highways),,,,,3054 80 004 AA 30000
+301,Salaries,"13,01,62","15,01,77","13,07,60","24,96,63",3054 80 004 AA 30100
+01,Pay,"11,96,20","13,63,79","12,01,08","23,18,07",3054 80 004 AA 30101
+02,Medical Allowance,"5,71","9,44","5,85","9,58",3054 80 004 AA 30102
+03,Medical Charges,49,75,55,50,3054 80 004 AA 30103
+04,Other Allowances,"5,66","7,31","5,86","8,35",3054 80 004 AA 30104
+06,House Rent Allowance,"82,14","1,05,00","82,14","1,43,60",3054 80 004 AA 30106
+07,Travel Concession,14,"1,00",84,"1,00",3054 80 004 AA 30107
+08,City Compensatory Allowance,"11,28","14,48","11,28","15,53",3054 80 004 AA 30108
+303,Dearness Allowance,"10,07,07","1,77,29","10,38,29","10,90,20",3054 80 004 AA 30300
+01,Dearness Allowance,"10,07,07","1,77,29","10,38,29","10,90,20",3054 80 004 AA 30301
+304,Travel Expenses,"52,73","70,25","67,86","70,25",3054 80 004 AA 30400
+01,Tour Travelling Allowances,"52,48","70,00","67,79","70,00",3054 80 004 AA 30401
+02,Transfer Travelling Allowances,25,25,7,25,3054 80 004 AA 30402
+305,Office Expenses,"58,06","69,45","63,71","69,45",3054 80 004 AA 30500
+01,Telephone Charges,80,"1,30","1,30","1,30",3054 80 004 AA 30501
+02,Other Contingencies,"2,04","2,15","2,15","2,15",3054 80 004 AA 30502
+03,Electricity Charges,"54,62","65,00","59,34","65,00",3054 80 004 AA 30503
+04,Service Postage & Postal Expenditure,60,"1,00",92,"1,00",3054 80 004 AA 30504
+310,Contributions,"3,50","3,50","3,50","3,50",3054 80 004 AA 31000
+01,Contribution to Specific Fund,"3,50","3,50","3,50","3,50",3054 80 004 AA 31001
+317,Minor Works,,1,,,3054 80 004 AA 31700
+01,Minor Works,,1,,,3054 80 004 AA 31701
+319,Machinery and Equipments,"8,85","16,01","66,00","16,00",3054 80 004 AA 31900
+01,Purchase,,1,"40,00",,3054 80 004 AA 31901
+03,Maintenance,"8,85","16,00","26,00","16,00",3054 80 004 AA 31903
+321,Motor Vehicles,"3,05","2,85","4,35","4,35",3054 80 004 AA 32100
+02,Maintenance of Functional Vehicles,"3,05","2,85","4,35","4,35",3054 80 004 AA 32102
+324,Materials and Supplies,65,65,70,70,3054 80 004 AA 32400
+01,Materials and Supplies,65,65,70,70,3054 80 004 AA 32401
+333,Payments for Professional and Special Services,"40,36","40,41","51,94","51,94",3054 80 004 AA 33300
+01,Pleaders Fees,3,7,7,7,3054 80 004 AA 33301
+04,Contract Payment,"40,33","40,34","51,87","51,87",3054 80 004 AA 33304
+345,"Petroleum, Oil and Lubricant","15,47","16,90","17,80","19,80",3054 80 004 AA 34500
+01,"Petroleum, Oil and Lubricant","15,47","16,90","17,80","19,80",3054 80 004 AA 34501
+346,"Clothing, Tentage and Stores",40,55,57,60,3054 80 004 AA 34600
+01,"Clothing, Tentage and Stores",40,55,57,60,3054 80 004 AA 34601
+349,Festival Advances,15,,,,3054 80 004 AA 34900
+01,Festival Advances-Debit,"4,05","7,00","11,80","12,00",3054 80 004 AA 34901
+02,Festival Advances-Credit,"-3,90","-7,00","-11,80","-12,00",3054 80 004 AA 34902
+359,Prizes and Awards,2,10,10,10,3054 80 004 AA 35900
+01,Prizes and Awards,2,10,10,10,3054 80 004 AA 35901
+368,"Cost of Books/Note Books/Slates, etc.","3,20","3,20","3,20","3,20",3054 80 004 AA 36800
+01,"Cost of Books/Note Books/Slates, etc.","3,20","3,20","3,20","3,20",3054 80 004 AA 36801
+372,Training,"21,21","21,22","21,22","22,00",3054 80 004 AA 37200
+01,Training,"21,21","21,22","21,22","22,00",3054 80 004 AA 37201
+376,Computer and Accessories,"1,40","1,46","1,45","1,45",3054 80 004 AA 37600
+01,Purchase,,1,,,3054 80 004 AA 37601
+02,Maintenance,90,95,95,95,3054 80 004 AA 37602
+03,Stationery,50,50,50,50,3054 80 004 AA 37603
+AA,Total AA,"25,17,74","19,25,62","26,48,29","38,50,17",
+JF,Operation and Maintenance of Road Measurement and Data Acquisition System in respect of ODR and NH roads.,,,,,3054 80 004 JF 30000
+321,Motor Vehicles,36,"1,50",,,3054 80 004 JF 32100
+02,Maintenance of Functional Vehicles,36,"1,50",,,3054 80 004 JF 32102
+333,Payments for Professional and Special Services,"2,72","4,15",,,3054 80 004 JF 33300
+04,Contract Payment,"2,72","4,15",,,3054 80 004 JF 33304
+345,"Petroleum, Oil and Lubricant",22,45,,,3054 80 004 JF 34500
+01,"Petroleum, Oil and Lubricant",22,45,,,3054 80 004 JF 34501
+JF,Total JF,"3,30","6,10",,,
+JG,Research on Performance of bituminous pavement laid on stabilized subbaze - Scheme under State Innovation Fund,,,,,3054 80 004 JG 30000
+309,Grants-in-Aid,"11,00","12,00","12,00",1,3054 80 004 JG 30900
+03,Grants for Specific Schemes,"11,00","12,00","12,00",1,3054 80 004 JG 30903
+JG,Total JG,"11,00","12,00","12,00",1,
+JI,Bridge instrumentation for Structural Health Monitoring System - Scheme under State Innovation Fund,,,,,3054 80 004 JI 30000
+309,Grants-in-Aid,"36,48","13,00","13,57",1,3054 80 004 JI 30900
+03,Grants for Specific Schemes,"36,48","13,00","13,57",1,3054 80 004 JI 30903
+JI,Total JI,"36,48","13,00","13,57",1,
+JK,Study on the technology of long pavement with aid of Circular Test Track - Scheme under State Innovation Fund,,,,,3054 80 004 JK 30000
+309,Grants-in-Aid,"1,20,02","70,00","69,43",1,3054 80 004 JK 30900
+03,Grants for Specific Schemes,"1,20,02","70,00","69,43",1,3054 80 004 JK 30903
+JK,Total JK,"1,20,02","70,00","69,43",1,
+JL,Study on effect of Nano Clay in Bituminous mixes under State Innovation Fund,,,,,3054 80 004 JL 30000
+333,Payments for Professional and Special Services,"4,00",,,,3054 80 004 JL 33300
+03,Special Service,"4,00",,,,3054 80 004 JL 33303
+JL,Total JL,"4,00",,,,
+JM,Operation and Maintenance of Advanced Data Collection Equipments,,,,,3054 80 004 JM 30000
+319,Machinery and Equipments,"12,00","6,94","6,94","6,94",3054 80 004 JM 31900
+03,Maintenance,"12,00","6,94","6,94","6,94",3054 80 004 JM 31903
+321,Motor Vehicles,9,"1,00","1,00","1,00",3054 80 004 JM 32100
+02,Maintenance of Functional Vehicles,9,"1,00","1,00","1,00",3054 80 004 JM 32102
+333,Payments for Professional and Special Services,,"9,60","3,64","3,64",3054 80 004 JM 33300
+04,Contract Payment,,"9,60","3,64","3,64",3054 80 004 JM 33304
+345,"Petroleum, Oil and Lubricant",7,"2,27","3,45","4,10",3054 80 004 JM 34500
+01,"Petroleum, Oil and Lubricant",7,"2,27","3,45","4,10",3054 80 004 JM 34501
+JM,Total JM,"12,16","19,81","15,03","15,68",
+JN,Study on the performance of jute fibre reinforced cold bituminous mixes - Scheme  under State Innovation Fund,,,,,3054 80 004 JN 30000
+333,Payments for Professional and Special Services,,,"2,40","9,60",3054 80 004 JN 33300
+03,Special Service,,,"2,40","9,60",3054 80 004 JN 33303
+JN,Total JN,,,"2,40","9,60",
+JO,Study on the efficiency of curing compounds on concrete pavement - Scheme  under State Innovation Fund,,,,,3054 80 004 JO 30000
+333,Payments for Professional and Special Services,,,"1,00","4,00",3054 80 004 JO 33300
+03,Special Service,,,"1,00","4,00",3054 80 004 JO 33303
+JO,Total JO,,,"1,00","4,00",
+#,State's Expenditure Total,"27,04,70","20,46,53","27,61,72","38,79,48",
+004,Total 004,"27,04,70","20,46,53","27,61,72","38,79,48",
+902,Deduct - Amount met from Reserve Fund,,,,,
+#,State's Expenditure,,,,,
+JD,Deduct - Amount met from State Innovation Fund,,,,,3054 80 902 JD 30000
+330,Inter-Account Transfers,"-1,71,50","-95,00","-98,40","-13,60",3054 80 902 JD 33000
+01,Inter-Account Transfers,"-1,71,50","-95,00","-98,40","-13,60",3054 80 902 JD 33001
+JD,Total JD,"-1,71,50","-95,00","-98,40","-13,60",
+#,State's Expenditure Total,"-1,71,50","-95,00","-98,40","-13,60",
+902,Total 902,"-1,71,50","-95,00","-98,40","-13,60",
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+AA,Research Station (Highways),,,,,3054 80 911 AA 30000
+377,Deduct-Recoveries,-4,,,,3054 80 911 AA 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-4,,,,3054 80 911 AA 37702
+AA,Total AA,-4,,,,
+#,State's Expenditure Total,-4,,,,
+911,Total 911,-4,,,,
+80,Total 80,"25,33,16","19,51,53","26,63,32","38,65,88",
+3054,Total 3054,"25,33,16","19,51,53","26,63,32","38,65,88",

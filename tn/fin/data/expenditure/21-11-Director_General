@@ -1,0 +1,83 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+3054,ROADS AND BRIDGES,,,,,
+80,General,,,,,
+001,Direction and Administration,,,,,
+#,State's Expenditure,,,,,
+BA,"Director General, Highways",,,,,3054 80 001 BA 30000
+301,Salaries,"4,53,70","5,22,62","4,76,45","7,55,64",3054 80 001 BA 30100
+01,Pay,"4,01,46","4,58,95","4,21,53","6,87,85",3054 80 001 BA 30101
+02,Medical Allowance,"2,30","3,00","2,37","3,13",3054 80 001 BA 30102
+03,Medical Charges,14,40,40,40,3054 80 001 BA 30103
+04,Other Allowances,"1,62","2,24","1,72","2,80",3054 80 001 BA 30104
+06,House Rent Allowance,"40,75","47,97","42,78","52,66",3054 80 001 BA 30106
+07,Travel Concession,6,29,29,29,3054 80 001 BA 30107
+08,City Compensatory Allowance,"7,37","9,77","7,36","8,51",3054 80 001 BA 30108
+303,Dearness Allowance,"1,66,01","2,00,56","1,62,93","1,71,08",3054 80 001 BA 30300
+01,Dearness Allowance,"1,66,01","2,00,56","1,62,93","1,71,08",3054 80 001 BA 30301
+304,Travel Expenses,"2,21","3,15","3,15","3,15",3054 80 001 BA 30400
+01,Tour Travelling Allowances,"2,21","2,75","2,75","2,75",3054 80 001 BA 30401
+02,Transfer Travelling Allowances,,40,40,40,3054 80 001 BA 30402
+305,Office Expenses,"62,99","78,08","77,78","77,78",3054 80 001 BA 30500
+01,Telephone Charges,91,"1,60","1,30","1,30",3054 80 001 BA 30501
+02,Other Contingencies,"1,61","1,73","1,73","1,73",3054 80 001 BA 30502
+03,Electricity Charges,"59,47","73,00","73,00","73,00",3054 80 001 BA 30503
+04,Service Postage & Postal Expenditure,"1,00","1,75","1,75","1,75",3054 80 001 BA 30504
+308,Advertising and Publicity,,2,1,1,3054 80 001 BA 30800
+01,Advertisement Charges,,1,1,1,3054 80 001 BA 30801
+02,Exhibition,,1,,,3054 80 001 BA 30802
+312,Scholarships and Stipends,,1,,,3054 80 001 BA 31200
+09,Others,,1,,,3054 80 001 BA 31209
+321,Motor Vehicles,"1,29,96",,,,3054 80 001 BA 32100
+01,Purchase,"1,29,96",,,,3054 80 001 BA 32101
+333,Payments for Professional and Special Services,"20,43","2,22","9,76","7,01",3054 80 001 BA 33300
+01,Pleaders Fees,"17,43","2,20","4,95","2,20",3054 80 001 BA 33301
+02,Remuneration,30,1,"4,80","4,80",3054 80 001 BA 33302
+04,Contract Payment,"2,70",1,1,1,3054 80 001 BA 33304
+346,"Clothing, Tentage and Stores",10,20,20,20,3054 80 001 BA 34600
+01,"Clothing, Tentage and Stores",10,20,20,20,3054 80 001 BA 34601
+349,Festival Advances,12,,,,3054 80 001 BA 34900
+01,Festival Advances-Debit,"1,80","3,60","8,00","8,00",3054 80 001 BA 34901
+02,Festival Advances-Credit,"-1,68","-3,60","-8,00","-8,00",3054 80 001 BA 34902
+359,Prizes and Awards,,10,10,10,3054 80 001 BA 35900
+01,Prizes and Awards,,10,10,10,3054 80 001 BA 35901
+372,Training,"1,36","1,22","1,31","1,22",3054 80 001 BA 37200 
+01,Training,"1,36","1,22","1,31","1,22",3054 80 001 BA 37201
+376,Computer and Accessories,"1,75","1,77","1,87","1,87",3054 80 001 BA 37600
+01,Purchase,,1,1,1,3054 80 001 BA 37601
+02,Maintenance,,1,1,1,3054 80 001 BA 37602
+03,Stationery,"1,75","1,75","1,85","1,85",3054 80 001 BA 37603
+BA,Total BA,"8,38,63","8,09,95","7,33,56","10,18,06",
+BB,Information Technology Cell of Highways Department,,,,,3054 80 001 BB 30000
+372,Training,1,1,1,1,3054 80 001 BB 37200
+01,Training,1,1,1,1,3054 80 001 BB 37201
+376,Computer and Accessories,"2,00,94","2,01,13","88,69","1,06,93",3054 80 001 BB 37600
+01,Purchase,96,"1,04",,,3054 80 001 BB 37601
+02,Maintenance,"1,99,84","1,99,99","88,54","1,06,78",3054 80 001 BB 37602
+03,Stationery,14,10,15,15,3054 80 001 BB 37603
+BB,Total BB,"2,00,95","2,01,14","88,70","1,06,94",
+BC,Tamil Nadu State Highways Development Authority,,,,,3054 80 001 BC 30000
+301,Salaries,,15,7,7,3054 80 001 BC 30100
+01,Pay,,3,1,1,3054 80 001 BC 30101
+02,Medical Allowance,,3,1,1,3054 80 001 BC 30102
+03,Medical Charges,,2,1,1,3054 80 001 BC 30103
+04,Other Allowances,,2,1,1,3054 80 001 BC 30104
+06,House Rent Allowance,,2,1,1,3054 80 001 BC 30106
+07,Travel Concession,,1,1,1,3054 80 001 BC 30107
+08,City Compensatory Allowance,,2,1,1,3054 80 001 BC 30108
+303,Dearness Allowance,,1,1,1,3054 80 001 BC 30300
+01,Dearness Allowance,,1,1,1,3054 80 001 BC 30301
+BC,Total BC,16,8,8,,
+#,State's Expenditure Total,"10,39,58","10,11,25","8,22,34","11,25,08",
+001,Total 001,"10,39,58","10,11,25","8,22,34","11,25,08",
+004,Research and Development,,,,,
+#,State's Expenditure,,,,,
+JE,Operation and Maintenance of Advanced Data Collection Equipments (ADCEs) in respect of SH/MDR/NHAI roads.,,,,,3054 80 004 JE 30000
+321,Motor Vehicles,,1,,,3054 80 004 JE 32100
+02,Maintenance of Functional Vehicles,,1,,,3054 80 004 JE 32102
+345,"Petroleum, Oil and Lubricant",,1,,,3054 80 004 JE 34500
+01,"Petroleum, Oil and Lubricant",,1,,,3054 80 004 JE 34501
+JE,Total JE,,2,,,
+#,State's Expenditure Total,,2,,,
+004,Total 004,,2,,,
+80,Total 80,"10,39,58","10,11,27","8,22,34","11,25,08",
+3054,Total 3054,"10,39,58","10,11,27","8,22,34","11,25,08",

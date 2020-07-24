@@ -1,0 +1,84 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+3054,ROADS AND BRIDGES,,,,,
+80,General,,,,,
+004,Research and Development,,,,,
+#,State's Expenditure,,,,,
+AB,Designs (Highways),,,,,3054 80 004 AB 30000
+301,Salaries,"2,96,59","3,78,21","3,55,21","7,16,49",3054 80 004 AB 30100
+01,Pay,"2,63,82","3,20,00","3,15,60","6,47,83",3054 80 004 AB 30101
+02,Medical Allowance,"1,17","2,02","1,57","2,56",3054 80 004 AB 30102
+03,Medical Charges,,,20,20,3054 80 004 AB 30103
+04,Other Allowances,65,80,64,85,3054 80 004 AB 30104
+06,House Rent Allowance,"26,10","48,00","31,50","56,04",3054 80 004 AB 30106
+07,Travel Concession,,20,20,30,3054 80 004 AB 30107
+08,City Compensatory Allowance,"4,85","7,19","5,50","8,71",3054 80 004 AB 30108
+303,Dearness Allowance,"2,44,25","41,60","2,84,64","3,04,48",3054 80 004 AB 30300
+01,Dearness Allowance,"2,44,25","41,60","2,84,64","3,04,48",3054 80 004 AB 30301
+304,Travel Expenses,"1,20","2,10","2,06","2,10",3054 80 004 AB 30400
+01,Tour Travelling Allowances,"1,20","2,00","2,00","2,00",3054 80 004 AB 30401
+02,Transfer Travelling Allowances,,10,6,10,3054 80 004 AB 30402
+305,Office Expenses,"2,58","2,80","2,80","2,90",3054 80 004 AB 30500
+01,Telephone Charges,53,70,70,70,3054 80 004 AB 30501
+02,Other Contingencies,"2,00","2,00","2,00","2,10",3054 80 004 AB 30502
+04,Service Postage & Postal Expenditure,5,10,10,10,3054 80 004 AB 30504
+333,Payments for Professional and Special Services,,1,,,3054 80 004 AB 33300
+03,Special Service,,1,,,3054 80 004 AB 33303
+345,"Petroleum, Oil and Lubricant","1,98","3,00","3,00","3,10",3054 80 004 AB 34500
+01,"Petroleum, Oil and Lubricant","1,98","3,00","3,00","3,10",3054 80 004 AB 34501
+346,"Clothing, Tentage and Stores",6,6,6,6,3054 80 004 AB 34600
+01,"Clothing, Tentage and Stores",6,6,6,6,3054 80 004 AB 34601
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,80,"2,10","7,10","7,10",3054 80 004 AB 34901
+02,Festival Advances-Credit,-80,"-2,10","-7,10","-7,10",3054 80 004 AB 34902
+359,Prizes and Awards,,4,4,4,3054 80 004 AB 35900
+01,Prizes and Awards,,4,4,4,3054 80 004 AB 35901
+368,"Cost of Books/Note Books/Slates, etc.",9,9,7,7,3054 80 004 AB 36800
+01,"Cost of Books/Note Books/Slates, etc.",9,9,7,7,3054 80 004 AB 36801
+376,Computer and Accessories,"3,16","3,16","3,16","3,16",3054 80 004 AB 37600
+01,Purchase,1,1,1,1,3054 80 004 AB 37601
+02,Maintenance,"2,00","2,00","2,00","2,00",3054 80 004 AB 37602
+03,Stationery,"1,15","1,15","1,15","1,15",3054 80 004 AB 37603
+AB,Total AB,"5,49,91","4,31,07","6,51,04","10,32,40",
+AF,Investigation (Highways),,,,,3054 80 004 AF 30000
+301,Salaries,"3,79,78","4,37,50","3,20,27","6,05,63",3054 80 004 AF 30100
+01,Pay,"3,54,54","4,04,82","2,97,24","5,73,50",3054 80 004 AF 30101
+02,Medical Allowance,"2,14","3,28","1,74","2,77",3054 80 004 AF 30102
+04,Other Allowances,"1,14","1,49","1,24","1,32",3054 80 004 AF 30104
+06,House Rent Allowance,"19,32","24,88","16,64","23,71",3054 80 004 AF 30106
+07,Travel Concession,5,77,77,"1,08",3054 80 004 AF 30107
+08,City Compensatory Allowance,"2,59","2,26","2,64","3,25",3054 80 004 AF 30108
+303,Dearness Allowance,"3,00,58","52,63","2,68,08","2,70,35",3054 80 004 AF 30300
+01,Dearness Allowance,"3,00,58","52,63","2,68,08","2,70,35",3054 80 004 AF 30301
+304,Travel Expenses,"11,16","15,15","13,04","13,72",3054 80 004 AF 30400
+01,Tour Travelling Allowances,"11,15","14,50","12,40","13,12",3054 80 004 AF 30401
+02,Transfer Travelling Allowances,1,65,64,60,3054 80 004 AF 30402
+305,Office Expenses,"3,66","4,91","4,89","4,95",3054 80 004 AF 30500
+01,Telephone Charges,14,50,33,33,3054 80 004 AF 30501
+02,Other Contingencies,"2,46","2,55","2,55","2,45",3054 80 004 AF 30502
+03,Electricity Charges,95,"1,56","1,71","1,86",3054 80 004 AF 30503
+04,Service Postage & Postal Expenditure,11,30,30,31,3054 80 004 AF 30504
+306,"Rent, Rates and Taxes","5,62","6,30","7,31","7,39",3054 80 004 AF 30600
+01,Rent,"5,62","6,30","7,31","7,39",3054 80 004 AF 30601
+321,Motor Vehicles,"2,31","3,00","3,00","3,00",3054 80 004 AF 32100
+02,Maintenance of Functional Vehicles,"2,31","3,00","3,00","3,00",3054 80 004 AF 32102
+333,Payments for Professional and Special Services,"1,02","1,00",92,97,3054 80 004 AF 33300
+04,Contract Payment,"1,02","1,00",92,97,3054 80 004 AF 33304
+345,"Petroleum, Oil and Lubricant","3,72","4,49","4,48","4,70",3054 80 004 AF 34500
+01,"Petroleum, Oil and Lubricant","3,72","4,49","4,48","4,70",3054 80 004 AF 34501
+346,"Clothing, Tentage and Stores",25,42,33,35,3054 80 004 AF 34600
+01,"Clothing, Tentage and Stores",25,42,33,35,3054 80 004 AF 34601
+349,Festival Advances,-21,,,,3054 80 004 AF 34900
+01,Festival Advances-Debit,"1,45","3,40","4,28","5,62",3054 80 004 AF 34901
+02,Festival Advances-Credit,"-1,66","-3,40","-4,28","-5,62",3054 80 004 AF 34902
+359,Prizes and Awards,,6,6,6,3054 80 004 AF 35900
+01,Prizes and Awards,,6,6,6,3054 80 004 AF 35901
+368,"Cost of Books/Note Books/Slates, etc.",2,3,5,5,3054 80 004 AF 36800
+01,"Cost of Books/Note Books/Slates, etc.",2,3,5,5,3054 80 004 AF 36801
+376,Computer and Accessories,"1,10","1,42","1,42","1,42",3054 80 004 AF 37600
+02,Maintenance,55,75,75,75,3054 80 004 AF 37602
+03,Stationery,55,67,67,67,3054 80 004 AF 37603
+AF,Total AF,"7,09,01","5,26,91","6,23,85","9,12,59",
+#,State's Expenditure Total,"12,58,92","9,57,98","12,74,89","19,44,99",
+004,Total 004,"12,58,92","9,57,98","12,74,89","19,44,99",
+80,Total 80,"12,58,92","9,57,98","12,74,89","19,44,99",
+3054,Total 3054,"12,58,92","9,57,98","12,74,89","19,44,99",

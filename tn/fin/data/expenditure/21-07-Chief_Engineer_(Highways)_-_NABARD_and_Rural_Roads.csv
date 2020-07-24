@@ -1,0 +1,163 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+3054,ROADS AND BRIDGES,,,,,
+03,State Highways,,,,,
+052,Machinery and Equipment,,,,,
+#,State's Expenditure,,,,,
+AL,New supplies - Rural Roads,,,,,3054 03 052 AL 30000
+319,Machinery and Equipments,75,75,75,75,3054 03 052 AL 31900
+01,Purchase,75,75,75,75,3054 03 052 AL 31901
+AL,Total AL,75,75,75,75,
+AU,Repairs and Carriages for Motor Vehicles - Rural Roads,,,,,3054 03 052 AU 30000
+319,Machinery and Equipments,50,50,50,50,3054 03 052 AU 31900
+03,Maintenance,50,50,50,50,3054 03 052 AU 31903
+321,Motor Vehicles,"21,89","22,91","22,91","22,91",3054 03 052 AU 32100
+02,Maintenance of Functional Vehicles,"21,89","22,91","22,91","22,91",3054 03 052 AU 32102
+345,"Petroleum, Oil and Lubricant","37,13","43,92","43,56","45,42",3054 03 052 AU 34500
+01,"Petroleum, Oil and Lubricant","37,13","43,92","43,56","45,42",3054 03 052 AU 34501
+AU,Total AU,"59,52","67,33","66,97","68,83",
+#,State's Expenditure Total,"60,27","68,08","67,72","69,58",
+052,Total 052,"60,27","68,08","67,72","69,58",
+03,Total 03,"60,27","68,08","67,72","69,58",
+80,General,,,,,
+001,Direction and Administration,,,,,
+#,State's Expenditure,,,,,
+AY,Special staff for improvement and Restoration of Rural Roads,,,,,3054 80 001 AY 30000
+301,Salaries,"24,85,67","24,79,36","40,39,79","42,64,11",3054 80 001 AY 30100
+01,Pay,"23,12,98","22,53,69","38,38,94","40,06,01",3054 80 001 AY 30101
+02,Medical Allowance,"14,44","18,28","15,89","16,53",3054 80 001 AY 30102
+03,Medical Charges,30,60,50,50,3054 80 001 AY 30103
+04,Other Allowances,"13,90","13,59","14,00","16,45",3054 80 001 AY 30104
+06,House Rent Allowance,"1,30,65","1,78,51","1,54,18","2,07,10",3054 80 001 AY 30106
+07,Travel Concession,"1,23","2,00","2,00","2,00",3054 80 001 AY 30107
+08,City Compensatory Allowance,"12,17","12,69","14,28","15,52",3054 80 001 AY 30108
+303,Dearness Allowance,"12,28,63","13,90,00","14,68,60","15,27,34",3054 80 001 AY 30300
+01,Dearness Allowance,"12,28,63","13,90,00","14,68,60","15,27,34",3054 80 001 AY 30301
+304,Travel Expenses,"93,22","1,38,34","1,37,74","1,37,74",3054 80 001 AY 30400
+01,Tour Travelling Allowances,"92,86","1,37,34","1,37,34","1,37,34",3054 80 001 AY 30401
+02,Transfer Travelling Allowances,36,"1,00",40,40,3054 80 001 AY 30402
+305,Office Expenses,"28,11","34,00","32,20","32,41",3054 80 001 AY 30500
+01,Telephone Charges,"2,95","6,00","4,20","4,41",3054 80 001 AY 30501
+02,Other Contingencies,"10,98","11,00","11,00","11,00",3054 80 001 AY 30502
+03,Electricity Charges,"11,64","13,00","14,00","14,00",3054 80 001 AY 30503
+04,Service Postage & Postal Expenditure,"2,54","4,00","3,00","3,00",3054 80 001 AY 30504
+306,"Rent, Rates and Taxes","41,28","44,88","45,03","47,11",3054 80 001 AY 30600
+01,Rent,"40,14","43,80","43,80","45,88",3054 80 001 AY 30601
+02,Property tax,"1,14","1,08","1,23","1,23",3054 80 001 AY 30602
+333,Payments for Professional and Special Services,"16,12","19,01","25,22","20,77",3054 80 001 AY 33300
+01,Pleaders Fees,16,1,"6,45","2,50",3054 80 001 AY 33301
+03,Special Service,,,50,,3054 80 001 AY 33303
+04,Contract Payment,"15,96","19,00","18,27","18,27",3054 80 001 AY 33304
+346,"Clothing, Tentage and Stores","1,72","1,10","1,10","1,10",3054 80 001 AY 34600
+01,"Clothing, Tentage and Stores","1,72","1,10","1,10","1,10",3054 80 001 AY 34601
+349,Festival Advances,"-1,05",,,,3054 80 001 AY 34900
+01,Festival Advances-Debit,"12,75","22,50","56,60","56,60",3054 80 001 AY 34901
+02,Festival Advances-Credit,"-13,80","-22,50","-56,60","-56,60",3054 80 001 AY 34902
+351,Compensation Charged,,1,1,1,3054 80 001 AY 35100
+51,Claims under no fault liability -  principal charges Charged,,1,1,1,3054 80 001 AY 35151
+359,Prizes and Awards,4,30,20,10,3054 80 001 AY 35900
+01,Prizes and Awards,4,30,20,10,3054 80 001 AY 35901
+368,"Cost of Books/Note Books/Slates, etc.",17,20,20,20,3054 80 001 AY 36800
+01,"Cost of Books/Note Books/Slates, etc.",17,20,20,20,3054 80 001 AY 36801
+376,Computer and Accessories,"5,32","6,04","6,04","6,04",3054 80 001 AY 37600
+02,Maintenance,"2,54","2,89","2,89","2,89",3054 80 001 AY 37602
+03,Stationery,"2,78","3,15","3,15","3,15",3054 80 001 AY 37603
+AY,Total AY Charged,,1,1,1,
+AY,Total AY Voted,"38,99,23","41,13,23","57,56,12","60,36,92",
+#,State's Expenditure Total Charged,,1,1,1,
+#,State's Expenditure Total Voted,"38,99,23","41,13,23","57,56,12","60,36,92",
+001,Total 001 Charged,,1,1,1,
+001,Total 001 Voted,"38,99,23","41,13,23","57,56,12","60,36,92",
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+AY,Special staff for improvement and Restoration of Rural Roads,,,,,3054 80 911 AY 30000
+377,Deduct-Recoveries,"-23,41",,,,3054 80 911 AY 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-23,41",,,,3054 80 911 AY 37702
+AY,Total AY,"-23,41",,,,
+#,State's Expenditure Total,"-23,41",,,,
+911,Total 911,"-23,41",,,,
+80,Total 80 Charged,,1,1,1,
+80,Total 80 Voted,"38,75,82","41,13,23","57,56,12","60,36,92",
+3054,Total 3054 Charged,,1,1,1,
+3054,Total 3054 Voted,"39,36,09","41,81,31","58,23,84","61,06,50",
+5054,CAPITAL OUTLAY ON ROADS AND BRIDGES,,,,,
+04,District and other Roads,,,,,
+337,Road Works,,,,,
+#,State's Expenditure,,,,,
+JI,Improvements to Rural Roads with loan assistance from NABARD,,,,,5054 04 337 JI 40000
+416,Major Works,,1,"31,97","3,83,90",5054 04 337 JI 41600
+01,Major Works,,1,"31,97","3,83,90",5054 04 337 JI 41601
+464,Lands,,1,"3,80,00",1,5054 04 337 JI 46400
+01,Lands - Voted,,1,"3,80,00",1,5054 04 337 JI 46401
+JI,Total JI,2,"4,11,97","3,83,91",,
+JJ,Improvement to Bus Routes with loan assistance from NABARD,,,,,5054 04 337 JJ 40000
+416,Major Works,,1,,,5054 04 337 JJ 41600
+01,Major Works,,1,,,5054 04 337 JJ 41601
+464,Lands,,1,,,5054 04 337 JJ 46400
+01,Lands - Voted,,1,,,5054 04 337 JJ 46401
+JJ,Total JJ,2,,,,
+JK,Improvement to District and other Roads with loan assistance from NABARD,,,,,5054 04 337 JK 40000
+416,Major Works,"31,59",11,"45,22",,5054 04 337 JK 41600
+01,Major Works,"31,59",11,"45,22",,5054 04 337 JK 41601
+464,Lands,,1,,,5054 04 337 JK 46400
+01,Lands - Voted,,1,,,5054 04 337 JK 46401
+JK,Total JK,"31,59",12,"45,22",,
+JX,Construction / Reconstruction of bridges and improvement of roads with loan assistance from NABARD,,,,,5054 04 337 JX 40000
+416,Major Works,"84,99",1,"8,15",,5054 04 337 JX 41600
+01,Major Works,"84,99",1,"8,15",,5054 04 337 JX 41601
+JX,Total JX,"84,99",1,"8,15",,
+JZ,Construction/ Reconstruction of Bridges with Loan Assistance from NABARD,,,,,5054 04 337 JZ 40000
+416,Major Works,"1,14,82,62","2,99,60,00","2,60,00,00","3,23,01,14",5054 04 337 JZ 41600
+01,Major Works,"1,14,82,62","2,99,60,00","2,60,00,00","3,23,01,14",5054 04 337 JZ 41601
+464,Lands,"28,90",1,1,1,5054 04 337 JZ 46400
+01,Lands - Voted,"28,90",1,1,1,5054 04 337 JZ 46401
+477,Deduct-Recoveries,-80,,,,5054 04 337 JZ 47700
+02,Recoveries of Overpayments / Remittance of excess drawals,-80,,,,5054 04 337 JZ 47702
+JZ,Total JZ,"1,15,10,72","2,99,60,01","2,60,00,01","3,23,01,15",
+KA,Bye Pass Works,,,,,5054 04 337 KA 40000
+464,Lands,"16,61,13","11,32,00","9,49,70","1,05,49,57",5054 04 337 KA 46400
+01,Lands - Voted,"16,61,13","11,32,00","9,49,70","1,05,49,57",5054 04 337 KA 46401
+KA,Total KA,"16,61,13","11,32,00","9,49,70","1,05,49,57",
+KD,Upgradation of Panchayat Union Roads / Panchayat Roads,,,,,5054 04 337 KD 40000
+416,Major Works,"4,36,98,76","10,50,00,00","10,50,00,00","10,50,00,00",5054 04 337 KD 41600
+01,Major Works,"4,36,98,76","10,50,00,00","10,50,00,00","10,50,00,00",5054 04 337 KD 41601
+KD,Total KD,"4,36,98,76","10,50,00,00","10,50,00,00","10,50,00,00",
+KE,Upgradation of Panchayat Union Roads / Panchayat Roads under NABARD Assistance,,,,,5054 04 337 KE 40000
+416,Major Works,,1,,,5054 04 337 KE 41600
+01,Major Works,,1,,,5054 04 337 KE 41601
+KE,Total KE,1,,,,
+KJ,Construction / Re-Construction of Bridges under State Fund,,,,,5054 04 337 KJ 40000
+416,Major Works,,,,"6,77,20",5054 04 337 KJ 41600
+01,Major Works,,,,"6,77,20",5054 04 337 KJ 41601
+KJ,Total KJ,,,"6,77,20",,
+#,State's Expenditure Total,"5,69,87,19","13,60,92,19","13,24,15,05","14,89,11,83",
+337,Total 337,"5,69,87,19","13,60,92,19","13,24,15,05","14,89,11,83",
+789,Special Component Plan for Scheduled Castes,,,,,
+#,State's Expenditure,,,,,
+JA,Improvement to Rural Roads with loan assistance from NABARD under Special Component Plan,,,,,5054 04 789 JA 40000
+416,Major Works,,1,,,5054 04 789 JA 41600
+01,Major Works,,1,,,5054 04 789 JA 41601
+464,Lands,,1,,,5054 04 789 JA 46400
+01,Lands - Voted,,1,,,5054 04 789 JA 46401
+JA,Total JA,2,,,,
+#,State's Expenditure Total,,2,,,
+789,Total 789,2,,,,
+902,Deduct - Amount met from Infrastructure Development Fund,,,,,
+#,State's Expenditure,,,,,
+JC,Amount met from the Infrastructure Development Fund,,,5054 04 902 JC 40000,,
+430,Inter-Account Transfers,"-4,36,98,76","-10,50,00,00","-10,50,00,00","-10,50,00,00",5054 04 902 JC 43000
+01,Inter-Account Transfers,"-4,36,98,76","-10,50,00,00","-10,50,00,00","-10,50,00,00",5054 04 902 JC 43001
+JC,Total JC,"-4,36,98,76","-10,50,00,00","-10,50,00,00","-10,50,00,00",
+#,State's Expenditure Total,"-4,36,98,76","-10,50,00,00","-10,50,00,00","-10,50,00,00",
+902,Total 902,"-4,36,98,76","-10,50,00,00","-10,50,00,00","-10,50,00,00",
+04,Total 04,"1,32,88,43","3,10,92,21","2,74,15,05","4,39,11,83",
+80,General,,,,,
+800,Other Expenditure,,,,,
+#,Externally Aided Project,,,,,
+RN,"Construction of Bridges under Tsunami Emergency Assistance Project (TEAP) with Loan assistance from,Asian Development Bank - Highways",,,,,5054 80 800 RN 40000
+416,Major Works,"1,57",1,"1,57","1,57",5054 80 800 RN 41600
+01,Major Works,"1,57",1,"1,57","1,57",5054 80 800 RN 41601
+RN,Total RN,"1,57",1,"1,57","1,57",
+#,Externally Aided Project Total,"1,57",1,"1,57","1,57",
+800,Total 800,"1,57",1,"1,57","1,57",
+80,Total 80,"1,57",1,"1,57","1,57",
+5054,Total 5054,"1,32,90,00","3,10,92,22","2,74,16,62","4,39,13,40",

@@ -1,0 +1,151 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+3054,ROADS AND BRIDGES,,,,,
+80,General,,,,,
+001,Direction and Administration,,,,,
+#,State's Expenditure,,,,,
+JR,Establishment Charges of special Revenue staff of Project Management Group for implementation of Tamil Nadu Road Sector Project,,,,,3054 80 001 JR 30000
+301,Salaries,"2,77,06","2,70,86","3,73,32","3,81,32",3054 80 001 JR 30100
+01,Pay,"2,65,70","2,49,35","3,51,00","3,54,78",3054 80 001 JR 30101
+02,Medical Allowance,50,"1,20",72,72,3054 80 001 JR 30102
+04,Other Allowances,"4,10","11,19","13,00","16,38",3054 80 001 JR 30104
+06,House Rent Allowance,"5,88","8,22","7,45","8,01",3054 80 001 JR 30106
+07,Travel Concession,,,10,20,3054 80 001 JR 30107
+08,City Compensatory Allowance,88,90,"1,05","1,23",3054 80 001 JR 30108
+303,Dearness Allowance,"6,47","7,57","17,54","20,35",3054 80 001 JR 30300
+01,Dearness Allowance,"6,47","7,57","17,54","20,35",3054 80 001 JR 30301
+304,Travel Expenses,"17,34","15,48","13,89","14,95",3054 80 001 JR 30400
+01,Tour Travelling Allowances,"17,23","15,48","13,58","14,64",3054 80 001 JR 30401
+02,Transfer Travelling Allowances,11,,31,31,3054 80 001 JR 30402
+305,Office Expenses,"12,66","14,30","13,00","12,57",3054 80 001 JR 30500
+01,Telephone Charges,"1,13","2,00","1,92","1,92",3054 80 001 JR 30501
+02,Other Contingencies,"9,84","10,00","8,50","8,00",3054 80 001 JR 30502
+03,Electricity Charges,"1,02","1,30","1,58","1,65",3054 80 001 JR 30503
+04,Service Postage & Postal Expenditure,67,"1,00","1,00","1,00",3054 80 001 JR 30504
+306,"Rent, Rates and Taxes","3,48","3,48","3,48","3,38",3054 80 001 JR 30600
+01,Rent,"3,48","3,48","3,48","3,38",3054 80 001 JR 30601
+333,Payments for Professional and Special Services,"32,84","40,00","54,60","59,60",3054 80 001 JR 33300
+01,Pleaders Fees,,,,"5,00",3054 80 001 JR 33301
+04,Contract Payment,"32,84","40,00","54,60","54,60",3054 80 001 JR 33304
+349,Festival Advances,-19,,,,3054 80 001 JR 34900
+01,Festival Advances-Debit,5,70,70,70,3054 80 001 JR 34901
+02,Festival Advances-Credit,-24,-70,-70,-70,3054 80 001 JR 34902
+376,Computer and Accessories,"1,20",88,73,73,3054 80 001 JR 37600
+02,Maintenance,"1,20",88,73,73,3054 80 001 JR 37602
+JR,Total JR,"3,50,86","3,52,57","4,76,56","4,92,90",
+JS,Establishment Charges of special staff for Environment Project Management Group  of Tamil Nadu Road Sector Project,,,,,3054 80 001 JS 30000
+301,Salaries,,,"16,53","17,32",3054 80 001 JS 30100
+01,Pay,,,"13,50","13,80",3054 80 001 JS 30101
+02,Medical Allowance,,,4,4,3054 80 001 JS 30102
+04,Other Allowances,,,93,"1,17",3054 80 001 JS 30104
+06,House Rent Allowance,,,"1,91","2,13",3054 80 001 JS 30106
+08,City Compensatory Allowance,,,15,18,3054 80 001 JS 30108
+303,Dearness Allowance,,,"1,15","1,19",3054 80 001 JS 30300
+01,Dearness Allowance,,,"1,15","1,19",3054 80 001 JS 30301
+304,Travel Expenses,9,,15,68,3054 80 001 JS 30400
+01,Tour Travelling Allowances,9,,15,68,3054 80 001 JS 30401
+305,Office Expenses,10,25,25,25,3054 80 001 JS 30500
+02,Other Contingencies,10,25,25,25,3054 80 001 JS 30502
+333,Payments for Professional and Special Services,"5,28","7,90","7,50","9,30",3054 80 001 JS 33300
+04,Contract Payment,"5,28","7,90","7,50","9,30",3054 80 001 JS 33304
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,30,20,30,3054 80 001 JS 34901
+02,Festival Advances-Credit,,-30,-20,-30,3054 80 001 JS 34902
+JS,Total JS,"5,47","8,15","25,58","28,74",
+JV,Establishment Charges for Project Management Group for implementation of Tamil Nadu Road Sector Project,,,,,3054 80 001 JV 30000
+301,Salaries,"5,71,86","5,26,10","6,76,39","7,12,62",3054 80 001 JV 30100
+01,Pay,"4,90,16","4,47,36","5,76,50","5,93,16",3054 80 001 JV 30101
+02,Medical Allowance,"2,06","2,48","3,13","3,13",3054 80 001 JV 30102
+03,Medical Charges,,44,21,21,3054 80 001 JV 30103
+04,Other Allowances,"42,79","45,22","52,95","66,80",3054 80 001 JV 30104
+06,House Rent Allowance,"32,35","27,42","38,16","42,67",3054 80 001 JV 30106
+07,Travel Concession,14,40,30,40,3054 80 001 JV 30107
+08,City Compensatory Allowance,"4,36","2,78","5,14","6,25",3054 80 001 JV 30108
+303,Dearness Allowance,"2,63,20","83,00","2,81,43","2,90,58",3054 80 001 JV 30300
+01,Dearness Allowance,"2,63,20","83,00","2,81,43","2,90,58",3054 80 001 JV 30301
+304,Travel Expenses,"20,51","20,74","25,18","25,59",3054 80 001 JV 30400
+01,Tour Travelling Allowance,"20,35","19,52","24,27","24,68",3054 80 001 JV 30401
+02,Transfer Travelling Allowances,16,"1,22",91,91,3054 80 001 JV 30402
+305,Office Expenses,"27,22","28,03","31,09","32,48",3054 80 001 JV 30500 
+01,Telephone Charges,"2,90","3,45","3,53","3,53",3054 80 001 JV 30501
+02,Other Contingencies,"8,00","5,18","6,68","7,18",3054 80 001 JV 30502
+03,Electricity Charges,"15,65","18,24","19,93","20,73",3054 80 001 JV 30503
+04,Service Postage & Postal Expenditure,67,"1,15",95,"1,04",3054 80 001 JV 30504
+05,Furniture,,1,,,3054 80 001 JV 30505
+306,"Rent, Rates and Taxes","12,69","16,33","12,25","12,26",3054 80 001 JV 30600
+01,Rent,"12,56","16,12","12,04","12,04",3054 80 001 JV 30601 
+02,Property tax,13,21,21,22,3054 80 001 JV 30602
+333,Payments for Professional and Special Services,"1,13,50","1,41,84","1,40,87","1,43,20",3054 80 001 JV 33300
+01,Pleaders Fees,82,"2,10","22,39","30,00",3054 80 001 JV 33301
+02,Remuneration,"10,53","10,54","3,48",,3054 80 001 JV 33302
+04,Contract Payment,"1,02,15","1,29,20","1,15,00","1,13,20",3054 80 001 JV 33304
+346,"Clothing, Tentage and Stores",13,10,10,10,3054 80 001 JV 34600
+01,"Clothing, Tentage and Stores",13,10,10,10,3054 80 001 JV 34601
+349,Festival Advances,-47,,,,3054 80 001 JV 34900
+01,Festival Advances-Debit,"1,15","5,73","7,25","7,54",3054 80 001 JV 34901
+02,Festival Advances-Credit,"-1,62","-5,73","-7,25","-7,54",3054 80 001 JV 34902
+359,Prizes and Awards,,10,10,10,3054 80 001 JV 35900
+01,Prizes and Awards,,10,10,10,3054 80 001 JV 35901
+372,Training,,1,,,3054 80 001 JV 37200
+01,Training,,1,,,3054 80 001 JV 37201
+376,Computer and Accessories,"1,74","1,91","2,43","2,43",3054 80 001 JV 37600
+01,Purchase,,1,,,3054 80 001 JV 37601
+02,Maintenance,35,40,65,65,3054 80 001 JV 37602
+03,Stationery,"1,39","1,50","1,78","1,78",3054 80 001 JV 37603
+JV,Total JV,"10,10,38","8,18,16","11,69,84","12,19,36",
+JW,Establishment and other Charges for Tamil Nadu Road Sector Project Phase - II,,,,,3054 80 001 JW 30000
+306,"Rent, Rates and Taxes","88,07","43,18","93,96","50,50",3054 80 001 JW 30600
+01,Rent,"88,07","43,18","93,96","50,50",3054 80 001 JW 30601
+318,Maintenance,"9,66","12,00","12,00","12,48",3054 80 001 JW 31800
+01,Periodical Maintenance,"9,66","12,00","12,00","12,48",3054 80 001 JW 31801
+319,Machinery and Equipments,"3,82","5,85","5,84","5,84",3054 80 001 JW 31900
+01,Purchase,,1,,,3054 80 001 JW 31901
+03,Maintenance,"3,82","5,84","5,84","5,84",3054 80 001 JW 31903
+321,Motor Vehicles,"17,64","19,01","19,00","19,76",3054 80 001 JW 32100
+01,Purchase,,1,,,3054 80 001 JW 32101
+02,Maintenance of Functional Vehicles,"17,64","19,00","19,00","19,76",3054 80 001 JW 32102
+345,"Petroleum, Oil and Lubricant","41,39","61,98","55,63","58,01",3054 80 001 JW 34500
+01,"Petroleum, Oil and Lubricant","41,39","61,98","55,63","58,01",3054 80 001 JW 34501
+376,Computer and Accessories,"2,08","1,92","1,54","1,54",3054 80 001 JW 37600
+02,Maintenance,"1,04",92,82,82,3054 80 001 JW 37602
+03,Stationery,"1,04","1,00",72,72,3054 80 001 JW 37603
+JW,Total JW,"1,62,66","1,43,94","1,87,97","1,48,13",
+#,State's Expenditure Total,"15,29,37","13,22,82","18,59,95","18,89,13",
+001,Total 001,"15,29,37","13,22,82","18,59,95","18,89,13",
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+JV,Establishment Charges for Project Management Group for implementation of Tamil Nadu Road Sector Project,,,,,3054 80 911 JV 30000
+377,Deduct-Recoveries,-12,,,,3054 80 911 JV 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-12,,,,3054 80 911 JV 37702
+JV,Total JV,-12,,,,
+#,State's Expenditure Total,-12,,,,
+911,Total 911,-12,,,,
+80,Total 80,"15,29,25","13,22,82","18,59,95","18,89,13",
+3054,Total 3054,"15,29,25","13,22,82","18,59,95","18,89,13",
+5054,CAPITAL OUTLAY ON ROADS AND BRIDGES,,,,,
+80,General,,,,,
+800,Other Expenditure,,,,,
+#,Externally Aided Projects Externally Aided Project,,,,,
+PB,Tamil Nadu Road Sector Project,,,,,5054 80 800 PB 40000
+416,Major Works,"3,03,76",1,1,1,5054 80 800 PB 41600
+01,Major Works,"3,03,76",1,1,1,5054 80 800 PB 41601
+464,Lands Charged,"3,82",,"35,77",1,5054 80 800 PB 46400
+464,Lands Voted,,1,1,1,5054 80 800 PB 46400
+01,Lands - Voted,,1,1,1,5054 80 800 PB 46401
+51,Lands Charged,"3,82",,"35,77",1,5054 80 800 PB 46451
+477,Deduct-Recoveries,"-4,50,31",,,,5054 80 800 PB 47700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-4,50,31",,,,5054 80 800 PB 47702
+PB,Total PB Charged,"3,82",,"35,77",1,
+PB,Total PB Voted,"-1,46,55",2,2,2,
+PC,Tamil Nadu Road Sector Project Phase - II,,,,,5054 80 800 PC 40000
+416,Major Works,"3,36,43,16","3,59,73,62","3,77,16,17","5,94,06,19",5054 80 800 PC 41600
+01,Major Works,"3,36,43,16","3,59,73,62","3,77,16,17","5,94,06,19",5054 80 800 PC 41601
+464,Lands,"40,94,20","1,00,00,00","1,00,00,00","20,00,00",5054 80 800 PC 46400
+01,Lands - Voted,"40,94,20","1,00,00,00","1,00,00,00","20,00,00",5054 80 800 PC 46401
+PC,Total PC,"3,77,37,36","4,59,73,62","4,77,16,17","6,14,06,19",
+#,Externally Aided Projects Total Charged,"3,82",,"35,77",1,
+800,Total 800 Charged,"3,82",,"35,77",1,
+800,Total 800 Voted,"3,75,90,81","4,59,73,64","4,77,16,19","6,14,06,21",
+80,Total 80 Charged,"3,82",,"35,77",1,
+80,Total 80 Voted,"3,75,90,81","4,59,73,64","4,77,16,19","6,14,06,21",
+5054,Total 5054 Charged,"3,82",,"35,77",1,
+5054,Total 5054 Voted,"3,75,90,81","4,59,73,64","4,77,16,19","6,14,06,21",

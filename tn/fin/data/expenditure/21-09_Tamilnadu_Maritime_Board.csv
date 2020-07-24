@@ -1,0 +1,25 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+3052,SHIPPING,,,,,
+80,General,,,,,
+190,Assistance to Public Undertakings,,,,,
+#,State's Expenditure,,,,,
+JB,Grants to Tamil Nadu Maritime Board,,,,,3052 80 190 JB 30000
+309,Grants-in-Aid,1,,,,3052 80 190 JB 30900
+02,Grants for Creation of Capital Assets,1,,,,3052 80 190 JB 30902
+JB,Total JB,1,,,,
+#,State's ExpenditureTotal,1,,,,
+190,Total 190,1,,,,
+80,Total 80,1,,,,
+3052,Total 3052,1,,,,
+5052,CAPITAL OUTLAY ON SHIPPING,,,,,
+80,General,,,,,
+800,Other Expenditure,,,,,
+#,Externally Aided Projects Externally Aided Project,,,,,
+RN,Dredging and rehabilitation Works under Tsunami Emergency Assistance Project (TEAP) with Loan assistance from Asian Development Bank - Executed by Tamil Nadu Maritime Board,,,,,5052 80 800 RN 40000
+477,Deduct-Recoveries,"-25,00",,,,5052 80 800 RN 47700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-25,00",,,,5052 80 800 RN 47702
+RN,Total RN,"-25,00",,,,
+#,Externally Aided Projects Total,"-25,00",,,,
+800,Total 800,"-25,00",,,,
+80,Total 80,"-25,00",,,,
+5052,Total 5052,"-25,00",,,,
