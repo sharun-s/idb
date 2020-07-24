@@ -1,0 +1,61 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2217,URBAN DEVELOPMENT,,,,,
+05,Other Urban Development Schemes,,,,,
+190,Assistance to Public Undertakings,,,,,
+#,State's Expenditure,,,,,
+JP,Grants to Chennai Metro Rail Limited as reimbursement of taxes / duties levied by the State,,,,,2217 05 190 JP 30000
+309,Grants-in-Aid,"57,64,00","57,64,00","57,64,00","1,15,00,00",2217 05 190 JP 30900
+03,Grants for Specific Schemes,"57,64,00","57,64,00","57,64,00","1,15,00,00",2217 05 190 JP 30903
+JP,Total JP,"57,64,00","57,64,00","57,64,00","1,15,00,00",
+#,State's Expenditure Total,"57,64,00","57,64,00","57,64,00","1,15,00,00",
+190,Total 190,"57,64,00","57,64,00","57,64,00","1,15,00,00",
+05,Total 05,"57,64,00","57,64,00","57,64,00","1,15,00,00",
+2217,Total 2217,"57,64,00","57,64,00","57,64,00","1,15,00,00",
+4217,CAPITAL OUTLAY ON URBAN DEVELOPMENT,,,,,
+60,Other Urban Development Schemes,,,,,
+190,Investments in Public Sector and Other Undertakings,,,,,
+#,State's Expenditure,,,,,
+JH,Share Capital Assistance to Chennai Metro Rail Limited,,,,,4217 60 190 JH 40000
+422,Investments,"3,82,91,00","7,50,00,00","4,41,00,00","1,00,00,00",4217 60 190 JH 42200
+01,Investments,"3,82,91,00","7,50,00,00","4,41,00,00","1,00,00,00",4217 60 190 JH 42201
+JH,Total JH,"3,82,91,00","7,50,00,00","4,41,00,00","1,00,00,00",
+JY,State Government share in Extension of MRTS from Velacherry to St.Thomas Mount,,,,,4217 60 190 JY 40000
+422,Investments,"30,84,00","1,09,12,00","50,00,00","59,00,00",4217 60 190 JY 42200
+01,Investments,"30,84,00","1,09,12,00","50,00,00","59,00,00",4217 60 190 JY 42201
+JY,Total JY,"30,84,00","1,09,12,00","50,00,00","59,00,00",
+#,State's Expenditure Total,"4,13,75,00","8,59,12,00","4,91,00,00","1,59,00,00",
+190,Total 190,"4,13,75,00","8,59,12,00","4,91,00,00","1,59,00,00",
+60,Total 60,"4,13,75,00","8,59,12,00","4,91,00,00","1,59,00,00",
+4217,Total 4217,"4,13,75,00","8,59,12,00","4,91,00,00","1,59,00,00",
+6216,LOANS FOR HOUSING,,,,,
+02,Urban Housing,,,,,
+190,Loans to Public Sector,,,,,
+#,Externally Aided Projects Externally Aided Project,,,,,
+PB,Loans to CMDA for Tamilnadu Housing and Habitat Development Project,,,,,6216 02 190 PB 50000
+502,Loan - Outgo,,,,"8,00,00",6216 02 190 PB 50200
+01,Bearing Interest,,,,"8,00,00",6216 02 190 PB 50201
+PB,Total PB,,,"8,00,00",,
+#,Externally Aided Projects Total,,,,"8,00,00",
+190,Total 190,,,"8,00,00",,
+02,Total 02,,,"8,00,00",,
+6216,Total 6216,,,"8,00,00",,
+6217,LOANS FOR URBAN DEVELOPMENT,,,,,
+60,Other Urban Development Schemes,,,,,
+190,Loans to Public Sector Externally Aided Project,,,,,
+PH,Loans for Metro Rail Project in Chennai with assistance of Japan International Co-operation Agency (JICA),,,,,6217 60 190 PH 50000
+502,Loan - Outgo,"5,00,00,00","14,31,00,00","2,00,00,00",1,6217 60 190 PH 50200
+01,Bearing Interest,"5,00,00,00","14,31,00,00",,,6217 60 190 PH 50201
+02,Not Bearing Interest,,,"2,00,00,00",1,6217 60 190 PH 50202
+PH,Total PH,"5,00,00,00","14,31,00,00","2,00,00,00",1,
+PL,Loans for Phase II Metro Rail Corridors in Chennai Metropolitan Area with the assistance of Japan International Cooperation Agency (JICA),,,,,6217 60 190 PL 50000
+502,Loan - Outgo,"1,00,00,00","5,00,00,00","50,00,00","15,00,00,00",6217 60 190 PL 50200
+01,Bearing Interest,"1,00,00,00","5,00,00,00","50,00,00","15,00,00,00",6217 60 190 PL 50201
+PL,Total PL,"1,00,00,00","5,00,00,00","50,00,00","15,00,00,00 ",
+PP,State's Sub-ordinate debt for Chennai Metro Rail Project Phase-II,,,,,6217 60 190 PP 50000
+502,Loan - Outgo,,,,"15,00,00,00",6217 60 190 PP 50200
+02,Not Bearing Interest,,,,"15,00,00,00",6217 60 190 PP 50202
+PP,Total PP,,,"15,00,00,00",,
+#,Externally Aided Projects Total,"6,00,00,00","19,31,00,00","2,50,00,00","30,00,00,01",
+190,Total 190,"6,00,00,00","19,31,00,00","2,50,00,00","30,00,00,01",
+60,Total 60,"6,00,00,00","19,31,00,00","2,50,00,00","30,00,00,01",
+6217,Total 6217,"6,00,00,00","19,31,00,00","2,50,00,00","30,00,00,01",

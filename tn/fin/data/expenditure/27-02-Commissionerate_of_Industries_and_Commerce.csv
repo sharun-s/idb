@@ -1,0 +1,354 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2053-00,DISTRICT ADMINISTRATION,,,,,
+094,Other Establishment,,,,,
+#,State's Expenditure,,,,,
+CK,Establishment for acquisition of Lands for Aromatic Complex and other Stream Projects  of Chennai Refineries,,,,,2053 00 094 CK 30000
+301,Salaries,"6,84","13,11","9,97","10,66",2053 00 094 CK 30100
+01,Pay,"5,93","11,22","8,08","8,40",2053 00 094 CK 30101
+02,Medical Allowance,3,8,8,8,2053 00 094 CK 30102
+04,Other Allowances,,4,4,4,2053 00 094 CK 30104
+06,House Rent Allowance,74,"1,45","1,45","1,76",2053 00 094 CK 30106
+07,Travel Concession,,6,6,6,2053 00 094 CK 30107
+08,City Compensatory Allowance,14,26,26,32,2053 00 094 CK 30108
+303,Dearness Allowance,"1,23","1,42","1,29","2,06",2053 00 094 CK 30300
+01,Dearness Allowance,"1,23","1,42","1,29","2,06",2053 00 094 CK 30301
+304,Travel Expenses,,24,24,24,2053 00 094 CK 30400
+01,Tour Travelling Allowances,,24,24,24,2053 00 094 CK 30401
+305,Office Expenses,4,12,12,12,2053 00 094 CK 30500
+02,Other Contingencies,4,5,5,5,2053 00 094 CK 30502
+04,Service Postage & Postal Expenditure,,7,7,7,2053 00 094 CK 30504
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,5,5,10,2053 00 094 CK 34901
+02,Festival Advances-Credit,,-5,-5,-10,2053 00 094 CK 34902
+CK,Total CK,"8,11","14,89","11,62","13,08",
+#,State's Expenditure Total,"8,11","14,89","11,62","13,08",
+094,Total 094,"8,11","14,89","11,62","13,08",
+00,Total 00,"8,11","14,89","11,62","13,08",
+2053,Total 2053,"8,11","14,89","11,62","13,08",
+2059,PUBLIC WORKS,,,,,
+01,Office Buildings,,,,,
+053,Maintenance and Repairs,,,,,
+#,State's Expenditure,,,,,
+BA,Buildings- Industries Department (Administered by Chief Engineer (Buildings)),,,,,2059 01 053 BA 30000
+318,Maintenance,"32,77","34,65","1,37,58","35,00",2059 01 053 BA 31800 
+01,Periodical Maintenance,"32,77","34,65","1,37,58","35,00",2059 01 053 BA 31801
+BA,Total BA,"32,77","34,65","1,37,58","35,00",
+#,State's Expenditure Total,"32,77","34,65","1,37,58","35,00",
+053,Total 053,"32,77","34,65","1,37,58","35,00",
+01,Total 01,"32,77","34,65","1,37,58","35,00",
+2059,Total 2059,"32,77","34,65","1,37,58","35,00",
+2851-00,VILLAGE AND SMALL INDUSTRIES,,,,,
+102,Small Scale Industries,,,,,
+#,State's Expenditure,,,,,
+AJ,Mechanical and Metallurgical Laboratory,,,,,2851 00 102 AJ 30000
+301,Salaries,"11,93","13,66","17,92","18,74",2851 00 102 AJ 30100
+01,Pay,"10,42","11,97","15,11","15,72",2851 00 102 AJ 30101
+02,Medical Allowance,13,10,25,25,2851 00 102 AJ 30102
+04,Other Allowances,11,10,12,12,2851 00 102 AJ 30104
+06,House Rent Allowance,"1,03","1,20","2,03","2,20",2851 00 102 AJ 30106
+08,City Compensatory Allowance,24,29,41,45,2851 00 102 AJ 30108
+303,Dearness Allowance,"2,99","1,60","2,43","3,85",2851 00 102 AJ 30300
+01,Dearness Allowance,"2,99","1,60","2,43","3,85",2851 00 102 AJ 30301
+304,Travel Expenses,,2,2,2,2851 00 102 AJ 30400
+02,Transfer Travelling Allowances,,2,2,2,2851 00 102 AJ 30402
+305,Office Expenses,2,2,2,2,2851 00 102 AJ 30500
+04,Service Postage & Postal Expenditure,2,2,2,2,2851 00 102 AJ 30504
+319,Machinery and Equipments,,1,1,1,2851 00 102 AJ 31900
+03,Maintenance,,1,1,1,2851 00 102 AJ 31903
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,15,15,70,90,2851 00 102 AJ 34901
+02,Festival Advances-Credit,-15,-15,-70,-90,2851 00 102 AJ 34902
+359,Prizes and Awards,,2,2,2,2851 00 102 AJ 35900
+01,Prizes and Awards,,2,2,2,2851 00 102 AJ 35901
+AJ,Total AJ,"14,94","15,33","20,42","22,66",
+MK,"Interest subvention on loans to Micro, Small and Medium Enterprises",,,,,2851 00 102 MK 30000
+309,Grants-in-Aid,"23,60,00","23,60,00","56,60,00","30,00,00",2851 00 102 MK 30900
+04,Grants for Debt Servicing,"23,60,00","23,60,00","56,60,00","30,00,00",2851 00 102 MK 30904
+MK,Total MK,"23,60,00","23,60,00","56,60,00","30,00,00",
+#,State's Expenditure Total,"23,74,94","23,75,33","56,80,42","30,22,66",
+102,Total 102,"23,74,94","23,75,33","56,80,42","30,22,66",
+00,Total 00,"23,74,94","23,75,33","56,80,42","30,22,66",
+2851,Total 2851,"23,74,94","23,75,33","56,80,42","30,22,66",
+2852,INDUSTRIES,,,,,
+08,Consumer Industries,,,,,
+202,Textiles,,,,,
+#,State's Expenditure,,,,,
+JA,Grants to SIPCOT for setting up of Textile Park,,,,,2852 08 202 JA 30000
+309,Grants-in-Aid,,1,1,1,2852 08 202 JA 30900
+02,Grants for Creation of Capital Assets,,1,1,1,2852 08 202 JA 30902
+JA,Total JA,1,1,1,,
+#,State's Expenditure Total,,1,1,1,
+202,Total 202,1,1,1,,
+204,Leather,,,,,
+#,Schemes shared between State and Centre,,,,,
+#,Schemes shared between State and Centre,,,,,
+UA,Assistance to CEMCOT for setting up of infrastructure for Environmental Management,,,,,2852 08 204 UA 30000
+309,Grants-in-Aid,,1,"3,19,02",1,2852 08 204 UA 30900
+02,Grants for Creation of Capital Assets,,1,"3,19,02",1,2852 08 204 UA 30902
+UA,Total UA,,1,"3,19,02",1,
+#,Schemes shared between State and Centre Total,,1,"3,19,02",1,
+204,Total 204,,1,"3,19,02",1,
+600,Others,,,,,
+#,State's Expenditure,,,,,
+JB,Implementation of Structured Package of Assistance to Industrial Projects,,,,,2852 08 600 JB 30000
+311,Subsidies,"47,46,79",1,"18,00,00","54,00,00",2852 08 600 JB 31100
+02,General Subsidy,"47,46,79",1,"18,00,00","54,00,00",2852 08 600 JB 31102
+JB,Total JB,"47,46,79",1,"18,00,00","54,00,00",
+#,State's Expenditure Total,"47,46,79",1,"18,00,00","54,00,00",
+600,Total 600,"47,46,79",1,"18,00,00","54,00,00",
+08,Total 08,"47,46,79",3,"21,19,03","54,00,02",
+80,General,,,,,
+797,Transfer to/from Reserve Funds and Deposit,,,,,
+Account,,,,,,
+#,State's Expenditure,,,,,
+JA,Amount transferred to Industrial Infrastructure consolidated fund.,,,,,2852 80 797 JA 30000
+330,Inter-Account Transfers,,1,1,1,2852 80 797 JA 33000
+01,Inter-Account Transfers,,1,1,1,2852 80 797 JA 33001
+JA,Total JA,,1,1,1,
+#,State's Expenditure Total,,1,1,1,
+797,Total 797,,1,1,1,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+BB,Land cost Investment Incentive,,,,,2852 80 800 BB 30000
+311,Subsidies,"2,00,00","2,00,00","2,00,00","2,00,00",2852 80 800 BB 31100 
+01,Individual Based Subsidy,"2,00,00","2,00,00","2,00,00","2,00,00",2852 80 800 BB 31101
+351,Compensation Charged,,1,1,1,2852 80 800 BB 35100
+52,Other Compensations Charged,,1,1,1,2852 80 800 BB 35152
+364,Lands Charged,,,"5,21,29",,2852 80 800 BB 36400
+364,Lands Voted,"10,68,55",,,,2852 80 800 BB 36400
+01,Lands - Voted,"10,68,55",,,,2852 80 800 BB 36401
+51,Lands Charged,,,"5,21,29",,2852 80 800 BB 36451
+BB,Total BB Charged,,1,"5,21,30",1,
+BB,Total BB Voted,"12,68,55","2,00,00","2,00,00","2,00,00",
+BC,Investment Promotion Subsidy for Industries,,,,,2852 80 800 BC 30000
+311,Subsidies,"20,00,00,00","25,00,00,00","25,00,00,00","25,00,00,00",2852 80 800 BC 31100
+01,Individual Based Subsidy,"20,00,00,00","25,00,00,00","25,00,00,00","25,00,00,00",2852 80 800 BC 31101
+BC,Total BC,"20,00,00,00","25,00,00,00","25,00,00,00","25,00,00,00",
+BD,Reimbursement of Land cost to TIDCO,,,,,2852 80 800 BD 30000
+309,Grants-in-Aid,,1,"19,03,00",1,2852 80 800 BD 30900
+03,Grants for Specific Schemes,,1,"19,03,00",1,2852 80 800 BD 30903
+BD,Total BD,1,"19,03,00",1 ,,
+BF,Structured Package Assistance towards Industrial Infrastructure Park Subsidy to M/s.Cheyyar SEZ Developers Private Limited,,,,,2852 80 800 BF 30000
+309,Grants-in-Aid,"2,00,00",,,,2852 80 800 BF 30900
+03,Grants for Specific Schemes,"2,00,00",,,,2852 80 800 BF 30903
+BF,Total BF,"2,00,00",,,,
+JJ,Capital Subsidy for Mega Industries,,,,,2852 80 800 JJ 30000
+311,Subsidies,"7,00,00","7,00,00","7,00,00","7,00,00",2852 80 800 JJ 31100
+01,Individual Based Subsidy,"7,00,00","7,00,00","7,00,00","7,00,00",2852 80 800 JJ 31101
+JJ,Total JJ,"7,00,00","7,00,00","7,00,00","7,00,00",
+JK,Effluent Treatment Plant Subsidy for Promotion of Industries,,,,,2852 80 800 JK 30000
+311,Subsidies,"1,00,00","90,00","90,00",1,2852 80 800 JK 31100
+02,General Subsidy,"1,00,00","90,00","90,00",1,2852 80 800 JK 31102
+JK,Total JK,"1,00,00","90,00","90,00",1,
+JL,Refund of Electricity Tax for Promotion of Industries,,,,,2852 80 800 JL 30000
+311,Subsidies,,1,1,1,2852 80 800 JL 31100
+02,General Subsidy,,1,1,1,2852 80 800 JL 31102
+JL,Total JL,,1,1,1,
+JM,Industrial Infrastructure Consolidated Fund,,,,,2852 80 800 JM 30000
+310,Contributions,,1,1,1,2852 80 800 JM 31000
+01,Contribution to Specific Fund,,1,1,1,2852 80 800 JM 31001
+JM,Total JM,,1,1,1,
+JR,Defence Expo India 2018,,,,,2852 80 800 JR 30000
+308,Advertising and Publicity,,,"59,06",1,2852 80 800 JR 30800
+02,Exhibition,,,"59,06",1,2852 80 800 JR 30802
+JR,Total JR,,,"59,06",1,
+JS,Preparation of Techno-Economic feasibility Study for Establishing  Second International Airport at Chennai is reimbursed to TIDCO.,,,,,2852 80 800 JS 30000
+333,Payments for Professional and Special Services,,,"89,97",,2852 80 800 JS 33300
+09,Other Payments,,,"89,97",,2852 80 800 JS 33309
+JS,Total JS,,,"89,97",,
+JT,"Special desk to facilitate foreign investors at Tamil Nadu House, New Delhi",,,,,2852 80 800 JT 30000
+309,Grants-in-Aid,,,"8,00,00",,2852 80 800 JT 30900
+01,Grants for Current Expenditure,,,"8,00,00",,2852 80 800 JT 30901
+333,Payments for Professional and Special Services,,,"2,00,00",,2852 80 800 JT 33300
+09,Other Payments,,,"2,00,00",,2852 80 800 JT 33309
+JT,Total JT,,,"10,00,00",,
+JU,Establishment of Operationalization of SIPCOT Industrial Innovation Centres in Sriperumbudur and Hosur Industrial Parks under State Innovation Fund,,,,,2852 80 800 JU 30000
+309,Grants-in-Aid,,,,"7,50,00",2852 80 800 JU 30900
+03,Grants for Specific Schemes,,,,"7,50,00",2852 80 800 JU 30903
+JU,Total JU,,,"7,50,00",,
+#,State's Expenditure Total Charged,,1,"5,21,30",1,
+#,State's Expenditure Total Voted,"20,22,68,55","25,09,90,03","25,40,42,05","25,16,50,05",
+#,Central Sector Schemes,,,,,
+SB,Assistance for Export Infrastructure Development implemented by TIDCO,,,,,2852 80 800 SB 30000
+309,Grants-in-Aid,,1,1,1,2852 80 800 SB 30900
+03,Grants for Specific Schemes,,1,1,1,2852 80 800 SB 30903
+SB,Total SB,,1,1,1,
+#,Central Sector Schemes Total,,1,1,1,
+800,Total 800 Charged,,1,"5,21,30",1,
+800,Total 800 Voted,"20,22,68,55","25,09,90,04","25,40,42,06","25,16,50,06",
+902,Deduct - Amount met from State Innovation Fund,,,,,
+#,State's Expenditure,,,,,
+AA,Deduct - Amount met from State Innovation Fund,,,,,2852 80 902 AA 30000
+330,,Inter-Account Transfers,,,"-7,50,00",2852 80 902 AA 33000
+01,Inter-Account Transfers,,,,"-7,50,00",2852 80 902 AA 33001
+AA,Total AA,,,,"-7,50,00",
+#,State's Expenditure Total,,,,"-7,50,00",
+902,Total 902,,,,"-7,50,00",
+80,Total 80 Charged,,1,"5,21,30",1,
+80,Total 80 Voted,"20,22,68,55","25,09,90,05","25,40,42,07","25,09,00,07",
+2852,Total 2852 Charged,,1,"5,21,30",1,
+2852,Total 2852 Voted,"20,70,15,34","25,09,90,08","25,61,61,10","25,63,00,09",
+3451-00,SECRETARIAT - ECONOMIC SERVICES,,,,,
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+AD,Deduct - Recoveries of Overpayments -,,,,,3451 00 911 AD 30000
+377,Deduct-Recoveries,-9,,,,3451 00 911 AD 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-9,,,,3451 00 911 AD 37702
+AD,Total AD,-9,,,,
+#,State's Expenditure Total,-9,,,,
+911,Total 911,-9,,,,
+00,Total 00,-9,,,,
+3451,Total 3451,-9,,,,
+4854,CAPITAL OUTLAY NON-METALLIC MINERAL INDUSTRIES,,,,,
+01,Cement,,,,,
+190,Investments in Public Sector and Other Undertakings,,,,,
+#,State's Expenditure,,,,,
+JA,Share Capital Assistance to Tamil Nadu Cements Corporation Ltd.,,,,,4854 01 190 JA 40000
+422,Investments,,1,1,1,4854 01 190 JA 42200
+01,Investments,,1,1,1,4854 01 190 JA 42201
+JA,Total JA,,1,1,1,
+#,State's Expenditure Total,,1,1,1,
+190,Total 190,,1,1,1,
+01,Total 01,,1,1,1,
+4854,Total 4854,,1,1,1,
+4875,CAPITAL OUTLAY ON OTHER INDUSTRIES,,,,,
+60,Other Industries,,,,,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+JC,Up-gradation of Infrastructure facilities in the Industrial Park / Growth Centre maintained by SIPCOT.,,,,,4875 60 800 JC 40000
+416,Major Works,,,"80,00,00","20,00,00",4875 60 800 JC 41600
+01,Major Works,,,"80,00,00","20,00,00",4875 60 800 JC 41601
+JC,Total JC,,"80,00,00","20,00,00",,
+#,State's Expenditure Total,,,"80,00,00","20,00,00",
+800,Total 800,,"80,00,00","20,00,00",,
+60,Total 60,,"80,00,00","20,00,00",,
+4875,Total 4875,,"80,00,00","20,00,00",,
+5054,CAPITAL OUTLAY ON ROADS AND BRIDGES,,,,,
+80,General,,,,,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+KD,Improvement of access roads to Industrial Centers/Estates,,,,,5054 80 800 KD 40000
+416,Major Works,,1,"31,93,00",1,5054 80 800 KD 41600
+01,Major Works,,1,"31,93,00",1,5054 80 800 KD 41601
+KD,Total KD,1,"31,93,00",1,,
+#,State's Expenditure Total,,1,"31,93,00",1,
+800,Total 800,1,"31,93,00",1,,
+80,Total 80,1,"31,93,00",1,,
+5054,Total 5054,1,"31,93,00",1,,
+5465,INVESTMENTS IN GENERAL FINANCIAL AND TRADING INSTITUTIONS,,,,,
+02,Investments in Trading Institutions,,,,,
+190,Investments in Public Sector and Other Undertakings,,,,,
+#,State's Expenditure,,,,,
+JE,Share Capital Assistance to TIIC towards Investment of shares in the Neyveli Lignite Corporation,,,,,5465 02 190 JE 40000
+422,Investments,"37,50,00",,,,5465 02 190 JE 42200
+01,Investments,"37,50,00",,,,5465 02 190 JE 42201
+JE,Total JE,"37,50,00",,,,
+#,State's Expenditure Total,"37,50,00",,,,
+190,Total 190,"37,50,00",,,,
+02,Total 02,"37,50,00",,,,
+5465,Total 5465,"37,50,00",,,,
+6851-00,LOANS FOR VILLAGE AND SMALL INDUSTRIES,,,,,
+102,Small Scale Industries,,,,,
+#,State's Expenditure,,,,,
+AA,Loans to other parties - Controlled by the Director of Industries and Commerce,,,,,6851 00 102 AA 50000
+502,Loan - Outgo,,1,1,1,6851 00 102 AA 50200
+01,Bearing Interest,,1,1,1,6851 00 102 AA 50201
+AA,Total AA,,1,1,1,
+#,State's Expenditure Total,,1,1,1,
+102,Total 102,,1,1,1,
+00,Total 00,,1,1,1,
+6851,Total 6851,,1,1,1,
+6853,LOANS FOR NON-FERROUS MINING AND METALLURGICAL INDUSTRIES,,,,,
+01,Mineral Exploration and Development,,,,,
+190,Loans to Public Sector,,,,,
+#,State's Expenditure,,,,,
+AB,Ways and Means Advance to Tamil Nadu Minerals Limited,,,,,6853 01 190 AB 50000
+502,Loan - Outgo,"27,00,00",,"35,00,00",1,6853 01 190 AB 50200
+01,Bearing Interest,"27,00,00",,"35,00,00",1,6853 01 190 AB 50201
+AB,Total AB,"27,00,00",,"35,00,00",1,
+AC,Interest free loan to Tamil Nadu Minerals Limited,,,,,6853 01 190 AC 50000
+502,Loan - Outgo,"4,00,00",,"54,32,93",1,6853 01 190 AC 50200
+01,Bearing Interest,"4,00,00",,"54,32,93",1,6853 01 190 AC 50201
+AC,Total AC,"4,00,00",,"54,32,93",1,
+#,State's Expenditure Total,"31,00,00",,"89,32,93",2,
+190,Total 190,"31,00,00",,"89,32,93",2,
+01,Total 01,"31,00,00",,"89,32,93",2,
+6853,Total 6853,"31,00,00",,"89,32,93",2,
+6854,LOANS FOR CEMENT AND NON-METALLIC MINERAL INDUSTRIES,,,,,
+01,Cement,,,,,
+190,Loans to Public Sector,,,,,
+#,State's Expenditure,,,,,
+AC,Ways and Means Advance to Tamil Nadu Cements Corporation Limited,,,,,6854 01 190 AC 50000
+502,Loan - Outgo,,,"20,00,00",1,6854 01 190 AC 50200
+01,Bearing Interest,,,"20,00,00",1,6854 01 190 AC 50201
+AC,Total AC,,"20,00,00",1,,
+JA,Loans to Tamil Nadu Cement Corporation Limited,,,,,6854 01 190 JA 50000
+502,Loan - Outgo,"43,60,70",1,1,1,6854 01 190 JA 50200
+01,Bearing Interest,"43,60,70",1,1,1,6854 01 190 JA 50201
+JA,Total JA,"43,60,70",1,1,1,
+#,State's Expenditure Total,"43,60,70",1,"20,00,01",2,
+190,Total 190,"43,60,70",1,"20,00,01",2,
+01,Total 01,"43,60,70",1,"20,00,01",2,
+6854,Total 6854,"43,60,70",1,"20,00,01",2,
+6860,LOANS FOR CONSUMER INDUSTRIES,,,,,
+60,Others,,,,,
+600,Others,,,,,
+#,State's Expenditure,,,,,
+AC,Soft loans to Industrial units under Structured Assistance Package - Controlled by the Industries Commissioner and Director of Industries and Commerce,,,,,6860 60 600 AC 50000
+502,Loan - Outgo,"1,25,00,00","1,00,00,00","1,00,00,00","1,00,00,00",6860 60 600 AC 50200
+01,Bearing Interest,"1,25,00,00","1,00,00,00","1,00,00,00","1,00,00,00",6860 60 600 AC 50201
+AC,Total AC,"1,25,00,00","1,00,00,00","1,00,00,00","1,00,00,00",
+#,State's Expenditure Total,"1,25,00,00","1,00,00,00","1,00,00,00","1,00,00,00",
+600,Total 600,"1,25,00,00","1,00,00,00","1,00,00,00","1,00,00,00",
+60,Total 60,"1,25,00,00","1,00,00,00","1,00,00,00","1,00,00,00",
+6860,Total 6860,"1,25,00,00","1,00,00,00","1,00,00,00","1,00,00,00",
+6875,LOANS FOR OTHER INDUSTRIES,,,,,
+60,Other Industries,,,,,
+190,Loans to Public Sector,,,,,
+#,State's Expenditure,,,,,
+AF,Ways and Means Advance to Tamil Nadu  Industrial Explosives Limited,,,,,6875 60 190 AF 50000
+502,Loan - Outgo,,,1,1,6875 60 190 AF 50200
+01,Bearing Interest,,,1,1,6875 60 190 AF 50201
+AF,Total AF,,1,1,,
+AI,Interest free loan to TIDAL Park on capitalisation of interest dues till the end of 2017-18,,,,,6875 60 190 AI 50000
+502,Loan - Outgo,"20,56,00",,1,1,6875 60 190 AI 50200
+01,Bearing Interest,"20,56,00",,1,1,6875 60 190 AI 50201
+AI,Total AI,"20,56,00",,1,1,
+#,State's Expenditure Total,"20,56,00",,2,2,
+190,Total 190,"20,56,00",,2,2,
+60,Total 60,"20,56,00",,2,2,
+6875,Total 6875,"20,56,00",,2,2,
+6885,LOANS FOR OTHER INDUSTRIES AND MINERALS,,,,,
+01,Loans to Industrial Financial Institutions,,,,,
+190,Loans to Public Sector,,,,,
+#,State's Expenditure,,,,,
+AB,Loans to Tamilnadu Industrial Development Corporation,,,,,6885 01 190 AB 50000
+502,Loan - Outgo,,1,1,1,6885 01 190 AB 50200
+01,Bearing Interest,,1,1,1,6885 01 190 AB 50201
+AB,Total AB,1,1,1,,
+AC,"Loans to Statutory Corporations, Boards etc.",,,,,6885 01 190 AC 50000
+502,Loan - Outgo,"2,44,57",,1,1,6885 01 190 AC 50200
+01,Bearing Interest,"2,44,57",,1,1,6885 01 190 AC 50201
+AC,Total AC,"2,44,57",,1,1,
+AK,Ways and Means Advance to TIDCO,,,,,6885 01 190 AK 50000
+502,Loan - Outgo,,1,1,1,6885 01 190 AK 50200
+01,Bearing Interest,,1,1,1,6885 01 190 AK 50201
+AK,Total AK,1,1,1,,
+AL,Ways and Means Advance to Southern Structural Limited,,,,,6885 01 190 AL 50000
+502,Loan - Outgo,,1,"5,00",1,6885 01 190 AL 50200
+01,Bearing Interest,,1,"5,00",1,6885 01 190 AL 50201
+AL,Total AL,1,"5,00",1,,
+#,State's Expenditure Total,"2,44,57",3,"5,03",4,
+190,Total 190,"2,44,57",3,"5,03",4,
+01,Total 01,"2,44,57",3,"5,03",4,
+60,Others,,,,,
+190,Loans to Public Sector,,,,,
+#,State's Expenditure,,,,,
+JF,Interest free loan to TIDCO on capitalization of interest dues till the end of 2017-18,,,,,6885 60 190 JF 50000
+502,Loan - Outgo,"72,54,66",,,,6885 60 190 JF 50200
+01,Bearing Interest,"72,54,66",,,,6885 60 190 JF 50201
+JF,Total JF,"72,54,66",,,,
+#,State's Expenditure Total,"72,54,66",,,,
+190,Total 190,"72,54,66",,,,
+60,Total 60,"72,54,66",,,,
+6885,Total 6885,"74,99,23",3,"5,03",4,

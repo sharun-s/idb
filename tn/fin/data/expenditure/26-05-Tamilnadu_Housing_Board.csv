@@ -1,0 +1,91 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2216,HOUSING,,,,,
+05,General Pool Accommodation,,,,,
+053,Maintenance and Repairs,,,,,
+#,State's Expenditure,,,,,
+AA,Contribution for maintenance of Government Colonies,,,,,2216 05 053 AA 30000
+309,Grants-in-Aid,"10,69,28","10,50,01","11,00,01","10,50,01",2216 05 053 AA 30900
+01,Grants for Current Expenditure,"10,50,00","10,50,00","11,00,00","10,50,00",2216 05 053 AA 30901
+03,Grants for Specific Schemes,"19,28",1,1,1,2216 05 053 AA 30903
+AA,Total AA,"10,69,28","10,50,01","11,00,01","10,50,01",
+AB,"Maintenance of Government Flats in specific locations in Chennai City - Koyambedu, Taylor's Road, Government Estate, Old Tower Block and Foreshore Estate",,,,,2216 05 053 AB 30000
+309,Grants-in-Aid,"1,10,00","1,10,00","1,10,00","1,10,00",2216 05 053 AB 30900
+01,Grants for Current Expenditure,"1,10,00","1,10,00","1,10,00","1,10,00",2216 05 053 AB 30901
+AB,Total AB,"1,10,00","1,10,00","1,10,00","1,10,00",
+#,State's Expenditure Total,"11,79,28","11,60,01","12,10,01","11,60,01",
+053,Total 053,"11,79,28","11,60,01","12,10,01","11,60,01",
+05,Total 05,"11,79,28","11,60,01","12,10,01","11,60,01",
+07,Oher Housing,,,,,
+053,Maintenance and Repairs,,,,,
+#,State's Expenditure,,,,,
+AA,"Maintenance of Ex-MLA Hostel at Omanthurar Government Estate, Chennai",,,,,2216 07 053 AA 30000
+318,Maintenance,"25,00",1,"18,00",1,2216 07 053 AA 31800
+01,Periodical Maintenance,"25,00",1,"18,00",1,2216 07 053 AA 31801
+AA,Total AA,"25,00",1,"18,00",1,
+#,State's Expenditure Total,"25,00",1,"18,00",1,
+053,Total 053,"25,00",1,"18,00",1,
+07,Total 07,"25,00",1,"18,00",1,
+80,General,,,,,
+103,"Assistance to Housing Boards, Corporations etc.",,,,,
+#,State's Expenditure,,,,,
+AA,Contribution towards rent for the Middle Income group rental flats allotted to officers of the State Government,,,,,2216 80 103 AA 30000
+309,Grants-in-Aid,"13,08","13,00","11,37","11,94",2216 80 103 AA 30900 
+01,Grants for Current Expenditure,"13,08","13,00","11,37","11,94",2216 80 103 AA 30901
+AA,Total AA,"13,08","13,00","11,37","11,94",
+AB,Maintenance of Housing Colonies,,,,,2216 80 103 AB 30000
+309,Grants-in-Aid,,1,,,2216 80 103 AB 30900
+01,Grants for Current Expenditure,,1,,,2216 80 103 AB 30901
+AB,Total AB,,1,,,
+AJ,Grants to Tamil Nadu Housing Board for payment of property tax on Tamil Nadu Government Servants Rental Housing Scheme Quarters,,,,,2216 80 103 AJ 30000
+309,Grants-in-Aid,"4,52,49","4,52,49","5,70,00","5,70,00",2216 80 103 AJ 30900
+01,Grants for Current Expenditure,"4,52,49","4,52,49","5,70,00","5,70,00",2216 80 103 AJ 30901
+AJ,Total AJ,"4,52,49","4,52,49","5,70,00","5,70,00",
+AL,Grants to Tamil Nadu Housing Board for payment of Water Tax on Tamil Nadu Government Servant Rental Housing Scheme Quarters,,,,,2216 80 103 AL 30000
+309,Grants-in-Aid,"61,56","61,56","81,63","70,00",2216 80 103 AL 30900
+01,Grants for Current Expenditure,"61,56","61,56","81,63","70,00",2216 80 103 AL 30901
+AL,Total AL,"61,56","61,56","81,63","70,00",
+AN,Assistance for Sewerage connection to Tamil Nadu Government   Servant Rental Housing Scheme Quarters,,,,,2216 80 103 AN 30000
+309,Grants-in-Aid,,,"8,59",,2216 80 103 AN 30900
+01,Grants for Current Expenditure,,,"8,59",,2216 80 103 AN 30901
+AN,Total AN,,"8,59",,,
+#,State's Expenditure Total,"5,27,13","5,27,06","6,71,59","6,51,94",
+103,Total 103,"5,27,13","5,27,06","6,71,59","6,51,94",
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+AE,Maintenance of Legislature Hostel / Committee rooms,,,,,2216 80 800 AE 30000
+318,Maintenance,"3,30,00","3,30,01","15,12,06","3,30,01",2216 80 800 AE 31800 
+01,Periodical Maintenance,"3,30,00","3,30,00","3,30,00","3,30,00",2216 80 800 AE 31801
+02,Special Maintenance,,1,"11,82,06",1,2216 80 800 AE 31802
+AE,Total AE,"3,30,00","3,30,01","15,12,06","3,30,01",
+#,State's Expenditure Total,"3,30,00","3,30,01","15,12,06","3,30,01",
+800,Total 800,"3,30,00","3,30,01","15,12,06","3,30,01",
+80,Total 80,"8,57,13","8,57,07","21,83,65","9,81,95",
+2216,Total 2216,"20,61,41","20,17,09","34,11,66","21,41,97",
+2217,URBAN DEVELOPMENT,,,,,
+04,Slum Area Improvement,,,,,
+190,Assistance to Public Undertakings,,,,,
+#,State's Expenditure,,,,,
+AA,Contribution towards the difference between the subsidised and economic rent fixed for Slum Improvement Scheme,,,,,2217 04 190 AA 30000
+309,Grants-in-Aid,"25,00","25,00","25,00","25,00",2217 04 190 AA 30900 
+01,Grants for Current Expenditure,"25,00","25,00","25,00","25,00",2217 04 190 AA 30901
+AA,Total AA,"25,00","25,00","25,00","25,00",
+#,State's Expenditure Total,"25,00","25,00","25,00","25,00",
+190,Total 190,"25,00","25,00","25,00","25,00",
+04,Total 04,"25,00","25,00","25,00","25,00",
+2217,Total 2217,"25,00","25,00","25,00","25,00",
+4216,CAPITAL OUTLAY ON HOUSING,,,,,
+01,Government Residential Buildings,,,,,
+700,Other Housing,,,,,
+#,State's Expenditure,,,,,
+JH,Construction of Houses under Tamil Nadu Government Servants Rental Housing Scheme - Executed by  Tamil Nadu Housing Board,,,,,4216 01 700 JH 40000
+416,Major Works,,1,1,1,4216 01 700 JH 41600
+01,Major Works,,1,1,1,4216 01 700 JH 41601
+JH,Total JH,1,1,1,,
+JR,Construction of Ex-MLA Hostel Building at Omandurar Government Estate by Tamil Nadu Housing Board,,,,,4216 01 700 JR 40000
+416,Major Works,"1,72,80",1,,,4216 01 700 JR 41600
+01,Major Works,"1,72,80",1,,,4216 01 700 JR 41601
+JR,Total JR,"1,72,80",1,,,
+#,State's Expenditure Total,"1,72,80",2,1,1,
+700,Total 700,"1,72,80",2,1,1,
+01,Total 01,"1,72,80",2,1,1,
+4216,Total 4216,"1,72,80",2,1,1,

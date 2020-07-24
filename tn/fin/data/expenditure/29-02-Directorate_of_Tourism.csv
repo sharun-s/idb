@@ -1,0 +1,439 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+3452,TOURISM,,,,,
+01,Tourist Infrastructure,,,,,
+101,Tourist Centre,,,,,
+#,State's Expenditure,,,,,
+AA,Poompuhar Complex,,,,,3452 01 101 AA 30000
+301,Salaries,"15,74","17,42","17,39","18,08",3452 01 101 AA 30100
+01,Pay,"14,75","16,30","16,30","16,96",3452 01 101 AA 30101
+02,Medical Allowance,16,18,15,15,3452 01 101 AA 30102
+04,Other Allowances,12,16,16,16,3452 01 101 AA 30104
+06,House Rent Allowance,71,77,77,80,3452 01 101 AA 30106
+07,Travel Concession,,1,1,1,3452 01 101 AA 30107
+303,Dearness Allowance,"4,37","2,12","2,61","4,16",3452 01 101 AA 30300
+01,Dearness Allowance,"4,37","2,12","2,61","4,16",3452 01 101 AA 30301
+304,Travel Expenses,25,50,45,46,3452 01 101 AA 30400
+01,Tour Travelling Allowances,25,40,35,36,3452 01 101 AA 30401
+02,Transfer Travelling Allowances,,10,10,10,3452 01 101 AA 30402
+305,Office Expenses,"1,36","1,85","1,64","1,69",3452 01 101 AA 30500
+01,Telephone Charges,23,25,25,27,3452 01 101 AA 30501
+02,Other Contingencies,29,30,30,30,3452 01 101 AA 30502
+03,Electricity Charges,84,"1,30","1,09","1,12",3452 01 101 AA 30503
+318,Maintenance,"56,64","1,39","1,39","1,45",3452 01 101 AA 31800
+01,Periodical Maintenance,"1,39","1,39","1,39","1,45",3452 01 101 AA 31801
+02,Special Maintenance,"55,25",,,,3452 01 101 AA 31802
+029,02   Directorate of Tourism,,,,,
+321,Motor Vehicles,6,6,6,6,3452 01 101 AA 32100
+02,Maintenance of Functional Vehicles,6,6,6,6,3452 01 101 AA 32102
+345,"Petroleum, Oil and Lubricant","1,09","1,20","1,20","1,20",3452 01 101 AA 34500
+01,"Petroleum, Oil and Lubricant","1,09","1,20","1,20","1,20",3452 01 101 AA 34501
+349,Festival Advances,3,,,,3452 01 101 AA 34900
+01,Festival Advances-Debit,25,25,60,60,3452 01 101 AA 34901
+02,Festival Advances-Credit,-22,-25,-60,-60,3452 01 101 AA 34902
+351,Compensation Charged,,1,1,1,3452 01 101 AA 35100,
+52,Other Compensations Charged,,,,,
+376,Computer and Accessories,4,4,4,4,3452 01 101 AA 37600
+02,Maintenance,4,4,4,4,3452 01 101 AA 37602
+AA,Total AA Charged,,1,1,1,
+AA,Total AA Voted,"79,58","24,58","24,78","27,14",
+AB,Veerapandia Kattabomman Memorial,,,,,3452 01 101 AB 30000
+301,Salaries,92,70,70,73,3452 01 101 AB 30100
+01,Pay,83,66,66,69,3452 01 101 AB 30101
+02,Medical Allowance,4,,,,3452 01 101 AB 30102
+04,Other Allowances,1,,,,3452 01 101 AB 30104
+06,House Rent Allowance,4,3,3,3,3452 01 101 AB 30106
+07,Travel Concession,,1,1,1,3452 01 101 AB 30107
+303,Dearness Allowance,26,9,10,17,3452 01 101 AB 30300
+01,Dearness Allowance,26,9,10,17,3452 01 101 AB 30301
+029,02   Directorate of Tourism,,,,,
+304,Travel Expenses,,21,21,22,3452 01 101 AB 30400
+01,Tour Travelling Allowances,,20,20,21,3452 01 101 AB 30401
+02,Transfer Travelling Allowances,,1,1,1,3452 01 101 AB 30402
+305,Office Expenses,67,69,69,71,3452 01 101 AB 30500
+02,Other Contingencies,27,27,27,27,3452 01 101 AB 30502
+03,Electricity Charges,40,42,42,44,3452 01 101 AB 30503
+318,Maintenance,50,"60,70","60,70","1,77",3452 01 101 AB 31800
+01,Periodical Maintenance,50,"60,70","60,70","1,77",3452 01 101 AB 31801
+349,Festival Advances,1,,,,3452 01 101 AB 34900
+01,Festival Advances-Debit,5,5,20,20,3452 01 101 AB 34901
+02,Festival Advances-Credit,-4,-5,-20,-20,3452 01 101 AB 34902
+AB,Total AB,"2,36","62,39","62,40","3,60",
+AC,Sound and Light Spectacle at Thirumalai Nayakkar Mahal,,,,,3452 01 101 AC 30000
+301,Salaries,"12,60","13,34","13,31","13,82",3452 01 101 AC 30100
+01,Pay,"11,34","12,00","12,00","12,48",3452 01 101 AC 30101
+02,Medical Allowance,14,18,15,15,3452 01 101 AC 30102
+04,Other Allowances,16,17,17,17,3452 01 101 AC 30104
+06,House Rent Allowance,84,86,86,89,3452 01 101 AC 30106
+07,"Travel Concession""",,1,1,1,3452 01 101 AC 30107
+08,City Compensatory Allowance,12,12,12,12,3452 01 101 AC 30108
+303,Dearness Allowance,98,"1,56","1,92","3,06",3452 01 101 AC 30300
+01,Dearness Allowance,98,"1,56","1,92","3,06",3452 01 101 AC 30301
+304,Travel Expenses,8,8,8,9,3452 01 101 AC 30400
+01,Tour Travelling Allowances,8,8,8,9,3452 01 101 AC 30401
+349,Festival Advances,-3,,,,3452 01 101 AC 34900
+01,Festival Advances-Debit,15,20,40,40,3452 01 101 AC 34901
+02,Festival Advances-Credit,-18,-20,-40,-40,3452 01 101 AC 34902
+AC,Total AC,"13,63","14,98","15,31","16,97",
+JH,Preparation of Master Plan for Tourist Destination / Circuits,,,,,3452 01 101 JH 30000
+333,Payments for Professional and Special Services,,1,1,1,3452 01 101 JH 33300
+02,Remuneration,,1,1,1,3452 01 101 JH 33302
+JH,Total JH,,1,1,1,
+#,State's Expenditure Total Charged,,1,1,1,
+#,State's Expenditure Total Voted,"95,57","1,01,96","1,02,50","47,72",
+#,Externally Aided Projects,,,,,
+PA,Asian Development Bank assisted Inclusive Tourism  Infrastructure Project,,,,,3452 01 101 PA 30000
+301,Salaries,"33,01","20,02","22,54","23,32",3452 01 101 PA 30100
+01,Pay,"29,39","17,58","19,51","20,29",3452 01 101 PA 30101
+02,Medical Allowance,11,5,11,11,3452 01 101 PA 30102
+04,Other Allowances,,5,5,5,3452 01 101 PA 30104
+06,House Rent Allowance,"3,01","1,75","2,21","2,21",3452 01 101 PA 30106
+07,Travel Concession,,25,25,25,3452 01 101 PA 30107
+08,City Compensatory Allowance,50,34,41,41,3452 01 101 PA 30108
+029,02   Directorate of Tourism,,,,,
+302,Wages,"1,60","1,50","1,75","1,75",3452 01 101 PA 30200
+01,Wages,"1,60","1,50","1,75","1,75",3452 01 101 PA 30201
+303,Dearness Allowance,"10,18","2,29","3,12","4,97",3452 01 101 PA 30300
+01,Dearness Allowance,"10,18","2,29","3,12","4,97",3452 01 101 PA 30301
+304,Travel Expenses,"1,46","2,10","2,10","2,10",3452 01 101 PA 30400
+01,Tour Travelling Allowances,"1,19","2,00","2,00","2,00",3452 01 101 PA 30401
+02,Transfer Travelling Allowances,27,10,10,10,3452 01 101 PA 30402
+305,Office Expenses,"12,72","6,02","10,95","8,22",3452 01 101 PA 30500
+01,Telephone Charges,"1,50","1,50","1,70","1,70",3452 01 101 PA 30501
+02,Other Contingencies,"4,20","4,20","4,20","4,20",3452 01 101 PA 30502
+03,Electricity Charges,"6,82",1,"4,25","2,00",3452 01 101 PA 30503
+04,Service Postage & Postal Expenditure,20,30,30,31,3452 01 101 PA 30504
+05,Furniture,,1,50,1,3452 01 101 PA 30505
+306,"Rent, Rates and Taxes",,2,2,2,3452 01 101 PA 30600
+01,Rent,,1,1,1,3452 01 101 PA 30601
+03,Water Charges,,1,1,1,3452 01 101 PA 30603
+308,Advertising and Publicity,"1,09,93","15,00","42,00","15,00",3452 01 101 PA 30800
+01,Advertisement Charges,"1,09,93","15,00","42,00","15,00",3452 01 101 PA 30801
+313,Hospitality / Entertainment Expenditure,"2,33","4,00","4,00","4,00",3452 01 101 PA 31300
+01,Hospitality / Entertainment Expenditure,"2,33","4,00","4,00","4,00",3452 01 101 PA 31301
+317,Minor Works,,1,"1,00",1,3452 01 101 PA 31700
+029,02   Directorate of Tourism,,,,,
+01,Minor Works,,1,"1,00",1,3452 01 101 PA 31701
+319,Machinery and Equipments,46,61,"1,01","1,01",3452 01 101 PA 31900
+01,Purchase,,1,1,1,3452 01 101 PA 31901
+03,Maintenance,46,60,"1,00","1,00",3452 01 101 PA 31903
+321,Motor Vehicles,"1,00","2,00","2,00","2,00",3452 01 101 PA 32100
+02,Maintenance of Functional Vehicles,70,"1,00","1,00","1,00",3452 01 101 PA 32102
+03,Hire Charges,30,"1,00","1,00","1,00",3452 01 101 PA 32103
+333,Payments for Professional and Special Services,"2,88,47","3,34,20","8,08,92","4,74,50",3452 01 101 PA 33300
+01,Pleaders Fees,20,20,"3,57",50,3452 01 101 PA 33301
+03,Special Service,"2,52,01","3,00,00","7,20,00","4,40,00",3452 01 101 PA 33303
+04,Contract Payment,"36,26","34,00","85,35","34,00",3452 01 101 PA 33304
+334,Other Charges,21,30,15,16,3452 01 101 PA 33400
+02,"Purchase  of  Books & Periodicals to Libraries etc.,",21,30,15,16,3452 01 101 PA 33402
+345,"Petroleum, Oil and Lubricant","1,56","1,88","1,68","1,76",3452 01 101 PA 34500
+01,"Petroleum, Oil and Lubricant","1,56","1,88","1,68","1,76",3452 01 101 PA 34501
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,10,20,20,3452 01 101 PA 34901
+02,Festival Advances-Credit,,-10,-20,-20,3452 01 101 PA 34902
+372,Training,,"30,00","2,30,00","3,80,00",3452 01 101 PA 37200
+01,Training,,"30,00","2,30,00","3,80,00",3452 01 101 PA 37201
+376,Computer and Accessories,"1,72","1,51","2,70","1,51",3452 01 101 PA 37600
+01,Purchase,33,1,70,1,3452 01 101 PA 37601
+02,Maintenance,45,50,"1,00",50,3452 01 101 PA 37602
+03,Stationery,94,"1,00","1,00","1,00",3452 01 101 PA 37603
+PA,Total PA,"4,64,65","4,21,46","11,33,94","9,20,33",
+#,Externally Aided Projects Total,"4,64,65","4,21,46","11,33,94","9,20,33",
+#,Central Sector Schemes,,,,,
+SP,Improvement of Basic facilities in Tourist Centres with Central Assistance,,,,,3452 01 101 SP 30000
+309,Grants-in-Aid,,1,1,1,3452 01 101 SP 30900
+01,Grants for Current Expenditure,,1,1,1,3452 01 101 SP 30901
+SP,Total SP,,1,1,1,
+#,Central Sector Schemes Total,,1,1,1,
+101,Total 101 Charged,,1,1,1,
+101,Total 101 Voted,"5,60,22","5,23,43","12,36,45","9,68,06",
+102,Tourist Accommodation,,,,,
+#,State's Expenditure,,,,,
+JA,Capital Subsidy for Hotel Project and other Tourism Project,,,,,3452 01 102 JA 30000
+311,Subsidies,,1,,,3452 01 102 JA 31100
+01,Individual Based Subsidy,,1,,,3452 01 102 JA 31101
+JA,Total JA,,1,,,
+JD,Renovation of Tourism Department Office Buildings,,,,,3452 01 102 JD 30000
+318,Maintenance,,,"40,00","60,00",3452 01 102 JD 31800
+09,Others,,,"40,00","60,00",3452 01 102 JD 31809
+JD,Total JD,,,"40,00","60,00",
+#,State's Expenditure Total,,1,"40,00","60,00",
+102,Total 102,,1,"40,00","60,00",
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+JA,Preparation of Project for the Development of Tourism Infrastructure in Tamil Nadu,,,,,3452 01 800 JA 30000
+333,Payments for Professional and Special Services,,1,1,1,3452 01 800 JA 33300
+03,Special Service,,1,1,1,3452 01 800 JA 33303
+JA,Total JA,,1,1,1,
+#,State's Expenditure Total,,1,1,1,
+800,Total 800,,1,1,1,
+01,Total 01 Charged,,1,1,1,
+01,Total 01 Voted,"5,60,22","5,23,45","12,76,46","10,28,07",
+80,General,,,,,
+001,Direction and Administration,,,,,
+#,State's Expenditure,,,,,
+AA,Tourist Bureau,,,,,3452 80 001 AA 30000
+301,Salaries,"3,07,93","3,02,79","3,02,71","3,14,41",3452 80 001 AA 30100
+01,Pay,"2,79,72","2,76,73","2,76,73","2,87,80",3452 80 001 AA 30101
+02,Medical Allowance,"2,67","2,78","2,70","2,70",3452 80 001 AA 30102
+03,Medical Charges,,9,9,9,3452 80 001 AA 30103
+04,Other Allowances,"7,10","5,81","5,81","5,81",3452 80 001 AA 30104
+06,House Rent Allowance,"16,83","15,72","15,72","16,35",3452 80 001 AA 30106
+07,Travel Concession,9,26,26,26,3452 80 001 AA 30107
+08,City Compensatory Allowance,"1,52","1,40","1,40","1,40",3452 80 001 AA 30108
+303,Dearness Allowance,"40,43","35,98","44,28","70,51",3452 80 001 AA 30300
+01,Dearness Allowance,"40,43","35,98","44,28","70,51",3452 80 001 AA 30301
+304,Travel Expenses,"9,46","9,93","9,73","10,09",3452 80 001 AA 30400
+01,Tour Travelling Allowances,"9,41","9,60","9,40","9,76",3452 80 001 AA 30401
+02,Transfer Travelling Allowances,5,33,33,33,3452 80 001 AA 30402
+305,Office Expenses,"16,57","20,31","19,71","20,19",3452 80 001 AA 30500
+01,Telephone Charges,"4,82","6,61","6,21","6,45",3452 80 001 AA 30501
+02,Other Contingencies,"7,28","7,50","7,50","7,50",3452 80 001 AA 30502
+03,Electricity Charges,"4,47","6,20","6,00","6,24",3452 80 001 AA 30503
+306,"Rent, Rates and Taxes","21,25","23,42","23,39","23,40",3452 80 001 AA 30600
+01,Rent,"20,25","22,19","22,19","22,19",3452 80 001 AA 30601
+02,Property tax,89,93,93,93,3452 80 001 AA 30602
+03,Water Charges,11,30,27,28,3452 80 001 AA 30603
+029,02   Directorate of Tourism,,,,,
+321,Motor Vehicles,70,74,74,74,3452 80 001 AA 32100
+02,Maintenance of Functional Vehicles,70,74,74,74,3452 80 001 AA 32102
+345,"Petroleum, Oil and Lubricant","8,70","10,00","10,00","10,00",3452 80 001 AA 34500
+01,"Petroleum, Oil and Lubricant","8,70","10,00","10,00","10,00",3452 80 001 AA 34501
+349,Festival Advances,-1,,,,3452 80 001 AA 34900
+01,Festival Advances-Debit,"2,05","3,55","8,20","8,20",3452 80 001 AA 34901
+02,Festival Advances-Credit,"-2,06","-3,55","-8,20","-8,20",3452 80 001 AA 34902
+376,Computer and Accessories,"1,12",76,76,76,3452 80 001 AA 37600
+02,Maintenance,"1,12",76,76,76,3452 80 001 AA 37602
+AA,Total AA,"4,06,15","4,03,93","4,11,32","4,50,10",
+AB,Establishment of Information and Publicity Offices outside the State,,,,,3452 80 001 AB 30000
+301,Salaries,"36,13","39,80","39,80","41,34",3452 80 001 AB 30100
+01,Pay,"31,95","35,19","35,19","36,59",3452 80 001 AB 30101
+02,Medical Allowance,24,26,26,26,3452 80 001 AB 30102
+04,Other Allowances,18,14,14,14,3452 80 001 AB 30104
+06,House Rent Allowance,"3,17","3,56","3,56","3,70",3452 80 001 AB 30106
+07,Travel Concession,,1,1,1,3452 80 001 AB 30107
+08,City Compensatory Allowance,59,64,64,64,3452 80 001 AB 30108
+303,Dearness Allowance,"2,02","4,57","5,63","8,96",3452 80 001 AB 30300
+01,Dearness Allowance,"2,02","4,57","5,63","8,96",3452 80 001 AB 30301
+304,Travel Expenses,,94,94,97,3452 80 001 AB 30400
+01,Tour Travelling Allowances,,72,72,75,3452 80 001 AB 30401
+02,Transfer Travelling Allowances,,22,22,22,3452 80 001 AB 30402
+305,Office Expenses,"1,70","3,92","3,82","3,91",3452 80 001 AB 30500
+01,Telephone Charges,24,90,90,93,3452 80 001 AB 30501
+02,Other Contingencies,"1,13","1,50","1,50","1,50",3452 80 001 AB 30502
+03,Electricity Charges,33,"1,52","1,42","1,48",3452 80 001 AB 30503
+306,"Rent, Rates and Taxes","9,33","10,11","22,25","10,11",3452 80 001 AB 30600
+01,Rent,"9,33","10,00","22,15","10,00",3452 80 001 AB 30601
+03,Water Charges,,11,10,11,3452 80 001 AB 30603
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,20,40,"1,00","1,00",3452 80 001 AB 34901
+02,Festival Advances-Credit,-20,-40,"-1,00","-1,00",3452 80 001 AB 34902
+376,Computer and Accessories,,1,1,1,3452 80 001 AB 37600
+03,Stationery,,1,1,1,3452 80 001 AB 37603
+AB,Total AB,"49,18","59,35","72,45","65,30",
+AD,Directorate of Tourism,,,,,3452 80 001 AD 30000
+301,Salaries,"1,93,71","2,20,70","2,20,69","2,29,28",3452 80 001 AD 30100
+01,Pay,"1,69,16","1,93,62","1,93,62","2,01,36",3452 80 001 AD 30101
+02,Medical Allowance,"1,07",96,95,95,3452 80 001 AD 30102
+03,Medical Charges,18,30,30,30,3452 80 001 AD 30103
+04,Other Allowances,78,84,84,84,3452 80 001 AD 30104
+06,House Rent Allowance,"19,08","21,18","21,18","22,03",3452 80 001 AD 30106
+07,Travel Concession,11,20,20,20,3452 80 001 AD 30107
+08,City Compensatory Allowance,"3,33","3,60","3,60","3,60",3452 80 001 AD 30108
+303,Dearness Allowance,"16,73","25,17","30,98","49,33",3452 80 001 AD 30300
+029,02   Directorate of Tourism,,,,,
+01,Dearness Allowance,"16,73","25,17","30,98","49,33",3452 80 001 AD 30301
+304,Travel Expenses,"1,48","2,20","1,95","2,02",3452 80 001 AD 30400
+01,Tour Travelling Allowances,"1,48","2,00","1,75","1,82",3452 80 001 AD 30401
+02,Transfer Travelling Allowances,,20,20,20,3452 80 001 AD 30402
+305,Office Expenses,"7,86","9,60","9,31","9,51",3452 80 001 AD 30500
+01,Telephone Charges,39,"1,00",91,95,3452 80 001 AD 30501
+02,Other Contingencies,"3,48","4,50","4,50","4,50",3452 80 001 AD 30502
+03,Electricity Charges,"2,95","3,10","2,90","3,02",3452 80 001 AD 30503
+04,Service Postage & Postal Expenditure,"1,04","1,00","1,00","1,04",3452 80 001 AD 30504
+306,"Rent, Rates and Taxes",,1,1,1,3452 80 001 AD 30600
+01,Rent,,1,1,1,3452 80 001 AD 30601
+313,Hospitality / Entertainment Expenditure,"1,20","2,00","1,00","1,00",3452 80 001 AD 31300
+01,Hospitality / Entertainment Expenditure,"1,20","2,00","1,00","1,00",3452 80 001 AD 31301
+321,Motor Vehicles,39,63,63,63,3452 80 001 AD 32100
+01,Purchase,,1,1,1,3452 80 001 AD 32101
+02,Maintenance of Functional Vehicles,39,62,62,62,3452 80 001 AD 32102
+333,Payments for Professional and Special Services,98,10,50,50,3452 80 001 AD 33300
+01,Pleaders Fees,98,10,50,50,3452 80 001 AD 33301
+345,"Petroleum, Oil and Lubricant","4,31","4,34","4,34","4,34",3452 80 001 AD 34500
+01,"Petroleum, Oil and Lubricant","4,31","4,34","4,34","4,34",3452 80 001 AD 34501
+349,Festival Advances,-2,,,,3452 80 001 AD 34900
+01,Festival Advances-Debit,"1,10","1,50","4,00","4,00",3452 80 001 AD 34901
+02,Festival Advances-Credit,"-1,12","-1,50","-4,00","-4,00",3452 80 001 AD 34902
+359,Prizes and Awards,,1,10,10,3452 80 001 AD 35900
+01,Prizes and Awards,,1,10,10,3452 80 001 AD 35901
+376,Computer and Accessories,"1,58","1,90","1,90","1,90",3452 80 001 AD 37600
+02,Maintenance,,20,20,20,3452 80 001 AD 37602
+03,Stationery,"1,58","1,70","1,70","1,70",3452 80 001 AD 37603
+AD,Total AD,"2,28,22","2,66,66","2,71,41","2,98,62",
+AF,Fairs and Festivals,,,,,3452 80 001 AF 30000
+308,Advertising and Publicity,"2,24,31","2,25,00","3,00,00","3,00,00",3452 80 001 AF 30800 
+02,Exhibition,"2,24,31","2,25,00","3,00,00","3,00,00",3452 80 001 AF 30802
+AF,Total AF,"2,24,31","2,25,00","3,00,00","3,00,00",
+#,State's Expenditure Total,"9,07,86","9,54,94","10,55,18","11,14,02",
+001,Total 001,"9,07,86","9,54,94","10,55,18","11,14,02",
+104,Promotion and Publicity,,,,,
+#,State's Expenditure,,,,,
+AE,Promotion and Publicity of Tourism,,,,,3452 80 104 AE 30000
+305,Office Expenses,78,"1,01","1,01","1,05",3452 80 104 AE 30500
+02,Other Contingencies,10,1,1,1,3452 80 104 AE 30502
+04,Service Postage & Postal Expenditure,68,"1,00","1,00","1,04",3452 80 104 AE 30504
+308,Advertising and Publicity,"10,07,90","10,13,00","10,13,00","10,13,52",3452 80 104 AE 30800 
+029,02   Directorate of Tourism,,,,,
+01,Advertisement Charges,"9,94,89","10,00,00","10,00,00","10,00,00",3452 80 104 AE 30801
+09,Others,"13,01","13,00","13,00","13,52",3452 80 104 AE 30809
+313,Hospitality / Entertainment Expenditure,95,"1,00","1,50","1,50",3452 80 104 AE 31300
+01,Hospitality / Entertainment Expenditure,95,"1,00","1,50","1,50",3452 80 104 AE 31301
+321,Motor Vehicles,"1,15","1,50","1,50","1,50",3452 80 104 AE 32100
+03,Hire Charges,"1,15","1,50","1,50","1,50",3452 80 104 AE 32103
+324,Materials and Supplies,"1,98","2,00","2,00","2,00",3452 80 104 AE 32400
+01,Materials and Supplies,"1,98","2,00","2,00","2,00",3452 80 104 AE 32401
+333,Payments for Professional and Special Services,,1,1,1,3452 80 104 AE 33300
+09,Other Payments,,1,1,1,3452 80 104 AE 33309
+371,Printing Charges,"24,19","30,00","30,00","30,00",3452 80 104 AE 37100
+01,Printing Charges,"24,19","30,00","30,00","30,00",3452 80 104 AE 37101
+372,Training,,1,1,1,3452 80 104 AE 37200
+01,Training,,1,1,1,3452 80 104 AE 37201
+376,Computer and Accessories,"1,59","1,61","1,61","1,61",3452 80 104 AE 37600
+03,Stationery,"1,59","1,61","1,61","1,61",3452 80 104 AE 37603
+AE,Total AE,"10,38,54","10,50,14","10,50,64","10,51,20",
+029,02   Directorate of Tourism,,,,,
+JJ,"Preserving Heritage Buildings, Light & Sound show in Dhanushkodi - Schemes under State Innovation Fund",,,,,3452 80 104 JJ 30000
+308,Advertising and Publicity,,1,1,1,3452 80 104 JJ 30800
+09,Others,,1,1,1,3452 80 104 JJ 30809
+JJ,Total JJ,1,1,1,,
+#,State's Expenditure Total,"10,38,54","10,50,15","10,50,65","10,51,21",
+104,Total 104,"10,38,54","10,50,15","10,50,65","10,51,21",
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+AD,Tourist Security Organisation,,,,,3452 80 800 AD 30000
+305,Office Expenses,,1,1,1,3452 80 800 AD 30500
+02,Other Contingencies,,1,1,1,3452 80 800 AD 30502
+321,Motor Vehicles,12,12,12,12,3452 80 800 AD 32100
+02,Maintenance of Functional Vehicles,12,12,12,12,3452 80 800 AD 32102
+333,Payments for Professional and Special Services,"1,82,70","88,87","1,89,40","1,89,40",3452 80 800 AD 33300
+04,Contract Payment,"1,82,70","88,87","1,89,40","1,89,40",3452 80 800 AD 33304
+345,"Petroleum, Oil and Lubricant",86,"1,08","1,08","1,08",3452 80 800 AD 34500
+01,"Petroleum, Oil and Lubricant",86,"1,08","1,08","1,08",3452 80 800 AD 34501
+346,"Clothing, Tentage and Stores",,1,"2,29",1,3452 80 800 AD 34600
+01,"Clothing, Tentage and Stores",,1,"2,29",1,3452 80 800 AD 34601
+AD,Total AD,"1,83,68","90,09","1,92,90","1,90,62",
+029,02   Directorate of Tourism,,,,,
+JA,Assistance to Food Craft Institute,,,,,3452 80 800 JA 30000
+309,Grants-in-Aid,"5,00","5,01","5,01","5,21",3452 80 800 JA 30900
+01,Grants for Current Expenditure,"5,00","5,00","5,00","5,20",3452 80 800 JA 30901
+03,Grants for Specific Schemes,,1,1,1,3452 80 800 JA 30903
+JA,Total JA,"5,00","5,01","5,01","5,21",
+#,State's Expenditure Total,"1,88,68","95,10","1,97,91","1,95,83",
+800,Total 800,"1,88,68","95,10","1,97,91","1,95,83",
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+AA,Deduct - Recoveries of Unspent grant pertaining to Commissionerate of Tourism,,,,,3452 80 911 AA 30000
+377,Deduct-Recoveries,"-1,63",,,,3452 80 911 AA 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-1,63",,,,3452 80 911 AA 37702
+AA,Total AA,"-1,63",,,,
+#,State's Expenditure Total,"-1,63",,,,
+911,Total 911,"-1,63",,,,
+80,Total 80,"21,33,45","21,00,19","23,03,74","23,61,06",
+3452,Total 3452 Charged,,1,1,1,
+3452,Total 3452 Voted,"26,93,67","26,23,64","35,80,20","33,89,13",
+029,02   Directorate of Tourism,,,,,
+5054,CAPITAL OUTLAY ON ROADS AND BRIDGES,,,,,
+80,General,,,,,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+KC,Improvement of access roads to important Tourist Centres,,,,,5054 80 800 KC 40000
+416,Major Works,"10,47,52","5,00,00","5,00,00","5,00,00",5054 80 800 KC 41600
+01,Major Works,"10,47,52","5,00,00","5,00,00","5,00,00",5054 80 800 KC 41601
+KC,Total KC,"10,47,52","5,00,00","5,00,00","5,00,00",
+#,State's Expenditure Total,"10,47,52","5,00,00","5,00,00","5,00,00",
+800,Total 800,"10,47,52","5,00,00","5,00,00","5,00,00",
+80,Total 80,"10,47,52","5,00,00","5,00,00","5,00,00",
+5054,Total 5054,"10,47,52","5,00,00","5,00,00","5,00,00",
+5452,CAPITAL OUTLAY ON TOURISM,,,,,
+01,Tourist Infrastructure,,,,,
+101,Tourist Centres,,,,,
+#,State's Expenditure,,,,,
+KV,Improvement of basic facilities in Tourist centres,,,,,5452 01 101 KV 40000
+416,Major Works,"6,28,03","5,00,00","5,00,00","5,00,00",5452 01 101 KV 41600
+01,Major Works,"6,28,03","5,00,00","5,00,00","5,00,00",5452 01 101 KV 41601
+477,Deduct-Recoveries,"-34,58",,,,5452 01 101 KV 47700
+03,Other Recoveries,"-34,58",,,,5452 01 101 KV 47703
+KV,Total KV,"5,93,45","5,00,00","5,00,00","5,00,00",
+029,02   Directorate of Tourism,,,,,
+LB,Infrastructure Development in Religious Places,,,,,5452 01 101 LB 40000
+416,Major Works,,1,1,1,5452 01 101 LB 41600
+01,Major Works,,1,1,1,5452 01 101 LB 41601
+LB,Total LB,1,1,1,,
+LC,Poompuhar Tourist Complex,,,,,5452 01 101 LC 40000
+416,Major Works,"2,02,49",,,,5452 01 101 LC 41600
+01,Major Works,"2,02,49",,,,5452 01 101 LC 41601
+LC,Total LC,"2,02,49",,,,
+LD,Tourism Promotion Project,,,,,5452 01 101 LD 40000
+416,Major Works,,"1,00,00,00","1,00,00,00","1,00,00,00",5452 01 101 LD 41600
+01,Major Works,,"1,00,00,00","1,00,00,00","1,00,00,00",5452 01 101 LD 41601
+LD,Total LD,"1,00,00,00","1,00,00,00","1,00,00,00",,
+LE,Construction of New Office Buildings for Tourism Department,,,,,5452 01 101 LE 40000
+416,Major Works,,,"24,00","36,00",5452 01 101 LE 41600
+01,Major Works,,,"24,00","36,00",5452 01 101 LE 41601
+LE,Total LE,,"24,00","36,00",,
+#,State's Expenditure Total,"7,95,94","1,05,00,01","1,05,24,01","1,05,36,01",
+029,02   Directorate of Tourism,,,,,
+#,Externally Aided Projects,,,,,
+PA,Asian Development Bank assisted Inclusive Tourism Infrastructure Project,,,,,5452 01 101 PA 40000
+416,Major Works,"4,37,50","50,00,00","1,10,31,00","81,66,00",5452 01 101 PA 41600
+01,Major Works,"4,37,50","50,00,00","1,10,31,00","81,66,00",5452 01 101 PA 41601
+PA,Total PA,"4,37,50","50,00,00","1,10,31,00","81,66,00",
+#,Externally Aided Projects Total,"4,37,50","50,00,00","1,10,31,00","81,66,00",
+#,Central Sector Schemes,,,,,
+SY,Development of Thanjavur under Mega Tourism Project,,,,,5452 01 101 SY 40000
+416,Major Works,,1,1,1,5452 01 101 SY 41600
+01,Major Works,,1,1,1,5452 01 101 SY 41601
+SY,Total SY,1,1,1,,
+#,Central Sector Schemes Total,,1,1,1,
+101,Total 101,"12,33,44","1,55,00,02","2,15,55,02","1,87,02,02",
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+JC,Upgradation of Commissionerate of Tourism,,,,,5452 01 800 JC 40000
+416,Major Works,"5,70",1,"1,76",1,5452 01 800 JC 41600
+01,Major Works,"5,70",1,"1,76",1,5452 01 800 JC 41601
+JC,Total JC,"5,70",1,"1,76",1,
+029,02   Directorate of Tourism,,,,,
+JD,Establishment of Tamil Nadu Maritime Heritage Museum at Mamallapuram,,,,,5452 01 800 JD 40000
+416,Major Works,,1,1,1,5452 01 800 JD 41600
+01,Major Works,,1,1,1,5452 01 800 JD 41601
+JD,Total JD,1,1,1,,
+JE,Creation of World Class Oceanarium at Mamallapuram,,,,,5452 01 800 JE 40000
+416,Major Works,,1,1,1,5452 01 800 JE 41600
+01,Major Works,,1,1,1,5452 01 800 JE 41601
+JE,Total JE,1,1,1,,
+#,State's Expenditure Total,"5,70",3,"1,78",3,
+800,Total 800,"5,70",3,"1,78",3,
+01,Total 01,"12,39,14","1,55,00,05","2,15,56,80","1,87,02,05",
+80,General,,,,,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+JA,Tourism Development under Hill Area Development Programme,,,,,5452 80 800 JA 40000
+416,Major Works,,1,1,1,5452 80 800 JA 41600
+01,Major Works,,1,1,1,5452 80 800 JA 41601
+JA,Total JA,,1,1,1,
+#,State's Expenditure Total,,1,1,1,
+800,Total 800,1,1,1,,
+80,Total 80,1,1,1,,
+5452,Total 5452,"12,39,14","1,55,00,06","2,15,56,81","1,87,02,06",
+7452,LOANS FOR TOURISM,,,,,
+60,Others,,,,,
+190,Loans to Public Sector,,,,,
+#,State's Expenditure,,,,,
+AA,Interest free loan to Tamil Nadu Tourism Development Corporation (TTDC) on capitalisation of interest dues till the end of 2017-18,,,,,7452 60 190 AA 50000
+502,Loan - Outgo,,,"94,47",,7452 60 190 AA 50200
+02,Not Bearing Interest,,,"94,47",,7452 60 190 AA 50202
+AA,Total AA,,"94,47",,,
+#,State's Expenditure Total,,,"94,47",,
+190,Total 190,,"94,47",,,
+60,Total 60,,"94,47",,,
+7452,Total 7452,,"94,47",,,

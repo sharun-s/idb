@@ -1,0 +1,589 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2059,PUBLIC WORKS,,,,,
+01,Office Buildings,,,,,
+053,Maintenance and Repairs,,,,,
+#,State's Expenditure,,,,,
+BF,Buildings- Information and Publicity (Administered by Chief Engineer (Buildings)),,,,,2059 01 053 BF 30000
+318,Maintenance,"60,29","65,00","65,00","68,25",2059 01 053 BF 31800 
+01,Periodical Maintenance,"60,29","65,00","65,00","68,25",2059 01 053 BF 31801
+BF,Total BF,"60,29","65,00","65,00","68,25",
+#,State's Expenditure Total,"60,29","65,00","65,00","68,25",
+053,Total 053,"60,29","65,00","65,00","68,25",
+01,Total 01,"60,29","65,00","65,00","68,25",
+2059,Total 2059,"60,29","65,00","65,00","68,25",
+2220,INFORMATION AND PUBLICITY,,,,,
+01,Films,,,,,
+105,Production of Films,,,,,
+#,State's Expenditure,,,,,
+AD,Incentive Scheme for promoting low budget Tamil film of High Quality with a Social Content,,,,,2220 01 105 AD 30000
+309,Grants-in-Aid,,1,1,1,2220 01 105 AD 30900
+03,Grants for Specific Schemes,,1,1,1,2220 01 105 AD 30903
+359,Prizes and Awards,"56,00","25,00","32,00","25,00",2220 01 105 AD 35900
+01,Prizes and Awards,"56,00","25,00","32,00","25,00",2220 01 105 AD 35901
+AD,Total AD,"56,00","25,01","32,01","25,01",
+AE,State Awards,,,,,2220 01 105 AE 30000
+309,Grants-in-Aid,"85,00",1,"85,01",1,2220 01 105 AE 30900
+03,Grants for Specific Schemes,"85,00",1,"85,01",1,2220 01 105 AE 30903
+333,Payments for Professional and Special Services,,"2,00","8,73","2,00",2220 01 105 AE 33300
+09,Other Payments,,"2,00","8,73","2,00",2220 01 105 AE 33309
+359,Prizes and Awards,"3,20,04","19,95","3,48,86","19,95",2220 01 105 AE 35900
+01,Prizes and Awards,"3,20,04","19,95","3,48,86","19,95",2220 01 105 AE 35901
+AE,Total AE,"4,05,04","21,96","4,42,60","21,96",
+AI,Tamil Nadu Film Division,,,,,2220 01 105 AI 30000
+301,Salaries,"1,81,35","2,09,26","1,85,06","1,92,84",2220 01 105 AI 30100
+01,Pay,"1,57,49","1,82,55","1,60,00","1,66,40",2220 01 105 AI 30101
+02,Medical Allowance,92,"1,11","1,11","1,11",2220 01 105 AI 30102
+03,Medical Charges,30,45,70,70,2220 01 105 AI 30103
+04,Other Allowances,"1,45","1,95","1,50","1,50",2220 01 105 AI 30104
+06,House Rent Allowance,"17,73","19,33","18,00","19,50",2220 01 105 AI 30106
+07,Travel Concession,21,23,35,23,2220 01 105 AI 30107
+08,City Compensatory Allowance,"3,25","3,64","3,40","3,40",2220 01 105 AI 30108
+302,Wages,,4,4,4,2220 01 105 AI 30200
+01,Wages,,4,4,4,2220 01 105 AI 30201
+303,Dearness Allowance,"18,43","32,50","32,00","41,60",2220 01 105 AI 30300
+01,Dearness Allowance,"18,43","32,50","32,00","41,60",2220 01 105 AI 30301
+304,Travel Expenses,"2,98","3,08","3,04","3,08",2220 01 105 AI 30400
+01,Tour Travelling Allowances,"2,98","3,00","3,00","3,00",2220 01 105 AI 30401
+02,Transfer Travelling Allowances,,8,4,8,2220 01 105 AI 30402
+305,Office Expenses,"1,81",93,"2,57","2,57",2220 01 105 AI 30500
+01,Telephone Charges,"1,26",37,37,37,2220 01 105 AI 30501
+02,Other Contingencies,55,55,55,55,2220 01 105 AI 30502
+03,Electricity Charges,,1,"1,65","1,65",2220 01 105 AI 30503
+308,Advertising and Publicity,"48,39","19,95","42,16","19,95",2220 01 105 AI 30800
+01,Advertisement Charges,"48,39","19,95","42,16","19,95",2220 01 105 AI 30801
+319,Machinery and Equipments,38,49,49,49,2220 01 105 AI 31900
+01,Purchase,,1,1,1,2220 01 105 AI 31901
+03,Maintenance,38,48,48,48,2220 01 105 AI 31903
+321,Motor Vehicles,6,6,6,6,2220 01 105 AI 32100
+02,Maintenance of Functional Vehicles,6,6,6,6,2220 01 105 AI 32102
+324,Materials and Supplies,"32,21","32,21","52,21","32,21",2220 01 105 AI 32400
+01,Materials and Supplies,"32,21","32,21","52,21","32,21",2220 01 105 AI 32401
+333,Payments for Professional and Special Services,"1,20","2,06","2,06","2,06",2220 01 105 AI 33300
+03,Special Service,,66,66,66,2220 01 105 AI 33303
+04,Contract Payment,"1,20","1,40","1,40","1,40",2220 01 105 AI 33304
+334,Other Charges,15,,15,15,2220 01 105 AI 33400
+01,Other Items,15,,15,15,2220 01 105 AI 33401
+345,"Petroleum, Oil and Lubricant","2,24","2,36","4,80","4,92",2220 01 105 AI 34500
+01,"Petroleum, Oil and Lubricant","2,24","2,36","4,80","4,92",2220 01 105 AI 34501
+347,Stores and Equipments,"39,84","40,00","40,00","40,00",2220 01 105 AI 34700
+02,Equipments - Voted,"39,84","40,00","40,00","40,00",2220 01 105 AI 34702
+349,Festival Advances,-14,,,,2220 01 105 AI 34900
+01,Festival Advances-Debit,70,"1,75","3,50","3,50",2220 01 105 AI 34901
+02,Festival Advances-Credit,-84,"-1,75","-3,50","-3,50",2220 01 105 AI 34902
+359,Prizes and Awards,2,2,2,2,2220 01 105 AI 35900
+01,Prizes and Awards,2,2,2,2,2220 01 105 AI 35901
+376,Computer and Accessories,12,13,13,13,2220 01 105 AI 37600
+01,Purchase,,1,1,1,2220 01 105 AI 37601
+03,Stationery,12,12,12,12,2220 01 105 AI 37603
+AI,Total AI,"3,29,04","3,43,09","3,64,79","3,40,12",
+AJ,Film and T.V. Institute of Tamil Nadu,,,,,2220 01 105 AJ 30000
+301,Salaries,"4,68,91","4,38,79","4,68,51","4,84,79",2220 01 105 AJ 30100
+01,Pay,"4,07,83","3,79,70","4,08,84","4,25,20",2220 01 105 AJ 30101
+02,Medical Allowance,"3,16","3,12","3,12","3,12",2220 01 105 AJ 30102
+03,Medical Charges,20,25,83,25,2220 01 105 AJ 30103
+04,Other Allowances,"3,01","4,00","4,00","4,00",2220 01 105 AJ 30104
+06,House Rent Allowance,"45,83","42,55","42,55","43,05",2220 01 105 AJ 30106
+07,Travel Concession,35,33,33,33,2220 01 105 AJ 30107
+08,City Compensatory Allowance,"8,53","8,84","8,84","8,84",2220 01 105 AJ 30108
+302,Wages,"1,42","1,57","2,96","2,96",2220 01 105 AJ 30200
+01,Wages,"1,42","1,57","2,96","2,96",2220 01 105 AJ 30201
+303,Dearness Allowance,"37,58","56,40","71,81","1,06,30",2220 01 105 AJ 30300
+01,Dearness Allowance,"37,58","56,40","71,81","1,06,30",2220 01 105 AJ 30301
+304,Travel Expenses,70,"1,08","1,08","1,08",2220 01 105 AJ 30400
+01,Tour Travelling Allowances,38,"1,00","1,00","1,00",2220 01 105 AJ 30401
+02,Transfer Travelling Allowances,32,8,8,8,2220 01 105 AJ 30402
+305,Office Expenses,"48,24","51,50","51,50","53,26",2220 01 105 AJ 30500
+01,Telephone Charges,"3,78","4,78","4,78","4,78",2220 01 105 AJ 30501
+02,Other Contingencies,"3,50","2,71","2,71","2,71",2220 01 105 AJ 30502
+03,Electricity Charges,"40,96","44,00","44,00","45,76",2220 01 105 AJ 30503
+05,Furniture,,1,1,1,2220 01 105 AJ 30505
+306,"Rent, Rates and Taxes","2,03","1,29","2,90","3,19",2220 01 105 AJ 30600
+03,Water Charges,"2,03","1,29","2,90","3,19",2220 01 105 AJ 30603
+308,Advertising and Publicity,,"3,65",,"3,65",2220 01 105 AJ 30800
+01,Advertisement Charges,,"3,65",,"3,65",2220 01 105 AJ 30801
+319,Machinery and Equipments,"42,99","1,58,82","1,68,82","1,58,82",2220 01 105 AJ 31900
+01,Purchase,,2,"10,02",2,2220 01 105 AJ 31901
+03,Maintenance,"5,72","8,80","8,80","8,80",2220 01 105 AJ 31903
+04,Lease Rent,"37,27","1,50,00","1,50,00","1,50,00",2220 01 105 AJ 31904
+321,Motor Vehicles,8,11,11,11,2220 01 105 AJ 32100
+02,Maintenance of Functional Vehicles,8,11,11,11,2220 01 105 AJ 32102
+324,Materials and Supplies,"8,24","9,50","9,50","9,50",2220 01 105 AJ 32400
+01,Materials and Supplies,"8,24","9,50","9,50","9,50",2220 01 105 AJ 32401
+333,Payments for Professional and Special Services,"39,97","65,44","65,63","65,68",2220 01 105 AJ 33300
+01,Pleaders Fees,,1,20,1,2220 01 105 AJ 33301
+02,Remuneration,"26,75","50,34","50,34","50,34",2220 01 105 AJ 33302
+03,Special Service,"6,65","9,00","9,00","9,00",2220 01 105 AJ 33303
+04,Contract Payment,"3,18","2,59","2,59","2,69",2220 01 105 AJ 33304
+09,Other Payments,"3,39","3,50","3,50","3,64",2220 01 105 AJ 33309
+334,Other Charges,25,,,,2220 01 105 AJ 33400
+01,Other Items,25,,,,2220 01 105 AJ 33401
+345,"Petroleum, Oil and Lubricant","1,93","3,11","2,50","3,23",2220 01 105 AJ 34500
+01,"Petroleum, Oil and Lubricant","1,93","3,11","2,50","3,23",2220 01 105 AJ 34501
+349,Festival Advances,25,,,,2220 01 105 AJ 34900
+01,Festival Advances-Debit,"3,65","4,25","8,50","8,50",2220 01 105 AJ 34901
+02,Festival Advances-Credit,"-3,40","-4,25","-8,50","-8,50",2220 01 105 AJ 34902
+359,Prizes and Awards,2,5,5,6,2220 01 105 AJ 35900
+01,Prizes and Awards,2,5,5,6,2220 01 105 AJ 35901
+376,Computer and Accessories,28,30,30,30,2220 01 105 AJ 37600
+01,Purchase,,2,2,2,2220 01 105 AJ 37601
+03,Stationery,28,28,28,28,2220 01 105 AJ 37603
+AJ,Total AJ,"6,52,89","7,91,61","8,45,67","8,92,93",
+#,State's Expenditure,,,,,
+105,Total 105,"14,42,97","11,81,67","16,85,07","12,80,02",
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+JB,Cine Workers' Welfare Board,,,,,2220 01 800 JB 30000
+309,Grants-in-Aid,"52,07","35,35","46,91","35,35",2220 01 800 JB 30900
+01,Grants for Current Expenditure,"52,07","35,35","46,91","35,35",2220 01 800 JB 30901
+JB,Total JB,"52,07","35,35","46,91","35,35",
+#,State's Expenditure Total,"52,07","35,35","46,91","35,35",
+800,Total 800,"52,07","35,35","46,91","35,35",
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+AE,Deduct - Recoveries of Overpayments,,,,,2220 01 911 AE 30000
+377,Deduct-Recoveries,"-1,69",,,,2220 01 911 AE 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-1,69",,,,2220 01 911 AE 37702
+AE,Total AE,"-1,69",,,,
+AJ,Deduct - Recoveries of Overpayments,,,,,2220 01 911 AJ 30000
+377,Deduct-Recoveries,"-2,74",,,,2220 01 911 AJ 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-2,74",,,,2220 01 911 AJ 37702
+AJ,Total AJ,"-2,74",,,,
+#,State's Expenditure Total,"-4,43",,,,
+911,Total 911,"-4,43",,,,
+01,Total 01,"14,90,61","12,17,02","17,31,98","13,15,37",
+60,Others,,,,,
+001,Direction and Administration,,,,,
+#,State's Expenditure,,,,,
+AA,Headquarters Staff,,,,,2220 60 001 AA 30000
+301,Salaries,"6,96,47","7,27,45","7,28,41","7,55,65",2220 60 001 AA 30100
+01,Pay,"6,06,52","6,35,70","6,35,70","6,61,12",2220 60 001 AA 30101
+02,Medical Allowance,"3,43","3,39","4,25","4,25",2220 60 001 AA 30102
+03,Medical Charges,22,48,48,50,2220 60 001 AA 30103
+04,Other Allowances,"5,89","6,00","6,00","6,00",2220 60 001 AA 30104
+06,House Rent Allowance,"68,26","68,60","68,60","70,50",2220 60 001 AA 30106
+07,Travel Concession,57,60,70,60,2220 60 001 AA 30107
+08,City Compensatory Allowance,"11,58","12,68","12,68","12,68",2220 60 001 AA 30108
+303,Dearness Allowance,"72,10","89,60","1,08,11","1,65,28",2220 60 001 AA 30300
+01,Dearness Allowance,"72,10","89,60","1,08,11","1,65,28",2220 60 001 AA 30301
+304,Travel Expenses,"8,46","8,53","14,23","9,23",2220 60 001 AA 30400
+01,Tour Travelling Allowances,"8,29","8,30","14,00","9,00",2220 60 001 AA 30401
+02,Transfer Travelling Allowances,17,23,23,23,2220 60 001 AA 30402
+305,Office Expenses,"25,84","24,90","24,90","24,90",2220 60 001 AA 30500
+01,Telephone Charges,"22,50","24,88","24,88","24,88",2220 60 001 AA 30501
+02,Other Contingencies,,1,1,1,2220 60 001 AA 30502
+05,Furniture,"3,34",1,1,1,2220 60 001 AA 30505
+319,Machinery and Equipments,,1,1,1,2220 60 001 AA 31900
+01,Purchase,,1,1,1,2220 60 001 AA 31901
+321,Motor Vehicles,97,1,1,1,2220 60 001 AA 32100
+01,Purchase,97,1,1,1,2220 60 001 AA 32101
+333,Payments for Professional and Special Services,,1,1,1,2220 60 001 AA 33300
+09,Other Payments,,1,1,1,2220 60 001 AA 33309
+349,Festival Advances,25,,,,2220 60 001 AA 34900
+01,Festival Advances-Debit,"2,20","4,00","8,00","8,00",2220 60 001 AA 34901
+02,Festival Advances-Credit,"-1,95","-4,00","-8,00","-8,00",2220 60 001 AA 34902
+359,Prizes and Awards,,5,5,5,2220 60 001 AA 35900
+01,Prizes and Awards,,5,5,5,2220 60 001 AA 35901
+372,Training,,1,1,1,2220 60 001 AA 37200
+01,Training,,1,1,1,2220 60 001 AA 37201
+376,Computer and Accessories,,2,2,2,2220 60 001 AA 37600
+01,Purchase,,1,1,1,2220 60 001 AA 37601
+03,Stationery,,1,1,1,2220 60 001 AA 37603
+AA,Total AA,"8,04,09","8,50,59","8,75,76","9,55,17",
+#,State's Expenditure Total,"8,04,09","8,50,59","8,75,76","9,55,17",
+001,Total 001,"8,04,09","8,50,59","8,75,76","9,55,17",
+102,Information Centres,,,,,
+#,State's Expenditure,,,,,
+AA,Information Centres,,,,,2220 60 102 AA 30000
+301,Salaries,"1,48,38","1,42,80","1,47,98","1,53,97",2220 60 102 AA 30100
+01,Pay,"1,32,29","1,25,21","1,30,24","1,35,45",2220 60 102 AA 30101
+02,Medical Allowance,84,"1,08","1,08","1,11",2220 60 102 AA 30102
+03,Medical Charges,5,6,6,6,2220 60 102 AA 30103
+04,Other Allowances,"1,38","1,30","1,40","1,40",2220 60 102 AA 30104
+06,House Rent Allowance,"11,61","12,74","12,74","13,54",2220 60 102 AA 30106
+07,Travel Concession,14,15,20,15,2220 60 102 AA 30107
+08,City Compensatory Allowance,"2,07","2,26","2,26","2,26",2220 60 102 AA 30108
+303,Dearness Allowance,"12,17","23,30","27,24","33,86",2220 60 102 AA 30300
+01,Dearness Allowance,"12,17","23,30","27,24","33,86",2220 60 102 AA 30301
+304,Travel Expenses,76,96,"1,26",96,2220 60 102 AA 30400
+01,Tour Travelling Allowances,76,90,"1,20",90,2220 60 102 AA 30401
+02,Transfer Travelling Allowances,,6,6,6,2220 60 102 AA 30402
+305,Office Expenses,"2,01","2,46","2,46","2,46",2220 60 102 AA 30500 
+01,Telephone Charges,62,86,86,86,2220 60 102 AA 30501
+02,Other Contingencies,"1,28","1,30","1,30","1,30",2220 60 102 AA 30502
+03,Electricity Charges,11,30,30,30,2220 60 102 AA 30503
+333,Payments for Professional and Special Services,"1,27",,,1,2220 60 102 AA 33300
+03,Special Service,"1,27",,,1,2220 60 102 AA 33303
+334,Other Charges,34,1,7,7,2220 60 102 AA 33400
+01,Other Items,34,1,7,7,2220 60 102 AA 33401
+345,"Petroleum, Oil and Lubricant",89,90,90,90,2220 60 102 AA 34500
+01,"Petroleum, Oil and Lubricant",89,90,90,90,2220 60 102 AA 34501
+349,Festival Advances,-6,,,,2220 60 102 AA 34900
+01,Festival Advances-Debit,90,"1,50","3,00","3,00",2220 60 102 AA 34901
+02,Festival Advances-Credit,-96,"-1,50","-3,00","-3,00",2220 60 102 AA 34902
+376,Computer and Accessories,"2,33",1,1,1,2220 60 102 AA 37600
+01,Purchase,"2,33",1,1,1,2220 60 102 AA 37601
+AA,Total AA,"1,68,09","1,70,44","1,79,92","1,92,24",
+#,State's Expenditure Total,"1,68,09","1,70,44","1,79,92","1,92,24",
+102,Total 102,"1,68,09","1,70,44","1,79,92","1,92,24",
+106,Field Publicity,,,,,
+#,State's Expenditure,,,,,
+AC,Scheme for Publicity and Information,,,,,2220 60 106 AC 30000
+301,Salaries,"17,37,81","19,40,59","18,38,47","19,05,10",2220 60 106 AC 30100
+01,Pay,"15,96,70","17,89,59","16,83,45","17,50,79",2220 60 106 AC 30101
+02,Medical Allowance,"14,25","14,70","14,70","14,70",2220 60 106 AC 30102
+03,Medical Charges,,28,28,28,2220 60 106 AC 30103
+04,Other Allowances,"24,55","20,50","22,81","22,81",2220 60 106 AC 30104
+06,House Rent Allowance,"94,07","1,06,50","1,06,34","1,07,36",2220 60 106 AC 30106
+07,Travel Concession,"1,44","2,36","4,09","2,36",2220 60 106 AC 30107
+08,City Compensatory Allowance,"6,80","6,66","6,80","6,80",2220 60 106 AC 30108
+302,Wages,"3,72","3,93","4,25","4,25",2220 60 106 AC 30200
+01,Wages,"3,72","3,93","4,25","4,25",2220 60 106 AC 30201
+303,Dearness Allowance,"1,49,18","2,51,27","2,80,75","4,37,70",2220 60 106 AC 30300
+01,Dearness Allowance,"1,49,18","2,51,27","2,80,75","4,37,70",2220 60 106 AC 30301
+304,Travel Expenses,"48,89","47,29","51,25","50,23",2220 60 106 AC 30400
+01,Tour Travelling Allowances,"47,52","45,00","48,62","47,90",2220 60 106 AC 30401
+02,Transfer Travelling Allowances,"1,37","2,29","2,63","2,33",2220 60 106 AC 30402
+305,Office Expenses,"86,59","97,89","98,50","98,99",2220 60 106 AC 30500
+01,Telephone Charges,"5,30","8,98","8,98","8,98",2220 60 106 AC 30501
+02,Other Contingencies,"67,05","66,40","66,40","66,40",2220 60 106 AC 30502
+03,Electricity Charges,"14,11","22,50","23,11","23,60",2220 60 106 AC 30503
+05,Furniture,13,1,1,1,2220 60 106 AC 30505
+306,"Rent, Rates and Taxes",12,12,16,17,2220 60 106 AC 30600
+01,Rent,4,1,1,1,2220 60 106 AC 30601
+03,Water Charges,8,11,15,16,2220 60 106 AC 30603
+317,Minor Works,,14,14,14,2220 60 106 AC 31700
+01,Minor Works,,14,14,14,2220 60 106 AC 31701
+319,Machinery and Equipments,51,55,"1,25,41",55,2220 60 106 AC 31900
+01,Purchase,,1,"1,24,87",1,2220 60 106 AC 31901
+03,Maintenance,51,54,54,54,2220 60 106 AC 31903
+321,Motor Vehicles,"41,70","7,07","20,54","7,07",2220 60 106 AC 32100
+01,Purchase,"34,54",1,"13,48",1,2220 60 106 AC 32101
+02,Maintenance of Functional Vehicles,"7,16","7,06","7,06","7,06",2220 60 106 AC 32102
+324,Materials and Supplies,"8,15","8,66","10,81","8,66",2220 60 106 AC 32400
+01,Materials and Supplies,"8,15","8,66","10,81","8,66",2220 60 106 AC 32401
+333,Payments for Professional and Special Services,"19,15","18,00","36,65","20,79",2220 60 106 AC 33300
+01,Pleaders Fees,"3,28",1,"14,93","1,99",2220 60 106 AC 33301
+03,Special Service,"5,02","6,84","7,31","6,84",2220 60 106 AC 33303
+04,Contract Payment,"10,85","11,15","14,41","11,96",2220 60 106 AC 33304
+334,Other Charges,24,,6,6,2220 60 106 AC 33400
+01,Other Items,24,,6,6,2220 60 106 AC 33401
+342,Service or Commitment Charges,"47,79",1,"49,24",1,2220 60 106 AC 34200
+01,Service or Commitment Charges,"47,79",1,"49,24",1,2220 60 106 AC 34201
+345,"Petroleum, Oil and Lubricant","53,18","65,78","69,19","71,55",2220 60 106 AC 34500
+01,"Petroleum, Oil and Lubricant","53,18","65,78","69,19","71,55",2220 60 106 AC 34501
+349,Festival Advances,16,,,,2220 60 106 AC 34900
+01,Festival Advances-Debit,"14,50","22,30","44,60","44,60",2220 60 106 AC 34901
+02,Festival Advances-Credit,"-14,34","-22,30","-44,60","-44,60",2220 60 106 AC 34902
+351,Compensation,,1,1,1,2220 60 106 AC 35100
+02,Other Compensations  - Voted,,1,1,1,2220 60 106 AC 35102
+354,Expenses on Conducted Tours,"9,42",1,1,1,2220 60 106 AC 35400
+01,Expenses on Conducted Tours,"9,42",1,1,1,2220 60 106 AC 35401
+359,Prizes and Awards,25,30,68,30,2220 60 106 AC 35900
+01,Prizes and Awards,25,30,68,30,2220 60 106 AC 35901
+371,Printing Charges,,1,1,1,2220 60 106 AC 37100
+01,Printing Charges,,1,1,1,2220 60 106 AC 37101
+372,Training,"6,84","10,00","10,00","10,00",2220 60 106 AC 37200
+01,Training,"6,84","10,00","10,00","10,00",2220 60 106 AC 37201
+376,Computer and Accessories,"11,13","2,50","20,68","2,50",2220 60 106 AC 37600
+01,Purchase,"8,55",1,"18,19",1,2220 60 106 AC 37601
+02,Maintenance,"2,22","2,31","2,31","2,31",2220 60 106 AC 37602
+03,Stationery,36,18,18,18,2220 60 106 AC 37603
+AC,Total AC,"22,24,83","24,54,13","26,16,81","26,18,10",
+AH,Exhibition,,,,,2220 60 106 AH 30000
+302,Wages,"4,51","4,42","5,00","5,00",2220 60 106 AH 30200
+01,Wages,"4,51","4,42","5,00","5,00",2220 60 106 AH 30201
+308,Advertising and Publicity,"6,30,79","6,33,92","6,62,05","6,62,05",2220 60 106 AH 30800
+01,Advertisement Charges,,1,1,1,2220 60 106 AH 30801
+02,Exhibition,"6,10,80","6,33,91","6,62,04","6,62,04",2220 60 106 AH 30802
+09,Others,"19,99",,,,2220 60 106 AH 30809
+310,Contributions,,"60,00","87,60","60,00",2220 60 106 AH 31000
+09,Others,,"60,00","87,60","60,00",2220 60 106 AH 31009
+AH,Total AH,"6,35,30","6,98,34","7,54,65","7,27,05 ",
+AI,Publicity,,,,,2220 60 106 AI 30000
+307,Publications,"13,87","13,66","13,66","13,66",2220 60 106 AI 30700
+01,Publications,"13,87","13,66","13,66","13,66",2220 60 106 AI 30701
+308,Advertising and Publicity,"28,64,49","13,70,19","23,30,90","13,71,29",2220 60 106 AI 30800
+01,Advertisement Charges,"25,49,63","13,37,76","22,11,07","13,37,76",2220 60 106 AI 30801
+09,Others,"3,14,86","32,43","1,19,83","33,53",2220 60 106 AI 30809
+AI,Total AI,"28,78,36","13,83,85","23,44,56","13,84,95 ",
+AJ,"Schemes for Publicity to propaganda arrangements made by Chief Engineer (General), Public Works Department",,,,,2220 60 106 AJ 30000
+308,Advertising and Publicity,"7,33","7,80","7,80","7,80",2220 60 106 AJ 30800
+01,Advertisement Charges,"7,33","7,80","7,80","7,80",2220 60 106 AJ 30801
+317,Minor Works,"19,77",20,"35,69",80,2220 60 106 AJ 31700
+01,Minor Works,"19,77",20,"35,69",80,2220 60 106 AJ 31701
+AJ,Total AJ,"27,10","8,00","43,49","8,60",
+JA,Integrated Field Publicity Scheme,,,,,2220 60 106 JA 30000
+301,Salaries,"2,77,28","5,40,14","4,00,00","4,16,00",2220 60 106 JA 30100
+01,Pay,"2,77,28","5,40,14","4,00,00","4,16,00",2220 60 106 JA 30101
+302,Wages,"5,41","5,02","5,02","5,02",2220 60 106 JA 30200
+01,Wages,"5,41","5,02","5,02","5,02",2220 60 106 JA 30201
+304,Travel Expenses,,,,"6,40",2220 60 106 JA 30400
+01,Tour Travelling Allowances,,,,"6,40",2220 60 106 JA 30401
+305,Office Expenses,"16,89","32,08","32,08","32,08",2220 60 106 JA 30500
+01,Telephone Charges,"16,82","32,00","32,00","32,00",2220 60 106 JA 30501
+02,Other Contingencies,7,7,7,7,2220 60 106 JA 30502
+05,Furniture,,1,1,1,2220 60 106 JA 30505
+308,Advertising and Publicity,"5,00",1,1,1,2220 60 106 JA 30800
+09,Others,"5,00",1,1,1,2220 60 106 JA 30809
+319,Machinery and Equipments,"38,01","38,41","38,41","38,41",2220 60 106 JA 31900
+01,Purchase,,1,1,1,2220 60 106 JA 31901
+03,Maintenance,"38,01","38,40","38,40","38,40",2220 60 106 JA 31903
+321,Motor Vehicles,,1,1,1,2220 60 106 JA 32100
+01,Purchase,,1,1,1,2220 60 106 JA 32101
+324,Materials and Supplies,,1,1,1,2220 60 106 JA 32400
+01,Materials and Supplies,,1,1,1,2220 60 106 JA 32401
+333,Payments for Professional and Special Services,"4,35","7,60","4,60","7,60",2220 60 106 JA 33300
+03,Special Service,"4,35","7,60","4,60","7,60",2220 60 106 JA 33303
+345,"Petroleum, Oil and Lubricant","63,60","72,40","90,00","90,75",2220 60 106 JA 34500
+01,"Petroleum, Oil and Lubricant","63,60","72,40","90,00","90,75",2220 60 106 JA 34501
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,,"9,60","9,60",2220 60 106 JA 34901
+02,Festival Advances-Credit,,,"-9,60","-9,60",2220 60 106 JA 34902
+376,Computer and Accessories,,1,1,1,2220 60 106 JA 37600
+01,Purchase,,1,1,1,2220 60 106 JA 37601
+JA,Total JA,"4,10,54","6,95,69","5,70,15","5,96,30",
+#,State's Expenditure Total,"61,76,13","52,40,01","63,29,66","53,35,00",
+106,Total 106,"61,76,13","52,40,01","63,29,66","53,35,00",
+110,Publications,,,,,
+#,State's Expenditure,,,,,
+AC,Printing and Publication of Tamil Arasu,,,,,2220 60 110 AC 30000
+301,Salaries,"4,21,29","4,70,98","4,77,77","4,89,31",2220 60 110 AC 30100
+01,Pay,"3,64,52","4,07,07","4,07,07","4,23,35",2220 60 110 AC 30101
+02,Medical Allowance,"3,18","3,60","3,60","3,60",2220 60 110 AC 30102
+03,Medical Charges,34,35,"7,03",40,2220 60 110 AC 30103
+04,Other Allowances,"4,36","6,98","6,98","6,98",2220 60 110 AC 30104
+06,House Rent Allowance,"40,21","43,32","43,32","45,20",2220 60 110 AC 30106
+07,Travel Concession,72,72,83,72,2220 60 110 AC 30107
+08,City Compensatory Allowance,"7,96","8,94","8,94","9,06",2220 60 110 AC 30108
+302,Wages,,1,1,1,2220 60 110 AC 30200
+01,Wages,,1,1,1,2220 60 110 AC 30201
+303,Dearness Allowance,"41,70","59,95","71,53","1,05,84",2220 60 110 AC 30300
+01,Dearness Allowance,"41,70","59,95","71,53","1,05,84",2220 60 110 AC 30301
+304,Travel Expenses,55,"1,28","1,24","1,24",2220 60 110 AC 30400
+01,Tour Travelling Allowances,55,"1,20","1,20","1,20",2220 60 110 AC 30401
+02,Transfer Travelling Allowances,,8,4,4,2220 60 110 AC 30402
+305,Office Expenses,"31,70","33,28","33,28","36,28",2220 60 110 AC 30500
+01,Telephone Charges,54,"1,03","1,03","1,03",2220 60 110 AC 30501
+02,Other Contingencies,"9,22","8,24","8,24","8,24",2220 60 110 AC 30502
+03,Electricity Charges,"17,08","19,01","19,01","22,01",2220 60 110 AC 30503
+04,Service Postage & Postal Expenditure,"4,86","5,00","5,00","5,00",2220 60 110 AC 30504
+306,"Rent, Rates and Taxes",65,80,80,80,2220 60 110 AC 30600
+03,Water Charges,65,80,80,80,2220 60 110 AC 30603
+307,Publications,25,,,,2220 60 110 AC 30700
+01,Publications,25,,,,2220 60 110 AC 30701
+317,Minor Works,,1,,1,2220 60 110 AC 31700
+01,Minor Works,,1,,1,2220 60 110 AC 31701
+319,Machinery and Equipments,"7,78","1,52","1,52","1,52",2220 60 110 AC 31900
+01,Purchase,"5,05",1,1,1,2220 60 110 AC 31901
+03,Maintenance,"2,73","1,51","1,51","1,51",2220 60 110 AC 31903
+321,Motor Vehicles,8,5,5,5,2220 60 110 AC 32100
+02,Maintenance of Functional Vehicles,8,5,5,5,2220 60 110 AC 32102
+333,Payments for Professional and Special Services,"15,17","17,76","19,93","19,93",2220 60 110 AC 33300
+02,Remuneration,59,"1,13","1,13","1,13",2220 60 110 AC 33302
+03,Special Service,"4,27","5,00","5,00","5,00",2220 60 110 AC 33303
+04,Contract Payment,"10,31","11,63","13,80","13,80",2220 60 110 AC 33304
+345,"Petroleum, Oil and Lubricant",50,63,45,63,2220 60 110 AC 34500
+01,"Petroleum, Oil and Lubricant",50,63,45,63,2220 60 110 AC 34501
+347,Stores and Equipments,"1,61,00","80,00","80,00","80,00",2220 60 110 AC 34700
+01,Stores - Voted,"1,61,00","80,00","80,00","80,00",2220 60 110 AC 34701
+349,Festival Advances,11,,,,2220 60 110 AC 34900
+01,Festival Advances-Debit,"3,25","5,00","10,00","10,00",2220 60 110 AC 34901
+02,Festival Advances-Credit,"-3,14","-5,00","-10,00","-10,00",2220 60 110 AC 34902
+359,Prizes and Awards,2,5,1,5,2220 60 110 AC 35900
+01,Prizes and Awards,2,5,1,5,2220 60 110 AC 35901
+376,Computer and Accessories,65,70,70,70,2220 60 110 AC 37600
+02,Maintenance,65,70,70,70,2220 60 110 AC 37602
+AC,Total AC,"6,81,45","6,67,02","6,87,29","7,36,37",
+JA,Tamil Arasu Press,,,,,2220 60 110 JA 30000
+305,Office Expenses,,1,1,1,2220 60 110 JA 30500
+05,Furniture,,1,1,1,2220 60 110 JA 30505
+319,Machinery and Equipments,,1,55,1,2220 60 110 JA 31900
+01,Purchase,,1,55,1,2220 60 110 JA 31901
+376,Computer and Accessories,,1,73,1,2220 60 110 JA 37600
+01,Purchase,,1,73,1,2220 60 110 JA 37601
+JA,Total JA,3,"1,29",3,,
+#,State's Expenditure Total,"6,81,45","6,67,05","6,88,58","7,36,40",
+110,Total 110,"6,81,45","6,67,05","6,88,58","7,36,40",
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+AW,Arangams,,,,,2220 60 800 AW 30000
+301,Salaries,"1,12,12","1,25,98","1,37,67","1,43,00",2220 60 800 AW 30100
+01,Pay,"99,55","1,11,19","1,22,80","1,27,71",2220 60 800 AW 30101
+02,Medical Allowance,89,"1,47","1,47","1,47",2220 60 800 AW 30102
+03,Medical Charges,,10,10,10,2220 60 800 AW 30103
+04,Other Allowances,"1,59","1,50","1,50","1,50",2220 60 800 AW 30104
+06,House Rent Allowance,"8,85","9,84","9,84","10,34",2220 60 800 AW 30106
+07,Travel Concession,7,10,18,10,2220 60 800 AW 30107
+08,City Compensatory Allowance,"1,17","1,78","1,78","1,78",2220 60 800 AW 30108
+302,Wages,,1,1,1,2220 60 800 AW 30200
+01,Wages,,1,1,1,2220 60 800 AW 30201
+303,Dearness Allowance,"9,20","21,45","26,05","31,93",2220 60 800 AW 30300
+01,Dearness Allowance,"9,20","21,45","26,05","31,93",2220 60 800 AW 30301
+304,Travel Expenses,22,39,46,39,2220 60 800 AW 30400
+01,Tour Travelling Allowances,22,30,42,30,2220 60 800 AW 30401
+02,Transfer Travelling Allowances,,9,4,9,2220 60 800 AW 30402
+305,Office Expenses,"1,00,29","1,03,26","1,03,30","1,07,25",2220 60 800 AW 30500
+01,Telephone Charges,28,35,35,35,2220 60 800 AW 30501
+02,Other Contingencies,"3,71","3,20","3,20","3,20",2220 60 800 AW 30502
+03,Electricity Charges,"96,30","99,71","99,75","1,03,70",2220 60 800 AW 30503
+306,"Rent, Rates and Taxes","45,82","46,85","1,10,93","85,80",2220 60 800 AW 30600
+02,Property tax,"35,79","35,85","92,87","67,02",2220 60 800 AW 30602
+03,Water Charges,"10,03","11,00","18,06","18,78",2220 60 800 AW 30603
+308,Advertising and Publicity,,25,25,25,2220 60 800 AW 30800
+01,Advertisement Charges,,25,25,25,2220 60 800 AW 30801
+309,Grants-in-Aid,,,"1,50,00",1,2220 60 800 AW 30900
+02,Grants for Creation of Capital Assets,,,"1,50,00",1,2220 60 800 AW 30902
+319,Machinery and Equipments,12,21,21,21,2220 60 800 AW 31900
+03,Maintenance,12,21,21,21,2220 60 800 AW 31903
+333,Payments for Professional and Special Services,97,"1,06","1,06","1,10",2220 60 800 AW 33300
+04,Contract Payment,97,"1,06","1,06","1,10",2220 60 800 AW 33304
+334,Other Charges,2,,,,2220 60 800 AW 33400
+01,Other Items,2,,,,2220 60 800 AW 33401
+345,"Petroleum, Oil and Lubricant",,26,26,26,2220 60 800 AW 34500
+01,"Petroleum, Oil and Lubricant",,26,26,26,2220 60 800 AW 34501
+349,Festival Advances,3,,,,2220 60 800 AW 34900
+01,Festival Advances-Debit,85,"1,55","3,10","3,10",2220 60 800 AW 34901
+02,Festival Advances-Credit,-82,"-1,55","-3,10","-3,10",2220 60 800 AW 34902
+359,Prizes and Awards,,1,1,1,2220 60 800 AW 35900
+01,Prizes and Awards,,1,1,1,2220 60 800 AW 35901
+376,Computer and Accessories,1,1,1,1,2220 60 800 AW 37600
+03,Stationery,1,1,1,1,2220 60 800 AW 37603
+AW,Total AW,"2,68,80","2,99,74","5,30,22","3,70,23",
+AX,Memorials,,,,,2220 60 800 AX 30000
+301,Salaries,"3,44,07","3,00,49","3,72,71","3,89,41",2220 60 800 AX 30100
+01,Pay,"2,99,93","2,57,32","3,26,13","3,39,17",2220 60 800 AX 30101
+02,Medical Allowance,"4,02","4,20","4,72","4,89",2220 60 800 AX 30102
+03,Medical Charges,4,2,10,10,2220 60 800 AX 30103
+04,Other Allowances,"6,97","7,10","7,61","7,61",2220 60 800 AX 30104
+06,House Rent Allowance,"27,95","25,71","27,44","31,50",2220 60 800 AX 30106
+07,Travel Concession,17,40,97,40,2220 60 800 AX 30107
+08,City Compensatory Allowance,"4,99","5,74","5,74","5,74",2220 60 800 AX 30108
+302,Wages,,1,1,1,2220 60 800 AX 30200
+01,Wages,,1,1,1,2220 60 800 AX 30201
+303,Dearness Allowance,"25,98","40,50","63,58","84,79",2220 60 800 AX 30300
+01,Dearness Allowance,"25,98","40,50","63,58","84,79",2220 60 800 AX 30301
+304,Travel Expenses,40,39,65,39,2220 60 800 AX 30400
+01,Tour Travelling Allowances,35,30,56,30,2220 60 800 AX 30401
+02,Transfer Travelling Allowances,5,9,9,9,2220 60 800 AX 30402
+305,Office Expenses,"22,50","28,00","36,67","33,83",2220 60 800 AX 30500
+01,Telephone Charges,49,74,74,74,2220 60 800 AX 30501
+02,Other Contingencies,"2,26","2,42","3,17","2,42",2220 60 800 AX 30502
+03,Electricity Charges,"19,69","24,83","29,93","30,66",2220 60 800 AX 30503
+05,Furniture,6,1,"2,83",1,2220 60 800 AX 30505
+306,"Rent, Rates and Taxes",28,11,16,19,2220 60 800 AX 30600
+03,Water Charges,8,10,15,18,2220 60 800 AX 30603
+05,Others,20,1,1,1,2220 60 800 AX 30605
+308,Advertising and Publicity,"5,53",,"1,50",1,2220 60 800 AX 30800
+09,Others,"5,53",,"1,50",1,2220 60 800 AX 30809
+317,Minor Works,,,"30,00",1,2220 60 800 AX 31700
+01,Minor Works,,,"30,00",1,2220 60 800 AX 31701
+318,Maintenance,69,84,84,84,2220 60 800 AX 31800
+01,Periodical Maintenance,69,84,84,84,2220 60 800 AX 31801
+319,Machinery and Equipments,"3,33",1,1,1,2220 60 800 AX 31900
+01,Purchase,"3,33",1,1,1,2220 60 800 AX 31901
+333,Payments for Professional and Special Services,"2,28,55","1,08,75","3,00,69","2,03,91",2220 60 800 AX 33300
+02,Remuneration,,,13,13,2220 60 800 AX 33302
+04,Contract Payment,"1,98,46","1,08,75","2,97,56","2,03,77",2220 60 800 AX 33304
+09,Other Payments,"30,09",,"3,00",1,2220 60 800 AX 33309
+346,"Clothing, Tentage and Stores",,"5,00","5,00","5,00",2220 60 800 AX 34600
+01,"Clothing, Tentage and Stores",,"5,00","5,00","5,00",2220 60 800 AX 34601
+349,Festival Advances,-5,,,,2220 60 800 AX 34900
+01,Festival Advances-Debit,"3,95","6,00","12,00","12,00",2220 60 800 AX 34901
+02,Festival Advances-Credit,"-4,00","-6,00","-12,00","-12,00",2220 60 800 AX 34902
+359,Prizes and Awards,2,1,2,6,2220 60 800 AX 35900
+01,Prizes and Awards,2,1,2,6,2220 60 800 AX 35901
+368,"Cost of Books/Note Books/Slates, etc.",2,2,"1,79",2,2220 60 800 AX 36800
+01,"Cost of Books/Note Books/Slates, etc.",2,2,"1,79",2,2220 60 800 AX 36801
+AX,Total AX,"6,31,32","4,84,13","8,13,63","7,18,48",
+BA,Anna Square Library and Sales Emporium,,,,,2220 60 800 BA 30000
+301,Salaries,"6,54","4,82","8,68","9,45",2220 60 800 BA 30100
+01,Pay,"5,56","3,83","7,40","7,70",2220 60 800 BA 30101
+02,Medical Allowance,6,6,8,9,2220 60 800 BA 30102
+04,Other Allowances,6,10,10,10,2220 60 800 BA 30104
+06,House Rent Allowance,73,64,84,"1,31",2220 60 800 BA 30106
+07,Travel Concession,,7,10,7,2220 60 800 BA 30107
+08,City Compensatory Allowance,13,12,16,18,2220 60 800 BA 30108
+303,Dearness Allowance,52,60,"2,58","1,92",2220 60 800 BA 30300
+01,Dearness Allowance,52,60,"2,58","1,92",2220 60 800 BA 30301
+305,Office Expenses,5,5,5,5,2220 60 800 BA 30500
+02,Other Contingencies,5,5,5,5,2220 60 800 BA 30502
+349,Festival Advances,1,,,,2220 60 800 BA 34900
+01,Festival Advances-Debit,5,10,20,20,2220 60 800 BA 34901
+02,Festival Advances-Credit,-4,-10,-20,-20,2220 60 800 BA 34902
+BA,Total BA,"7,12","5,47","11,31","11,42",
+#,State's Expenditure Total,"9,07,24","7,89,34","13,55,16","11,00,13",
+800,Total 800,"9,07,24","7,89,34","13,55,16","11,00,13",
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+AC,Scheme for Publicity and Information,,,,,2220 60 911 AC 30000
+377,Deduct-Recoveries,"-4,00",,,,2220 60 911 AC 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-4,00",,,,2220 60 911 AC 37702
+AC,Total AC,"-4,00",,,,
+AH,Exhibition,,,,,2220 60 911 AH 30000
+377,Deduct-Recoveries,"-10,17",,,,2220 60 911 AH 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-10,17",,,,2220 60 911 AH 37702
+AH,Total AH,"-10,17",,,,
+BA,Anna Square Library and Sales Emporium,,,,,2220 60 911 BA 30000
+377,Deduct-Recoveries,-2,,,,2220 60 911 BA 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-2,,,,2220 60 911 BA 37702
+BA,Total BA,-2,,,,
+JA,Integrated Field Publicity Scheme,,,,,2220 60 911 JA 30000
+377,Deduct-Recoveries,"-4,75",,,,2220 60 911 JA 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-4,75",,,,2220 60 911 JA 37702
+JA,Total JA,"-4,75",,,,
+#,State's Expenditure Total,"-18,94",,,,
+911,Total 911,"-18,94",,,,
+60,Total 60,"87,18,06","77,17,43","94,29,08","83,18,94",
+2220,Total 2220,"1,02,08,67","89,34,45","1,11,61,06","96,34,31",
+2235,SOCIAL SECURITY AND WELFARE,,,,,
+60,Other Social Security and Welfare Programmes,,,,,
+102,Pension under Social Security Schemes,,,,,
+#,State's Expenditure,,,,,
+AH,Schemes for Pension Benefits to the Journalist in the State of Tamil Nadu,,,,,2235 60 102 AH 30000
+327,Pensions,"1,56,26","1,42,80","1,44,00","1,44,00",2235 60 102 AH 32700
+05,Social Security Pensions,"1,56,26","1,42,80","1,44,00","1,44,00",2235 60 102 AH 32705
+AH,Total AH,"1,56,26","1,42,80","1,44,00","1,44,00",
+AM,Family Pension to the Journalist in the State of Tamil Nadu,,,,,2235 60 102 AM 30000
+327,Pensions,"9,77","13,20","13,20","13,20",2235 60 102 AM 32700
+06,Family Pension,"9,77","13,20","13,20","13,20",2235 60 102 AM 32706
+AM,Total AM,"9,77","13,20","13,20","13,20",
+#,State's Expenditure Total,"1,66,03","1,56,00","1,57,20","1,57,20",
+102,Total 102,"1,66,03","1,56,00","1,57,20","1,57,20",
+60,Total 60,"1,66,03","1,56,00","1,57,20","1,57,20",
+2235,Total 2235,"1,66,03","1,56,00","1,57,20","1,57,20",
+2250-00,OTHER SOCIAL SERVICES,,,,,
+103,"Upkeep of Shrines, Temples etc.,",,,,,
+#,State's Expenditure,,,,,
+AB,Maintenance of the Mahatma Gandhi Memorial and prayer hall,,,,,2250 00 103 AB 30000
+301,Salaries,"10,17","16,54","11,40","12,39",2250 00 103 AB 30100
+01,Pay,"8,72","14,42","9,67","10,06",2250 00 103 AB 30101
+02,Medical Allowance,14,18,18,18,2250 00 103 AB 30102
+03,Medical Charges,,1,1,1,2250 00 103 AB 30103
+04,Other Allowances,25,15,20,20,2250 00 103 AB 30104
+06,House Rent Allowance,85,"1,40",96,"1,56",2250 00 103 AB 30106
+07,Travel Concession,3,4,4,4,2250 00 103 AB 30107
+08,City Compensatory Allowance,18,34,34,34,2250 00 103 AB 30108
+303,Dearness Allowance,75,"2,50","2,96","2,52",2250 00 103 AB 30300
+01,Dearness Allowance,75,"2,50","2,96","2,52",2250 00 103 AB 30301
+305,Office Expenses,7,5,5,5,2250 00 103 AB 30500
+02,Other Contingencies,7,5,5,5,2250 00 103 AB 30502
+349,Festival Advances,6,,,,2250 00 103 AB 34900
+01,Festival Advances-Debit,20,35,40,60,2250 00 103 AB 34901
+02,Festival Advances-Credit,-14,-35,-40,-60,2250 00 103 AB 34902
+AB,Total AB,"11,05","19,09","14,41","14,96",
+#,State's Expenditure Total,"11,05","19,09","14,41","14,96",
+103,Total 103,"11,05","19,09","14,41","14,96",
+00,Total 00,"11,05","19,09","14,41","14,96",
+2250,Total 2250,"11,05","19,09","14,41","14,96",
+4202,"CAPITAL OUTLAY ON EDUCATION, SPORTS, ART AND, CULTURE",,,,,
+04,Art and Culture,,,,,
+106,Museums,,,,,
+#,State's Expenditure,,,,,
+KB,Land Acquisition for Vedha Nilayam,,,,,4202 04 106 KB 40000
+464,Lands,,1,1,1,4202 04 106 KB 46400
+01,Lands - Voted,,1,1,1,4202 04 106 KB 46401
+KB,Total KB,,1,1,1,
+#,State's Expenditure Total,,1,1,1,
+106,Total 106,,1,1,1,
+04,Total 04,,1,1,1,
+4202,Total 4202,,1,1,1,

@@ -378,3 +378,39 @@ AI,Total AI,"-1,00",,,,
 911,Total 911,"-1,00",,,,
 02,Total 02,"98,89,49","80,00,00","1,00,00,00","1,00,00,00",
 2235,Total 2235,"98,89,49","80,00,00","1,00,00,00","1,00,00,00",
+3435,ECOLOGY AND ENVIRONMENT,,,,,
+04,Prevention and Control of Pollution,,,,,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+AA,Pollution Control Test wing,,,,,3435 04 800 AA 30000
+301,Salaries,"80,39","83,72","69,42","72,18",3435 04 800 AA 30100
+01,Pay,"72,84","75,75","61,68","64,14",3435 04 800 AA 30101
+02,Medical Allowance,35,38,26,27,3435 04 800 AA 30102
+04,ther Allowances,"1,05","1,72","2,50","2,60",3435 04 800 AA 30104
+06,House Rent Allowance,"5,62","5,37","4,50","4,68",3435 04 800 AA 30106
+08,City Compensatory Allowance,53,50,48,49,3435 04 800 AA 30108
+303,Dearness Allowance,"49,42","16,32","16,32","15,71",3435 04 800 AA 30300
+01,Dearness Allowance,"49,42","16,32","16,32","15,71",3435 04 800 AA 30301
+304,Travel Expenses,,2,2,2,3435 04 800 AA 30400
+01,Tour Travelling Allowances,,2,2,2,3435 04 800 AA 30401
+305,Office Expenses,,1,1,1,3435 04 800 AA 30500
+02,Other Contingencies,,1,1,1,3435 04 800 AA 30502
+349,Festival Advances,-2,,,,3435 04 800 AA 34900
+01,Festival Advances-Debit,,"1,00","3,00","3,00",3435 04 800 AA 34901
+02,Festival Advances-Credit,-2,"-1,00","-3,00","-3,00",3435 04 800 AA 34902
+AA,Total AA,"1,29,79","1,00,07","85,77","87,92",
+#,State's Expenditure Total,"1,29,79","1,00,07","85,77","87,92",
+800,Total 800,"1,29,79","1,00,07","85,77","87,92",
+04,Total 04,"1,29,79","1,00,07","85,77","87,92",
+3435,Total 3435,"1,29,79","1,00,07","85,77","87,92",
+5055-00,CAPITAL OUTLAY ON ROAD TRANSPORT,,,,,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+JA,Modernization of Check Post,,,,,5055 00 800 JA 40000
+416,Major Works,,1,1,1,5055 00 800 JA 41600
+01,Major Works,,1,1,1,5055 00 800 JA 41601
+JA,Total JA,,1,1,1,
+#,State's Expenditure Total,,1,1,1,
+800,Total 800,,1,1,1,
+00,Total 00,,1,1,1,
+5055,Total 5055,,1,1,1,

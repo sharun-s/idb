@@ -1,0 +1,231 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2216,HOUSING,,,,,
+02,Urban Housing,,,,,
+190,Assistance to Public Undertakings,,,,,
+#,State's Expenditure,,,,,
+AE,Expenditure on construction of houses and providing basic amenities to the tenements of TNSCB,,,,,2216 02 190 AE 30000
+309,Grants-in-Aid,,1,1,1,2216 02 190 AE 30900
+02,Grants for Creation of Capital Assets,,1,1,1,2216 02 190 AE 30902
+AE,Total AE,1,1,1,,
+JS,Computerisation of Tamil Nadu Slum Clearance Board,,,,,2216 02 190 JS 30000
+309,Grants-in-Aid,,1,1,1,2216 02 190 JS 30900
+03,Grants for Specific Schemes,,1,1,1,2216 02 190 JS 30903
+JS,Total JS,1,1,1,,
+JU,Providing basic amenities for resettlement and re-habilitation of flood affected slum dwellers on the river margins,,,,,2216 02 190 JU 30000
+309,Grants-in-Aid,,1,1,1,2216 02 190 JU 30900
+03,Grants for Specific Schemes,,1,1,1,2216 02 190 JU 30903
+JU,Total JU,1,1,1,,
+#,State's Expenditure Total,,3,3,3,
+#,Externally Aided Projects,,,,,
+PA,Grants to TNSCB under Tamilnadu Housing and Habitat Development Project,,,,,2216 02 190 PA 30000
+309,Grants-in-Aid,,,,"5,00,00",2216 02 190 PA 30900
+02,Grants for Creation of Capital Assets,,,,"5,00,00",2216 02 190 PA 30902
+PA,Total PA,,,"5,00,00",,
+PB,Grants to TNSCB for implementation of ADB assisted Inclusive Resilient and Sustainable Housing for the Urban Poor,,,,,2216 02 190 PB 30000
+309,Grants-in-Aid,,,,"1,00,00,00",2216 02 190 PB 30900
+02,Grants for Creation of Capital Assets,,,,"1,00,00,00",2216 02 190 PB 30902
+PB,Total PB,,,"1,00,00,00",,
+#,Externally Aided Projects Total,,,,"1,05,00,00",
+#,Central Sector Schemes,,,,,
+SA,Grants for Information Education under capacity building activities in Housing for All (Urban),,,,,2216 02 190 SA 30000
+309,Grants-in-Aid,,,"1,14,00","1,14,00",2216 02 190 SA 30900
+03,Grants for Specific Schemes,,,"1,14,00","1,14,00",2216 02 190 SA 30903
+SA,Total SA,,"1,14,00","1,14,00",,
+#,Central Sector Schemes Total,,,"1,14,00","1,14,00",
+#,Schemes shared between State and Centre,,,,,
+UA,Slum Survey Programme under Housing For All - Pradhan Mantri Awaas Yojana (Urban),,,,,2216 02 190 UA 30000
+309,Grants-in-Aid,"45,00",1,"8,00,00","4,00,00",2216 02 190 UA 30900
+03,Grants for Specific Schemes,"45,00",1,"8,00,00","4,00,00",2216 02 190 UA 30903
+UA,Total UA,"45,00",1,"8,00,00","4,00,00",
+UC,Housing For All - Pradhan Mantri Awaas Yojana (Urban),,,,,2216 02 190 UC 30000
+309,Grants-in-Aid,"16,73,83,72","17,03,78,00","18,30,00,00","23,68,00,00",2216 02 190 UC 30900
+02,Grants for Creation of Capital Assets,"16,73,83,72","17,03,78,00","18,30,00,00","23,68,00,00",2216 02 190 UC 30902
+UC,Total UC,"16,73,83,72","17,03,78,00","18,30,00,00","23,68,00,00",
+UD,Geo-tagging activities under BLC (Beneficiary Led Construction) Component of Pradhan Mantri Awaas Yojana (PMAY) (Urban) - Tamil Nadu Slum Clearance Board (TNSCB),,,,,2216 02 190 UD 30000
+309,Grants-in-Aid,"1,47,39",1,"4,88,00","4,00,00",2216 02 190 UD 30900
+03,Grants for Specific Schemes,"1,47,39",1,"4,88,00","4,00,00",2216 02 190 UD 30903
+UD,Total UD,"1,47,39",1,"4,88,00","4,00,00",
+UE,Grants for the Third Party Quality Monitoring Agencies activities (TPQMA) under Pradhan Mantri Awas Yojana (Urban) - Housing for All,,,,,2216 02 190 UE 30000
+309,Grants-in-Aid,,,"6,00,00","6,00,00",2216 02 190 UE 30900
+03,Grants for Specific Schemes,,,"6,00,00","6,00,00",2216 02 190 UE 30903
+UE,Total UE,,"6,00,00","6,00,00",,
+#,Schemes shared between State and Centre Total,"16,75,76,11","17,03,78,02","18,48,88,00","23,82,00,00",
+190,Total 190,"16,75,76,11","17,03,78,05","18,50,02,03","24,88,14,03",
+793,Special Central Assistance for Scheduled Caste Component Plan,,,,,
+#,Schemes shared between State and Centre,,,,,
+UA,Housing For All - Pradhan Mantri Awaas Yojana (Urban),,,,,2216 02 793 UA 30000
+309,Grants-in-Aid,"4,65,64,06","9,31,76,00","11,37,50,00","12,95,00,00",2216 02 793 UA 30900
+02,Grants for Creation of Capital Assets,"4,65,64,06","9,31,76,00","11,37,50,00","12,95,00,00",2216 02 793 UA 30902
+UA,Total UA,"4,65,64,06","9,31,76,00","11,37,50,00","12,95,00,00",
+#,Schemes shared between State and Centre Total,"4,65,64,06","9,31,76,00","11,37,50,00","12,95,00,00",
+793,Total 793,"4,65,64,06","9,31,76,00","11,37,50,00","12,95,00,00",
+794,Special Central Assistance for Tribal Sub-Plan,,,,,
+#,Schemes shared between State and Centre,,,,,
+UA,Housing For All - Pradhan Mantri Awaas Yojana (Urban),,,,,2216 02 794 UA 30000
+309,Grants-in-Aid,"21,27,81","26,62,00","32,50,00","37,00,00",2216 02 794 UA 30900 
+02,Grants for Creation of Capital Assets,"21,27,81","26,62,00","32,50,00","37,00,00",2216 02 794 UA 30902
+UA,Total UA,"21,27,81","26,62,00","32,50,00","37,00,00",
+#,Schemes shared between State and Centre Total,"21,27,81","26,62,00","32,50,00","37,00,00",
+794,Total 794,"21,27,81","26,62,00","32,50,00","37,00,00",
+797,Transfer to/from Reserve Fund and Deposit Accounts,,,,,
+#,State's Expenditure,,,,,
+AA,Amount transferred to Tamil Nadu Shelter Fund,,,,,2216 02 797 AA 30000
+330,Inter-Account Transfers,,1,1,"80,00,00",2216 02 797 AA 33000
+01,Inter-Account Transfers,,1,1,"80,00,00",2216 02 797 AA 33001
+AA,Total AA,,1,1,"80,00,00",
+#,State's Expenditure Total,,1,1,"80,00,00",
+797,Total 797,,1,1,"80,00,00",
+800,Other Expenditure,,,,,
+#,Externally Aided Projects Externally Aided Project,,,,,
+PA,Technical Assistance Grants to TNSCB for implementation of ADB assisted Inclusive Resilient and Sustainable Housing for the Urban Poor,,,,,2216 02 800 PA 30000
+309,Grants-in-Aid,,,,"5,25,00",2216 02 800 PA 30900
+03,Grants for Specific Schemes,,,,"5,25,00",2216 02 800 PA 30903
+PA,Total PA,,,"5,25,00",,
+PB,Grants to TNSCB for Project Management under Inclusive Resilient and Sustainable Housing for the Urban Poor,,,,,2216 02 800 PB 30000
+309,Grants-in-Aid,,,,"5,25,00",2216 02 800 PB 30900
+03,Grants for Specific Schemes,,,,"5,25,00",2216 02 800 PB 30903
+PB,Total PB,,,"5,25,00",,
+#,Externally Aided Projects Total,,,,"10,50,00",
+800,Total 800,,,"10,50,00",,
+902,Deduct - Amount met from Tamil Nadu Shelter Fund,,,,,
+#,State's Expenditure,,,,,
+AA,Amount met from Tamil Nadu Shelter Fund,,,,,2216 02 902 AA 30000
+330,Inter-Account Transfers,,-1,-1,-1,2216 02 902 AA 33000
+01,Inter-Account Transfers,,-1,-1,-1,2216 02 902 AA 33001
+AA,Total AA,,-1,-1,-1,
+#,State's Expenditure Total,,-1,-1,-1,
+902,Total 902,,-1,-1,-1,
+02,Total 02,"21,62,67,98","26,62,16,05","30,20,02,03","39,10,64,02",
+80,General,,,,,
+103,"Assistance to Housing Boards, Corporations etc.",,,,,
+#,State's Expenditure,,,,,
+AK,Grants to Tamil Nadu Slum Clearance Board for Payment of Property Tax on Slum Clearance Board Tenements,,,,,2216 80 103 AK 30000
+309,Grants-in-Aid,"72,88","98,51","98,51","98,51",2216 80 103 AK 30900 
+01,Grants for Current Expenditure,"72,88","98,51","98,51","98,51",2216 80 103 AK 30901
+AK,Total AK,"72,88","98,51","98,51","98,51",
+AM,Grants to Tamil Nadu Slum Clearance Board for payment of Water Tax on rental Slum Tenements,,,,,2216 80 103 AM 30000
+309,Grants-in-Aid,"27,13","47,58","47,58","47,58",2216 80 103 AM 30900 
+01,Grants for Current Expenditure,"27,13","47,58","47,58","47,58",2216 80 103 AM 30901
+AM,Total AM,"27,13","47,58","47,58","47,58",
+#,State's Expenditure Total,"1,00,01","1,46,09","1,46,09","1,46,09",
+103,Total 103,"1,00,01","1,46,09","1,46,09","1,46,09",
+80,Total 80,"1,00,01","1,46,09","1,46,09","1,46,09",
+2216,Total 2216,"21,63,67,99","26,63,62,14","30,21,48,12","39,12,10,11",
+2217,URBAN DEVELOPMENT,,,,,
+04,Slum Area Improvement,,,,,
+190,Assistance to Public Undertakings,,,,,
+#,State's Expenditure,,,,,
+AF,Grants to Tamil Nadu Slum Clearance Board for improving basic amenities in slums,,,,,2217 04 190 AF 30000
+309,Grants-in-Aid,,1,1,1,2217 04 190 AF 30900
+01,Grants for Current Expenditure,,1,1,1,2217 04 190 AF 30901
+AF,Total AF,1,1,1,,
+AJ,Grants to TNSCB for Employment Oriented Training for Urban Youths in slum tenements at District Towns,,,,,2217 04 190 AJ 30000
+309,Grants-in-Aid,,1,1,1,2217 04 190 AJ 30900
+01,Grants for Current Expenditure,,1,1,1,2217 04 190 AJ 30901
+AJ,Total AJ,1,1,1,,
+JT,"Grants to Tamil Nadu Slum Clearance Board for improvement to tenements including Repairs,Renovation, Sewerage, Water Supply etc.,",,,,,2217 04 190 JT 30000
+309,Grants-in-Aid,,1,"32,92,92","20,00,00",2217 04 190 JT 30900
+02,Grants for Creation of Capital Assets,,1,"32,92,92","20,00,00",2217 04 190 JT 30902
+JT,Total JT,1,"32,92,92","20,00,00",,
+#,State's Expenditure Total,,3,"32,92,94","20,00,02",
+190,Total 190,,3,"32,92,94","20,00,02",
+04,Total 04,,3,"32,92,94","20,00,02",
+2217,Total 2217,,3,"32,92,94","20,00,02",
+4216,CAPITAL OUTLAY ON HOUSING,,,,,
+02,Urban Housing,,,,,
+190,Investments in Public Sector and Other Undertakings,,,,,
+#,State's Expenditure,,,,,
+AA,Equity Contribution to the Tamilnadu Shelter Fund under Tamilnadu Housing and Habitat Development Project,,,,,4216 02 190 AA 40000
+422,Investments,,,,"1,55,20,00",4216 02 190 AA 42200
+01,Investments,,,,"1,55,20,00",4216 02 190 AA 42201
+AA,Total AA,,,,"1,55,20,00",
+JC,Construction of slum tenements,,,,,4216 02 190 JC 40000
+416,Major Works,,1,1,,4216 02 190 JC 41600
+01,Major Works,,1,1,,4216 02 190 JC 41601
+JC,Total JC,,1,1,,
+JD,Equity Contribution to the Tamil Nadu Shelter Fund under Inclusive Resilient and Sustainable Housing for the Urban Poor,,,,,4216 02 190 JD 40000
+422,Investments,,,,"50,00,00",4216 02 190 JD 42200
+01,Investments,,,,"50,00,00",4216 02 190 JD 42201
+JD,Total JD,,,,"50,00,00",
+#,State's Expenditure Total,,1,1,"2,05,20,00",
+#,Externally Aided Projects,,,,,
+PA,Reconstruction of Dilapidated Tenements in Chennai - Kothavalchavadi under TNIPP Phase-2,,,,,4216 02 190 PA 40000
+416,Major Works,,1,1,,4216 02 190 PA 41600
+01,Major Works,,1,1,,4216 02 190 PA 41601
+PA,Total PA,1,1,,,
+PB,Reconstruction of Dilapidated Tenements in Chennai - Vazhai Thoppu under TNIPP Phase-2,,,,,4216 02 190 PB 40000
+416,Major Works,,1,1,,4216 02 190 PB 41600
+01,Major Works,,1,1,,4216 02 190 PB 41601
+PB,Total PB,1,1,,,
+PC,Reconstruction of Dilapidated Tenements in Chennai - Subbu Pillai Thottam under TNIPP Phase-2,,,,,4216 02 190 PC 40000
+416,Major Works,,1,1,,4216 02 190 PC 41600
+01,Major Works,,1,1,,4216 02 190 PC 41601
+PC,Total PC,1,1,,,
+PD,Reconstruction of Dilapidated Tenements in Chennai - Appavoo Nagar under TNIPP Phase-2,,,,,4216 02 190 PD 40000
+416,Major Works,,1,1,,4216 02 190 PD 41600
+01,Major Works,,1,1,,4216 02 190 PD 41601
+PD,Total PD,1,1,,,
+PE,Reconstruction of Dilapidated Tenements in Chennai - Mambalam Tank Bund (39-43) under TNIPP Phase-2,,,,,4216 02 190 PE 40000
+416,Major Works,,1,1,,4216 02 190 PE 41600
+01,Major Works,,1,1,,4216 02 190 PE 41601
+PE,Total PE,1,1,,,
+PF,Reconstruction of Dilapidated Tenements in Chennai - Wallance Garden under TNIPP Phase-2,,,,,4216 02 190 PF 40000
+416,Major Works,,1,1,,4216 02 190 PF 41600
+01,Major Works,,1,1,,4216 02 190 PF 41601
+PF,Total PF,1,1,,,
+PG,Reconstruction of Dilapidated Tenements in Chennai - Jogi Thottam under TNIPP Phase-2,,,,,4216 02 190 PG 40000
+416,Major Works,,1,1,,4216 02 190 PG 41600
+01,Major Works,,1,1,,4216 02 190 PG 41601
+PG,Total PG,1,1,,,
+PH,Reconstruction of Dilapidated Tenements in Chennai - Periyar Nagar under TNIPP Phase-2,,,,,4216 02 190 PH 40000
+416,Major Works,,1,1,,4216 02 190 PH 41600
+01,Major Works,,1,1,,4216 02 190 PH 41601
+PH,Total PH,1,1,,,
+PI,Reconstruction of Dilapidated Tenements in Chennai - Fishermen Colony under TNIPP Phase-2,,,,,4216 02 190 PI 40000
+416,Major Works,,1,1,,4216 02 190 PI 41600
+01,Major Works,,1,1,,4216 02 190 PI 41601
+PI,Total PI,1,1,,,
+PJ,Reconstruction of Dilapidated Tenements in Chennai - Vyasarpadi under TNIPP Phase-2,,,,,4216 02 190 PJ 40000
+416,Major Works,,1,1,,4216 02 190 PJ 41600
+01,Major Works,,1,1,,4216 02 190 PJ 41601
+PJ,Total PJ,1,1,,,
+#,Externally Aided Projects Total,,10,10,,
+190,Total 190,11,11,"2,05,20,00",,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+JA,Tsunami Rehabilitation Works under State Fund,,,,,4216 02 800 JA 40000
+416,Major Works,"29,70",,,,4216 02 800 JA 41600
+01,Major Works,"29,70",,,,4216 02 800 JA 41601
+JA,Total JA,"29,70",,,,
+#,State's Expenditure Total,"29,70",,,,
+#,Externally Aided Projects,,,,,
+PA,Reconstruction of Dilapidated Tenements in Chennai Locality under JICA assisted TNIPP,,,,,4216 02 800 PA 40000
+416,Major Works,,,,1,4216 02 800 PA 41600
+01,Major Works,,,,1,4216 02 800 PA 41601
+PA,Total PA,,,1,,
+#,Externally Aided Projects Total,,,,1,
+800,Total 800,"29,70",,,1,
+02,Total 02,"29,70",11,11,"2,05,20,01",
+80,General,,,,,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+KA,Demolition and Reconstruction of Dilapidated Tenements,,,,,4216 80 800 KA 40000
+416,Major Works,,1,1,1,4216 80 800 KA 41600
+01,Major Works,,1,1,1,4216 80 800 KA 41601
+KA,Total KA,1,1,1,,
+#,State's Expenditure Total,,1,1,1,
+800,Total 800,1,1,1,,
+80,Total 80,1,1,1,,
+4216,Total 4216,"29,70",12,12,"2,05,20,02",
+6216,LOANS FOR HOUSING,,,,,
+02,Urban Housing,,,,,
+190,Loans to Public Sector,,,,,
+#,State's Expenditure,,,,,
+AA,Loans to Tamil Nadu Slum Clearance Board - Construction of Green Houses for Economically Weaker Families,,,,,6216 02 190 AA 50000
+502,Loan - Outgo,,1,1,1,6216 02 190 AA 50200
+01,Bearing Interest,,1,1,1,6216 02 190 AA 50201
+AA,Total AA,1,1,1,,
+#,State's Expenditure Total,,1,1,1,
+190,Total 190,1,1,1,,
+02,Total 02,1,1,1,,
+6216,Total 6216,1,1,1,,

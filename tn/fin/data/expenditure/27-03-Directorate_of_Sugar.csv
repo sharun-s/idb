@@ -1,0 +1,181 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2415,AGRICULTURAL RESEARCH AND EDUCATION,,,,,
+01,Crop Husbandry,,,,,
+004,Research,,,,,
+#,State's Expenditure,,,,,
+JU,Sugarcane Research and development under Sugarcane Cess Fund,,,,,2415 01 004 JU 30000
+309,Grants-in-Aid,1,,,,2415 01 004 JU 30900
+03,Grants for Specific Schemes,1,,,,2415 01 004 JU 30903
+JU,Total JU,1,,,,
+#,State's Expenditure Total,1,,,,
+004,Total 004,1,,,,
+01,Total 01,1,,,,
+2415,Total 2415,1,,,,
+2852,INDUSTRIES,,,,,
+08,Consumer Industries,,,,,
+201,Sugar,,,,,
+#,State's Expenditure,,,,,
+AC,Directorate of Sugar,,,,,2852 08 201 AC 30000
+301,Salaries,"2,14,96","2,93,81","1,88,76","1,93,94",2852 08 201 AC 30100
+01,Pay,"1,82,99","2,55,42","1,61,93","1,68,41",2852 08 201 AC 30101
+02,Medical Allowance,80,"1,05",78,76,2852 08 201 AC 30102
+03,Medical Charges,30,40,6,6,2852 08 201 AC 30103
+04,Other Allowances,"2,40","3,30","1,54","1,48",2852 08 201 AC 30104
+06,House Rent Allowance,"25,77","30,30","21,93","20,77",2852 08 201 AC 30106
+07,Travel Concession,,10,10,10,2852 08 201 AC 30107
+08,City Compensatory Allowance,"2,70","3,24","2,42","2,36",2852 08 201 AC 30108
+302,Wages,40,56,"1,09",,2852 08 201 AC 30200
+01,Wages,40,56,"1,09",,2852 08 201 AC 30201
+303,Dearness Allowance,"31,17","33,20","25,91","41,26",2852 08 201 AC 30300
+01,Dearness Allowance,"31,17","33,20","25,91","41,26",2852 08 201 AC 30301
+304,Travel Expenses,"2,95","3,22","2,96","2,42",2852 08 201 AC 30400
+01,Tour Travelling Allowances,"2,95","3,20","2,70","2,40",2852 08 201 AC 30401
+02,Transfer Travelling Allowances,,2,26,2,2852 08 201 AC 30402
+305,Office Expenses,"11,61","8,70","8,35","8,46",2852 08 201 AC 30500
+01,Telephone Charges,83,90,90,90,2852 08 201 AC 30501
+02,Other Contingencies,"1,50","1,00","1,10","1,21",2852 08 201 AC 30502
+03,Electricity Charges,"8,68","6,50","6,05","6,05",2852 08 201 AC 30503
+04,Service Postage & Postal Expenditure,60,30,30,30,2852 08 201 AC 30504
+306,"Rent, Rates and Taxes","67,55","60,00","60,00","60,00",2852 08 201 AC 30600
+01,Rent,"67,55","60,00","60,00","60,00",2852 08 201 AC 30601
+321,Motor Vehicles,10,11,10,10,2852 08 201 AC 32100
+01,Purchase,,1,,,2852 08 201 AC 32101
+02,Maintenance of Functional Vehicles,10,10,10,10,2852 08 201 AC 32102
+331,Writes off and Losses,,,1,1,2852 08 201 AC 33100
+01,Writes off and Losses,,,1,1,2852 08 201 AC 33101
+333,Payments for Professional and Special Services,"1,22",1,"4,00","6,00",2852 08 201 AC 33300
+01,Pleaders Fees,"1,22",1,,,2852 08 201 AC 33301
+04,Contract Payment,,,"4,00","6,00",2852 08 201 AC 33304
+345,"Petroleum, Oil and Lubricant",64,"1,66","1,03","1,03",2852 08 201 AC 34500
+01,"Petroleum, Oil and Lubricant",64,"1,66","1,03","1,03",2852 08 201 AC 34501
+349,Festival Advances,-7,,,,2852 08 201 AC 34900
+01,Festival Advances-Debit,55,"1,10","2,30","2,30",2852 08 201 AC 34901
+02,Festival Advances-Credit,-62,"-1,10","-2,30","-2,30",2852 08 201 AC 34902
+351,Compensation Charged,,1,,,2852 08 201 AC 35100
+52,Other Compensations Charged,,1,,,2852 08 201 AC 35152
+359,Prizes and Awards,,2,2,2,2852 08 201 AC 35900
+01,Prizes and Awards,,2,2,2,2852 08 201 AC 35901
+376,Computer and Accessories,"2,87",72,72,72,2852 08 201 AC 37600
+02,Maintenance,"2,75",60,60,60,2852 08 201 AC 37602
+03,Stationery,12,12,12,12,2852 08 201 AC 37603
+AC,Total AC Charged,,1,,,
+AC,Total AC Voted,"3,33,40","4,02,01","2,92,95","3,13,96",
+AL,Miscellaneous Schemes under Sugarcane Cess Fund,,,,,2852 08 201 AL 30000
+319,Machinery and Equipments,,1,,,2852 08 201 AL 31900
+01,Purchase,,1,,,2852 08 201 AL 31901
+AL,Total AL,,1,,,
+JH,"Assistance for modernisation of,Cooperative Sugar Mills",,,,,2852 08 201 JH 30000
+309,Grants-in-Aid,,1,,,2852 08 201 JH 30900
+02,Grants for Creation of Capital Assets,,1,,,2852 08 201 JH 30902
+JH,Total JH,,1,,,
+#,State's Expenditure Total Charged,,1,,,
+#,State's Expenditure Total Voted,"3,33,40","4,02,03","2,92,95","3,13,96",
+201,Total 201 Charged,,1,,,
+201,Total 201 Voted,"3,33,40","4,02,03","2,92,95","3,13,96",
+08,Total 08 Charged,,1,,,
+08,Total 08 Voted,"3,33,40","4,02,03","2,92,95","3,13,96",
+2852,Total 2852 Charged,,1,,,
+2852,Total 2852 Voted,"3,33,40","4,02,03","2,92,95","3,13,96",
+3054,ROADS AND BRIDGES,,,,,
+05,Roads of Inter State or Economic Importance,,,,,
+337,Road Works,,,,,
+#,State's Expenditure,,,,,
+AB,Maintenance of Road Works for Co-operative / Public Sector Sugar Mills,,,,,3054 05 337 AB 30000
+318,Maintenance,"1,55,55","1,64,20","1,64,20","1,64,20",3054 05 337 AB 31800 
+01,Periodical Maintenance,"1,55,55","1,64,20","1,64,20","1,64,20",3054 05 337 AB 31801
+AB,Total AB,"1,55,55","1,64,20","1,64,20","1,64,20",
+#,State's Expenditure Total,"1,55,55","1,64,20","1,64,20","1,64,20",
+337,Total 337,"1,55,55","1,64,20","1,64,20","1,64,20",
+05,Total 05,"1,55,55","1,64,20","1,64,20","1,64,20",
+80,General,,,,,
+797,Transfer to Reserve Funds  Deposit Account,,,,,
+#,State's Expenditure,,,,,
+JC,Transfer to Sugarcane Cess Fund,,,,,3054 80 797 JC 30000
+330,Inter-Account Transfers,"4,16,57","8,20,23","3,04,81","2,62,25",3054 80 797 JC 33000
+01,Inter-Account Transfers,"4,16,57","8,20,23","3,04,81","2,62,25",3054 80 797 JC 33001
+JC,Total JC,"4,16,57","8,20,23","3,04,81","2,62,25",
+#,State's Expenditure Total,"4,16,57","8,20,23","3,04,81","2,62,25",
+797,Total 797,"4,16,57","8,20,23","3,04,81","2,62,25",
+902,Deduct - Amount met from Reserve Fund,,,,,
+#,State's Expenditure,,,,,
+AF,Deduct - Amount met from Sugarcane Cess Fund,,,,,3054 80 902 AF 30000
+330,Inter-Account Transfers,"-1,55,55","-1,64,20",,,3054 80 902 AF 33000
+01,Inter-Account Transfers,"-1,55,55","-1,64,20",,,3054 80 902 AF 33001
+AF,Total AF,"-1,55,55","-1,64,20",,,
+#,State's Expenditure Total,"-1,55,55","-1,64,20",,,
+902,Total 902,"-1,55,55","-1,64,20",,,
+80,Total 80,"2,61,02","6,56,03","3,04,81","2,62,25",
+3054,Total 3054,"4,16,57","8,20,23","4,69,01","4,26,45",
+4860,CAPITAL OUTLAY ON CONSUMER INDUSTRIES,,,,,
+04,Sugar,,,,,
+190,Investments in Public Sector and Other Undertakings,,,,,
+#,State's Expenditure,,,,,
+JE,Share Capital Assistance to Co-operative Sugar Mills,,,,,4860 04 190 JE 40000
+422,Investments,"12,53,90,43",,,,4860 04 190 JE 42200
+01,Investments,"12,53,90,43",,,,4860 04 190 JE 42201
+JE,Total JE,"12,53,90,43",,,,
+JG,Share Capital Assistance to Tamil Nadu Sugar Corporation Limited / Perambalur Sugar Mills,,,,,4860 04 190 JG 40000
+422,Investments,"3,08,37,66",,,,4860 04 190 JG 42200
+01,Investments,"3,08,37,66",,,,4860 04 190 JG 42201
+JG,Total JG,"3,08,37,66",,,,
+#,State's Expenditure Total,"15,62,28,09",,,,
+190,Total 190,"15,62,28,09",,,,
+04,Total 04,"15,62,28,09",,,,
+4860,Total 4860,"15,62,28,09",,,,
+5054,CAPITAL OUTLAY ON ROADS AND BRIDGES,,,,,
+05,Roads,,,,,
+337,Road Works,,,,,
+#,State's Expenditure,,,,,
+JB,Improvement of Roads,,,,,5054 05 337 JB 40000
+416,Major Works,"1,35,22",1,,,5054 05 337 JB 41600
+01,Major Works,"1,35,22",1,,,5054 05 337 JB 41601
+JB,Total JB,"1,35,22",1,,,
+#,State's Expenditure Total,"1,35,22",1,,,
+337,Total 337,"1,35,22",1,,,
+05,Total 05,"1,35,22",1,,,
+80,General,,,,,
+902,Deduct Amount met from State Infrastructure and Amenities Fund,,,,,
+#,State's Expenditure,,,,,
+JA,Deduct - Amount met from Sugarcane Cess Fund,,,,,5054 80 902 JA 40000
+430,Inter-Account Transfers,"-1,35,21",-1,,,5054 80 902 JA 43000
+01,Inter-Account Transfers,"-1,35,21",-1,,,5054 80 902 JA 43001
+JA,Total JA,"-1,35,21",-1,,,
+#,State's Expenditure Total,"-1,35,21",-1,,,
+902,Total 902,"-1,35,21",-1,,,
+80,Total 80,"-1,35,21",-1,,,
+5054,Total 5054,1,,,,
+6425-00,LOANS FOR COOPERATION,,,,,
+108,Loans to other Co-operatives,,,,,
+#,State's Expenditure,,,,,
+BC,Loans to Co-operative Institutions and Banks - controlled by the Commissioner of Sugar,,,,,6425 00 108 BC 50000
+502,Loan - Outgo,"2,59,95,75",1,"2,16,91,96",1,6425 00 108 BC 50200
+01,Bearing Interest,"2,59,95,75",1,"2,16,91,96",1,6425 00 108 BC 50201
+BC,Total BC,"2,59,95,75",1,"2,16,91,96",1,
+#,State's Expenditure Total,"2,59,95,75",1,"2,16,91,96",1,
+108,Total 108,"2,59,95,75",1,"2,16,91,96",1,
+00,Total 00,"2,59,95,75",1,"2,16,91,96",1,
+6425,Total 6425,"2,59,95,75",1,"2,16,91,96",1,
+6860,LOANS FOR CONSUMER INDUSTRIES,,,,,
+04,Sugar,,,,,
+101,Loans to Co-operative Sugar Mills,,,,,
+#,State's Expenditure,,,,,
+AD,Loans to Co-operative Sugar Mills,,,,,6860 04 101 AD 50000
+502,Loan - Outgo,,,,1,6860 04 101 AD 50200
+01,Bearing Interest,,,,1,6860 04 101 AD 50201
+AD,Total AD,,,1,,
+#,State's Expenditure Total,,,,1,
+101,Total 101,,,1,,
+190,Loans to Public Sector,,,,,
+#,State's Expenditure,,,,,
+AC,Loans to Public Sector Sugar Mills,,,,,6860 04 190 AC 50000
+502,Loan - Outgo,,,,1,6860 04 190 AC 50200
+01,Bearing Interest,,,,1,6860 04 190 AC 50201
+AC,Total AC,,,1,,
+AE,Interest free loan to TASCO on capitalization of interest dues till the end of 2017-18,,,,,6860 04 190 AE 50000
+502,Loan - Outgo,"1,12,42,73",,,,6860 04 190 AE 50200
+01,Bearing Interest,"1,12,42,73",,,,6860 04 190 AE 50201
+AE,Total AE,"1,12,42,73",,,,
+#,State's Expenditure Total,"1,12,42,73",,,1,
+190,Total 190,"1,12,42,73",,,1,
+04,Total 04,"1,12,42,73",,,2,
+6860,Total 6860,"1,12,42,73",,,2,

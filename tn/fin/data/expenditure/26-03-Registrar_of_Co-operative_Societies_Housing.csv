@@ -1,0 +1,121 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2216,HOUSING,,,,,
+02,Urban Housing,,,,,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+AA,Debt Servicing of Loans awarded by Tamil Nadu Co-operative Housing Federation for Economically Weaker Section.,,,,,2216 02 800 AA 30000
+311,Subsidies,"9,01",,,,2216 02 800 AA 31100
+01,Individual Based Subsidy,"9,01",,,,2216 02 800 AA 31101
+AA,Total AA,"9,01",,,,
+#,State's Expenditure Total,"9,01",,,,
+800,Total 800,"9,01",,,,
+02,Total 02,"9,01",,,,
+80,General,,,,,
+001,Direction and Administration,,,,,
+#,State's Expenditure,,,,,
+AA,Headquarters Establishment,,,,,2216 80 001 AA 30000
+301,Salaries,"94,18","1,71,85","1,33,43","1,35,95",2216 80 001 AA 30100
+01,Pay,"83,25","1,56,00","1,20,00","1,22,50",2216 80 001 AA 30101
+02,Medical Allowance,41,44,44,44,2216 80 001 AA 30102
+03,Medical Charges,5,10,10,10,2216 80 001 AA 30103
+04,Other Allowances,35,60,40,40,2216 80 001 AA 30104
+06,House Rent Allowance,"8,71","10,93","10,93","10,93",2216 80 001 AA 30106
+07,Travel Concession,,6,6,8,2216 80 001 AA 30107
+08,City Compensatory Allowance,"1,41","3,72","1,50","1,50",2216 80 001 AA 30108
+302,Wages,12,12,12,12,2216 80 001 AA 30200
+01,Wages,12,12,12,12,2216 80 001 AA 30201
+303,Dearness Allowance,"11,76","20,28","17,15","30,01",2216 80 001 AA 30300
+01,Dearness Allowance,"11,76","20,28","17,15","30,01",2216 80 001 AA 30301
+304,Travel Expenses,63,"5,00","5,00","5,00",2216 80 001 AA 30400
+01,Tour Travelling Allowances,63,"5,00","5,00","5,00",2216 80 001 AA 30401
+305,Office Expenses,"2,91","3,77","3,80","3,83",2216 80 001 AA 30500
+01,Telephone Charges,66,"1,00","1,00","1,00",2216 80 001 AA 30501
+02,Other Contingencies,98,"1,00","1,00","1,00",2216 80 001 AA 30502
+03,Electricity Charges,"1,00","1,50","1,50","1,50",2216 80 001 AA 30503
+04,Service Postage & Postal Expenditure,27,27,30,33,2216 80 001 AA 30504
+306,"Rent, Rates and Taxes",,"14,50","51,59","17,24",2216 80 001 AA 30600
+01,Rent,,"14,50","51,59","17,24",2216 80 001 AA 30601
+319,Machinery and Equipments,,1,1,1,2216 80 001 AA 31900
+01,Purchase,,1,1,1,2216 80 001 AA 31901
+321,Motor Vehicles,6,7,7,7,2216 80 001 AA 32100
+02,Maintenance of Functional Vehicles,6,7,7,7,2216 80 001 AA 32102
+345,"Petroleum, Oil and Lubricant",70,"1,50","1,00","1,50",2216 80 001 AA 34500
+01,"Petroleum, Oil and Lubricant",70,"1,50","1,00","1,50",2216 80 001 AA 34501
+349,Festival Advances,-8,,,,2216 80 001 AA 34900
+01,Festival Advances-Debit,20,"1,80","3,60","3,60",2216 80 001 AA 34901
+02,Festival Advances-Credit,-28,"-1,80","-3,60","-3,60",2216 80 001 AA 34902
+351,Compensation Charged,,1,1,1,2216 80 001 AA 35100
+52,Other Compensations Charged,,,,,
+359,Prizes and Awards,,2,2,2,2216 80 001 AA 35900
+01,Prizes and Awards,,2,2,2,2216 80 001 AA 35901
+376,Computer and Accessories,58,58,70,58,2216 80 001 AA 37600
+01,Purchase,6,6,18,6,2216 80 001 AA 37601
+02,Maintenance,12,12,12,12,2216 80 001 AA 37602
+03,Stationery,40,40,40,40,2216 80 001 AA 37603
+AA,Total AA Charged,,1,1,1,
+AA,Total AA Voted,"1,10,86","2,17,70","2,12,89","1,94,33",
+AB,District Establishment,,,,,2216 80 001 AB 30000
+301,Salaries,"5,88,82","4,90,35","4,61,23","4,80,66",2216 80 001 AB 30100
+01,Pay,"5,45,31","4,55,87","4,28,02","4,47,45",2216 80 001 AB 30101
+02,Medical Allowance,"3,30","2,87","2,87","2,87",2216 80 001 AB 30102
+03,Medical Charges,2,10,10,10,2216 80 001 AB 30103
+04,Other Allowances,"1,56","1,40","1,31","1,31",2216 80 001 AB 30104
+06,House Rent Allowance,"34,73","29,03","25,79","25,79",2216 80 001 AB 30106
+07,Travel Concession,,10,10,10,2216 80 001 AB 30107
+08,City Compensatory Allowance,"3,90",98,"3,04","3,04",2216 80 001 AB 30108
+302,Wages,68,88,88,88,2216 80 001 AB 30200
+01,Wages,68,88,88,88,2216 80 001 AB 30201
+303,Dearness Allowance,"83,90","59,26","70,53","1,09,63",2216 80 001 AB 30300
+01,Dearness Allowance,"83,90","59,26","70,53","1,09,63",2216 80 001 AB 30301
+304,Travel Expenses,"10,33","10,08","10,08","10,08",2216 80 001 AB 30400
+01,Tour Travelling Allowances,"10,30","10,00","10,00","10,00",2216 80 001 AB 30401
+02,Transfer Travelling Allowances,3,8,8,8,2216 80 001 AB 30402
+305,Office Expenses,"4,73","6,72","6,93","6,98",2216 80 001 AB 30500 
+01,Telephone Charges,"2,24","2,71","2,71","2,71",2216 80 001 AB 30501
+02,Other Contingencies,31,22,22,22,2216 80 001 AB 30502
+03,Electricity Charges,"1,93","3,50","3,50","3,50",2216 80 001 AB 30503
+04,Service Postage & Postal Expenditure,25,29,50,55,2216 80 001 AB 30504
+306,"Rent, Rates and Taxes","15,05","17,42","17,42","17,42",2216 80 001 AB 30600
+01,Rent,"15,05","17,42","17,42","17,42",2216 80 001 AB 30601 
+321,Motor Vehicles,88,15,15,15,2216 80 001 AB 32100
+02,Maintenance of Functional Vehicles,88,15,15,15,2216 80 001 AB 32102
+333,Payments for Professional and Special Services,"9,81","5,50","5,50","3,60",2216 80 001 AB 33300
+04,Contract Payment,"9,81","5,50","5,50","3,60",2216 80 001 AB 33304
+345,"Petroleum, Oil and Lubricant","2,74","3,03","3,53","3,03",2216 80 001 AB 34500
+01,"Petroleum, Oil and Lubricant","2,74","3,03","3,53","3,03",2216 80 001 AB 34501
+349,Festival Advances,-12,,,,2216 80 001 AB 34900
+01,Festival Advances-Debit,"2,70","4,70","9,40","9,40",2216 80 001 AB 34901
+02,Festival Advances-Credit,"-2,82","-4,70","-9,40","-9,40",2216 80 001 AB 34902
+359,Prizes and Awards,,2,2,2,2216 80 001 AB 35900
+01,Prizes and Awards,,2,2,2,2216 80 001 AB 35901
+376,Computer and Accessories,16,17,17,17,2216 80 001 AB 37600
+02,Maintenance,12,13,13,13,2216 80 001 AB 37602
+03,Stationery,4,4,4,4,2216 80 001 AB 37603
+AB,Total AB,"7,16,98","5,93,58","5,76,44","6,32,62",
+#,State's Expenditure Voted,"8,27,84","8,11,28","7,89,33","8,26,95",
+001,Total 001 Charged,,1,1,1,
+001,Total 001Voted,"8,27,84","8,11,28","7,89,33","8,26,95",
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+AB,Maintenance of Housing Colonies,,,,,2216 80 911 AB 30000
+377,Deduct-Recoveries,"-4,88",,,,2216 80 911 AB 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-4,88",,,,2216 80 911 AB 37702
+AB,Total AB,"-4,88",,,,
+#,State's Expenditure Total,"-4,88",,,,
+911,Total 911,"-4,88",,,,
+80,Total 80 Charged,,1,1,1,
+80,Total 80 Voted,"8,22,96","8,11,28","7,89,33","8,26,95",
+2216,Total 2216 Charged,,1,1,1,
+2216,Total 2216 Voted,"8,31,97","8,11,28","7,89,33","8,26,95",
+6216,LOANS FOR HOUSING,,,,,
+80,General,,,,,
+800,Other Loans,,,,,
+#,State's Expenditure,,,,,
+AP,Ways and Means Advance to Tamil Nadu Co-operative Housing Federation Limited,,,,,6216 80 800 AP 50000
+502,Loan - Outgo,,1,1,,6216 80 800 AP 50200
+01,Bearing Interest,,1,1,,6216 80 800 AP 50201
+AP,Total AP,1,1,,,
+#,State's Expenditure Total,,1,1,,
+800,Total 800,1,1,,,
+80,Total 80,1,1,,,
+6216,Total 6216,1,1,,,
