@@ -1,0 +1,66 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2070-00,OTHER ADMINISTRATIVE SERVICES,,,,,
+003,Training,,,,,
+#,State's Expenditure,,,,,
+AH,Civil Services Training Institute at Bhavani Sagar,,,,,2070 00 003 AH 30000
+301,Salaries,"2,48,82","2,67,75","3,38,96","2,58,69",2070 00 003 AH 30100
+01,Pay,"1,95,54","2,09,39","1,92,70","2,00,41",2070 00 003 AH 30101
+02,Medical Allowance,"1,41","1,50","1,52","1,52",2070 00 003 AH 30102
+03,Medical Charges,16,24,24,24,2070 00 003 AH 30103
+04,Other Allowances,"9,71","5,34","5,20","5,20",2070 00 003 AH 30104
+06,House Rent Allowance,69,"1,00","1,00","1,04",2070 00 003 AH 30106
+07,Travel Concession,22,24,24,24,2070 00 003 AH 30107
+09,Honorarium,"41,09","50,04","1,38,06","50,04",2070 00 003 AH 30109
+302,Wages,"15,25","15,28","16,47","16,47",2070 00 003 AH 30200
+01,Wages,"15,25","15,28","16,47","16,47",2070 00 003 AH 30201
+303,Dearness Allowance,"23,54","27,22","30,83","49,10",2070 00 003 AH 30300
+01,Dearness Allowance,"23,54","27,22","30,83","49,10",2070 00 003 AH 30301
+304,Travel Expenses,"1,75","2,58","2,58","2,58",2070 00 003 AH 30400
+01,Tour Travelling Allowances,"1,55","2,32","2,32","2,32",2070 00 003 AH 30401
+02,Transfer Travelling Allowances,20,26,26,26,2070 00 003 AH 30402
+305,Office Expenses,"48,86","51,51","64,43","49,28",2070 00 003 AH 30500
+01,Telephone Charges,"12,00","7,00","7,07","7,00",2070 00 003 AH 30501
+02,Other Contingencies,"5,07","5,09","15,73","5,09",2070 00 003 AH 30502
+03,Electricity Charges,"30,64","37,34","39,55","35,11",2070 00 003 AH 30503
+04,Service Postage & Postal Expenditure,"1,15","2,07","2,07","2,07",2070 00 003 AH 30504
+05,Furniture,,1,1,1,2070 00 003 AH 30505
+306,"Rent, Rates and Taxes","23,49","23,38","47,22","33,38",2070 00 003 AH 30600
+01,Rent,,,,"13,33",2070 00 003 AH 30601
+02,Property tax,"23,08","22,78","32,78","32,78",2070 00 003 AH 30602
+03,Water Charges,41,60,"1,11",60,2070 00 003 AH 30603
+317,Minor Works,,1,1,1,2070 00 003 AH 31700
+01,Minor Works,,1,1,1,2070 00 003 AH 31701
+318,Maintenance,34,1,1,1,2070 00 003 AH 31800
+02,Special Maintenance,34,1,1,1,2070 00 003 AH 31802
+319,Machinery and Equipments,12,13,13,13,2070 00 003 AH 31900
+01,Purchase,,1,1,1,2070 00 003 AH 31901
+02,Renewal and Replacement,12,12,12,12,2070 00 003 AH 31902
+321,Motor Vehicles,23,23,23,23,2070 00 003 AH 32100
+02,Maintenance of Functional Vehicles,23,23,23,23,2070 00 003 AH 32102
+334,Other Charges,"2,00","1,00","1,00","1,00",2070 00 003 AH 33400 
+02,"Purchase  of  Books & Periodicals to Libraries etc.,","2,00","1,00","1,00","1,00",2070 00 003 AH 33402
+345,"Petroleum, Oil and Lubricant","2,48","3,00","3,56","2,62",2070 00 003 AH 34500
+01,"Petroleum, Oil and Lubricant","2,48","3,00","3,56","2,62",2070 00 003 AH 34501
+349,Festival Advances,-4,,,,2070 00 003 AH 34900
+01,Festival Advances-Debit,"1,45","2,00","4,80","4,80",2070 00 003 AH 34901
+02,Festival Advances-Credit,"-1,49","-2,00","-4,80","-4,80",2070 00 003 AH 34902
+376,Computer and Accessories,"1,24","1,61","1,81","1,81",2070 00 003 AH 37600
+01,Purchase,,1,1,1,2070 00 003 AH 37601
+02,Maintenance,55,90,90,90,2070 00 003 AH 37602
+03,Stationery,69,70,90,90,2070 00 003 AH 37603
+AH,Total AH,"3,68,08","3,93,71","5,07,24","4,15,31",
+#,State's Expenditure Total,"3,68,08","3,93,71","5,07,24","4,15,31",
+003,Total 003,"3,68,08","3,93,71","5,07,24","4,15,31",
+00,Total 00,"3,68,08","3,93,71","5,07,24","4,15,31",
+2070,Total 2070,"3,68,08","3,93,71","5,07,24","4,15,31",
+4070-00,CAPITAL OUTLAY ON OTHER ADMINISTRATIVE SERVICES,,,,,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+KM,"Construction of buildings and upgrading infrastructure facilities for Civil Service Training Institute, Bhavanisagar",,,,,4070 00 800 KM 40000
+416,Major Works,,,"1,00,00","9,00,00",4070 00 800 KM 41600
+01,Major Works,,,"1,00,00","9,00,00",4070 00 800 KM 41601
+KM,Total KM,,,"1,00,00","9,00,00",
+#,State's Expenditure Total,,,"1,00,00","9,00,00",
+800,Total 800,,,"1,00,00","9,00,00",
+00,Total 00,,,"1,00,00","9,00,00",
+4070,Total 4070,,,"1,00,00","9,00,00",

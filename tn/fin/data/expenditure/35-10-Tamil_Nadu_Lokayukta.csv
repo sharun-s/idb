@@ -1,0 +1,60 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2062-00,VIGILANCE,,,,,
+105,Other Vigilance Agencies,,,,,
+#,State's Expenditure,,,,,
+AC,Tamil Nadu Lokayukta,,,,,2062 00 105 AC 30000
+301,Salaries Charged,,,"2,32,25","8,16,82",2062 00 105 AC 30100
+01,Pay Charged,,,"1,35,49","6,58,82",2062 00 105 AC 30101
+02,Medical Allowance Charged,,,26,"2,88",2062 00 105 AC 30102
+03,Medical Charges Charged,,,"17,00","17,00",2062 00 105 AC 30103
+04,Other Allowances Charged,,,"17,50","33,85",2062 00 105 AC 30104
+06,House Rent Allowance Charged,,,"40,00","74,49",2062 00 105 AC 30106
+07,Travel Concession Charged,,,"21,00","21,00",2062 00 105 AC 30107
+08,City Compensatory Allowance Charged,,,"1,00","8,78",2062 00 105 AC 30108
+302,Wages Charged,,,1,"3,00",2062 00 105 AC 30200
+01,Wages Charged,,,1,"3,00",2062 00 105 AC 30201
+303,Dearness Allowance Charged,,,"21,68","1,61,41",2062 00 105 AC 30300
+01,Dearness Allowance Charged,,,"21,68","1,61,41",2062 00 105 AC 30301
+304,Travel Expenses Charged,,,"2,00","5,00",2062 00 105 AC 30400
+01,Tour Travelling Allowances Charged,,,"1,50","3,00",2062 00 105 AC 30401
+02,Transfer Travelling Allowances Charged,,,50,"2,00",2062 00 105 AC 30402
+305,Office Expenses Charged,,,"1,11,94","39,51",2062 00 105 AC 30500
+01,Telephone Charges Charged,,,"3,00","3,00",2062 00 105 AC 30501
+02,Other Contingencies Charged,,,"3,00","6,00",2062 00 105 AC 30502
+03,Electricity Charges Charged,,,"12,00","30,00",2062 00 105 AC 30503
+04,Service Postage & Postal Expenditure Charged,,,50,50,2062 00 105 AC 30504
+05,Furniture Charged,,,"93,44",1,2062 00 105 AC 30505
+306,"Rent, Rates and Taxes Charged",,,"66,50","2,64,50",2062 00 105 AC 30600
+01,Rent Charged,,,"66,00","2,64,00",2062 00 105 AC 30601
+03,Water Charges Charged,,,50,50,2062 00 105 AC 30603
+319,Machinery and Equipments Charged,,,"1,01",2,2062 00 105 AC 31900
+01,Purchase Charged,,,"1,00",1,2062 00 105 AC 31901
+03,Maintenance Charged,,,1,1,2062 00 105 AC 31903
+321,Motor Vehicles Charged,,,"60,30",96,2062 00 105 AC 32100
+01,Purchase Charged,,,"60,00",1,2062 00 105 AC 32101
+02,Maintenance of Functional Vehicles Charged,,,20,75,2062 00 105 AC 32102
+03,Hire Charges Charged,,,10,20,2062 00 105 AC 32103
+333,Payments for Professional and Special Services Charged,,,"44,89","1,14,38",2062 00 105 AC 33300
+01,Pleaders Fees Charged,,,30,"3,00",2062 00 105 AC 33301
+02,Remuneration Charged,,,1,1,2062 00 105 AC 33302
+04,Contract Payment Charged,,,"44,58","1,11,37",2062 00 105 AC 33304
+334,Other Charges Charged,,,"7,00","1,00",2062 00 105 AC 33400
+02,"Purchase  of  Books & Periodicals to Libraries etc., Charged",,,"7,00","1,00",2062 00 105 AC 33402
+345," Petroleum, Oil and Lubricant Charged",,,"6,40","11,10",2062 00 105 AC 34500
+01,"Petroleum, Oil and Lubricant Charged",,,"6,40","11,10",2062 00 105 AC 34501
+349,Festival Advances,,,,,
+01,Festival Advances-Debit Charged,,,"2,00","6,00",2062 00 105 AC 34901
+02,Festival Advances-Credit Charged,,,"-2,00","-6,00",2062 00 105 AC 34902
+359,Prizes and Awards Charged,,,2,2,2062 00 105 AC 35900
+01,Prizes and Awards Charged,,,2,2,2062 00 105 AC 35901
+368,Cost of Books/Note Books/Slates Charged,,,"7,00",,2062 00 105 AC 36800
+01,Cost of Books/Note Books/Slates Charged,,,"7,00",,2062 00 105 AC 36801
+376,Computer and Accessories Charged,,,"1,81","4,31",2062 00 105 AC 37600
+01,Purchase Charged,,,1,1,2062 00 105 AC 37601
+02,Maintenance Charged,,,30,30,2062 00 105 AC 37602
+03,Stationery Charged,,,"1,50","4,00",2062 00 105 AC 37603
+AC,Total AC Charged,,,"5,62,81","14,22,03",
+#,State's Expenditure Total Charged,,,"5,62,81","14,22,03",
+105,Total 105 Charged,,,"5,62,81","14,22,03",
+00,Total 00 Charged,,,"5,62,81","14,22,03",
+2062,Total 2062 Charged,,,"5,62,81","14,22,03",

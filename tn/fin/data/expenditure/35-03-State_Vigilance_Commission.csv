@@ -1,0 +1,39 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2062-00,VIGILANCE,,,,,
+104,Vigilance Commission of State / UT,,,,,
+#,State's Expenditure,,,,,
+AA,State Vigilance Commission,,,,,2062 00 104 AA 30000
+301,Salaries,"1,42,38","1,48,32","1,29,76","1,34,80",2062 00 104 AA 30100
+01,Pay,"1,22,78","1,27,24","1,10,98","1,15,42",2062 00 104 AA 30101
+02,Medical Allowance,44,45,51,51,2062 00 104 AA 30102
+03,Medical Charges,,10,10,10,2062 00 104 AA 30103
+04,Other Allowances,"1,29","2,23","1,29","1,29",2062 00 104 AA 30104
+06,House Rent Allowance,"16,06","16,42","15,00","15,60",2062 00 104 AA 30106
+07,Travel Concession,,11,11,11,2062 00 104 AA 30107
+08,City Compensatory Allowance,"1,81","1,77","1,77","1,77",2062 00 104 AA 30108
+303,Dearness Allowance,"10,64","16,54","17,76","28,28",2062 00 104 AA 30300
+01,Dearness Allowance,"10,64","16,54","17,76","28,28",2062 00 104 AA 30301
+304,Travel Expenses,6,10,10,10,2062 00 104 AA 30400
+01,Tour Travelling Allowances,6,10,10,10,2062 00 104 AA 30401
+305,Office Expenses,"3,26","2,36","3,42","3,44",2062 00 104 AA 30500
+01,Telephone Charges,35,36,42,44,2062 00 104 AA 30501
+02,Other Contingencies,"2,91","2,00","3,00","3,00",2062 00 104 AA 30502
+319,Machinery and Equipments,,2,11,11,2062 00 104 AA 31900
+01,Purchase,,1,1,1,2062 00 104 AA 31901
+03,Maintenance,,1,10,10,2062 00 104 AA 31903
+321,Motor Vehicles,,17,12,12,2062 00 104 AA 32100
+01,Purchase,,2,2,2,2062 00 104 AA 32101
+02,Maintenance of Functional Vehicles,,15,10,10,2062 00 104 AA 32102
+345,"Petroleum, Oil and Lubricant","1,09","2,00","2,00","2,00",2062 00 104 AA 34500
+01,"Petroleum, Oil and Lubricant","1,09","2,00","2,00","2,00",2062 00 104 AA 34501
+349,Festival Advances,12,,,,2062 00 104 AA 34900
+01,Festival Advances-Debit,40,50,"1,00","1,00",2062 00 104 AA 34901
+02,Festival Advances-Credit,-28,-50,"-1,00","-1,00",2062 00 104 AA 34902
+376,Computer and Accessories,"6,87","2,57","2,57","2,57",2062 00 104 AA 37600
+01,Purchase,"4,41",1,1,1,2062 00 104 AA 37601
+03,Stationery,"2,46","2,56","2,56","2,56",2062 00 104 AA 37603
+AA,Total AA,"1,64,42","1,72,08","1,55,84","1,71,42",
+#,State's Expenditure Total,"1,64,42","1,72,08","1,55,84","1,71,42",
+104,Total 104,"1,64,42","1,72,08","1,55,84","1,71,42",
+00,Total 00,"1,64,42","1,72,08","1,55,84","1,71,42",
+2062,Total 2062,"1,64,42","1,72,08","1,55,84","1,71,42",

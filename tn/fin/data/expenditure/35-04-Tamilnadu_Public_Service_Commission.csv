@@ -1,0 +1,81 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2051-00,PUBLIC SERVICE COMMISSION,,,,,
+102,State Public Service Commission,,,,,
+#,State's Expenditure,,,,,
+AA,Tamil Nadu Public Service Commission - Charged,,,,,2051 00 102 AA 30000
+301,Salaries Charged,"31,51,86","33,18,37","31,65,99","32,89,58",2051 00 102 AA 30100
+01,Pay Charged,"27,38,32","28,72,04","27,44,81","28,54,60",2051 00 102 AA 30101
+02,Medical Allowance Charged,"15,95","16,47","16,06","16,06",2051 00 102 AA 30102
+03,Medical Charges Charged,"4,43","10,56","5,00","5,00",2051 00 102 AA 30103
+04,Other Allowances Charged,"16,51","16,40","19,13","19,13",2051 00 102 AA 30104
+06,House Rent Allowance Charged,"3,20,41","3,38,90","3,15,89","3,28,53",2051 00 102 AA 30106
+07,Travel Concession Charged,"2,32","5,00","11,00","10,00",2051 00 102 AA 30107
+08,City Compensatory Allowance Charged,"53,92","59,00","54,10","56,26",2051 00 102 AA 30108
+302,Wages Charged,"11,38","27,65","21,29","27,65",2051 00 102 AA 30200
+01,Wages Charged,"11,38","27,65","21,29","27,65",2051 00 102 AA 30201
+303,Dearness Allowance Charged,"2,63,67","3,73,37","4,39,17","6,99,38",2051 00 102 AA 30300
+01,Dearness Allowance Charged,"2,63,67","3,73,37","4,39,17","6,99,38",2051 00 102 AA 30301
+304,Travel Expenses Charged,"11,56","19,42","19,41","19,41",2051 00 102 AA 30400
+01,Tour Travelling Allowances Charged,"11,56","19,40","19,40","19,40",2051 00 102 AA 30401
+02,Transfer Travelling Allowances Charged,,2,1,1,2051 00 102 AA 30402
+305,Office Expenses Charged,"75,73","84,93","83,38","78,39",2051 00 102 AA 30500
+01,Telephone Charges Charged,"7,31","14,56","10,02","10,02",2051 00 102 AA 30501
+02,Other Contingencies Charged,"14,89","14,80","14,80","14,80",2051 00 102 AA 30502
+03,Electricity Charges Charged,"46,20","51,56","51,56","51,56",2051 00 102 AA 30503
+04,Service Postage & Postal Expenditure,,,,,
+05,Furniture Charged,"5,33",1,"5,00",1,2051 00 102 AA 30505
+306,"Rent, Rates and Taxes Charged","25,01","18,53","33,53","29,06",2051 00 102 AA 30600
+02,Property tax Charged,"18,78","11,83","19,33","19,33",2051 00 102 AA 30602
+03,Water Charges Charged,"6,23","6,70","14,20","9,73",2051 00 102 AA 30603
+308,Advertising and Charged,"1,57,67","1,07,65","1,17,65","1,17,65",2051 00 102 AA 30800
+Publicity,,,,,,
+01,Advertisement Charges Charged,"1,57,67","1,07,65","1,17,65","1,17,65",2051 00 102 AA 30801
+313,Hospitality / Charged,12,97,"2,13","1,00",2051 00 102 AA 31300
+Entertainment,,,,,,
+Expenditure,,,,,,
+01,Hospitality / Entertainment,,,,,
+Expenditure, Charged,12,97,"2,13","1,00",2051 00 102 AA 31301
+317,Minor Works Charged,,1,1,1,2051 00 102 AA 31700
+01,Minor Works Charged,,1,1,1,2051 00 102 AA 31701
+318,Maintenance Charged,"1,73,44","4,80","1,65,75","4,80",2051 00 102 AA 31800
+01,Periodical Maintenance Charged,"1,73,44","4,80","1,65,75","4,80",2051 00 102 AA 31801
+319,Machinery and Equipments Charged,"2,99","3,01","9,57","3,01",2051 00 102 AA 31900
+01,Purchase Charged,,1,"6,57",1,2051 00 102 AA 31901
+03,Maintenance Charged,"2,99","3,00","3,00","3,00",2051 00 102 AA 31903
+321,Motor Vehicles Charged,"3,50","3,01","3,01","3,01",2051 00 102 AA 32100
+01,Purchase Charged,,1,1,1,2051 00 102 AA 32101
+02,Maintenance of Functional Vehicles Charged,"3,50","2,00","2,00","2,00",2051 00 102 AA 32102
+03,Hire Charges Charged,,"1,00","1,00","1,00",2051 00 102 AA 32103
+333,Payments for Professional and Special Services Charged,"30,00,00","30,00,01","56,35,04","30,02,01",2051 00 102 AA 33300
+01,Pleaders Fees Charged,,1,"3,00,00","2,00",2051 00 102 AA 33301
+02,Remuneration Charged,"30,00,00","30,00,00","53,17,05","30,00,00",2051 00 102 AA 33302
+04,Contract Payment Charged,,,"17,99",1,2051 00 102 AA 33304
+334,Other Charges Charged,"10,00","5,00","5,00","5,00",2051 00 102 AA 33400
+02,"Purchase  of  Books & Periodicals to Libraries etc., Charged","10,00","5,00","5,00","5,00",2051 00 102 AA 33402
+345," Petroleum, Oil and Charged","9,80","20,22","20,22","20,22",2051 00 102 AA 34500
+Lubricant,,,,,,
+01,"Petroleum, Oil and Lubricant",,,,,
+349,Festival Advances Charged,"-1,31",,,,2051 00 102 AA 34900
+01,Festival Advances-Debit Charged,"12,45","17,00","34,00","35,00",2051 00 102 AA 34901
+02,Festival Advances-Credit Charged,"-13,76","-17,00","-34,00","-35,00",2051 00 102 AA 34902
+359,Prizes and Awards Charged,2,16,52,56,2051 00 102 AA 35900
+01,Prizes and Awards Charged,2,16,52,56,2051 00 102 AA 35901
+372,Training Charged,,1,1,1,2051 00 102 AA 37200
+01,Training Charged,,1,1,1,2051 00 102 AA 37201
+376,Computer and Accessories Charged,"21,38","11,81","28,35","11,81",2051 00 102 AA 37600
+01,Purchase Charged,"5,19",1,"8,07",1,2051 00 102 AA 37601
+02,Maintenance Charged,"9,05","4,00","5,05","4,00",2051 00 102 AA 37602
+03,Stationery Charged,"7,14","7,80","15,23","7,80",2051 00 102 AA 37603
+AA,Total AA Charged,"69,16,82","69,98,93","97,50,03","73,12,56",
+#,State's Expenditure Total Charged,"69,16,82","69,98,93","97,50,03","73,12,56",
+102,Total 102 Charged,"69,16,82","69,98,93","97,50,03","73,12,56",
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+AA,Tamil Nadu Public Service Commission,,,,,2051 00 911 AA 30000
+377,Deduct-Recoveries Charged,-32,,,,2051 00 911 AA 37700
+02,Recoveries of Overpayments / Remittance of excess drawals Charged,-32,,,,2051 00 911 AA 37702
+AA,Total AA Charged,-32,,,,
+#,State's Expenditure Total Charged,-32,,,,
+911,Total 911 Charged,-32,,,,
+00,Total 00 Charged,"69,16,50","69,98,93","97,50,03","73,12,56",
+2051,Total 2051 Charged,"69,16,50","69,98,93","97,50,03","73,12,56",
