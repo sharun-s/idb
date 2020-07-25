@@ -1,0 +1,623 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2210,MEDICAL AND PUBLIC HEALTH,,,,,
+01,Urban Health Services-Allopathy,,,,,
+102,Employees State Insurance Schemes,,,,,
+#,State's Expenditure,,,,,
+AA,Administrative Unit,,,,,2210 01 102 AA 30000
+301,Salaries,"4,70,32","4,66,99","5,27,57","5,64,13",2210 01 102 AA 30100
+01,Pay,"4,10,08","4,10,42","4,40,86","4,78,67",2210 01 102 AA 30101
+02,Medical Allowance,"3,25","3,60","3,60","3,12",2210 01 102 AA 30102
+03,Medical Charges,,3,4,4,2210 01 102 AA 30103
+04,Other Allowances,"4,18","1,68","4,10","5,70",2210 01 102 AA 30104
+06,House Rent Allowance,"43,73","43,06","67,54","65,24",2210 01 102 AA 30106
+07,Travel Concession,75,20,45,38,2210 01 102 AA 30107
+08,City Compensatory Allowance,"8,33","8,00","10,98","10,98",2210 01 102 AA 30108
+303,Dearness Allowance,"45,16","53,35","75,52","1,17,27",2210 01 102 AA 30300
+01,Dearness Allowance,"45,16","53,35","75,52","1,17,27",2210 01 102 AA 30301
+304,Travel Expenses,"3,16","3,01","3,01","3,01",2210 01 102 AA 30400
+01,Tour Travelling Allowances,"3,00","3,00","3,00","3,00",2210 01 102 AA 30401
+02,Transfer Travelling Allowances,16,1,1,1,2210 01 102 AA 30402
+305,Office Expenses,"6,32","6,67","12,08","10,48",2210 01 102 AA 30500
+01,Telephone Charges,32,50,50,48,2210 01 102 AA 30501
+02,Other Contingencies,"1,75","1,75","4,21","1,75",2210 01 102 AA 30502
+03,Electricity Charges,"3,50","3,67","6,62","7,50",2210 01 102 AA 30503
+04,Service Postage & Postal Expenditure,75,75,75,75,2210 01 102 AA 30504
+319,Machinery and Equipments,22,50,50,50,2210 01 102 AA 31900
+03,Maintenance,22,50,50,50,2210 01 102 AA 31903
+321,Motor Vehicles,20,31,31,31,2210 01 102 AA 32100
+01,Purchase,,1,1,1,2210 01 102 AA 32101
+02,Maintenance of Functional Vehicles,20,30,30,30,2210 01 102 AA 32102
+333,Payments for Professional and Special Services,,1,1,50,2210 01 102 AA 33300
+01,Pleaders Fees,,1,1,50,2210 01 102 AA 33301
+345,"Petroleum, Oil and Lubricant","2,10","2,65","2,88","3,02",2210 01 102 AA 34500
+01,"Petroleum, Oil and Lubricant","2,10","2,65","2,88","3,02",2210 01 102 AA 34501
+346,"Clothing, Tentage and Stores",5,25,15,25,2210 01 102 AA 34600
+01,"Clothing, Tentage and Stores",5,25,15,25,2210 01 102 AA 34601
+349,Festival Advances,-6,,,,2210 01 102 AA 34900
+01,Festival Advances-Debit,"2,50",20,"6,05","6,00",2210 01 102 AA 34901
+02,Festival Advances-Credit,"-2,56",-20,"-6,05","-6,00",2210 01 102 AA 34902
+351,Compensation Charged,,1,1,1,2210 01 102 AA 35100
+51,Claims under no fault liability -  principal charges Charged,,1,1,1,2210 01 102 AA 35151
+359,Prizes and Awards,2,2,6,2,2210 01 102 AA 35900
+01,Prizes and Awards,2,2,6,2,2210 01 102 AA 35901
+364,Lands Charged,,1,1,1,2210 01 102 AA 36400
+51,Lands Charged,,1,1,1,2210 01 102 AA 36451
+372,Training,,1,1,1,2210 01 102 AA 37200
+01,Training,,1,1,1,2210 01 102 AA 37201
+376,Computer and Accessories,"1,01","1,53","1,29,65","1,53",2210 01 102 AA 37600
+01,Purchase,,1,"1,28,13",1,2210 01 102 AA 37601
+02,Maintenance,2,52,52,52,2210 01 102 AA 37602
+03,Stationery,99,"1,00","1,00","1,00",2210 01 102 AA 37603
+AA,Total AA Charged,,2,2,2,
+AA,Total AA Voted,"5,28,50","5,35,30","7,51,75","7,01,03",
+AC,"Presidency Hospitals (E.S.I. Hospitals, Chennai)",,,,,2210 01 102 AC 30000
+301,Salaries,"20,65,75","20,10,64","21,71,39","58,06,22",2210 01 102 AC 30100
+01,Pay,"17,66,65","17,11,78","18,43,54","51,51,22",2210 01 102 AC 30101
+02,Medical Allowance,"11,13","11,74","11,74","28,86",2210 01 102 AC 30102
+03,Medical Charges,7,10,9,9,2210 01 102 AC 30103
+04,Other Allowances,"49,43","71,80","71,80","2,05,00",2210 01 102 AC 30104
+06,House Rent Allowance,"2,03,10","1,95,19","2,14,53","3,71,96",2210 01 102 AC 30106
+07,Travel Concession,,63,10,9,2210 01 102 AC 30107
+08,City Compensatory Allowance,"35,37","19,40","29,59","49,00",2210 01 102 AC 30108
+303,Dearness Allowance,"2,62,00","2,22,53","3,40,62","12,62,05",2210 01 102 AC 30300
+01,Dearness Allowance,"2,62,00","2,22,53","3,40,62","12,62,05",2210 01 102 AC 30301
+304,Travel Expenses,,,,"4,13",2210 01 102 AC 30400
+01,Tour Travelling Allowances,,,,"4,13",2210 01 102 AC 30401
+305,Office Expenses,"1,38,72","1,46,27","5,95,01","7,03,33",2210 01 102 AC 30500
+01,Telephone Charges,30,67,"1,27","3,00",2210 01 102 AC 30501
+02,Other Contingencies,"2,86","2,90","6,97","11,12",2210 01 102 AC 30502
+03,Electricity Charges,"1,35,51","1,42,65","5,86,72","6,88,46",2210 01 102 AC 30503
+04,Service Postage & Postal Expenditure,5,5,5,75,2210 01 102 AC 30504
+306,"Rent, Rates and Taxes","12,06","13,65","13,65","28,41",2210 01 102 AC 30600
+03,Water Charges,"12,06","13,65","13,65","28,41",2210 01 102 AC 30603
+319,Machinery and Equipments,"8,79,09","1,01","4,39","4,83",2210 01 102 AC 31900
+01,Purchase,"8,78,12",1,"3,39",2,2210 01 102 AC 31901
+03,Maintenance,97,"1,00","1,00","4,81",2210 01 102 AC 31903
+321,Motor Vehicles,"11,45",14,14,50,2210 01 102 AC 32100
+01,Purchase,"11,42",1,1,2,2210 01 102 AC 32101
+02,Maintenance of Functional Vehicles,3,13,13,48,2210 01 102 AC 32102
+333,Payments for Professional and Special Services,55,66,"2,88","2,08,07",2210 01 102 AC 33300
+01,Pleaders Fees,,6,3,8,2210 01 102 AC 33301
+04,Contract Payment,55,60,"2,85","2,07,99",2210 01 102 AC 33304
+334,Other Charges,,1,1,1,2210 01 102 AC 33400
+01,Other Items,,1,1,1,2210 01 102 AC 33401
+345,"Petroleum, Oil and Lubricant","1,53","1,80","14,76","94,31",2210 01 102 AC 34500
+01,"Petroleum, Oil and Lubricant","1,53","1,80","14,76","94,31",2210 01 102 AC 34501
+346,"Clothing, Tentage and Stores","1,16","1,16","1,27","4,92",2210 01 102 AC 34600
+01,"Clothing, Tentage and Stores","1,16","1,16","1,27","4,92",2210 01 102 AC 34601
+347,Stores and Equipments,"10,20","10,21","2,54,94","76,35",2210 01 102 AC 34700
+01,Stores - Voted,"10,20","10,20","2,54,93","76,34",2210 01 102 AC 34701
+03,X-rays - Voted,,1,1,1,2210 01 102 AC 34703
+349,Festival Advances,-40,,,,2210 01 102 AC 34900
+01,Festival Advances-Debit,"8,40","17,00","17,13","61,78",2210 01 102 AC 34901
+02,Festival Advances-Credit,"-8,80","-17,00","-17,13","-61,78",2210 01 102 AC 34902
+359,Prizes and Awards,8,23,32,38,2210 01 102 AC 35900
+01,Prizes and Awards,8,23,32,38,2210 01 102 AC 35901
+366,Medicine,"11,39,03","11,39,04","11,40,32","21,76,91",2210 01 102 AC 36600 
+01,Medicine,"11,39,03","11,39,04","11,40,32","21,76,91",2210 01 102 AC 36601
+367,Feeding/Dietary Charges,"28,95","29,00","34,00","1,02,61",2210 01 102 AC 36700
+09,Others,"28,95","29,00","34,00","1,02,61",2210 01 102 AC 36709 
+376,Computer and Accessories,90,90,90,"2,76",2210 01 102 AC 37600
+02,Maintenance,10,10,10,82,2210 01 102 AC 37602
+03,Stationery,80,80,80,"1,94",2210 01 102 AC 37603
+AC,Total AC,"45,51,07","35,77,25","45,74,60","1,04,75,79",
+AE,"Mofussil Hospitals (E.S.I. Hospital, Madurai)",,,,,2210 01 102 AE 30000
+301,Salaries,"8,73,34","8,52,45","8,99,04",,2210 01 102 AE 30100
+01,Pay,"7,86,95","7,58,78","7,96,28",,2210 01 102 AE 30101
+02,Medical Allowance,"5,01","5,00","5,00",,2210 01 102 AE 30102
+04,Other Allowances,"21,95","28,44","28,44",,2210 01 102 AE 30104
+06,House Rent Allowance,"50,66","49,44","59,13",,2210 01 102 AE 30106
+07,Travel Concession,83,20,20,,2210 01 102 AE 30107
+08,City Compensatory Allowance,"7,94","10,59","9,99",,2210 01 102 AE 30108
+303,Dearness Allowance,"78,90","98,64","1,28,90",,2210 01 102 AE 30300
+01,Dearness Allowance,"78,90","98,64","1,28,90",,2210 01 102 AE 30301
+304,Travel Expenses,72,80,80,,2210 01 102 AE 30400
+01,Tour Travelling Allowances,72,80,80,,2210 01 102 AE 30401
+305,Office Expenses,"15,78","19,71","20,35",,2210 01 102 AE 30500
+01,Telephone Charges,24,29,29,,2210 01 102 AE 30501
+02,Other Contingencies,"2,04","2,02","4,86",,2210 01 102 AE 30502
+03,Electricity Charges,"13,30","17,20","15,00",,2210 01 102 AE 30503
+04,Service Postage & Postal Expenditure,20,20,20,,2210 01 102 AE 30504
+306,"Rent, Rates and Taxes",2,2,2,,2210 01 102 AE 30600
+03,Water Charges,2,2,2,,2210 01 102 AE 30603
+319,Machinery and Equipments,"1,86,11","1,01","4,39",,2210 01 102 AE 31900
+01,Purchase,"1,85,12",1,"3,39",,2210 01 102 AE 31901
+03,Maintenance,99,"1,00","1,00",,2210 01 102 AE 31903
+321,Motor Vehicles,"11,42",2,2,,2210 01 102 AE 32100
+01,Purchase,"11,42",1,1,,2210 01 102 AE 32101
+02,Maintenance of Functional Vehicles,,1,1,,2210 01 102 AE 32102
+333,Payments for Professional and Special Services,54,61,"2,65",,2210 01 102 AE 33300
+01,Pleaders Fees,,1,5,,2210 01 102 AE 33301
+04,Contract Payment,54,60,"2,60",,2210 01 102 AE 33304
+345,"Petroleum, Oil and Lubricant",,1,30,,2210 01 102 AE 34500
+01,"Petroleum, Oil and Lubricant",,1,30,,2210 01 102 AE 34501
+346,"Clothing, Tentage and Stores","1,29","1,30","1,30",,2210 01 102 AE 34600
+01,"Clothing, Tentage and Stores","1,29","1,30","1,30",,2210 01 102 AE 34601
+347,Stores and Equipments,"5,73","5,74","23,47",,2210 01 102 AE 34700
+01,Stores - Voted,"5,73","5,74","22,83",,2210 01 102 AE 34701
+03,X-rays - Voted,,,64,,2210 01 102 AE 34703
+349,Festival Advances,-5,,,,2210 01 102 AE 34900
+01,Festival Advances-Debit,"4,85","5,50","11,09",,2210 01 102 AE 34901
+02,Festival Advances-Credit,"-4,90","-5,50","-11,09",,2210 01 102 AE 34902
+359,Prizes and Awards,2,2,12,,2210 01 102 AE 35900
+01,Prizes and Awards,2,2,12,,2210 01 102 AE 35901
+366,Medicine,"3,04,14","3,04,15","3,04,49",,2210 01 102 AE 36600
+01,Medicine,"3,04,14","3,04,15","3,04,49",,2210 01 102 AE 36601
+367,Feeding/Dietary Charges,"26,55","29,00","30,00",,2210 01 102 AE 36700
+09,Others,"26,55","29,00","30,00",,2210 01 102 AE 36709
+376,Computer and Accessories,47,47,47,,2210 01 102 AE 37600
+02,Maintenance,11,11,11,,2210 01 102 AE 37602
+03,Stationery,36,36,36,,2210 01 102 AE 37603
+AE,Total AE,"15,04,98","13,13,95","14,16,32",,
+AG,Expenditure on E.S.I. Scheme -  Both insured persons and their families,,,,,2210 01 102 AG 30000
+301,Salaries,"1,49,07,70","1,36,74,23","1,46,91,82","1,49,01,97",2210 01 102 AG 30100
+01,Pay,"1,34,56,46","1,22,36,69","1,33,11,84","1,35,83,36",2210 01 102 AG 30101
+02,Medical Allowance,"88,51","81,10","81,10","80,64",2210 01 102 AG 30102
+03,Medical Charges,5,,"4,19",,2210 01 102 AG 30103
+04,Other Allowances,"3,38,25","3,87,22","3,28,99","2,81,95",2210 01 102 AG 30104
+06,House Rent Allowance,"9,08,92","8,39,60","8,57,16","8,46,84",2210 01 102 AG 30106
+07,Travel Concession,68,85,37,"1,01",2210 01 102 AG 30107
+08,City Compensatory Allowance,"1,14,83","1,28,77","1,08,17","1,08,17",2210 01 102 AG 30108
+303,Dearness Allowance,"13,36,33","15,90,77","20,33,84","33,27,92",2210 01 102 AG 30300
+01,Dearness Allowance,"13,36,33","15,90,77","20,33,84","33,27,92",2210 01 102 AG 30301
+304,Travel Expenses,"15,67","16,90","16,91","16,98",2210 01 102 AG 30400
+01,Tour Travelling Allowances,"14,45","15,80","15,80","15,80",2210 01 102 AG 30401
+02,Transfer Travelling Allowances,1,,,,2210 01 102 AG 30402
+03,Fixed Travelling Allowances,"1,21","1,10","1,11","1,18",2210 01 102 AG 30403
+305,Office Expenses,"1,08,34","1,99,36","2,57,45","1,69,44",2210 01 102 AG 30500
+01,Telephone Charges,"7,29","15,27","15,67","15,65",2210 01 102 AG 30501
+02,Other Contingencies,"29,79","30,80","74,00","30,80",2210 01 102 AG 30502
+03,Electricity Charges,"68,44","1,49,88","1,17,47","1,19,58",2210 01 102 AG 30503
+04,Service Postage & Postal Expenditure,"2,82","3,41","3,41","3,41",2210 01 102 AG 30504
+05,Furniture,,,"46,90",,2210 01 102 AG 30505
+306,"Rent, Rates and Taxes","77,38","98,38","98,38","99,90",2210 01 102 AG 30600
+01,Rent,"68,84","86,30","86,30","86,30",2210 01 102 AG 30601
+03,Water Charges,"8,54","12,08","12,08","13,60",2210 01 102 AG 30603
+308,Advertising and Publicity,,1,"5,00",1,2210 01 102 AG 30800
+01,Advertisement Charges,,1,"5,00",1,2210 01 102 AG 30801
+309,Grants-in-Aid,99,"1,00","49,00","1,00",2210 01 102 AG 30900
+03,Grants for Specific Schemes,99,"1,00","49,00","1,00",2210 01 102 AG 30903
+319,Machinery and Equipments,"2,05,07","1,23","1,82,44","1,24",2210 01 102 AG 31900
+01,Purchase,"2,04,14",1,"1,81,22",1,2210 01 102 AG 31901
+03,Maintenance,93,"1,22","1,22","1,23",2210 01 102 AG 31903
+321,Motor Vehicles,"50,78",39,38,"30,33",2210 01 102 AG 32100
+01,Purchase,"50,46",1,,,2210 01 102 AG 32101
+02,Maintenance of Functional Vehicles,32,38,38,38,2210 01 102 AG 32102
+03,Hire Charges,,,,"29,95",2210 01 102 AG 32103
+333,Payments for Professional and Special Services,"1,51","6,42","15,11","1,35,82",2210 01 102 AG 33300
+01,Pleaders Fees,10,11,10,11,2210 01 102 AG 33301
+04,Contract Payment,,1,1,"1,20,71",2210 01 102 AG 33304
+09,Other Payments,"1,41","6,30","15,00","15,00",2210 01 102 AG 33309
+345,"Petroleum, Oil and Lubricant","5,42","6,54","7,57","8,35",2210 01 102 AG 34500
+01,"Petroleum, Oil and Lubricant","5,42","6,54","7,57","8,35",2210 01 102 AG 34501
+346,"Clothing, Tentage and Stores","2,05","3,04","5,30","3,04",2210 01 102 AG 34600
+01,"Clothing, Tentage and Stores","2,05","3,04","5,30","3,04",2210 01 102 AG 34601
+347,Stores and Equipments,"6,81","6,97","63,88","23,19",2210 01 102 AG 34700
+01,Stores - Voted,"6,88","6,96","35,87","23,19",2210 01 102 AG 34701
+02,Equipments - Voted,-7,1,"28,01",,2210 01 102 AG 34702
+349,Festival Advances,-10,,,,2210 01 102 AG 34900
+01,Festival Advances-Debit,"73,30","93,76","1,93,85","1,95,08",2210 01 102 AG 34901
+02,Festival Advances-Credit,"-73,40","-93,76","-1,93,85","-1,95,08",2210 01 102 AG 34902
+359,Prizes and Awards,62,69,50,50,2210 01 102 AG 35900
+01,Prizes and Awards,62,69,50,50,2210 01 102 AG 35901
+366,Medicine,"2,77,31,05","2,77,58,82","2,80,47,60","2,75,95,40",2210 01 102 AG 36600 
+01,Medicine,"2,77,31,05","2,77,58,82","2,80,47,60","2,75,95,40",2210 01 102 AG 36601
+376,Computer and Accessories,"2,50","2,45","10,45","2,45",2210 01 102 AG 37600
+01,Purchase,48,,"8,00",,2210 01 102 AG 37601
+02,Maintenance,66,83,83,83,2210 01 102 AG 37602
+03,Stationery,"1,36","1,62","1,62","1,62",2210 01 102 AG 37603
+AG,Total AG,"4,44,52,12","4,33,67,20","4,54,85,63","4,63,17,54",
+AH,Regional Offices,,,,,2210 01 102 AH 30000
+301,Salaries,"3,83,34","3,45,46","3,62,32","3,76,11",2210 01 102 AH 30100
+01,Pay,"3,46,70","3,05,56","3,20,66","3,35,16",2210 01 102 AH 30101
+02,Medical Allowance,"2,52","2,76","2,76","3,04",2210 01 102 AH 30102
+04,Other Allowances,"3,67","8,44","3,82","2,98",2210 01 102 AH 30104
+06,House Rent Allowance,"25,70","22,16","29,78","29,64",2210 01 102 AH 30106
+07,Travel Concession,18,35,6,5,2210 01 102 AH 30107
+08,City Compensatory Allowance,"4,57","6,19","5,24","5,24",2210 01 102 AH 30108
+303,Dearness Allowance,"35,76","39,72","58,10","82,11",2210 01 102 AH 30300
+01,Dearness Allowance,"35,76","39,72","58,10","82,11",2210 01 102 AH 30301
+304,Travel Expenses,"2,41","3,07","3,07","3,07",2210 01 102 AH 30400 
+01,Tour Travelling Allowances,"2,41","3,07","3,07","3,07",2210 01 102 AH 30401
+305,Office Expenses,"6,74","8,39","10,22","8,59",2210 01 102 AH 30500 
+01,Telephone Charges,78,"1,20","1,20","1,21",2210 01 102 AH 30501
+02,Other Contingencies,"1,31","1,30","3,13","1,30",2210 01 102 AH 30502
+03,Electricity Charges,"3,32","4,47","4,47","4,66",2210 01 102 AH 30503
+04,Service Postage & Postal Expenditure,"1,33","1,42","1,42","1,42",2210 01 102 AH 30504
+319,Machinery and Equipments,"88,04",13,61,13,2210 01 102 AH 31900
+01,Purchase,"88,00",,48,,2210 01 102 AH 31901
+03,Maintenance,4,13,13,13,2210 01 102 AH 31903
+321,Motor Vehicles,13,14,14,14,2210 01 102 AH 32100
+02,Maintenance of Functional Vehicles,13,14,14,14,2210 01 102 AH 32102
+333,Payments for Professional and Special Services,,1,1,1,2210 01 102 AH 33300
+01,Pleaders Fees,,1,1,1,2210 01 102 AH 33301
+345,"Petroleum, Oil and Lubricant","3,31","4,57","4,60","5,14",2210 01 102 AH 34500
+01,"Petroleum, Oil and Lubricant","3,31","4,57","4,60","5,14",2210 01 102 AH 34501
+346,"Clothing, Tentage and Stores",16,17,17,17,2210 01 102 AH 34600
+01,"Clothing, Tentage and Stores",16,17,17,17,2210 01 102 AH 34601
+349,Festival Advances,1,,,,2210 01 102 AH 34900
+01,Festival Advances-Debit,"2,45","4,00","8,08","8,00",2210 01 102 AH 34901
+02,Festival Advances-Credit,"-2,44","-4,00","-8,08","-8,00",2210 01 102 AH 34902
+359,Prizes and Awards,,6,6,6,2210 01 102 AH 35900
+01,Prizes and Awards,,6,6,6,2210 01 102 AH 35901
+376,Computer and Accessories,83,"1,03","1,02","1,03",2210 01 102 AH 37600
+01,Purchase,,1,,1,2210 01 102 AH 37601
+02,Maintenance,44,52,52,52,2210 01 102 AH 37602
+03,Stationery,39,50,50,50,2210 01 102 AH 37603
+AH,Total AH,"5,20,73","4,02,75","4,40,32","4,76,56",
+AL,Implementation of Immunisation programme,,,,,2210 01 102 AL 30000
+301,Salaries,"8,21","7,42","11,82",,2210 01 102 AL 30100
+01,Pay,"7,04","5,52","7,08",,2210 01 102 AL 30101
+02,Medical Allowance,4,4,4,,2210 01 102 AL 30102
+04,Other Allowances,5,46,9,,2210 01 102 AL 30104
+06,House Rent Allowance,93,72,"4,01",,2210 01 102 AL 30106
+08,City Compensatory Allowance,15,68,60,,2210 01 102 AL 30108
+303,Dearness Allowance,61,73,89,,2210 01 102 AL 30300
+01,Dearness Allowance,61,73,89,,2210 01 102 AL 30301
+304,Travel Expenses,1,8,7,,2210 01 102 AL 30400
+03,Fixed Travelling Allowances,1,8,7,,2210 01 102 AL 30403
+349,Festival Advances,-4,,,,2210 01 102 AL 34900
+01,Festival Advances-Debit,,"2,57",40,,2210 01 102 AL 34901
+02,Festival Advances-Credit,-4,"-2,57",-40,,2210 01 102 AL 34902
+AL,Total AL,"8,79","8,23","12,78",,
+AM,"Mofussil Hospitals (E.S.I. Hospital, Vellore)",,,,,2210 01 102 AM 30000
+301,Salaries,"3,29,75","3,35,02","3,47,44",,2210 01 102 AM 30100
+01,Pay,"3,05,27","3,08,60","3,22,55",,2210 01 102 AM 30101
+02,Medical Allowance,"2,06","2,20","2,20",,2210 01 102 AM 30102
+04,Other Allowances,"7,01","8,40","7,04",,2210 01 102 AM 30104
+06,House Rent Allowance,"15,17","15,54","15,37",,2210 01 102 AM 30106
+07,Travel Concession,24,28,28,,2210 01 102 AM 30107
+303,Dearness Allowance,"32,69","40,12","38,95",,2210 01 102 AM 30300
+01,Dearness Allowance,"32,69","40,12","38,95",,2210 01 102 AM 30301
+304,Travel Expenses,23,23,23,,2210 01 102 AM 30400
+01,Tour Travelling Allowances,23,23,23,,2210 01 102 AM 30401
+305,Office Expenses,"5,16","6,52","8,21",,2210 01 102 AM 30500
+01,Telephone Charges,20,22,22,,2210 01 102 AM 30501
+02,Other Contingencies,"1,20","1,20","2,89",,2210 01 102 AM 30502
+03,Electricity Charges,"3,66","5,00","5,00",,2210 01 102 AM 30503
+04,Service Postage & Postal Expenditure,10,10,10,,2210 01 102 AM 30504
+306,"Rent, Rates and Taxes",76,80,80,,2210 01 102 AM 30600
+03,Water Charges,76,80,80,,2210 01 102 AM 30603
+319,Machinery and Equipments,"1,07,78",61,"4,07",,2210 01 102 AM 31900
+01,Purchase,"1,07,19",1,"3,47",,2210 01 102 AM 31901
+03,Maintenance,59,60,60,,2210 01 102 AM 31903
+321,Motor Vehicles,"11,46",5,4,,2210 01 102 AM 32100
+01,Purchase,"11,42",1,,,2210 01 102 AM 32101
+02,Maintenance of Functional Vehicles,4,4,4,,2210 01 102 AM 32102
+333,Payments for Professional and Special Services,,1,1,,2210 01 102 AM 33300
+01,Pleaders Fees,,1,1,,2210 01 102 AM 33301
+345,"Petroleum, Oil and Lubricant",31,50,50,,2210 01 102 AM 34500
+01,"Petroleum, Oil and Lubricant",31,50,50,,2210 01 102 AM 34501
+346,"Clothing, Tentage and Stores",60,60,60,,2210 01 102 AM 34600
+01,"Clothing, Tentage and Stores",60,60,60,,2210 01 102 AM 34601
+347,Stores and Equipments,39,40,"8,26",,2210 01 102 AM 34700
+01,Stores - Voted,39,40,"7,32",,2210 01 102 AM 34701
+03,X-rays - Voted,,,94,,2210 01 102 AM 34703
+349,Festival Advances,19,,,,2210 01 102 AM 34900
+01,Festival Advances-Debit,"2,15","2,50","5,34",,2210 01 102 AM 34901
+02,Festival Advances-Credit,"-1,96","-2,50","-5,34",,2210 01 102 AM 34902
+359,Prizes and Awards,2,2,,,2210 01 102 AM 35900
+01,Prizes and Awards,2,2,,,2210 01 102 AM 35901
+366,Medicine,"1,19,37","1,19,38","1,19,51",,2210 01 102 AM 36600
+01,Medicine,"1,19,37","1,19,38","1,19,51",,2210 01 102 AM 36601
+367,Feeding/Dietary Charges,"4,61","5,00","5,00",,2210 01 102 AM 36700
+09,Others,"4,61","5,00","5,00",,2210 01 102 AM 36709
+376,Computer and Accessories,24,24,24,,2210 01 102 AM 37600
+02,Maintenance,12,12,12,,2210 01 102 AM 37602
+03,Stationery,12,12,12,,2210 01 102 AM 37603
+AM,Total AM,"6,13,56","5,09,50","5,33,86",,
+AO,"Mofussil Hospitals - (Employees State Insurance Hospital, Salem)",,,,,2210 01 102 AO 30000
+301,Salaries,"3,86,63","2,17,78","2,15,43",,2210 01 102 AO 30100
+01,Pay,"3,49,48","1,85,80","1,85,80",,2210 01 102 AO 30101
+02,Medical Allowance,"2,03","2,45","2,45",,2210 01 102 AO 30102
+04,Other Allowances,"8,91","12,60","10,23",,2210 01 102 AO 30104
+06,House Rent Allowance,"22,44","11,93","11,95",,2210 01 102 AO 30106
+08,City Compensatory Allowance,"3,77","5,00","5,00",,2210 01 102 AO 30108
+303,Dearness Allowance,"31,55","24,15","26,36",,2210 01 102 AO 30300
+01,Dearness Allowance,"31,55","24,15","26,36",,2210 01 102 AO 30301
+304,Travel Expenses,51,56,56,,2210 01 102 AO 30400
+01,Tour Travelling Allowances,51,56,56,,2210 01 102 AO 30401
+305,Office Expenses,"18,55","24,48","27,01",,2210 01 102 AO 30500
+01,Telephone Charges,35,38,38,,2210 01 102 AO 30501
+02,Other Contingencies,"1,56","1,80","4,33",,2210 01 102 AO 30502
+03,Electricity Charges,"16,56","22,21","22,21",,2210 01 102 AO 30503
+04,Service Postage & Postal Expenditure,8,8,8,,2210 01 102 AO 30504
+05,Furniture,,1,1,,2210 01 102 AO 30505
+319,Machinery and Equipments,"1,27,64",53,"3,91",,2210 01 102 AO 31900
+01,Purchase,"1,27,12",1,"3,39",,2210 01 102 AO 31901
+03,Maintenance,52,52,52,,2210 01 102 AO 31903
+321,Motor Vehicles,"11,44",3,3,,2210 01 102 AO 32100
+01,Purchase,"11,42",1,1,,2210 01 102 AO 32101
+02,Maintenance of Functional Vehicles,2,2,2,,2210 01 102 AO 32102
+333,Payments for Professional and Special Services,60,60,60,,2210 01 102 AO 33300
+04,Contract Payment,60,60,60,,2210 01 102 AO 33304
+345,"Petroleum, Oil and Lubricant",16,28,28,,2210 01 102 AO 34500
+01,"Petroleum, Oil and Lubricant",16,28,28,,2210 01 102 AO 34501
+346,"Clothing, Tentage and Stores",80,80,80,,2210 01 102 AO 34600
+01,"Clothing, Tentage and Stores",80,80,80,,2210 01 102 AO 34601
+347,Stores and Equipments,"1,31","1,50","15,59",,2210 01 102 AO 34700
+01,Stores - Voted,"1,31","1,50","14,65",,2210 01 102 AO 34701
+03,X-rays - Voted,,,94,,2210 01 102 AO 34703
+349,Festival Advances,21,,,,2210 01 102 AO 34900
+01,Festival Advances-Debit,"1,65","4,75","9,57",,2210 01 102 AO 34901
+02,Festival Advances-Credit,"-1,44","-4,75","-9,57",,2210 01 102 AO 34902
+366,Medicine,"1,70,17","1,77,16","1,77,36",,2210 01 102 AO 36600
+01,Medicine,"1,70,17","1,77,16","1,77,36",,2210 01 102 AO 36601
+367,Feeding/Dietary Charges,"6,52","8,57","8,57",,2210 01 102 AO 36700
+09,Others,"6,52","8,57","8,57",,2210 01 102 AO 36709
+376,Computer and Accessories,35,35,35,,2210 01 102 AO 37600
+02,Maintenance,15,15,15,,2210 01 102 AO 37602
+03,Stationery,20,20,20,,2210 01 102 AO 37603
+AO,Total AO,"7,56,44","4,56,79","4,76,85",,
+AP,"Mofussil Hospitals - (Employees State Insurance Hospital, Sivakasi)",,,,,2210 01 102 AP 30000
+301,Salaries,"4,79,19","4,87,62","4,85,78",,2210 01 102 AP 30100
+01,Pay,"4,46,61","4,54,07","4,54,07",,2210 01 102 AP 30101
+02,Medical Allowance,"2,78","2,70","2,70",,2210 01 102 AP 30102
+04,Other Allowances,"9,36","10,00","8,12",,2210 01 102 AP 30104
+06,House Rent Allowance,"20,40","20,81","20,85",,2210 01 102 AP 30106
+07,Travel Concession,4,4,4,,2210 01 102 AP 30107
+303,Dearness Allowance,"41,91","59,03","64,42",,2210 01 102 AP 30300
+01,Dearness Allowance,"41,91","59,03","64,42",,2210 01 102 AP 30301
+304,Travel Expenses,99,"1,00","1,00",,2210 01 102 AP 30400
+01,Tour Travelling Allowances,99,"1,00","1,00",,2210 01 102 AP 30401
+305,Office Expenses,"14,00","15,48","16,88",,2210 01 102 AP 30500
+01,Telephone Charges,21,26,26,,2210 01 102 AP 30501
+02,Other Contingencies,"1,00","1,00","2,40",,2210 01 102 AP 30502
+03,Electricity Charges,"12,67","14,10","14,10",,2210 01 102 AP 30503
+04,Service Postage & Postal Expenditure,12,12,12,,2210 01 102 AP 30504
+306,"Rent, Rates and Taxes","3,65","3,73","3,73",,2210 01 102 AP 30600
+03,Water Charges,"3,65","3,73","3,73",,2210 01 102 AP 30603
+319,Machinery and Equipments,"1,73,57",46,"3,92",,2210 01 102 AP 31900
+01,Purchase,"1,73,12",1,"3,47",,2210 01 102 AP 31901
+03,Maintenance,45,45,45,,2210 01 102 AP 31903
+321,Motor Vehicles,"11,49",16,16,,2210 01 102 AP 32100
+01,Purchase,"11,42",1,1,,2210 01 102 AP 32101
+02,Maintenance of Functional Vehicles,7,15,15,,2210 01 102 AP 32102
+333,Payments for Professional and Special Services,60,63,63,,2210 01 102 AP 33300
+01,Pleaders Fees,,3,3,,2210 01 102 AP 33301
+04,Contract Payment,60,60,60,,2210 01 102 AP 33304
+345,"Petroleum, Oil and Lubricant",75,95,95,,2210 01 102 AP 34500
+01,"Petroleum, Oil and Lubricant",75,95,95,,2210 01 102 AP 34501
+346,"Clothing, Tentage and Stores",65,65,65,,2210 01 102 AP 34600
+01,"Clothing, Tentage and Stores",65,65,65,,2210 01 102 AP 34601
+347,Stores and Equipments,"1,50","1,50","26,42",,2210 01 102 AP 34700
+01,Stores - Voted,"1,50","1,50","25,48",,2210 01 102 AP 34701
+03,X-rays - Voted,,,94,,2210 01 102 AP 34703
+349,Festival Advances,-2,,,,2210 01 102 AP 34900
+01,Festival Advances-Debit,"2,70","4,08","8,06",,2210 01 102 AP 34901
+02,Festival Advances-Credit,"-2,72","-4,08","-8,06",,2210 01 102 AP 34902
+359,Prizes and Awards,4,,6,,2210 01 102 AP 35900
+01,Prizes and Awards,4,,6,,2210 01 102 AP 35901
+366,Medicine,"2,17,78","2,31,51","2,28,53",,2210 01 102 AP 36600
+01,Medicine,"2,17,78","2,31,51","2,28,53",,2210 01 102 AP 36601
+367,Feeding/Dietary Charges,"12,50","15,00","15,00",,2210 01 102 AP 36700
+09,Others,"12,50","15,00","15,00",,2210 01 102 AP 36709
+376,Computer and Accessories,21,21,21,,2210 01 102 AP 37600
+02,Maintenance,9,9,9,,2210 01 102 AP 37602
+03,Stationery,12,12,12,,2210 01 102 AP 37603
+AP,Total AP,"9,58,81","8,17,93","8,48,34",,
+AQ,"Moffussil Hospital (E.S.I. Hospital, Hosur)",,,,,2210 01 102 AQ 30000
+301,Salaries,"4,02,42","4,84,96","2,84,79",,2210 01 102 AQ 30100
+01,Pay,"3,41,58","4,41,52","2,53,13",,2210 01 102 AQ 30101
+02,Medical Allowance,"1,97","1,58","1,58",,2210 01 102 AQ 30102
+04,Other Allowances,"40,95","18,00","18,00",,2210 01 102 AQ 30104
+06,House Rent Allowance,"17,09","23,86","11,78",,2210 01 102 AQ 30106
+07,Travel Concession,83,,30,,2210 01 102 AQ 30107
+303,Dearness Allowance,"38,38","57,40","43,35",,2210 01 102 AQ 30300
+01,Dearness Allowance,"38,38","57,40","43,35",,2210 01 102 AQ 30301
+304,Travel Expenses,76,80,80,,2210 01 102 AQ 30400
+01,Tour Travelling Allowances,76,80,80,,2210 01 102 AQ 30401
+305,Office Expenses,"10,82","10,35","12,32",,2210 01 102 AQ 30500
+01,Telephone Charges,21,30,30,,2210 01 102 AQ 30501
+02,Other Contingencies,"1,58","1,40","3,37",,2210 01 102 AQ 30502
+03,Electricity Charges,"8,98","8,55","8,55",,2210 01 102 AQ 30503
+04,Service Postage & Postal Expenditure,5,10,10,,2210 01 102 AQ 30504
+306,"Rent, Rates and Taxes","3,31","5,50","5,50",,2210 01 102 AQ 30600
+03,Water Charges,"3,31","5,50","5,50",,2210 01 102 AQ 30603
+319,Machinery and Equipments,"1,07,12",76,"4,14",,2210 01 102 AQ 31900
+01,Purchase,"1,07,12",1,"3,39",,2210 01 102 AQ 31901
+03,Maintenance,,75,75,,2210 01 102 AQ 31903
+321,Motor Vehicles,"11,47",9,9,,2210 01 102 AQ 32100
+01,Purchase,"11,42",1,1,,2210 01 102 AQ 32101
+02,Maintenance of Functional Vehicles,5,8,8,,2210 01 102 AQ 32102
+333,Payments for Professional and Special Services,51,60,60,,2210 01 102 AQ 33300
+04,Contract Payment,51,60,60,,2210 01 102 AQ 33304
+345,"Petroleum, Oil and Lubricant",60,80,80,,2210 01 102 AQ 34500
+01,"Petroleum, Oil and Lubricant",60,80,80,,2210 01 102 AQ 34501
+346,"Clothing, Tentage and Stores",,5,5,,2210 01 102 AQ 34600
+01,"Clothing, Tentage and Stores",,5,5,,2210 01 102 AQ 34601
+347,Stores and Equipments,"1,26","2,20","21,92",,2210 01 102 AQ 34700
+01,Stores - Voted,"1,26","2,20","20,98",,2210 01 102 AQ 34701
+03,X-rays - Voted,,,94,,2210 01 102 AQ 34703
+349,Festival Advances,-44,,,,2210 01 102 AQ 34900
+01,Festival Advances-Debit,"1,20","2,25","4,53",,2210 01 102 AQ 34901
+02,Festival Advances-Credit,"-1,64","-2,25","-4,53",,2210 01 102 AQ 34902
+359,Prizes and Awards,,12,4,,2210 01 102 AQ 35900
+01,Prizes and Awards,,12,4,,2210 01 102 AQ 35901
+366,Medicine,"54,49","57,81","57,88",,2210 01 102 AQ 36600
+01,Medicine,"54,49","57,81","57,88",,2210 01 102 AQ 36601
+367,Feeding/Dietary Charges,"4,70","4,21","4,21",,2210 01 102 AQ 36700
+09,Others,"4,70","4,21","4,21",,2210 01 102 AQ 36709
+376,Computer and Accessories,32,33,33,,2210 01 102 AQ 37600
+02,Maintenance,13,13,13,,2210 01 102 AQ 37602
+03,Stationery,19,20,20,,2210 01 102 AQ 37603
+AQ,Total AQ,"6,35,72","6,25,98","4,36,82",,
+AS,"Mofussil Hospital - (E.S.I. Hospital, Thiruchirappalli)",,,,,2210 01 102 AS 30000
+301,Salaries,"3,81,90","3,31,92","3,70,89",,2210 01 102 AS 30100
+01,Pay,"3,47,93","2,99,45","3,35,29",,2210 01 102 AS 30101
+02,Medical Allowance,"1,83","1,92","1,92",,2210 01 102 AS 30102
+04,Other Allowances,"7,61","8,10","8,00",,2210 01 102 AS 30104
+06,House Rent Allowance,"21,00","18,42","21,86",,2210 01 102 AS 30106
+08,City Compensatory Allowance,"3,53","4,03","3,82",,2210 01 102 AS 30108
+303,Dearness Allowance,"31,71","38,93","46,28",,2210 01 102 AS 30300
+01,Dearness Allowance,"31,71","38,93","46,28",,2210 01 102 AS 30301
+304,Travel Expenses,62,74,74,,2210 01 102 AS 30400
+01,Tour Travelling Allowances,62,74,74,,2210 01 102 AS 30401
+305,Office Expenses,"6,19","8,21","7,87",,2210 01 102 AS 30500
+01,Telephone Charges,21,25,25,,2210 01 102 AS 30501
+02,Other Contingencies,80,80,"1,92",,2210 01 102 AS 30502
+03,Electricity Charges,"5,08","7,06","5,60",,2210 01 102 AS 30503
+04,Service Postage & Postal Expenditure,10,10,10,,2210 01 102 AS 30504
+306,"Rent, Rates and Taxes",,23,23,,2210 01 102 AS 30600
+03,Water Charges,,23,23,,2210 01 102 AS 30603
+319,Machinery and Equipments,"1,07,62",51,"3,89",,2210 01 102 AS 31900
+01,Purchase,"1,07,12",1,"3,39",,2210 01 102 AS 31901
+03,Maintenance,50,50,50,,2210 01 102 AS 31903
+321,Motor Vehicles,"11,45",6,6,,2210 01 102 AS 32100
+01,Purchase,"11,42",1,1,,2210 01 102 AS 32101
+02,Maintenance of Functional Vehicles,3,5,5,,2210 01 102 AS 32102
+333,Payments for Professional and Special Services,,60,35,,2210 01 102 AS 33300
+04,Contract Payment,,60,35,,2210 01 102 AS 33304
+345,"Petroleum, Oil and Lubricant",29,40,40,,2210 01 102 AS 34500
+01,"Petroleum, Oil and Lubricant",29,40,40,,2210 01 102 AS 34501
+346,"Clothing, Tentage and Stores",30,30,30,,2210 01 102 AS 34600
+01,"Clothing, Tentage and Stores",30,30,30,,2210 01 102 AS 34601
+347,Stores and Equipments,"2,94","2,94","35,73",,2210 01 102 AS 34700
+01,Stores - Voted,"2,94","2,94","34,79",,2210 01 102 AS 34701
+03,X-rays - Voted,,,94,,2210 01 102 AS 34703
+349,Festival Advances,-17,,,,2210 01 102 AS 34900
+01,Festival Advances-Debit,"1,65","2,00","4,03",,2210 01 102 AS 34901
+02,Festival Advances-Credit,"-1,82","-2,00","-4,03",,2210 01 102 AS 34902
+359,Prizes and Awards,4,4,4,,2210 01 102 AS 35900
+01,Prizes and Awards,4,4,4,,2210 01 102 AS 35901
+366,Medicine,"1,26,72","1,26,74","1,26,88",,2210 01 102 AS 36600
+01,Medicine,"1,26,72","1,26,74","1,26,88",,2210 01 102 AS 36601
+367,Feeding/Dietary Charges,"4,40","5,83","5,83",,2210 01 102 AS 36700
+09,Others,"4,40","5,83","5,83",,2210 01 102 AS 36709
+376,Computer and Accessories,25,26,26,,2210 01 102 AS 37600
+02,Maintenance,12,12,12,,2210 01 102 AS 37602
+03,Stationery,13,14,14,,2210 01 102 AS 37603
+AS,Total AS,"6,74,26","5,17,71","5,99,75",,
+AT,Safe Disposal of Bio-Medical Waste,,,,,2210 01 102 AT 30000
+333,Payments for Professional and Special Services,"5,07","5,04","23,27","24,43",2210 01 102 AT 33300 
+09,Other Payments,"5,07","5,04","23,27","24,43",2210 01 102 AT 33309 
+347,Stores and Equipments,,,"32,10",,2210 01 102 AT 34700
+01,Stores - Voted,,,"32,10",,2210 01 102 AT 34701
+AT,Total AT,"5,07","5,04","55,37","24,43",
+#,State's Expenditure Total Charged,,2,2,2,
+#,State's Expenditure Total Voted,"5,52,10,05","5,21,37,63","5,56,32,39","5,79,95,35",
+102,Total 102 Charged,,2,2,2,
+102,Total 102 Voted,"5,52,10,05","5,21,37,63","5,56,32,39","5,79,95,35",
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+AG,Expenditure on Employees' State Insurance Scheme - Both insured persons and their families,,,,,2210 01 911 AG 30000
+377,Deduct-Recoveries,-14,,-37,,2210 01 911 AG 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-14,,-37,,2210 01 911 AG 37702
+AG,Total AG,-14,,-37,,
+#,State's Expenditure Total,-14,,-37,,
+911,Total 911,-14,,-37,,
+01,Total 01 Charged,,2,2,2,
+01,Total 01 Voted,"5,52,09,91","5,21,37,63","5,56,32,02","5,79,95,35",
+02,Urban Health Services - other systems of medicine,,,,,
+101,Ayurveda,,,,,
+#,State's Expenditure,,,,,
+AD,Ayurvedha Units in Employees State Insurance Hospitals,,,,,2210 02 101 AD 30000
+301,Salaries,"77,27","57,99","63,39","94,39",2210 02 101 AD 30100
+01,Pay,"70,11","51,17","55,37","85,97",2210 02 101 AD 30101
+02,Medical Allowance,31,40,40,46,2210 02 101 AD 30102
+04,Other Allowances,"1,40","1,90","1,50","1,73",2210 02 101 AD 30104
+06,House Rent Allowance,"4,85","3,79","5,44","5,55",2210 02 101 AD 30106
+08,City Compensatory Allowance,60,73,68,68,2210 02 101 AD 30108
+303,Dearness Allowance,"6,64","6,65","27,38","21,06",2210 02 101 AD 30300
+01,Dearness Allowance,"6,64","6,65","27,38","21,06",2210 02 101 AD 30301
+304,Travel Expenses,5,5,5,5,2210 02 101 AD 30400
+01,Tour Travelling Allowances,5,5,5,5,2210 02 101 AD 30401
+305,Office Expenses,9,14,"4,19",13,2210 02 101 AD 30500
+02,Other Contingencies,9,13,18,13,2210 02 101 AD 30502
+05,Furniture,,1,"4,01",,2210 02 101 AD 30505
+333,Payments for Professional and Special Services,,,,"7,00",2210 02 101 AD 33300
+04,Contract Payment,,,,"7,00",2210 02 101 AD 33304
+346,"Clothing, Tentage and Stores",,1,41,,2210 02 101 AD 34600
+01,"Clothing, Tentage and Stores",,1,41,,2210 02 101 AD 34601
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,15,40,81,80,2210 02 101 AD 34901
+02,Festival Advances-Credit,-15,-40,-81,-80,2210 02 101 AD 34902
+366,Medicine,"3,84,62","3,84,63","3,85,06","5,64,63",2210 02 101 AD 36600
+01,Medicine,"3,84,62","3,84,63","3,85,06","5,64,63",2210 02 101 AD 36601
+AD,Total AD,"4,68,67","4,49,47","4,80,48","6,87,26",
+#,State's Expenditure Total,"4,68,67","4,49,47","4,80,48","6,87,26",
+101,Total 101,"4,68,67","4,49,47","4,80,48","6,87,26",
+102,Homoeopathy,,,,,
+#,State's Expenditure,,,,,
+AD,Opening of Homoeopathy Unit in ESI Hospital,,,,,2210 02 102 AD 30000
+301,Salaries,"30,93","25,37","25,86","27,40",2210 02 102 AD 30100
+01,Pay,"28,15","22,89","22,89","23,33",2210 02 102 AD 30101
+02,Medical Allowance,12,12,12,15,2210 02 102 AD 30102
+04,Other Allowances,20,24,24,"1,17",2210 02 102 AD 30104
+06,House Rent Allowance,"2,13","1,60","2,10","2,24",2210 02 102 AD 30106
+08,City Compensatory Allowance,33,52,51,51,2210 02 102 AD 30108
+303,Dearness Allowance,"2,42","2,97","4,55","5,72",2210 02 102 AD 30300
+01,Dearness Allowance,"2,42","2,97","4,55","5,72",2210 02 102 AD 30301
+305,Office Expenses,,,"3,00",,2210 02 102 AD 30500
+05,Furniture,,,"3,00",,2210 02 102 AD 30505
+333,Payments for Professional and Special Services,,,"7,77","3,00",2210 02 102 AD 33300
+04,Contract Payment,,,"7,77","3,00",2210 02 102 AD 33304
+346,"Clothing, Tentage and Stores",,8,38,,2210 02 102 AD 34600
+01,"Clothing, Tentage and Stores",,8,38,,2210 02 102 AD 34601
+349,Festival Advances,-4,,,,2210 02 102 AD 34900
+01,Festival Advances-Debit,10,15,30,30,2210 02 102 AD 34901
+02,Festival Advances-Credit,-14,-15,-30,-30,2210 02 102 AD 34902
+366,Medicine,"2,21","2,21","6,21","1,10,00",2210 02 102 AD 36600
+01,Medicine,"2,21","2,21","6,21","1,10,00",2210 02 102 AD 36601
+AD,Total AD,"35,52","30,63","47,77","1,46,12",
+#,State's Expenditure Total,"35,52","30,63","47,77","1,46,12",
+102,Total 102,"35,52","30,63","47,77","1,46,12",
+103,Unani,,,,,
+#,State's Expenditure,,,,,
+AB,Unani wings and Dispensaries,,,,,2210 02 103 AB 30000
+301,Salaries,"21,48","16,80","26,08","26,18",2210 02 103 AB 30100
+01,Pay,"18,63","14,03","22,67","22,54",2210 02 103 AB 30101
+02,Medical Allowance,9,12,12,14,2210 02 103 AB 30102
+04,Other Allowances,3,46,46,67,2210 02 103 AB 30104
+06,House Rent Allowance,"2,36","1,85","2,45","2,45",2210 02 103 AB 30106
+08,City Compensatory Allowance,37,34,38,38,2210 02 103 AB 30108
+303,Dearness Allowance,"4,26","1,82","2,68","5,52",2210 02 103 AB 30300
+01,Dearness Allowance,"4,26","1,82","2,68","5,52",2210 02 103 AB 30301
+305,Office Expenses,,1,"3,06",25,2210 02 103 AB 30500
+02,Other Contingencies,,,25,25,2210 02 103 AB 30502
+05,Furniture,,1,"2,81",,2210 02 103 AB 30505
+333,Payments for Professional and Special Services,,,"3,89","3,89",2210 02 103 AB 33300
+04,Contract Payment,,,"3,89","3,89",2210 02 103 AB 33304
+346,"Clothing, Tentage and Stores",,7,37,10,2210 02 103 AB 34600
+01,"Clothing, Tentage and Stores",,7,37,10,2210 02 103 AB 34601
+349,Festival Advances,-5,,,,2210 02 103 AB 34900
+01,Festival Advances-Debit,,15,15,30,2210 02 103 AB 34901
+02,Festival Advances-Credit,-5,-15,-15,-30,2210 02 103 AB 34902
+366,Medicine,"1,05","1,05","15,44","1,24,00",2210 02 103 AB 36600
+01,Medicine,"1,05","1,05","15,44","1,24,00",2210 02 103 AB 36601
+AB,Total AB,"26,74","19,75","51,52","1,59,94",
+#,State's Expenditure Total,"26,74","19,75","51,52","1,59,94",
+103,Total 103,"26,74","19,75","51,52","1,59,94",
+104,Siddha,,,,,
+#,State's Expenditure,,,,,
+AE,E.S.I. Dispensaries,,,,,2210 02 104 AE 30000
+301,Salaries,"4,91,06","4,33,46","4,39,72","4,35,85",2210 02 104 AE 30100
+01,Pay,"4,48,93","3,93,29","4,00,78","3,96,81",2210 02 104 AE 30101
+02,Medical Allowance,"1,73","1,96","1,96","2,00",2210 02 104 AE 30102
+04,Other Allowances,"6,69","8,98","7,00","7,03",2210 02 104 AE 30104
+06,House Rent Allowance,"30,32","26,21","27,27","27,30",2210 02 104 AE 30106
+08,City Compensatory Allowance,"3,39","3,02","2,71","2,71",2210 02 104 AE 30108
+303,Dearness Allowance,"43,31","51,13","63,26","97,22",2210 02 104 AE 30300
+01,Dearness Allowance,"43,31","51,13","63,26","97,22",2210 02 104 AE 30301
+304,Travel Expenses,16,20,20,20,2210 02 104 AE 30400
+01,Tour Travelling Allowances,16,20,20,20,2210 02 104 AE 30401
+305,Office Expenses,27,52,"20,25",27,2210 02 104 AE 30500
+02,Other Contingencies,27,52,"1,25",27,2210 02 104 AE 30502
+05,Furniture,,,"19,00",,2210 02 104 AE 30505
+333,Payments for Professional and Special Services,,,"3,89","35,00",2210 02 104 AE 33300
+04,Contract Payment,,,"3,89","35,00",2210 02 104 AE 33304
+346,"Clothing, Tentage and Stores",1,8,"1,98",8,2210 02 104 AE 34600
+01,"Clothing, Tentage and Stores",1,8,"1,98",8,2210 02 104 AE 34601
+349,Festival Advances,-23,,,,2210 02 104 AE 34900
+01,Festival Advances-Debit,"1,25","3,15","3,17","5,11",2210 02 104 AE 34901
+02,Festival Advances-Credit,"-1,48","-3,15","-3,17","-5,11",2210 02 104 AE 34902
+359,Prizes and Awards,,2,4,2,2210 02 104 AE 35900
+01,Prizes and Awards,,2,4,2,2210 02 104 AE 35901
+366,Medicine,"4,70,40","4,70,40","4,72,40","5,50,40",2210 02 104 AE 36600 
+01,Medicine,"4,70,40","4,70,40","4,72,40","5,50,40",2210 02 104 AE 36601
+AE,Total AE,"10,04,98","9,55,81","10,01,74","11,19,04",
+#,State's Expenditure Total,"10,04,98","9,55,81","10,01,74","11,19,04",
+104,Total 104,"10,04,98","9,55,81","10,01,74","11,19,04",
+02,Total 02,"15,35,91","14,55,66","15,81,51","21,12,36",
+2210,Total 2210 Charged,,2,2,2,
+2210,Total 2210 Voted,"5,67,45,82","5,35,93,29","5,72,13,53","6,01,07,71",

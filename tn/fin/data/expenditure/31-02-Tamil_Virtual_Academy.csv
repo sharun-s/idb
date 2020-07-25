@@ -1,0 +1,42 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2202,GENERAL EDUCATION,,,,,
+03,University and Higher Education,,,,,
+102,Assistance to Universities,,,,,
+#,State's Expenditure,,,,,
+BK,Tamil Virtual Academy,,,,,2202 03 102 BK 30000
+309,Grants-in-Aid,"1,61,42","1,73,60","2,49,70","2,38,64",2202 03 102 BK 30900
+01,Grants for Current Expenditure,"1,61,42","1,73,60","1,74,70","1,88,64",2202 03 102 BK 30901
+03,Grants for Specific Schemes,,,"75,00","50,00",2202 03 102 BK 30903
+BK,Total BK,"1,61,42","1,73,60","2,49,70","2,38,64",
+KG,Digitization and Cataloguing of Palm-leaf Manuscripts - Scheme under State Innovation Fund,,,,,2202 03 102 KG 30000
+309,Grants-in-Aid,,1,,,2202 03 102 KG 30900
+03,Grants for Specific Schemes,,1,,,2202 03 102 KG 30903
+KG,Total KG,1,,,,
+KH,Tamil Text and Speech Computing Tools - Scheme under State Innovation Fund,,,,,2202 03 102 KH 30000
+309,Grants-in-Aid,,1,,,2202 03 102 KH 30900
+03,Grants for Specific Schemes,,1,,,2202 03 102 KH 30903
+KH,Total KH,1,,,,
+KI,"Assistance for creation of Sentence Patterns, Structure and Rules in Tamil for Machine Translation under State Innovation Fund",,,,,2202 03 102 KI 30000
+309,Grants-in-Aid,,1,,,2202 03 102 KI 30900
+03,Grants for Specific Schemes,,1,,,2202 03 102 KI 30903
+KI,Total KI,1,,,,
+KL,Translation of Educational Videos.,,,,,2202 03 102 KL 30000
+309,Grants-in-Aid,,,"12,00",1,2202 03 102 KL 30900
+03,Grants for Specific Schemes,,,"12,00",1,2202 03 102 KL 30903
+KL,Total KL,,"12,00",1,,
+KM,e - Asiriyar to learn Tamil under State innovation Fund,,,,,2202 03 102 KM 30000
+309,Grants-in-Aid,,,,"60,00",2202 03 102 KM 30900
+03,Grants for Specific Schemes,,,,"60,00",2202 03 102 KM 30903
+KM,Total KM,,,"60,00",,
+#,State's Expenditure Total,"1,61,42","1,73,63","2,61,70","2,98,65",
+102,Total 102,"1,61,42","1,73,63","2,61,70","2,98,65",
+902,Deduct - Amount met from State Innovation Fund,,,,,
+#,State's Expenditure,,,,,
+JB,Deduct - Amount met from State Innovation Fund,,,,,2202 03 902 JB 30000
+330,Inter-Account Transfers,,-3,,"-60,00",2202 03 902 JB 33000
+01,Inter-Account Transfers,,-3,,"-60,00",2202 03 902 JB 33001
+JB,Total JB,,-3,,"-60,00",
+#,State's Expenditure Total,,-3,,"-60,00",
+902,Total 902,,-3,,"-60,00",
+03,Total 03,"1,61,42","1,73,60","2,61,70","2,38,65",
+2202,Total 2202,"1,61,42","1,73,60","2,61,70","2,38,65",

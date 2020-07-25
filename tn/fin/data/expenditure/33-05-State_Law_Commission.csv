@@ -1,0 +1,69 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2052-00,SECRETARIAT - GENERAL SERVICES,,,,,
+091,Attached Offices,,,,,
+#,State's Expenditure,,,,,
+BM,State Law Commission,,,,,2052 00 091 BM 30000
+301,Salaries,"1,13,30","1,14,34","1,01,42","1,04,55",2052 00 091 BM 30100
+01,Pay,"78,65","85,00","78,17","81,30",2052 00 091 BM 30101
+02,Medical Allowance,15,15,18,18,2052 00 091 BM 30102
+03,Medical Charges,21,50,50,50,2052 00 091 BM 30103
+04,Other Allowances,"9,61","7,57","7,57","7,57",2052 00 091 BM 30104
+06,House Rent Allowance,"23,52","19,12","13,00","13,00",2052 00 091 BM 30106
+07,Travel Concession,15,"1,00","1,00","1,00",2052 00 091 BM 30107
+08,City Compensatory Allowance,"1,01","1,00","1,00","1,00",2052 00 091 BM 30108
+302,Wages,"1,69","2,00","2,00","2,00",2052 00 091 BM 30200
+01,Wages,"1,69","2,00","2,00","2,00",2052 00 091 BM 30201
+303,Dearness Allowance,"31,71","11,05","38,90","20,32",2052 00 091 BM 30300
+01,Dearness Allowance,"31,71","11,05","38,90","20,32",2052 00 091 BM 30301
+304,Travel Expenses,42,"1,00","1,00","1,00",2052 00 091 BM 30400
+01,Tour Travelling Allowances,42,"1,00","1,00","1,00",2052 00 091 BM 30401
+305,Office Expenses,"12,90","19,39","17,88","18,38",2052 00 091 BM 30500
+01,Telephone Charges,"1,79","1,80","1,80","1,80",2052 00 091 BM 30501
+02,Other Contingencies,13,"4,00","2,50","3,00",2052 00 091 BM 30502
+03,Electricity Charges,"10,98","13,57","13,57","13,57",2052 00 091 BM 30503
+04,Service Postage & Postal Expenditure,,1,,,2052 00 091 BM 30504
+05,Furniture,,1,1,1,2052 00 091 BM 30505
+306,"Rent, Rates and Taxes",,"88,00","88,00","61,00",2052 00 091 BM 30600
+01,Rent,,"87,00","87,00","60,00",2052 00 091 BM 30601
+03,Water Charges,,"1,00","1,00","1,00",2052 00 091 BM 30603
+308,Advertising and Publicity,,1,,,2052 00 091 BM 30800
+01,Advertisement Charges,,1,,,2052 00 091 BM 30801
+317,Minor Works,59,1,"2,71",1,2052 00 091 BM 31700
+01,Minor Works,59,1,"2,71",1,2052 00 091 BM 31701
+319,Machinery and Equipments,,1,1,1,2052 00 091 BM 31900
+01,Purchase,,1,1,1,2052 00 091 BM 31901
+321,Motor Vehicles,,7,31,16,2052 00 091 BM 32100
+01,Purchase,,1,1,1,2052 00 091 BM 32101
+02,Maintenance of Functional Vehicles,,6,30,15,2052 00 091 BM 32102
+333,Payments for Professional and Special Services,"30,69","43,00","31,80","31,80",2052 00 091 BM 33300
+01,Pleaders Fees,,"1,00","1,00","1,00",2052 00 091 BM 33301
+04,Contract Payment,"30,69","42,00","30,80","30,80",2052 00 091 BM 33304
+345,"Petroleum, Oil and Lubricant","5,15","6,00","6,00","6,00",2052 00 091 BM 34500
+01,"Petroleum, Oil and Lubricant","5,15","6,00","6,00","6,00",2052 00 091 BM 34501
+347,Stores and Equipments,,1,,,2052 00 091 BM 34700
+02,Equipments - Voted,,1,,,2052 00 091 BM 34702
+349,Festival Advances,-3,,,,2052 00 091 BM 34900
+01,Festival Advances-Debit,20,30,50,50,2052 00 091 BM 34901
+02,Festival Advances-Credit,-23,-30,-50,-50,2052 00 091 BM 34902
+351,Compensation Charged,,1,,,2052 00 091 BM 35100
+351,Compensation Voted,,1,,,2052 00 091 BM 35100
+02,Other Compensations  - Voted,,1,,,2052 00 091 BM 35102
+51,Claims under no fault liability -  principal charges Charged,,1,,,2052 00 091 BM 35151
+359,Prizes and Awards,,1,1,1,2052 00 091 BM 35900
+01,Prizes and Awards,,1,1,1,2052 00 091 BM 35901
+368,"Cost of Books/Note Books/Slates, etc.",98,"1,00","1,00","1,00",2052 00 091 BM 36800
+01,"Cost of Books/Note Books/Slates, etc.",98,"1,00","1,00","1,00",2052 00 091 BM 36801
+376,Computer and Accessories,"1,65","2,01","1,67","1,67",2052 00 091 BM 37600
+01,Purchase,,1,1,1,2052 00 091 BM 37601
+02,Maintenance,66,"1,00",66,66,2052 00 091 BM 37602
+03,Stationery,99,"1,00","1,00","1,00",2052 00 091 BM 37603
+BM,Total BM Charged,,1,,,
+BM,Total BM Voted,"1,99,05","2,87,92","2,92,71","2,47,91",
+#,State's Expenditure Total Charged,,1,,,
+#,State's Expenditure Total Voted,"1,99,05","2,87,92","2,92,71","2,47,91",
+091,Total 091 Charged,,1,,,
+091,Total 091 Voted,"1,99,05","2,87,92","2,92,71","2,47,91",
+00,Total 00 Charged,,1,,,
+00,Total 00 Voted,"1,99,05","2,87,92","2,92,71","2,47,91",
+2052,Total 2052 Charged,,1,,,
+2052,Total 2052 Voted,"1,99,05","2,87,92","2,92,71","2,47,91",

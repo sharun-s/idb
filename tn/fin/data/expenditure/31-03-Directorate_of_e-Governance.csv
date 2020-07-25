@@ -1,0 +1,140 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2220,INFORMATION AND PUBLICITY,,,,,
+60,Others,,,,,
+001,Direction and Administration,,,,,
+#,State's Expenditure,,,,,
+AB,Directorate of e-Governance,,,,,2220 60 001 AB 30000
+301,Salaries,"1,27,91","1,20,25","1,35,93","3,15,20",2220 60 001 AB 30100
+01,Pay,"1,06,42","1,04,30","1,20,00","2,72,18",2220 60 001 AB 30101
+02,Medical Allowance,36,36,36,36,2220 60 001 AB 30102
+04,Other Allowances,"3,60","3,02","3,19","3,02",2220 60 001 AB 30104
+06,House Rent Allowance,"16,03","10,71","10,71","34,41",2220 60 001 AB 30106
+07,Travel Concession,,20,1,20,2220 60 001 AB 30107
+08,City Compensatory Allowance,"1,50","1,66","1,66","5,03",2220 60 001 AB 30108
+303,Dearness Allowance,"9,16","13,56","15,60","66,68",2220 60 001 AB 30300
+01,Dearness Allowance,"9,16","13,56","15,60","66,68",2220 60 001 AB 30301
+304,Travel Expenses,99,"1,10","1,10","2,10",2220 60 001 AB 30400
+01,Tour Travelling Allowances,99,"1,00","1,00","2,00",2220 60 001 AB 30401
+02,Transfer Travelling Allowances,,10,10,10,2220 60 001 AB 30402
+305,Office Expenses,"6,65","8,76","15,54","15,66",2220 60 001 AB 30500
+01,Telephone Charges,32,75,5,5,2220 60 001 AB 30501
+02,Other Contingencies,50,50,50,50,2220 60 001 AB 30502
+03,Electricity Charges,"5,83","7,50","14,99","15,10",2220 60 001 AB 30503
+05,Furniture,,1,,1,2220 60 001 AB 30505
+306,"Rent, Rates and Taxes","81,72","83,95","95,73","1,05,29",2220 60 001 AB 30600
+01,Rent,"81,72","83,95","95,73","1,05,29",2220 60 001 AB 30601
+308,Advertising and Publicity,"5,00","5,00",5,5,2220 60 001 AB 30800
+01,Advertisement Charges,"5,00","5,00",5,5,2220 60 001 AB 30801
+317,Minor Works,,1,,1,2220 60 001 AB 31700
+01,Minor Works,,1,,1,2220 60 001 AB 31701
+319,Machinery and Equipments,,1,,1,2220 60 001 AB 31900
+01,Purchase,,1,,1,2220 60 001 AB 31901
+321,Motor Vehicles,"8,31","9,15","9,00","9,15",2220 60 001 AB 32100
+02,Maintenance of Functional Vehicles,6,15,,15,2220 60 001 AB 32102
+03,Hire Charges,"8,25","9,00","9,00","9,00",2220 60 001 AB 32103
+333,Payments for Professional and Special Services,"1,57,87","2,00,40","1,60,67","1,67,08",2220 60 001 AB 33300
+02,Remuneration,40,40,40,40,2220 60 001 AB 33302
+04,Contract Payment,"1,57,47","2,00,00","1,60,27","1,66,68",2220 60 001 AB 33304
+345,"Petroleum, Oil and Lubricant",56,"1,66",,"1,52",2220 60 001 AB 34500
+01,"Petroleum, Oil and Lubricant",56,"1,66",,"1,52",2220 60 001 AB 34501
+349,Festival Advances,7,,,,2220 60 001 AB 34900
+01,Festival Advances-Debit,25,50,"1,00","2,00",2220 60 001 AB 34901
+02,Festival Advances-Credit,-18,-50,"-1,00","-2,00",2220 60 001 AB 34902
+359,Prizes and Awards,"6,45","6,45","6,45","6,45",2220 60 001 AB 35900
+01,Prizes and Awards,"6,45","6,45","6,45","6,45",2220 60 001 AB 35901
+376,Computer and Accessories,"1,59",13,12,13,2220 60 001 AB 37600
+01,Purchase,,1,,1,2220 60 001 AB 37601
+02,Maintenance,"1,53",6,6,6,2220 60 001 AB 37602
+03,Stationery,6,6,6,6,2220 60 001 AB 37603
+AB,Total AB,"4,06,28","4,50,43","4,40,19","6,89,33",
+#,State's Expenditure Total,"4,06,28","4,50,43","4,40,19","6,89,33",
+001,Total 001,"4,06,28","4,50,43","4,40,19","6,89,33",
+60,Total 60,"4,06,28","4,50,43","4,40,19","6,89,33",
+2220,Total 2220,"4,06,28","4,50,43","4,40,19","6,89,33",
+2852,INDUSTRIES,,,,,
+07,Telecommunication and Electronic Industries,,,,,
+101,Tele Communications,,,,,
+#,State's Expenditure,,,,,
+AD,Disaster Recovery for Tamil Nadu e-Governance Agency Projects,,,,,2852 07 101 AD 30000
+309,Grants-in-Aid,,,"2,44,86",1,2852 07 101 AD 30900
+03,Grants for Specific Schemes,,,"2,44,86",1,2852 07 101 AD 30903
+AD,Total AD,,,"2,44,86",1,
+AE,Zero Proof Indentity based Predictive Government Service Delivery,,,,,2852 07 101 AE 30000
+309,Grants-in-Aid,,,"6,00,00",1,2852 07 101 AE 30900
+03,Grants for Specific Schemes,,,"6,00,00",1,2852 07 101 AE 30903
+AE,Total AE,,,"6,00,00",1,
+AH,e-Mail Accounts for the employees of Government of Tamil Nadu,,,,,2852 07 101 AH 30000
+309,Grants-in-Aid,,,"87,73","96,50",2852 07 101 AH 30900
+03,Grants for Specific Schemes,,,"87,73","96,50",2852 07 101 AH 30903
+AH,Total AH,,"87,73","96,50",,
+AI,Single SMS Gateway of the Government of Tamil Nadu,,,,,2852 07 101 AI 30000
+309,Grants-in-Aid,,,"1,00,65",1,2852 07 101 AI 30900
+03,Grants for Specific Schemes,,,"1,00,65",1,2852 07 101 AI 30903
+AI,Total AI,,"1,00,65",1,,
+AJ,Single Mobile Application,,,,,2852 07 101 AJ 30000
+309,Grants-in-Aid,,,"54,63",1,2852 07 101 AJ 30900
+03,Grants for Specific Schemes,,,"54,63",1,2852 07 101 AJ 30903
+AJ,Total AJ,,"54,63",1,,
+AK,State Family Database Project,,,,,2852 07 101 AK 30000
+309,Grants-in-Aid,,,,"47,50,00",2852 07 101 AK 30900
+03,Grants for Specific Schemes,,,,"47,50,00",2852 07 101 AK 30903
+AK,Total AK,,,"47,50,00",,
+JA,Unified Content Management System and Portal Framework for Government of Tamil Nadu under State Innovation Fund,,,,,2852 07 101 JA 30000
+309,Grants-in-Aid,,1,,,2852 07 101 JA 30900
+03,Grants for Specific Schemes,,1,,,2852 07 101 JA 30903
+JA,Total JA,1,,,,
+JB,Establishment  of IT Garage under State Innovation Fund,,,,,2852 07 101 JB 30000
+309,Grants-in-Aid,,,"72,71","44,00",2852 07 101 JB 30900
+03,Grants for Specific Schemes,,,"72,71","44,00",2852 07 101 JB 30903
+JB,Total JB,,"72,71","44,00",,
+JC,Use - Artificial Intelligence in Governance,,,,,2852 07 101 JC 30000
+309,Grants-in-Aid,,,,"10,00,00",2852 07 101 JC 30900
+03,Grants for Specific Schemes,,,,"10,00,00",2852 07 101 JC 30903
+JC,Total JC,,,"10,00,00",,
+#,State's Expenditure Total,,1,"11,60,58","58,90,54",
+101,Total 101,1,"11,60,58","58,90,54",,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+AE,Grants to Tamil Nadu e-Governance Agency,,,,,2852 07 800 AE 30000
+309,Grants-in-Aid,"98,49",2,"1,04,97","67,24",2852 07 800 AE 30900
+01,Grants for Current Expenditure,"98,49",1,"61,12","67,23",2852 07 800 AE 30901
+03,Grants for Specific Schemes,,1,"43,85",1,2852 07 800 AE 30903
+AE,Total AE,"98,49",2,"1,04,97","67,24",
+JK,Capacity Building Scheme under National e-Governance Action Plan (NeGAP),,,,,2852 07 800 JK 30000
+309,Grants-in-Aid,"52,45","15,15","15,15","15,15",2852 07 800 JK 30900
+03,Grants for Specific Schemes,"52,45","15,15","15,15","15,15",2852 07 800 JK 30903
+JK,Total JK,"52,45","15,15","15,15","15,15",
+JN,e-Governance Awareness Campaign,,,,,2852 07 800 JN 30000
+309,Grants-in-Aid,,1,1,1,2852 07 800 JN 30900
+03,Grants for Specific Schemes,,1,1,1,2852 07 800 JN 30903
+JN,Total JN,1,1,1,,
+JO,Grants to TNeGA towards,,,,,
+IT,Security Auditing of Government Websites and,,,,,
+IT,Applications,,,,,2852 07 800 JO 30000
+309,Grants-in-Aid,,1,1,1,2852 07 800 JO 30900
+03,Grants for Specific Schemes,,1,1,1,2852 07 800 JO 30903
+JO,Total JO,1,1,1,,
+JR,SMS Based Services Tracking System,,,,,2852 07 800 JR 30000
+309,Grants-in-Aid,,1,1,1,2852 07 800 JR 30900
+03,Grants for Specific Schemes,,1,1,1,2852 07 800 JR 30903
+JR,Total JR,1,1,1,,
+JS,Creation of an Integrated Tamil Nadu Geographical Information System,,,,,2852 07 800 JS 30000
+309,Grants-in-Aid,"90,00",1,1,"1,00,00",2852 07 800 JS 30900
+03,Grants for Specific Schemes,"90,00",1,1,"1,00,00",2852 07 800 JS 30903
+JS,Total JS,"90,00",1,1,"1,00,00",
+JT,State Resident Data Hub,,,,,2852 07 800 JT 30000
+309,Grants-in-Aid,"5,32,76",1,1,1,2852 07 800 JT 30900
+03,Grants for Specific Schemes,"5,32,76",1,1,1,2852 07 800 JT 30903
+JT,Total JT,"5,32,76",1,1,1,
+#,State's Expenditure Total,"7,73,70","15,22","1,20,17","1,82,43",
+800,Total 800,"7,73,70","15,22","1,20,17","1,82,43",
+902,Deduct - Amount met from State Innovation Fund,,,,,
+#,State's Expenditure,,,,,
+JB,Deduct - Amount met from State Innovation Fund,,,,,2852 07 902 JB 30000
+330,Inter-Account Transfers,"-1,00,00",,"-72,71","-10,44,00",2852 07 902 JB 33000
+01,Inter-Account Transfers,"-1,00,00",,"-72,71","-10,44,00",2852 07 902 JB 33001
+JB,Total JB,"-1,00,00",,"-72,71","-10,44,00",
+#,State's Expenditure Total,"-1,00,00",,"-72,71","-10,44,00",
+902,Total 902,"-1,00,00",,"-72,71","-10,44,00",
+07,Total 07,"6,73,70","15,23","12,08,04","50,28,97",
+2852,Total 2852,"6,73,70","15,23","12,08,04","50,28,97",

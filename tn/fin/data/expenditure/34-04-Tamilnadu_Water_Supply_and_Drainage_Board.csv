@@ -1,0 +1,124 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2215,WATER SUPPLY AND SANITATION,,,,,
+01,Water Supply,,,,,
+190,Assistance to Public Undertakings,,,,,
+#,State's Expenditure,,,,,
+AB,Grant to TWAD Board towards Variable Cost and Annual Increase to three Combined Water Supply Schemes under New Tiruppur Area Development Corporation Limited,,,,,2215 01 190 AB 30000
+309,Grants-in-Aid,"2,47,23","3,00,00","2,61,29","3,00,00",2215 01 190 AB 30900
+01,Grants for Current Expenditure,"2,47,23","3,00,00","2,61,29","3,00,00",2215 01 190 AB 30901
+AB,Total AB,"2,47,23","3,00,00","2,61,29","3,00,00",
+#,State's Expenditure Total,"2,47,23","3,00,00","2,61,29","3,00,00",
+190,Total 190,"2,47,23","3,00,00","2,61,29","3,00,00",
+01,Total 01,"2,47,23","3,00,00","2,61,29","3,00,00",
+02,Sewerage and Sanitation,,,,,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+AC,Field Investigation and Preparation of Detailed Project Report for UGSS,,,,,2215 02 800 AC 30000
+309,Grants-in-Aid,,1,1,1,2215 02 800 AC 30900
+01,Grants for Current Expenditure,,1,1,1,2215 02 800 AC 30901
+AC,Total AC,1,1,1,,
+#,State's Expenditure Total,,1,1,1,
+800,Total 800,1,1,1,,
+02,Total 02,1,1,1,,
+2215,Total 2215,"2,47,23","3,00,01","2,61,30","3,00,01",
+4215,CAPITAL OUTLAY ON WATER SUPPLY AND SANITATION,,,,,
+01,Water Supply,,,,,
+102,Rural Water Supply,,,,,
+#,State's Expenditure,,,,,
+JA,Rural Water Supply under Minimum Needs Programme,,,,,4215 01 102 JA 40000
+416,Major Works,"1,23,01,39","1,83,04,00","2,21,54,30","2,66,85,44",4215 01 102 JA 41600
+01,Major Works,"1,23,01,39","1,83,04,00","2,21,54,30","2,66,85,44",4215 01 102 JA 41601
+JA,Total JA,"1,23,01,39","1,83,04,00","2,21,54,30","2,66,85,44",
+JH,Scheme for Artificial Ground Water Recharge Structures,,,,,4215 01 102 JH 40000
+416,Major Works,,1,1,1,4215 01 102 JH 41600
+01,Major Works,,1,1,1,4215 01 102 JH 41601
+JH,Total JH,1,1,1,,
+#,State's Expenditure Total,"1,23,01,39","1,83,04,01","2,21,54,31","2,66,85,45",
+#,Schemes shared between State and Centre,,,,,
+UA,National Rural Drinking Water Programme,,,,,4215 01 102 UA 40000
+416,Major Works,"2,35,95,64","2,33,44,64","2,15,21,38","2,33,44,64",4215 01 102 UA 41600
+01,Major Works,"2,35,95,64","2,33,44,64","2,15,21,38","2,33,44,64",4215 01 102 UA 41601
+UA,Total UA,"2,35,95,64","2,33,44,64","2,15,21,38","2,33,44,64",
+#,Schemes shared between State and Centre Total,"2,35,95,64","2,33,44,64","2,15,21,38","2,33,44,64",
+102,Total 102,"3,58,97,03","4,16,48,65","4,36,75,69","5,00,30,09",
+190,Investments in Public Sector and Other Undertakings,,,,,
+#,State's Expenditure,,,,,
+JB,Share Capital Assistance to Tamil Nadu Water Supply and Drainage Board for the Desalination Plant at Ramanathapuram District,,,,,4215 01 190 JB 40000
+422,Investments,,"2,00,00",,,4215 01 190 JB 42200
+01,Investments,,"2,00,00",,,4215 01 190 JB 42201
+JB,Total JB,,"2,00,00",,,
+JC,Share Capital Assistance to Tamil Nadu Water Supply and Drainage Board for the Desalination Plant at Thoothukudi District,,,,,4215 01 190 JC 40000
+422,Investments,,"6,00",,,4215 01 190 JC 42200
+01,Investments,,"6,00",,,4215 01 190 JC 42201
+JC,Total JC,,"6,00",,,
+#,State's Expenditure Total,,"2,06,00",,,
+190,Total 190,,"2,06,00",,,
+789,Special Component Plan for Scheduled Castes,,,,,
+#,State's Expenditure,,,,,
+JA,Rural Water Supply under Minimum Needs Programme,,,,,4215 01 789 JA 40000
+416,Major Works,"63,42,90","94,38,00","1,14,23,31","1,37,59,68",4215 01 789 JA 41600
+01,Major Works,"63,42,90","94,38,00","1,14,23,31","1,37,59,68",4215 01 789 JA 41601
+JA,Total JA,"63,42,90","94,38,00","1,14,23,31","1,37,59,68",
+#,State's Expenditure Total,"63,42,90","94,38,00","1,14,23,31","1,37,59,68",
+789,Total 789,"63,42,90","94,38,00","1,14,23,31","1,37,59,68",
+793,Special Central Assistance for Scheduled Caste Component Plan,,,,,
+#,Schemes shared between State and Centre,,,,,
+#,Schemes shared between State and Centre,,,,,
+UA,National Rural Drinking Water Programme under Special Component Plan,,,,,4215 01 793 UA 40000
+416,Major Works,"1,21,66,49","1,20,37,08","1,10,96,96","1,20,37,08",4215 01 793 UA 41600
+01,Major Works,"1,21,66,49","1,20,37,08","1,10,96,96","1,20,37,08",4215 01 793 UA 41601
+UA,Total UA,"1,21,66,49","1,20,37,08","1,10,96,96","1,20,37,08",
+#,Schemes shared between State and Centre Total,"1,21,66,49","1,20,37,08","1,10,96,96","1,20,37,08",
+793,Total 793,"1,21,66,49","1,20,37,08","1,10,96,96","1,20,37,08",
+794,Special Central Assistance for Tribal Sub-Plan,,,,,
+#,Schemes shared between State and Centre,,,,,
+UA,National Rural Drinking Water Programme under Tribal Sub Plan,,,,,4215 01 794 UA 40000
+416,Major Works,"11,06,04","10,94,28","10,08,81","10,94,28",4215 01 794 UA 41600
+01,Major Works,"11,06,04","10,94,28","10,08,81","10,94,28",4215 01 794 UA 41601
+UA,Total UA,"11,06,04","10,94,28","10,08,81","10,94,28",
+#,Schemes shared between State and Centre Total,"11,06,04","10,94,28","10,08,81","10,94,28",
+794,Total 794,"11,06,04","10,94,28","10,08,81","10,94,28",
+796,Tribal Area Sub-Plan,,,,,
+#,State's Expenditure,,,,,
+JA,Rural Water Supply under Minimum Needs Programme,,,,,4215 01 796 JA 40000
+416,Major Works,"5,76,63","8,58,00","10,38,49","12,50,88",4215 01 796 JA 41600
+01,Major Works,"5,76,63","8,58,00","10,38,49","12,50,88",4215 01 796 JA 41601
+JA,Total JA,"5,76,63","8,58,00","10,38,49","12,50,88",
+#,State's Expenditure Total,"5,76,63","8,58,00","10,38,49","12,50,88",
+796,Total 796,"5,76,63","8,58,00","10,38,49","12,50,88",
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+JY,Implementation of Combined Water Supply Scheme in Salem District,,,,,4215 01 800 JY 40000
+416,Major Works,,1,,,4215 01 800 JY 41600
+01,Major Works,,1,,,4215 01 800 JY 41601
+JY,Total JY,1,,,,
+KD,NABARD assisted Combined Water Supply Scheme executed by TWAD Board,,,,,4215 01 800 KD 40000
+416,Major Works,"2,50,00,00","6,00,00,00","6,00,00,00","6,18,30,00",4215 01 800 KD 41600
+01,Major Works,"2,50,00,00","6,00,00,00","6,00,00,00","6,18,30,00",4215 01 800 KD 41601
+KD,Total KD,"2,50,00,00","6,00,00,00","6,00,00,00","6,18,30,00",
+#,State's Expenditure Total,"2,50,00,00","6,00,00,01","6,00,00,00","6,18,30,00",
+#,Externally Aided Projects,,,,,
+PB,Hogenakkal Water Supply and Fluorosis Mitigation Project,,,,,4215 01 800 PB 40000
+416,Major Works,,"1,31,00",,"1,31,00",4215 01 800 PB 41600
+01,Major Works,,"1,31,00",,"1,31,00",4215 01 800 PB 41601
+PB,Total PB,"1,31,00",,"1,31,00",,
+#,Externally Aided Projects Total,,"1,31,00",,"1,31,00",
+800,Total 800,"2,50,00,00","6,01,31,01","6,00,00,00","6,19,61,00",
+01,Total 01,"8,10,89,09","12,54,13,02","12,82,43,26","14,01,33,01",
+4215,Total 4215,"8,10,89,09","12,54,13,02","12,82,43,26","14,01,33,01",
+6215,LOANS FOR WATER SUPPLY AND SANITATION,,,,,
+01,Water Supply,,,,,
+192,Loans to Municipalities/ Municipal councils,,,,,
+#,State's Expenditure,,,,,
+AA,Loans to Local Bodies for Water Supply Scheme - Controlled by Commissioner of Municipal Administration,,,,,6215 01 192 AA 50000
+502,Loan - Outgo,"4,10,52",,,,6215 01 192 AA 50200
+01,Bearing Interest,"4,10,52",,,,6215 01 192 AA 50201
+AA,Total AA,"4,10,52",,,,
+JB,Loans to TWAD Board for repayment of LIC Loan for Water supply scheme - Controlled by Commissioner of Municipal Administration.,,,,,6215 01 192 JB 50000
+502,Loan - Outgo,,"3,29,71","3,29,71","2,07,88",6215 01 192 JB 50200
+01,Bearing Interest,,"3,29,71","3,29,71","2,07,88",6215 01 192 JB 50201
+JB,Total JB,"3,29,71","3,29,71","2,07,88",,
+#,State's Expenditure Total,"4,10,52","3,29,71","3,29,71","2,07,88",
+192,Total 192,"4,10,52","3,29,71","3,29,71","2,07,88",
+01,Total 01,"4,10,52","3,29,71","3,29,71","2,07,88",
+6215,Total 6215,"4,10,52","3,29,71","3,29,71","2,07,88",

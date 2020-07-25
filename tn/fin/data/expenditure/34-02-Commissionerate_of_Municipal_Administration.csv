@@ -1,0 +1,804 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2215,WATER SUPPLY AND SANITATION,,,,,
+01,Water Supply,,,,,
+191,Assistance to Municipal Corporations,,,,,
+#,State's Expenditure,,,,,
+AI,Grants in Aid towards amount due by Municipalities for repayment of Consolidated Loans,,,,,2215 01 191 AI 30000
+309,Grants-in-Aid,,1,1,1,2215 01 191 AI 30900
+04,Grants for Debt Servicing,,1,1,1,2215 01 191 AI 30904
+AI,Total AI,1,1,1,,
+AJ,Special Grant to IdappadyMunicipality2215 01 191 AJ 30000,,,,,
+309,Grants-in-Aid,,,"9,29,00",1,2215 01 191 AJ 30900
+01,Grants for Current Expenditure,,,"9,29,00",1,2215 01 191 AJ 30901
+AJ,Total AJ,,"9,29,00",1,,
+JZ,Assistance to Corporations for the Water Supply Charges.,,,,,2215 01 191 JZ 30000
+309,Grants-in-Aid,"26,38,12","27,10,13","28,16,98","27,10,13",2215 01 191 JZ 30900
+03,Grants for Specific Schemes,"26,38,12","27,10,13","28,16,98","27,10,13",2215 01 191 JZ 30903
+JZ,Total JZ,"26,38,12","27,10,13","28,16,98","27,10,13",
+#,State's Expenditure Total,"26,38,12","27,10,14","37,45,99","27,10,15",
+191,Total 191,"26,38,12","27,10,14","37,45,99","27,10,15",
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+JE,Grants to TNUDF for assisting Vellore Water Supply Scheme,,,,,2215 01 800 JE 30000
+309,Grants-in-Aid,"42,19,06","77,75,37","77,75,37","93,65,91",2215 01 800 JE 30900
+03,Grants for Specific Schemes,"42,19,06","77,75,37","77,75,37","93,65,91",2215 01 800 JE 30903
+JE,Total JE,"42,19,06","77,75,37","77,75,37","93,65,91",
+#,State's Expenditure Total,"42,19,06","77,75,37","77,75,37","93,65,91",
+800,Total 800,"42,19,06","77,75,37","77,75,37","93,65,91",
+01,Total 01,"68,57,18","1,04,85,51","1,15,21,36","1,20,76,06",
+2215,Total 2215,"68,57,18","1,04,85,51","1,15,21,36","1,20,76,06",
+2217,URBAN DEVELOPMENT,,,,,
+01,State Capital Development,,,,,
+191,Assistance to Municipal Corporations,,,,,
+#,Externally Aided Projects Externally Aided Project,,,,,
+PD,Capital Grant to TNUDF for implementing underground drainage project under National River conservation Project,,,,,2217 01 191 PD 30000
+309,Grants-in-Aid,"5,44,39","5,43,24","5,43,24","73,99",2217 01 191 PD 30900
+02,Grants for Creation of Capital Assets,"5,44,39","5,43,24","5,43,24","73,99",2217 01 191 PD 30902
+PD,Total PD,"5,44,39","5,43,24","5,43,24","73,99",
+#,Externally Aided Projects Total,"5,44,39","5,43,24","5,43,24","73,99",
+191,Total 191,"5,44,39","5,43,24","5,43,24","73,99",
+01,Total 01,"5,44,39","5,43,24","5,43,24","73,99",
+04,Slum Area Improvement,,,,,
+192,Assistance to Municipal Councils,,,,,
+#,Schemes shared between State and Centre,,,,,
+#,Schemes shared between State and Centre,,,,,
+UA,Integrated Housing and Slum Development Programme (IHSDP),,,,,2217 04 192 UA 30000
+309,Grants-in-Aid,,1,,,2217 04 192 UA 30900
+02,Grants for Creation of Capital Assets,,1,,,2217 04 192 UA 30902
+UA,Total UA,1,,,,
+UB,Jawaharlal Nehru National Urban Renewal Mission (JnNURM) - Basic Services to Urban Poor - Controlled by Administration,,,,,2217 04 192 UB 30000
+309,Grants-in-Aid,,1,,,2217 04 192 UB 30900
+02,Grants for Creation of Capital Assets,,1,,,2217 04 192 UB 30902
+UB,Total UB,1,,,,
+#,Schemes shared between State and Centre Total,,2,,,
+192,Total 192,2,,,,
+793,Special Central Assistance for Scheduled Caste Component Plan,,,,,
+#,Schemes shared between State and Centre,,,,,
+UA,Integrated Housing and Slum Development Programme (IH & SDP) under Special Component Plan,,,,,2217 04 793 UA 30000
+309,Grants-in-Aid,,1,,,2217 04 793 UA 30900
+02,Grants for Creation of Capital Assets,,1,,,2217 04 793 UA 30902
+UA,Total UA,1,,,,
+UB,Jawaharlal Nehru National Urban Renewal Mission (JNNURM) Basic Services to Urban Poor Under Special Component Plan controlled by CMA,,,,,2217 04 793 UB 30000
+309,Grants-in-Aid,,1,,,2217 04 793 UB 30900
+02,Grants for Creation of Capital Assets,,1,,,2217 04 793 UB 30902
+UB,Total UB,1,,,,
+#,Schemes shared between State and Centre Total,,2,,,
+793,Total 793,2,,,,
+902,Deduct - Amount met from Reserve Fund,,,,,
+#,State's Expenditure,,,,,
+JB,Deduct - Amount met from State Infrastructure and Amenities Fund - Additional State Matching Share under JNNURM-BSUP Scheme,,,,,2217 04 902 JB 30000
+330,Inter-Account Transfers,,-1,,,2217 04 902 JB 33000
+01,Inter-Account Transfers,,-1,,,2217 04 902 JB 33001
+JB,Total JB,,-1,,,
+#,State's Expenditure Total,,-1,,,
+902,Total 902,,-1,,,
+04,Total 04,,3,,,
+05,Other Urban Development Schemes,,,,,
+191,Assistance to Municipal Corporations,,,,,
+#,State's Expenditure,,,,,
+KC,Grants to Villupuram Municipality for Centenary Celebration.,,,,,2217 05 191 KC 30000
+309,Grants-in-Aid,,,"49,54,13",1,2217 05 191 KC 30900
+02,Grants for Creation of Capital Assets,,,"49,54,13",1,2217 05 191 KC 30902
+KC,Total KC,,,"49,54,13",1,
+#,State's Expenditure Total,,,"49,54,13",1,
+#,Externally Aided Projects,,,,,
+PD,Contribution to grant fund from out of dividend from TNUDF,,,,,2217 05 191 PD 30000
+310,Contributions,,1,1,1,2217 05 191 PD 31000
+01,Contribution to Specific Fund,,1,1,1,2217 05 191 PD 31001
+PD,Total PD,1,1,1,,
+#,Externally Aided Projects Total,,1,1,1,
+191,Total 191,,1,"49,54,14",2,
+789,Special Component Plan for Scheduled Castes,,,,,
+#,State's Expenditure,,,,,
+JC,Tamil Nadu Urban Livelihood  Mission in Corporations / Municipalities,,,,,2217 05 789 JC 30000
+309,Grants-in-Aid,,"6,75,00",1,"1,80,00",2217 05 789 JC 30900
+03,Grants for Specific Schemes,,"6,75,00",1,"1,80,00",2217 05 789 JC 30903
+JC,Total JC,"6,75,00",1,"1,80,00",,
+#,State's Expenditure Total,,"6,75,00",1,"1,80,00",
+789,Total 789,"6,75,00",1,"1,80,00",,
+793,Special Central Assistance for Scheduled Caste Component Plan,,,,,
+#,Schemes shared between State and Centre,,,,,
+#,Schemes shared between State and Centre,,,,,
+UA,Implementation of Swacch Bharat Mission in Corporations / Municipalities,,,,,2217 05 793 UA 30000
+309,Grants-in-Aid,"52,49,99","1,99,85,07","1,99,85,07","1,26,00,00",2217 05 793 UA 30900
+03,Grants for Specific Schemes,"52,49,99","1,99,85,07","1,99,85,07","1,26,00,00",2217 05 793 UA 30903
+UA,Total UA,"52,49,99","1,99,85,07","1,99,85,07","1,26,00,00",
+#,Schemes shared between State and Centre Total,"52,49,99","1,99,85,07","1,99,85,07","1,26,00,00",
+793,Total 793,"52,49,99","1,99,85,07","1,99,85,07","1,26,00,00",
+794,Special Central Assistance for Tribal Sub-Plan,,,,,
+#,Schemes shared between State and Centre,,,,,
+UA,Implementation of Swacch Bharat Mission in Corporations / Municipalities,,,,,2217 05 794 UA 30000
+309,Grants-in-Aid,"22,50,00","85,65,03","85,65,03","54,00,00",2217 05 794 UA 30900
+03,Grants for Specific Schemes,"22,50,00","85,65,03","85,65,03","54,00,00",2217 05 794 UA 30903
+UA,Total UA,"22,50,00","85,65,03","85,65,03","54,00,00",
+#,Schemes shared between State and Centre Total,"22,50,00","85,65,03","85,65,03","54,00,00",
+794,Total 794,"22,50,00","85,65,03","85,65,03","54,00,00",
+796,Tribal Area Sub-Plan,,,,,
+#,State's Expenditure,,,,,
+JC,Tamil Nadu Urban Livelihood  Mission in Corporations / Municipalities,,,,,2217 05 796 JC 30000
+309,Grants-in-Aid,,"1,29,00",1,"34,40",2217 05 796 JC 30900
+03,Grants for Specific Schemes,,"1,29,00",1,"34,40",2217 05 796 JC 30903
+JC,Total JC,"1,29,00",1,"34,40",,
+#,State's Expenditure Total,,"1,29,00",1,"34,40",
+796,Total 796,"1,29,00",1,"34,40",,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+JT,Tamil Nadu Urban Livelihood  Mission in Corporations / Municipalities,,,,,2217 05 800 JT 30000
+309,Grants-in-Aid,,"21,96,00",1,"5,85,60",2217 05 800 JT 30900
+03,Grants for Specific Schemes,,"21,96,00",1,"5,85,60",2217 05 800 JT 30903
+JT,Total JT,"21,96,00",1,"5,85,60",,
+KA,Schemes implemented in Urban Local Bodies under Infrastructure and Amenities Fund,,,,,2217 05 800 KA 30000
+309,Grants-in-Aid,"60,43,00",1,"5,07,00",1,2217 05 800 KA 30900
+02,Grants for Creation of Capital Assets,"60,43,00",1,"5,07,00",1,2217 05 800 KA 30902
+KA,Total KA,"60,43,00",1,"5,07,00",1,
+KF,Grant to CMA for implementation of Asian Development Bank assisted Tamil Nadu Urban Flagship Investment Programme (TNUFIP),,,,,2217 05 800 KF 30000
+309,Grants-in-Aid,,,1,"55,45,00",2217 05 800 KF 30900
+03,Grants for Specific Schemes,,,1,"55,45,00",2217 05 800 KF 30903
+KF,Total KF,,1,"55,45,00",,
+#,State's Expenditure Total,"60,43,00","21,96,01","5,07,02","61,30,61",
+#,Externally Aided Projects,,,,,
+PA,Ploughing back of the surplus distribution TNUDF into Water and Sanitation Pooled Fund,,,,,2217 05 800 PA 30000
+310,Contributions,,1,1,1,2217 05 800 PA 31000
+01,Contribution to Specific Fund,,1,1,1,2217 05 800 PA 31001
+PA,Total PA,1,1,1,,
+PB,Result based grants for Urban Governance under TNSUDP,,,,,2217 05 800 PB 30000
+309,Grants-in-Aid,,"72,53,50","1,27,70,00","72,53,50",2217 05 800 PB 30900
+03,Grants for Specific Schemes,,"72,53,50","1,27,70,00","72,53,50",2217 05 800 PB 30903
+PB,Total PB,"72,53,50","1,27,70,00","72,53,50",,
+PC,Urban Sector Technical Assistance under TNSUDP,,,,,2217 05 800 PC 30000
+309,Grants-in-Aid,"20,00,00","30,00,00","30,00,00","30,00,00",2217 05 800 PC 30900
+03,Grants for Specific Schemes,"20,00,00","30,00,00","30,00,00","30,00,00",2217 05 800 PC 30903
+PC,Total PC,"20,00,00","30,00,00","30,00,00","30,00,00",
+#,Externally Aided Projects Total,"20,00,00","1,02,53,51","1,57,70,01","1,02,53,51",
+#,Schemes shared between State and Centre,,,,,
+UB,Implementation of Swacch Bharat Mission in Corporations / Municipalities,,,,,2217 05 800 UB 30000
+309,Grants-in-Aid,"1,75,00,00","6,66,16,90","6,66,16,90","4,20,00,00",2217 05 800 UB 30900
+03,Grants for Specific Schemes,"1,75,00,00","6,66,16,90","6,66,16,90","4,20,00,00",2217 05 800 UB 30903
+UB,Total UB,"1,75,00,00","6,66,16,90","6,66,16,90","4,20,00,00",
+UF,Safe city projects forwomen's safety in public places in Chennai under the NIRBHAYA fund,,,,,2217 05 800 UF 30000
+309,Grants-in-Aid,"2,82,28,00","76,98,00","76,98,00","65,80,00",2217 05 800 UF 30900
+03,Grants for Specific Schemes,"2,82,28,00","76,98,00","76,98,00","65,80,00",2217 05 800 UF 30903
+UF,Total UF,"2,82,28,00","76,98,00","76,98,00","65,80,00",
+#,Schemes shared between State and Centre Total,"4,57,28,00","7,43,14,90","7,43,14,90","4,85,80,00",
+800,Total 800,"5,37,71,00","8,67,64,42","9,05,91,93","6,49,64,12",
+902,Deduct - Amount met from Reserve Fund,,,,,
+#,State's Expenditure,,,,,
+JC,Amount met from State Infrastructure and Amenities Fund,,,,,2217 05 902 JC 30000
+330,Inter-Account Transfers,"-58,85,00",-1,"-5,07,00",-1,2217 05 902 JC 33000
+01,Inter-Account Transfers,"-58,85,00",-1,"-5,07,00",-1,2217 05 902 JC 33001
+JC,Total JC,"-58,85,00",-1,"-5,07,00",-1,
+JD,Deduct - Amount met from State Innovation Fund,,,,,2217 05 902 JD 30000
+330,Inter-Account Transfers,"1,62,84",,,,2217 05 902 JD 33000
+01,Inter-Account Transfers,"1,62,84",,,,2217 05 902 JD 33001
+JD,Total JD,"1,62,84",,,,
+#,State's Expenditure Total,"-57,22,16",-1,"-5,07,00",-1,
+902,Total 902,"-57,22,16",-1,"-5,07,00",-1,
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+JL,Deduct - Recoveries of Overpayments,,,,,2217 05 911 JL 30000
+377,Deduct-Recoveries,"-81,54,09",,,,2217 05 911 JL 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-81,54,09",,,,2217 05 911 JL 37702
+JL,Total JL,"-81,54,09",,,,
+KB,Schemes implemented under Infrastructure and Amenities Fund,,,,,2217 05 911 KB 30000
+377,Deduct-Recoveries,"-1,86,84",,,,2217 05 911 KB 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-1,86,84",,,,2217 05 911 KB 37702
+KB,Total KB,"-1,86,84",,,,
+KD,Solid Waste Management - Generation of Enrich bio-gas as an alternative fuel to Corporation vehicles in Thoothukudi Corporation - Scheme under State Innovation Fund,,,,,2217 05 911 KD 30000
+377,Deduct-Recoveries,"-1,34,00",,,,2217 05 911 KD 37700
+03,Other Recoveries,"-1,34,00",,,,2217 05 911 KD 37703
+KD,Total KD,"-1,34,00",,,,
+#,State's Expenditure Total,"-84,74,93",,,,
+911,Total 911,"-84,74,93",,,,
+05,Total 05,"4,70,73,90","11,61,18,52","12,35,89,19","8,31,78,53",
+80,General,,,,,
+001,Direction and Administration,,,,,
+#,State's Expenditure,,,,,
+AC,Commissioner  of Municipal Administration,,,,,2217 80 001 AC 30000
+301,Salaries,"12,43,53","12,18,06","12,26,30","12,68,16",2217 80 001 AC 30100
+01,Pay,"11,12,00","10,90,29","10,93,39","11,37,14",2217 80 001 AC 30101
+02,Medical Allowance,"6,20","5,90","6,55","6,55",2217 80 001 AC 30102
+03,Medical Charges,"1,11","2,10","4,00","2,11",2217 80 001 AC 30103
+04,Other Allowances,"8,83","6,54","6,36","6,36",2217 80 001 AC 30104
+06,House Rent Allowance,"99,01","97,20","98,78","98,78",2217 80 001 AC 30106
+07,Travel Concession,9,42,42,42,2217 80 001 AC 30107
+08,City Compensatory Allowance,"16,29","15,61","16,80","16,80",2217 80 001 AC 30108
+303,Dearness Allowance,"1,31,76","1,41,73","1,69,79","2,78,60",2217 80 001 AC 30300
+01,Dearness Allowance,"1,31,76","1,41,73","1,69,79","2,78,60",2217 80 001 AC 30301
+304,Travel Expenses,"9,27","15,36","15,36","15,36",2217 80 001 AC 30400
+01,Tour Travelling Allowances,"9,27","15,06","15,06","15,06",2217 80 001 AC 30401
+02,Transfer Travelling Allowances,,30,30,30,2217 80 001 AC 30402
+305,Office Expenses,"26,34","28,53","28,37","28,37",2217 80 001 AC 30500
+01,Telephone Charges,"8,79","7,21","7,21","7,21",2217 80 001 AC 30501
+02,Other Contingencies,"2,79","3,16","3,16","3,16",2217 80 001 AC 30502
+03,Electricity Charges,"12,56","15,00","15,00","15,00",2217 80 001 AC 30503
+04,Service Postage & Postal Expenditure,"2,20","3,16","3,00","3,00",2217 80 001 AC 30504
+306,"Rent, Rates and Taxes","3,84","11,80","17,85","17,85",2217 80 001 AC 30600
+01,Rent,"3,04","3,60","3,05","3,05",2217 80 001 AC 30601
+02,Property tax,80,"8,20","14,80","14,80",2217 80 001 AC 30602
+308,Advertising and Publicity,70,71,"14,04",71,2217 80 001 AC 30800
+01,Advertisement Charges,,1,"13,34",1,2217 80 001 AC 30801
+02,Exhibition,70,70,70,70,2217 80 001 AC 30802
+321,Motor Vehicles,14,51,"2,51",51,2217 80 001 AC 32100
+01,Purchase,,1,1,1,2217 80 001 AC 32101
+02,Maintenance of Functional Vehicles,14,50,"2,50",50,2217 80 001 AC 32102
+333,Payments for Professional and Special Services,,1,1,"1,00",2217 80 001 AC 33300
+01,Pleaders Fees,,1,1,"1,00",2217 80 001 AC 33301
+345,"Petroleum, Oil and Lubricant","7,77","10,00","18,10","19,36",2217 80 001 AC 34500
+01,"Petroleum, Oil and Lubricant","7,77","10,00","18,10","19,36",2217 80 001 AC 34501
+349,Festival Advances,-68,,,,2217 80 001 AC 34900
+01,Festival Advances-Debit,"5,65","10,60","19,70","19,70",2217 80 001 AC 34901
+02,Festival Advances-Credit,"-6,33","-10,60","-19,70","-19,70",2217 80 001 AC 34902
+351,Compensation Charged,,1,1,1,2217 80 001 AC 35100
+52,Other Compensations Charged,,1,1,1,2217 80 001 AC 35152
+359,Prizes and Awards,,1,1,1,2217 80 001 AC 35900
+01,Prizes and Awards,,1,1,1,2217 80 001 AC 35901
+376,Computer and Accessories,"2,04","3,17","3,17","3,17",2217 80 001 AC 37600
+02,Maintenance,"1,56","1,65","1,65","1,65",2217 80 001 AC 37602
+03,Stationery,48,"1,52","1,52","1,52",2217 80 001 AC 37603
+AC,Total AC Charged,,1,1,1,
+AC,Total AC Voted,"14,24,71","14,29,89","14,95,51","16,33,10",
+AD,Municipal Commissioners,,,,,2217 80 001 AD 30000
+301,Salaries,"6,96,27","6,61,71","6,03,41","6,27,54",2217 80 001 AD 30100
+01,Pay,"6,96,27","6,61,71","6,03,41","6,27,54",2217 80 001 AD 30101
+303,Dearness Allowance,"1,27,52","86,02","1,04,96","1,53,75",2217 80 001 AD 30300
+01,Dearness Allowance,"1,27,52","86,02","1,04,96","1,53,75",2217 80 001 AD 30301
+349,Festival Advances,-5,,,,2217 80 001 AD 34900
+01,Festival Advances-Debit,,"4,30","4,30","4,30",2217 80 001 AD 34901
+02,Festival Advances-Credit,-5,"-4,30","-4,30","-4,30",2217 80 001 AD 34902
+AD,Total AD,"8,23,74","7,47,73","7,08,37","7,81,29",
+AE,Elections to Municipalities,,,,,2217 80 001 AE 30000
+301,Salaries,"7,25","7,65","7,33","7,59",2217 80 001 AE 30100
+01,Pay,"6,36","6,89","6,26","6,51",2217 80 001 AE 30101
+03,Medical Charges,4,10,10,11,2217 80 001 AE 30103
+04,Other Allowances,6,6,5,5,2217 80 001 AE 30104
+06,House Rent Allowance,65,40,82,82,2217 80 001 AE 30106
+08,City Compensatory Allowance,14,20,10,10,2217 80 001 AE 30108
+303,Dearness Allowance,55,90,90,"1,59",2217 80 001 AE 30300
+01,Dearness Allowance,55,90,90,"1,59",2217 80 001 AE 30301
+304,Travel Expenses,,4,4,4,2217 80 001 AE 30400
+01,Tour Travelling Allowances,,4,4,4,2217 80 001 AE 30401
+305,Office Expenses,,5,5,5,2217 80 001 AE 30500
+02,Other Contingencies,,5,5,5,2217 80 001 AE 30502
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,10,10,20,20,2217 80 001 AE 34901
+02,Festival Advances-Credit,-10,-10,-20,-20,2217 80 001 AE 34902
+AE,Total AE,"7,80","8,64","8,32","9,27",
+AH,Extension of Self Sufficiency Schemes to financially weaker Municipalities,,,,,2217 80 001 AH 30000
+301,Salaries,"17,78","18,74","8,65","8,97",2217 80 001 AH 30100
+01,Pay,"16,26","17,02","8,14","8,46",2217 80 001 AH 30101
+02,Medical Allowance,8,12,15,15,2217 80 001 AH 30102
+04,Other Allowances,18,8,5,5,2217 80 001 AH 30104
+06,House Rent Allowance,"1,08","1,35",29,29,2217 80 001 AH 30106
+07,Travel Concession,,2,2,2,2217 80 001 AH 30107
+08,City Compensatory Allowance,18,15,,,2217 80 001 AH 30108
+303,Dearness Allowance,"1,46","2,21","2,27","2,07",2217 80 001 AH 30300
+01,Dearness Allowance,"1,46","2,21","2,27","2,07",2217 80 001 AH 30301
+304,Travel Expenses,,26,26,26,2217 80 001 AH 30400
+01,Tour Travelling Allowances,,20,20,20,2217 80 001 AH 30401
+02,Transfer Travelling Allowances,,6,6,6,2217 80 001 AH 30402
+305,Office Expenses,,5,5,5,2217 80 001 AH 30500
+02,Other Contingencies,,5,5,5,2217 80 001 AH 30502
+349,Festival Advances,-3,,,,2217 80 001 AH 34900
+01,Festival Advances-Debit,5,10,37,37,2217 80 001 AH 34901
+02,Festival Advances-Credit,-8,-10,-37,-37,2217 80 001 AH 34902
+AH,Total AH,"19,21","21,26","11,23","11,35",
+AM,"Institutional Finance, Monitoring and Evaluation Cell",,,,,2217 80 001 AM 30000
+301,Salaries,"1,62,69","1,29,73","1,71,50","1,77,79",2217 80 001 AM 30100
+01,Pay,"1,48,01","1,19,63","1,56,98","1,63,26",2217 80 001 AM 30101
+02,Medical Allowance,83,51,60,60,2217 80 001 AM 30102
+03,Medical Charges,,16,12,13,2217 80 001 AM 30103
+04,Other Allowances,"1,05","1,08",40,40,2217 80 001 AM 30104
+06,House Rent Allowance,"11,15","7,10","12,05","12,05",2217 80 001 AM 30106
+07,Travel Concession,,5,5,5,2217 80 001 AM 30107
+08,City Compensatory Allowance,"1,65","1,20","1,30","1,30",2217 80 001 AM 30108
+303,Dearness Allowance,"20,33","15,55","21,60","40,00",2217 80 001 AM 30300
+01,Dearness Allowance,"20,33","15,55","21,60","40,00",2217 80 001 AM 30301
+304,Travel Expenses,"1,29","2,42","2,42","2,42",2217 80 001 AM 30400
+01,Tour Travelling Allowances,"1,29","2,36","2,36","2,36",2217 80 001 AM 30401
+02,Transfer Travelling Allowances,,6,6,6,2217 80 001 AM 30402
+305,Office Expenses,16,24,24,24,2217 80 001 AM 30500
+02,Other Contingencies,16,24,24,24,2217 80 001 AM 30502
+349,Festival Advances,3,,,,2217 80 001 AM 34900
+01,Festival Advances-Debit,85,"1,20","2,40","2,40",2217 80 001 AM 34901
+02,Festival Advances-Credit,-82,"-1,20","-2,40","-2,40",2217 80 001 AM 34902
+376,Computer and Accessories,34,83,83,83,2217 80 001 AM 37600
+02,Maintenance,24,35,35,35,2217 80 001 AM 37602
+03,Stationery,10,48,48,48,2217 80 001 AM 37603
+AM,Total AM,"1,84,84","1,48,77","1,96,59","2,21,28",
+AN,Planning and Perspective Planning Cell,,,,,2217 80 001 AN 30000
+301,Salaries,"26,08","22,79","38,35","39,69",2217 80 001 AN 30100
+01,Pay,"22,83","19,89","33,29","34,62",2217 80 001 AN 30101
+02,Medical Allowance,18,24,45,45,2217 80 001 AN 30102
+03,Medical Charges,10,10,10,11,2217 80 001 AN 30103
+04,Other Allowances,21,22,5,5,2217 80 001 AN 30104
+06,House Rent Allowance,"2,35","1,81","3,86","3,86",2217 80 001 AN 30106
+07,Travel Concession,,3,3,3,2217 80 001 AN 30107
+08,City Compensatory Allowance,41,50,57,57,2217 80 001 AN 30108
+303,Dearness Allowance,"3,92","2,59","4,72","8,48",2217 80 001 AN 30300
+01,Dearness Allowance,"3,92","2,59","4,72","8,48",2217 80 001 AN 30301
+304,Travel Expenses,,8,8,8,2217 80 001 AN 30400
+01,Tour Travelling Allowances,,4,4,4,2217 80 001 AN 30401
+02,Transfer Travelling Allowances,,4,4,4,2217 80 001 AN 30402
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,25,35,"1,40","1,40",2217 80 001 AN 34901
+02,Festival Advances-Credit,-25,-35,"-1,40","-1,40",2217 80 001 AN 34902
+AN,Total AN,"30,00","25,46","43,15","48,25",
+JN,"National Green Tribunal, Regional Monitoring Committee (Southern Region)",,,,,2217 80 001 JN 30000
+333,Payments for Professional and Special Services,"16,62","11,25","14,67","11,25",2217 80 001 JN 33300
+02,Remuneration,"16,62","11,25","14,67","11,25",2217 80 001 JN 33302
+JN,Total JN,"16,62","11,25","14,67","11,25",
+JO,Grants to AMMA Unavagam,,,,,2217 80 001 JO 30000
+309,Grants-in-Aid,,,,"1,00,00,00",2217 80 001 JO 30900
+01,Grants for Current Expenditure,,,,"1,00,00,00",2217 80 001 JO 30901
+JO,Total JO,,,,"1,00,00,00",
+#,State's Expenditure Total Charged,,1,1,1,
+#,State's Expenditure Total Voted,"25,06,92","23,93,00","24,77,84","1,27,15,79",
+001,Total 001 Charged,,1,1,1,
+001,Total 001 Voted,"25,06,92","23,93,00","24,77,84","1,27,15,79",
+191,Assistance to Municipal Corporations,,,,,
+#,State's Expenditure,,,,,
+AO,Electricity - Reduction in tariff to Municipal Corporation,,,,,2217 80 191 AO 30000
+311,Subsidies,,1,1,1,2217 80 191 AO 31100
+09,Others,,1,1,1,2217 80 191 AO 31109
+AO,Total AO,,1,1,1,
+#,State's Expenditure Total,,1,1,1,
+191,Total 191,,1,1,1,
+192,Assistance to Municipal Councils,,,,,
+#,State's Expenditure,,,,,
+AA,Electricity - Reduction in tariff to Municipalities,,,,,2217 80 192 AA 30000
+311,Subsidies,,1,1,1,2217 80 192 AA 31100
+09,Others,,1,1,1,2217 80 192 AA 31109
+AA,Total AA,,1,1,1,
+#,State's Expenditure Total,,1,1,1,
+192,Total 192,,1,1,1,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+JK,Chief Minister award for the best performing Municipal Corporation / Municipality,,,,,2217 80 800 JK 30000
+309,Grants-in-Aid,"55,00","55,00","55,00","55,00",2217 80 800 JK 30900
+01,Grants for Current Expenditure,"55,00","55,00","55,00","55,00",2217 80 800 JK 30901
+JK,Total JK,"55,00","55,00","55,00","55,00",
+JN,Assistance to CMA towards the settlement of remuneration charges to State Level Committee for Slaughter Houses,,,,,2217 80 800 JN 30000
+333,Payments for Professional and Special Services,13,"2,40","2,40",1,2217 80 800 JN 33300
+09,Other Payments,13,"2,40","2,40",1,2217 80 800 JN 33309
+JN,Total JN,13,"2,40","2,40",1,
+#,State's Expenditure Total,"55,13","57,40","57,40","55,01",
+#,Externally Aided Projects,,,,,
+PD,Capital Grant to TNUDF for implementing Kodaikanal Lake Conservation Project under NLCP,,,,,2217 80 800 PD 30000
+309,Grants-in-Aid,"43,84","43,85",,,2217 80 800 PD 30900
+02,Grants for Creation of Capital Assets,"43,84","43,85",,,2217 80 800 PD 30902
+PD,Total PD,"43,84","43,85",,,
+PE,Technical Assistance Grants to KfW Grant Fund-II under Sustainable Municipal Infrastructure Financing in Tamil Nadu Phase-II Part-2 (SMIF-TN-II-2) Program,,,,,2217 80 800 PE 30000
+309,Grants-in-Aid,,"12,39,00","5,00,00","5,00,00",2217 80 800 PE 30900
+03,Grants for Specific Schemes,,"12,39,00","5,00,00","5,00,00",2217 80 800 PE 30903
+PE,Total PE,"12,39,00","5,00,00","5,00,00",,
+PF,Grants to WSPF for Debt Servicing and Repayment of Loans availed in HUDCO,,,,,2217 80 800 PF 30000
+309,Grants-in-Aid,"44,20,09","42,33,51","43,30,85","41,41,79",2217 80 800 PF 30900
+03,Grants for Specific Schemes,"44,20,09","42,33,51","43,30,85","41,41,79",2217 80 800 PF 30903
+PF,Total PF,"44,20,09","42,33,51","43,30,85","41,41,79",
+PH,Technical Assistance to World Bank assisted Tamil Nadu Sustainable Urban Development Project with TNUDF,,,,,2217 80 800 PH 30000
+309,Grants-in-Aid,"8,00,00","20,00,00","10,00,00","30,00,00",2217 80 800 PH 30900
+03,Grants for Specific Schemes,"8,00,00","20,00,00","10,00,00","30,00,00",2217 80 800 PH 30903
+PH,Total PH,"8,00,00","20,00,00","10,00,00","30,00,00",
+PI,Technical Assistante to Project Development Grant Fund (PDGF) for implementation of Asian Development Bank assisted Tamil Nadu Urban Flagship Investment Programme (TNUFIP),,,,,2217 80 800 PI 30000
+309,Grants-in-Aid,,"2,00,00","7,00,00","20,00,00",2217 80 800 PI 30900
+03,Grants for Specific Schemes,,"2,00,00","7,00,00","20,00,00",2217 80 800 PI 30903
+PI,Total PI,"2,00,00","7,00,00","20,00,00",,
+PJ,Technical Assistance Grant to Project Development Grant Fund (PDGF) for implementation,,,,,
+of,Asian Development Bank (ADB) assisted Tamil Nadu Urban Flagship Investment Programme (TNUFIP) Tranche-II,,,,,2217 80 800 PJ 30000
+309,Grants-in-Aid,,,,"5,00,00",2217 80 800 PJ 30900
+03,Grants for Specific Schemes,,,,"5,00,00",2217 80 800 PJ 30903
+PJ,Total PJ,,,,"5,00,00",
+#,Externally Aided Projects Total,"52,63,93","77,16,36","65,30,85","1,01,41,79",
+800,Total 800,"53,19,06","77,73,76","65,88,25","1,01,96,80",
+80,Total 80 Charged,,1,1,1,
+80,Total 80 Voted,"78,25,98","1,01,66,78","90,66,11","2,29,12,61",
+2217,Total 2217 Charged,,1,1,1,
+2217,Total 2217 Voted,"5,54,44,27","12,68,28,57","13,31,98,54","10,61,65,13",
+2235,SOCIAL SECURITY AND WELFARE,,,,,
+02,Social Welfare,,,,,
+200,Other Programmes,,,,,
+#,State's Expenditure,,,,,
+JM,Special Fund Assistance to the families under Below Poverty Line-Urban Area,,,,,2235 02 200 JM 30000
+309,Grants-in-Aid,"10,00",,1,1,2235 02 200 JM 30900
+09,Others,"10,00",,1,1,2235 02 200 JM 30909
+JM,Total JM,"10,00",,1,1,
+#,State's Expenditure Total,"10,00",,1,1,
+200,Total 200,"10,00",,1,1,
+02,Total 02,"10,00",,1,1,
+2235,Total 2235,"10,00",,1,1,
+3435,ECOLOGY AND ENVIRONMENT,,,,,
+04,Prevention and Control of Pollution,,,,,
+103,Prevention of Air and Water Pollution,,,,,
+#,State's Expenditure,,,,,
+AC,Grant for Planting of Saplings in Chennai,,,,,3435 04 103 AC 30000
+309,Grants-in-Aid,"5,29,00",1,,,3435 04 103 AC 30900
+02,Grants for Creation of Capital Assets,"5,29,00",1,,,3435 04 103 AC 30902
+AC,Total AC,"5,29,00",1,,,
+#,State's Expenditure Total,"5,29,00",1,,,
+103,Total 103,"5,29,00",1,,,
+04,Total 04,"5,29,00",1,,,
+3435,Total 3435,"5,29,00",1,,,
+3475-00,OTHER GENERAL ECONOMIC SERVICES,,,,,
+108,Urban Oriented Employment Programmes,,,,,
+#,Schemes shared between State and Centre,,,,,
+#,Schemes shared between State and Centre,,,,,
+UC,Support for setting up of Urban Self Employment and Urban Wage Employment Programme,,,,,3475 00 108 UC 30000
+301,Salaries,"1,75,44","1,96,47","1,80,05","1,85,68",3475 00 108 UC 30100
+01,Pay,"1,57,68","1,56,93","1,40,81","1,46,44",3475 00 108 UC 30101
+02,Medical Allowance,90,"8,46","8,32","8,32",3475 00 108 UC 30102
+03,Medical Charges,,82,82,82,3475 00 108 UC 30103
+04,Other Allowances,"2,30","7,36","7,31","7,31",3475 00 108 UC 30104
+06,House Rent Allowance,"12,59","15,00","15,00","15,00",3475 00 108 UC 30106
+07,Travel Concession,,74,63,63,3475 00 108 UC 30107
+08,City Compensatory Allowance,"1,97","7,16","7,16","7,16",3475 00 108 UC 30108
+303,Dearness Allowance,"19,65","20,40","22,53","35,88",3475 00 108 UC 30300
+01,Dearness Allowance,"19,65","20,40","22,53","35,88",3475 00 108 UC 30301
+304,Travel Expenses,52,"1,30","1,30","1,30",3475 00 108 UC 30400
+01,Tour Travelling Allowances,52,"1,20","1,20","1,20",3475 00 108 UC 30401
+02,Transfer Travelling Allowances,,10,10,10,3475 00 108 UC 30402
+305,Office Expenses,75,"1,58","1,58","1,58",3475 00 108 UC 30500
+01,Telephone Charges,,18,18,18,3475 00 108 UC 30501
+02,Other Contingencies,45,"1,00","1,00","1,00",3475 00 108 UC 30502
+04,Service Postage & Postal Expenditure,30,40,40,40,3475 00 108 UC 30504
+321,Motor Vehicles,,10,10,10,3475 00 108 UC 32100
+02,Maintenance of Functional Vehicles,,10,10,10,3475 00 108 UC 32102
+345,"Petroleum, Oil and Lubricant",,"2,58","2,58","2,58",3475 00 108 UC 34500
+01,"Petroleum, Oil and Lubricant",,"2,58","2,58","2,58",3475 00 108 UC 34501
+349,Festival Advances,-7,,,,3475 00 108 UC 34900
+01,Festival Advances-Debit,65,"12,15","11,55","11,55",3475 00 108 UC 34901
+02,Festival Advances-Credit,-72,"-12,15","-11,55","-11,55",3475 00 108 UC 34902
+376,Computer and Accessories,69,"1,55","1,55","1,55",3475 00 108 UC 37600
+02,Maintenance,59,"1,05","1,05","1,05",3475 00 108 UC 37602
+03,Stationery,10,50,50,50,3475 00 108 UC 37603
+UC,Total UC,"1,96,98","2,23,98","2,09,69","2,28,67",
+UD,National Urban Livelihood Mission,,,,,3475 00 108 UD 30000
+309,Grants-in-Aid,"1,07,09,21","1,09,80,00","1,32,35,07","1,46,40,00",3475 00 108 UD 30900 
+03,Grants for Specific Schemes,"1,07,09,21","1,09,80,00","1,32,35,07","1,46,40,00",3475 00 108 UD 30903
+UD,Total UD,"1,07,09,21","1,09,80,00","1,32,35,07","1,46,40,00",
+#,Schemes shared between State and Centre Total,"1,09,06,19","1,12,03,98","1,34,44,76","1,48,68,67",
+108,Total 108,"1,09,06,19","1,12,03,98","1,34,44,76","1,48,68,67",
+793,Special Central Assistance for Scheduled Caste Component Plan,,,,,
+#,Schemes shared between State and Centre,,,,,
+UA,National Urban Livelihood Mission,,,,,3475 00 793 UA 30000
+309,Grants-in-Aid,"33,80,30","33,75,00","40,68,15","45,00,00",3475 00 793 UA 30900
+03,Grants for Specific Schemes,"33,80,30","33,75,00","40,68,15","45,00,00",3475 00 793 UA 30903
+UA,Total UA,"33,80,30","33,75,00","40,68,15","45,00,00",
+#,Schemes shared between State and Centre Total,"33,80,30","33,75,00","40,68,15","45,00,00",
+793,Total 793,"33,80,30","33,75,00","40,68,15","45,00,00",
+794,Special Central Assistance for Tribal Sub-Plan,,,,,
+#,Schemes shared between State and Centre,,,,,
+UA,National Urban Livelihood Mission,,,,,3475 00 794 UA 30000
+309,Grants-in-Aid,"5,73,78","6,45,00","7,77,47","8,60,00",3475 00 794 UA 30900
+03,Grants for Specific Schemes,"5,73,78","6,45,00","7,77,47","8,60,00",3475 00 794 UA 30903
+UA,Total UA,"5,73,78","6,45,00","7,77,47","8,60,00",
+#,Schemes shared between State and Centre Total,"5,73,78","6,45,00","7,77,47","8,60,00",
+794,Total 794,"5,73,78","6,45,00","7,77,47","8,60,00",
+00,Total 00,"1,48,60,27","1,52,23,98","1,82,90,38","2,02,28,67",
+3475,Total 3475,"1,48,60,27","1,52,23,98","1,82,90,38","2,02,28,67",
+3604,COMPENSATION AND ASSIGNMENTS TO LOCAL BODIES AND PANCHAYAT RAJ INSTITUTIONS,,,,,
+103,Entertainment Tax,,,,,
+#,State's Expenditure,,,,,
+AF,Compensation to Urban Local Bodies in lieu of waiver of Entertainment Tax,,,,,3604 00 103 AF 30000
+351,Compensation,,1,1,1,3604 00 103 AF 35100
+02,Other Compensations  - Voted,,1,1,1,3604 00 103 AF 35102
+AF,Total AF,1,1,1,,
+#,State's Expenditure Total,,1,1,1,
+103,Total 103,1,1,1,,
+191,Assistance to Municipal Corporations,,,,,
+#,State's Expenditure,,,,,
+AA,Grants to Municipal Corporation  as per the recommendation of State Finance Commission - Controlled by Commissioner  of Municipal Administration,,,,,3604 00 191 AA 30000
+309,Grants-in-Aid,"14,08,10,65","15,68,55,30","13,84,07,82","16,11,71,18",3604 00 191 AA 30900
+02,Grants for Creation of Capital Assets,"14,08,10,65","15,68,55,30","13,84,07,82","16,11,71,18",3604 00 191 AA 30902
+AA,Total AA,"14,08,10,65","15,68,55,30","13,84,07,82","16,11,71,18",
+AC,Contribution  to the Operational and Maintenance Gap filling fund,,,,,3604 00 191 AC 30000
+309,Grants-in-Aid,"87,99,92","98,03,45","86,50,49","1,00,73,20",3604 00 191 AC 30900
+02,Grants for Creation of Capital Assets,"87,99,92","98,03,45","86,50,49","1,00,73,20",3604 00 191 AC 30902
+AC,Total AC,"87,99,92","98,03,45","86,50,49","1,00,73,20",
+AE,Capital Grant Fund,,,,,3604 00 191 AE 30000
+309,Grants-in-Aid,"2,64,02,00","2,94,10,37","2,59,51,47","3,02,19,60",3604 00 191 AE 30900
+02,Grants for Creation of Capital Assets,"2,64,02,00","2,94,10,37","2,59,51,47","3,02,19,60",3604 00 191 AE 30902
+AE,Total AE,"2,64,02,00","2,94,10,37","2,59,51,47","3,02,19,60",
+JG,State Finance Commission Devolution Arrears to Municipal Corporation - Controlled by Commissioner of Municipal Administration,,,,,3604 00 191 JG 30000
+309,Grants-in-Aid,"79,02,20","79,02,20","79,02,20",1,3604 00 191 JG 30900
+02,Grants for Creation of Capital Assets,"79,02,20","79,02,20","79,02,20",1,3604 00 191 JG 30902
+JG,Total JG,"79,02,20","79,02,20","79,02,20",1,
+#,State's Expenditure Total,"18,39,14,77","20,39,71,32","18,09,11,98","20,14,63,99",
+#,Central Sector Schemes,,,,,
+SA,Basic Grants to Municipal Corporations as per the recommendations of 14th Finance Commission - Controlled by Commissioner of Municipal Administration,,,,,3604 00 191 SA 30000
+309,Grants-in-Aid,"5,45,22,80","7,90,28,40","10,82,72,00",,3604 00 191 SA 30900
+01,Grants for Current Expenditure,"5,45,22,80","7,90,28,40","10,82,72,00",,3604 00 191 SA 30901
+SA,Total SA,"5,45,22,80","7,90,28,40","10,82,72,00",,
+SB,Performance Grants to Municipal Corporations as per the recommendations of 14th Finance Commission - Controlled by Commissioner of Municipal Administration,,,,,3604 00 191 SB 30000
+309,Grants-in-Aid,,"2,17,32,40","2,17,32,40",,3604 00 191 SB 30900
+01,Grants for Current Expenditure,,"2,17,32,40","2,17,32,40",,3604 00 191 SB 30901
+SB,Total SB,"2,17,32,40","2,17,32,40",,,
+SC,Grants to Million Cities as per the recommendation of 15th Finance Commission - Corporations,,,,,3604 00 191 SC 30000
+309,Grants-in-Aid,,,,"5,56,00,00",3604 00 191 SC 30900
+01,Grants for Current Expenditure,,,,"5,56,00,00",3604 00 191 SC 30901
+SC,Total SC,,,"5,56,00,00",,
+SD,Basic Grants to Non-Million Cities as per the recommendation of 15th Finance Commission - Corporations,,,,,3604 00 191 SD 30000
+309,Grants-in-Aid,,,,"69,40,00",3604 00 191 SD 30900
+01,Grants for Current Expenditure,,,,"69,40,00",3604 00 191 SD 30901
+SD,Total SD,,,"69,40,00",,
+SE,Tied Grants to Non-Million Cities for Drinking Water and Solid Waste Management as per the recommendation of 15th Finance Commission - Corporations,,,,,3604 00 191 SE 30000
+309,Grants-in-Aid,,,,"69,40,00",3604 00 191 SE 30900
+03,Grants for Specific Schemes,,,,"69,40,00",3604 00 191 SE 30903
+SE,Total SE,,,"69,40,00",,
+#,Central Sector Schemes Total,"5,45,22,80","10,07,60,80","13,00,04,40","6,94,80,00",
+191,Total 191,"23,84,37,57","30,47,32,12","31,09,16,38","27,09,43,99",
+192,Assistance to Municipal Councils,,,,,
+#,State's Expenditure,,,,,
+AA,Grants to Municipalities as per the recommendations of State Finance Commission - Controlled by Commissioner  of Municipal Administration,,,,,3604 00 192 AA 30000
+309,Grants-in-Aid,"10,20,87,73","11,37,20,09","10,03,45,68","11,68,49,11",3604 00 192 AA 30900
+02,Grants for Creation of Capital Assets,"10,20,87,73","11,37,20,09","10,03,45,68","11,68,49,11",3604 00 192 AA 30902
+AA,Total AA,"10,20,87,73","11,37,20,09","10,03,45,68","11,68,49,11",
+AF,Contribution to the Operational and Maintenance Gap filling fund,,,,,3604 00 192 AF 30000
+309,Grants-in-Aid,"63,80,40","71,07,51","62,71,60","73,03,07",3604 00 192 AF 30900
+02,Grants for Creation of Capital Assets,"63,80,40","71,07,51","62,71,60","73,03,07",3604 00 192 AF 30902
+AF,Total AF,"63,80,40","71,07,51","62,71,60","73,03,07",
+AH,Capital Grant Fund,,,,,3604 00 192 AH 30000
+309,Grants-in-Aid,"1,91,31,86","2,13,22,52","1,88,14,81","2,19,09,21",3604 00 192 AH 30900
+02,Grants for Creation of Capital Assets,"1,91,31,86","2,13,22,52","1,88,14,81","2,19,09,21",3604 00 192 AH 30902
+AH,Total AH,"1,91,31,86","2,13,22,52","1,88,14,81","2,19,09,21",
+JJ,State Finance Commission Devolution Arrears to Municipalities - Controlled by Commissioner of Municipal Administration,,,,,3604 00 192 JJ 30000
+309,Grants-in-Aid,"61,24,20","61,24,20","61,24,20",1,3604 00 192 JJ 30900
+02,Grants for Creation of Capital Assets,"61,24,20","61,24,20","61,24,20",1,3604 00 192 JJ 30902
+JJ,Total JJ,"61,24,20","61,24,20","61,24,20",1,
+#,State's Expenditure Total,"13,37,24,19","14,82,74,32","13,15,56,29","14,60,61,40",
+#,Central Sector Schemes,,,,,
+SA,Basic Grants to Municipalities  as per the recommendations of 14th Finance Commission - Controlled by Commissioner of Municipal Administration,,,,,3604 00 192 SA 30000
+309,Grants-in-Aid,"3,82,65,07","5,72,95,59","7,84,97,20",,3604 00 192 SA 30900
+01,Grants for Current Expenditure,"3,82,65,07","5,72,95,59","7,84,97,20",,3604 00 192 SA 30901
+SA,Total SA,"3,82,65,07","5,72,95,59","7,84,97,20",,
+SB,Performance Grants to Municipalities  as per the recommendations of 14th Finance Commission - Controlled by Commissioner of Municipal Administration,,,,,3604 00 192 SB 30000
+309,Grants-in-Aid,,"1,57,55,99","1,57,55,99",,3604 00 192 SB 30900
+01,Grants for Current Expenditure,,"1,57,55,99","1,57,55,99",,3604 00 192 SB 30901
+SB,Total SB,"1,57,55,99","1,57,55,99",,,
+SC,Basic Grants to Non-Million Cities as per the recommendation of 15th Finance Commission - Municipalities,,,,,3604 00 192 SC 30000
+309,Grants-in-Aid,,,,"2,51,87,00",3604 00 192 SC 30900
+01,Grants for Current Expenditure,,,,"2,51,87,00",3604 00 192 SC 30901
+SC,Total SC,,,"2,51,87,00",,
+SD,Tied Grants to Non-Million Cities for Drinking Water and Solid Waste Management as per the recommendation of 15th Finance Commission - Municipalities,,,,,3604 00 192 SD 30000
+309,Grants-in-Aid,,,,"2,51,86,00",3604 00 192 SD 30900
+03,Grants for Specific Schemes,,,,"2,51,86,00",3604 00 192 SD 30903
+SD,Total SD,,,"2,51,86,00",,
+#,Central Sector Schemes Total,"3,82,65,07","7,30,51,58","9,42,53,19","5,03,73,00",
+192,Total 192,"17,19,89,26","22,13,25,90","22,58,09,48","19,64,34,40",
+193,Assistance to Nagar Panchayats / Notified Area  Committees or equivalent thereof Central Sector Sechemes,,,,,
+SC,Basic Grants to Non-Million Cities as per the recommendation of 15th Finance Commission - Town Panchayats,,,,,3604 00 193 SC 30000
+309,Grants-in-Aid,,,,"2,69,24,00",3604 00 193 SC 30900
+01,Grants for Current Expenditure,,,,"2,69,24,00",3604 00 193 SC 30901
+SC,Total SC,,,"2,69,24,00",,
+SD,Tied Grants to Non-Million Cities for Drinking Water and Solid Waste Management as per the recommendation of 15th Finance Commission - Town Panchayats,,,,,3604 00 193 SD 30000
+309,Grants-in-Aid,,,,"2,69,23,00",3604 00 193 SD 30900
+03,Grants for Specific Schemes,,,,"2,69,23,00",3604 00 193 SD 30903
+SD,Total SD,,,"2,69,23,00",,
+#,Central Sector Schemes Total,,,,"5,38,47,00",
+193,Total 193,,,"5,38,47,00",,
+200,Other Miscellaneous Compensations and Assignments,,,,,
+#,State's Expenditure,,,,,
+BG,Contribution to Tamil Nadu Urban Road Infrastructure Fund from assigned revenue - Stamp Duty (Commissioner of Municipal Administration),,,,,3604 00 200 BG 30000
+310,Contributions,"3,55,58,98","3,32,43,26","3,32,43,26","4,14,34,92",3604 00 200 BG 31000
+01,Contribution to Specific Fund,"3,55,58,98","3,32,43,26","3,32,43,26","4,14,34,92",3604 00 200 BG 31001
+BG,Total BG,"3,55,58,98","3,32,43,26","3,32,43,26","4,14,34,92",
+BH,Sharing of Assigned Revenue - Stamp Duty (Commissioner of Municipal Administration),,,,,3604 00 200 BH 30000
+309,Grants-in-Aid,"3,55,58,98","3,32,43,26","3,32,43,26","4,14,34,92",3604 00 200 BH 30900
+09,Others,"3,55,58,98","3,32,43,26","3,32,43,26","4,14,34,92",3604 00 200 BH 30909
+BH,Total BH,"3,55,58,98","3,32,43,26","3,32,43,26","4,14,34,92",
+BN,Incentive to Urban Local Bodies,,,,,3604 00 200 BN 30000
+309,Grants-in-Aid,,"2,58,24,88","2,27,90,76","2,65,34,74",3604 00 200 BN 30900
+01,Grants for Current Expenditure,,"2,58,24,88","2,27,90,76","2,65,34,74",3604 00 200 BN 30901
+BN,Total BN,"2,58,24,88","2,27,90,76","2,65,34,74",,
+BO,Special Grants to Tamil Nadu Institute of Urban Studies,,,,,3604 00 200 BO 30000
+309,Grants-in-Aid,"10,00,00","5,00,00","5,00,00","5,00,00",3604 00 200 BO 30900
+01,Grants for Current Expenditure,"10,00,00","5,00,00","5,00,00","5,00,00",3604 00 200 BO 30901
+BO,Total BO,"10,00,00","5,00,00","5,00,00","5,00,00",
+#,State's Expenditure Total,"7,21,17,96","9,28,11,40","8,97,77,28","10,99,04,58",
+200,Total 200,"7,21,17,96","9,28,11,40","8,97,77,28","10,99,04,58",
+00,Total 00,"48,25,44,79","61,88,69,43","62,65,03,15","63,11,29,98",
+3604,Total 3604,"48,25,44,79","61,88,69,43","62,65,03,15","63,11,29,98",
+4215,CAPITAL OUTLAY ON WATER SUPPLY AND SANITATION,,,,,
+02,Sewerage and Sanitation,,,,,
+190,Investments in Public Sector and Other Undertakings,,,,,
+#,State's Expenditure,,,,,
+JA,Share Capital Assistance to New Tirupur Area Development Corporation Limited,,,,,4215 02 190 JA 40000
+422,Investments,"36,00,00",1,1,1,4215 02 190 JA 42200
+01,Investments,"36,00,00",1,1,1,4215 02 190 JA 42201
+JA,Total JA,"36,00,00",1,1,1,
+#,State's Expenditure Total,"36,00,00",1,1,1,
+190,Total 190,"36,00,00",1,1,1,
+02,Total 02,"36,00,00",1,1,1,
+4215,Total 4215,"36,00,00",1,1,1,
+4217,CAPITAL OUTLAY ON URBAN DEVELOPMENT,,,,,
+01,State Capital Development,,,,,
+051,Construction,,,,,
+#,State's Expenditure,,,,,
+AB,Construction of Integrated ROB in lieu of existing Ennore High Road and Manali Road,,,,,4217 01 051 AB 40000
+416,Major Works,,,"10,00,00",1,4217 01 051 AB 41600
+01,Major Works,,,"10,00,00",1,4217 01 051 AB 41601
+AB,Total AB,,"10,00,00",1,,
+#,State's Expenditure Total,,,"10,00,00",1,
+051,Total 051,,"10,00,00",1,,
+190,Investments in Public Sector and Other Undertakings,,,,,
+#,Externally Aided Projects Externally Aided Project,,,,,
+PB,Capital Grants to Installation of Chennai Metropolitan Area Intelligent Transport System (ITS) with the Assistance of Japan International Cooperation Agency (JICA),,,,,4217 01 190 PB 40000
+416,Major Works,,"60,00,00","60,00,00",1,4217 01 190 PB 41600
+01,Major Works,,"60,00,00","60,00,00",1,4217 01 190 PB 41601
+PB,Total PB,"60,00,00","60,00,00",1,,
+#,Externally Aided Projects Total,,"60,00,00","60,00,00",1,
+190,Total 190,"60,00,00","60,00,00",1,,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+JA,Chennai Mega City Development Mission,,,,,4217 01 800 JA 40000
+416,Major Works,"5,00,00,00","5,00,00,00","3,00,00,00","5,00,00,00",4217 01 800 JA 41600
+01,Major Works,"5,00,00,00","5,00,00,00","3,00,00,00","5,00,00,00",4217 01 800 JA 41601
+JA,Total JA,"5,00,00,00","5,00,00,00","3,00,00,00","5,00,00,00",
+#,State's Expenditure Total,"5,00,00,00","5,00,00,00","3,00,00,00","5,00,00,00",
+800,Total 800,"5,00,00,00","5,00,00,00","3,00,00,00","5,00,00,00",
+01,Total 01,"5,00,00,00","5,60,00,00","3,70,00,00","5,00,00,02",
+03,Integrated Development of Small and Medium Towns,,,,,
+800,Other Expenditure,,,,,
+#,Schemes shared between State and Centre,,,,,
+#,Schemes shared between State and Centre,,,,,
+UA,Implementation of Smart Cities Programme,,,,,4217 03 800 UA 40000
+416,Major Works,"15,74,00,00","16,50,00,00","15,12,00,00","16,50,00,00",4217 03 800 UA 41600
+01,Major Works,"15,74,00,00","16,50,00,00","15,12,00,00","16,50,00,00",4217 03 800 UA 41601
+UA,Total UA,"15,74,00,00","16,50,00,00","15,12,00,00","16,50,00,00",
+#,Schemes shared between State and Centre Total,"15,74,00,00","16,50,00,00","15,12,00,00","16,50,00,00",
+800,Total 800,"15,74,00,00","16,50,00,00","15,12,00,00","16,50,00,00",
+03,Total 03,"15,74,00,00","16,50,00,00","15,12,00,00","16,50,00,00",
+04,Slum Area Improvement,,,,,
+789,Special Component Plan for Scheduled Castes,,,,,
+#,State's Expenditure,,,,,
+JA,Implementation of Slum Improvement Programme in Corporations / Municipalities,,,,,4217 04 789 JA 40000
+416,Major Works,,1,,,4217 04 789 JA 41600
+01,Major Works,,1,,,4217 04 789 JA 41601
+JA,Total JA,1,,,,
+#,State's Expenditure Total,,1,,,
+789,Total 789,1,,,,
+796,Tribal Area Sub-Plan,,,,,
+#,State's Expenditure,,,,,
+JA,Implementation of Slum Improvement Programme in Corporations / Municipalities,,,,,4217 04 796 JA 40000
+416,Major Works,,1,,,4217 04 796 JA 41600
+01,Major Works,,1,,,4217 04 796 JA 41601
+JA,Total JA,1,,,,
+#,State's Expenditure Total,,1,,,
+796,Total 796,1,,,,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+JA,Implementation of Slum Improvement Programme in Corporations / Municipalities,,,,,4217 04 800 JA 40000
+416,Major Works,,1,,,4217 04 800 JA 41600
+01,Major Works,,1,,,4217 04 800 JA 41601
+JA,Total JA,,1,,,
+#,State's Expenditure Total,,1,,,
+800,Total 800,,1,,,
+04,Total 04,,3,,,
+60,Other Urban Development Schemes,,,,,
+190,Investments in Public Sector and Other Undertakings,,,,,
+#,State's Expenditure,,,,,
+JV,Share Capital Assistance for Chennai Rivers Restoration Trust,,,,,4217 60 190 JV 40000
+422,Investments,,"10,00,00","1,00,00","10,00,00",4217 60 190 JV 42200
+01,Investments,,"10,00,00","1,00,00","10,00,00",4217 60 190 JV 42201
+JV,Total JV,,"10,00,00","1,00,00","10,00,00",
+#,State's Expenditure Total,,"10,00,00","1,00,00","10,00,00",
+190,Total 190,,"10,00,00","1,00,00","10,00,00",
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+AB,Share Capital assistance for Integrated Storm Water Drain in Kosasthalaiyar Basin,,,,,4217 60 800 AB 40000
+416,Major Works,,,,"87,00,00",4217 60 800 AB 41600
+01,Major Works,,,,"87,00,00",4217 60 800 AB 41601
+AB,Total AB,,,"87,00,00",,
+JJ,Integrated Urban Development Mission(IUDM),,,,,4217 60 800 JJ 40000
+416,Major Works,"4,06,00,00","7,50,00,00","5,00,00,00","7,50,00,00",4217 60 800 JJ 41600
+01,Major Works,"4,06,00,00","7,50,00,00","5,00,00,00","7,50,00,00",4217 60 800 JJ 41601
+JJ,Total JJ,"4,06,00,00","7,50,00,00","5,00,00,00","7,50,00,00",
+JO,Implementation of Cooum River Restoration Project,,,,,4217 60 800 JO 40000
+416,Major Works,,"2,00,00,00","15,00,00","2,00,00,00",4217 60 800 JO 41600
+01,Major Works,,"2,00,00,00","15,00,00","2,00,00,00",4217 60 800 JO 41601
+JO,Total JO,"2,00,00,00","15,00,00","2,00,00,00",,
+JP,Adyar River Restoration Project,,,,,4217 60 800 JP 40000
+416,Major Works,"6,00,00","1,00,00,00","1,00,00,00","1,00,00,00",4217 60 800 JP 41600
+01,Major Works,"6,00,00","1,00,00,00","1,00,00,00","1,00,00,00",4217 60 800 JP 41601
+JP,Total JP,"6,00,00","1,00,00,00","1,00,00,00","1,00,00,00",
+JQ,One time Special Fund for Basic Infrastructure Development in Urban Habitations,,,,,4217 60 800 JQ 40000
+416,Major Works,,,,"3,50,00,00",4217 60 800 JQ 41600
+01,Major Works,,,,"3,50,00,00",4217 60 800 JQ 41601
+JQ,Total JQ,,,"3,50,00,00",,
+#,State's Expenditure Total,"4,12,00,00","10,50,00,00","6,15,00,00","14,87,00,00",
+#,Externally Aided Projects,,,,,
+PF,Capital Grant to Grant Fund I - German Development Bank (KfW) line of credit under Sustainable Municipal Infrastructure Financing (SMIF) in Tamil Nadu Phase II - Part I,,,,,4217 60 800 PF 40000
+416,Major Works,"68,43,00","14,59,00",,"14,59,00",4217 60 800 PF 41600
+01,Major Works,"68,43,00","14,59,00",,"14,59,00",4217 60 800 PF 41601
+PF,Total PF,"68,43,00","14,59,00",,"14,59,00",
+PG,Capital Grant to Grant Fund I - German Development Bank (KfW) line of credit under Sustainable Municipal Infrastructure Financing in Tamil Nadu Phase-II Part 2 (SMIF-TN-II-2),,,,,4217 60 800 PG 40000
+416,Major Works,,"1,46,94,00","50,00,00","75,00,00",4217 60 800 PG 41600
+01,Major Works,,"1,46,94,00","50,00,00","75,00,00",4217 60 800 PG 41601
+PG,Total PG,,"1,46,94,00","50,00,00","75,00,00",
+PH,Capital Grant to TNUDF (GF-II) for Implementing World Bank Assisted Tamil Nadu Sustainable Urban Development Project (TNSUDP),,,,,4217 60 800 PH 40000
+416,Major Works,"2,50,00,00","2,50,00,00","2,50,00,00","3,00,00,00",4217 60 800 PH 41600
+01,Major Works,"2,50,00,00","2,50,00,00","2,50,00,00","3,00,00,00",4217 60 800 PH 41601
+PH,Total PH,"2,50,00,00","2,50,00,00","2,50,00,00","3,00,00,00",
+PI,Capital Works under World Bank assisted TNSUDP Line of Credit,,,,,4217 60 800 PI 40000
+416,Major Works,,"63,85,00",,,4217 60 800 PI 41600
+01,Major Works,,"63,85,00",,,4217 60 800 PI 41601
+PI,Total PI,"63,85,00",,,,
+PK,Capital Grants for Construction of Integrated Storm Water Drain for the M3 Component of Kovalam Basin area with the assistance of KfW,,,,,4217 60 800 PK 40000
+416,Major Works,,1,1,1,4217 60 800 PK 41600
+01,Major Works,,1,1,1,4217 60 800 PK 41601
+PK,Total PK,1,1,1,,
+PL,Capital Grants to TNUDF for implementation of Asian Development Bank assisted Tamil Nadu Urban Flagship Investment Programme (TNUFIP),,,,,4217 60 800 PL 40000
+416,Major Works,"50,00,00","2,00,00,00","2,00,00,00","2,00,00,00",4217 60 800 PL 41600
+01,Major Works,"50,00,00","2,00,00,00","2,00,00,00","2,00,00,00",4217 60 800 PL 41601
+PL,Total PL,"50,00,00","2,00,00,00","2,00,00,00","2,00,00,00",
+PM,Capital Grants to Project Sustainability Grant Fund (PSGF) for implementation of Asian Development Bank (ADB) assisted Tamil Nadu Urban Flagship Investment Programme (TNUFIP) Tranche-II,,,,,4217 60 800 PM 40000
+416,Major Works,,,,"50,00,00",4217 60 800 PM 41600
+01,Major Works,,,,"50,00,00",4217 60 800 PM 41601
+PM,Total PM,,,"50,00,00",,
+PN,Capital Grants to Project Sustainability Grant Fund (PSGF) for implementation of Solar Development Sub-Project under the Asian Development Bank assisted Tamil Nadu Urban Flagship Investment Programme (TNUFIP) Tranche-I,,,,,4217 60 800 PN 40000
+416,Major Works,,,,"6,00,00",4217 60 800 PN 41600
+01,Major Works,,,,"6,00,00",4217 60 800 PN 41601
+PN,Total PN,,,"6,00,00",,
+#,Externally Aided Projects Total,"3,68,43,00","6,75,38,01","5,00,00,01","6,45,59,01",
+#,Central Sector Schemes,,,,,
+SA,Implementation of Heritage City Development and Augmentation Yojana (HRIDAY),,,,,4217 60 800 SA 40000
+416,Major Works,,1,1,1,4217 60 800 SA 41600
+01,Major Works,,1,1,1,4217 60 800 SA 41601
+SA,Total SA,1,1,1,,
+#,Central Sector Schemes Total,,1,1,1,
+#,Schemes shared between State and Centre,,,,,
+UA,Atal Mission for Rejuvenation and Urban Transformation (AMRUT),,,,,4217 60 800 UA 40000
+416,Major Works,"11,65,10,30","14,50,00,00","12,34,40,00","14,50,00,00",4217 60 800 UA 41600
+01,Major Works,"11,65,10,30","14,50,00,00","12,34,40,00","14,50,00,00",4217 60 800 UA 41601
+UA,Total UA,"11,65,10,30","14,50,00,00","12,34,40,00","14,50,00,00",
+#,Schemes shared between State and Centre Total,"11,65,10,30","14,50,00,00","12,34,40,00","14,50,00,00",
+800,Total 800,"19,45,53,30","31,75,38,02","23,49,40,02","35,82,59,02",
+60,Total 60,"19,45,53,30","31,85,38,02","23,50,40,02","35,92,59,02",
+4217,Total 4217,"40,19,53,30","53,95,38,05","42,32,40,02","57,42,59,04",
+6217,LOANS FOR URBAN DEVELOPMENT,,,,,
+60,Other Urban Development Schemes,,,,,
+190,Loans to Public Sector,,,,,
+#,Externally Aided Projects Externally Aided Project,,,,,
+PI,Loans to TNUDF for implementation of SMIF -TN-Phase -II Part I with the assistance of German Development Bank (KfW),,,,,6217 60 190 PI 50000
+502,Loan - Outgo,"49,73,00","14,59,00",,"14,59,00",6217 60 190 PI 50200
+01,Bearing Interest,"49,73,00","14,59,00",,"14,59,00",6217 60 190 PI 50201
+PI,Total PI,"49,73,00","14,59,00",,"14,59,00",
+PJ,Loans to TNUDF for implementation of Sustainable Municipal Infrastructure Financing in Tamil Nadu - Phase -,,,,,
+II,Part 2 with the assistance of German Development Bank (KfW),,,,,6217 60 190 PJ 50000
+502,Loan - Outgo,"75,00,00","42,36","20,00,00","50,00,00",6217 60 190 PJ 50200
+01,Bearing Interest,"75,00,00","42,36","20,00,00","50,00,00",6217 60 190 PJ 50201
+PJ,Total PJ,"75,00,00","42,36","20,00,00","50,00,00",
+PK,Loans to TNUDF  for Implementing World Bank Assisted Tamil Nadu Sustainable Urban Development Project (TNSUDP),,,,,6217 60 190 PK 50000
+502,Loan - Outgo,"3,00,00,00","4,00,00,00","2,00,00,00","1,00,00,00",6217 60 190 PK 50200
+01,Bearing Interest,"3,00,00,00","4,00,00,00","2,00,00,00","1,00,00,00",6217 60 190 PK 50201
+PK,Total PK,"3,00,00,00","4,00,00,00","2,00,00,00","1,00,00,00",
+PN,Loans for Construction of Integrated Storm Water Drain for the M3 Component of Kovalam Basin area with the assistance of KfW,,,,,6217 60 190 PN 50000
+502,Loan - Outgo,,1,1,1,6217 60 190 PN 50200
+01,Bearing Interest,,1,1,1,6217 60 190 PN 50201
+PN,Total PN,1,1,1,,
+PO,Loans to TNUDF for implementation of Asian Development Bank assisted Tamil Nadu Urban Flagship Investment Programme (TNUFIP),,,,,6217 60 190 PO 50000
+502,Loan - Outgo,"50,00,00","1,00,00,00","1,00,00,00","75,00,00",6217 60 190 PO 50200
+01,Bearing Interest,"50,00,00","1,00,00,00","1,00,00,00","75,00,00",6217 60 190 PO 50201
+PO,Total PO,"50,00,00","1,00,00,00","1,00,00,00","75,00,00",
+PQ,Loans to TNUDF for implementation of Asian Development Bank assisted Tamil Nadu Urban Flagship Investment Programme (TNUFIP),,,,,6217 60 190 PQ 50000
+502,Loan - Outgo,,,,"50,00,00",6217 60 190 PQ 50200
+01,Bearing Interest,,,,"50,00,00",6217 60 190 PQ 50201
+PQ,Total PQ,,,"50,00,00",,
+PR,Loans for construction for Integrated Storm Water Drain in Kosasthalaiyar basin with the assistance of ADB,,,,,6217 60 190 PR 50000
+502,Loan - Outgo,,,,"2,63,00,00",6217 60 190 PR 50200
+01,Bearing Interest,,,,"2,63,00,00",6217 60 190 PR 50201
+PR,Total PR,,,"2,63,00,00",,
+#,Externally Aided Projects Total,"4,74,73,00","5,15,01,37","3,20,00,01","5,52,59,01",
+190,Total 190,"4,74,73,00","5,15,01,37","3,20,00,01","5,52,59,01",
+60,Total 60,"4,74,73,00","5,15,01,37","3,20,00,01","5,52,59,01",
+6217,Total 6217,"4,74,73,00","5,15,01,37","3,20,00,01","5,52,59,01",
+7615-00,MISCELLANEOUS LOANS,,,,,
+200,Miscellaneous Loans,,,,,
+#,State's Expenditure,,,,,
+KD,Loans to Employees of Municipal Councils and Township Committees - controlled by the Commissioner  of Municipal Administration,,,,,7615 00 200 KD 50000
+502,Loan - Outgo,,"50,00","50,00","50,00",7615 00 200 KD 50200
+01,Bearing Interest,,"50,00","50,00","50,00",7615 00 200 KD 50201
+KD,Total KD,"50,00","50,00","50,00",,
+#,State's Expenditure Total,,"50,00","50,00","50,00",
+200,Total 200,"50,00","50,00","50,00",,
+00,Total 00,"50,00","50,00","50,00",,
+7615,Total 7615,"50,00","50,00","50,00",,

@@ -1,0 +1,115 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2215,WATER SUPPLY AND SANITATION,,,,,
+01,Water Supply,,,,,
+101,Urban water Supply Programmes,,,,,
+#,State's Expenditure,,,,,
+AL,Grants to Chennai Metropolitan Water Supply and Sewerage Board for Supply of Water to Cancer Institute at concession rates,,,,,2215 01 101 AL 30000
+309,Grants-in-Aid,"16,77","18,45","18,45","11,22",2215 01 101 AL 30900
+03,Grants for Specific Schemes,"16,77","18,45","18,45","11,22",2215 01 101 AL 30903
+AL,Total AL,"16,77","18,45","18,45","11,22",
+AP,Grants to Chennai Metropolitan Water Supply and Sewerage Board for water charges to Slum Tenements,,,,,2215 01 101 AP 30000
+309,Grants-in-Aid,"37,56,00","36,00,00","36,00,00","36,00,00",2215 01 101 AP 30900
+01,Grants for Current Expenditure,"37,56,00","36,00,00","36,00,00","36,00,00",2215 01 101 AP 30901
+AP,Total AP,"37,56,00","36,00,00","36,00,00","36,00,00",
+KB,Viability Gap Support for Desalination Plant at Chennai,,,,,2215 01 101 KB 30000
+309,Grants-in-Aid,"87,50,00","1,75,00,00","1,75,00,00","1,72,89,05",2215 01 101 KB 30900
+02,Grants for Creation of Capital Assets,"87,50,00","1,75,00,00","1,75,00,00","1,72,89,05",2215 01 101 KB 30902
+KB,Total KB,"87,50,00","1,75,00,00","1,75,00,00","1,72,89,05",
+#,State's Expenditure Total,"1,25,22,77","2,11,18,45","2,11,18,45","2,09,00,27",
+101,Total 101,"1,25,22,77","2,11,18,45","2,11,18,45","2,09,00,27",
+190,Assistance to Public Undertakings,,,,,
+#,State's Expenditure,,,,,
+JJ,Grants to Chennai Metropolitan Water Supply and Sewerage Board for Repayment of Principal and Interest to TUFIDCO / TNUFSL on the loans obtained by the erstwhile Local Bodies,,,,,2215 01 190 JJ 30000
+309,Grants-in-Aid,"16,45,82","14,97,41","14,97,41","6,52,22",2215 01 190 JJ 30900
+03,Grants for Specific Schemes,"16,45,82","14,97,41","14,97,41","6,52,22",2215 01 190 JJ 30903
+JJ,Total JJ,"16,45,82","14,97,41","14,97,41","6,52,22",
+#,State's Expenditure Total,"16,45,82","14,97,41","14,97,41","6,52,22",
+190,Total 190,"16,45,82","14,97,41","14,97,41","6,52,22",
+01,Total 01,"1,41,68,59","2,26,15,86","2,26,15,86","2,15,52,49",
+2215,Total 2215,"1,41,68,59","2,26,15,86","2,26,15,86","2,15,52,49",
+4215,CAPITAL OUTLAY ON WATER SUPPLY AND SANITATION,,,,,
+01,Water Supply,,,,,
+101,Urban Water Supply,,,,,
+#,State's Expenditure,,,,,
+JY,Conveying pipeline from Koyambedu to SIPCOT Industrial area under Tamil Nadu Investment Promotion Programme with loan assistance from JICA,,,,,4215 01 101 JY 40000
+416,Major Works,"45,37,50",1,"45,37,51",1,4215 01 101 JY 41600
+01,Major Works,"45,37,50",1,"45,37,51",1,4215 01 101 JY 41601
+JY,Total JY,"45,37,50",1,"45,37,51",1,
+JZ,Construction of Seweage Treatment Plant at Sholinganallur Under Tamil Nadu Investment Promotion Programme with loan assistance from JICA,,,,,4215 01 101 JZ 40000
+416,Major Works,,1,"25,33,00",1,4215 01 101 JZ 41600
+01,Major Works,,1,"25,33,00",1,4215 01 101 JZ 41601
+JZ,Total JZ,,1,"25,33,00",1,
+KA,Transmission of water from Thervoykandigai reservoir to K.P.Canal Under Tamil Nadu Investment Promotion Programme with loan assistance from JICA,,,,,4215 01 101 KA 40000
+416,Major Works,,"4,25,00","7,77,00","4,57,00",4215 01 101 KA 41600
+01,Major Works,,"4,25,00","7,77,00","4,57,00",4215 01 101 KA 41601
+KA,Total KA,,"4,25,00","7,77,00","4,57,00",
+#,State's Expenditure Total,"45,37,50","4,25,02","78,47,51","4,57,02",
+101,Total 101,"45,37,50","4,25,02","78,47,51","4,57,02",
+190,Investments in Public Sector and Other Undertakings,,,,,
+#,State's Expenditure,,,,,
+JA,Share Capital Assistance to CMWSS Board for 150 MLD Desalination Plant at Nemmeli,,,,,4215 01 190 JA 40000
+422,Investments,,"2,37,68,00","1,50,00,00","5,00,00,00",4215 01 190 JA 42200
+01,Investments,,"2,37,68,00","1,50,00,00","5,00,00,00",4215 01 190 JA 42201
+JA,Total JA,,"2,37,68,00","1,50,00,00","5,00,00,00",
+#,State's Expenditure Total,,"2,37,68,00","1,50,00,00","5,00,00,00",
+#,Externally Aided Projects,,,,,
+PA,"Design, Build and Commissioning of additional 120 MLD (2 Nos.) Capacity Sewage Treatment Plant at Kodungaiyur Zone I and II – TNIPP-2",,,,,4215 01 190 PA 40000
+416,Major Works,,"40,00,00","24,00,00","40,00,00",4215 01 190 PA 41600
+01,Major Works,,"40,00,00","24,00,00","40,00,00",4215 01 190 PA 41601
+PA,Total PA,,"40,00,00","24,00,00","40,00,00",
+PB,Rehabilitation and Modification works  and additional works in existing 110 MLD Capacity Sewage Treatment Plant at Kodungaiyur TNIPP–2,,,,,4215 01 190 PB 40000
+416,Major Works,,"7,00,00","3,00,00","7,00,00",4215 01 190 PB 41600
+01,Major Works,,"7,00,00","3,00,00","7,00,00",4215 01 190 PB 41601
+PB,Total PB,"7,00,00","3,00,00","7,00,00",,
+PC,"Design, Build and Commissioning of additional 60 MLD Capacity Sewage Treatment Plant at Perungudi TNIPP–2",,,,,4215 01 190 PC 40000
+416,Major Works,,"30,00,00","8,00,00","30,00,00",4215 01 190 PC 41600
+01,Major Works,,"30,00,00","8,00,00","30,00,00",4215 01 190 PC 41601
+PC,Total PC,"30,00,00","8,00,00","30,00,00",,
+PD,Rehabilitation and Modification works and additional works in existing 60 and 120 MLD Capacity Sewage Treatment Plant at Koyambedu TNIPP–2,,,,,4215 01 190 PD 40000
+416,Major Works,,"7,00,00","6,00,00","7,00,00",4215 01 190 PD 41600
+01,Major Works,,"7,00,00","6,00,00","7,00,00",4215 01 190 PD 41601
+PD,Total PD,"7,00,00","6,00,00","7,00,00",,
+PE,"Design, Build and Commissioning of additional 50 MLD Capacity Sewage Treatment Plant at Nesapakkam TNIPP–2",,,,,4215 01 190 PE 40000
+416,Major Works,,"7,00,00","7,00,00","7,00,00",4215 01 190 PE 41600
+01,Major Works,,"7,00,00","7,00,00","7,00,00",4215 01 190 PE 41601
+PE,Total PE,"7,00,00","7,00,00","7,00,00",,
+PF,Rehabilitation and Modification works and additional works in existing 40 and 54 MLD Capacity Sewage Treatment Plant at Nesapakkam TNIPP–2,,,,,4215 01 190 PF 40000
+416,Major Works,,"5,00,00","4,00,00","5,00,00",4215 01 190 PF 41600
+01,Major Works,,"5,00,00","4,00,00","5,00,00",4215 01 190 PF 41601
+PF,Total PF,"5,00,00","4,00,00","5,00,00",,
+PG,Rehabilitation and Modification works and additional works in existing 54 and 60 MLD Capacity Sewage Treatment Plant at Perungudi TNIPP–2,,,,,4215 01 190 PG 40000
+416,Major Works,,"15,00,00","4,00,00","15,00,00",4215 01 190 PG 41600
+01,Major Works,,"15,00,00","4,00,00","15,00,00",4215 01 190 PG 41601
+PG,Total PG,"15,00,00","4,00,00","15,00,00",,
+PH,"Setting up of 400 MLD Capacity Sea Water Reverse Osmosis (SWRO) Desalination plant at Perur, Chennai",,,,,4215 01 190 PH 40000
+416,Major Works,,"2,80,46,00","15,00,00","1,56,15,00",4215 01 190 PH 41600
+01,Major Works,,"2,80,46,00","15,00,00","1,56,15,00",4215 01 190 PH 41601
+PH,Total PH,"2,80,46,00","15,00,00","1,56,15,00",,
+#,Externally Aided Projects Total,,"3,91,46,00","71,00,00","2,67,15,00",
+190,Total 190,"6,29,14,00","2,21,00,00","7,67,15,00",,
+01,Total 01,"45,37,50","6,33,39,02","2,99,47,51","7,71,72,02",
+4215,Total 4215,"45,37,50","6,33,39,02","2,99,47,51","7,71,72,02",
+6215,LOANS FOR WATER SUPPLY AND SANITATION,,,,,
+01,Water Supply,,,,,
+190,Loans to Public Sector,,,,,
+#,State's Expenditure,,,,,
+AJ,Interest free loan to CMWSSB on capitalisation of interest dues till the end of 2017-18,,,,,6215 01 190 AJ 50000
+502,Loan - Outgo,"7,94,64,73",,,,6215 01 190 AJ 50200
+01,Bearing Interest,"7,94,64,73",,,,6215 01 190 AJ 50201
+AJ,Total AJ,"7,94,64,73",,,,
+#,State's Expenditure Total,"7,94,64,73",,,,
+190,Total 190,"7,94,64,73",,,,
+01,Total 01,"7,94,64,73",,,,
+6215,Total 6215,"7,94,64,73",,,,
+2217,URBAN DEVELOPMENT,,,,,
+05,Other Urban Development Schemes,,,,,
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+JM,Grants to Tamil Nadu Urban Finance and Infrastructure Development Corporation towards UIDSSMT Scheme,,,,,2217 05 911 JM 30000
+377,Deduct-Recoveries,"-15,29,77",,,,2217 05 911 JM 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-15,29,77",,,,2217 05 911 JM 37702
+JM,Total JM,"-15,29,77",,,,
+#,State's Expenditure Total,"-15,29,77",,,,
+911,Total 911,"-15,29,77",,,,
+05,Total 05,"-15,29,77",,,,
+2217,Total 2217,"-15,29,77",,,,

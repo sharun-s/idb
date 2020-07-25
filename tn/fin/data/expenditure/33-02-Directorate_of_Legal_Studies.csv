@@ -1,0 +1,114 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2059,PUBLIC WORKS,,,,,
+01,Office Buildings,,,,,
+053,Maintenance and Repairs,,,,,
+#,State's Expenditure,,,,,
+BR,Buildings - Law Colleges and Law College Hostels (Administered by Chief Engineer (Buildings)),,,,,2059 01 053 BR 30000
+318,Maintenance,"2,23,74","50,01","50,01","52,51",2059 01 053 BR 31800 
+01,Periodical Maintenance,"1,16,11","50,00","50,00","52,50",2059 01 053 BR 31801
+02,Special Maintenance,"1,07,63",1,1,1,2059 01 053 BR 31802
+BR,Total BR,"2,23,74","50,01","50,01","52,51",
+#,State's Expenditure Total,"2,23,74","50,01","50,01","52,51",
+053,Total 053,"2,23,74","50,01","50,01","52,51",
+01,Total 01,"2,23,74","50,01","50,01","52,51",
+2059,Total 2059,"2,23,74","50,01","50,01","52,51",
+2202,GENERAL EDUCATION,,,,,
+03,University and Higher Education,,,,,
+102,Assistance to Universities,,,,,
+#,State's Expenditure,,,,,
+BO,"National Law School, Tiruchy",,,,,2202 03 102 BO 30000
+309,Grants-in-Aid,"4,00,00",1,"7,56",1,2202 03 102 BO 30900
+01,Grants for Current Expenditure,"4,00,00",1,"7,56",1,2202 03 102 BO 30901
+BO,Total BO,"4,00,00",1,"7,56",1,
+#,State's Expenditure Total,"4,00,00",1,"7,56",1,
+102,Total 102,"4,00,00",1,"7,56",1,
+103,Government Colleges and Institutes,,,,,
+#,State's Expenditure,,,,,
+AE,Law Colleges,,,,,2202 03 103 AE 30000
+301,Salaries,"10,59,99","9,07,38","18,99,96","24,47,29",2202 03 103 AE 30100
+01,Pay,"9,54,55","8,32,00","17,41,38","22,55,27",2202 03 103 AE 30101
+02,Medical Allowance,"7,36","7,09","9,71","11,73",2202 03 103 AE 30102
+03,Medical Charges,,1,1,1,2202 03 103 AE 30103
+04,Other Allowances,"5,74","7,46","8,71","8,71",2202 03 103 AE 30104
+06,House Rent Allowance,"81,71","52,00","1,25,69","1,55,71",2202 03 103 AE 30106
+07,Travel Concession,6,50,50,50,2202 03 103 AE 30107
+08,City Compensatory Allowance,"10,57","8,32","13,96","15,36",2202 03 103 AE 30108
+303,Dearness Allowance,"3,75,67","1,08,16","2,78,62","5,63,82",2202 03 103 AE 30300
+01,Dearness Allowance,"3,75,67","1,08,16","2,78,62","5,63,82",2202 03 103 AE 30301
+304,Travel Expenses,"1,39","2,00","2,00","2,00",2202 03 103 AE 30400
+01,Tour Travelling Allowances,"1,29","1,50","1,50","1,50",2202 03 103 AE 30401
+02,Transfer Travelling Allowances,10,50,50,50,2202 03 103 AE 30402
+305,Office Expenses,"2,25,01","1,38,02","1,68,06","3,04,10",2202 03 103 AE 30500
+01,Telephone Charges,"2,98","2,00","6,00","3,60",2202 03 103 AE 30501
+02,Other Contingencies,"1,87,07","9,50","42,00","15,00",2202 03 103 AE 30502
+03,Electricity Charges,"30,26","25,00","68,81","80,00",2202 03 103 AE 30503
+04,Service Postage & Postal Expenditure,"2,96","3,26","5,00","3,50",2202 03 103 AE 30504
+05,Furniture,"1,74","98,26","46,25","2,02,00",2202 03 103 AE 30505
+306,"Rent, Rates and Taxes",8,30,"1,50,75",75,2202 03 103 AE 30600
+01,Rent,,,"1,50,00",,2202 03 103 AE 30601
+03,Water Charges,8,30,75,75,2202 03 103 AE 30603
+308,Advertising and Publicity,"1,67","2,00","3,00","2,00",2202 03 103 AE 30800
+01,Advertisement Charges,"1,67","2,00","3,00","2,00",2202 03 103 AE 30801
+309,Grants-in-Aid,"7,00","5,27","5,26","7,00",2202 03 103 AE 30900
+01,Grants for Current Expenditure,"7,00","5,26","5,26","7,00",2202 03 103 AE 30901
+09,Others,,1,,,2202 03 103 AE 30909
+312,Scholarships and Stipends,"7,50","6,51","9,41","10,15",2202 03 103 AE 31200
+09,Others,"7,50","6,51","9,41","10,15",2202 03 103 AE 31209
+319,Machinery and Equipments,,1,"9,01",1,2202 03 103 AE 31900
+01,Purchase,,1,"9,01",1,2202 03 103 AE 31901
+321,Motor Vehicles,3,16,26,26,2202 03 103 AE 32100
+01,Purchase,,1,1,1,2202 03 103 AE 32101
+02,Maintenance of Functional Vehicles,3,15,25,25,2202 03 103 AE 32102
+333,Payments for Professional and Special Services,"4,16,39","4,46,55","6,15,25","6,14,56",2202 03 103 AE 33300
+01,Pleaders Fees,,1,5,10,2202 03 103 AE 33301
+04,Contract Payment,"4,16,39","4,46,54","6,15,20","6,14,46",2202 03 103 AE 33304
+345,"Petroleum, Oil and Lubricant",85,"1,34","1,34","1,34",2202 03 103 AE 34500
+01,"Petroleum, Oil and Lubricant",85,"1,34","1,34","1,34",2202 03 103 AE 34501
+349,Festival Advances,56,,,,2202 03 103 AE 34900
+01,Festival Advances-Debit,"5,10","6,00","15,30","18,80",2202 03 103 AE 34901
+02,Festival Advances-Credit,"-4,54","-6,00","-15,30","-18,80",2202 03 103 AE 34902
+359,Prizes and Awards,10,10,10,10,2202 03 103 AE 35900
+01,Prizes and Awards,10,10,10,10,2202 03 103 AE 35901
+368,"Cost of Books/Note Books/Slates, etc.","37,80",1,"56,01","50,00",2202 03 103 AE 36800
+01,"Cost of Books/Note Books/Slates, etc.","37,80",1,"56,01","50,00",2202 03 103 AE 36801
+371,Printing Charges,40,40,50,50,2202 03 103 AE 37100
+01,Printing Charges,40,40,50,50,2202 03 103 AE 37101
+376,Computer and Accessories,42,51,"62,34","4,01",2202 03 103 AE 37600
+01,Purchase,,1,"59,94",1,2202 03 103 AE 37601
+02,Maintenance,27,30,"1,20","2,00",2202 03 103 AE 37602
+03,Stationery,15,20,"1,20","2,00",2202 03 103 AE 37603
+AE,Total AE,"21,34,86","16,18,72","32,61,87","40,07,89",
+#,State's Expenditure Total,"21,34,86","16,18,72","32,61,87","40,07,89",
+103,Total 103,"21,34,86","16,18,72","32,61,87","40,07,89",
+107,Scholarships,,,,,
+#,State's Expenditure,,,,,
+JH,Reimbursement of Tuition Fees for First Generation Graduates studying Law,,,,,2202 03 107 JH 30000
+312,Scholarships and Stipends,,1,1,1,2202 03 107 JH 31200
+09,Others,,1,1,1,2202 03 107 JH 31209
+319,Machinery and Equipments,,1,1,1,2202 03 107 JH 31900
+01,Purchase,,1,1,1,2202 03 107 JH 31901
+JH,Total JH,,2,2,2,
+JI,Reimbursement of Tuition fees for First Generation Graduates studying Law in Trichy National Law School,,,,,2202 03 107 JI 30000
+312,Scholarships and Stipends,"16,00",1,"17,01",1,2202 03 107 JI 31200
+09,Others,"16,00",1,"17,01",1,2202 03 107 JI 31209
+JI,Total JI,"16,00",1,"17,01",1,
+#,State's Expenditure Total,"16,00",3,"17,03",3,
+107,Total 107,"16,00",3,"17,03",3,
+902,Deduct - Amount met from State Innovation Fund,,,,,
+#,State's Expenditure,,,,,
+JC,Deduct - Amount met from State Innovation Fund,,,,,2202 03 902 JC 30000
+330,Inter-Account Transfers,"5,43",,,,2202 03 902 JC 33000
+01,Inter-Account Transfers,"5,43",,,,2202 03 902 JC 33001
+JC,Total JC,"5,43",,,,
+#,State's Expenditure Total,"5,43",,,,
+902,Total 902,"5,43",,,,
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+KF,Understanding Your Right Law (UYR LAW) - Scheme under State Innovation Fund,,,,,2202 03 911 KF 30000
+377,Deduct-Recoveries,"-5,43",,,,2202 03 911 KF 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-5,43",,,,2202 03 911 KF 37702
+KF,Total KF,"-5,43",,,,
+#,State's Expenditure Total,"-5,43",,,,
+911,Total 911,"-5,43",,,,
+03,Total 03,"25,50,86","16,18,76","32,86,46","40,07,93",
+2202,Total 2202,"25,50,86","16,18,76","32,86,46","40,07,93",

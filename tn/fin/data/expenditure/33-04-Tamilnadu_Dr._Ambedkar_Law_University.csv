@@ -1,0 +1,54 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2052-00,SECRETARIAT - GENERAL SERVICES,,,,,
+091,Attached Offices,,,,,
+#,State's Expenditure,,,,,
+AA,State Official Language (Legislation) Commission,,,,,2052 00 091 AA 30000
+301,Salaries,"43,94","49,72","1,55,62","3,23,36",2052 00 091 AA 30100
+01,Pay,"38,08","42,63","1,22,00","2,80,00",2052 00 091 AA 30101
+02,Medical Allowance,14,26,"1,00","1,00",2052 00 091 AA 30102
+03,Medical Charges,5,24,"1,60","1,60",2052 00 091 AA 30103
+04,Other Allowances,74,75,"6,00","6,00",2052 00 091 AA 30104
+06,House Rent Allowance,"4,25","4,80","21,02","21,86",2052 00 091 AA 30106
+07,Travel Concession,,24,"2,00","2,00",2052 00 091 AA 30107
+08,City Compensatory Allowance,68,80,"2,00","3,70",2052 00 091 AA 30108
+09,Honorarium,,,,"7,20",2052 00 091 AA 30109
+302,Wages,59,1,84,,2052 00 091 AA 30200
+01,Wages,59,1,84,,2052 00 091 AA 30201
+303,Dearness Allowance,"2,36","5,54","19,52","70,00",2052 00 091 AA 30300
+01,Dearness Allowance,"2,36","5,54","19,52","70,00",2052 00 091 AA 30301
+304,Travel Expenses,6,20,"5,00","10,00",2052 00 091 AA 30400
+01,Tour Travelling Allowances,6,20,"5,00","10,00",2052 00 091 AA 30401
+305,Office Expenses,59,66,"3,84","12,25",2052 00 091 AA 30500
+01,Telephone Charges,,,"1,18","3,00",2052 00 091 AA 30501
+02,Other Contingencies,59,66,"2,66","5,00",2052 00 091 AA 30502
+03,Electricity Charges,,,,"4,00",2052 00 091 AA 30503
+04,Service Postage & Postal Expenditure,,,,25,2052 00 091 AA 30504
+306,"Rent, Rates and Taxes",,,25,50,2052 00 091 AA 30600
+03,Water Charges,,,25,50,2052 00 091 AA 30603
+308,Advertising and Publicity,,,,"1,00",2052 00 091 AA 30800
+01,Advertisement Charges,,,,"1,00",2052 00 091 AA 30801
+317,Minor Works,,,"1,34,57",1,2052 00 091 AA 31700
+01,Minor Works,,,"1,34,57",1,2052 00 091 AA 31701
+321,Motor Vehicles,,,"51,03",26,2052 00 091 AA 32100
+01,Purchase,,,"51,03",1,2052 00 091 AA 32101
+02,Maintenance of Functional Vehicles,,,,25,2052 00 091 AA 32102
+333,Payments for Professional and Special Services,"9,81","4,80","20,03","55,88",2052 00 091 AA 33300
+01,Pleaders Fees,,,,"1,00",2052 00 091 AA 33301
+04,Contract Payment,"9,81","4,80","20,03","54,88",2052 00 091 AA 33304
+345,"Petroleum, Oil and Lubricant",,,,"6,00",2052 00 091 AA 34500
+01,"Petroleum, Oil and Lubricant",,,,"6,00",2052 00 091 AA 34501
+349,Festival Advances,-5,,,,2052 00 091 AA 34900
+01,Festival Advances-Debit,15,90,"2,60","2,60",2052 00 091 AA 34901
+02,Festival Advances-Credit,-20,-90,"-2,60","-2,60",2052 00 091 AA 34902
+359,Prizes and Awards,,4,4,4,2052 00 091 AA 35900
+01,Prizes and Awards,,4,4,4,2052 00 091 AA 35901
+368,"Cost of Books/Note Books/Slates, etc.",,,"2,00","3,00",2052 00 091 AA 36800
+01,"Cost of Books/Note Books/Slates, etc.",,,"2,00","3,00",2052 00 091 AA 36801
+376,Computer and Accessories,8,10,"15,58","3,01",2052 00 091 AA 37600
+01,Purchase,,,"13,58",1,2052 00 091 AA 37601
+03,Stationery,8,10,"2,00","3,00",2052 00 091 AA 37603
+AA,Total AA,"57,38","61,07","4,08,32","4,85,31",
+#,State's Expenditure Total,"57,38","61,07","4,08,32","4,85,31",
+091,Total 091,"57,38","61,07","4,08,32","4,85,31",
+00,Total 00,"57,38","61,07","4,08,32","4,85,31",
+2052,Total 2052,"57,38","61,07","4,08,32","4,85,31",
