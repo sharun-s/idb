@@ -1,0 +1,106 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+3475-00,OTHER GENERAL ECONOMIC SERVICES,,,,,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+AA,Director of Evaluation and Applied Research - Headquarters Establishment,,,,,3475 00 800 AA 30000
+301,Salaries,"3,46,74","3,55,20","3,39,44","3,51,57",3475 00 800 AA 30100
+01,Pay,"3,04,53","3,13,21","2,97,14","3,09,03",3475 00 800 AA 30101
+02,Medical Allowance,"1,87","1,90","1,87","1,87",3475 00 800 AA 30102
+03,Medical Charges,14,30,30,30,3475 00 800 AA 30103
+04,Other Allowances,97,"1,32","1,30","1,30",3475 00 800 AA 30104
+06,House Rent Allowance,"33,08","32,29","32,85","32,85",3475 00 800 AA 30106
+07,Travel Concession,3,18,18,18,3475 00 800 AA 30107
+08,City Compensatory Allowance,"6,12","6,00","5,80","6,04",3475 00 800 AA 30108
+303,Dearness Allowance,"28,29","40,72","47,54","75,71",3475 00 800 AA 30300
+01,Dearness Allowance,"28,29","40,72","47,54","75,71",3475 00 800 AA 30301
+304,Travel Expenses,"4,59","4,02","4,00","4,00",3475 00 800 AA 30400
+01,Tour Travelling Allowances,"4,59","4,00","4,00","4,00",3475 00 800 AA 30401
+02,Transfer Travelling Allowances,,2,,,3475 00 800 AA 30402
+305,Office Expenses,"6,19","7,64","7,64","7,64",3475 00 800 AA 30500
+01,Telephone Charges,97,"1,20","1,20","1,20",3475 00 800 AA 30501
+02,Other Contingencies,"2,04","2,44","2,44","2,44",3475 00 800 AA 30502
+03,Electricity Charges,"3,18","4,00","4,00","4,00",3475 00 800 AA 30503
+306,"Rent, Rates and Taxes","42,77","39,88","39,88","39,88",3475 00 800 AA 30600
+01,Rent,"42,22","39,28","39,28","39,28",3475 00 800 AA 30601
+03,Water Charges,55,60,60,60,3475 00 800 AA 30603
+319,Machinery and Equipments,"1,08",75,"1,50","1,50",3475 00 800 AA 31900
+03,Maintenance,"1,08",75,"1,50","1,50",3475 00 800 AA 31903
+321,Motor Vehicles,19,20,50,50,3475 00 800 AA 32100
+02,Maintenance of Functional Vehicles,19,20,50,50,3475 00 800 AA 32102
+334,Other Charges,55,55,55,55,3475 00 800 AA 33400
+02,"Purchase  of  Books & Periodicals to Libraries etc.,",55,55,55,55,3475 00 800 AA 33402
+345,"Petroleum, Oil and Lubricant",77,92,"1,50","2,30",3475 00 800 AA 34500
+01,"Petroleum, Oil and Lubricant",77,92,"1,50","2,30",3475 00 800 AA 34501
+349,Festival Advances,7,,,,3475 00 800 AA 34900
+01,Festival Advances-Debit,"2,25","2,60","5,60","5,60",3475 00 800 AA 34901
+02,Festival Advances-Credit,"-2,18","-2,60","-5,60","-5,60",3475 00 800 AA 34902
+351,Compensation Charged,,1,1,1,3475 00 800 AA 35100
+51,Claims under no fault liability -  principal charges Charged,,1,1,1,3475 00 800 AA 35151
+359,Prizes and Awards,6,4,2,2,3475 00 800 AA 35900
+01,Prizes and Awards,6,4,2,2,3475 00 800 AA 35901
+376,Computer and Accessories,"2,59","3,37","4,17","4,17",3475 00 800 AA 37600
+02,Maintenance,"1,17","1,25","2,80","2,80",3475 00 800 AA 37602
+03,Stationery,"1,42","2,12","1,37","1,37",3475 00 800 AA 37603
+AA,Total AA Charged,,1,1,1,
+AA,Total AA Voted,"4,33,89","4,53,29","4,46,74","4,87,84",
+JA,Evaluation Studies under the Control of Director of Evaluation and Applied Research,,,,,3475 00 800 JA 30000
+301,Salaries,"21,94","27,74","19,75","20,38",3475 00 800 JA 30100
+01,Pay,"19,63","25,00","17,26","17,95",3475 00 800 JA 30101
+02,Medical Allowance,5,8,4,4,3475 00 800 JA 30102
+04,Other Allowances,24,24,6,,3475 00 800 JA 30104
+06,House Rent Allowance,"1,75","2,00","2,00","2,00",3475 00 800 JA 30106
+07,Travel Concession,,9,9,9,3475 00 800 JA 30107
+08,City Compensatory Allowance,27,33,30,30,3475 00 800 JA 30108
+303,Dearness Allowance,"7,17","3,25","2,76","4,40",3475 00 800 JA 30300
+01,Dearness Allowance,"7,17","3,25","2,76","4,40",3475 00 800 JA 30301
+304,Travel Expenses,19,46,46,46,3475 00 800 JA 30400
+01,Tour Travelling Allowances,19,46,46,46,3475 00 800 JA 30401
+305,Office Expenses,,9,9,9,3475 00 800 JA 30500
+02,Other Contingencies,,8,8,8,3475 00 800 JA 30502
+05,Furniture,,1,1,1,3475 00 800 JA 30505
+317,Minor Works,,1,1,1,3475 00 800 JA 31700
+01,Minor Works,,1,1,1,3475 00 800 JA 31701
+319,Machinery and Equipments,,1,1,1,3475 00 800 JA 31900
+01,Purchase,,1,1,1,3475 00 800 JA 31901
+321,Motor Vehicles,,1,1,1,3475 00 800 JA 32100
+01,Purchase,,1,1,1,3475 00 800 JA 32101
+333,Payments for Professional and Special Services,"30,82",1,"38,10","11,22",3475 00 800 JA 33300
+03,Special Service,"30,82",1,"38,10","11,22",3475 00 800 JA 33303
+334,Other Charges,,1,1,1,3475 00 800 JA 33400
+02,"Purchase  of  Books & Periodicals to Libraries etc.,",,1,1,1,3475 00 800 JA 33402
+349,Festival Advances,-2,,,,3475 00 800 JA 34900
+01,Festival Advances-Debit,,20,20,20,3475 00 800 JA 34901
+02,Festival Advances-Credit,-2,-20,-20,-20,3475 00 800 JA 34902
+359,Prizes and Awards,,2,2,2,3475 00 800 JA 35900
+01,Prizes and Awards,,2,2,2,3475 00 800 JA 35901
+368,"Cost of Books/Note Books/Slates, etc.",,1,1,1,3475 00 800 JA 36800
+01,"Cost of Books/Note Books/Slates, etc.",,1,1,1,3475 00 800 JA 36801
+372,Training,,1,1,1,3475 00 800 JA 37200
+01,Training,,1,1,1,3475 00 800 JA 37201
+376,Computer and Accessories,2,31,31,31,3475 00 800 JA 37600
+01,Purchase,,1,1,1,3475 00 800 JA 37601
+03,Stationery,2,30,30,30,3475 00 800 JA 37603
+JA,Total JA,"60,12","31,94","61,55","36,94",
+JK,e-Evaluation System upgradation - Schemes under State Innovation Fund,,,,,3475 00 800 JK 30000
+309,Grants-in-Aid,"18,87",1,1,,3475 00 800 JK 30900
+03,Grants for Specific Schemes,"18,87",1,1,,3475 00 800 JK 30903
+JK,Total JK,"18,87",1,1,,
+JL,Electronic File Management  System (Office Automation for e-Evaluation) under State Innovation Fund,,,,,3475 00 800 JL 30000
+309,Grants-in-Aid,"7,90",,,,3475 00 800 JL 30900
+03,Grants for Specific Schemes,"7,90",,,,3475 00 800 JL 30903
+JL,Total JL,"7,90",,,,
+#,State's Expenditure Total Charged,,1,1,1,
+#,State's Expenditure Total Voted,"5,20,78","4,85,24","5,08,30","5,24,78",
+800,Total 800 Charged,,1,1,1,
+800,Total 800 Voted,"5,20,78","4,85,24","5,08,30","5,24,78",
+902,Deduct - Amount met from State Innovation Fund,,,,,
+#,State's Expenditure,,,,,
+JC,Deduct - Amount met from State Innovation Fund,,,,,3475 00 902 JC 30000
+330,Inter-Account Transfers,"-26,77",,-1,,3475 00 902 JC 33000
+01,Inter-Account Transfers,"-26,77",,-1,,3475 00 902 JC 33001
+JC,Total JC,"-26,77",,-1,,
+#,State's Expenditure Total,"-26,77",,-1,,
+902,Total 902,"-26,77",,-1,,
+00,Total 00 Charged,,1,1,1,
+3475,Total 3475 Charged,,1,1,1,
+3475,Total 3475 Voted,"4,94,01","4,85,24","5,08,29","5,24,78",

@@ -1,0 +1,241 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2515-00,OTHER RURAL DEVELOPMENT PROGRAMMES,,,,,
+101,Panchayati Raj,,,,,
+#,State's Expenditure,,,,,
+AO,Chief Minister Rural Self Sufficiency Development Scheme,,,,,2515 00 101 AO 30000
+309,Grants-in-Aid,,,,"1,00,00,00",2515 00 101 AO 30900
+09,Others,,,,"1,00,00,00",2515 00 101 AO 30909
+AO,Total AO,,,"1,00,00,00",,
+#,State's Expenditure Total,,,,"1,00,00,00",
+101,Total 101,,,"1,00,00,00",,
+00,Total 00,,,"1,00,00,00",,
+2515,Total 2515,,,"1,00,00,00",,
+3451-00,SECRETARIAT - ECONOMIC SERVICES,,,,,
+101,NITI Aayog,,,,,
+#,State's Expenditure,,,,,
+AA,Tamil Nadu Planning Commission,,,,,3451 00 101 AA 30000
+301,Salaries,"5,59,98","5,88,79","5,40,11","5,80,36",3451 00 101 AA 30100
+01,Pay,"4,86,16","5,03,81","4,64,24","5,01,91",3451 00 101 AA 30101
+02,Medical Allowance,"2,48","2,57","2,19","2,22",3451 00 101 AA 30102
+03,Medical Charges,"1,00","3,42","3,42","3,42",3451 00 101 AA 30103
+04,Other Allowances,"4,39","8,30","5,12","5,12",3451 00 101 AA 30104
+06,House Rent Allowance,"56,74","60,41","55,39","57,60",3451 00 101 AA 30106
+07,Travel Concession,46,"1,21","1,21","1,21",3451 00 101 AA 30107
+08,City Compensatory Allowance,"8,75","9,06","8,53","8,87",3451 00 101 AA 30108
+09,Honorarium,,1,1,1,3451 00 101 AA 30109
+302,Wages,"4,21","4,50","4,83","4,83",3451 00 101 AA 30200
+01,Wages,"4,21","4,50","4,83","4,83",3451 00 101 AA 30201
+303,Dearness Allowance,"46,94","65,50","75,88","1,22,97",3451 00 101 AA 30300
+01,Dearness Allowance,"46,94","65,50","75,88","1,22,97",3451 00 101 AA 30301
+304,Travel Expenses,"4,29","6,02","3,76","6,02",3451 00 101 AA 30400
+01,Tour Travelling Allowances,"4,29","6,00","3,26","6,00",3451 00 101 AA 30401
+02,Transfer Travelling Allowances,,2,50,2,3451 00 101 AA 30402
+305,Office Expenses,"12,85","14,42","12,97","13,77",3451 00 101 AA 30500
+01,Telephone Charges,"2,03","3,59","3,59","3,59",3451 00 101 AA 30501
+02,Other Contingencies,"10,32","10,32","8,87","9,67",3451 00 101 AA 30502
+04,Service Postage & Postal Expenditure,50,50,50,50,3451 00 101 AA 30504
+05,Furniture,,1,1,1,3451 00 101 AA 30505
+309,Grants-in-Aid,"66,41","80,00","80,00","80,00",3451 00 101 AA 30900
+03,Grants for Specific Schemes,"66,41","80,00","80,00","80,00",3451 00 101 AA 30903
+310,Contributions,,1,1,1,3451 00 101 AA 31000
+09,Others,,1,1,1,3451 00 101 AA 31009
+313,Hospitality / Entertainment Expenditure,"5,00","5,00","5,00","5,00",3451 00 101 AA 31300
+01,Hospitality / Entertainment Expenditure,"5,00","5,00","5,00","5,00",3451 00 101 AA 31301
+317,Minor Works,,1,1,1,3451 00 101 AA 31700
+01,Minor Works,,1,1,1,3451 00 101 AA 31701
+319,Machinery and Equipments,,1,1,1,3451 00 101 AA 31900
+01,Purchase,,1,1,1,3451 00 101 AA 31901
+321,Motor Vehicles,"7,45",52,52,52,3451 00 101 AA 32100
+01,Purchase,"7,42",2,2,2,3451 00 101 AA 32101
+02,Maintenance of Functional Vehicles,3,50,50,50,3451 00 101 AA 32102
+324,Materials and Supplies,,1,1,1,3451 00 101 AA 32400
+01,Materials and Supplies,,1,1,1,3451 00 101 AA 32401
+333,Payments for Professional and Special Services,"3,28","4,02","2,82","3,47",3451 00 101 AA 33300
+03,Special Service,35,98,33,48,3451 00 101 AA 33303
+04,Contract Payment,"2,93","3,03","2,48","2,98",3451 00 101 AA 33304
+09,Other Payments,,1,1,1,3451 00 101 AA 33309
+334,Other Charges,"1,17","1,26","1,26","1,26",3451 00 101 AA 33400 
+02,"Purchase  of  Books & Periodicals to Libraries etc.,","1,17","1,26","1,26","1,26",3451 00 101 AA 33402
+345,"Petroleum, Oil and Lubricant","4,97","5,37","6,15","6,15",3451 00 101 AA 34500
+01,"Petroleum, Oil and Lubricant","4,97","5,37","6,15","6,15",3451 00 101 AA 34501
+349,Festival Advances,-13,,,,3451 00 101 AA 34900
+01,Festival Advances-Debit,"2,42","2,55","8,40","8,40",3451 00 101 AA 34901
+02,Festival Advances-Credit,"-2,55","-2,55","-8,40","-8,40",3451 00 101 AA 34902
+351,Compensation Charged,,1,1,1,3451 00 101 AA 35100
+51,Claims under no fault liability -  principal charges Charged,,1,1,1,3451 00 101 AA 35151
+359,Prizes and Awards,4,2,14,2,3451 00 101 AA 35900
+01,Prizes and Awards,4,2,14,2,3451 00 101 AA 35901
+360,T.A./D.A.to Non-Official Members,,50,50,50,3451 00 101 AA 36000
+01,T.A./D.A.to Non-Official Members,,50,50,50,3451 00 101 AA 36001
+371,Printing Charges,"2,47","2,47","2,47","2,47",3451 00 101 AA 37100
+01,Printing Charges,"2,47","2,47","2,47","2,47",3451 00 101 AA 37101
+372,Training,"49,97","49,99","49,99","49,99",3451 00 101 AA 37200 
+01,Training,"49,97","49,99","49,99","49,99",3451 00 101 AA 37201
+376,Computer and Accessories,"3,89","3,92","3,92","3,92",3451 00 101 AA 37600
+01,Purchase,,2,2,2,3451 00 101 AA 37601
+02,Maintenance,"1,99","2,00","2,00","2,00",3451 00 101 AA 37602
+03,Stationery,"1,90","1,90","1,90","1,90",3451 00 101 AA 37603
+AA,Total AA Charged,,1,1,1,
+AA,Total AA Voted,"7,72,79","8,32,34","7,90,36","8,81,29",
+JI,Assistance to State Planning Commission for the preparation of State Human Development Report,,,,,3451 00 101 JI 30000
+309,Grants-in-Aid,"3,50",1,1,1,3451 00 101 JI 30900
+03,Grants for Specific Schemes,"3,50",1,1,1,3451 00 101 JI 30903
+333,Payments for Professional and Special Services,,1,1,1,3451 00 101 JI 33300
+03,Special Service,,1,1,1,3451 00 101 JI 33303
+JI,Total JI,"3,50",2,2,2,
+JJ,State Level Technical Cell for the Special Areas,,,,,3451 00 101 JJ 30000
+301,Salaries,"15,51","17,02","17,92","18,06",3451 00 101 JJ 30100
+01,Pay,"13,49","14,76","15,21","15,24",3451 00 101 JJ 30101
+02,Medical Allowance,6,8,14,14,3451 00 101 JJ 30102
+04,Other Allowances,3,2,3,3,3451 00 101 JJ 30104
+06,House Rent Allowance,"1,63","1,82","2,08","2,17",3451 00 101 JJ 30106
+08,City Compensatory Allowance,30,34,46,48,3451 00 101 JJ 30108
+303,Dearness Allowance,"6,46","1,92","8,53","3,73",3451 00 101 JJ 30300
+01,Dearness Allowance,"6,46","1,92","8,53","3,73",3451 00 101 JJ 30301
+304,Travel Expenses,65,"2,00","1,00","2,00",3451 00 101 JJ 30400
+01,Tour Travelling Allowances,65,"2,00","1,00","2,00",3451 00 101 JJ 30401
+305,Office Expenses,,"1,00","1,00",50,3451 00 101 JJ 30500
+02,Other Contingencies,,"1,00","1,00",50,3451 00 101 JJ 30502
+333,Payments for Professional and Special Services,,2,2,2,3451 00 101 JJ 33300
+03,Special Service,,1,1,1,3451 00 101 JJ 33303
+04,Contract Payment,,1,1,1,3451 00 101 JJ 33304
+349,Festival Advances,-2,,,,3451 00 101 JJ 34900
+01,Festival Advances-Debit,10,15,40,40,3451 00 101 JJ 34901
+02,Festival Advances-Credit,-12,-15,-40,-40,3451 00 101 JJ 34902
+376,Computer and Accessories,,2,2,2,3451 00 101 JJ 37600
+01,Purchase,,1,1,1,3451 00 101 JJ 37601
+02,Maintenance,,1,1,1,3451 00 101 JJ 37602
+JJ,Total JJ,"22,60","21,98","28,49","24,33",
+#,State's Expenditure Voted,"7,98,89","8,54,34","8,18,87","9,05,64",
+101,Total 101 Charged,,1,1,1,
+101,Total 101 Voted,"7,98,89","8,54,34","8,18,87","9,05,64",
+102,District Planning Machinery,,,,,
+#,State's Expenditure,,,,,
+JE,District Planning Cell,,,,,3451 00 102 JE 30000
+301,Salaries,"3,92,97","3,93,58","3,93,33","3,90,25",3451 00 102 JE 30100
+01,Pay,"3,66,31","3,64,91","3,68,18","3,64,39",3451 00 102 JE 30101
+02,Medical Allowance,"2,47","2,32","2,77","2,74",3451 00 102 JE 30102
+03,Medical Charges,,2,2,2,3451 00 102 JE 30103
+04,Other Allowances,"3,21","6,04","3,72","3,72",3451 00 102 JE 30104
+06,House Rent Allowance,"19,80","19,14","17,55","18,25",3451 00 102 JE 30106
+07,Travel Concession,3,5,5,5,3451 00 102 JE 30107
+08,City Compensatory Allowance,"1,15","1,10","1,04","1,08",3451 00 102 JE 30108
+303,Dearness Allowance,"48,23","47,43","51,21","89,28",3451 00 102 JE 30300
+01,Dearness Allowance,"48,23","47,43","51,21","89,28",3451 00 102 JE 30301
+304,Travel Expenses,"8,40","9,94","9,94","9,94",3451 00 102 JE 30400
+01,Tour Travelling Allowances,"8,32","9,74","9,74","9,74",3451 00 102 JE 30401
+02,Transfer Travelling Allowances,8,18,18,18,3451 00 102 JE 30402
+03,Fixed Travelling Allowances,,2,2,2,3451 00 102 JE 30403
+305,Office Expenses,"5,84","7,34","7,34","7,34",3451 00 102 JE 30500
+01,Telephone Charges,99,"2,01","2,01","2,01",3451 00 102 JE 30501
+02,Other Contingencies,"4,85","5,32","5,32","5,32",3451 00 102 JE 30502
+05,Furniture,,1,1,1,3451 00 102 JE 30505
+321,Motor Vehicles,86,"1,36","52,65","1,71",3451 00 102 JE 32100
+01,Purchase,,1,"50,95",1,3451 00 102 JE 32101
+02,Maintenance of Functional Vehicles,86,"1,35","1,70","1,70",3451 00 102 JE 32102
+333,Payments for Professional and Special Services,,1,1,1,3451 00 102 JE 33300
+04,Contract Payment,,1,1,1,3451 00 102 JE 33304
+345,"Petroleum, Oil and Lubricant","14,19","9,00","11,64","12,40",3451 00 102 JE 34500
+01,"Petroleum, Oil and Lubricant","14,19","9,00","11,64","12,40",3451 00 102 JE 34501
+346,"Clothing, Tentage and Stores",41,75,50,50,3451 00 102 JE 34600
+01,"Clothing, Tentage and Stores",41,75,50,50,3451 00 102 JE 34601
+349,Festival Advances,-30,,,,3451 00 102 JE 34900
+01,Festival Advances-Debit,"1,60","3,55","6,80","8,40",3451 00 102 JE 34901
+02,Festival Advances-Credit,"-1,90","-3,55","-6,80","-8,40",3451 00 102 JE 34902
+359,Prizes and Awards,,1,1,1,3451 00 102 JE 35900
+01,Prizes and Awards,,1,1,1,3451 00 102 JE 35901
+376,Computer and Accessories,,2,2,2,3451 00 102 JE 37600
+01,Purchase,,1,1,1,3451 00 102 JE 37601
+02,Maintenance,,1,1,1,3451 00 102 JE 37602
+JE,Total JE,"4,70,60","4,69,44","5,26,65","5,11,46",
+#,State's Expenditure Total,"4,70,60","4,69,44","5,26,65","5,11,46",
+102,Total 102,"4,70,60","4,69,44","5,26,65","5,11,46",
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+JA,State Balanced Growth Fund,,,,,3451 00 800 JA 30000
+399,Miscellaneous,"1,09,24","2,00,00","2,00,00","1,00,00",3451 00 800 JA 39900 
+01,Miscellaneous,"1,09,24","2,00,00","2,00,00","1,00,00",3451 00 800 JA 39901
+JA,Total JA,"1,09,24","2,00,00","2,00,00","1,00,00",
+JB,Developing a Software for data Management Cell for Sustainable Development Goal Schemes under State Innovation Fund,,,,,3451 00 800 JB 30000
+309,Grants-in-Aid,"11,50","4,80","4,80",,3451 00 800 JB 30900
+03,Grants for Specific Schemes,"11,50","4,80","4,80",,3451 00 800 JB 30903
+JB,Total JB,"11,50","4,80","4,80",,
+#,State's Expenditure Total,"1,20,74","2,04,80","2,04,80","1,00,00",
+800,Total 800,"1,20,74","2,04,80","2,04,80","1,00,00",
+902,Deduct - Amount met from State Innovation Fund,,,,,
+#,State's Expenditure,,,,,
+AA,Deduct - Amount met from State Innovation Fund,,,,,3451 00 902 AA 30000
+330,Inter-Account Transfers,"-11,50","-4,80","-4,80",,3451 00 902 AA 33000
+01,Inter-Account Transfers,"-11,50","-4,80","-4,80",,3451 00 902 AA 33001
+AA,Total AA,"-11,50","-4,80","-4,80",,
+#,State's Expenditure Total,"-11,50","-4,80","-4,80",,
+902,Total 902,"-11,50","-4,80","-4,80",,
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+AA,Tamil Nadu Planning Commission,,,,,3451 00 911 AA 30000
+377,Deduct-Recoveries,-31,,,,3451 00 911 AA 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-31,,,,3451 00 911 AA 37702
+AA,Total AA,-31,,,,
+#,State's Expenditure Total,-31,,,,
+911,Total 911,-31,,,,
+00,Total 00 Charged,,1,1,1,
+00,Total 00 Voted,"13,78,42","15,23,78","15,45,52","15,17,10",
+3451,Total 3451 Charged,,1,1,1,
+3451,Total 3451 Voted,"13,78,42","15,23,78","15,45,52","15,17,10",
+3475-00,OTHER GENERAL ECONOMIC SERVICES,,,,,
+797,Transfer to Reserve Funds / Deposit Accounts,,,,,
+#,State's Expenditure,,,,,
+JA,Amount Transferred to State Innovation Fund,,,,,3475 00 797 JA 30000
+330,Inter-Account Transfers,"1,00,00,00","1,00,00,00","1,00,00,00","1,00,00,00",3475 00 797 JA 33000
+01,Inter-Account Transfers,"1,00,00,00","1,00,00,00","1,00,00,00","1,00,00,00",3475 00 797 JA 33001
+JA,Total JA,"1,00,00,00","1,00,00,00","1,00,00,00","1,00,00,00",
+#,State's Expenditure Total,"1,00,00,00","1,00,00,00","1,00,00,00","1,00,00,00",
+797,Total 797,"1,00,00,00","1,00,00,00","1,00,00,00","1,00,00,00",
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+AI,Grants to Madras Institute of Development Studies,,,,,3475 00 800 AI 30000
+309,Grants-in-Aid,"4,33,75","1,93,01","2,63,01","2,63,01",3475 00 800 AI 30900
+01,Grants for Current Expenditure,"4,33,75","1,93,00","2,63,00","2,63,00",3475 00 800 AI 30901
+03,Grants for Specific Schemes,,1,1,1,3475 00 800 AI 30903
+AI,Total AI,"4,33,75","1,93,01","2,63,01","2,63,01",
+JI,"Awarness Building, Capacity Building, Evaluation, Documentation and Awards for Innovation",,,,,3475 00 800 JI 30000
+305,Office Expenses,,1,1,1,3475 00 800 JI 30500
+02,Other Contingencies,,1,1,1,3475 00 800 JI 30502
+308,Advertising and Publicity,,1,1,1,3475 00 800 JI 30800
+01,Advertisement Charges,,1,1,1,3475 00 800 JI 30801
+333,Payments for Professional and Special Services,,1,1,1,3475 00 800 JI 33300
+01,Pleaders Fees,,1,1,1,3475 00 800 JI 33301
+334,Other Charges,,1,1,1,3475 00 800 JI 33400
+01,Other Items,,1,1,1,3475 00 800 JI 33401
+342,Service or Commitment Charges,"97,58","4,99,94","4,99,94","4,99,94",3475 00 800 JI 34200
+01,Service or Commitment Charges,"97,58","4,99,94","4,99,94","4,99,94",3475 00 800 JI 34201
+359,Prizes and Awards,,1,1,1,3475 00 800 JI 35900
+01,Prizes and Awards,,1,1,1,3475 00 800 JI 35901
+372,Training,,1,1,1,3475 00 800 JI 37200
+01,Training,,1,1,1,3475 00 800 JI 37201
+JI,Total JI,"97,58","5,00,00","5,00,00","5,00,00",
+#,State's Expenditure Total,"5,31,33","6,93,01","7,63,01","7,63,01",
+800,Total 800,"5,31,33","6,93,01","7,63,01","7,63,01",
+902,Deduct - Amount met from State Innovation Fund,,,,,
+#,State's Expenditure,,,,,
+JA,Deduct - Amount met from State Innovation Fund,,,,,3475 00 902 JA 30000
+330,Inter-Account Transfers,"-4,85,98","-5,00,00","-5,00,00","-5,00,00",3475 00 902 JA 33000
+01,Inter-Account Transfers,"-4,85,98","-5,00,00","-5,00,00","-5,00,00",3475 00 902 JA 33001
+JA,Total JA,"-4,85,98","-5,00,00","-5,00,00","-5,00,00",
+#,State's Expenditure Total,"-4,85,98","-5,00,00","-5,00,00","-5,00,00",
+902,Total 902,"-4,85,98","-5,00,00","-5,00,00","-5,00,00",
+00,Total 00,"1,00,45,35","1,01,93,01","1,02,63,01","1,02,63,01",
+3475,Total 3475,"1,00,45,35","1,01,93,01","1,02,63,01","1,02,63,01",
+5475-00,CAPITAL OUTLAY ON OTHER GENERAL ECONOMIC SERVICES,,,,,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+JA,State Balanced Growth Fund,,,,,5475 00 800 JA 40000
+477,Deduct-Recoveries,"-8,66,27",,"-47,07",,5475 00 800 JA 47700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-8,66,27",,"-47,07",,5475 00 800 JA 47702
+499,Miscellaneous,"58,00,00","98,00,00","98,00,00","49,00,00",5475 00 800 JA 49900 
+01,Miscellaneous,"58,00,00","98,00,00","98,00,00","49,00,00",5475 00 800 JA 49901
+JA,Total JA,"49,33,73","98,00,00","97,52,93","49,00,00",
+#,State's Expenditure Total,"49,33,73","98,00,00","97,52,93","49,00,00",
+800,Total 800,"49,33,73","98,00,00","97,52,93","49,00,00",
+00,Total 00,"49,33,73","98,00,00","97,52,93","49,00,00",
+5475,Total 5475,"49,33,73","98,00,00","97,52,93","49,00,00",

@@ -1,0 +1,685 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2059,PUBLIC WORKS,,,,,
+01,Office Buildings,,,,,
+053,Maintenance and Repairs,,,,,
+#,State's Expenditure,,,,,
+DQ,Buildings - Commissionerate of Economics and Statistics (Administered by Chief Engineer (Buildings)),,,,,2059 01 053 DQ 30000
+318,Maintenance,"11,52","12,00","12,00","12,60",2059 01 053 DQ 31800 
+01,Periodical Maintenance,"11,52","12,00","12,00","12,60",2059 01 053 DQ 31801
+DQ,Total DQ,"11,52","12,00","12,00","12,60",
+#,State's Expenditure Total,"11,52","12,00","12,00","12,60",
+053,Total 053,"11,52","12,00","12,00","12,60",
+01,Total 01,"11,52","12,00","12,00","12,60",
+2059,Total 2059,"11,52","12,00","12,00","12,60",
+2401-00,CROP HUSBANDRY,,,,,
+110,Crop Insurance,,,,,
+#,State's Expenditure,,,,,
+JL,Crop Insurance Division under Pradhan Manthri Fasal Bima Yojana Schemes,,,,,2401 00 110 JL 30000
+301,Salaries,"25,20","42,86","25,78","31,65",2401 00 110 JL 30100
+01,Pay,"22,70","38,51","22,44","27,96",2401 00 110 JL 30101
+02,Medical Allowance,6,1,8,8,2401 00 110 JL 30102
+03,Medical Charges,15,44,20,44,2401 00 110 JL 30103
+04,Other Allowances,11,12,12,12,2401 00 110 JL 30104
+06,House Rent Allowance,"1,87","3,11","2,56","2,66",2401 00 110 JL 30106
+07,Travel Concession,,10,10,10,2401 00 110 JL 30107
+08,City Compensatory Allowance,31,57,28,29,2401 00 110 JL 30108
+303,Dearness Allowance,"2,02","5,01","3,59","6,85",2401 00 110 JL 30300
+01,Dearness Allowance,"2,02","5,01","3,59","6,85",2401 00 110 JL 30301
+304,Travel Expenses,40,80,80,"1,00",2401 00 110 JL 30400
+01,Tour Travelling Allowances,40,80,80,"1,00",2401 00 110 JL 30401
+305,Office Expenses,,"4,06","5,57","5,57",2401 00 110 JL 30500
+01,Telephone Charges,,"4,06","5,57","5,57",2401 00 110 JL 30501
+319,Machinery and Equipments,,1,1,1,2401 00 110 JL 31900
+01,Purchase,,1,1,1,2401 00 110 JL 31901
+333,Payments for Professional and Special Services,"2,48,71","1,98,75","1,98,75",1,2401 00 110 JL 33300
+04,Contract Payment,"2,48,71","1,98,75","1,98,75",1,2401 00 110 JL 33304
+349,Festival Advances,-3,,,,2401 00 110 JL 34900
+01,Festival Advances-Debit,5,30,30,30,2401 00 110 JL 34901
+02,Festival Advances-Credit,-8,-30,-30,-30,2401 00 110 JL 34902
+376,Computer and Accessories,,1,1,1,2401 00 110 JL 37600
+01,Purchase,,1,1,1,2401 00 110 JL 37601
+JL,Total JL,"2,76,30","2,51,50","2,34,51","45,10",
+#,State's Expenditure Total,"2,76,30","2,51,50","2,34,51","45,10",
+110,Total 110,"2,76,30","2,51,50","2,34,51","45,10",
+111,Agricultural Economics and Statistics,,,,,
+#,State's Expenditure,,,,,
+AA,Scheme for Strengthening of Agricultural Statistics,,,,,2401 00 111 AA 30000
+301,Salaries,"17,35","17,84","12,32","16,81",2401 00 111 AA 30100
+01,Pay,"15,90","16,32","10,81","15,25",2401 00 111 AA 30101
+02,Medical Allowance,2,1,1,1,2401 00 111 AA 30102
+03,Medical Charges,19,22,22,22,2401 00 111 AA 30103
+04,Other Allowances,10,12,12,12,2401 00 111 AA 30104
+06,House Rent Allowance,"1,00","1,01","1,00","1,04",2401 00 111 AA 30106
+07,Travel Concession,,1,1,1,2401 00 111 AA 30107
+08,City Compensatory Allowance,14,15,15,16,2401 00 111 AA 30108
+303,Dearness Allowance,"1,38","2,12","1,73","3,74",2401 00 111 AA 30300
+01,Dearness Allowance,"1,38","2,12","1,73","3,74",2401 00 111 AA 30301
+304,Travel Expenses,3,90,90,90,2401 00 111 AA 30400
+01,Tour Travelling Allowances,3,90,90,90,2401 00 111 AA 30401
+305,Office Expenses,33,33,33,33,2401 00 111 AA 30500
+02,Other Contingencies,25,25,25,25,2401 00 111 AA 30502
+04,Service Postage & Postal Expenditure,8,8,8,8,2401 00 111 AA 30504
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,5,10,10,2401 00 111 AA 34901
+02,Festival Advances-Credit,,-5,-10,-10,2401 00 111 AA 34902
+359,Prizes and Awards,,2,2,2,2401 00 111 AA 35900
+01,Prizes and Awards,,2,2,2,2401 00 111 AA 35901
+AA,Total AA,"19,09","21,21","15,30","21,80",
+#,State's Expenditure Total,"19,09","21,21","15,30","21,80",
+#,Central Sector Schemes,,,,,
+SA,Agricultural Census,,,,,2401 00 111 SA 30000
+301,Salaries,"1,52,46","67,50","69,28","58,50",2401 00 111 SA 30100
+01,Pay,"59,00","59,93","48,48","50,42",2401 00 111 SA 30101
+02,Medical Allowance,20,23,26,26,2401 00 111 SA 30102
+03,Medical Charges,29,36,36,36,2401 00 111 SA 30103
+04,Other Allowances,31,18,31,31,2401 00 111 SA 30104
+06,House Rent Allowance,"6,00","5,78","5,96","6,20",2401 00 111 SA 30106
+07,Travel Concession,,1,5,1,2401 00 111 SA 30107
+08,City Compensatory Allowance,96,"1,00",93,93,2401 00 111 SA 30108
+09,Honorarium,"85,70",1,"12,93",1,2401 00 111 SA 30109
+303,Dearness Allowance,"5,02","7,79","7,76","12,35",2401 00 111 SA 30300
+01,Dearness Allowance,"5,02","7,79","7,76","12,35",2401 00 111 SA 30301
+304,Travel Expenses,59,"1,42","1,42","1,42",2401 00 111 SA 30400
+01,Tour Travelling Allowances,59,"1,40","1,40","1,40",2401 00 111 SA 30401
+02,Transfer Travelling Allowances,,2,2,2,2401 00 111 SA 30402
+305,Office Expenses,"7,39",76,"1,73",76,2401 00 111 SA 30500
+01,Telephone Charges,5,35,35,35,2401 00 111 SA 30501
+02,Other Contingencies,"7,24",40,"1,37",40,2401 00 111 SA 30502
+04,Service Postage & Postal Expenditure,10,1,1,1,2401 00 111 SA 30504
+333,Payments for Professional and Special Services,,2,2,2,2401 00 111 SA 33300
+01,Pleaders Fees,,1,1,1,2401 00 111 SA 33301
+02,Remuneration,,1,1,1,2401 00 111 SA 33302
+349,Festival Advances,3,,,,2401 00 111 SA 34900
+01,Festival Advances-Debit,25,35,90,90,2401 00 111 SA 34901
+02,Festival Advances-Credit,-22,-35,-90,-90,2401 00 111 SA 34902
+359,Prizes and Awards,2,2,2,2,2401 00 111 SA 35900
+01,Prizes and Awards,2,2,2,2,2401 00 111 SA 35901
+371,Printing Charges,"2,53",1,1,1,2401 00 111 SA 37100
+01,Printing Charges,"2,53",1,1,1,2401 00 111 SA 37101
+372,Training,"1,96",1,"1,73",1,2401 00 111 SA 37200
+01,Training,"1,96",1,"1,73",1,2401 00 111 SA 37201
+376,Computer and Accessories,25,25,25,25,2401 00 111 SA 37600
+03,Stationery,25,25,25,25,2401 00 111 SA 37603
+SA,Total SA,"1,70,25","77,78","82,22","73,34",
+SG,Schemes for Improvement of crop statistics,,,,,2401 00 111 SG 30000
+301,Salaries,"63,35","82,32","73,54","76,38",2401 00 111 SG 30100
+01,Pay,"55,91","74,03","65,04","67,64",2401 00 111 SG 30101
+02,Medical Allowance,40,57,46,46,2401 00 111 SG 30102
+03,Medical Charges,46,20,20,20,2401 00 111 SG 30103
+04,Other Allowances,62,60,"1,02","1,02",2401 00 111 SG 30104
+06,House Rent Allowance,"5,19","6,27","5,93","6,17",2401 00 111 SG 30106
+07,Travel Concession,,7,7,7,2401 00 111 SG 30107
+08,City Compensatory Allowance,77,58,82,82,2401 00 111 SG 30108
+303,Dearness Allowance,"6,57","9,63","10,40","16,57",2401 00 111 SG 30300
+01,Dearness Allowance,"6,57","9,63","10,40","16,57",2401 00 111 SG 30301
+304,Travel Expenses,67,"3,52","1,02","3,01",2401 00 111 SG 30400
+01,Tour Travelling Allowances,67,"3,50","1,01","3,00",2401 00 111 SG 30401
+02,Transfer Travelling Allowances,,2,1,1,2401 00 111 SG 30402
+305,Office Expenses,85,85,85,85,2401 00 111 SG 30500
+02,Other Contingencies,40,40,40,40,2401 00 111 SG 30502
+04,Service Postage & Postal Expenditure,45,45,45,45,2401 00 111 SG 30504
+349,Festival Advances,-18,,,,2401 00 111 SG 34900
+01,Festival Advances-Debit,15,95,"1,40","1,40",2401 00 111 SG 34901
+02,Festival Advances-Credit,-33,-95,"-1,40","-1,40",2401 00 111 SG 34902
+359,Prizes and Awards,,2,2,2,2401 00 111 SG 35900
+01,Prizes and Awards,,2,2,2,2401 00 111 SG 35901
+372,Training,36,36,36,36,2401 00 111 SG 37200
+01,Training,36,36,36,36,2401 00 111 SG 37201
+376,Computer and Accessories,20,20,20,20,2401 00 111 SG 37600
+03,Stationery,20,20,20,20,2401 00 111 SG 37603
+SG,Total SG,"71,82","96,90","86,39","97,39",
+#,Central Sector Schemes Total,"2,42,07","1,74,68","1,68,61","1,70,73",
+111,Total 111,"2,61,16","1,95,89","1,83,91","1,92,53",
+00,Total 00,"5,37,46","4,47,39","4,18,42","2,37,63",
+2401,Total 2401,"5,37,46","4,47,39","4,18,42","2,37,63",
+3454,CENSUS SURVEYS AND STATISTICS,,,,,
+02,Surveys and Statistics,,,,,
+110,Gazette and Statistical Memoirs,,,,,
+#,State's Expenditure,,,,,
+AA,Director of Statistics - Headquarters Establishment,,,,,3454 02 110 AA 30000
+301,Salaries,"3,25,60","3,54,92","3,56,73","3,75,27",3454 02 110 AA 30100
+01,Pay,"2,82,88","3,09,68","3,09,68","3,26,88",3454 02 110 AA 30101
+02,Medical Allowance,"1,56","1,24","1,85","1,85",3454 02 110 AA 30102
+03,Medical Charges,"1,87","2,26","2,26","2,26",3454 02 110 AA 30103
+04,Other Allowances,"4,08","3,92","3,80","3,80",3454 02 110 AA 30104
+06,House Rent Allowance,"30,54","32,63","33,84","35,19",3454 02 110 AA 30106
+07,Travel Concession,9,11,50,30,3454 02 110 AA 30107
+08,City Compensatory Allowance,"4,58","5,08","4,80","4,99",3454 02 110 AA 30108
+302,Wages,,1,1,1,3454 02 110 AA 30200
+01,Wages,,1,1,1,3454 02 110 AA 30201
+303,Dearness Allowance,"28,13","40,26","49,55","80,09",3454 02 110 AA 30300
+01,Dearness Allowance,"28,13","40,26","49,55","80,09",3454 02 110 AA 30301
+304,Travel Expenses,"2,09","3,70","3,85","3,70",3454 02 110 AA 30400
+01,Tour Travelling Allowances,"2,09","3,60","3,75","3,60",3454 02 110 AA 30401
+02,Transfer Travelling Allowances,,10,10,10,3454 02 110 AA 30402
+305,Office Expenses,"19,45","22,22","20,07","20,07",3454 02 110 AA 30500
+01,Telephone Charges,41,95,"1,30","1,30",3454 02 110 AA 30501
+02,Other Contingencies,"4,50","3,50","3,50","3,50",3454 02 110 AA 30502
+03,Electricity Charges,"13,78","17,00","14,50","14,50",3454 02 110 AA 30503
+04,Service Postage & Postal Expenditure,76,76,76,76,3454 02 110 AA 30504
+05,Furniture,,1,1,1,3454 02 110 AA 30505
+306,"Rent, Rates and Taxes",,4,4,4,3454 02 110 AA 30600
+01,Rent,,1,1,1,3454 02 110 AA 30601
+02,Property tax,,1,1,1,3454 02 110 AA 30602
+03,Water Charges,,2,2,2,3454 02 110 AA 30603
+308,Advertising and Publicity,,1,1,1,3454 02 110 AA 30800
+01,Advertisement Charges,,1,1,1,3454 02 110 AA 30801
+313,Hospitality / Entertainment Expenditure,"2,20","2,20","2,20","2,20",3454 02 110 AA 31300
+01,Hospitality / Entertainment Expenditure,"2,20","2,20","2,20","2,20",3454 02 110 AA 31301
+318,Maintenance,,1,1,1,3454 02 110 AA 31800
+02,Special Maintenance,,1,1,1,3454 02 110 AA 31802
+319,Machinery and Equipments,,1,1,1,3454 02 110 AA 31900
+01,Purchase,,1,1,1,3454 02 110 AA 31901
+321,Motor Vehicles,"1,10",36,36,36,3454 02 110 AA 32100
+01,Purchase,,1,1,1,3454 02 110 AA 32101
+02,Maintenance of Functional Vehicles,"1,10",35,35,35,3454 02 110 AA 32102
+333,Payments for Professional and Special Services,"2,22","1,77","4,41","4,61",3454 02 110 AA 33300
+01,Pleaders Fees,,30,30,50,3454 02 110 AA 33301
+04,Contract Payment,"2,22","1,47","4,11","4,11",3454 02 110 AA 33304
+345,"Petroleum, Oil and Lubricant","3,93","4,54","4,54","4,54",3454 02 110 AA 34500
+01,"Petroleum, Oil and Lubricant","3,93","4,54","4,54","4,54",3454 02 110 AA 34501
+349,Festival Advances,-30,,,,3454 02 110 AA 34900
+01,Festival Advances-Debit,"1,20","3,15","5,50","5,50",3454 02 110 AA 34901
+02,Festival Advances-Credit,"-1,50","-3,15","-5,50","-5,50",3454 02 110 AA 34902
+351,Compensation Charged,,1,1,1,3454 02 110 AA 35100
+51,Claims under no fault liability -  principal charges Charged,,1,1,1,3454 02 110 AA 35151
+359,Prizes and Awards,2,4,6,4,3454 02 110 AA 35900
+01,Prizes and Awards,2,4,6,4,3454 02 110 AA 35901
+368,"Cost of Books/Note Books/Slates, etc.","3,37","7,10","7,10","2,00",3454 02 110 AA 36800
+01,"Cost of Books/Note Books/Slates, etc.","3,37","7,10","7,10","2,00",3454 02 110 AA 36801
+371,Printing Charges,,1,1,1,3454 02 110 AA 37100
+01,Printing Charges,,1,1,1,3454 02 110 AA 37101
+372,Training,,1,1,1,3454 02 110 AA 37200
+01,Training,,1,1,1,3454 02 110 AA 37201
+AA,Total AA Charged,,1,1,1,
+AA,Total AA Voted,"3,87,81","4,37,21","4,48,97","4,92,98",
+AE,Integrated Scheme for Development of Statistics,,,,,3454 02 110 AE 30000
+301,Salaries,"18,90,86","18,89,00","17,50,39","18,11,71",3454 02 110 AE 30100
+01,Pay,"17,49,66","17,47,85","16,20,48","16,77,55",3454 02 110 AE 30101
+02,Medical Allowance,"10,28","9,82","9,94","9,94",3454 02 110 AE 30102
+03,Medical Charges,98,"2,68","2,47","2,68",3454 02 110 AE 30103
+04,Other Allowances,"13,08","12,57","11,86","11,86",3454 02 110 AE 30104
+06,House Rent Allowance,"1,06,31","1,04,88","96,08","99,92",3454 02 110 AE 30106
+07,Travel Concession,43,42,58,42,3454 02 110 AE 30107
+08,City Compensatory Allowance,"10,12","10,78","8,98","9,34",3454 02 110 AE 30108
+302,Wages,"1,15,74","1,25,14","1,25,14","1,25,14",3454 02 110 AE 30200
+01,Wages,"1,15,74","1,25,14","1,25,14","1,25,14",3454 02 110 AE 30201
+303,Dearness Allowance,"2,04,72","2,27,22","2,59,28","4,11,00",3454 02 110 AE 30300
+01,Dearness Allowance,"2,04,72","2,27,22","2,59,28","4,11,00",3454 02 110 AE 30301
+304,Travel Expenses,"30,02","33,72","27,12","33,44",3454 02 110 AE 30400
+01,Tour Travelling Allowances,"29,76","33,00","26,68","33,00",3454 02 110 AE 30401
+02,Transfer Travelling Allowances,26,60,40,40,3454 02 110 AE 30402
+03,Fixed Travelling Allowances,,12,4,4,3454 02 110 AE 30403
+305,Office Expenses,"60,74","34,53","58,31","34,40",3454 02 110 AE 30500
+01,Telephone Charges,"31,14","8,34","29,79","7,01",3454 02 110 AE 30501
+02,Other Contingencies,"13,73","9,13","9,13","9,13",3454 02 110 AE 30502
+03,Electricity Charges,"13,82","15,00","16,20","16,20",3454 02 110 AE 30503
+04,Service Postage & Postal Expenditure,"2,05","2,05","3,18","2,05",3454 02 110 AE 30504
+05,Furniture,,1,1,1,3454 02 110 AE 30505
+306,"Rent, Rates and Taxes",7,16,"4,40","1,99",3454 02 110 AE 30600
+01,Rent,,1,1,1,3454 02 110 AE 30601
+02,Property tax,7,10,"4,34","1,93",3454 02 110 AE 30602
+03,Water Charges,,5,5,5,3454 02 110 AE 30603
+319,Machinery and Equipments,,1,1,1,3454 02 110 AE 31900
+01,Purchase,,1,1,1,3454 02 110 AE 31901
+321,Motor Vehicles,"2,60","2,94","2,94","2,44",3454 02 110 AE 32100
+02,Maintenance of Functional Vehicles,"2,60","2,94","2,94","2,44",3454 02 110 AE 32102
+333,Payments for Professional and Special Services,"2,20,13","2,34,37","2,33,06","2,39,08",3454 02 110 AE 33300
+01,Pleaders Fees,,1,1,1,3454 02 110 AE 33301
+02,Remuneration,"1,29,96","1,40,23","1,40,23","1,40,23",3454 02 110 AE 33302
+04,Contract Payment,"90,17","94,13","92,82","98,84",3454 02 110 AE 33304
+345,"Petroleum, Oil and Lubricant","27,00","28,91","28,91","28,91",3454 02 110 AE 34500
+01,"Petroleum, Oil and Lubricant","27,00","28,91","28,91","28,91",3454 02 110 AE 34501
+349,Festival Advances,-21,,,,3454 02 110 AE 34900
+01,Festival Advances-Debit,"9,70","16,65","29,60","29,60",3454 02 110 AE 34901
+02,Festival Advances-Credit,"-9,91","-16,65","-29,60","-29,60",3454 02 110 AE 34902
+359,Prizes and Awards,4,16,22,16,3454 02 110 AE 35900
+01,Prizes and Awards,4,16,22,16,3454 02 110 AE 35901
+372,Training,"14,11","1,61","15,56","15,56",3454 02 110 AE 37200 
+01,Training,"14,11","1,61","15,56","15,56",3454 02 110 AE 37201
+376,Computer and Accessories,"2,10","2,12","2,12","2,12",3454 02 110 AE 37600
+01,Purchase,,1,1,1,3454 02 110 AE 37601
+02,Maintenance,,1,1,1,3454 02 110 AE 37602
+03,Stationery,"2,10","2,10","2,10","2,10",3454 02 110 AE 37603
+AE,Total AE,"25,67,92","25,79,89","25,07,46","27,05,96",
+AG,Integrated Scheme for improvement of Market Intelligence,,,,,3454 02 110 AG 30000
+301,Salaries,"3,27,68","3,18,80","3,25,74","3,26,60",3454 02 110 AG 30100
+01,Pay,"3,00,60","2,93,30","2,94,29","2,94,24",3454 02 110 AG 30101
+02,Medical Allowance,"3,52","3,24","3,48","3,48",3454 02 110 AG 30102
+03,Medical Charges,19,38,20,38,3454 02 110 AG 30103
+04,Other Allowances,"6,16","6,30","8,27","8,27",3454 02 110 AG 30104
+06,House Rent Allowance,"16,01","14,47","18,24","18,97",3454 02 110 AG 30106
+07,Travel Concession,,1,6,1,3454 02 110 AG 30107
+08,City Compensatory Allowance,"1,20","1,10","1,20","1,25",3454 02 110 AG 30108
+303,Dearness Allowance,"26,20","38,13","47,09","72,09",3454 02 110 AG 30300
+01,Dearness Allowance,"26,20","38,13","47,09","72,09",3454 02 110 AG 30301
+304,Travel Expenses,"13,02","19,22","16,62","19,22",3454 02 110 AG 30400 
+01,Tour Travelling Allowances,"13,02","19,20","16,60","19,20",3454 02 110 AG 30401
+02,Transfer Travelling Allowances,,2,2,2,3454 02 110 AG 30402
+305,Office Expenses,"1,12","1,15","1,15","1,15",3454 02 110 AG 30500 
+02,Other Contingencies,57,60,60,60,3454 02 110 AG 30502
+04,Service Postage & Postal Expenditure,55,55,55,55,3454 02 110 AG 30504
+349,Festival Advances,-54,,,,3454 02 110 AG 34900
+01,Festival Advances-Debit,"2,90","4,95","9,60","9,60",3454 02 110 AG 34901
+02,Festival Advances-Credit,"-3,44","-4,95","-9,60","-9,60",3454 02 110 AG 34902
+359,Prizes and Awards,,2,,2,3454 02 110 AG 35900
+01,Prizes and Awards,,2,,2,3454 02 110 AG 35901
+AG,Total AG,"3,67,48","3,77,32","3,90,60","4,19,08",
+AJ,Strengthening of State Statistical Bureau for overall planning needs,,,,,3454 02 110 AJ 30000
+301,Salaries,"8,21,05","8,15,30","8,59,15","8,61,03",3454 02 110 AJ 30100
+01,Pay,"7,69,68","7,66,67","8,06,03","8,06,03",3454 02 110 AJ 30101
+02,Medical Allowance,"3,50","3,31","3,24","3,24",3454 02 110 AJ 30102
+03,Medical Charges,53,84,55,84,3454 02 110 AJ 30103
+04,Other Allowances,"4,01","2,97","5,60","5,60",3454 02 110 AJ 30104
+06,House Rent Allowance,"40,86","39,00","41,31","42,96",3454 02 110 AJ 30106
+07,Travel Concession,11,11,16,1,3454 02 110 AJ 30107
+08,City Compensatory Allowance,"2,36","2,40","2,26","2,35",3454 02 110 AJ 30108
+302,Wages,,1,1,1,3454 02 110 AJ 30200
+01,Wages,,1,1,1,3454 02 110 AJ 30201
+303,Dearness Allowance,"78,16","99,67","1,28,96","1,97,48",3454 02 110 AJ 30300
+01,Dearness Allowance,"78,16","99,67","1,28,96","1,97,48",3454 02 110 AJ 30301
+304,Travel Expenses,"35,48","42,16","37,65","42,16",3454 02 110 AJ 30400
+01,Tour Travelling Allowances,"35,36","42,00","37,49","42,00",3454 02 110 AJ 30401
+02,Transfer Travelling Allowances,12,16,16,16,3454 02 110 AJ 30402
+305,Office Expenses,"5,87","5,87","7,28","7,28",3454 02 110 AJ 30500
+02,Other Contingencies,"2,86","2,87","2,87","2,87",3454 02 110 AJ 30502
+03,Electricity Charges,"2,51","2,50","3,80","3,80",3454 02 110 AJ 30503
+04,Service Postage & Postal Expenditure,50,50,61,61,3454 02 110 AJ 30504
+306,"Rent, Rates and Taxes","4,69","5,02","6,32","5,31",3454 02 110 AJ 30600
+01,Rent,"4,69","5,00","5,00","5,00",3454 02 110 AJ 30601
+02,Property tax,,1,"1,31",30,3454 02 110 AJ 30602
+03,Water Charges,,1,1,1,3454 02 110 AJ 30603
+349,Festival Advances,-20,,,,3454 02 110 AJ 34900
+01,Festival Advances-Debit,"2,50","5,55","10,10","10,10",3454 02 110 AJ 34901
+02,Festival Advances-Credit,"-2,70","-5,55","-10,10","-10,10",3454 02 110 AJ 34902
+359,Prizes and Awards,6,4,4,4,3454 02 110 AJ 35900
+01,Prizes and Awards,6,4,4,4,3454 02 110 AJ 35901
+AJ,Total AJ,"9,45,11","9,68,07","10,39,41","11,13,31",
+AM,Sample Survey in collaboration with National Sample Survey,,,,,3454 02 110 AM 30000
+301,Salaries,"2,61,52","2,67,63","2,39,69","2,49,71",3454 02 110 AM 30100
+01,Pay,"2,36,63","2,42,56","2,16,63","2,25,59",3454 02 110 AM 30101
+02,Medical Allowance,"2,20","2,23","2,07","2,07",3454 02 110 AM 30102
+03,Medical Charges,51,84,50,84,3454 02 110 AM 30103
+04,Other Allowances,"2,63","2,14","2,52","2,52",3454 02 110 AM 30104
+06,House Rent Allowance,"17,41","17,43","15,96","16,60",3454 02 110 AM 30106
+07,Travel Concession,,11,11,11,3454 02 110 AM 30107
+08,City Compensatory Allowance,"2,14","2,32","1,90","1,98",3454 02 110 AM 30108
+303,Dearness Allowance,"20,65","31,53","34,66","55,27",3454 02 110 AM 30300
+01,Dearness Allowance,"20,65","31,53","34,66","55,27",3454 02 110 AM 30301
+304,Travel Expenses,"9,13","13,08","9,96","13,08",3454 02 110 AM 30400 
+01,Tour Travelling Allowances,"9,11","13,00","9,88","13,00",3454 02 110 AM 30401
+02,Transfer Travelling Allowances,,2,2,2,3454 02 110 AM 30402
+03,Fixed Travelling Allowances,2,6,6,6,3454 02 110 AM 30403
+305,Office Expenses,"1,49",83,83,83,3454 02 110 AM 30500
+02,Other Contingencies,"1,41",75,75,75,3454 02 110 AM 30502
+04,Service Postage & Postal Expenditure,8,8,8,8,3454 02 110 AM 30504
+349,Festival Advances,-8,,,,3454 02 110 AM 34900
+01,Festival Advances-Debit,"2,30","3,65","6,10","6,10",3454 02 110 AM 34901
+02,Festival Advances-Credit,"-2,38","-3,65","-6,10","-6,10",3454 02 110 AM 34902
+359,Prizes and Awards,,4,6,4,3454 02 110 AM 35900
+01,Prizes and Awards,,4,6,4,3454 02 110 AM 35901
+372,Training,"4,74","4,80","4,80","4,80",3454 02 110 AM 37200 
+01,Training,"4,74","4,80","4,80","4,80",3454 02 110 AM 37201
+376,Computer and Accessories,,1,1,1,3454 02 110 AM 37600
+01,Purchase,,1,1,1,3454 02 110 AM 37601
+AM,Total AM,"2,97,45","3,17,92","2,90,01","3,23,74",
+AZ,Income Estimate,,,,,3454 02 110 AZ 30000
+301,Salaries,"9,60","11,58","13,17","12,12",3454 02 110 AZ 30100
+01,Pay,"8,28","9,96","11,40","10,19",3454 02 110 AZ 30101
+02,Medical Allowance,4,4,8,8,3454 02 110 AZ 30102
+03,Medical Charges,9,20,10,20,3454 02 110 AZ 30103
+04,Other Allowances,,1,3,3,3454 02 110 AZ 30104
+06,House Rent Allowance,"1,03","1,16","1,35","1,40",3454 02 110 AZ 30106
+07,Travel Concession,,1,1,1,3454 02 110 AZ 30107
+08,City Compensatory Allowance,16,20,20,21,3454 02 110 AZ 30108
+303,Dearness Allowance,72,"1,29","1,82","2,50",3454 02 110 AZ 30300
+01,Dearness Allowance,72,"1,29","1,82","2,50",3454 02 110 AZ 30301
+304,Travel Expenses,10,20,20,20,3454 02 110 AZ 30400
+01,Tour Travelling Allowances,10,18,18,18,3454 02 110 AZ 30401
+02,Transfer Travelling Allowances,,2,2,2,3454 02 110 AZ 30402
+305,Office Expenses,28,28,28,28,3454 02 110 AZ 30500
+02,Other Contingencies,20,20,20,20,3454 02 110 AZ 30502
+04,Service Postage & Postal Expenditure,8,8,8,8,3454 02 110 AZ 30504
+349,Festival Advances,-2,,,,3454 02 110 AZ 34900
+01,Festival Advances-Debit,,10,20,20,3454 02 110 AZ 34901
+02,Festival Advances-Credit,-2,-10,-20,-20,3454 02 110 AZ 34902
+359,Prizes and Awards,,2,2,2,3454 02 110 AZ 35900
+01,Prizes and Awards,,2,2,2,3454 02 110 AZ 35901
+AZ,Total AZ,"10,68","13,37","15,49","15,12",
+BH,Scheme for Strengthening of State Income Division,,,,,3454 02 110 BH 30000
+301,Salaries,"34,29","40,49","34,13","39,17",3454 02 110 BH 30100
+01,Pay,"29,89","34,92","29,69","34,21",3454 02 110 BH 30101
+02,Medical Allowance,18,12,15,15,3454 02 110 BH 30102
+03,Medical Charges,5,42,5,42,3454 02 110 BH 30103
+04,Other Allowances,8,39,39,39,3454 02 110 BH 30104
+06,House Rent Allowance,"3,49","3,92","3,24","3,37",3454 02 110 BH 30106
+07,Travel Concession,,5,5,5,3454 02 110 BH 30107
+08,City Compensatory Allowance,60,67,56,58,3454 02 110 BH 30108
+303,Dearness Allowance,"5,76","4,54","4,75","8,38",3454 02 110 BH 30300
+01,Dearness Allowance,"5,76","4,54","4,75","8,38",3454 02 110 BH 30301
+304,Travel Expenses,7,22,22,22,3454 02 110 BH 30400
+01,Tour Travelling Allowances,7,20,20,20,3454 02 110 BH 30401
+02,Transfer Travelling Allowances,,2,2,2,3454 02 110 BH 30402
+305,Office Expenses,48,48,48,48,3454 02 110 BH 30500
+02,Other Contingencies,40,40,40,40,3454 02 110 BH 30502
+04,Service Postage & Postal Expenditure,8,8,8,8,3454 02 110 BH 30504
+349,Festival Advances,-6,,,,3454 02 110 BH 34900
+01,Festival Advances-Debit,10,30,60,60,3454 02 110 BH 34901
+02,Festival Advances-Credit,-16,-30,-60,-60,3454 02 110 BH 34902
+359,Prizes and Awards,,2,2,2,3454 02 110 BH 35900
+01,Prizes and Awards,,2,2,2,3454 02 110 BH 35901
+BH,Total BH,"40,54","45,75","39,60","48,27",
+BJ,Strengthening of District Statistical  Machinery,,,,,3454 02 110 BJ 30000
+301,Salaries,"2,54,95","2,36,37","2,39,13","2,42,80",3454 02 110 BJ 30100
+01,Pay,"2,35,89","2,19,00","2,21,07","2,24,16",3454 02 110 BJ 30101
+02,Medical Allowance,"1,42","1,15","1,49","1,49",3454 02 110 BJ 30102
+03,Medical Charges,25,54,54,54,3454 02 110 BJ 30103
+04,Other Allowances,"1,41","1,03","1,38","1,38",3454 02 110 BJ 30104
+06,House Rent Allowance,"13,79","12,52","12,52","13,02",3454 02 110 BJ 30106
+07,Travel Concession,6,11,11,11,3454 02 110 BJ 30107
+08,City Compensatory Allowance,"2,13","2,02","2,02","2,10",3454 02 110 BJ 30108
+303,Dearness Allowance,"26,45","28,47","35,37","54,92",3454 02 110 BJ 30300
+01,Dearness Allowance,"26,45","28,47","35,37","54,92",3454 02 110 BJ 30301
+304,Travel Expenses,"4,81","6,90","6,90","6,90",3454 02 110 BJ 30400 
+01,Tour Travelling Allowances,"4,81","6,80","6,80","6,80",3454 02 110 BJ 30401
+02,Transfer Travelling Allowances,,10,10,10,3454 02 110 BJ 30402
+305,Office Expenses,"4,82","5,55","5,57","5,57",3454 02 110 BJ 30500 
+01,Telephone Charges,76,"1,10","1,10","1,10",3454 02 110 BJ 30501
+02,Other Contingencies,"1,47","1,50","1,50","1,50",3454 02 110 BJ 30502
+03,Electricity Charges,"2,14","2,50","2,50","2,50",3454 02 110 BJ 30503
+04,Service Postage & Postal Expenditure,45,45,47,47,3454 02 110 BJ 30504
+306,"Rent, Rates and Taxes",,7,7,7,3454 02 110 BJ 30600
+01,Rent,,1,1,1,3454 02 110 BJ 30601
+02,Property tax,,1,1,1,3454 02 110 BJ 30602
+03,Water Charges,,5,5,5,3454 02 110 BJ 30603
+321,Motor Vehicles,54,61,61,61,3454 02 110 BJ 32100
+01,Purchase,,1,1,1,3454 02 110 BJ 32101
+02,Maintenance of Functional Vehicles,54,60,60,60,3454 02 110 BJ 32102
+333,Payments for Professional and Special Services,"6,19","6,44","7,75","8,11",3454 02 110 BJ 33300
+01,Pleaders Fees,38,40,40,40,3454 02 110 BJ 33301
+02,Remuneration,,1,1,1,3454 02 110 BJ 33302
+04,Contract Payment,"5,81","6,03","7,34","7,70",3454 02 110 BJ 33304
+345,"Petroleum, Oil and Lubricant","2,35","2,60","2,96","2,96",3454 02 110 BJ 34500
+01,"Petroleum, Oil and Lubricant","2,35","2,60","2,96","2,96",3454 02 110 BJ 34501
+349,Festival Advances,-24,,,,3454 02 110 BJ 34900
+01,Festival Advances-Debit,95,"2,35","4,60","4,60",3454 02 110 BJ 34901
+02,Festival Advances-Credit,"-1,19","-2,35","-4,60","-4,60",3454 02 110 BJ 34902
+359,Prizes and Awards,2,4,4,4,3454 02 110 BJ 35900
+01,Prizes and Awards,2,4,4,4,3454 02 110 BJ 35901
+372,Training,,1,1,1,3454 02 110 BJ 37200
+01,Training,,1,1,1,3454 02 110 BJ 37201
+376,Computer and Accessories,"2,92","2,92","2,92","2,92",3454 02 110 BJ 37600
+02,Maintenance,"2,19","2,32","2,32","2,32",3454 02 110 BJ 37602
+03,Stationery,73,60,60,60,3454 02 110 BJ 37603
+BJ,Total BJ,"3,02,81","2,89,98","3,01,33","3,24,91",
+BP,Scheme for Block LevelStatistical System3454 02 110 BP 30000,,,,,
+301,Salaries,"16,75,76","13,85,84","16,52,48","17,50,96",3454 02 110 BP 30100
+01,Pay,"15,56,74","12,82,34","15,37,62","16,32,44",3454 02 110 BP 30101
+02,Medical Allowance,"11,52","13,10","10,99","10,99",3454 02 110 BP 30102
+03,Medical Charges,7,60,60,60,3454 02 110 BP 30103
+04,Other Allowances,"15,56","14,65","11,48","11,48",3454 02 110 BP 30104
+06,House Rent Allowance,"87,35","71,33","87,75","91,26",3454 02 110 BP 30106
+07,Travel Concession,10,20,20,20,3454 02 110 BP 30107
+08,City Compensatory Allowance,"4,42","3,62","3,84","3,99",3454 02 110 BP 30108
+303,Dearness Allowance,"2,10,36","1,66,70","2,46,02","3,99,95",3454 02 110 BP 30300
+01,Dearness Allowance,"2,10,36","1,66,70","2,46,02","3,99,95",3454 02 110 BP 30301
+304,Travel Expenses,"86,17","1,10,10","95,50","1,09,80",3454 02 110 BP 30400
+01,Tour Travelling Allowances,"86,13","1,10,00","95,40","1,09,70",3454 02 110 BP 30401
+02,Transfer Travelling Allowances,4,10,10,10,3454 02 110 BP 30402
+305,Office Expenses,"4,28","5,20","5,20","5,20",3454 02 110 BP 30500
+02,Other Contingencies,97,"1,00","1,00","1,00",3454 02 110 BP 30502
+03,Electricity Charges,"2,16","3,05","3,05","3,05",3454 02 110 BP 30503
+04,Service Postage & Postal Expenditure,"1,15","1,15","1,15","1,15",3454 02 110 BP 30504
+306,"Rent, Rates and Taxes",11,12,12,12,3454 02 110 BP 30600
+02,Property tax,11,11,11,11,3454 02 110 BP 30602
+03,Water Charges,,1,1,1,3454 02 110 BP 30603
+349,Festival Advances,"1,03",,,,3454 02 110 BP 34900
+01,Festival Advances-Debit,"11,15","16,10","32,20","32,20",3454 02 110 BP 34901
+02,Festival Advances-Credit,"-10,12","-16,10","-32,20","-32,20",3454 02 110 BP 34902
+359,Prizes and Awards,,6,2,6,3454 02 110 BP 35900
+01,Prizes and Awards,,6,2,6,3454 02 110 BP 35901
+BP,Total BP,"19,77,71","16,68,02","19,99,34","22,66,09",
+BV,Strengthening of Statistical Department,,,,,3454 02 110 BV 30000
+301,Salaries,"34,36","37,17","36,42","37,63",3454 02 110 BV 30100
+01,Pay,"29,52","32,12","32,12","33,08",3454 02 110 BV 30101
+02,Medical Allowance,11,7,15,15,3454 02 110 BV 30102
+03,Medical Charges,7,20,10,20,3454 02 110 BV 30103
+04,Other Allowances,36,30,36,36,3454 02 110 BV 30104
+06,House Rent Allowance,"3,69","3,80","3,15","3,28",3454 02 110 BV 30106
+07,Travel Concession,,1,1,1,3454 02 110 BV 30107
+08,City Compensatory Allowance,61,67,53,55,3454 02 110 BV 30108
+303,Dearness Allowance,"2,54","4,18","5,14","8,10",3454 02 110 BV 30300
+01,Dearness Allowance,"2,54","4,18","5,14","8,10",3454 02 110 BV 30301
+304,Travel Expenses,9,18,22,22,3454 02 110 BV 30400
+01,Tour Travelling Allowances,9,16,20,20,3454 02 110 BV 30401
+02,Transfer Travelling Allowances,,2,2,2,3454 02 110 BV 30402
+305,Office Expenses,10,12,12,12,3454 02 110 BV 30500
+02,Other Contingencies,9,10,10,10,3454 02 110 BV 30502
+03,Electricity Charges,,1,1,1,3454 02 110 BV 30503
+04,Service Postage & Postal Expenditure,1,1,1,1,3454 02 110 BV 30504
+349,Festival Advances,-6,,,,3454 02 110 BV 34900
+01,Festival Advances-Debit,10,30,40,40,3454 02 110 BV 34901
+02,Festival Advances-Credit,-16,-30,-40,-40,3454 02 110 BV 34902
+359,Prizes and Awards,,2,,2,3454 02 110 BV 35900
+01,Prizes and Awards,,2,,2,3454 02 110 BV 35901
+BV,Total BV,"37,03","41,67","41,90","46,09",
+BW,Setting up of Man Power and Employment Cell,,,,,3454 02 110 BW 30000
+301,Salaries,"24,54","24,77","24,74","25,69",3454 02 110 BW 30100
+01,Pay,"21,46","21,57","21,63","22,28",3454 02 110 BW 30101
+02,Medical Allowance,15,15,15,15,3454 02 110 BW 30102
+03,Medical Charges,,20,1,20,3454 02 110 BW 30103
+04,Other Allowances,3,6,3,3,3454 02 110 BW 30104
+06,House Rent Allowance,"2,48","2,36","2,50","2,60",3454 02 110 BW 30106
+07,Travel Concession,,1,1,1,3454 02 110 BW 30107
+08,City Compensatory Allowance,42,42,41,42,3454 02 110 BW 30108
+303,Dearness Allowance,"1,86","2,80","3,46","5,46",3454 02 110 BW 30300
+01,Dearness Allowance,"1,86","2,80","3,46","5,46",3454 02 110 BW 30301
+304,Travel Expenses,,16,22,22,3454 02 110 BW 30400
+01,Tour Travelling Allowances,,14,20,20,3454 02 110 BW 30401
+02,Transfer Travelling Allowances,,2,2,2,3454 02 110 BW 30402
+349,Festival Advances,1,,,,3454 02 110 BW 34900
+01,Festival Advances-Debit,10,25,30,30,3454 02 110 BW 34901
+02,Festival Advances-Credit,-9,-25,-30,-30,3454 02 110 BW 34902
+359,Prizes and Awards,,2,,2,3454 02 110 BW 35900
+01,Prizes and Awards,,2,,2,3454 02 110 BW 35901
+372,Training,,1,1,1,3454 02 110 BW 37200
+01,Training,,1,1,1,3454 02 110 BW 37201
+BW,Total BW,"26,41","27,76","28,43","31,40",
+BY,State Staistical Training Institute,,,,,3454 02 110 BY 30000
+301,Salaries,"40,70","48,86","37,27","48,13",3454 02 110 BY 30100
+01,Pay,"37,21","44,45","33,72","44,45",3454 02 110 BY 30101
+02,Medical Allowance,12,11,11,11,3454 02 110 BY 30102
+03,Medical Charges,,20,20,20,3454 02 110 BY 30103
+04,Other Allowances,27,27,20,20,3454 02 110 BY 30104
+06,House Rent Allowance,"2,70","3,27","2,53","2,64",3454 02 110 BY 30106
+07,Travel Concession,,6,6,6,3454 02 110 BY 30107
+08,City Compensatory Allowance,40,50,45,47,3454 02 110 BY 30108
+303,Dearness Allowance,"3,20","5,78","5,40","10,89",3454 02 110 BY 30300
+01,Dearness Allowance,"3,20","5,78","5,40","10,89",3454 02 110 BY 30301
+304,Travel Expenses,4,92,92,92,3454 02 110 BY 30400
+01,Tour Travelling Allowances,4,90,90,90,3454 02 110 BY 30401
+02,Transfer Travelling Allowances,,2,2,2,3454 02 110 BY 30402
+305,Office Expenses,62,91,91,"2,24",3454 02 110 BY 30500
+01,Telephone Charges,13,20,20,"1,53",3454 02 110 BY 30501
+02,Other Contingencies,49,50,50,50,3454 02 110 BY 30502
+03,Electricity Charges,,1,1,1,3454 02 110 BY 30503
+04,Service Postage & Postal Expenditure,,20,20,20,3454 02 110 BY 30504
+306,"Rent, Rates and Taxes",,2,2,2,3454 02 110 BY 30600
+02,Property tax,,1,1,1,3454 02 110 BY 30602
+03,Water Charges,,1,1,1,3454 02 110 BY 30603
+308,Advertising and Publicity,,1,1,1,3454 02 110 BY 30800
+01,Advertisement Charges,,1,1,1,3454 02 110 BY 30801
+319,Machinery and Equipments,,10,10,10,3454 02 110 BY 31900
+03,Maintenance,,10,10,10,3454 02 110 BY 31903
+321,Motor Vehicles,,5,5,55,3454 02 110 BY 32100
+02,Maintenance of Functional Vehicles,,5,5,55,3454 02 110 BY 32102
+333,Payments for Professional and Special Services,"5,59","8,79","8,79","8,79",3454 02 110 BY 33300
+04,Contract Payment,"5,59","8,79","8,79","8,79",3454 02 110 BY 33304
+345,"Petroleum, Oil and Lubricant","1,24","1,66","1,66","1,66",3454 02 110 BY 34500
+01,"Petroleum, Oil and Lubricant","1,24","1,66","1,66","1,66",3454 02 110 BY 34501
+349,Festival Advances,-2,,,,3454 02 110 BY 34900
+01,Festival Advances-Debit,5,15,20,20,3454 02 110 BY 34901
+02,Festival Advances-Credit,-7,-15,-20,-20,3454 02 110 BY 34902
+372,Training,"2,38","6,53","6,53","6,53",3454 02 110 BY 37200
+01,Training,"2,38","6,53","6,53","6,53",3454 02 110 BY 37201
+376,Computer and Accessories,19,22,22,22,3454 02 110 BY 37600
+01,Purchase,,1,1,1,3454 02 110 BY 37601
+02,Maintenance,,1,1,1,3454 02 110 BY 37602
+03,Stationery,19,20,20,20,3454 02 110 BY 37603
+BY,Total BY,"53,94","73,85","61,88","80,06",
+BZ,Modernisation of the Computer System in the Department of Statistics,,,,,3454 02 110 BZ 30000
+305,Office Expenses,"2,02","2,15","2,15","2,15",3454 02 110 BZ 30500
+01,Telephone Charges,24,35,35,35,3454 02 110 BZ 30501
+02,Other Contingencies,"1,58","1,60","1,60","1,60",3454 02 110 BZ 30502
+04,Service Postage & Postal Expenditure,20,20,20,20,3454 02 110 BZ 30504
+317,Minor Works,,1,1,1,3454 02 110 BZ 31700
+01,Minor Works,,1,1,1,3454 02 110 BZ 31701
+319,Machinery and Equipments,"1,73","1,91","1,91","1,91",3454 02 110 BZ 31900
+01,Purchase,,1,1,1,3454 02 110 BZ 31901
+03,Maintenance,"1,73","1,90","1,90","1,90",3454 02 110 BZ 31903
+321,Motor Vehicles,19,21,21,21,3454 02 110 BZ 32100
+01,Purchase,,1,1,1,3454 02 110 BZ 32101
+02,Maintenance of Functional Vehicles,19,20,20,20,3454 02 110 BZ 32102
+324,Materials and Supplies,,1,1,1,3454 02 110 BZ 32400
+01,Materials and Supplies,,1,1,1,3454 02 110 BZ 32401
+333,Payments for Professional and Special Services,,,"3,29",,3454 02 110 BZ 33300
+04,Contract Payment,,,"3,29",,3454 02 110 BZ 33304
+345,"Petroleum, Oil and Lubricant","2,55","2,81","2,81","2,81",3454 02 110 BZ 34500
+01,"Petroleum, Oil and Lubricant","2,55","2,81","2,81","2,81",3454 02 110 BZ 34501
+372,Training,,1,1,1,3454 02 110 BZ 37200
+01,Training,,1,1,1,3454 02 110 BZ 37201
+376,Computer and Accessories,"7,63","8,11","8,11","8,11",3454 02 110 BZ 37600
+01,Purchase,,1,1,1,3454 02 110 BZ 37601
+02,Maintenance,49,"1,00","1,00","1,00",3454 02 110 BZ 37602
+03,Stationery,"7,14","7,10","7,10","7,10",3454 02 110 BZ 37603
+BZ,Total BZ,"14,12","15,22","18,51","15,22",
+JX,"Crop Estimation Surveys  on Fruits, Vegetables and Minor Crops",,,,,3454 02 110 JX 30000
+304,Travel Expenses,,2,2,2,3454 02 110 JX 30400
+01,Tour Travelling Allowances,,2,2,2,3454 02 110 JX 30401
+305,Office Expenses,10,10,10,10,3454 02 110 JX 30500
+02,Other Contingencies,10,10,10,10,3454 02 110 JX 30502
+372,Training,,1,1,1,3454 02 110 JX 37200
+01,Training,,1,1,1,3454 02 110 JX 37201
+JX,Total JX,10,13,13,13,
+JY,Panel Survey on Socio Economic Status on Elderly Population in Tamil Nadu - Scheme under State Innovation Fund,,,,,3454 02 110 JY 30000
+309,Grants-in-Aid,"1,04,41",1,"96,35",1,3454 02 110 JY 30900
+03,Grants for Specific Schemes,"1,04,41",1,"96,35",1,3454 02 110 JY 30903
+JY,Total JY,"1,04,41",1,"96,35",1,
+JZ,Operationalising the first phase activities of the Data Analytical Unit - Scheme under State Innovation Fund,,,,,3454 02 110 JZ 30000
+309,Grants-in-Aid,,1,1,1,3454 02 110 JZ 30900
+03,Grants for Specific Schemes,,1,1,1,3454 02 110 JZ 30903
+JZ,Total JZ,1,1,1,,
+KA,Tamil Nadu House Hold Panel Survey (TNHPS) - Scheme under State Innovation Fund,,,,,3454 02 110 KA 30000
+309,Grants-in-Aid,,1,"50,00",1,3454 02 110 KA 30900
+03,Grants for Specific Schemes,,1,"50,00",1,3454 02 110 KA 30903
+KA,Total KA,1,"50,00",1,,
+KB,Digitization and Retrieval Systems for Histrorical Data / Reports / Publications - Schemes under State Innovation Fund,,,,,3454 02 110 KB 30000
+309,Grants-in-Aid,,1,,,3454 02 110 KB 30900
+03,Grants for Specific Schemes,,1,,,3454 02 110 KB 30903
+KB,Total KB,1,,,,
+KC,Dynamic Data Visualisation and interactive systems - Schemes under State Innovation Fund,,,,,3454 02 110 KC 30000
+309,Grants-in-Aid,,1,,,3454 02 110 KC 30900
+03,Grants for Specific Schemes,,1,,,3454 02 110 KC 30903
+KC,Total KC,1,,,,
+KD,Formation of Analytical and Publication Unit - Schemes under State Innovation Fund,,,,,3454 02 110 KD 30000
+309,Grants-in-Aid,"3,45",1,,,3454 02 110 KD 30900
+03,Grants for Specific Schemes,"3,45",1,,,3454 02 110 KD 30903
+KD,Total KD,"3,45",1,,,
+KF,Capacity building and skill development in Advanced Statistical Packages - Schemes under State Innovation Fund,,,,,3454 02 110 KF 30000
+309,Grants-in-Aid,"9,23",1,,,3454 02 110 KF 30900
+03,Grants for Specific Schemes,"9,23",1,,,3454 02 110 KF 30903
+KF,Total KF,"9,23",1,,,
+#,State's Expenditure Total Charged,,1,1,1,
+#,State's Expenditure Total Voted,"71,46,20","68,56,23","73,29,42","78,82,39",
+#,Central Sector Schemes ,,,,,
+SI,Pilot scheme for timely reporting of area and production of crop,,,,,3454 02 110 SI 30000
+301,Salaries,"1,05,75","1,23,75","1,40,20","1,45,81",3454 02 110 SI 30100
+01,Pay,"95,02","1,12,32","1,27,13","1,32,22",3454 02 110 SI 30101
+02,Medical Allowance,79,"1,05",82,83,3454 02 110 SI 30102
+03,Medical Charges,,2,2,2,3454 02 110 SI 30103
+04,Other Allowances,"1,18",90,"1,19","1,19",3454 02 110 SI 30104
+06,House Rent Allowance,"7,75","8,50","9,83","10,22",3454 02 110 SI 30106
+07,Travel Concession,7,8,8,8,3454 02 110 SI 30107
+08,City Compensatory Allowance,94,88,"1,13","1,25",3454 02 110 SI 30108
+303,Dearness Allowance,"9,25","14,60","20,34","32,39",3454 02 110 SI 30300
+01,Dearness Allowance,"9,25","14,60","20,34","32,39",3454 02 110 SI 30301
+304,Travel Expenses,"1,42","3,02","1,44","3,02",3454 02 110 SI 30400
+01,Tour Travelling Allowances,"1,42","3,00","1,42","3,00",3454 02 110 SI 30401
+02,Transfer Travelling Allowances,,2,2,2,3454 02 110 SI 30402
+305,Office Expenses,82,90,90,90,3454 02 110 SI 30500
+02,Other Contingencies,40,40,40,40,3454 02 110 SI 30502
+04,Service Postage & Postal Expenditure,42,50,50,50,3454 02 110 SI 30504
+349,Festival Advances,-32,,,,3454 02 110 SI 34900
+01,Festival Advances-Debit,35,"1,70","2,40","2,40",3454 02 110 SI 34901
+02,Festival Advances-Credit,-67,"-1,70","-2,40","-2,40",3454 02 110 SI 34902
+371,Printing Charges,,1,1,1,3454 02 110 SI 37100
+01,Printing Charges,,1,1,1,3454 02 110 SI 37101
+372,Training,36,36,36,36,3454 02 110 SI 37200
+01,Training,36,36,36,36,3454 02 110 SI 37201
+376,Computer and Accessories,20,20,20,20,3454 02 110 SI 37600
+03,Stationery,20,20,20,20,3454 02 110 SI 37603
+SI,Total SI,"1,17,48","1,42,84","1,63,45","1,82,69",
+SJ,Development of Housing Development Scheme,,,,,3454 02 110 SJ 30000
+304,Travel Expenses,"1,10",2,17,1,3454 02 110 SJ 30400
+01,Tour Travelling Allowances,"1,10",2,17,1,3454 02 110 SJ 30401
+305,Office Expenses,,1,,,3454 02 110 SJ 30500
+01,Telephone Charges,,1,,,3454 02 110 SJ 30501
+308,Advertising and Publicity,,1,,,3454 02 110 SJ 30800
+01,Advertisement Charges,,1,,,3454 02 110 SJ 30801
+333,Payments for Professional and Special Services,"33,41",1,"4,95",1,3454 02 110 SJ 33300
+04,Contract Payment,"33,41",1,"4,95",1,3454 02 110 SJ 33304
+371,Printing Charges,,1,,,3454 02 110 SJ 37100
+01,Printing Charges,,1,,,3454 02 110 SJ 37101
+372,Training,,1,1,,3454 02 110 SJ 37200
+01,Training,,1,1,,3454 02 110 SJ 37201
+376,Computer and Accessories,,2,2,2,3454 02 110 SJ 37600
+01,Purchase,,1,1,1,3454 02 110 SJ 37601
+02,Maintenance,,1,1,1,3454 02 110 SJ 37602
+SJ,Total SJ,"34,51",9,"5,15",4,
+#,Central Sector Schemes Total,"1,51,99","1,42,93","1,68,60","1,82,73",
+110,Total 110 Charged,,1,1,1,
+110,Total 110 Voted,"72,98,19","69,99,16","74,98,02","80,65,12",
+902,Deduct - Amount met from State Innovation Fund,,,,,
+#,State's Expenditure,,,,,
+JA,Deduct - Amount met from State Innovation Fund,,,,,3454 02 902 JA 30000
+330,Inter-Account Transfers,"2,54,26",,"-1,46,35",,3454 02 902 JA 33000
+01,Inter-Account Transfers,"2,54,26",,"-1,46,35",,3454 02 902 JA 33001
+JA,Total JA,"2,54,26",,"-1,46,35",,
+#,State's Expenditure Total,"2,54,26",,"-1,46,35",,
+902,Total 902,"2,54,26",,"-1,46,35",,
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+JY,Panel Survey on Socio Economic Status on Elderly Population in Tamil Nadu - Scheme under State Innovation Fund,,,,,3454 02 911 JY 30000
+377,Deduct-Recoveries,"-2,13,30",,,,3454 02 911 JY 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-2,13,30",,,,3454 02 911 JY 37702
+JY,Total JY,"-2,13,30",,,,
+JZ,Operationalising the first phase activities of the Data Analytical Unit - Scheme under State Innovation Fund,,,,,3454 02 911 JZ 30000
+377,Deduct-Recoveries,"-45,52",,,,3454 02 911 JZ 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-45,52",,,,3454 02 911 JZ 37702
+JZ,Total JZ,"-45,52",,,,
+KA,Tamil Nadu House Hold Panel Survey (TNHPS) - Scheme under State Innovation Fund,,,,,3454 02 911 KA 30000
+377,Deduct-Recoveries,"-1,12,53",,,,3454 02 911 KA 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-1,12,53",,,,3454 02 911 KA 37702
+KA,Total KA,"-1,12,53",,,,
+#,State's Expenditure Total,"-3,71,35",,,,
+#,Central Sector Schemes,,,,,
+SD,Setting up of Nodal Centre for Man Power and Employment,,,,,3454 02 911 SD 30000
+377,Deduct-Recoveries,-87,,,,3454 02 911 SD 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-87,,,,3454 02 911 SD 37702
+SD,Total SD,-87,,,,
+#,Central Sector Schemes Total,-87,,,,
+911,Total 911,"-3,72,22",,,,
+02,Total 02 Charged,,1,1,1,
+02,Total 02 Voted,"71,80,23","69,99,16","73,51,67","80,65,12",
+3454,Total 3454 Charged,,1,1,1,
+3454,Total 3454 Voted,"71,80,23","69,99,16","73,51,67","80,65,12",
+5475-00,CAPITAL OUTLAY ON OTHER GENERAL ECONOMIC SERVICES,,,,,
+112,Statistics Schemes in the Eleventh Five Year Plan Central Sector Sechemes,,,,,
+SA,Implementation of Tamil Nadu State Strategic Statistical Plan (TNSSSP),,,,,5475 00 112 SA 40000
+416,Major Works,,"87,03",,1,5475 00 112 SA 41600
+01,Major Works,,"87,03",,1,5475 00 112 SA 41601
+SA,Total SA,"87,03",,1,,
+#,Central Sector Schemes Total,,"87,03",,1,
+112,Total 112,"87,03",,1,,
+00,Total 00,"87,03",,1,,
+5475,Total 5475,"87,03",,1,,

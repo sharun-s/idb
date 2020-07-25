@@ -1,0 +1,72 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2551,HILL AREAS,,,,,
+01,Western Ghats,,,,,
+137,Special Area Development Programme,,,,,
+#,State's Expenditure,,,,,
+JA,Plan Formulation Cell,,,,,2551 01 137 JA 30000
+301,Salaries,"94,08","93,86","1,11,81","1,14,63",2551 01 137 JA 30100
+01,Pay,"78,77","75,48","91,06","94,70",2551 01 137 JA 30101
+02,Medical Allowance,42,47,47,47,2551 01 137 JA 30102
+03,Medical Charges,6,8,90,8,2551 01 137 JA 30103
+04,Other Allowances,"11,48","13,40","13,40","13,40",2551 01 137 JA 30104
+06,House Rent Allowance,"3,31","3,39","3,98","3,98",2551 01 137 JA 30106
+07,Travel Concession,4,"1,04","2,00","2,00",2551 01 137 JA 30107
+302,Wages,,26,26,26,2551 01 137 JA 30200
+01,Wages,,26,26,26,2551 01 137 JA 30201
+303,Dearness Allowance,"12,78","9,81","14,57","23,20",2551 01 137 JA 30300
+01,Dearness Allowance,"12,78","9,81","14,57","23,20",2551 01 137 JA 30301
+304,Travel Expenses,"4,02","4,02","6,13","4,02",2551 01 137 JA 30400
+01,Tour Travelling Allowances,"4,00","4,00","6,00","4,00",2551 01 137 JA 30401
+02,Transfer Travelling Allowances,2,2,13,2,2551 01 137 JA 30402
+305,Office Expenses,"3,77","3,86","3,95","4,00",2551 01 137 JA 30500
+01,Telephone Charges,"1,49","1,50","1,50","1,50",2551 01 137 JA 30501
+02,Other Contingencies,60,60,60,60,2551 01 137 JA 30502
+03,Electricity Charges,"1,48","1,56","1,65","1,70",2551 01 137 JA 30503
+04,Service Postage & Postal Expenditure,20,20,20,20,2551 01 137 JA 30504
+306,"Rent, Rates and Taxes","2,90","4,00","6,00","4,00",2551 01 137 JA 30600
+02,Property tax,"2,90","4,00","6,00","4,00",2551 01 137 JA 30602
+321,Motor Vehicles,59,62,62,62,2551 01 137 JA 32100
+02,Maintenance of Functional Vehicles,59,62,62,62,2551 01 137 JA 32102
+333,Payments for Professional and Special Services,"6,98","7,63","7,63","7,63",2551 01 137 JA 33300
+04,Contract Payment,"6,98","7,62","7,62","7,62",2551 01 137 JA 33304
+09,Other Payments,,1,1,1,2551 01 137 JA 33309
+345,"Petroleum, Oil and Lubricant","2,24","5,53","6,50","6,75",2551 01 137 JA 34500
+01,"Petroleum, Oil and Lubricant","2,24","5,53","6,50","6,75",2551 01 137 JA 34501
+349,Festival Advances,1,,,,2551 01 137 JA 34900
+01,Festival Advances-Debit,35,75,80,80,2551 01 137 JA 34901
+02,Festival Advances-Credit,-34,-75,-80,-80,2551 01 137 JA 34902
+399,Miscellaneous,,,"75,00","75,00",2551 01 137 JA 39900
+01,Miscellaneous,,,"75,00","75,00",2551 01 137 JA 39901
+JA,Total JA,"1,27,37","1,29,59","2,32,47","2,40,11",
+#,State's Expenditure Total,"1,27,37","1,29,59","2,32,47","2,40,11",
+137,Total 137,"1,27,37","1,29,59","2,32,47","2,40,11",
+01,Total 01,"1,27,37","1,29,59","2,32,47","2,40,11",
+2551,Total 2551,"1,27,37","1,29,59","2,32,47","2,40,11",
+4551,CAPITAL OUTLAY ON HILL AREAS,,,,,
+60,Other Hill Areas,,,,,
+789,Special Component Plan for Scheduled Castes,,,,,
+#,State's Expenditure,,,,,
+JA,Infrastructure Development in Special Areas,,,,,4551 60 789 JA 40000
+416,Major Works,"30,75,00","30,75,00","30,75,00","30,75,00",4551 60 789 JA 41600
+01,Major Works,"30,75,00","30,75,00","30,75,00","30,75,00",4551 60 789 JA 41601
+JA,Total JA,"30,75,00","30,75,00","30,75,00","30,75,00",
+#,State's Expenditure Total,"30,75,00","30,75,00","30,75,00","30,75,00",
+789,Total 789,"30,75,00","30,75,00","30,75,00","30,75,00",
+796,Tribal Area Sub-Plan,,,,,
+#,State's Expenditure,,,,,
+JA,Infrastructure Development in Special Areas,,,,,4551 60 796 JA 40000
+416,Major Works,"7,50,00","7,50,00","7,50,00","7,50,00",4551 60 796 JA 41600
+01,Major Works,"7,50,00","7,50,00","7,50,00","7,50,00",4551 60 796 JA 41601
+JA,Total JA,"7,50,00","7,50,00","7,50,00","7,50,00",
+#,State's Expenditure Total,"7,50,00","7,50,00","7,50,00","7,50,00",
+796,Total 796,"7,50,00","7,50,00","7,50,00","7,50,00",
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+JH,Infrastructure Development in Special Areas,,,,,4551 60 800 JH 40000
+416,Major Works,"36,75,00","36,75,00","36,00,00","36,00,00",4551 60 800 JH 41600
+01,Major Works,"36,75,00","36,75,00","36,00,00","36,00,00",4551 60 800 JH 41601
+JH,Total JH,"36,75,00","36,75,00","36,00,00","36,00,00",
+#,State's Expenditure Total,"36,75,00","36,75,00","36,00,00","36,00,00",
+800,Total 800,"36,75,00","36,75,00","36,00,00","36,00,00",
+60,Total 60,"75,00,00","75,00,00","74,25,00","74,25,00",
+4551,Total 4551,"75,00,00","75,00,00","74,25,00","74,25,00",
