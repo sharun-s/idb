@@ -1,0 +1,41 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2052-00,SECRETARIAT - GENERAL SERVICES,,,,,
+090,Secretariat,,,,,
+#,State's Expenditure,,,,,
+BC,Advisory Board constituted under Bootlegger Act 1982,,,,,2052 00 090 BC 30000
+301,Salaries,"34,71","39,02","34,33","35,68",2052 00 090 BC 30100
+01,Pay,"30,19","34,26","29,96","31,16",2052 00 090 BC 30101
+02,Medical Allowance,19,22,22,22,2052 00 090 BC 30102
+03,Medical Charges,19,20,12,13,2052 00 090 BC 30103
+04,Other Allowances,28,34,30,32,2052 00 090 BC 30104
+06,House Rent Allowance,"3,12","3,20","2,95","3,05",2052 00 090 BC 30106
+07,Travel Concession,16,20,20,20,2052 00 090 BC 30107
+08,City Compensatory Allowance,58,60,58,60,2052 00 090 BC 30108
+302,Wages,"8,60","8,61","7,70","7,90",2052 00 090 BC 30200
+01,Wages,"8,60","8,61","7,70","7,90",2052 00 090 BC 30201
+303,Dearness Allowance,"3,06","4,45","4,80","7,63",2052 00 090 BC 30300
+01,earness Allowance,"3,06","4,45","4,80","7,63",2052 00 090 BC 30301
+305,Office Expenses,"3,25","4,36","4,08","4,35",2052 00 090 BC 30500
+01,Telephone Charges,67,"1,00",72,90,2052 00 090 BC 30501
+02,Other Contingencies,"1,56","1,56","1,56","1,65",2052 00 090 BC 30502
+03,Electricity Charges,"1,02","1,80","1,80","1,80",2052 00 090 BC 30503
+319,Machinery and Equipments,5,5,12,7,2052 00 090 BC 31900
+03,Maintenance,5,5,12,7,2052 00 090 BC 31903
+321,Motor Vehicles,4,10,10,10,2052 00 090 BC 32100
+02,Maintenance of Functional Vehicles,4,10,10,10,2052 00 090 BC 32102
+333,Payments for Professional and Special Services,"24,84","26,00","27,00","28,00",2052 00 090 BC 33300
+02,Remuneration,"24,84","26,00","27,00","28,00",2052 00 090 BC 33302
+345,"Petroleum, Oil and Lubricant","2,12","2,81","2,40","2,63",2052 00 090 BC 34500
+01,"Petroleum, Oil and Lubricant","2,12","2,81","2,40","2,63",2052 00 090 BC 34501
+349,Festival Advances,3,,,,2052 00 090 BC 34900
+01,Festival Advances-Debit,30,35,70,80,2052 00 090 BC 34901
+02,Festival Advances-Credit,-27,-35,-70,-80,2052 00 090 BC 34902
+376,Computer and Accessories,85,28,32,35,2052 00 090 BC 37600
+01,Purchase,60,1,1,1,2052 00 090 BC 37601
+02,Maintenance,10,12,15,17,2052 00 090 BC 37602
+03,Stationery,15,15,16,17,2052 00 090 BC 37603
+BC,Total BC,"77,55","85,68","80,85","86,71",
+#,State's Expenditure Total,"77,55","85,68","80,85","86,71",
+090,Total 090,"77,55","85,68","80,85","86,71",
+00,Total 00,"77,55","85,68","80,85","86,71",
+2052,Total 2052,"77,55","85,68","80,85","86,71",

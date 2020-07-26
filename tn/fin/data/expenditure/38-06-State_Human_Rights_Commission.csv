@@ -1,0 +1,12 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2070-00,OTHER ADMINISTRATIVE SERVICES,,,,,
+001,Direction and Administration,,,,,
+#,State's Expenditure,,,,,
+AC,State Human Rights Commission,,,,,2070 00 001 AC 30000
+309,Grants-in-Aid,"6,04,84","5,36,10","5,47,99","5,91,97",2070 00 001 AC 30900
+01,Grants for Current Expenditure,"6,04,84","5,36,10","5,47,99","5,91,97",2070 00 001 AC 30901
+AC,Total AC,"6,04,84","5,36,10","5,47,99","5,91,97",
+#,State's Expenditure Total,"6,04,84","5,36,10","5,47,99","5,91,97",
+001,Total 001,"6,04,84","5,36,10","5,47,99","5,91,97",
+00,Total 00,"6,04,84","5,36,10","5,47,99","5,91,97",
+2070,Total 2070,"6,04,84","5,36,10","5,47,99","5,91,97",

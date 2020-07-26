@@ -1,0 +1,36 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+4216,CAPITAL OUTLAY ON HOUSING,,,,,
+80,General,,,,,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+JY,Construction of houses for Srilankan Refugees - Administered by the Commissioner of Rural Development and Panchayat Raj,,,,,4216 80 800 JY 40000
+416,Major Works,,1,1,1,4216 80 800 JY 41600
+01,Major Works,,1,1,1,4216 80 800 JY 41601
+JY,Total JY,1,1,1,,
+#,State's Expenditure Total,,1,1,1,
+800,Total 800,1,1,1,,
+80,Total 80,1,1,1,,
+4216,Total 4216,1,1,1,,
+4235,CAPITAL OUTLAY ON SOCIAL SECURITY AND WELFARE,,,,,
+01,Rehabilitation,,,,,
+105,Repatriates from Sri Lanka,,,,,
+#,State's Expenditure,,,,,
+JW,Construction of houses in Refugee Camps,,,,,4235 01 105 JW 40000
+477,Deduct-Recoveries,,,"-79,47",,4235 01 105 JW 47700
+02,Recoveries of Overpayments / Remittance of excess drawals,,,"-79,47",,4235 01 105 JW 47702
+JW,Total JW,,"-79,47",,,
+#,State's Expenditure Total,,,"-79,47",,
+105,Total 105,,"-79,47",,,
+01,Total 01,,"-79,47",,,
+4235,Total 4235,,"-79,47",,,
+4425-00,CAPITAL OUTLAY ON CO-OPERATION,,,,,
+107,Investments in Credit Cooperatives,,,,,
+#,State's Expenditure,,,,,
+JY,Share Capital Assistance to REPCO Bank,,,,,4425 00 107 JY 40000
+422,Investments,,1,1,1,4425 00 107 JY 42200
+01,Investments,,1,1,1,4425 00 107 JY 42201
+JY,Total JY,,1,1,1,
+#,State's Expenditure Total,,1,1,1,
+107,Total 107,,1,1,1,
+00,Total 00,,1,1,1,
+4425,Total 4425,,1,1,1,

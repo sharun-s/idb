@@ -1,0 +1,248 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2235,SOCIAL SECURITY AND WELFARE,,,,,
+60,Other Social Security and Welfare Programmes,,,,,
+200,Other Programmes,,,,,
+#,State's Expenditure,,,,,
+AK,Directorate of Ex-Service men's Welfare,,,,,2235 60 200 AK 30000
+301,Salaries,"2,37,02","2,52,70","2,78,94","2,88,89",2235 60 200 AK 30100
+01,Pay,"2,07,40","2,21,53","2,45,50","2,55,32",2235 60 200 AK 30101
+02,Medical Allowance,"1,64","1,71","1,94","1,94",2235 60 200 AK 30102
+03,Medical Charges,5,15,15,15,2235 60 200 AK 30103
+04,Other Allowances,"1,26","1,66","1,66","1,66",2235 60 200 AK 30104
+06,House Rent Allowance,"22,35","23,25","24,75","24,75",2235 60 200 AK 30106
+07,Travel Concession,9,9,21,15,2235 60 200 AK 30107
+08,City Compensatory Allowance,"4,23","4,31","4,73","4,92",2235 60 200 AK 30108
+303,Dearness Allowance,"25,97","40,81","35,57","62,55",2235 60 200 AK 30300
+01,Dearness Allowance,"25,97","40,81","35,57","62,55",2235 60 200 AK 30301
+304,Travel Expenses,"2,12","2,14","2,17","2,14",2235 60 200 AK 30400
+01,Tour Travelling Allowances,"2,00","2,02","2,02","2,02",2235 60 200 AK 30401
+02,Transfer Travelling Allowances,12,12,15,12,2235 60 200 AK 30402
+305,Office Expenses,"4,92","3,89","4,64","6,00",2235 60 200 AK 30500
+01,Telephone Charges,52,53,57,53,2235 60 200 AK 30501
+02,Other Contingencies,"1,47","1,47","1,47","1,47",2235 60 200 AK 30502
+03,Electricity Charges,"2,53","1,49","2,20","3,60",2235 60 200 AK 30503
+04,Service Postage & Postal Expenditure,40,40,40,40,2235 60 200 AK 30504
+306,"Rent, Rates and Taxes","6,31","6,31","9,16","9,52",2235 60 200 AK 30600
+01,Rent,"6,06","6,06","8,89","9,25",2235 60 200 AK 30601
+03,Water Charges,25,25,27,27,2235 60 200 AK 30603
+308,Advertising and Publicity,,1,"4,07",1,2235 60 200 AK 30800
+01,Advertisement Charges,,1,"4,07",1,2235 60 200 AK 30801
+310,Contributions,,1,1,1,2235 60 200 AK 31000
+09,Others,,1,1,1,2235 60 200 AK 31009
+321,Motor Vehicles,10,11,11,11,2235 60 200 AK 32100
+01,Purchase,,1,1,1,2235 60 200 AK 32101
+02,Maintenance of Functional Vehicles,10,10,10,10,2235 60 200 AK 32102
+333,Payments for Professional and Special Services,32,32,32,33,2235 60 200 AK 33300
+09,Other Payments,32,32,32,33,2235 60 200 AK 33309
+345,"Petroleum, Oil and Lubricant",61,"1,00","1,00","1,50",2235 60 200 AK 34500
+01,"Petroleum, Oil and Lubricant",61,"1,00","1,00","1,50",2235 60 200 AK 34501
+349,Festival Advances,6,,,,2235 60 200 AK 34900
+01,Festival Advances-Debit,"1,50","1,61","3,70","4,00",2235 60 200 AK 34901
+02,Festival Advances-Credit,"-1,44","-1,61","-3,70","-4,00",2235 60 200 AK 34902
+351,Compensation Charged,,1,1,1,2235 60 200 AK 35100
+51,Claims under no fault liability -  principal charges Charged,,1,1,1,2235 60 200 AK 35151
+376,Computer and Accessories,"1,09","1,11",87,87,2235 60 200 AK 37600
+01,Purchase,,1,1,1,2235 60 200 AK 37601
+02,Maintenance,72,73,60,60,2235 60 200 AK 37602
+03,Stationery,37,37,26,26,2235 60 200 AK 37603
+AK,Total AK Charged,,1,1,1,
+AK,Total AK Voted,"2,78,52","3,08,41","3,36,86","3,71,93",
+AL,"District Soldiers, Sailors and Airmen's Board",,,,,2235 60 200 AL 30000
+301,Salaries,"13,45,99","13,16,43","13,30,05","13,78,98",2235 60 200 AL 30100
+01,Pay,"12,36,77","12,07,31","12,08,92","12,57,28",2235 60 200 AL 30101
+02,Medical Allowance,"11,16","11,25","11,13","11,13",2235 60 200 AL 30102
+03,Medical Charges,18,49,19,12,2235 60 200 AL 30103
+04,Other Allowances,"15,29","17,99","17,99","17,99",2235 60 200 AL 30104
+06,House Rent Allowance,"75,33","72,50","84,27","84,27",2235 60 200 AL 30106
+07,Travel Concession,68,74,"1,34","1,73",2235 60 200 AL 30107
+08,City Compensatory Allowance,"6,58","6,15","6,21","6,46",2235 60 200 AL 30108
+302,Wages,"42,38","42,63","43,82","42,63",2235 60 200 AL 30200
+01,Wages,"42,38","42,63","43,82","42,63",2235 60 200 AL 30201
+303,Dearness Allowance,"1,19,02","1,44,94","1,97,14","3,08,03",2235 60 200 AL 30300
+01,Dearness Allowance,"1,19,02","1,44,94","1,97,14","3,08,03",2235 60 200 AL 30301
+304,Travel Expenses,"10,82","11,85","11,54","11,85",2235 60 200 AL 30400
+01,Tour Travelling Allowances,"10,06","11,05","9,78","11,05",2235 60 200 AL 30401
+02,Transfer Travelling Allowances,76,80,"1,76",80,2235 60 200 AL 30402
+305,Office Expenses,"31,64","32,60","37,42","39,42",2235 60 200 AL 30500
+01,Telephone Charges,"5,18","6,97","6,72","6,97",2235 60 200 AL 30501
+02,Other Contingencies,"10,87","11,52","11,53","11,53",2235 60 200 AL 30502
+03,Electricity Charges,"9,34","7,41","12,47","14,22",2235 60 200 AL 30503
+04,Service Postage & Postal Expenditure,"6,25","6,69","6,69","6,69",2235 60 200 AL 30504
+05,Furniture,,1,1,1,2235 60 200 AL 30505
+306,"Rent, Rates and Taxes","44,83","36,74","33,93","35,29",2235 60 200 AL 30600
+01,Rent,"44,63","36,47","33,68","35,04",2235 60 200 AL 30601 
+03,Water Charges,20,27,25,25,2235 60 200 AL 30603
+319,Machinery and Equipments,,1,1,1,2235 60 200 AL 31900
+01,Purchase,,1,1,1,2235 60 200 AL 31901
+321,Motor Vehicles,"6,51","1,00","1,00","1,00",2235 60 200 AL 32100 
+01,Purchase,"5,93",,,,2235 60 200 AL 32101
+02,Maintenance of Functional Vehicles,58,"1,00","1,00","1,00",2235 60 200 AL 32102
+324,Materials and Supplies,,1,1,1,2235 60 200 AL 32400
+01,Materials and Supplies,,1,1,1,2235 60 200 AL 32401
+325,Interest,,1,1,1,2235 60 200 AL 32500
+01,Interest,,1,1,1,2235 60 200 AL 32501
+333,Payments for Professional and Special Services,33,4,4,3,2235 60 200 AL 33300
+09,Other Payments,33,4,4,3,2235 60 200 AL 33309
+345,"Petroleum, Oil and Lubricant","7,52","15,46","11,73","13,69",2235 60 200 AL 34500
+01,"Petroleum, Oil and Lubricant","7,52","15,46","11,73","13,69",2235 60 200 AL 34501
+349,Festival Advances,-59,,,,2235 60 200 AL 34900
+01,Festival Advances-Debit,"9,35","16,64","32,60","33,70",2235 60 200 AL 34901
+02,Festival Advances-Credit,"-9,94","-16,64","-32,60","-33,70",2235 60 200 AL 34902
+359,Prizes and Awards,9,5,,,2235 60 200 AL 35900
+01,Prizes and Awards,9,5,,,2235 60 200 AL 35901
+376,Computer and Accessories,"3,02","3,24","3,48","3,48",2235 60 200 AL 37600
+01,Purchase,3,,,,2235 60 200 AL 37601
+02,Maintenance,"1,61","1,60","1,73","1,73",2235 60 200 AL 37602
+03,Stationery,"1,38","1,64","1,75","1,75",2235 60 200 AL 37603
+AL,Total AL,"16,11,56","16,05,01","16,70,18","18,34,43",
+AM,"Contribution to T.N.Special Fund for Reconstruction and Rehabilitation of Ex-Servicemen-Annual Maintenance Grants to kin of Defence Personnel killed/or disabled in Indo-Pakistan war,1971",,,,,2235 60 200 AM 30000
+310,Contributions,"1,30,87","1,21,35","1,16,50","1,21,35",2235 60 200 AM 31000
+01,Contribution to Specific Fund,"1,30,87","1,21,35","1,16,50","1,21,35",2235 60 200 AM 31001
+AM,Total AM,"1,30,87","1,21,35","1,16,50","1,21,35",
+AN,Grants to Members of the Fighting Services for Conspicuous Gallantry in the Field,,,,,2235 60 200 AN 30000
+309,Grants-in-Aid,"1,03,45","1,31,50","1,31,50","89,95",2235 60 200 AN 30900
+09,Others,"1,03,45","1,31,50","1,31,50","89,95",2235 60 200 AN 30909
+AN,Total AN,"1,03,45","1,31,50","1,31,50","89,95",
+AP,"Specialised Coaching for recruitment in Defence Forces,,,,,2235 60 200 AP 30000
+304,Travel Expenses,,1","16""",1,1,2235 60 200 AP 30400,
+03,Fixed Travelling Allowances,,"1,16",1,1,2235 60 200 AP 30403
+305,Office Expenses,,2,1,1,2235 60 200 AP 30500
+02,Other Contingencies,,2,1,1,2235 60 200 AP 30502
+306,"Rent, Rates and Taxes",,5,1,1,2235 60 200 AP 30600
+01,Rent,,5,1,1,2235 60 200 AP 30601
+333,Payments for Professional and Special Services,,24,1,1,2235 60 200 AP 33300
+02,Remuneration,,24,1,1,2235 60 200 AP 33302
+367,Feeding/Dietary Charges,,10,1,1,2235 60 200 AP 36700
+09,Others,,10,1,1,2235 60 200 AP 36709
+AP,Total AP,"1,57",5,5,,
+BC,"Extension of Battle casuality facilities to the dependants of those  killed, disabled while performing duties in aid to Civil Power during peace time",,,,,2235 60 200 BC 30000
+309,Grants-in-Aid,"42,47","1,01,31","1,01,31","1,20,00",2235 60 200 BC 30900
+09,Others,"42,47","1,01,31","1,01,31","1,20,00",2235 60 200 BC 30909
+BC,Total BC,"42,47","1,01,31","1,01,31","1,20,00",
+DO,Lumpsum grant to the Children of Ex-Servicemen who join Armed Forces,,,,,2235 60 200 DO 30000
+309,Grants-in-Aid,"3,50","2,00","4,00","11,50",2235 60 200 DO 30900
+09,Others,"3,50","2,00","4,00","11,50",2235 60 200 DO 30909
+DO,Total DO,"3,50","2,00","4,00","11,50",
+#,State's Expenditure Total Charged,,1,1,1,
+#,State's Expenditure Total Voted,"21,70,37","22,71,15","23,60,40","25,49,21",
+200,Total 200 Charged,,1,1,1,
+200,Total 200 Voted,"21,70,37","22,71,15","23,60,40","25,49,21",
+60,Total 60 Voted,"21,70,37","22,71,15","23,60,40","25,49,21",
+2235,Total 2235 Charged,,1,1,1,
+2235,Total 2235 Voted,"21,70,37","22,71,15","23,60,40","25,49,21",
+2235,SOCIAL SECURITY AND WELFARE,,,,,
+01,Rehabilitation,,,,,
+105,Repatriates from Sri Lanka,,,,,
+#,State's Expenditure,,,,,
+AC,Refugees relief measures,,,,,2235 01 105 AC 30000
+301,Salaries,"6,71,19","6,69,96","6,61,53","6,84,01",2235 01 105 AC 30100
+01,Pay,"6,10,11","5,96,00","5,96,00","6,20,17",2235 01 105 AC 30101
+02,Medical Allowance,"4,33","4,24","4,24","4,24",2235 01 105 AC 30102
+03,Medical Charges,84,"3,27","1,49","1,49",2235 01 105 AC 30103
+04,Other Allowances,"8,18","17,14","9,16","9,22",2235 01 105 AC 30104
+06,House Rent Allowance,"41,90","42,46","42,04","42,04",2235 01 105 AC 30106
+07,Travel Concession,"1,51","2,20","3,95","2,20",2235 01 105 AC 30107
+08,City Compensatory Allowance,"4,32","4,65","4,65","4,65",2235 01 105 AC 30108
+302,Wages,"6,24","10,66","12,42","9,92",2235 01 105 AC 30200
+01,Wages,"6,24","10,66","12,42","9,92",2235 01 105 AC 30201
+303,Dearness Allowance,"66,86","77,80","95,36","1,51,94",2235 01 105 AC 30300
+01,Dearness Allowance,"66,86","77,80","95,36","1,51,94",2235 01 105 AC 30301
+304,Travel Expenses,"16,60","20,68","20,68","20,68",2235 01 105 AC 30400
+01,Tour Travelling Allowances,"16,27","20,28","20,28","20,28",2235 01 105 AC 30401
+02,Transfer Travelling Allowances,33,40,40,40,2235 01 105 AC 30402
+305,Office Expenses,"13,94,50","14,17,14","14,16,77","14,16,77",2235 01 105 AC 30500
+01,Telephone Charges,"1,05","2,27","1,90","1,90",2235 01 105 AC 30501
+02,Other Contingencies,"13,01","13,34","13,34","13,34",2235 01 105 AC 30502
+03,Electricity Charges,"13,78,94","14,00,00","14,00,00","14,00,00",2235 01 105 AC 30503
+04,Service Postage & Postal Expenditure,"1,50","1,52","1,52","1,52",2235 01 105 AC 30504
+05,Furniture,,1,1,1,2235 01 105 AC 30505
+306,"Rent, Rates and Taxes","26,44","27,71","20,00","22,00",2235 01 105 AC 30600
+01,Rent,"26,44","27,71","20,00","22,00",2235 01 105 AC 30601
+308,Advertising and Publicity,,1,1,1,2235 01 105 AC 30800
+01,Advertisement Charges,,1,1,1,2235 01 105 AC 30801
+309,Grants-in-Aid,"23,14,96","23,35,96","28,66,59","39,05,00",2235 01 105 AC 30900
+03,Grants for Specific Schemes,"26,62","29,51","29,51","29,51",2235 01 105 AC 30903
+09,Others,"22,88,34","23,06,45","28,37,08","38,75,49",2235 01 105 AC 30909
+317,Minor Works,"60,67",1,"24,11",1,2235 01 105 AC 31700
+01,Minor Works,"60,67",1,"24,11",1,2235 01 105 AC 31701
+318,Maintenance,"1,84",1,1,1,2235 01 105 AC 31800
+01,Periodical Maintenance,"1,84",1,1,1,2235 01 105 AC 31801
+319,Machinery and Equipments,,1,1,1,2235 01 105 AC 31900
+01,Purchase,,1,1,1,2235 01 105 AC 31901
+321,Motor Vehicles,64,"1,36","1,01","1,01",2235 01 105 AC 32100
+02,Maintenance of Functional Vehicles,64,"1,35","1,00","1,00",2235 01 105 AC 32102
+03,Hire Charges,,1,1,1,2235 01 105 AC 32103
+333,Payments for Professional and Special Services,12,2,52,2,2235 01 105 AC 33300
+01,Pleaders Fees,12,1,51,1,2235 01 105 AC 33301
+02,Remuneration,,1,1,1,2235 01 105 AC 33302
+345,"Petroleum, Oil and Lubricant","1,73","4,08","3,30","3,30",2235 01 105 AC 34500
+01,"Petroleum, Oil and Lubricant","1,73","4,08","3,30","3,30",2235 01 105 AC 34501
+346,"Clothing, Tentage and Stores","2,23,85","2,24,95","2,72,19","2,60,44",2235 01 105 AC 34600
+01,"Clothing, Tentage and Stores","2,23,85","2,24,95","2,72,19","2,60,44",2235 01 105 AC 34601
+349,Festival Advances,-41,,,,2235 01 105 AC 34900
+01,Festival Advances-Debit,"3,45","6,95","14,30","14,30",2235 01 105 AC 34901
+02,Festival Advances-Credit,"-3,86","-6,95","-14,30","-14,30",2235 01 105 AC 34902
+351,Compensation,,1,1,1,2235 01 105 AC 35100
+01,Claims under no fault liability -  principal,,1,1,1,2235 01 105 AC 35101
+charges  - Voted,,,,,,
+356,Feeding and Cash Doles,"56,61,86","57,40,00","57,00,00","57,00,00",2235 01 105 AC 35600
+01,Feeding and Cash Doles,"56,61,86","57,40,00","57,00,00","57,00,00",2235 01 105 AC 35601
+359,Prizes and Awards,,1,1,1,2235 01 105 AC 35900
+01,Prizes and Awards,,1,1,1,2235 01 105 AC 35901
+371,Printing Charges,"1,48","1,50","1,50","1,50",2235 01 105 AC 37100
+01,Printing Charges,"1,48","1,50","1,50","1,50",2235 01 105 AC 37101
+376,Computer and Accessories,"12,10","6,41","8,53","6,41",2235 01 105 AC 37600
+01,Purchase,"5,87",1,"2,13",1,2235 01 105 AC 37601
+02,Maintenance,"1,90","2,00","2,00","2,00",2235 01 105 AC 37602
+03,Stationery,"4,33","4,40","4,40","4,40",2235 01 105 AC 37603
+AC,Total AC,"1,04,60,67","1,05,38,29","1,11,04,56","1,21,83,06",
+#,State's Expenditure Total,"1,04,60,67","1,05,38,29","1,11,04,56","1,21,83,06",
+105,Total 105,"1,04,60,67","1,05,38,29","1,11,04,56","1,21,83,06",
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+AH,Welfare of Non-Resident Tamils,,,,,2235 01 800 AH 30000
+301,Salaries,"15,04","15,06","15,49","15,69",2235 01 800 AH 30100
+01,Pay,"13,22","13,20","13,20","13,40",2235 01 800 AH 30101
+02,Medical Allowance,14,15,16,16,2235 01 800 AH 30102
+03,Medical Charges,,1,1,1,2235 01 800 AH 30103
+04,Other Allowances,3,28,28,28,2235 01 800 AH 30104
+06,House Rent Allowance,"1,40","1,00","1,42","1,42",2235 01 800 AH 30106
+07,Travel Concession,,10,10,10,2235 01 800 AH 30107
+08,City Compensatory Allowance,25,32,32,32,2235 01 800 AH 30108
+303,Dearness Allowance,"1,14","1,40","2,11","3,28",2235 01 800 AH 30300
+01,Dearness Allowance,"1,14","1,40","2,11","3,28",2235 01 800 AH 30301
+304,Travel Expenses,,40,40,40,2235 01 800 AH 30400
+01,Tour Travelling Allowances,,40,40,40,2235 01 800 AH 30401
+305,Office Expenses,"3,55","1,01",76,76,2235 01 800 AH 30500
+01,Telephone Charges,4,35,10,10,2235 01 800 AH 30501
+02,Other Contingencies,"3,51",66,66,66,2235 01 800 AH 30502
+308,Advertising and Publicity,,1,1,1,2235 01 800 AH 30800
+01,Advertisement Charges,,1,1,1,2235 01 800 AH 30801
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,10,25,50,50,2235 01 800 AH 34901
+02,Festival Advances-Credit,-10,-25,-50,-50,2235 01 800 AH 34902
+371,Printing Charges,"2,99",,47,1,2235 01 800 AH 37100
+01,Printing Charges,"2,99",,47,1,2235 01 800 AH 37101
+372,Training,,,"21,28",1,2235 01 800 AH 37200
+01,Training,,,"21,28",1,2235 01 800 AH 37201
+373,Transport Charges,,1,74,1,2235 01 800 AH 37300
+01,Transport Charges,,1,74,1,2235 01 800 AH 37301
+376,Computer and Accessories,60,60,60,60,2235 01 800 AH 37600
+03,Stationery,60,60,60,60,2235 01 800 AH 37603
+AH,Total AH,"23,32","18,49","41,86","20,77",
+AI,Transportation of deceased Non Resident Tamils / Repatriation of Tamil Nationals in distress/ medical invalidation,,,,,2235 01 800 AI 30000
+351,Compensation,"10,60","1,00,00","1,00,00","1,00,00",2235 01 800 AI 35100 
+02,Other Compensations  - Voted,"10,60","1,00,00","1,00,00","1,00,00",2235 01 800 AI 35102
+AI,Total AI,"10,60","1,00,00","1,00,00","1,00,00",
+#,State's Expenditure Total,"33,92","1,18,49","1,41,86","1,20,77",
+800,Total 800,"33,92","1,18,49","1,41,86","1,20,77",
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+AC,Refugees relief measures,,,,,2235 01 911 AC 30000
+377,Deduct-Recoveries,"-17,84",,"-20,04",,2235 01 911 AC 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-17,84",,"-20,04",,2235 01 911 AC 37702
+AC,Total AC,"-17,84",,"-20,04",,
+#,State's Expenditure Total,"-17,84",,"-20,04",,
+911,Total 911,"-17,84",,"-20,04",,
+01,Total 01,"1,04,76,75","1,06,56,78","1,12,26,38","1,23,03,83",
+2235,Total 2235,"1,04,76,75","1,06,56,78","1,12,26,38","1,23,03,83",
