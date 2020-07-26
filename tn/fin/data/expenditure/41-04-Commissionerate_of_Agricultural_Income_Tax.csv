@@ -1,0 +1,28 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2020-00,COLLECTION OF TAXES ON INCOME AND EXPENDITURE,,,,,
+104,Collection charges-Agriculture Income Tax,,,,,
+#,State's Expenditure,,,,,
+AA,Headquarters Establishment,,,,,2020 00 104 AA 30000
+301,Salaries,,10,6,6,2020 00 104 AA 30100
+01,Pay,,3,1,1,2020 00 104 AA 30101
+03,Medical Charges,,1,1,1,2020 00 104 AA 30103
+04,Other Allowances,,1,1,1,2020 00 104 AA 30104
+06,House Rent Allowance,,2,1,1,2020 00 104 AA 30106
+07,Travel Concession,,1,1,1,2020 00 104 AA 30107
+08,City Compensatory Allowance,,2,1,1,2020 00 104 AA 30108
+303,Dearness Allowance,,1,1,,2020 00 104 AA 30300
+01,Dearness Allowance,,1,1,,2020 00 104 AA 30301
+304,Travel Expenses,,,50,60,2020 00 104 AA 30400
+01,Tour Travelling Allowances,,,50,60,2020 00 104 AA 30401
+305,Office Expenses,,,5,5,2020 00 104 AA 30500
+02,Other Contingencies,,,5,5,2020 00 104 AA 30502
+333,Payments for Professional and Special Services,"1,62","1,80","3,60","3,60",2020 00 104 AA 33300
+04,Contract Payment,"1,62","1,80","3,60","3,60",2020 00 104 AA 33304
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,,1,1,2020 00 104 AA 34901
+02,Festival Advances-Credit,,,-1,-1,2020 00 104 AA 34902
+AA,Total AA,"1,62","1,91","4,22","4,31",
+#,State's Expenditure Total,"1,62","1,91","4,22","4,31",
+104,Total 104,"1,62","1,91","4,22","4,31",
+00,Total 00,"1,62","1,91","4,22","4,31",
+2020,Total 2020,"1,62","1,91","4,22","4,31",

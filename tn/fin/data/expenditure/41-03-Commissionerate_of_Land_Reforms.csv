@@ -1,0 +1,258 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2053-00,DISTRICT ADMINISTRATION,,,,,
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+BA,Sub-Divisional Establishment,,,,,2053 00 911 BA 30000
+377,Deduct-Recoveries,-29,,,,2053 00 911 BA 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-29,,,,2053 00 911 BA 37702
+BA,Total BA,-29,,,,
+#,State's Expenditure Total,-29,,,,
+911,Total 911,-29,,,,
+00,Total 00,-29,,,,
+2053,Total 2053,-29,,,,
+2235,SOCIAL SECURITY,,,,,
+AND WELFARE,,,,,,
+60,Other Social Security,,,,,
+and Welfare Programmes,,,,,,
+200,Other Programmes,,,,,
+#,State's Expenditure,,,,,
+JC,Chief Minister's Farmers,,,,,
+Security Scheme,,,,,2235 60 200 JC 30000,
+305,Office Expenses,"1,86,57","50,01","50,01","50,01",2235 60 200 JC 30500
+01,Telephone Charges,,1,1,1,2235 60 200 JC 30501
+02,Other Contingencies,"1,86,57","50,00","50,00","50,00",2235 60 200 JC 30502
+309,Grants-in-Aid,"1,74,90,31","1,11,95,71","1,32,28,08","1,11,95,71",2235 60 200 JC 30900
+03,Grants for Specific Schemes,"1,74,90,31","1,11,95,71","1,32,28,08","1,11,95,71",2235 60 200 JC 30903
+371,Printing Charges,"4,31","5,00","5,00","5,00",2235 60 200 JC 37100
+01,Printing Charges,"4,31","5,00","5,00","5,00",2235 60 200 JC 37101
+376,Computer and Accessories,66,75,79,83,2235 60 200 JC 37600
+03,Stationery,66,75,79,83,2235 60 200 JC 37603
+JC,Total JC,"1,76,81,85","1,12,51,47","1,32,83,88","1,12,51,55",
+LA,Comprehensive Accident -,,,,,
+cum - Life Insurance,,,,,,
+Scheme,,,,,2235 60 200 LA 30000,
+309,Grants-in-Aid,,"1,64,81,92","1,64,81,92",,2235 60 200 LA 30900
+03,Grants for Specific Schemes,,"1,64,81,92","1,64,81,92",,2235 60 200 LA 30903
+LA,Total LA,"1,64,81,92","1,64,81,92",,,
+#,State's Expenditure Total,"1,76,81,85","2,77,33,39","2,97,65,80","1,12,51,55",
+200,Total 200,"1,76,81,85","2,77,33,39","2,97,65,80","1,12,51,55",
+789,Special Component Plan,,,,,
+for Scheduled Castes,,,,,,
+#,State's Expenditure,,,,,
+JG,Chief Minister's Farmers,,,,,
+Security Scheme under,,,,,,
+Special Component Plan,,,,,2235 60 789 JG 30000,
+309,Grants-in-Aid,"89,13,91","56,61,28","66,92,46","56,61,28",2235 60 789 JG 30900
+03,Grants for Specific Schemes,"89,13,91","56,61,28","66,92,46","56,61,28",2235 60 789 JG 30903
+JG,Total JG,"89,13,91","56,61,28","66,92,46","56,61,28",
+JZ,Comprehensive Accident -,,,,,
+cum - Life Insurance,,,,,,
+Scheme,,,,,2235 60 789 JZ 30000,
+309,Grants-in-Aid,,"83,34,32","83,34,32",,2235 60 789 JZ 30900
+03,Grants for Specific Schemes,,"83,34,32","83,34,32",,2235 60 789 JZ 30903
+JZ,Total JZ,"83,34,32","83,34,32",,,
+#,State's Expenditure Total,"89,13,91","1,39,95,60","1,50,26,78","56,61,28",
+789,Total 789,"89,13,91","1,39,95,60","1,50,26,78","56,61,28",
+796,Tribal Area Sub-Plan,,,,,
+#,State's Expenditure,,,,,
+JE,Chief Minister's Farmers,,,,,
+Security Scheme under,,,,,,
+Tribal Area Sub-Plan,,,,,2235 60 796 JE 30000,
+309,Grants-in-Aid,"1,96,38","1,24,80","1,61,25","1,24,80",2235 60 796 JE 30900
+03,Grants for Specific Schemes,"1,96,38","1,24,80","1,61,25","1,24,80",2235 60 796 JE 30903
+JE,Total JE,"1,96,38","1,24,80","1,61,25","1,24,80",
+JW,Comprehensive Accident -,,,,,
+cum - Life Insurance,,,,,,
+Scheme,,,,,2235 60 796 JW 30000,
+309,Grants-in-Aid,,"1,83,76","1,83,76",,2235 60 796 JW 30900
+03,Grants for Specific Schemes,,"1,83,76","1,83,76",,2235 60 796 JW 30903
+JW,Total JW,"1,83,76","1,83,76",,,
+#,State's Expenditure Total,"1,96,38","3,08,56","3,45,01","1,24,80",
+796,Total 796,"1,96,38","3,08,56","3,45,01","1,24,80",
+911,Deduct - Recoveries of,,,,,
+Overpayments,,,,,,
+#,State's Expenditure,,,,,
+JE,Chief Minister's Farmers,,,,,
+Security Scheme under,,,,,,
+Tribal Area Sub-Plan,,,,,2235 60 911 JE 30000,
+377,Deduct-Recoveries,"-23,46",,,,2235 60 911 JE 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-23,46",,,,2235 60 911 JE 37702
+JE,Total JE,"-23,46",,,,
+JG,Chief Minister's Farmers,,,,,
+Security Scheme under,,,,,,
+Special Component Plan,,,,,2235 60 911 JG 30000,
+377,Deduct-Recoveries,-12,,,,2235 60 911 JG 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-12,,,,2235 60 911 JG 37702
+JG,Total JG,-12,,,,
+JO,Social Security Net -,,,,,
+Indira Gandhi National,,,,,,
+Old Age Pension under,,,,,,
+Commissionerate of Land,,,,,,
+Reforms,,,,,2235 60 911 JO 30000,
+377,Deduct-Recoveries,-8,,,,2235 60 911 JO 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-8,,,,2235 60 911 JO 37702
+JO,Total JO,-8,,,,
+#,State's Expenditure Total,"-23,66",,,,
+911,Total 911,"-23,66",,,,
+60,Total 60,"2,67,68,48","4,20,37,55","4,51,37,59","1,70,37,63",
+2235,Total 2235,"2,67,68,48","4,20,37,55","4,51,37,59","1,70,37,63",
+2515-00,OTHER RURAL,,,,,
+DEVELOPMENT,,,,,,
+PROGRAMMES,,,,,,
+001,Direction and,,,,,
+Administration,,,,,,
+#,State's Expenditure,,,,,
+AS,Investigation of Gramdhan Villages,,,,,2515 00 001 AS 30000
+301,Salaries,"9,70","16,26","19,19","20,02",2515 00 001 AS 30100
+01,Pay,"8,42","14,48","16,63","17,30",2515 00 001 AS 30101
+02,Medical Allowance,9,14,22,14,2515 00 001 AS 30102
+03,Medical Charges,,12,12,12,2515 00 001 AS 30103
+04,Other Allowances,9,9,21,21,2515 00 001 AS 30104
+06,House Rent Allowance,90,88,"1,46","1,51",2515 00 001 AS 30106
+07,Travel Concession,,6,6,6,2515 00 001 AS 30107
+08,City Compensatory Allowance,20,49,49,68,2515 00 001 AS 30108
+303,Dearness Allowance,"2,93","7,13","10,08","4,24",2515 00 001 AS 30300
+01,Dearness Allowance,"2,93","7,13","10,08","4,24",2515 00 001 AS 30301
+304,Travel Expenses,,14,14,14,2515 00 001 AS 30400
+01,Tour Travelling Allowances,,14,14,14,2515 00 001 AS 30401
+309,Grants-in-Aid,,"3,15","3,15","3,15",2515 00 001 AS 30900
+01,Grants for Current Expenditure,,"3,15","3,15","3,15",2515 00 001 AS 30901
+349,Festival Advances,-6,,,,2515 00 001 AS 34900
+01,Festival Advances-Debit,,20,40,40,2515 00 001 AS 34901
+02,Festival Advances-Credit,-6,-20,-40,-40,2515 00 001 AS 34902
+359,Prizes and Awards,,2,2,2,2515 00 001 AS 35900
+01,Prizes and Awards,,2,2,2,2515 00 001 AS 35901
+AS,Total AS,"12,57","26,70","32,58","27,57",
+#,State's Expenditure Total,"12,57","26,70","32,58","27,57",
+001,Total 001,"12,57","26,70","32,58","27,57",
+00,Total 00,"12,57","26,70","32,58","27,57",
+2515,Total 2515,"12,57","26,70","32,58","27,57",
+3475-00,OTHER GENERAL ECONOMIC SERVICES,,,,,
+201,Land Ceilings (other than Agricultural land),,,,,
+#,State's Expenditure,,,,,
+AA,"Cash Compensation Paid under Tamil Nadu Land Ceiling Act, 1961",,,,,3475 00 201 AA 30000
+351,Compensation,92,"5,00","5,00","5,00",3475 00 201 AA 35100
+01,Claims under no fault liability -  principal charges  - Voted,92,"5,00","5,00","5,00",3475 00 201 AA 35101
+AA,Total AA,92,"5,00","5,00","5,00",
+AD,Director of Land Reforms - Headquarters Staff,,,,,3475 00 201 AD 30000
+301,Salaries,"2,51,51","2,35,39","2,72,35","2,83,73",3475 00 201 AD 30100
+01,Pay,"2,16,99","2,01,58","2,31,57","2,40,83",3475 00 201 AD 30101
+02,Medical Allowance,"1,32","1,08","1,51","1,08",3475 00 201 AD 30102
+03,Medical Charges,"1,10","1,66","1,66","1,66",3475 00 201 AD 30103
+04,Other Allowances,"2,89","3,10","2,98","3,00",3475 00 201 AD 30104
+06,House Rent Allowance,"24,85","22,87","28,15","29,27",3475 00 201 AD 30106
+07,Travel Concession,,"1,50","1,80","1,90",3475 00 201 AD 30107
+08,City Compensatory Allowance,"4,36","3,60","4,68","5,99",3475 00 201 AD 30108
+303,Dearness Allowance,"39,27","23,12","32,69","59,00",3475 00 201 AD 30300
+01,Dearness Allowance,"39,27","23,12","32,69","59,00",3475 00 201 AD 30301
+304,Travel Expenses,"1,04",80,"2,10","1,80",3475 00 201 AD 30400
+01,Tour Travelling Allowances,"1,04",80,"2,10","1,80",3475 00 201 AD 30401
+305,Office Expenses,"3,49","4,21","4,21","4,23",3475 00 201 AD 30500
+01,Telephone Charges,73,"1,30","1,30","1,30",3475 00 201 AD 30501
+02,Other Contingencies,"2,46","2,50","2,50","2,50",3475 00 201 AD 30502
+04,Service Postage & Postal Expenditure,30,40,40,42,3475 00 201 AD 30504
+05,Furniture,,1,1,1,3475 00 201 AD 30505
+306,"Rent, Rates and Taxes",,1,1,1,3475 00 201 AD 30600
+05,Others,,1,1,1,3475 00 201 AD 30605
+319,Machinery and Equipments,3,36,36,36,3475 00 201 AD 31900
+01,Purchase,,1,1,1,3475 00 201 AD 31901
+02,Renewal and Replacement,,5,5,5,3475 00 201 AD 31902
+03,Maintenance,3,30,30,30,3475 00 201 AD 31903
+321,Motor Vehicles,58,81,"8,09",81,3475 00 201 AD 32100
+01,Purchase,,1,"7,29",1,3475 00 201 AD 32101
+02,Maintenance of Functional Vehicles,58,80,80,80,3475 00 201 AD 32102
+333,Payments for Professional and Special Services,4,"2,27","4,06","2,27",3475 00 201 AD 33300
+01,Pleaders Fees,4,"2,25","2,25","2,25",3475 00 201 AD 33301
+03,Special Service,,1,1,1,3475 00 201 AD 33303
+04,Contract Payment,,1,"1,80",1,3475 00 201 AD 33304
+345,"Petroleum, Oil and Lubricant",14,"3,00","3,00","3,00",3475 00 201 AD 34500
+01,"Petroleum, Oil and Lubricant",14,"3,00","3,00","3,00",3475 00 201 AD 34501
+349,Festival Advances,56,,,,3475 00 201 AD 34900
+01,Festival Advances-Debit,"1,70","3,00","6,00","6,00",3475 00 201 AD 34901
+02,Festival Advances-Credit,"-1,14","-3,00","-6,00","-6,00",3475 00 201 AD 34902
+351,Compensation Charged,,1,1,1,3475 00 201 AD 35100
+51,Claims under no fault liability -  principal charges Charged,,1,1,1,3475 00 201 AD 35151
+359,Prizes and Awards,,14,14,14,3475 00 201 AD 35900
+01,Prizes and Awards,,14,14,14,3475 00 201 AD 35901
+372,Training,"4,97","5,00","5,00","5,00",3475 00 201 AD 37200
+01,Training,"4,97","5,00","5,00","5,00",3475 00 201 AD 37201
+376,Computer and Accessories,95,"1,11","3,90","1,16",3475 00 201 AD 37600
+01,Purchase,,1,"2,80",1,3475 00 201 AD 37601
+02,Maintenance,74,75,75,75,3475 00 201 AD 37602
+03,Stationery,21,35,35,40,3475 00 201 AD 37603
+AD,Total AD Charged,,1,1,1,
+AD,Total AD Voted,"3,02,58","2,76,22","3,35,91","3,61,51",
+AE,Sub-Divisional Establishment,,,,,3475 00 201 AE 30000
+301,Salaries,"3,46,40","2,93,46","3,39,04","3,52,54",3475 00 201 AE 30100
+01,Pay,"3,19,20","2,72,60","3,13,16","3,25,69",3475 00 201 AE 30101
+02,Medical Allowance,"2,44","2,48","2,21","2,48",3475 00 201 AE 30102
+03,Medical Charges,1,22,22,22,3475 00 201 AE 30103
+04,Other Allowances,"2,32","2,93","2,93","2,93",3475 00 201 AE 30104
+06,House Rent Allowance,"20,05","12,22","17,47","18,17",3475 00 201 AE 30106
+07,Travel Concession,30,"1,20","1,20","1,20",3475 00 201 AE 30107
+08,City Compensatory Allowance,"2,08","1,81","1,85","1,85",3475 00 201 AE 30108
+302,Wages,"2,64",1,,,3475 00 201 AE 30200
+01,Wages,"2,64",1,,,3475 00 201 AE 30201
+303,Dearness Allowance,"55,43","29,51","41,73","79,79",3475 00 201 AE 30300
+01,Dearness Allowance,"55,43","29,51","41,73","79,79",3475 00 201 AE 30301
+304,Travel Expenses,"9,31","13,00","13,00","13,00",3475 00 201 AE 30400
+01,Tour Travelling Allowances,"8,94","11,60","11,60","11,60",3475 00 201 AE 30401
+02,Transfer Travelling Allowances,37,"1,40","1,40","1,40",3475 00 201 AE 30402
+305,Office Expenses,"9,51","13,05","14,08","14,48",3475 00 201 AE 30500
+01,Telephone Charges,"2,41","2,64","3,56","3,56",3475 00 201 AE 30501
+02,Other Contingencies,"3,70","4,00","4,00","4,00",3475 00 201 AE 30502
+03,Electricity Charges,82,"3,00","3,11","3,33",3475 00 201 AE 30503
+04,Service Postage & Postal Expenditure,"2,58","3,40","3,40","3,58",3475 00 201 AE 30504
+05,Furniture,,1,1,1,3475 00 201 AE 30505
+306,"Rent, Rates and Taxes","2,04","7,50","7,50","4,50",3475 00 201 AE 30600
+01,Rent,"2,04","7,50","7,50","4,50",3475 00 201 AE 30601
+319,Machinery and Equipments,,1,1,1,3475 00 201 AE 31900
+01,Purchase,,1,1,1,3475 00 201 AE 31901
+321,Motor Vehicles,34,41,41,41,3475 00 201 AE 32100
+01,Purchase,,1,1,1,3475 00 201 AE 32101
+02,Maintenance of Functional Vehicles,34,40,40,40,3475 00 201 AE 32102
+333,Payments for Professional and Special Services,"2,23","5,25","20,19","11,62",3475 00 201 AE 33300
+01,Pleaders Fees,,25,78,78,3475 00 201 AE 33301
+03,Special Service,,1,1,1,3475 00 201 AE 33303
+04,Contract Payment,"2,23","4,99","19,40","10,83",3475 00 201 AE 33304
+345,"Petroleum, Oil and Lubricant","5,66","7,00","7,00","7,00",3475 00 201 AE 34500
+01,"Petroleum, Oil and Lubricant","5,66","7,00","7,00","7,00",3475 00 201 AE 34501
+349,Festival Advances,-7,,,,3475 00 201 AE 34900
+01,Festival Advances-Debit,"2,55","5,20","10,40","10,40",3475 00 201 AE 34901
+02,Festival Advances-Credit,"-2,62","-5,20","-10,40","-10,40",3475 00 201 AE 34902
+359,Prizes and Awards,,24,24,24,3475 00 201 AE 35900
+01,Prizes and Awards,,24,24,24,3475 00 201 AE 35901
+376,Computer and Accessories,78,83,"1,20","1,37",3475 00 201 AE 37600
+01,Purchase,,1,,1,3475 00 201 AE 37601
+03,Stationery,78,82,"1,20","1,36",3475 00 201 AE 37603
+AE,Total AE,"4,34,27","3,70,27","4,44,40","4,84,96",
+AH,Headquarters Staff - Commissioner of Land Reforms,,,,,3475 00 201 AH 30000
+301,Salaries,"38,90","49,57","47,43","49,14",3475 00 201 AH 30100
+01,Pay,"29,69","31,28","35,94","37,38",3475 00 201 AH 30101
+03,Medical Charges,36,"2,20","2,20","2,20",3475 00 201 AH 30103
+04,Other Allowances,"1,56","1,68","1,56","1,56",3475 00 201 AH 30104
+06,House Rent Allowance,"7,13","12,91","6,48","6,75",3475 00 201 AH 30106
+07,Travel Concession,,"1,10","1,10","1,10",3475 00 201 AH 30107
+08,City Compensatory Allowance,16,40,15,15,3475 00 201 AH 30108
+303,Dearness Allowance,"2,58","7,83","11,07","9,16",3475 00 201 AH 30300
+01,Dearness Allowance,"2,58","7,83","11,07","9,16",3475 00 201 AH 30301
+304,Travel Expenses,62,"1,46","1,46","1,46",3475 00 201 AH 30400
+01,Tour Travelling Allowances,62,"1,46","1,46","1,46",3475 00 201 AH 30401
+305,Office Expenses,"1,37","1,75","1,75","1,75",3475 00 201 AH 30500
+01,Telephone Charges,49,75,75,75,3475 00 201 AH 30501
+02,Other Contingencies,88,"1,00","1,00","1,00",3475 00 201 AH 30502
+321,Motor Vehicles,,,40,40,3475 00 201 AH 32100
+02,Maintenance of Functional Vehicles,,,40,40,3475 00 201 AH 32102
+345,"Petroleum, Oil and Lubricant",,,"1,50","1,60",3475 00 201 AH 34500
+01,"Petroleum, Oil and Lubricant",,,"1,50","1,60",3475 00 201 AH 34501
+376,Computer and Accessories,"17,16",10,10,10,3475 00 201 AH 37600
+03,Stationery,"17,16",10,10,10,3475 00 201 AH 37603
+AH,Total AH,"60,63","60,71","63,71","63,61",
+#,State's Expenditure Total Charged,,1,1,1,
+#,State's Expenditure Total Voted,"7,98,40","7,12,20","8,49,02","9,15,08",
+201,Total 201 Charged,,1,1,1,
+201,Total 201 Voted,"7,98,40","7,12,20","8,49,02","9,15,08",
+00,Total 00 Charged,,1,1,1,
+00,Total 00 Voted,"7,98,40","7,12,20","8,49,02","9,15,08",
+3475,Total 3475 Charged,,1,1,1,
+3475,Total 3475 Voted,"7,98,40","7,12,20","8,49,02","9,15,08",

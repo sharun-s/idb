@@ -1,0 +1,1119 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2059,PUBLIC WORKS,,,,,
+01,Office Buildings,,,,,
+053,Maintenance and Repairs,,,,,
+#,State's Expenditure,,,,,
+AD,Buildings - Inspection Bungalows and Circuit Houses,,,,,2059 01 053 AD 30000
+305,Office Expenses,"2,06,71","2,09,50","2,09,50","2,19,98",2059 01 053 AD 30500
+01,Telephone Charges,"2,30","5,00","5,00","5,25",2059 01 053 AD 30501
+02,Other Contingencies,"7,42","4,50","4,50","4,73",2059 01 053 AD 30502
+03,Electricity Charges,"1,96,99","2,00,00","2,00,00","2,10,00",2059 01 053 AD 30503
+306,"Rent, Rates and Taxes","71,16","80,00","97,92","1,00,00",2059 01 053 AD 30600
+02,Property tax,"67,82","75,00","87,83","90,00",2059 01 053 AD 30602
+03,Water Charges,"3,34","5,00","10,09","10,00",2059 01 053 AD 30603
+317,Minor Works,"39,92","35,00","35,00","36,75",2059 01 053 AD 31700
+01,Minor Works,"39,92","35,00","35,00","36,75",2059 01 053 AD 31701
+318,Maintenance,"7,20,37","6,00,00","6,50,00","6,30,00",2059 01 053 AD 31800
+01,Periodical Maintenance,"7,20,37","6,00,00","6,50,00","6,30,00",2059 01 053 AD 31801
+333,Payments for Professional and Special Services,"1,88,94","2,00,00","4,39,53","7,54,53",2059 01 053 AD 33300
+04,Contract Payment,"1,88,94","2,00,00","4,39,53","7,54,53",2059 01 053 AD 33304
+347,Stores and Equipments,"12,26","11,00","11,00","11,55",2059 01 053 AD 34700
+01,Stores - Voted,"12,26","11,00","11,00","11,55",2059 01 053 AD 34701
+AD,Total AD,"12,39,36","11,35,50","14,42,95","17,52,81",
+AE,Public Works Department - Office Buildings,,,,,2059 01 053 AE 30000
+306,"Rent, Rates and Taxes","2,20,49","2,83,50","3,23,42","2,90,00",2059 01 053 AE 30600
+02,Property tax,"2,14,03","2,75,00","2,96,62","2,75,00",2059 01 053 AE 30602
+03,Water Charges,"6,46","8,50","26,80","15,00",2059 01 053 AE 30603
+317,Minor Works,"20,25",1,"7,00",,2059 01 053 AE 31700
+01,Minor Works,"20,25",1,"7,00",,2059 01 053 AE 31701
+318,Maintenance,"6,45,37","6,70,00","7,20,00","8,53,50",2059 01 053 AE 31800
+01,Periodical Maintenance,"6,45,37","6,70,00","7,20,00","8,53,50",2059 01 053 AE 31801
+333,Payments for Professional and Special Services,"39,82","45,00","3,91,07","10,90,13",2059 01 053 AE 33300
+04,Contract Payment,"39,82","45,00","3,91,07","10,90,13",2059 01 053 AE 33304
+AE,Total AE,"9,25,93","9,98,51","14,41,49","22,33,63",
+BM,"Buildings- State Guest House, Chepauk",,,,,2059 01 053 BM 30000
+318,Maintenance,"31,63","32,50","32,50","32,50",2059 01 053 BM 31800
+01,Periodical Maintenance,"31,63","32,50","32,50","32,50",2059 01 053 BM 31801
+BM,Total BM,"31,63","32,50","32,50","32,50",
+BN,"Buildings- Government Rest House,Chindaripet",,,,,2059 01 053 BN 30000
+318,Maintenance,"5,95","6,00","6,00","6,00",2059 01 053 BN 31800
+01,Periodical Maintenance,"5,95","6,00","6,00","6,00",2059 01 053 BN 31801
+BN,Total BN,"5,95","6,00","6,00","6,00",
+CJ,"Tamil Nadu Guest House, Udagamandalam",,,,,2059 01 053 CJ 30000
+318,Maintenance,"54,88","55,00","55,00","55,00",2059 01 053 CJ 31800
+01,Periodical Maintenance,"54,88","55,00","55,00","55,00",2059 01 053 CJ 31801
+CJ,Total CJ,"54,88","55,00","55,00","55,00",
+DA,"Maintenance of Tamil Nadu House, New Delhi",,,,,2059 01 053 DA 30000
+318,Maintenance,"2,46,22","1,50,00","3,49,00",,2059 01 053 DA 31800
+01,Periodical Maintenance,"2,46,22","1,50,00","3,49,00",,2059 01 053 DA 31801
+DA,Total DA,"2,46,22","1,50,00","3,49,00",,
+DM,"Buildings - State Judicial Academy (Administrated by Chief Engineer, Buildings, PWD)",,,,,2059 01 053 DM 30000
+318,Maintenance,"13,58","16,00","16,00","16,00",2059 01 053 DM 31800 
+01,Periodical Maintenance,"13,58","16,00","16,00","16,00",2059 01 053 DM 31801
+DM,Total DM,"13,58","16,00","16,00","16,00",
+#,State's Expenditure Total,"25,17,55","23,93,51","33,42,94","40,95,94",
+053,Total 053,"25,17,55","23,93,51","33,42,94","40,95,94",
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+AE,Public Works Department - Office Buildings,,,,,2059 01 911 AE 30000
+377,Deduct-Recoveries,"-7,14",,,,2059 01 911 AE 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-7,14",,,,2059 01 911 AE 37702
+AE,Total AE,"-7,14",,,,
+#,State's Expenditure Total,"-7,14",,,,
+911,Total 911,"-7,14",,,,
+01,Total 01,"25,10,41","23,93,51","33,42,94","40,95,94",
+80,General,,,,,
+001,Direction and Administration,,,,,
+#,State's Expenditure,,,,,
+AA,Chief Engineers,,,,,2059 80 001 AA 30000
+301,Salaries,"10,58,87","11,29,73","9,81,79","14,30,87",2059 80 001 AA 30100
+01,Pay,"9,44,73","10,12,48","8,77,60","13,10,94",2059 80 001 AA 30101
+02,Medical Allowance,"5,88","6,06","6,08","6,08",2059 80 001 AA 30102
+03,Medical Charges,"1,16","2,18","1,96","1,96",2059 80 001 AA 30103
+04,Other Allowances,"7,12","7,73","7,45","7,75",2059 80 001 AA 30104
+06,House Rent Allowance,"83,99","85,71","73,78","87,96",2059 80 001 AA 30106
+07,Travel Concession,"1,11",77,"1,04","1,04",2059 80 001 AA 30107
+08,City Compensatory Allowance,"14,88","14,80","13,88","15,14",2059 80 001 AA 30108
+303,Dearness Allowance,"2,94,38","2,91,46","2,95,70","3,04,57",2059 80 001 AA 30300
+01,Dearness Allowance,"2,94,38","2,91,46","2,95,70","3,04,57",2059 80 001 AA 30301
+304,Travel Expenses,"4,90","8,64","7,29","8,69",2059 80 001 AA 30400
+01,Tour Travelling Allowances,"4,78","8,00","6,60","8,00",2059 80 001 AA 30401
+02,Transfer Travelling Allowances,12,64,69,69,2059 80 001 AA 30402
+305,Office Expenses,"16,48","24,89","27,05","28,82",2059 80 001 AA 30500
+01,Telephone Charges,"4,39","5,68","5,78","5,78",2059 80 001 AA 30501
+02,Other Contingencies,"3,15","3,31","3,47","3,67",2059 80 001 AA 30502
+03,Electricity Charges,"6,89","13,65","15,65","17,05",2059 80 001 AA 30503
+04,Service Postage & Postal Expenditure,"2,05","2,25","2,15","2,32",2059 80 001 AA 30504
+319,Machinery and Equipments,,12,12,12,2059 80 001 AA 31900
+03,Maintenance,,12,12,12,2059 80 001 AA 31903
+321,Motor Vehicles,-21,1,"1,85,70",1,2059 80 001 AA 32100
+01,Purchase,-21,1,"1,85,70",1,2059 80 001 AA 32101
+333,Payments for Professional and Special Services,"2,12",69,"3,40","2,70",2059 80 001 AA 33300
+01,Pleaders Fees,"1,58",4,"2,04",85,2059 80 001 AA 33301
+04,Contract Payment,54,65,"1,36","1,85",2059 80 001 AA 33304
+346,"Clothing, Tentage and Stores",21,24,26,26,2059 80 001 AA 34600
+01,"Clothing, Tentage and Stores",21,24,26,26,2059 80 001 AA 34601
+349,Festival Advances,30,,,,2059 80 001 AA 34900
+01,Festival Advances-Debit,"7,00","10,00","15,50","15,60",2059 80 001 AA 34901
+02,Festival Advances-Credit,"-6,70","-10,00","-15,50","-15,60",2059 80 001 AA 34902
+359,Prizes and Awards,14,16,10,14,2059 80 001 AA 35900
+01,Prizes and Awards,14,16,10,14,2059 80 001 AA 35901
+372,Training,"3,60","2,69","3,69","3,69",2059 80 001 AA 37200 
+01,Training,"3,60","2,69","3,69","3,69",2059 80 001 AA 37201
+376,Computer and Accessories,"18,73","19,51","53,76","23,15",2059 80 001 AA 37600
+01,Purchase,,1,"31,73",1,2059 80 001 AA 37601
+02,Maintenance,"10,97","11,00","12,65","13,29",2059 80 001 AA 37602
+03,Stationery,"7,76","8,50","9,38","9,85",2059 80 001 AA 37603
+AA,Total AA,"13,99,52","14,78,14","15,58,86","18,03,02",
+AB,Government Architect,,,,,2059 80 001 AB 30000
+301,Salaries,"3,09,49","3,36,76","3,09,41","4,68,18",2059 80 001 AB 30100
+01,Pay,"2,73,13","3,01,97","2,72,86","4,25,94",2059 80 001 AB 30101
+02,Medical Allowance,"1,23","1,23","1,39","1,39",2059 80 001 AB 30102
+03,Medical Charges,19,33,33,33,2059 80 001 AB 30103
+04,Other Allowances,27,52,53,53,2059 80 001 AB 30104
+06,House Rent Allowance,"29,31","27,80","29,14","34,74",2059 80 001 AB 30106
+07,Travel Concession,15,15,15,15,2059 80 001 AB 30107
+08,City Compensatory Allowance,"5,21","4,76","5,01","5,10",2059 80 001 AB 30108
+303,Dearness Allowance,"23,69","32,16","35,92","37,00",2059 80 001 AB 30300
+01,Dearness Allowance,"23,69","32,16","35,92","37,00",2059 80 001 AB 30301
+304,Travel Expenses,"1,05","1,08","1,08","1,08",2059 80 001 AB 30400
+01,Tour Travelling Allowances,98,"1,00","1,00","1,00",2059 80 001 AB 30401
+02,Transfer Travelling Allowances,7,8,8,8,2059 80 001 AB 30402
+305,Office Expenses,"5,43","6,03","6,03","6,13",2059 80 001 AB 30500
+01,Telephone Charges,14,18,18,18,2059 80 001 AB 30501
+02,Other Contingencies,"2,47","2,10","2,10","2,20",2059 80 001 AB 30502
+03,Electricity Charges,"2,80","3,70","3,70","3,70",2059 80 001 AB 30503
+04,Service Postage & Postal Expenditure,2,5,5,5,2059 80 001 AB 30504
+321,Motor Vehicles,50,21,21,21,2059 80 001 AB 32100
+02,Maintenance of Functional Vehicles,50,21,21,21,2059 80 001 AB 32102
+333,Payments for Professional and Special Services,4,10,12,12,2059 80 001 AB 33300
+09,Other Payments,4,10,12,12,2059 80 001 AB 33309
+345,"Petroleum, Oil and Lubricant","2,20","3,20","3,20","3,20",2059 80 001 AB 34500
+01,"Petroleum, Oil and Lubricant","2,20","3,20","3,20","3,20",2059 80 001 AB 34501
+346,"Clothing, Tentage and Stores",2,8,8,8,2059 80 001 AB 34600
+01,"Clothing, Tentage and Stores",2,8,8,8,2059 80 001 AB 34601
+349,Festival Advances,-12,,,,2059 80 001 AB 34900
+01,Festival Advances-Debit,"1,10","1,50","3,00","3,00",2059 80 001 AB 34901
+02,Festival Advances-Credit,"-1,22","-1,50","-3,00","-3,00",2059 80 001 AB 34902
+376,Computer and Accessories,"4,50","4,70","4,93","5,17",2059 80 001 AB 37600
+02,Maintenance,"2,50","2,50","2,50","2,62",2059 80 001 AB 37602
+03,Stationery,"2,00","2,20","2,43","2,55",2059 80 001 AB 37603
+AB,Total AB,"3,46,80","3,84,32","3,60,98","5,21,17",
+AM,Deduct - Establishment Charges transferred on percentage basis to various capital Major Heads,,,,,2059 80 001 AM 30000
+330,Inter-Account Transfers,"-1,85,89,59","-1,07,32,57","-1,05,79,87","-1,45,27,81",2059 80 001 AM 33000
+01,Inter-Account Transfers,"-1,85,89,59","-1,07,32,57","-1,05,79,87","-1,45,27,81",2059 80 001 AM 33001
+AM,Total AM,"-1,85,89,59","-1,07,32,57","-1,05,79,87","-1,45,27,81",
+AQ,Training,,,,,2059 80 001 AQ 30000
+301,Salaries,"1,00,43","1,24,82","1,03,89","1,60,34",2059 80 001 AQ 30100
+01,Pay,"91,44","1,12,89","94,42","1,49,46",2059 80 001 AQ 30101
+02,Medical Allowance,35,50,53,53,2059 80 001 AQ 30102
+03,Medical Charges,18,19,15,15,2059 80 001 AQ 30103
+04,Other Allowances,60,58,64,64,2059 80 001 AQ 30104
+06,House Rent Allowance,"6,68","9,14","6,79","8,10",2059 80 001 AQ 30106
+07,Travel Concession,,10,10,10,2059 80 001 AQ 30107
+08,City Compensatory Allowance,"1,18","1,42","1,26","1,36",2059 80 001 AQ 30108
+303,Dearness Allowance,"42,58","48,33","28,54","29,40",2059 80 001 AQ 30300
+01,Dearness Allowance,"42,58","48,33","28,54","29,40",2059 80 001 AQ 30301
+304,Travel Expenses,"2,91","3,56","3,25","3,35",2059 80 001 AQ 30400
+01,Tour Travelling Allowances,"2,77","2,90","2,90","3,00",2059 80 001 AQ 30401
+02,Transfer Travelling Allowances,14,66,35,35,2059 80 001 AQ 30402
+305,Office Expenses,"2,84","4,71","4,62","5,16",2059 80 001 AQ 30500
+01,Telephone Charges,56,64,64,64,2059 80 001 AQ 30501
+02,Other Contingencies,97,"1,00","1,00","1,05",2059 80 001 AQ 30502
+03,Electricity Charges,"1,00","2,60","2,60","3,00",2059 80 001 AQ 30503
+04,Service Postage & Postal Expenditure,31,47,38,47,2059 80 001 AQ 30504
+319,Machinery and Equipments,61,61,60,60,2059 80 001 AQ 31900
+01,Purchase,1,1,,,2059 80 001 AQ 31901
+02,Renewal and Replacement,37,31,31,31,2059 80 001 AQ 31902
+03,Maintenance,23,29,29,29,2059 80 001 AQ 31903
+321,Motor Vehicles,82,68,68,68,2059 80 001 AQ 32100
+02,Maintenance of Functional Vehicles,82,68,68,68,2059 80 001 AQ 32102
+333,Payments for Professional and Special Services,94,"1,00","2,00","2,00",2059 80 001 AQ 33300
+04,Contract Payment,94,"1,00","2,00","2,00",2059 80 001 AQ 33304
+345,"Petroleum, Oil and Lubricant","2,11","3,50","2,75","3,50",2059 80 001 AQ 34500
+01,"Petroleum, Oil and Lubricant","2,11","3,50","2,75","3,50",2059 80 001 AQ 34501
+346,"Clothing, Tentage and Stores",6,7,7,10,2059 80 001 AQ 34600
+01,"Clothing, Tentage and Stores",6,7,7,10,2059 80 001 AQ 34601
+349,Festival Advances,-3,,,,2059 80 001 AQ 34900
+01,Festival Advances-Debit,25,60,60,60,2059 80 001 AQ 34901
+02,Festival Advances-Credit,-28,-60,-60,-60,2059 80 001 AQ 34902
+359,Prizes and Awards,,6,,4,2059 80 001 AQ 35900
+01,Prizes and Awards,,6,,4,2059 80 001 AQ 35901
+372,Training,"24,71","28,91","27,91","27,91",2059 80 001 AQ 37200 
+01,Training,"24,71","28,91","27,91","27,91",2059 80 001 AQ 37201
+376,Computer and Accessories,91,"1,05","1,10","1,16",2059 80 001 AQ 37600
+02,Maintenance,54,55,55,58,2059 80 001 AQ 37602
+03,Stationery,37,50,55,58,2059 80 001 AQ 37603
+AQ,Total AQ,"1,78,89","2,17,30","1,75,41","2,34,24",
+BC,Superintending Engineers - Territorial Circles,,,,,2059 80 001 BC 30000
+301,Salaries,"3,27,74","3,32,66","3,39,05","4,85,31",2059 80 001 BC 30100
+01,Pay,"3,04,94","3,08,96","3,14,98","4,57,85",2059 80 001 BC 30101
+02,Medical Allowance,"2,17","2,24","2,56","2,56",2059 80 001 BC 30102
+03,Medical Charges,6,20,10,10,2059 80 001 BC 30103
+04,Other Allowances,"2,09","2,39","2,12","2,12",2059 80 001 BC 30104
+06,House Rent Allowance,"16,00","16,37","16,68","19,89",2059 80 001 BC 30106
+07,Travel Concession,32,33,33,33,2059 80 001 BC 30107
+08,City Compensatory Allowance,"2,16","2,17","2,28","2,46",2059 80 001 BC 30108
+303,Dearness Allowance,"71,56","68,83","1,01,58","1,04,63",2059 80 001 BC 30300
+01,Dearness Allowance,"71,56","68,83","1,01,58","1,04,63",2059 80 001 BC 30301
+304,Travel Expenses,"4,69","7,53","6,74","7,29",2059 80 001 BC 30400
+01,Tour Travelling Allowances,"4,48","6,99","6,44","6,99",2059 80 001 BC 30401
+02,Transfer Travelling Allowances,21,54,30,30,2059 80 001 BC 30402
+305,Office Expenses,"3,87","5,06","5,06","5,20",2059 80 001 BC 30500
+01,Telephone Charges,79,"1,07","1,05","1,05",2059 80 001 BC 30501
+02,Other Contingencies,67,89,91,95,2059 80 001 BC 30502
+03,Electricity Charges,"1,84","2,50","2,50","2,55",2059 80 001 BC 30503
+04,Service Postage & Postal Expenditure,57,60,60,65,2059 80 001 BC 30504
+333,Payments for Professional and Special Services,44,48,"1,00","1,00",2059 80 001 BC 33300
+04,Contract Payment,44,48,"1,00","1,00",2059 80 001 BC 33304
+346,"Clothing, Tentage and Stores",13,20,20,20,2059 80 001 BC 34600
+01,"Clothing, Tentage and Stores",13,20,20,20,2059 80 001 BC 34601
+349,Festival Advances,13,,,,2059 80 001 BC 34900
+01,Festival Advances-Debit,"1,95","3,45","6,60","6,60",2059 80 001 BC 34901
+02,Festival Advances-Credit,"-1,82","-3,45","-6,60","-6,60",2059 80 001 BC 34902
+359,Prizes and Awards,20,8,6,8,2059 80 001 BC 35900
+01,Prizes and Awards,20,8,6,8,2059 80 001 BC 35901
+376,Computer and Accessories,"1,68","1,76","1,99","2,10",2059 80 001 BC 37600
+02,Maintenance,"1,07",98,"1,13","1,20",2059 80 001 BC 37602
+03,Stationery,61,78,86,90,2059 80 001 BC 37603
+BC,Total BC,"4,10,44","4,16,60","4,55,68","6,05,81",
+BD,Superintending Engineers - Functional Circles,,,,,2059 80 001 BD 30000
+301,Salaries,"1,27,02","1,24,27","1,25,53","1,61,48",2059 80 001 BD 30100
+01,Pay,"1,13,06","1,10,27","1,11,98","1,45,57",2059 80 001 BD 30101
+02,Medical Allowance,44,46,48,48,2059 80 001 BD 30102
+04,Other Allowances,44,32,34,34,2059 80 001 BD 30104
+06,House Rent Allowance,"11,10","11,09","10,73","12,79",2059 80 001 BD 30106
+07,Travel Concession,,15,10,10,2059 80 001 BD 30107
+08,City Compensatory Allowance,"1,98","1,98","1,90","2,20",2059 80 001 BD 30108
+303,Dearness Allowance,"96,76","92,59","1,12,13","1,15,49",2059 80 001 BD 30300
+01,Dearness Allowance,"96,76","92,59","1,12,13","1,15,49",2059 80 001 BD 30301
+304,Travel Expenses,"1,14","1,42","1,40","1,40",2059 80 001 BD 30400
+01,Tour Travelling Allowances,"1,14","1,40","1,40","1,40",2059 80 001 BD 30401
+02,Transfer Travelling Allowances,,2,,,2059 80 001 BD 30402
+305,Office Expenses,70,75,76,81,2059 80 001 BD 30500
+02,Other Contingencies,50,55,56,59,2059 80 001 BD 30502
+04,Service Postage & Postal Expenditure,20,20,20,22,2059 80 001 BD 30504
+319,Machinery and Equipments,11,11,60,11,2059 80 001 BD 31900
+03,Maintenance,11,11,60,11,2059 80 001 BD 31903
+349,Festival Advances,-6,,,,2059 80 001 BD 34900
+01,Festival Advances-Debit,55,80,"2,10","2,31",2059 80 001 BD 34901
+02,Festival Advances-Credit,-61,-80,"-2,10","-2,31",2059 80 001 BD 34902
+376,Computer and Accessories,"1,45","1,65","12,27","1,97",2059 80 001 BD 37600
+01,Purchase,,,"10,40",,2059 80 001 BD 37601
+02,Maintenance,"1,00","1,00","1,15","1,21",2059 80 001 BD 37602
+03,Stationery,45,65,72,76,2059 80 001 BD 37603
+BD,Total BD,"2,27,12","2,20,79","2,52,69","2,81,26",
+BE,Superintending Engineers - Special Circles,,,,,2059 80 001 BE 30000
+301,Salaries,"7,26,72","7,28,02","8,62,63","12,61,61",2059 80 001 BE 30100
+01,Pay,"6,59,34","6,58,54","7,88,05","11,75,94",2059 80 001 BE 30101
+02,Medical Allowance,"3,92","4,25","5,11","5,11",2059 80 001 BE 30102
+03,Medical Charges,78,"1,11",60,60,2059 80 001 BE 30103
+04,Other Allowances,"3,80","4,36","4,10","3,80",2059 80 001 BE 30104
+06,House Rent Allowance,"49,71","50,46","55,34","65,98",2059 80 001 BE 30106
+07,Travel Concession,49,50,50,50,2059 80 001 BE 30107
+08,City Compensatory Allowance,"8,68","8,80","8,93","9,68",2059 80 001 BE 30108
+303,Dearness Allowance,"1,70,59","1,74,56","1,79,28","1,84,66",2059 80 001 BE 30300
+01,Dearness Allowance,"1,70,59","1,74,56","1,79,28","1,84,66",2059 80 001 BE 30301
+304,Travel Expenses,"7,54","10,38","11,19","9,93",2059 80 001 BE 30400 
+01,Tour Travelling Allowances,"7,29","9,42","10,68","9,42",2059 80 001 BE 30401
+02,Transfer Travelling Allowances,25,96,51,51,2059 80 001 BE 30402
+305,Office Expenses,"14,42","25,57","25,73","26,03",2059 80 001 BE 30500 
+01,Telephone Charges,"1,10","1,46","1,38","1,38",2059 80 001 BE 30501
+02,Other Contingencies,"1,51","1,82","1,87","1,96",2059 80 001 BE 30502
+03,Electricity Charges,"10,63","21,09","21,26","21,43",2059 80 001 BE 30503
+04,Service Postage & Postal Expenditure,"1,18","1,20","1,22","1,26",2059 80 001 BE 30504
+333,Payments for Professional and Special Services,"1,28","1,33","2,65","2,64",2059 80 001 BE 33300
+01,Pleaders Fees,,4,15,14,2059 80 001 BE 33301
+04,Contract Payment,"1,28","1,29","2,50","2,50",2059 80 001 BE 33304
+346,"Clothing, Tentage and Stores",32,42,43,48,2059 80 001 BE 34600
+01,"Clothing, Tentage and Stores",32,42,43,48,2059 80 001 BE 34601
+349,Festival Advances,-4,,,,2059 80 001 BE 34900
+01,Festival Advances-Debit,"4,10","8,02","13,40","13,80",2059 80 001 BE 34901
+02,Festival Advances-Credit,"-4,14","-8,02","-13,40","-13,80",2059 80 001 BE 34902
+359,Prizes and Awards,24,14,25,10,2059 80 001 BE 35900
+01,Prizes and Awards,24,14,25,10,2059 80 001 BE 35901
+376,Computer and Accessories,"3,50","3,96","4,47","4,67",2059 80 001 BE 37600
+02,Maintenance,"1,99","2,20","2,53","2,63",2059 80 001 BE 37602
+03,Stationery,"1,51","1,76","1,94","2,04",2059 80 001 BE 37603
+BE,Total BE,"9,24,57","9,44,38","10,86,63","14,90,12",
+BF,Executive Engineers - Territorial Circles,,,,,2059 80 001 BF 30000
+301,Salaries,"28,11,52","27,91,15","28,76,65","37,50,59",2059 80 001 BF 30100
+01,Pay,"25,62,93","25,49,83","26,25,77","34,64,22",2059 80 001 BF 30101
+02,Medical Allowance,"18,67","20,36","22,01","22,01",2059 80 001 BF 30102
+03,Medical Charges,59,"1,82","1,71","1,71",2059 80 001 BF 30103
+04,Other Allowances,"24,68","27,72","23,25","23,25",2059 80 001 BF 30104
+06,House Rent Allowance,"1,80,91","1,67,81","1,80,36","2,15,09",2059 80 001 BF 30106
+07,Travel Concession,"1,87","1,90","1,90","1,90",2059 80 001 BF 30107
+08,City Compensatory Allowance,"21,87","21,71","21,65","22,41",2059 80 001 BF 30108
+303,Dearness Allowance,"8,85,03","9,75,66","9,22,97","9,50,66",2059 80 001 BF 30300
+01,Dearness Allowance,"8,85,03","9,75,66","9,22,97","9,50,66",2059 80 001 BF 30301
+304,Travel Expenses,"61,86","79,95","80,02","81,76",2059 80 001 BF 30400
+01,Tour Travelling Allowances,"60,29","77,70","76,96","78,70",2059 80 001 BF 30401
+02,Transfer Travelling Allowances,"1,57","2,25","3,06","3,06",2059 80 001 BF 30402
+305,Office Expenses,"42,76","53,77","53,97","55,91",2059 80 001 BF 30500
+01,Telephone Charges,"2,95","4,04","4,04","4,04",2059 80 001 BF 30501
+02,Other Contingencies,"7,20","6,86","7,03","7,38",2059 80 001 BF 30502
+03,Electricity Charges,"31,08","40,54","40,86","42,42",2059 80 001 BF 30503
+04,Service Postage & Postal Expenditure,"1,53","2,33","2,04","2,07",2059 80 001 BF 30504
+321,Motor Vehicles,"9,43","6,80","6,80","6,80",2059 80 001 BF 32100
+02,Maintenance of Functional Vehicles,"9,43","6,80","6,80","6,80",2059 80 001 BF 32102
+333,Payments for Professional and Special Services,"4,91","6,03","11,82","11,26",2059 80 001 BF 33300
+01,Pleaders Fees,13,"1,53","1,74","1,18",2059 80 001 BF 33301
+04,Contract Payment,"4,78","4,50","10,08","10,08",2059 80 001 BF 33304
+345,"Petroleum, Oil and Lubricant","38,90","47,85","48,64","48,87",2059 80 001 BF 34500
+01,"Petroleum, Oil and Lubricant","38,90","47,85","48,64","48,87",2059 80 001 BF 34501
+346,"Clothing, Tentage and Stores",51,"1,19","1,12","1,14",2059 80 001 BF 34600
+01,"Clothing, Tentage and Stores",51,"1,19","1,12","1,14",2059 80 001 BF 34601
+349,Festival Advances,-85,,,,2059 80 001 BF 34900
+01,Festival Advances-Debit,"17,45","33,35","55,60","55,90",2059 80 001 BF 34901
+02,Festival Advances-Credit,"-18,30","-33,35","-55,60","-55,90",2059 80 001 BF 34902
+351,Compensation Charged,,1,,,2059 80 001 BF 35100
+51,Claims under no fault liability -  principal charges Charged,,1,,,2059 80 001 BF 35151
+359,Prizes and Awards,24,34,24,32,2059 80 001 BF 35900
+01,Prizes and Awards,24,34,24,32,2059 80 001 BF 35901
+376,Computer and Accessories,"5,86","6,16","6,94","7,29",2059 80 001 BF 37600
+02,Maintenance,"3,02","2,92","3,36","3,53",2059 80 001 BF 37602
+03,Stationery,"2,84","3,24","3,58","3,76",2059 80 001 BF 37603
+BF,Total BF Charged,,1,,,
+BF,Total BF Voted,"38,60,17","39,68,90","40,09,17","49,14,60",
+BG,Executive Engineers - Functional Divisions,,,,,2059 80 001 BG 30000
+301,Salaries,"53,95","65,28","61,92","77,92",2059 80 001 BG 30100
+01,Pay,"47,52","55,48","52,87","67,36",2059 80 001 BG 30101
+02,Medical Allowance,26,36,38,38,2059 80 001 BG 30102
+03,Medical Charges,,12,12,12,2059 80 001 BG 30103
+04,Other Allowances,43,51,51,51,2059 80 001 BG 30104
+06,House Rent Allowance,"4,84","7,52","6,84","8,15",2059 80 001 BG 30106
+07,Travel Concession,,10,10,10,2059 80 001 BG 30107
+08,City Compensatory Allowance,90,"1,19","1,10","1,30",2059 80 001 BG 30108
+303,Dearness Allowance,"39,27","50,03","35,88","36,96",2059 80 001 BG 30300
+01,Dearness Allowance,"39,27","50,03","35,88","36,96",2059 80 001 BG 30301
+304,Travel Expenses,3,16,21,16,2059 80 001 BG 30400
+01,Tour Travelling Allowances,3,10,15,10,2059 80 001 BG 30401
+02,Transfer Travelling Allowances,,6,6,6,2059 80 001 BG 30402
+305,Office Expenses,76,80,92,95,2059 80 001 BG 30500
+02,Other Contingencies,42,44,45,47,2059 80 001 BG 30502
+03,Electricity Charges,32,33,39,40,2059 80 001 BG 30503
+04,Service Postage & Postal Expenditure,2,3,8,8,2059 80 001 BG 30504
+319,Machinery and Equipments,"1,00","1,00","1,25","3,01,00",2059 80 001 BG 31900
+01,Purchase,,,,"3,00,00",2059 80 001 BG 31901
+03,Maintenance,"1,00","1,00","1,25","1,00",2059 80 001 BG 31903
+321,Motor Vehicles,69,10,10,10,2059 80 001 BG 32100
+02,Maintenance of Functional Vehicles,69,10,10,10,2059 80 001 BG 32102
+333,Payments for Professional and Special Services,9,50,"1,00","1,00",2059 80 001 BG 33300
+04,Contract Payment,9,50,"1,00","1,00",2059 80 001 BG 33304
+345,"Petroleum, Oil and Lubricant","1,33","2,60","2,60","2,60",2059 80 001 BG 34500
+01,"Petroleum, Oil and Lubricant","1,33","2,60","2,60","2,60",2059 80 001 BG 34501
+346,"Clothing, Tentage and Stores",5,7,7,7,2059 80 001 BG 34600
+01,"Clothing, Tentage and Stores",5,7,7,7,2059 80 001 BG 34601
+349,Festival Advances,11,,,,2059 80 001 BG 34900
+01,Festival Advances-Debit,45,60,"1,00","1,20",2059 80 001 BG 34901
+02,Festival Advances-Credit,-34,-60,"-1,00","-1,20",2059 80 001 BG 34902
+359,Prizes and Awards,,2,,2,2059 80 001 BG 35900
+01,Prizes and Awards,,2,,2,2059 80 001 BG 35901
+376,Computer and Accessories,34,37,42,44,2059 80 001 BG 37600
+02,Maintenance,20,20,23,24,2059 80 001 BG 37602
+03,Stationery,14,17,19,20,2059 80 001 BG 37603
+BG,Total BG,"97,62","1,20,93","1,04,37","4,21,22",
+BH,Executive Engineers - Special Divisions,,,,,2059 80 001 BH 30000
+301,Salaries,"62,60,76","64,62,94","62,12,38","96,57,12",2059 80 001 BH 30100
+01,Pay,"57,23,47","58,14,44","56,76,23","90,40,53",2059 80 001 BH 30101
+02,Medical Allowance,"36,70","43,41","42,02","42,02",2059 80 001 BH 30102
+03,Medical Charges,"2,36","6,22","1,87","1,87",2059 80 001 BH 30103
+04,Other Allowances,"64,05","72,17","68,41","68,41",2059 80 001 BH 30104
+06,House Rent Allowance,"3,82,96","4,79,36","3,81,70","4,55,06",2059 80 001 BH 30106
+07,Travel Concession,"13,90","3,00","4,78","4,78",2059 80 001 BH 30107
+08,City Compensatory Allowance,"37,32","44,34","37,37","44,45",2059 80 001 BH 30108
+303,Dearness Allowance,"25,01,66","26,12,69","25,55,11","26,31,76",2059 80 001 BH 30300
+01,Dearness Allowance,"25,01,66","26,12,69","25,55,11","26,31,76",2059 80 001 BH 30301
+304,Travel Expenses,"1,67,41","2,23,56","1,98,20","2,15,47",2059 80 001 BH 30400
+01,Tour Travelling Allowances,"1,59,23","2,14,64","1,92,27","2,09,54",2059 80 001 BH 30401
+02,Transfer Travelling Allowances,"8,18","8,92","5,93","5,93",2059 80 001 BH 30402
+305,Office Expenses,"73,19","92,56","93,50","99,00",2059 80 001 BH 30500
+01,Telephone Charges,"5,65","6,52","6,52","6,52",2059 80 001 BH 30501
+02,Other Contingencies,"12,44","14,12","14,47","15,19",2059 80 001 BH 30502
+03,Electricity Charges,"50,78","66,18","67,17","71,53",2059 80 001 BH 30503
+04,Service Postage & Postal Expenditure,"4,32","5,74","5,34","5,76",2059 80 001 BH 30504
+306,"Rent, Rates and Taxes",59,60,94,98,2059 80 001 BH 30600
+01,Rent,59,60,94,98,2059 80 001 BH 30601
+308,Advertising and Publicity,,,"2,10","1,50",2059 80 001 BH 30800
+02,Exhibition,,,"2,10","1,50",2059 80 001 BH 30802
+312,Scholarships and Stipends,"1,74,38","2,46,80","2,35,85","2,42,71",2059 80 001 BH 31200
+09,Others,"1,74,38","2,46,80","2,35,85","2,42,71",2059 80 001 BH 31209
+321,Motor Vehicles,"61,36","13,47","13,47","13,47",2059 80 001 BH 32100
+02,Maintenance of Functional Vehicles,"61,36","13,47","13,47","13,47",2059 80 001 BH 32102
+333,Payments for Professional and Special Services,"11,54","11,48","27,09","26,72",2059 80 001 BH 33300
+01,Pleaders Fees,32,"1,33","2,69","2,72",2059 80 001 BH 33301
+04,Contract Payment,"11,22","10,15","24,40","24,00",2059 80 001 BH 33304
+345,"Petroleum, Oil and Lubricant","83,24","1,02,22","1,15,90","1,22,49",2059 80 001 BH 34500
+01,"Petroleum, Oil and Lubricant","83,24","1,02,22","1,15,90","1,22,49",2059 80 001 BH 34501
+346,"Clothing, Tentage and Stores",93,"1,35","1,57","1,82",2059 80 001 BH 34600
+01,"Clothing, Tentage and Stores",93,"1,35","1,57","1,82",2059 80 001 BH 34601
+349,Festival Advances,"-1,04",,,,2059 80 001 BH 34900
+01,Festival Advances-Debit,"33,20","60,30","98,82","1,05,42",2059 80 001 BH 34901
+02,Festival Advances-Credit,"-34,24","-60,30","-98,82","-1,05,42",2059 80 001 BH 34902
+351,Compensation Charged,,,"13,73",,2059 80 001 BH 35100
+52,Other Compensations Charged,,,"13,73",,2059 80 001 BH 35152
+359,Prizes and Awards,34,82,72,84,2059 80 001 BH 35900
+01,Prizes and Awards,34,82,72,84,2059 80 001 BH 35901
+376,Computer and Accessories,"18,82","19,70","22,68","23,81",2059 80 001 BH 37600
+02,Maintenance,"11,15","10,10","12,10","12,70",2059 80 001 BH 37602
+03,Stationery,"7,67","9,60","10,58","11,11",2059 80 001 BH 37603
+BH,Total BH Charged,,,"13,73",,
+BH,Total BH Voted,"93,53,18","97,88,19","94,79,51","1,30,37,69",
+BI,Electrical Engineers,,,,,2059 80 001 BI 30000
+301,Salaries,"25,28,01","25,30,26","24,98,74","35,04,92",2059 80 001 BI 30100
+01,Pay,"22,58,90","22,64,11","22,39,99","32,05,27",2059 80 001 BI 30101
+02,Medical Allowance,"16,35","17,21","17,58","17,58",2059 80 001 BI 30102
+03,Medical Charges,,64,20,20,2059 80 001 BI 30103
+04,Other Allowances,"21,43","17,80","17,56","17,56",2059 80 001 BI 30104
+06,House Rent Allowance,"1,99,40","1,99,23","1,93,41","2,30,58",2059 80 001 BI 30106
+07,Travel Concession,"1,00","1,00","1,00","1,00",2059 80 001 BI 30107
+08,City Compensatory Allowance,"30,93","30,27","29,00","32,73",2059 80 001 BI 30108
+303,Dearness Allowance,"6,71,26","7,12,29","6,53,78","6,73,38",2059 80 001 BI 30300
+01,Dearness Allowance,"6,71,26","7,12,29","6,53,78","6,73,38",2059 80 001 BI 30301
+304,Travel Expenses,"18,87","30,79","36,09","34,88",2059 80 001 BI 30400 
+01,Tour Travelling Allowances,"18,03","29,15","34,36","33,15",2059 80 001 BI 30401
+02,Transfer Travelling Allowances,84,"1,64","1,73","1,73",2059 80 001 BI 30402
+305,Office Expenses,"12,58","21,82","29,85","30,15",2059 80 001 BI 30500 
+01,Telephone Charges,88,"1,99","1,99","1,99",2059 80 001 BI 30501
+02,Other Contingencies,"1,99","2,77","2,84","2,98",2059 80 001 BI 30502
+03,Electricity Charges,"9,03","15,73","23,63","23,71",2059 80 001 BI 30503
+04,Service Postage & Postal Expenditure,68,"1,33","1,39","1,47",2059 80 001 BI 30504
+321,Motor Vehicles,"4,08","3,74","3,74","3,74",2059 80 001 BI 32100 
+02,Maintenance of Functional Vehicles,"4,08","3,74","3,74","3,74",2059 80 001 BI 32102
+333,Payments for Professional and Special Services,"1,12","1,72","5,35","5,26",2059 80 001 BI 33300
+01,Pleaders Fees,1,29,11,11,2059 80 001 BI 33301
+04,Contract Payment,"1,11","1,43","5,24","5,15",2059 80 001 BI 33304
+345,"Petroleum, Oil and Lubricant","14,05","19,49","21,95","25,70",2059 80 001 BI 34500
+01,"Petroleum, Oil and Lubricant","14,05","19,49","21,95","25,70",2059 80 001 BI 34501
+346,"Clothing, Tentage and Stores",56,"1,38","1,66","1,72",2059 80 001 BI 34600
+01,"Clothing, Tentage and Stores",56,"1,38","1,66","1,72",2059 80 001 BI 34601
+349,Festival Advances,-69,,,,2059 80 001 BI 34900
+01,Festival Advances-Debit,"15,35","25,25","41,10","42,26",2059 80 001 BI 34901
+02,Festival Advances-Credit,"-16,04","-25,25","-41,10","-42,26",2059 80 001 BI 34902
+359,Prizes and Awards,14,38,52,46,2059 80 001 BI 35900
+01,Prizes and Awards,14,38,52,46,2059 80 001 BI 35901
+376,Computer and Accessories,"2,47","3,15","3,57","3,75",2059 80 001 BI 37600
+02,Maintenance,"1,55","1,55","1,80","1,90",2059 80 001 BI 37602
+03,Stationery,92,"1,60","1,77","1,85",2059 80 001 BI 37603
+BI,Total BI,"32,52,45","33,25,02","32,55,25","42,83,96",
+#,State's Expenditure Total Charged,,1,"13,73",,
+#,State's Expenditure Total Voted,"14,61,17","1,01,32,00","1,01,58,68","1,30,65,28",
+001,Total 001 Charged,,1,"13,73",,
+001,Total 001 Voted,"14,61,17","1,01,32,00","1,01,58,68","1,30,65,28",
+052,Machinery and Equipment,,,,,
+#,State's Expenditure,,,,,
+AD,Deduct - Machinery and Equipment charges transferred on percentage Basis to various capital Major Heads,,,,,2059 80 052 AD 30000
+330,Inter-Account Transfers,"-2,60,02","-1,36,59","-1,51,43","-3,79,35",2059 80 052 AD 33000
+01,Inter-Account Transfers,"-2,60,02","-1,36,59","-1,51,43","-3,79,35",2059 80 052 AD 33001
+AD,Total AD,"-2,60,02","-1,36,59","-1,51,43","-3,79,35",
+#,State's Expenditure Total,"-2,60,02","-1,36,59","-1,51,43","-3,79,35",
+052,Total 052,"-2,60,02","-1,36,59","-1,51,43","-3,79,35",
+053,Maintenance and Repairs,,,,,
+#,State's Expenditure,,,,,
+AA,Maintenance of Parks and Lawns,,,,,2059 80 053 AA 30000
+318,Maintenance,"50,09","50,00","50,00","52,50",2059 80 053 AA 31800 
+01,Periodical Maintenance,"50,09","50,00","50,00","52,50",2059 80 053 AA 31801
+AA,Total AA,"50,09","50,00","50,00","52,50",
+AH,Maintenance of memorials,,,,,2059 80 053 AH 30000
+305,Office Expenses,,,"6,32,71","35,00",2059 80 053 AH 30500
+03,Electricity Charges,,,"6,32,71","35,00",2059 80 053 AH 30503
+318,Maintenance,"2,28,40","1,60,00","1,60,00","1,68,00",2059 80 053 AH 31800 
+01,Periodical Maintenance,"1,58,47","1,60,00","1,60,00","1,68,00",2059 80 053 AH 31801
+02,Special Maintenance,"69,93",,,,2059 80 053 AH 31802
+333,Payments for Professional and Special Services,,"6,60","7,50","7,50",2059 80 053 AH 33300
+04,Contract Payment,,"6,60","7,50","7,50",2059 80 053 AH 33304
+AH,Total AH,"2,28,40","1,66,60","8,00,21","2,10,50",
+AI,Maintenance of BC / MBC / DNC Hostel Controlled by Chief Engineer (Buildings),,,,,2059 80 053 AI 30000
+318,Maintenance,"6,72,02","6,00,00","6,00,00","6,30,00",2059 80 053 AI 31800 
+01,Periodical Maintenance,"6,72,02","6,00,00","6,00,00","6,30,00",2059 80 053 AI 31801
+AI,Total AI,"6,72,02","6,00,00","6,00,00","6,30,00",
+#,State's Expenditure Total,"9,50,51","8,16,60","14,50,21","8,93,00",
+053,Total 053,"9,50,51","8,16,60","14,50,21","8,93,00",
+799,Suspense,,,,,
+#,State's Expenditure,,,,,
+AC,Miscellaneous Works Advances (Public Works Department),,,,,2059 80 799 AC 30000
+332,Suspense,"-14,76",,,,2059 80 799 AC 33200
+06,Misc. P.W. Advances-Credit,"-14,76",,,,2059 80 799 AC 33206
+AC,Total AC,"-14,76",,,,
+#,State's Expenditure Total,"-14,76",,,,
+799,Total 799,"-14,76",,,,
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+BH,Executive  Engineers - Special Divisions,,,,,2059 80 911 BH 30000
+377,Deduct-Recoveries,-1,,,,2059 80 911 BH 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-1,,,,2059 80 911 BH 37702
+BH,Total BH,-1,,,,
+#,State's Expenditure Total,-1,,,,
+911,Total 911,-1,,,,
+80,Total 80 Charged,,1,"13,73",,
+80,Total 80 Voted,"21,36,89","1,08,12,01","1,14,57,46","1,35,78,93",
+2059,Total 2059 Charged,,1,"13,73",,
+2059,Total 2059 Voted,"46,47,30","1,32,05,52","1,48,00,40","1,76,74,87",
+2216,HOUSING,,,,,
+01,Government Residential Buildings,,,,,
+106,General Pool Accommodation,,,,,
+#,State's Expenditure,,,,,
+BA,Maintenance and Provision of Amenities for MLA's Hostels,,,,,2216 01 106 BA 30000
+318,Maintenance,,,"30,50",,2216 01 106 BA 31800
+01,Periodical Maintenance,,,"30,50",,2216 01 106 BA 31801
+BA,Total BA,,"30,50",,,
+#,State's Expenditure Total,,,"30,50",,
+106,Total 106,,"30,50",,,
+01,Total 01,,"30,50",,,
+05,General Pool Accommodation,,,,,
+053,Maintenance and Repairs,,,,,
+#,State's Expenditure,,,,,
+AC,Ordinary Repair Works,,,,,2216 05 053 AC 30000
+305,Office Expenses,"32,19","50,00","50,00","52,50",2216 05 053 AC 30500
+03,Electricity Charges,"32,19","50,00","50,00","52,50",2216 05 053 AC 30503
+306,"Rent, Rates and Taxes","96,21","50,00","90,00","55,00",2216 05 053 AC 30600
+03,Water Charges,"96,21","50,00","90,00","55,00",2216 05 053 AC 30603
+318,Maintenance,"11,95,11","12,00,00","15,70,00","12,60,00",2216 05 053 AC 31800
+01,Periodical Maintenance,"11,95,11","12,00,00","12,00,00","12,60,00",2216 05 053 AC 31801
+02,Special Maintenance,,,"3,70,00",,2216 05 053 AC 31802
+333,Payments for Professional and Special Services,"39,44","45,00","3,27,88","8,91,08",2216 05 053 AC 33300
+04,Contract Payment,"39,44","45,00","3,27,88","8,91,08",2216 05 053 AC 33304
+AC,Total AC,"13,62,95","13,45,00","20,37,88","22,58,58",
+AD,Maintenance and Provision of Amenities in Ministers and VVIP's Official Residences in Government Bungalows,,,,,2216 05 053 AD 30000
+305,Office Expenses,"68,35","80,00","80,00","80,00",2216 05 053 AD 30500
+03,Electricity Charges,"68,35","80,00","80,00","80,00",2216 05 053 AD 30503
+306,"Rent, Rates and Taxes","60,98","62,00","62,00","62,00",2216 05 053 AD 30600
+02,Property tax,"31,06","32,00","32,00","32,00",2216 05 053 AD 30602
+03,Water Charges,"29,92","30,00","30,00","30,00",2216 05 053 AD 30603
+317,Minor Works,"1,16,92","1,20,00","1,20,00","1,26,00",2216 05 053 AD 31700
+01,Minor Works,"1,16,92","1,20,00","1,20,00","1,26,00",2216 05 053 AD 31701
+318,Maintenance,"2,80,00","3,00,00","3,00,00","3,15,00",2216 05 053 AD 31800
+01,Periodical Maintenance,"2,80,00","3,00,00","3,00,00","3,15,00",2216 05 053 AD 31801
+333,Payments for Professional and Special Services,"1,23,62","1,35,00","1,64,10","2,29,13",2216 05 053 AD 33300
+04,Contract Payment,"1,23,62","1,35,00","1,64,10","2,29,13",2216 05 053 AD 33304
+347,Stores and Equipments,"58,52","50,00","50,00","52,50",2216 05 053 AD 34700
+01,Stores - Voted,"58,52","50,00","50,00","52,50",2216 05 053 AD 34701
+AD,Total AD,"7,08,39","7,47,00","7,76,10","8,64,63",
+AE,"Maintenance and Provision of Amenities in Ministers, Judges and Residences in Private Bungalows",,,,,2216 05 053 AE 30000
+305,Office Expenses,89,"3,26","3,25","3,25",2216 05 053 AE 30500
+03,Electricity Charges,89,"3,25","3,25","3,25",2216 05 053 AE 30503
+05,Furniture,,1,,,2216 05 053 AE 30505
+318,Maintenance,"27,98","25,00","25,00","26,25",2216 05 053 AE 31800 
+01,Periodical Maintenance,"27,98","25,00","25,00","26,25",2216 05 053 AE 31801
+333,Payments for Professional and Special Services,"1,74,59","2,75,00","2,93,52","3,59,67",2216 05 053 AE 33300
+04,Contract Payment,"1,74,59","2,75,00","2,93,52","3,59,67",2216 05 053 AE 33304
+347,Stores and Equipments,"14,64","25,00","25,00","26,25",2216 05 053 AE 34700
+01,Stores - Voted,"14,64","25,00","25,00","26,25",2216 05 053 AE 34701
+AE,Total AE,"2,18,10","3,28,26","3,46,77","4,15,42",
+AF,Maintenance and Provision of Amenities for MLA's Hostels,,,,,2216 05 053 AF 30000
+318,Maintenance,,,,"4,29,77",2216 05 053 AF 31800
+01,Periodical Maintenance,,,,"4,29,77",2216 05 053 AF 31801
+AF,Total AF,,,,"4,29,77",
+AG,Maintenance and Provision of Amenities for Judges and other officials residences in Government Bungalows at Madurai,,,,,2216 05 053 AG 30000
+317,Minor Works,"6,96","7,00","7,00","7,00",2216 05 053 AG 31700 
+01,Minor Works,"6,96","7,00","7,00","7,00",2216 05 053 AG 31701
+318,Maintenance,"49,23","30,00","30,00","31,50",2216 05 053 AG 31800 
+01,Periodical Maintenance,"49,23","30,00","30,00","31,50",2216 05 053 AG 31801
+333,Payments for Professional and Special Services,"79,06","80,00","92,34","97,21",2216 05 053 AG 33300
+04,Contract Payment,"79,06","80,00","92,34","97,21",2216 05 053 AG 33304
+347,Stores and Equipments,"4,98","2,50","2,50","2,63",2216 05 053 AG 34700
+01,Stores - Voted,"4,98","2,50","2,50","2,63",2216 05 053 AG 34701
+AG,Total AG,"1,40,23","1,19,50","1,31,84","1,38,34",
+AI,Madurai Bench of Madras High Court in Madurai,,,,,2216 05 053 AI 30000
+318,Maintenance,,,,"2,79,50",2216 05 053 AI 31800
+02,Special Maintenance,,,,"2,79,50",2216 05 053 AI 31802
+AI,Total AI,,,,"2,79,50",
+#,State's Expenditure Total,"24,29,67","25,39,76","32,92,59","43,86,24",
+053,Total 053,"24,29,67","25,39,76","32,92,59","43,86,24",
+05,Total 05,"24,29,67","25,39,76","32,92,59","43,86,24",
+2216,Total 2216,"24,29,67","25,39,76","33,23,09","43,86,24",
+2551,HILL AREAS,,,,,
+60,Other Hill Areas,,,,,
+001,Direction and Administration,,,,,
+#,State's Expenditure,,,,,
+JH,Special Staff for execution of Building Works in Nilgiris District under Hill Area Development Programme,,,,,2551 60 001 JH 30000
+318,Maintenance,"17,50","17,50","17,50","17,50",2551 60 001 JH 31800 
+01,Periodical Maintenance,"17,50","17,50","17,50","17,50",2551 60 001 JH 31801
+JH,Total JH,"17,50","17,50","17,50","17,50",
+#,State's Expenditure Total,"17,50","17,50","17,50","17,50",
+001,Total 001,"17,50","17,50","17,50","17,50",
+60,Total 60,"17,50","17,50","17,50","17,50",
+2551,Total 2551,"17,50","17,50","17,50","17,50",
+4059,CAPITAL OUTLAY ON PUBLIC WORKS,,,,,
+01,Office Buildings,,,,,
+051,Construction,,,,,
+#,State's Expenditure,,,,,
+AL,Registration,,,,,4059 01 051 AL 40000
+416,Major Works,"9,52,05","24,09,30","28,35,01","23,22,01",4059 01 051 AL 41600 
+01,Major Works,"9,52,05","24,09,30","28,35,01","23,22,01",4059 01 051 AL 41601
+AL,Total AL,"9,52,05","24,09,30","28,35,01","23,22,01",
+AM,Treasuries and Accounts,,,,,4059 01 051 AM 40000
+416,Major Works,"7,79,59","13,97,11","20,98,76","10,08,34",4059 01 051 AM 41600 
+01,Major Works,"7,79,59","13,97,11","20,98,76","10,08,34",4059 01 051 AM 41601
+AM,Total AM,"7,79,59","13,97,11","20,98,76","10,08,34",
+AR,Transport Department,,,,,4059 01 051 AR 40000
+416,Major Works,"11,45,87","4,07,06","30,77,06","22,70,03",4059 01 051 AR 41600
+01,Major Works,"11,45,87","4,07,06","30,77,06","22,70,03",4059 01 051 AR 41601
+AR,Total AR,"11,45,87","4,07,06","30,77,06","22,70,03",
+BD,Buildings - Secretariat,,,,,4059 01 051 BD 40000
+416,Major Works,"1,40,33",1,"26,03",,4059 01 051 BD 41600
+01,Major Works,"1,40,33",1,"26,03",,4059 01 051 BD 41601
+BD,Total BD,"1,40,33",1,"26,03",,
+JC,Land Revenue,,,,,4059 01 051 JC 40000
+416,Major Works,"99,64,42","1,42,86,51","1,36,32,04","1,05,14,28",4059 01 051 JC 41600
+01,Major Works,"99,64,42","1,42,86,51","1,36,32,04","1,05,14,28",4059 01 051 JC 41601
+477,Deduct-Recoveries,"-4,59",,,,4059 01 051 JC 47700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-4,59",,,,4059 01 051 JC 47702
+JC,Total JC,"99,59,83","1,42,86,51","1,36,32,04","1,05,14,28",
+JG,Administration of Justice,,,,,4059 01 051 JG 40000
+416,Major Works,"1,19,27,42","1,62,15,61","1,58,26,32","1,28,58,54",4059 01 051 JG 41600
+01,Major Works,"1,19,27,42","1,62,15,61","1,58,26,32","1,28,58,54",4059 01 051 JG 41601
+464,Lands,,1,"58,30",,4059 01 051 JG 46400
+01,Lands - Voted,,1,"58,30",,4059 01 051 JG 46401
+JG,Total JG,"1,19,27,42","1,62,15,62","1,58,84,62","1,28,58,54",
+JJ,Public Works,,,,,4059 01 051 JJ 40000
+416,Major Works,"9,40,36","39,23,19","34,14,35","53,39,28",4059 01 051 JJ 41600
+01,Major Works,"9,40,36","39,23,19","34,14,35","53,39,28",4059 01 051 JJ 41601
+JJ,Total JJ,"9,40,36","39,23,19","34,14,35","53,39,28",
+JN,Commercial Taxes,,,,,4059 01 051 JN 40000
+416,Major Works,"52,30,68","12,48,11","42,59,92","30,93,99",4059 01 051 JN 41600
+01,Major Works,"52,30,68","12,48,11","42,59,92","30,93,99",4059 01 051 JN 41601
+JN,Total JN,"52,30,68","12,48,11","42,59,92","30,93,99",
+JY,Construction of New Building Complex for the Tamil Nadu Legislative Assembly and Secretariat.,,,,,4059 01 051 JY 40000
+416,Major Works,"52,00",,,,4059 01 051 JY 41600
+01,Major Works,"52,00",,,,4059 01 051 JY 41601
+JY,Total JY,"52,00",,,,
+KB,Construction of Office Buildings for MLA's in their constituencies,,,,,4059 01 051 KB 40000
+416,Major Works,44,4,1,"24,53",4059 01 051 KB 41600
+01,Major Works,44,4,1,"24,53",4059 01 051 KB 41601
+KB,Total KB,44,4,1,"24,53",
+KC,District Administration,,,,,4059 01 051 KC 40000
+416,Major Works,"8,77",,"15,00,00","1,08,35,02",4059 01 051 KC 41600
+01,Major Works,"8,77",,"15,00,00","1,08,35,02",4059 01 051 KC 41601
+KC,Total KC,"8,77",,"15,00,00","1,08,35,02",
+KM,Buildings - Tamil Nadu Public Service Commission,,,,,4059 01 051 KM 40000
+416,Major Works,"91,34",1,,,4059 01 051 KM 41600
+01,Major Works,"91,34",1,,,4059 01 051 KM 41601
+KM,Total KM,"91,34",1,,,
+LA,Construction of Regional Centres of the State Judicial Academy,,,,,4059 01 051 LA 40000
+416,Major Works,"1,12,59",,"76,28",,4059 01 051 LA 41600
+01,Major Works,"1,12,59",,"76,28",,4059 01 051 LA 41601
+LA,Total LA,"1,12,59",,"76,28",,
+LB,"Tamil Nadu House, New Delhi",,,,,4059 01 051 LB 40000
+416,Major Works,,"2,50,00","75,00","1,75,00",4059 01 051 LB 41600
+01,Major Works,,"2,50,00","75,00","1,75,00",4059 01 051 LB 41601
+LB,Total LB,"2,50,00","75,00","1,75,00",,
+LC,Construction of Building for Tamil Nadu Lokayukta,,,,,4059 01 051 LC 40000
+416,Major Works,,,"6,23,92",,4059 01 051 LC 41600
+01,Major Works,,,"6,23,92",,4059 01 051 LC 41601
+LC,Total LC,,"6,23,92",,,
+#,State's Expenditure Total,"3,13,41,27","4,01,36,96","4,75,03,00","4,84,41,02",
+#,Central Sector Schemes,,,,,
+SC,Strengthening of Weights and Measures Machinery,,,,,4059 01 051 SC 40000
+416,Major Works,"2,58,98",,"2,54,40",,4059 01 051 SC 41600
+01,Major Works,"2,58,98",,"2,54,40",,4059 01 051 SC 41601
+SC,Total SC,"2,58,98",,"2,54,40",,
+#,Central Sector Schemes Total,"2,58,98",,"2,54,40",,
+051,Total 051,"3,16,00,25","4,01,36,96","4,77,57,40","4,84,41,02",
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+AA,Add - Percentage Charges for Establishment transferred from Major Head 2059 Public Works,,,,,4059 01 800 AA 40000
+430,Inter-Account Transfers,"6,15,27","17,88,44","17,65,75","24,52,86",4059 01 800 AA 43000
+01,Inter-Account Transfers,"6,15,27","17,88,44","17,65,75","24,52,86",4059 01 800 AA 43001
+AA,Total AA,"6,15,27","17,88,44","17,65,75","24,52,86",
+AD,Add - Percentage Charges for Machinery and Equipments from Major Head-2059 Public Works,,,,,4059 01 800 AD 40000
+430,Inter-Account Transfers,"8,64","1,30,25","1,28,60","1,78,64",4059 01 800 AD 43000
+01,Inter-Account Transfers,"8,64","1,30,25","1,28,60","1,78,64",4059 01 800 AD 43001
+AD,Total AD,"8,64","1,30,25","1,28,60","1,78,64",
+JW,Add - Percentage charges for Establishment transferred from Major Head 2059-Public Works,,,,,4059 01 800 JW 40000
+430,Inter-Account Transfers,"27,77,32",,,,4059 01 800 JW 43000
+01,Inter-Account Transfers,"27,77,32",,,,4059 01 800 JW 43001
+JW,Total JW,"27,77,32",,,,
+JX,Add - Percentage charges for Machinery and Equipments  transferred from Major Head 2059-Public Works,,,,,4059 01 800 JX 40000
+430,Inter-Account Transfers,"38,67",,,,4059 01 800 JX 43000
+01,Inter-Account Transfers,"38,67",,,,4059 01 800 JX 43001
+JX,Total JX,"38,67",,,,
+#,State's Expenditure Total,"34,39,90","19,18,69","18,94,35","26,31,50",
+#,Central Sector Schemes,,,,,
+SW,Add - Percentage Charges for Establishment transferred from Major Head 2059 Public Works,,,,,4059 01 800 SW 40000
+430,Inter-Account Transfers,"26,73",,,,4059 01 800 SW 43000
+01,Inter-Account Transfers,"26,73",,,,4059 01 800 SW 43001
+SW,Total SW,"26,73",,,,
+SX,Add - Percentage charges for Machinery and equipment transferred from Major Head 2059 Public Works,,,,,4059 01 800 SX 40000
+430,Inter-Account Transfers,38,,,,4059 01 800 SX 43000
+01,Inter-Account Transfers,38,,,,4059 01 800 SX 43001
+SX,Total SX,38,,,,
+#,Central Sector Schemes Total,,"27,11",,,
+#,Schemes shared between State and Centre,,,,,
+UW,Add - Percentage Charges for Establishment transferred from Major Head 2059 Public Works,,,,,4059 01 800 UW 40000
+430,Inter-Account Transfers,"3,03,02","10,41","10,28","14,28",4059 01 800 UW 43000
+01,Inter-Account Transfers,"3,03,02","10,41","10,28","14,28",4059 01 800 UW 43001
+UW,Total UW,"3,03,02","10,41","10,28","14,28",
+UX,Add - Percentage Charges for Machinery and Equipments from Major Head-2059 Public Works,,,,,4059 01 800 UX 40000
+430,Inter-Account Transfers,"4,28",75,74,"1,03",4059 01 800 UX 43000
+01,Inter-Account Transfers,"4,28",75,74,"1,03",4059 01 800 UX 43001
+UX,Total UX,"4,28",75,74,"1,03",
+#,Schemes shared between State and Centre Total,"3,07,30","11,16","11,02","15,31",
+800,Total 800,"37,74,31","19,29,85","19,05,37","26,46,81",
+01,Total 01,"3,53,74,56","4,20,66,81","4,96,62,77","5,10,87,83",
+60,Other Buildings,,,,,
+051,Construction,,,,,
+#,State's Expenditure,,,,,
+JI,Conservation and Restoration of Heritage Court Building recommended by 13th Finance Commission Grants,,,,,4059 60 051 JI 40000
+416,Major Works,"3,17,53",1,"1,88,14","1,00,09",4059 60 051 JI 41600
+01,Major Works,"3,17,53",1,"1,88,14","1,00,09",4059 60 051 JI 41601
+JI,Total JI,"3,17,53",1,"1,88,14","1,00,09",
+JJ,Conservation and Restoration of Heritage Court Building,,,,,4059 60 051 JJ 40000
+416,Major Works,,,"3,49,69","50,00,00",4059 60 051 JJ 41600
+01,Major Works,,,"3,49,69","50,00,00",4059 60 051 JJ 41601
+JJ,Total JJ,,"3,49,69","50,00,00",,
+#,State's Expenditure Total,"3,17,53",1,"5,37,83","51,00,09",
+#,Schemes shared between State and Centre,,,,,
+UB,Buildings,,,,,4059 60 051 UB 40000
+416,Major Works,"26,68,42","2,50","1,96,03",,4059 60 051 UB 41600
+01,Major Works,"26,68,42","2,50","1,96,03",,4059 60 051 UB 41601
+UB,Total UB,"26,68,42","2,50","1,96,03",,
+#,Schemes shared between State and Centre Total,"26,68,42","2,50","1,96,03",,
+051,Total 051,"29,85,95","2,51","7,33,86","51,00,09",
+60,Total 60,"29,85,95","2,51","7,33,86","51,00,09",
+4059,Total 4059,"3,83,60,51","4,20,69,32","5,03,96,63","5,61,87,92",
+4202,"CAPITAL OUTLAY ON EDUCATION, SPORTS, ART AND, CULTURE",,,,,
+01,General Education,,,,,
+203,University and Higher Education,,,,,
+#,State's Expenditure,,,,,
+JA,Buildings,,,,,4202 01 203 JA 40000
+416,Major Works,"81,82,17","46,75,71","74,94,76","77,27,26",4202 01 203 JA 41600 
+01,Major Works,"81,82,17","46,75,71","74,94,76","77,27,26",4202 01 203 JA 41601
+JA,Total JA,"81,82,17","46,75,71","74,94,76","77,27,26",
+#,State's Expenditure Total,"81,82,17","46,75,71","74,94,76","77,27,26",
+203,Total 203,"81,82,17","46,75,71","74,94,76","77,27,26",
+01,Total 01,"81,82,17","46,75,71","74,94,76","77,27,26",
+04,Art and Culture,,,,,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+JW,Add - Percentage Charges for Establishment transferred from Major Head 2059 Public Works,,,,,4202 04 800 JW 40000
+430,Inter-Account Transfers,"35,74,51","22,10,05","21,82,02","30,31,11",4202 04 800 JW 43000
+01,Inter-Account Transfers,"35,74,51","22,10,05","21,82,02","30,31,11",4202 04 800 JW 43001
+JW,Total JW,"35,74,51","22,10,05","21,82,02","30,31,11",
+JX,Add - Percentage charges for Machinery and Equipment transferred from Major Head 2059 Public Works,,,,,4202 04 800 JX 40000
+430,Inter-Account Transfers,"50,51","1,58,36","1,56,35","2,17,19",4202 04 800 JX 43000
+01,Inter-Account Transfers,"50,51","1,58,36","1,56,35","2,17,19",4202 04 800 JX 43001
+JX,Total JX,"50,51","1,58,36","1,56,35","2,17,19",
+#,State's Expenditure Total,"36,25,02","23,68,41","23,38,37","32,48,30",
+#,Central Sector Schemes,,,,,
+SW,Add - Percentage Charges for Establishment transferred from Major Head 2059 Public Works,,,,,4202 04 800 SW 40000
+430,Inter-Account Transfers,"8,62",45,44,62,4202 04 800 SW 43000
+01,Inter-Account Transfers,"8,62",45,44,62,4202 04 800 SW 43001
+SW,Total SW,"8,62",45,44,62,
+SX,Add - Percentage charges for Machinery and Equipment transferred from Major Head 2059 Public Works,,,,,4202 04 800 SX 40000
+430,Inter-Account Transfers,12,6,6,8,4202 04 800 SX 43000
+01,Inter-Account Transfers,12,6,6,8,4202 04 800 SX 43001
+SX,Total SX,12,6,6,8,
+#,Central Sector Schemes Total,"8,74",51,50,70,
+#,Schemes shared between State and Centre,,,,,
+UW,Add - Percentage Charges for Establishment transferred from Major Head 2059 Public Works,,,,,4202 04 800 UW 40000
+430,Inter-Account Transfers,"83,10",,,,4202 04 800 UW 43000
+01,Inter-Account Transfers,"83,10",,,,4202 04 800 UW 43001
+UW,Total UW,"83,10",,,,
+UX,Add - Percentage charges for Machinery and Equipment transferred from Major Head 2059 Public Works,,,,,4202 04 800 UX 40000
+430,Inter-Account Transfers,"1,17",,,,4202 04 800 UX 43000
+01,Inter-Account Transfers,"1,17",,,,4202 04 800 UX 43001
+UX,Total UX,"1,17",,,,
+#,Schemes shared between State and Centre Total,"84,27",,,,
+800,Total 800,"37,18,03","23,68,92","23,38,87","32,49,00",
+04,Total 04,"37,18,03","23,68,92","23,38,87","32,49,00",
+4202,Total 4202,"1,19,00,20","70,44,63","98,33,63","1,09,76,26",
+4210,CAPITAL OUTLAY ON MEDICAL AND PUBLIC HEALTH,,,,,
+01,Urban Health Services,,,,,
+051,Construction,,,,,
+#,Central Sector Schemes,,,,,
+SA,"Construction of building for National Centre of Ageing at King Institute and preventive Medicine, Guindy, Chennai",,,,,4210 01 051 SA 40000
+416,Major Works,"18,69,80","10,00","1,66,48","1,56,04",4210 01 051 SA 41600
+01,Major Works,"18,69,80","10,00","1,66,48","1,56,04",4210 01 051 SA 41601
+SA,Total SA,"18,69,80","10,00","1,66,48","1,56,04",
+SB,Construction of building for College of Nursing at Institute of Social Obstetrics and Government Kasturba Gandhi Hospital for Women and Children,,,,,4210 01 051 SB 40000
+416,Major Works,"70,33","10,01","10,01",,4210 01 051 SB 41600
+01,Major Works,"70,33","10,01","10,01",,4210 01 051 SB 41601
+SB,Total SB,"70,33","10,01","10,01",,
+#,Central Sector Schemes Total,"19,40,13","20,01","1,76,49","1,56,04",
+051,Total 051,"19,40,13","20,01","1,76,49","1,56,04",
+108,Departmental Drug Manufacture,,,,,
+#,State's Expenditure,,,,,
+AA,Construction of Buildings for Food Analysis Laboratories,,,,,4210 01 108 AA 40000
+416,Major Works,,,"2,40,00","6,60,00",4210 01 108 AA 41600
+01,Major Works,,,"2,40,00","6,60,00",4210 01 108 AA 41601
+AA,Total AA,,"2,40,00","6,60,00",,
+#,State's Expenditure Total,,,"2,40,00","6,60,00",
+108,Total 108,,"2,40,00","6,60,00",,
+110,Hospital and Dispensaries (including Pharmacy),,,,,
+#,State's Expenditure,,,,,
+JA,Buildings,,,,,4210 01 110 JA 40000
+416,Major Works,"3,69,88,29","3,56,78,23","3,75,29,18","3,00,00,00",4210 01 110 JA 41600
+01,Major Works,"3,69,88,29","3,56,78,23","3,75,29,18","3,00,00,00",4210 01 110 JA 41601
+JA,Total JA,"3,69,88,29","3,56,78,23","3,75,29,18","3,00,00,00",
+JW,Add Percentage charges for Establishment Transferred from the Major Head 2059-Public Works,,,,,4210 01 110 JW 40000
+430,Inter-Account Transfers,"41,06,05",,,,4210 01 110 JW 43000
+01,Inter-Account Transfers,"41,06,05",,,,4210 01 110 JW 43001
+JW,Total JW,"41,06,05",,,,
+JX,Add Percentage charges for Machinery and Equipment Transferred from the Major Head 2059-Public Works,,,,,4210 01 110 JX 40000
+430,Inter-Account Transfers,"58,03",,,,4210 01 110 JX 43000
+01,Inter-Account Transfers,"58,03",,,,4210 01 110 JX 43001
+JX,Total JX,"58,03",,,,
+#,State's Expenditure Total,"4,11,52,37","3,56,78,23","3,75,29,18","3,00,00,00",
+110,Total 110,"4,11,52,37","3,56,78,23","3,75,29,18","3,00,00,00",
+01,Total 01,"4,30,92,50","3,56,98,24","3,79,45,67","3,08,16,04",
+02,Rural Health Services,,,,,
+103,Primary Health Centres,,,,,
+#,State's Expenditure,,,,,
+JA,Buildings,,,,,4210 02 103 JA 40000
+416,Major Works,"2,71,38","2,73,14","3,80,41","87,33",4210 02 103 JA 41600 
+01,Major Works,"2,71,38","2,73,14","3,80,41","87,33",4210 02 103 JA 41601
+JA,Total JA,"2,71,38","2,73,14","3,80,41","87,33",
+JW,Add Percentage charges for Establishment Transferred from the Major Head 2059 - Public Works,,,,,4210 02 103 JW 40000
+430,Inter-Account Transfers,"8,45",,,,4210 02 103 JW 43000
+01,Inter-Account Transfers,"8,45",,,,4210 02 103 JW 43001
+JW,Total JW,"8,45",,,,
+JX,Add Percentage charges for Machinery and Equipment Transferred from the Major Head 2059 - Public Works,,,,,4210 02 103 JX 40000
+430,Inter-Account Transfers,12,,,,4210 02 103 JX 43000
+01,Inter-Account Transfers,12,,,,4210 02 103 JX 43001
+JX,Total JX,12,,,,
+#,State's Expenditure Total,"2,79,95","2,73,14","3,80,41","87,33",
+103,Total 103,"2,79,95","2,73,14","3,80,41","87,33",
+02,Total 02,"2,79,95","2,73,14","3,80,41","87,33",
+03,Medical Education Training and Research,,,,,
+104,Siddha,,,,,
+#,State's Expenditure,,,,,
+JA,Buildings,,,,,4210 03 104 JA 40000
+416,Major Works,"2,56","63,00","1,97,09","1,66,96",4210 03 104 JA 41600 
+01,Major Works,"2,56","63,00","1,97,09","1,66,96",4210 03 104 JA 41601
+JA,Total JA,"2,56","63,00","1,97,09","1,66,96",
+#,State's Expenditure Total,"2,56","63,00","1,97,09","1,66,96",
+104,Total 104,"2,56","63,00","1,97,09","1,66,96",
+200,Other Systems,,,,,
+#,State's Expenditure,,,,,
+JX,"International Institute of Yoga and Naturopathy Medical Science (IIYNMS), Chengalpattu",,,,,4210 03 200 JX 40000
+416,Major Works,,,"5,00,00","55,00,00",4210 03 200 JX 41600
+01,Major Works,,,"5,00,00","55,00,00",4210 03 200 JX 41601
+JX,Total JX,,"5,00,00","55,00,00",,
+#,State's Expenditure Total,,,"5,00,00","55,00,00",
+200,Total 200,,"5,00,00","55,00,00",,
+03,Total 03,"2,56","63,00","6,97,09","56,66,96",
+04,Public Health,,,,,
+051,Construction,,,,,
+#,State's Expenditure,,,,,
+JC,Construction of Office Buildings for Director of Public Health and Preventive Medicine.,,,,,4210 04 051 JC 40000
+416,Major Works,,,"1,44,64","5,36,32",4210 04 051 JC 41600
+01,Major Works,,,"1,44,64","5,36,32",4210 04 051 JC 41601
+JC,Total JC,,"1,44,64","5,36,32",,
+#,State's Expenditure Total,,,"1,44,64","5,36,32",
+051,Total 051,,"1,44,64","5,36,32",,
+04,Total 04,,"1,44,64","5,36,32",,
+80,General,,,,,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+JA,Add - Percentage Charges for Establishment transferred from Major Head 2059 Public Works,,,,,4210 80 800 JA 40000
+430,Inter-Account Transfers,"13,86,70","28,76,77","28,40,27","39,45,51",4210 80 800 JA 43000
+01,Inter-Account Transfers,"13,86,70","28,76,77","28,40,27","39,45,51",4210 80 800 JA 43001
+JA,Total JA,"13,86,70","28,76,77","28,40,27","39,45,51",
+JB,Add - Percentage charges for Machinery and Equipment transferred from Major Head 2059 Public Works,,,,,4210 80 800 JB 40000
+430,Inter-Account Transfers,"17,72","2,02,69","2,00,12","2,77,99",4210 80 800 JB 43000
+01,Inter-Account Transfers,"17,72","2,02,69","2,00,12","2,77,99",4210 80 800 JB 43001
+JB,Total JB,"17,72","2,02,69","2,00,12","2,77,99",
+#,State's Expenditure Total,"14,04,42","30,79,46","30,40,39","42,23,50",
+#,Central Sector Schemes,,,,,
+SW,Add - Percentage Charges for Establishment transferred from Major Head 2059 Public Works,,,,,4210 80 800 SW 40000
+430,Inter-Account Transfers,"2,00,28","3,57","3,52","4,90",4210 80 800 SW 43000
+01,Inter-Account Transfers,"2,00,28","3,57","3,52","4,90",4210 80 800 SW 43001
+SW,Total SW,"2,00,28","3,57","3,52","4,90",
+SX,Add - Percentage Charges for Machinery and Equipment Transferred from the Major Head 2059-Public Works,,,,,4210 80 800 SX 40000
+430,Inter-Account Transfers,"2,83",25,25,34,4210 80 800 SX 43000
+01,Inter-Account Transfers,"2,83",25,25,34,4210 80 800 SX 43001
+SX,Total SX,"2,83",25,25,34,
+#,Central Sector Schemes Total,"2,03,11","3,82","3,77","5,24",
+#,Schemes shared between State and Centre,,,,,
+UW,Add - Percentage Charges for Establishment transferred from Major Head 2059 Public Works,,,,,4210 80 800 UW 40000
+430,Inter-Account Transfers,"74,05","15,96","15,76","21,89",4210 80 800 UW 43000
+01,Inter-Account Transfers,"74,05","15,96","15,76","21,89",4210 80 800 UW 43001
+UW,Total UW,"74,05","15,96","15,76","21,89",
+UX,Add - Percentage charges for Machinery and Equipment transferred from Major Head 2059 Public Works,,,,,4210 80 800 UX 40000
+430,Inter-Account Transfers,"1,05","1,13","1,12","1,55",4210 80 800 UX 43000
+01,Inter-Account Transfers,"1,05","1,13","1,12","1,55",4210 80 800 UX 43001
+UX,Total UX,"1,05","1,13","1,12","1,55",
+#,Schemes shared between State and Centre Total,"75,10","17,09","16,88","23,44",
+800,Total 800,"16,82,63","31,00,37","30,61,04","42,52,18",
+80,Total 80,"16,82,63","31,00,37","30,61,04","42,52,18",
+4210,Total 4210,"4,50,57,64","3,91,34,75","4,22,28,85","4,13,58,83",
+4215,CAPITAL OUTLAY ON WATER SUPPLY AND SANITATION,,,,,
+01,Water Supply,,,,,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+JW,"Percentage charges for Establishment from 2059,Public Works",,,,,4215 01 800 JW 40000
+430,Inter-Account Transfers,"2,15,98","8,44,15","8,33,44","11,57,76",4215 01 800 JW 43000
+01,Inter-Account Transfers,"2,15,98","8,44,15","8,33,44","11,57,76",4215 01 800 JW 43001
+JW,Total JW,"2,15,98","8,44,15","8,33,44","11,57,76",
+JX,Add - Percentage charges for establishment transferred from Major Head 2059 Public Works,,,,,4215 01 800 JX 40000
+430,Inter-Account Transfers,25,,,,4215 01 800 JX 43000
+01,Inter-Account Transfers,25,,,,4215 01 800 JX 43001
+JX,Total JX,25,,,,
+#,State's Expenditure Total,"2,16,23","8,44,15","8,33,44","11,57,76",
+800,Total 800,"2,16,23","8,44,15","8,33,44","11,57,76",
+01,Total 01,"2,16,23","8,44,15","8,33,44","11,57,76",
+4215,Total 4215,"2,16,23","8,44,15","8,33,44","11,57,76",
+4216,CAPITAL OUTLAY ON HOUSING,,,,,
+01,Government Residential Buildings,,,,,
+106,General Pool Accommodation,,,,,
+#,State's Expenditure,,,,,
+AE,Revenue Department - Housing scheme,,,,,4216 01 106 AE 40000
+416,Major Works,"8,23","39,44","11,09","35,13",4216 01 106 AE 41600
+01,Major Works,"8,23","39,44","11,09","35,13",4216 01 106 AE 41601
+AE,Total AE,"8,23","39,44","11,09","35,13",
+JA,Public Works Department - Housing Scheme,,,,,4216 01 106 JA 40000
+416,Major Works,"59,35,21","12,63,16","4,81,23","49,21,42",4216 01 106 JA 41600
+01,Major Works,"59,35,21","12,63,16","4,81,23","49,21,42",4216 01 106 JA 41601
+477,Deduct-Recoveries,"-15,79",,,,4216 01 106 JA 47700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-15,79",,,,4216 01 106 JA 47702
+JA,Total JA,"59,19,42","12,63,16","4,81,23","49,21,42",
+JO,Law Department - Housing Scheme,,,,,4216 01 106 JO 40000
+416,Major Works,"19,34,47","44,23,14","36,08,94","26,05,50",4216 01 106 JO 41600
+01,Major Works,"19,34,47","44,23,14","36,08,94","26,05,50",4216 01 106 JO 41601
+477,Deduct-Recoveries,"-25,00",,,,4216 01 106 JO 47700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-25,00",,,,4216 01 106 JO 47702
+JO,Total JO,"19,09,47","44,23,14","36,08,94","26,05,50",
+#,State's Expenditure Total,"78,37,12","57,25,74","41,01,26","75,62,05",
+#,Schemes shared between State and Centre,,,,,
+UA,Administration of Justice,,,,,4216 01 106 UA 40000
+416,Major Works,"5,57,22","1,73,12","2,39","1,67,39",4216 01 106 UA 41600 
+01,Major Works,"5,57,22","1,73,12","2,39","1,67,39",4216 01 106 UA 41601
+UA,Total UA,"5,57,22","1,73,12","2,39","1,67,39",
+#,Schemes shared between State and Centre Total,"5,57,22","1,73,12","2,39","1,67,39",
+106,Total 106,"83,94,34","58,98,86","41,03,65","77,29,44",
+01,Total 01,"83,94,34","58,98,86","41,03,65","77,29,44",
+80,General,,,,,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+AU,Add - Percentage charges for Establishment transferred from  Major Head 2059 Public Works,,,,,4216 80 800 AU 40000
+430,Inter-Account Transfers,85,,,,4216 80 800 AU 43000
+01,Inter-Account Transfers,85,,,,4216 80 800 AU 43001
+AU,Total AU,85,,,,
+AV,Add - Percentage charges for Machinery and equipment transferred from Major Head 2059 Public Works,,,,,4216 80 800 AV 40000
+430,Inter-Account Transfers,1,,,,4216 80 800 AV 43000
+01,Inter-Account Transfers,1,,,,4216 80 800 AV 43001
+AV,Total AV,1,,,,
+JU,Add - Percentages for Establishment transferred from 2059 Public Works,,,,,4216 80 800 JU 40000
+430,Inter-Account Transfers,"8,16,79","10,00,77","9,88,08","13,72,57",4216 80 800 JU 43000
+01,Inter-Account Transfers,"8,16,79","10,00,77","9,88,08","13,72,57",4216 80 800 JU 43001
+JU,Total JU,"8,16,79","10,00,77","9,88,08","13,72,57",
+JV,Add - Percentages for Machinery and Equipments transferred from 2059 Public Works,,,,,4216 80 800 JV 40000
+430,Inter-Account Transfers,"11,55","70,28","69,39","96,39",4216 80 800 JV 43000
+01,Inter-Account Transfers,"11,55","70,28","69,39","96,39",4216 80 800 JV 43001
+JV,Total JV,"11,55","70,28","69,39","96,39",
+#,State's Expenditure Total,"8,29,20","10,71,05","10,57,47","14,68,96",
+#,Schemes shared between State and Centre,,,,,
+UW,Add - Percentage Charges for Establishment transferred from the Major Head 2059-PublicWorks,,,,,4216 80 800 UW 40000
+430,Inter-Account Transfers,"58,76","11,79","11,64","16,17",4216 80 800 UW 43000
+01,Inter-Account Transfers,"58,76","11,79","11,64","16,17",4216 80 800 UW 43001
+UW,Total UW,"58,76","11,79","11,64","16,17",
+UX,Add - Percentage charges for Machinery and Equipment transferred from Major Head 2059. Public Works,,,,,4216 80 800 UX 40000
+430,Inter-Account Transfers,83,84,83,"1,15",4216 80 800 UX 43000
+01,Inter-Account Transfers,83,84,83,"1,15",4216 80 800 UX 43001
+UX,Total UX,83,84,83,"1,15",
+#,Schemes shared between State and Centre Total,"59,59","12,63","12,47","17,32",
+800,Total 800,"8,88,79","10,83,68","10,69,94","14,86,28",
+80,Total 80,"8,88,79","10,83,68","10,69,94","14,86,28",
+4216,Total 4216,"92,83,13","69,82,54","51,73,59","92,15,72",
+4220,CAPITAL OUTLAY ON INFORMATION AND PUBLICITY,,,,,
+60,Others,,,,,
+101,Buildings,,,,,
+#,State's Expenditure,,,,,
+AC,Buildings,,,,,4220 60 101 AC 40000
+416,Major Works,"30,15,32","22,44,56","37,38,45","2,94,22",4220 60 101 AC 41600 
+01,Major Works,"30,15,32","22,44,56","37,38,45","2,94,22",4220 60 101 AC 41601
+AC,Total AC,"30,15,32","22,44,56","37,38,45","2,94,22",
+#,State's Expenditure Total,"30,15,32","22,44,56","37,38,45","2,94,22",
+101,Total 101,"30,15,32","22,44,56","37,38,45","2,94,22",
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+AA,Add - Percentage Charges for Establishment transferred from Major Head 2059 Public Works,,,,,4220 60 800 AA 40000
+430,Inter-Account Transfers,"3,16,84","1,53,48","1,51,53","2,10,50",4220 60 800 AA 43000
+01,Inter-Account Transfers,"3,16,84","1,53,48","1,51,53","2,10,50",4220 60 800 AA 43001
+AA,Total AA,"3,16,84","1,53,48","1,51,53","2,10,50",
+AB,Add - Percentage charges for Machinery and Equipment transferred from Major Head 2059 Public Works,,,,,4220 60 800 AB 40000
+430,Inter-Account Transfers,"4,40","12,96","12,80","17,77",4220 60 800 AB 43000
+01,Inter-Account Transfers,"4,40","12,96","12,80","17,77",4220 60 800 AB 43001
+AB,Total AB,"4,40","12,96","12,80","17,77",
+#,State's Expenditure Total,"3,21,24","1,66,44","1,64,33","2,28,27",
+800,Total 800,"3,21,24","1,66,44","1,64,33","2,28,27",
+60,Total 60,"33,36,56","24,11,00","39,02,78","5,22,49",
+4220,Total 4220,"33,36,56","24,11,00","39,02,78","5,22,49",
+4225,"CAPITAL OUTLAY ON WELFARE OF SCHEDULED CASTES, SCHEDULED TRIBES, OTHER BACKWARD CLASSES AND MINORITIES",,,,,
+03,Welfare of Backward classes,,,,,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+JA,Add - Percentage Charges for Establishment transferred from Major Head 2059 Public Works,,,,,4225 03 800 JA 40000
+430,Inter-Account Transfers,"1,54,88","3,04,71","3,00,85","4,17,91",4225 03 800 JA 43000
+01,Inter-Account Transfers,"1,54,88","3,04,71","3,00,85","4,17,91",4225 03 800 JA 43001
+JA,Total JA,"1,54,88","3,04,71","3,00,85","4,17,91",
+JB,Add - Percentage charges for Machinery and Equipment transferred from Major Head 2059 Public Works,,,,,4225 03 800 JB 40000
+430,Inter-Account Transfers,"2,19","26,48","26,14","36,32",4225 03 800 JB 43000
+01,Inter-Account Transfers,"2,19","26,48","26,14","36,32",4225 03 800 JB 43001
+JB,Total JB,"2,19","26,48","26,14","36,32",
+JW,Add-Percentage charges for Establishment transferred from Major Head 2059 Public Works,,,,,4225 03 800 JW 40000
+430,Inter-Account Transfers,"74,47",,,,4225 03 800 JW 43000
+01,Inter-Account Transfers,"74,47",,,,4225 03 800 JW 43001
+JW,Total JW,"74,47",,,,
+JX,Add-Percentage charges for Machinery and Equipment  transferred from Major Head 2059 Public Works,,,,,4225 03 800 JX 40000
+430,Inter-Account Transfers,"1,05",,,,4225 03 800 JX 43000
+01,Inter-Account Transfers,"1,05",,,,4225 03 800 JX 43001
+JX,Total JX,"1,05",,,,
+#,State's Expenditure Total,"2,32,59","3,31,19","3,26,99","4,54,23",
+#,Schemes shared between State and Centre,,,,,
+UW,Add - Percentage Charges for Establishment transferred from the Major Head 2059-Public Works,,,,,4225 03 800 UW 40000
+430,Inter-Account Transfers,41,"1,85","1,83","2,54",4225 03 800 UW 43000
+01,Inter-Account Transfers,41,"1,85","1,83","2,54",4225 03 800 UW 43001
+UW,Total UW,41,"1,85","1,83","2,54",
+UX,Add - Percentage charges for Machinery and Equipment transferred from Major Head 2059. Public Works,,,,,4225 03 800 UX 40000
+430,Inter-Account Transfers,1,13,13,18,4225 03 800 UX 43000
+01,Inter-Account Transfers,1,13,13,18,4225 03 800 UX 43001
+UX,Total UX,1,13,13,18,
+#,Schemes shared between State and Centre Total,42,"1,98","1,96","2,72",
+800,Total 800,"2,33,01","3,33,17","3,28,95","4,56,95",
+03,Total 03,"2,33,01","3,33,17","3,28,95","4,56,95",
+4225,Total 4225,"2,33,01","3,33,17","3,28,95","4,56,95",
+4235,CAPITAL OUTLAY ON SOCIAL SECURITY AND WELFARE,,,,,
+02,Social Welfare,,,,,
+101,Welfare of Differently Abled Persons,,,,,
+#,State's Expenditure,,,,,
+JU,Buildings,,,,,4235 02 101 JU 40000
+416,Major Works,"1,45,48","60,01","60,00",1,4235 02 101 JU 41600
+01,Major Works,"1,45,48","60,01","60,00",1,4235 02 101 JU 41601
+JU,Total JU,"1,45,48","60,01","60,00",1,
+#,State's Expenditure Total,"1,45,48","60,01","60,00",1,
+101,Total 101,"1,45,48","60,01","60,00",1,
+103,Women's Welfare,,,,,
+#,State's Expenditure,,,,,
+JC,Construction of own buildings for Working Women Hostel,,,,,4235 02 103 JC 40000
+416,Major Works,"80,62","2,27,91","53,37","1,54,91",4235 02 103 JC 41600
+01,Major Works,"80,62","2,27,91","53,37","1,54,91",4235 02 103 JC 41601
+JC,Total JC,"80,62","2,27,91","53,37","1,54,91",
+#,State's Expenditure Total,"80,62","2,27,91","53,37","1,54,91",
+103,Total 103,"80,62","2,27,91","53,37","1,54,91",
+106,Correctional Services,,,,,
+#,State's Expenditure,,,,,
+JU,Buildings,,,,,4235 02 106 JU 40000
+416,Major Works,"50,00","3,15,00","3,15,00",,4235 02 106 JU 41600
+01,Major Works,"50,00","3,15,00","3,15,00",,4235 02 106 JU 41601
+JU,Total JU,"50,00","3,15,00","3,15,00",,
+#,State's Expenditure Total,"50,00","3,15,00","3,15,00",,
+106,Total 106,"50,00","3,15,00","3,15,00",,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+JU,Add - Percentage Charges for Establishment transferred from Major Head 2059 Public Works,,,,,4235 02 800 JU 40000
+430,Inter-Account Transfers,"66,48","92,35","91,18","1,26,66",4235 02 800 JU 43000
+01,Inter-Account Transfers,"66,48","92,35","91,18","1,26,66",4235 02 800 JU 43001
+JU,Total JU,"66,48","92,35","91,18","1,26,66",
+JV,Add - Percentage charges for Machinery and Equipment transferred from Major Head 2059 Public Works,,,,,4235 02 800 JV 40000
+430,Inter-Account Transfers,93,"6,80","6,71","9,33",4235 02 800 JV 43000
+01,Inter-Account Transfers,93,"6,80","6,71","9,33",4235 02 800 JV 43001
+JV,Total JV,93,"6,80","6,71","9,33",
+#,State's Expenditure Total,"67,41","99,15","97,89","1,35,99",
+#,Central Sector Schemes,,,,,
+SW,Add - Percentage Charges for Establishment transferred from Major Head 2059 Public Works,,,,,4235 02 800 SW 40000
+430,Inter-Account Transfers,"49,35",,,,4235 02 800 SW 43000
+01,Inter-Account Transfers,"49,35",,,,4235 02 800 SW 43001
+SW,Total SW,"49,35",,,,
+SX,Add - Percentage charges for Machinery and Equipment transferred from Major Head 2059 Public Works,,,,,4235 02 800 SX 40000
+430,Inter-Account Transfers,70,,,,4235 02 800 SX 43000
+01,Inter-Account Transfers,70,,,,4235 02 800 SX 43001
+SX,Total SX,70,,,,
+#,Central Sector Schemes Total,"50,05",,,,
+800,Total 800,"1,17,46","99,15","97,89","1,35,99",
+02,Total 02,"3,93,56","7,02,07","5,26,26","2,90,91",
+4235,Total 4235,"3,93,56","7,02,07","5,26,26","2,90,91",
+4401-00,CAPITAL OUTLAY ON CROP HUSBANDRY,,,,,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+JW,Add Percentage charges for Establishment Transferred from the Major Head 2059-Public Works,,,,,4401 00 800 JW 40000
+430,Inter-Account Transfers,"23,68",,,,4401 00 800 JW 43000
+01,Inter-Account Transfers,"23,68",,,,4401 00 800 JW 43001
+JW,Total JW,"23,68",,,,
+JX,Add - Percentage Charges for Machinery and Equipment Transferred from the Major Head 2059-Public Works,,,,,4401 00 800 JX 40000
+430,Inter-Account Transfers,33,,,,4401 00 800 JX 43000
+01,Inter-Account Transfers,33,,,,4401 00 800 JX 43001
+JX,Total JX,33,,,,
+#,State's Expenditure Total,"24,01",,,,
+800,Total 800,"24,01",,,,
+00,Total 00,"24,01",,,,
+4401,Total 4401,"24,01",,,,
+4403-00,CAPITAL OUTLAY ON ANIMAL HUSBANDRY,,,,,
+106,Other Live Stock Development,,,,,
+#,State's Expenditure,,,,,
+JW,Add - Percentage Charges for Establishment Transferred from the Major Head 2059-Public Works,,,,,4403 00 106 JW 40000
+430,Inter-Account Transfers,"1,87,37",,,,4403 00 106 JW 43000
+01,Inter-Account Transfers,"1,87,37",,,,4403 00 106 JW 43001
+JW,Total JW,"1,87,37",,,,
+JX,Add-Percentage charges for Machinery and Equipments  transferred from Major head '2059-Public Works',,,,,4403 00 106 JX 40000
+430,Inter-Account Transfers,"2,65",,,,4403 00 106 JX 43000
+01,Inter-Account Transfers,"2,65",,,,4403 00 106 JX 43001
+JX,Total JX,"2,65",,,,
+#,State's Expenditure Total,"1,90,02",,,,
+106,Total 106,"1,90,02",,,,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+JA,Add - Percentage Charges for Establishment transferred from the Major Head 2059-Public Works,,,,,4403 00 800 JA 40000
+430,Inter-Account Transfers,"1,96,18","8,54,76","8,43,92","11,72,31",4403 00 800 JA 43000
+01,Inter-Account Transfers,"1,96,18","8,54,76","8,43,92","11,72,31",4403 00 800 JA 43001
+JA,Total JA,"1,96,18","8,54,76","8,43,92","11,72,31",
+JB,Add - Percentage Charges for Machinery and Equipment Transferred from the Major Head 2059-Public Works,,,,,4403 00 800 JB 40000
+430,Inter-Account Transfers,"2,77","61,48","60,70","84,32",4403 00 800 JB 43000
+01,Inter-Account Transfers,"2,77","61,48","60,70","84,32",4403 00 800 JB 43001
+JB,Total JB,"2,77","61,48","60,70","84,32",
+#,State's Expenditure Total,"1,98,95","9,16,24","9,04,62","12,56,63",
+#,Schemes shared between State and Centre,,,,,
+UW,Add - Percentage Charges for Establishment transferred from the Major Head 2059-Public Works,,,,,4403 00 800 UW 40000
+430,Inter-Account Transfers,,"25,41","25,09","34,85",4403 00 800 UW 43000
+01,Inter-Account Transfers,,"25,41","25,09","34,85",4403 00 800 UW 43001
+UW,Total UW,,"25,41","25,09","34,85",
+UX,Add - Percentage charges for Machinery and Equipment transferred from Major Head 2059. Public Works,,,,,4403 00 800 UX 40000
+430,Inter-Account Transfers,,"1,78","1,76","2,44",4403 00 800 UX 43000
+01,Inter-Account Transfers,,"1,78","1,76","2,44",4403 00 800 UX 43001
+UX,Total UX,,"1,78","1,76","2,44",
+#,Schemes shared between State and Centre Total,,"27,19","26,85","37,29",
+800,Total 800,"1,98,95","9,43,43","9,31,47","12,93,92",
+00,Total 00,"3,88,97","9,43,43","9,31,47","12,93,92",
+4403,Total 4403,"3,88,97","9,43,43","9,31,47","12,93,92",

@@ -1,0 +1,966 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2029-00,LAND REVENUE,,,,,
+001,Direction and Administration,,,,,
+#,State's Expenditure,,,,,
+AA,Headquarters Staff - Commissioner of Revenue Administration,,,,,2029 00 001 AA 30000
+301,Salaries,"9,34,63","9,79,36","12,26,27","12,75,49",2029 00 001 AA 30100
+01,Pay,"8,10,95","8,33,32","10,69,54","11,12,32",2029 00 001 AA 30101
+02,Medical Allowance,"5,89","6,33","8,32","8,65",2029 00 001 AA 30102
+03,Medical Charges,"1,15","8,12","8,12","8,53",2029 00 001 AA 30103
+04,Other Allowances,"10,74","20,40","20,40","21,21",2029 00 001 AA 30104
+06,House Rent Allowance,"90,01","85,06","91,00","94,64",2029 00 001 AA 30106
+07,Travel Concession,63,"8,38","8,38","8,80",2029 00 001 AA 30107
+08,City Compensatory Allowance,"15,26","17,75","20,31","21,33",2029 00 001 AA 30108
+09,Honorarium,,,20,1,2029 00 001 AA 30109
+303,Dearness Allowance,"83,07","88,84","1,49,80","2,72,52",2029 00 001 AA 30300
+01,Dearness Allowance,"83,07","88,84","1,49,80","2,72,52",2029 00 001 AA 30301
+304,Travel Expenses,"2,64","4,26","10,55","10,58",2029 00 001 AA 30400
+01,Tour Travelling Allowances,"2,53","3,71","10,00","10,00",2029 00 001 AA 30401
+02,Transfer Travelling Allowances,11,55,55,58,2029 00 001 AA 30402
+305,Office Expenses,"1,74,97","2,08,21","1,99,21","2,07,21",2029 00 001 AA 30500
+01,Telephone Charges,"4,91","6,75","6,75","7,09",2029 00 001 AA 30501
+02,Other Contingencies,"29,15","48,30","39,30","39,30",2029 00 001 AA 30502
+03,Electricity Charges,"1,35,32","1,50,00","1,50,00","1,57,50",2029 00 001 AA 30503
+04,Service Postage & Postal Expenditure,"2,25","3,15","3,15","3,31",2029 00 001 AA 30504
+05,Furniture,"3,34",1,1,1,2029 00 001 AA 30505
+306,"Rent, Rates and Taxes","12,05","20,14","33,33","35,00",2029 00 001 AA 30600
+02,Property tax,"12,05","13,33","13,33","14,00",2029 00 001 AA 30602
+03,Water Charges,,"6,81","20,00","21,00",2029 00 001 AA 30603
+308,Advertising and Publicity,,,"10,00",1,2029 00 001 AA 30800
+09,Others,,,"10,00",1,2029 00 001 AA 30809
+319,Machinery and Equipments,"1,05",1,1,1,2029 00 001 AA 31900
+01,Purchase,"1,05",1,1,1,2029 00 001 AA 31901
+321,Motor Vehicles,98,"1,24","18,03","27,75",2029 00 001 AA 32100
+01,Purchase,,1,"16,80","26,52",2029 00 001 AA 32101
+02,Maintenance of Functional Vehicles,98,"1,22","1,22","1,22",2029 00 001 AA 32102
+03,Hire Charges,,1,1,1,2029 00 001 AA 32103
+333,Payments for Professional and Special Services,"20,54","13,95","63,21","66,37",2029 00 001 AA 33300
+01,Pleaders Fees,,"1,41","1,41","1,48",2029 00 001 AA 33301
+04,Contract Payment,"20,54","12,54","61,80","64,89",2029 00 001 AA 33304
+345,"Petroleum, Oil and Lubricant","4,49","8,00","10,00","10,50",2029 00 001 AA 34500
+01,"Petroleum, Oil and Lubricant","4,49","8,00","10,00","10,50",2029 00 001 AA 34501
+349,Festival Advances,18,,,,2029 00 001 AA 34900
+01,Festival Advances-Debit,"5,05","9,00","17,60","17,60",2029 00 001 AA 34901
+02,Festival Advances-Credit,"-4,87","-9,00","-17,60","-17,60",2029 00 001 AA 34902
+351,Compensation Charged,,1,1,1,2029 00 001 AA 35100
+351,Compensation Voted,,1,1,1,2029 00 001 AA 35100
+01,Claims under no fault liability -  principal,,1,1,1,2029 00 001 AA 35101
+charges  - Voted,,,,,,
+51,Claims under no fault liability -  principal charges Charged,,1,1,1,2029 00 001 AA 35151
+359,Prizes and Awards,4,10,32,30,2029 00 001 AA 35900
+01,Prizes and Awards,4,10,32,30,2029 00 001 AA 35901
+371,Printing Charges,,1,1,1,2029 00 001 AA 37100
+01,Printing Charges,,1,1,1,2029 00 001 AA 37101
+376,Computer and Accessories,"39,58","12,04","12,04","13,01",2029 00 001 AA 37600
+01,Purchase,"30,01",1,1,1,2029 00 001 AA 37601
+02,Maintenance,"2,67","4,03","4,03","4,60",2029 00 001 AA 37602
+03,Stationery,"6,90","8,00","8,00","8,40",2029 00 001 AA 37603
+AA,Total AA Charged,,1,1,1,
+AA,Total AA Voted,"12,74,22","13,36,17","17,32,79","19,18,77",
+AC,"Compensation to the Family of the Government Servants who lost their lives while attempting to prevent illegal Cable TV  Operation, Sand Mining and Rice Smuggling",,,,,2029 00 001 AC 30000
+351,Compensation,,1,1,1,2029 00 001 AC 35100
+02,Other Compensations  - Voted,,1,1,1,2029 00 001 AC 35102
+AC,Total AC,1,1,1,,
+AD,"Gaja Cyclone Reconstruction, Rehabilitation and Rejuvenation project (GRRRP)",,,,,2029 00 001 AD 30000
+301,Salaries,,,"70,92","73,16",2029 00 001 AD 30100
+01,Pay,,,"63,84","66,40",2029 00 001 AD 30101
+02,Medical Allowance,,,24,25,2029 00 001 AD 30102
+04,Other Allowances,,,12,12,2029 00 001 AD 30104
+06,House Rent Allowance,,,"5,28","5,49",2029 00 001 AD 30106
+07,Travel Concession,,,60,1,2029 00 001 AD 30107
+08,City Compensatory Allowance,,,84,89,2029 00 001 AD 30108
+303,Dearness Allowance,,,"9,58","16,27",2029 00 001 AD 30300
+01,Dearness Allowance,,,"9,58","16,27",2029 00 001 AD 30301
+304,Travel Expenses,,,"4,25","4,26",2029 00 001 AD 30400
+01,Tour Travelling Allowances,,,"4,00","4,00",2029 00 001 AD 30401
+02,Transfer Travelling Allowances,,,25,26,2029 00 001 AD 30402
+305,Office Expenses,,,"3,25","2,32",2029 00 001 AD 30500
+01,Telephone Charges,,,"1,00","1,05",2029 00 001 AD 30501
+02,Other Contingencies,,,"1,00","1,00",2029 00 001 AD 30502
+04,Service Postage & Postal Expenditure,,,25,26,2029 00 001 AD 30504
+05,Furniture,,,"1,00",1,2029 00 001 AD 30505
+321,Motor Vehicles,,,"6,10",11,2029 00 001 AD 32100
+01,Purchase,,,"6,00",1,2029 00 001 AD 32101
+02,Maintenance of Functional Vehicles,,,10,10,2029 00 001 AD 32102
+333,Payments for Professional and Special Services,,,"7,90","7,50",2029 00 001 AD 33300
+04,Contract Payment,,,"7,90","7,50",2029 00 001 AD 33304
+345,"Petroleum, Oil and Lubricant",,,"3,00","3,15",2029 00 001 AD 34500
+01,"Petroleum, Oil and Lubricant",,,"3,00","3,15",2029 00 001 AD 34501
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,,80,80,2029 00 001 AD 34901
+02,Festival Advances-Credit,,,-80,-80,2029 00 001 AD 34902
+371,Printing Charges,,,50,1,2029 00 001 AD 37100
+01,Printing Charges,,,50,1,2029 00 001 AD 37101
+376,Computer and Accessories,,,"6,00","2,01",2029 00 001 AD 37600
+01,Purchase,,,"4,00",1,2029 00 001 AD 37601
+03,Stationery,,,"2,00","2,00",2029 00 001 AD 37603
+AD,Total AD,,,"1,11,50","1,08,79",
+JB,Unmanned Aerial Vehicle Photogrammetric Mapping for Flood preparedness in the State of Tamil Nadu - Scheme under State Innovation Fund,,,,,2029 00 001 JB 30000
+305,Office Expenses,,,"13,62","13,62",2029 00 001 JB 30500
+02,Other Contingencies,,,"13,62","13,62",2029 00 001 JB 30502
+319,Machinery and Equipments,"25,00","40,00","40,00",1,2029 00 001 JB 31900
+01,Purchase,"25,00","40,00","40,00",1,2029 00 001 JB 31901
+333,Payments for Professional and Special Services,"74,28","74,28","81,96","80,56",2029 00 001 JB 33300
+04,Contract Payment,"74,28","74,28","81,96","80,56",2029 00 001 JB 33304
+376,Computer and Accessories,"1,00,00","1,20,01","2,36,00","1,36,21",2029 00 001 JB 37600
+01,Purchase,,1,"1,16,00",1,2029 00 001 JB 37601
+02,Maintenance,"1,00,00","1,20,00","1,20,00","1,36,20",2029 00 001 JB 37602 
+JB,Total JB,"1,99,28","2,34,29","3,71,58","2,30,40",
+#,State's Expenditure Total Charged,,1,1,1,
+#,State's Expenditure Total Voted,"14,73,50","15,70,47","22,15,88","22,57,97",
+001,Total 001 Charged,,1,1,1,
+001,Total 001 Voted,"14,73,50","15,70,47","22,15,88","22,57,97",
+902,Deduct - Amount met from State Innovation Fund,,,,,
+#,State's Expenditure,,,,,
+JB,Deduct - Amount met from State Innovation Fund,,,,,2029 00 902 JB 30000
+330,Inter-Account Transfers,"-1,99,28","-2,41,96",,,2029 00 902 JB 33000
+01,Inter-Account Transfers,"-1,99,28","-2,41,96",,,2029 00 902 JB 33001
+JB,Total JB,"-1,99,28","-2,41,96",,,
+#,State's Expenditure Total,"-1,99,28","-2,41,96",,,
+902,Total 902,"-1,99,28","-2,41,96",,,
+00,Total 00 Charged,,1,1,1,
+00,Total 00 Voted,"12,74,22","13,28,51","22,15,88","22,57,97",
+2029,Total 2029 Charged,,1,1,1,
+2029,Total 2029 Voted,"12,74,22","13,28,51","22,15,88","22,57,97",
+2053-00,DISTRICT ADMINISTRATION,,,,,
+093,District Establishments,,,,,
+#,State's Expenditure,,,,,
+AA,Collectors and Magistrates,,,,,2053 00 093 AA 30000
+301,Salaries,"1,16,69,28","1,10,04,91","1,50,02,26","1,50,42,05",2053 00 093 AA 30100
+01,Pay,"1,08,05,00","99,62,39","1,39,28,28","1,39,28,28",2053 00 093 AA 30101
+02,Medical Allowance,"89,08","96,47","1,17,55","1,22,25",2053 00 093 AA 30102
+03,Medical Charges,"2,66","5,00","8,08","5,00",2053 00 093 AA 30103
+04,Other Allowances,"1,52,85","1,96,77","1,96,77","2,04,65",2053 00 093 AA 30104
+06,House Rent Allowance,"5,71,13","6,85,20","6,85,20","7,12,61",2053 00 093 AA 30106
+07,Travel Concession,"4,62","7,03","8,80","8,80",2053 00 093 AA 30107
+08,City Compensatory Allowance,"43,94","52,05","57,58","60,46",2053 00 093 AA 30108
+302,Wages,,1,1,1,2053 00 093 AA 30200
+01,Wages,,1,1,1,2053 00 093 AA 30201
+303,Dearness Allowance,"12,17,41","10,89,75","21,01,18","34,12,43",2053 00 093 AA 30300
+01,Dearness Allowance,"12,17,41","10,89,75","21,01,18","34,12,43",2053 00 093 AA 30301
+304,Travel Expenses,"1,55,52","1,68,37","2,07,97","2,08,31",2053 00 093 AA 30400
+01,Tour Travelling Allowances,"1,51,54","1,60,11","1,99,45","1,99,45",2053 00 093 AA 30401
+02,Transfer Travelling Allowances,"3,98","8,26","8,52","8,86",2053 00 093 AA 30402
+305,Office Expenses,"9,88,56","11,41,91","15,92,57","11,57,91",2053 00 093 AA 30500
+01,Telephone Charges,"57,18","60,00","93,76","79,71",2053 00 093 AA 30501
+02,Other Contingencies,"1,49,69","1,57,90","1,84,45","1,81,15",2053 00 093 AA 30502
+03,Electricity Charges,"7,26,83","8,73,60","9,28,92","8,44,12",2053 00 093 AA 30503
+04,Service Postage & Postal Expenditure,"54,86","50,40","50,40","52,92",2053 00 093 AA 30504
+05,Furniture,,1,"3,35,04",1,2053 00 093 AA 30505
+306,"Rent, Rates and Taxes","5,84,00","6,18,38","10,22,57","10,73,71",2053 00 093 AA 30600
+01,Rent,-6,1,1,1,2053 00 093 AA 30601
+02,Property tax,"5,45,68","5,76,77","9,25,86","9,72,16",2053 00 093 AA 30602
+03,Water Charges,"38,38","41,60","96,70","1,01,54",2053 00 093 AA 30603
+308,Advertising and Publicity,"24,07",71,"28,61","7,01",2053 00 093 AA 30800
+01,Advertisement Charges,,1,1,1,2053 00 093 AA 30801
+02,Exhibition,"24,07",70,"28,60","7,00",2053 00 093 AA 30802
+317,Minor Works,,1,1,1,2053 00 093 AA 31700
+01,Minor Works,,1,1,1,2053 00 093 AA 31701
+319,Machinery and Equipments,,1,"1,00,25",1,2053 00 093 AA 31900
+01,Purchase,,1,"1,00,25",1,2053 00 093 AA 31901
+321,Motor Vehicles,"2,18,23","66,42","6,75,83","66,42",2053 00 093 AA 32100
+01,Purchase,"1,60,26",1,"6,09,42",1,2053 00 093 AA 32101
+02,Maintenance of Functional Vehicles,"57,97","66,40","66,40","66,40",2053 00 093 AA 32102
+03,Hire Charges,,1,1,1,2053 00 093 AA 32103
+333,Payments for Professional and Special Services,"6,26,70","3,16,12","14,54,34","14,52,53",2053 00 093 AA 33300
+01,Pleaders Fees,"4,04,28","89,12","4,67,69","4,91,08",2053 00 093 AA 33301
+03,Special Service,,1,1,1,2053 00 093 AA 33303
+04,Contract Payment,"2,22,42","2,26,99","9,86,64","9,61,44",2053 00 093 AA 33304
+334,Other Charges,,1,1,1,2053 00 093 AA 33400
+01,Other Items,,1,1,1,2053 00 093 AA 33401
+345,"Petroleum, Oil and Lubricant","2,04,01","2,10,00","3,50,78","3,42,38",2053 00 093 AA 34500
+01,"Petroleum, Oil and Lubricant","2,04,01","2,10,00","3,50,78","3,42,38",2053 00 093 AA 34501
+349,Festival Advances,"1,20",,,,2053 00 093 AA 34900
+01,Festival Advances-Debit,"83,35","1,40,00","2,36,33","2,36,33",2053 00 093 AA 34901
+02,Festival Advances-Credit,"-82,15","-1,40,00","-2,36,33","-2,36,33",2053 00 093 AA 34902
+351,Compensation Charged,,1,"20,24",1,2053 00 093 AA 35100
+351,Compensation Voted,,1,1,1,2053 00 093 AA 35100
+02,Other Compensations  - Voted,,1,1,1,2053 00 093 AA 35102
+52,Other Compensations Charged,,1,"20,24",1,2053 00 093 AA 35152
+359,Prizes and Awards,"1,16","3,12","4,06","4,27",2053 00 093 AA 35900
+01,Prizes and Awards,"1,16","3,12","4,06","4,27",2053 00 093 AA 35901
+364,Lands Charged,,1,1,1,2053 00 093 AA 36400
+364,Lands Voted,9,1,1,1,2053 00 093 AA 36400
+01,Lands - Voted,9,1,1,1,2053 00 093 AA 36401
+51,Lands Charged,,1,1,1,2053 00 093 AA 36451
+372,Training,"11,74",1,"2,19",1,2053 00 093 AA 37200
+01,Training,"11,74",1,"2,19",1,2053 00 093 AA 37201
+373,Transport Charges,,1,1,1,2053 00 093 AA 37300
+01,Transport Charges,,1,1,1,2053 00 093 AA 37301
+376,Computer and Accessories,"11,83","12,38","2,69,02","14,01",2053 00 093 AA 37600
+01,Purchase,14,1,"2,50,00",1,2053 00 093 AA 37601
+02,Maintenance,"11,69","12,37","12,37","14,00",2053 00 093 AA 37602
+03,Stationery,,,"6,65",,2053 00 093 AA 37603
+AA,Total AA Charged,,2,"20,25",2,
+AA,Total AA Voted,"1,57,13,80","1,46,32,15","2,28,11,69","2,27,81,11",
+AB,Discretionary Grants by Collectors,,,,,2053 00 093 AB 30000
+309,Grants-in-Aid,"2,85,19","3,20,00","3,20,00","3,80,00",2053 00 093 AB 30900
+01,Grants for Current Expenditure,"2,85,19","3,20,00","3,20,00","3,80,00",2053 00 093 AB 30901
+AB,Total AB,"2,85,19","3,20,00","3,20,00","3,80,00",
+AI,Training Programme for Assistant Collectors / Deputy Collectors,,,,,2053 00 093 AI 30000
+304,Travel Expenses,"16,99","9,37","26,87","26,87",2053 00 093 AI 30400
+01,Tour Travelling Allowances,"16,99","9,37","26,87","26,87",2053 00 093 AI 30401
+AI,Total AI,"16,99","9,37","26,87","26,87",
+AJ,Conduct of mass contact programme,,,,,2053 00 093 AJ 30000
+342,Service or Commitment Charges,"16,41","20,00","20,00","20,00",2053 00 093 AJ 34200
+01,Service or Commitment Charges,"16,41","20,00","20,00","20,00",2053 00 093 AJ 34201
+AJ,Total AJ,"16,41","20,00","20,00","20,00",
+AK,Charges in connection with important Government functions,,,,,2053 00 093 AK 30000
+313,Hospitality / Entertainment Expenditure,"62,99","64,00","64,00","64,00",2053 00 093 AK 31300
+01,Hospitality / Entertainment Expenditure,"62,99","64,00","64,00","64,00",2053 00 093 AK 31301
+AK,Total AK,"62,99","64,00","64,00","64,00",
+AL,"Gaja Cyclone Reconstruction, Rehabilitation and Rejuvenation project (GRRRP)",,,,,2053 00 093 AL 30000
+301,Salaries,"2,10",,"92,89","95,53",2053 00 093 AL 30100
+01,Pay,"1,81",,"81,62","84,89",2053 00 093 AL 30101
+02,Medical Allowance,,,43,45,2053 00 093 AL 30102
+03,Medical Charges,,,10,10,2053 00 093 AL 30103
+04,Other Allowances,19,,"4,71","4,90",2053 00 093 AL 30104
+06,House Rent Allowance,10,,"4,98","5,18",2053 00 093 AL 30106
+07,Travel Concession,,,"1,05",1,2053 00 093 AL 30107
+303,Dearness Allowance,16,,"12,25","20,80",2053 00 093 AL 30300
+01,Dearness Allowance,16,,"12,25","20,80",2053 00 093 AL 30301
+304,Travel Expenses,,,"5,30","5,33",2053 00 093 AL 30400
+01,Tour Travelling Allowances,,,"4,50","4,50",2053 00 093 AL 30401
+02,Transfer Travelling Allowances,,,80,83,2053 00 093 AL 30402
+305,Office Expenses,,,"6,30","4,93",2053 00 093 AL 30500
+01,Telephone Charges,,,55,58,2053 00 093 AL 30501
+02,Other Contingencies,,,"2,50","2,50",2053 00 093 AL 30502
+03,Electricity Charges,,,"1,60","1,68",2053 00 093 AL 30503
+04,Service Postage & Postal Expenditure,,,15,16,2053 00 093 AL 30504
+05,Furniture,,,"1,50",1,2053 00 093 AL 30505
+321,Motor Vehicles,,,"26,20",21,2053 00 093 AL 32100
+01,Purchase,,,"26,00",1,2053 00 093 AL 32101
+02,Maintenance of Functional Vehicles,,,20,20,2053 00 093 AL 32102
+333,Payments for Professional and Special Services,,,"14,72","5,00",2053 00 093 AL 33300
+04,Contract Payment,,,"14,72","5,00",2053 00 093 AL 33304
+345,"Petroleum, Oil and Lubricant",,,"5,50","5,78",2053 00 093 AL 34500
+01,"Petroleum, Oil and Lubricant",,,"5,50","5,78",2053 00 093 AL 34501
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,,"1,50","1,50",2053 00 093 AL 34901
+02,Festival Advances-Credit,,,"-1,50","-1,50",2053 00 093 AL 34902
+371,Printing Charges,,,40,1,2053 00 093 AL 37100
+01,Printing Charges,,,40,1,2053 00 093 AL 37101
+376,Computer and Accessories,,,"7,50","1,59",2053 00 093 AL 37600
+01,Purchase,,,"6,00",1,2053 00 093 AL 37601
+03,Stationery,,,"1,50","1,58",2053 00 093 AL 37603
+AL,Total AL,"2,26",,"1,71,06","1,39,18",
+#,State's Expenditure Total Charged,,2,"20,25",2,
+#,State's Expenditure Total Voted,"1,60,97,64","1,50,45,52","2,34,13,62","2,34,11,16",
+093,Total 093 Charged,,2,"20,25",2,
+093,Total 093 Voted,"1,60,97,64","1,50,45,52","2,34,13,62","2,34,11,16",
+094,Other Establishment,,,,,
+#,State's Expenditure,,,,,
+AA,Sub-Divisional Establishment,,,,,2053 00 094 AA 30000
+301,Salaries,"40,30,65","36,93,55","53,52,97","54,54,08",2053 00 094 AA 30100
+01,Pay,"37,21,36","32,74,88","49,12,21","49,96,90",2053 00 094 AA 30101
+02,Medical Allowance,"32,29","31,70","49,27","51,24",2053 00 094 AA 30102
+03,Medical Charges,80,"3,72","2,63","1,50",2053 00 094 AA 30103
+04,Other Allowances,"72,31","1,37,70","1,37,70","1,43,20",2053 00 094 AA 30104
+06,House Rent Allowance,"1,90,97","2,31,43","2,31,43","2,40,69",2053 00 094 AA 30106
+07,Travel Concession,"2,06","4,23","3,50","3,50",2053 00 094 AA 30107
+08,City Compensatory Allowance,"10,86","9,89","16,23","17,05",2053 00 094 AA 30108
+303,Dearness Allowance,"4,03,36","3,70,90","7,41,30","12,24,24",2053 00 094 AA 30300
+01,Dearness Allowance,"4,03,36","3,70,90","7,41,30","12,24,24",2053 00 094 AA 30301
+304,Travel Expenses,"87,22","87,72","94,24","94,58",2053 00 094 AA 30400
+01,Tour Travelling Allowances,"81,69","79,15","85,67","85,67",2053 00 094 AA 30401
+02,Transfer Travelling Allowances,"5,53","8,57","8,57","8,91",2053 00 094 AA 30402
+305,Office Expenses,"1,86,56","2,06,43","2,40,79","2,37,04",2053 00 094 AA 30500
+01,Telephone Charges,"20,19","14,04","28,57","29,53",2053 00 094 AA 30501
+02,Other Contingencies,"37,93","37,80","40,00","40,00",2053 00 094 AA 30502
+03,Electricity Charges,"1,15,60","1,41,46","1,45,16","1,48,54",2053 00 094 AA 30503
+04,Service Postage & Postal Expenditure,"12,84","13,12","18,06","18,96",2053 00 094 AA 30504
+05,Furniture,,1,"9,00",1,2053 00 094 AA 30505
+306,"Rent, Rates and Taxes","62,62","64,26","1,07,13","1,12,34",2053 00 094 AA 30600
+01,Rent,"8,44","6,24","3,00","3,00",2053 00 094 AA 30601
+02,Property tax,"52,66","55,02","98,40","1,03,32",2053 00 094 AA 30602
+03,Water Charges,"1,52","3,00","5,73","6,02",2053 00 094 AA 30603
+319,Machinery and Equipments,,1,"6,80",1,2053 00 094 AA 31900
+01,Purchase,,1,"6,80",1,2053 00 094 AA 31901
+321,Motor Vehicles,"27,05","8,95","47,34","8,95",2053 00 094 AA 32100
+01,Purchase,"18,19",1,"38,40",1,2053 00 094 AA 32101
+02,Maintenance of Functional Vehicles,"8,86","8,94","8,94","8,94",2053 00 094 AA 32102
+333,Payments for Professional and Special Services,"1,60,28","1,39,50","2,12,61","2,01,60",2053 00 094 AA 33300
+01,Pleaders Fees,"3,58","2,00","12,61","5,00",2053 00 094 AA 33301
+04,Contract Payment,"1,56,70","1,37,50","2,00,00","1,96,60",2053 00 094 AA 33304
+334,Other Charges,,1,1,1,2053 00 094 AA 33400
+01,Other Items,,1,1,1,2053 00 094 AA 33401
+345,"Petroleum, Oil and Lubricant","91,49","85,00","1,56,96","1,62,29",2053 00 094 AA 34500
+01,"Petroleum, Oil and Lubricant","91,49","85,00","1,56,96","1,62,29",2053 00 094 AA 34501
+349,Festival Advances,13,,,,2053 00 094 AA 34900
+01,Festival Advances-Debit,"27,15","48,20","99,87","99,87",2053 00 094 AA 34901
+02,Festival Advances-Credit,"-27,02","-48,20","-99,87","-99,87",2053 00 094 AA 34902
+351,Compensation Charged,,,85,,2053 00 094 AA 35100
+52,Other Compensations Charged,,,85,,2053 00 094 AA 35152
+359,Prizes and Awards,4,30,30,30,2053 00 094 AA 35900
+01,Prizes and Awards,4,30,30,30,2053 00 094 AA 35901
+376,Computer and Accessories,"4,58","4,96","9,05","5,71",2053 00 094 AA 37600
+01,Purchase,,1,"3,80",1,2053 00 094 AA 37601
+02,Maintenance,"4,58","4,95","4,95","5,70",2053 00 094 AA 37602
+03,Stationery,,,30,,2053 00 094 AA 37603
+AA,Total AA Charged,,,85,,
+AA,Total AA Voted,"50,53,98","46,61,59","69,69,50","75,01,15",
+AB,Taluk Establishments,,,,,2053 00 094 AB 30000
+301,Salaries,"2,62,16,92","2,83,06,64","3,22,17,46","3,32,04,63",2053 00 094 AB 30100
+01,Pay,"2,41,51,55","2,62,34,26","3,00,38,95","3,09,38,00",2053 00 094 AB 30101
+02,Medical Allowance,"2,34,54","2,22,14","2,99,30","3,11,28",2053 00 094 AB 30102
+03,Medical Charges,1,10,10,10,2053 00 094 AB 30103
+04,Other Allowances,"4,16,42","3,72,46","3,80,88","3,96,13",2053 00 094 AB 30104
+06,House Rent Allowance,"13,33,63","14,02,63","14,02,63","14,58,73",2053 00 094 AB 30106
+07,Travel Concession,"1,98","5,88","6,06","6,37",2053 00 094 AB 30107
+08,City Compensatory Allowance,"78,79","69,17","89,54","94,02",2053 00 094 AB 30108
+303,Dearness Allowance,"28,18,91","29,07,54","45,36,39","75,79,81",2053 00 094 AB 30300
+01,Dearness Allowance,"28,18,91","29,07,54","45,36,39","75,79,81",2053 00 094 AB 30301
+304,Travel Expenses,"4,29,41","4,38,92","5,17,18","5,23,40",2053 00 094 AB 30400
+01,Tour Travelling Allowances,"3,18,91","3,11,32","3,61,78","3,61,78",2053 00 094 AB 30401
+02,Transfer Travelling Allowances,"7,29","10,66","16,73","17,40",2053 00 094 AB 30402
+03,Fixed Travelling Allowances,"1,03,21","1,16,94","1,38,67","1,44,22",2053 00 094 AB 30403
+305,Office Expenses,"9,86,80","11,66,94","17,63,16","19,51,27",2053 00 094 AB 30500
+01,Telephone Charges,"1,30,18","80,00","3,39,16","8,44,72",2053 00 094 AB 30501
+02,Other Contingencies,"2,21,83","2,26,84","6,50,53","3,45,32",2053 00 094 AB 30502
+03,Electricity Charges,"5,70,25","8,32,26","7,02,03","7,28,21",2053 00 094 AB 30503
+04,Service Postage & Postal Expenditure,"28,57","27,83","31,44","33,01",2053 00 094 AB 30504
+05,Furniture,"35,97",1,"40,00",1,2053 00 094 AB 30505
+306,"Rent, Rates and Taxes","3,36,35","3,90,93","4,16,05","4,30,41",2053 00 094 AB 30600
+01,Rent,"1,47,87","1,48,54","1,29,17","1,29,17",2053 00 094 AB 30601
+02,Property tax,"1,80,10","2,14,92","2,59,41","2,72,39",2053 00 094 AB 30602
+03,Water Charges,"8,38","27,47","27,47","28,85",2053 00 094 AB 30603
+317,Minor Works,"-2,10",1,1,1,2053 00 094 AB 31700
+01,Minor Works,"-2,10",1,1,1,2053 00 094 AB 31701
+319,Machinery and Equipments,"10,34",1,"12,25",1,2053 00 094 AB 31900
+01,Purchase,"10,34",1,"12,25",1,2053 00 094 AB 31901
+321,Motor Vehicles,"1,31,38","19,36","1,84,98","19,36",2053 00 094 AB 32100
+01,Purchase,"1,08,19",1,"1,65,63",1,2053 00 094 AB 32101
+02,Maintenance of Functional Vehicles,"23,19","19,35","19,35","19,35",2053 00 094 AB 32102
+333,Payments for Professional and Special Services,"6,34,13","6,65,58","7,37,46","6,91,00",2053 00 094 AB 33300
+01,Pleaders Fees,"25,96","5,00","41,62","7,00",2053 00 094 AB 33301
+04,Contract Payment,"6,08,17","6,60,58","6,95,84","6,84,00",2053 00 094 AB 33304
+334,Other Charges,,1,1,1,2053 00 094 AB 33400
+01,Other Items,,1,1,1,2053 00 094 AB 33401
+345,"Petroleum, Oil and Lubricant","3,59,67","3,80,00","6,00,36","6,25,52",2053 00 094 AB 34500
+01,"Petroleum, Oil and Lubricant","3,59,67","3,80,00","6,00,36","6,25,52",2053 00 094 AB 34501
+349,Festival Advances,"11,37",,,,2053 00 094 AB 34900
+01,Festival Advances-Debit,"2,09,85","3,50,00","6,23,55","6,23,55",2053 00 094 AB 34901
+02,Festival Advances-Credit,"-1,98,48","-3,50,00","-6,23,55","-6,23,55",2053 00 094 AB 34902
+351,Compensation Charged,"12,91",1,"3,63",1,2053 00 094 AB 35100
+351,Compensation Voted,,1,"2,61",1,2053 00 094 AB 35100
+02,Other Compensations  - Voted,,1,"2,61",1,2053 00 094 AB 35102
+52,Other Compensations Charged,"12,91",1,"3,63",1,2053 00 094 AB 35152
+359,Prizes and Awards,20,40,44,46,2053 00 094 AB 35900
+01,Prizes and Awards,20,40,44,46,2053 00 094 AB 35901
+364,Lands,,1,1,1,2053 00 094 AB 36400
+01,Lands - Voted,,1,1,1,2053 00 094 AB 36401
+372,Training,"6,40",1,1,1,2053 00 094 AB 37200
+01,Training,"6,40",1,1,1,2053 00 094 AB 37201
+373,Transport Charges,,1,1,1,2053 00 094 AB 37300
+01,Transport Charges,,1,1,1,2053 00 094 AB 37301
+376,Computer and Accessories,"1,73,81","12,78","28,27","14,51",2053 00 094 AB 37600
+01,Purchase,"1,61,98",1,"15,25",1,2053 00 094 AB 37601
+02,Maintenance,"11,83","12,77","12,77","14,50",2053 00 094 AB 37602
+03,Stationery,,,25,,2053 00 094 AB 37603
+AB,Total AB Charged,"12,91",1,"3,63",1,
+AB,Total AB Voted,"3,21,13,59","3,42,89,16","4,10,16,66","4,50,40,44",
+AC,Ryotwari Village Services,,,,,2053 00 094 AC 30000
+301,Salaries,"6,15,52,47","6,55,96,55","6,77,84,07","7,04,97,03",2053 00 094 AC 30100
+01,Pay,"5,64,14,71","6,01,73,15","6,19,38,94","6,44,16,49",2053 00 094 AC 30101
+02,Medical Allowance,"8,50,88","8,22,09","8,56,31","8,90,56",2053 00 094 AC 30102
+03,Medical Charges,8,1,1,1,2053 00 094 AC 30103
+04,Other Allowances,"16,02,66","16,89,68","20,49,70","21,31,69",2053 00 094 AC 30104
+06,House Rent Allowance,"25,57,21","27,95,42","27,79,31","28,90,48",2053 00 094 AC 30106
+07,Travel Concession,97,"2,88","1,90","2,00",2053 00 094 AC 30107
+08,City Compensatory Allowance,"1,25,96","1,13,32","1,57,90","1,65,80",2053 00 094 AC 30108
+303,Dearness Allowance,"60,69,78","67,47,30","1,02,25,44","1,57,82,04",2053 00 094 AC 30300
+01,Dearness Allowance,"60,69,78","67,47,30","1,02,25,44","1,57,82,04",2053 00 094 AC 30301
+304,Travel Expenses,"8,36,61","9,32,73","9,53,16","9,90,98",2053 00 094 AC 30400
+01,Tour Travelling Allowances,"3,22","7,72","7,72","7,72",2053 00 094 AC 30401
+02,Transfer Travelling Allowances,22,"1,95",65,68,2053 00 094 AC 30402
+03,Fixed Travelling Allowances,"8,33,17","9,23,06","9,44,79","9,82,58",2053 00 094 AC 30403
+306,"Rent, Rates and Taxes","2,95",1,1,1,2053 00 094 AC 30600
+01,Rent,"2,95",1,1,1,2053 00 094 AC 30601
+349,Festival Advances,"-55,76",,,,2053 00 094 AC 34900
+01,Festival Advances-Debit,"7,79,95","15,51,93","20,18,54","20,18,54",2053 00 094 AC 34901
+02,Festival Advances-Credit,"-8,35,71","-15,51,93","-20,18,54","-20,18,54",2053 00 094 AC 34902
+359,Prizes and Awards,42,,"1,50",1,2053 00 094 AC 35900
+01,Prizes and Awards,42,,"1,50",1,2053 00 094 AC 35901
+AC,Total AC,"6,84,06,47","7,32,76,59","7,89,64,18","8,72,70,07",
+AD,Cattle Pounds,,,,,2053 00 094 AD 30000
+301,Salaries,,"4,79","3,22","3,35",2053 00 094 AD 30100
+01,Pay,,"4,45","3,00","3,12",2053 00 094 AD 30101
+02,Medical Allowance,,6,4,4,2053 00 094 AD 30102
+04,Other Allowances,,4,3,3,2053 00 094 AD 30104
+06,House Rent Allowance,,24,15,16,2053 00 094 AD 30106
+303,Dearness Allowance,,47,42,76,2053 00 094 AD 30300
+01,Dearness Allowance,,47,42,76,2053 00 094 AD 30301
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,5,10,10,2053 00 094 AD 34901
+02,Festival Advances-Credit,,-5,-10,-10,2053 00 094 AD 34902
+AD,Total AD,,"5,26","3,64","4,11",
+#,State's Expenditure Total Charged,"12,91",1,"4,48",1,
+#,State's Expenditure Total Voted,"10,55,74,04","11,22,32,60","12,69,53,98","13,98,15,77",
+094,Total 094 Charged,"12,91",1,"4,48",1,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+AG,District Innovation Fund for increasing the efficiency of Capital Asset -  Recommendation of 13th Finance Commission,,,,,2053 00 800 AG 30000
+309,Grants-in-Aid,,1,1,1,2053 00 800 AG 30900
+02,Grants for Creation of Capital Assets,,1,1,1,2053 00 800 AG 30902
+AG,Total AG,1,1,1,,
+JD,Relief Measures to Fishermen / Farmers,,,,,2053 00 800 JD 30000
+311,Subsidies,,,4,1,2053 00 800 JD 31100
+01,Individual Based Subsidy,,,4,1,2053 00 800 JD 31101
+351,Compensation,,,"17,40",1,2053 00 800 JD 35100
+02,Other Compensations  - Voted,,,"17,40",1,2053 00 800 JD 35102
+JD,Total JD,,"17,44",2,,
+#,State's Expenditure Total,,1,"17,45",3,
+800,Total 800,1,"17,45",3,,
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+AA,Collectors and Magistrates,,,,,2053 00 911 AA 30000
+377,Deduct-Recoveries,"-40,35",,"-10,09",-1,2053 00 911 AA 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-40,35",,"-10,09",-1,2053 00 911 AA 37702
+AA,Total AA,"-40,35",,"-10,09",-1,
+AB,Taluk Establishments,,,,,2053 00 911 AB 30000
+377,Deduct-Recoveries,"-5,94",,"-6,35",-1,2053 00 911 AB 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-5,94",,"-6,35",-1,2053 00 911 AB 37702
+AB,Total AB,"-5,94",,"-6,35",-1,
+AC,Ryotwari Village Services,,,,,2053 00 911 AC 30000
+377,Deduct-Recoveries,"-14,63",,"-5,54",-1,2053 00 911 AC 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-14,63",,"-5,54",-1,2053 00 911 AC 37702
+AC,Total AC,"-14,63",,"-5,54",-1,
+AG,District Innovation Fund for increasing the efficiency of Capital Asset - Recommendation of 13th Finance Commission,,,,,2053 00 911 AG 30000
+377,Deduct-Recoveries,"-16,84",,,,2053 00 911 AG 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-16,84",,,,2053 00 911 AG 37702
+AG,Total AG,"-16,84",,,,
+AT,Deduct - Recoveries of Overpayments,,,,,2053 00 911 AT 30000
+377,Deduct-Recoveries,"-9,82",,,,2053 00 911 AT 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-9,82",,,,2053 00 911 AT 37702
+AT,Total AT,"-9,82",,,,
+#,State's Expenditure Total,"-87,58",,"-21,98",-3,
+911,Total 911,"-87,58",,"-21,98",-3,
+00,Total 00 Charged,"12,91",3,"24,73",3,
+00,Total 00 Voted,"12,15,84,10","12,72,78,13","15,03,63,07","16,32,26,93",
+2053,Total 2053 Charged,"12,91",3,"24,73",3,
+2053,Total 2053 Voted,"12,15,84,10","12,72,78,13","15,03,63,07","16,32,26,93",
+2059,PUBLIC WORKS,,,,,
+01,Office Buildings,,,,,
+053,Maintenance and Repairs,,,,,
+#,State's Expenditure,,,,,
+AJ,Buildings - Land Revenue (Administered by Chief Engineer (Buildings)),,,,,2059 01 053 AJ 30000
+318,Maintenance,"27,87,15","28,00,01","28,00,01","40,00,01",2059 01 053 AJ 31800 
+01,Periodical Maintenance,"27,87,15","28,00,00","28,00,00","40,00,00",2059 01 053 AJ 31801
+04,Wages,,1,1,1,2059 01 053 AJ 31804
+AJ,Total AJ,"27,87,15","28,00,01","28,00,01","40,00,01",
+AL,Buildings - District Administration (Administered by Chief Engineer (Buildings)),,,,,2059 01 053 AL 30000
+318,Maintenance,"10,96,12","11,50,02","11,50,02","25,00,02",2059 01 053 AL 31800 
+01,Periodical Maintenance,"10,96,12","11,50,00","11,50,00","25,00,00",2059 01 053 AL 31801
+02,Special Maintenance,,1,1,1,2059 01 053 AL 31802
+04,Wages,,1,1,1,2059 01 053 AL 31804
+AL,Total AL,"10,96,12","11,50,02","11,50,02","25,00,02",
+CH,Buildings - Ezhilagam (Administered by Chief Engineer (Buildings)),,,,,2059 01 053 CH 30000
+318,Maintenance,"1,11,69","1,26,01","1,26,01","1,50,01",2059 01 053 CH 31800 
+01,Periodical Maintenance,"1,11,69","1,26,00","1,26,00","1,50,00",2059 01 053 CH 31801
+02,Special Maintenance,,1,1,1,2059 01 053 CH 31802
+CH,Total CH,"1,11,69","1,26,01","1,26,01","1,50,01",
+CI,Buildings - Singaravelar Maligai (Administered by Chief Engineer (Buildings)),,,,,2059 01 053 CI 30000
+318,Maintenance,"37,91","39,00","39,00","40,00",2059 01 053 CI 31800 
+01,Periodical Maintenance,"37,91","39,00","39,00","40,00",2059 01 053 CI 31801
+CI,Total CI,"37,91","39,00","39,00","40,00",
+#,State's Expenditure Total,"40,32,87","41,15,04","41,15,04","66,90,04",
+053,Total 053,"40,32,87","41,15,04","41,15,04","66,90,04",
+01,Total 01,"40,32,87","41,15,04","41,15,04","66,90,04",
+60,Other Buildings,,,,,
+053,Maintenance and Repairs,,,,,
+#,State's Expenditure,,,,,
+AB,Buildings - Revenue Quarters (Administered by Chief Engineer (Buildings)),,,,,2059 60 053 AB 30000
+318,Maintenance,"1,13,44","1,15,00","1,15,00","5,00,00",2059 60 053 AB 31800 
+01,Periodical Maintenance,"1,13,44","1,15,00","1,15,00","5,00,00",2059 60 053 AB 31801
+AB,Total AB,"1,13,44","1,15,00","1,15,00","5,00,00",
+AC,Buildings - Revenue Inspectors' Quarters (Administered by Chief Engineer (Buildings)),,,,,2059 60 053 AC 30000
+318,Maintenance,"34,26","30,00","30,00","4,00,00",2059 60 053 AC 31800 
+01,Periodical Maintenance,"34,26","30,00","30,00","4,00,00",2059 60 053 AC 31801
+AC,Total AC,"34,26","30,00","30,00","4,00,00",
+AD,Buildings - Village Administrative Officers' Offices (Administered by Chief Engineer (Buildings)),,,,,2059 60 053 AD 30000
+318,Maintenance,"33,44","25,00","50,00","2,50,00",2059 60 053 AD 31800 
+01,Periodical Maintenance,"33,44","25,00","50,00","2,50,00",2059 60 053 AD 31801
+AD,Total AD,"33,44","25,00","50,00","2,50,00",
+#,State's Expenditure Total,"1,81,14","1,70,00","1,95,00","11,50,00",
+053,Total 053,"1,81,14","1,70,00","1,95,00","11,50,00",
+60,Total 60,"1,81,14","1,70,00","1,95,00","11,50,00",
+2059,Total 2059,"42,14,01","42,85,04","43,10,04","78,40,04",
+2070-00,OTHER ADMINISTRATIVE SERVICES,,,,,
+003,Training,,,,,
+#,State's Expenditure,,,,,
+AA,Allowances to I.A.S. Probationers,,,,,2070 00 003 AA 30000
+301,Salaries,,4,4,4,2070 00 003 AA 30100
+04,Other Allowances,,4,4,4,2070 00 003 AA 30104
+304,Travel Expenses,,1,1,1,2070 00 003 AA 30400
+02,Transfer Travelling Allowances,,1,1,1,2070 00 003 AA 30402
+AA,Total AA,,5,5,5,
+#,State's Expenditure Total,,5,5,5,
+003,Total 003,,5,5,5,
+106,Civil Defence,,,,,
+#,State's Expenditure,,,,,
+AB,Maintenance of Naval detachment for Coastal Security,,,,,2070 00 106 AB 30000
+305,Office Expenses,"23,33","72,10","23,10","24,15",2070 00 106 AB 30500
+02,Other Contingencies,"2,98","2,10","2,10","2,10",2070 00 106 AB 30502
+03,Electricity Charges,"20,35","70,00","21,00","22,05",2070 00 106 AB 30503
+306,"Rent, Rates and Taxes","1,39,22","52,19","56,68","57,45",2070 00 106 AB 30600
+01,Rent,"1,25,29","25,19","41,34","41,34",2070 00 106 AB 30601
+03,Water Charges,"13,93","27,00","15,34","16,11",2070 00 106 AB 30603
+317,Minor Works,"22,29","13,16","74,89","99,98",2070 00 106 AB 31700
+01,Minor Works,"22,29","13,16","74,89","99,98",2070 00 106 AB 31701
+AB,Total AB,"1,84,84","1,37,45","1,54,67","1,81,58",
+#,State's Expenditure Total,"1,84,84","1,37,45","1,54,67","1,81,58",
+106,Total 106,"1,84,84","1,37,45","1,54,67","1,81,58",
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+AT,Leave Salary for All India Service officers on deputation to Foreign Service,,,,,2070 00 800 AT 30000
+301,Salaries,,4,4,4,2070 00 800 AT 30100
+01,Pay,,3,3,3,2070 00 800 AT 30101
+04,Other Allowances,,1,1,1,2070 00 800 AT 30104
+303,Dearness Allowance,,1,1,1,2070 00 800 AT 30300
+01,Dearness Allowance,,1,1,1,2070 00 800 AT 30301
+AT,Total AT,5,5,5,,
+BV,Formation of District Passport Cell,,,,,2070 00 800 BV 30000
+333,Payments for Professional and Special Services,,1,1,1,2070 00 800 BV 33300
+02,Remuneration,,1,1,1,2070 00 800 BV 33302
+376,Computer and Accessories,,1,1,1,2070 00 800 BV 37600
+01,Purchase,,1,1,1,2070 00 800 BV 37601
+BV,Total BV,2,2,2,,
+CF,Grants to Natural Calamities wing of Tamil Nadu State Disaster Management Agency,,,,,2070 00 800 CF 30000
+309,Grants-in-Aid,"2,15,29",,"1,71,82",1,2070 00 800 CF 30900
+03,Grants for Specific Schemes,"2,15,29",,"1,71,82",1,2070 00 800 CF 30903
+CF,Total CF,"2,15,29",,"1,71,82",1,
+#,State's Expenditure Total,"2,15,29",7,"1,71,89",8,
+#,Externally Aided Projects,,,,,
+PA,World Bank assisted schemes under Coastal Disaster Risk Reduction Project (CDRRP) Project Management Unit - Revenue Administration,,,,,2070 00 800 PA 30000
+309,Grants-in-Aid,,1,"25,77,19",1,2070 00 800 PA 30900
+03,Grants for Specific Schemes,,1,"25,77,19",1,2070 00 800 PA 30903
+PA,Total PA,1,"25,77,19",1,,
+QB,Early Warning System under Emergency Tsunami Reconstruction Project (ETRP) assistance from World Bank,,,,,2070 00 800 QB 30000
+319,Machinery and Equipments,,1,1,1,2070 00 800 QB 31900
+01,Purchase,,1,1,1,2070 00 800 QB 31901
+333,Payments for Professional and Special Services,,1,1,1,2070 00 800 QB 33300
+03,Special Service,,1,1,1,2070 00 800 QB 33303
+QB,Total QB,,2,2,2,
+#,Externally Aided Projects Total,,3,"25,77,21",3,
+800,Total 800,"2,15,29",10,"27,49,10",11,
+911,Deduct - Recoveries of Overpayments Externally Aided Project,,,,,
+PA,World Bank assisted schemes under Coastal Disaster Risk Reduction Project (CDRRP) Project Management Unit - Revenue Administration,,,,,2070 00 911 PA 30000
+377,Deduct-Recoveries,-2,,,,2070 00 911 PA 37700
+03,Other Recoveries,-2,,,,2070 00 911 PA 37703
+PA,Total PA,-2,,,,
+#,Externally Aided Projects Total,-2,,,,
+911,Total 911,-2,,,,
+00,Total 00,"4,00,11","1,37,60","29,03,82","1,81,74",
+2070,Total 2070,"4,00,11","1,37,60","29,03,82","1,81,74",
+2075-00,MISCELLANEOUS GENERAL SERVICES,,,,,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+GJ,Charges in connection with the visit of Hon'ble Chief Minister and other Ministers of Tamil Nadu to the Districts,,,,,2075 00 800 GJ 30000
+313,Hospitality / Entertainment Expenditure,"38,70","50,00","50,00","50,00",2075 00 800 GJ 31300
+01,Hospitality / Entertainment Expenditure,"38,70","50,00","50,00","50,00",2075 00 800 GJ 31301
+317,Minor Works,"2,04,75",1,"1,36,93","1,00,00",2075 00 800 GJ 31700
+01,Minor Works,"2,04,75",1,"1,36,93","1,00,00",2075 00 800 GJ 31701
+345,"Petroleum, Oil and Lubricant","14,43","17,00","28,84","30,29",2075 00 800 GJ 34500
+01,"Petroleum, Oil and Lubricant","14,43","17,00","28,84","30,29",2075 00 800 GJ 34501
+351,Compensation Charged,,1,1,1,2075 00 800 GJ 35100
+52,Other Compensations Charged,,1,1,1,2075 00 800 GJ 35152
+GJ,Total GJ Charged,,1,1,1,
+GJ,Total GJ Voted,"2,57,88","67,01","2,15,77","1,80,29",
+IA,Incentive for issue of Unique Identification by using 13th Finance Commission Grant,,,,,2075 00 800 IA 30000
+311,Subsidies,,1,1,1,2075 00 800 IA 31100
+01,Individual Based Subsidy,,1,1,1,2075 00 800 IA 31101
+IA,Total IA,,1,1,1,
+#,State's Expenditure Total Charged,,1,1,1,
+#,State's Expenditure Total Voted,"2,57,88","67,02","2,15,78","1,80,30",
+800,Total 800 Charged,,1,1,1,
+800,Total 800 Voted,"2,57,88","67,02","2,15,78","1,80,30",
+00,Total 00 Charged,,1,1,1,
+00,Total 00 Voted,"2,57,88","67,02","2,15,78","1,80,30",
+2075,Total 2075 Charged,,1,1,1,
+2075,Total 2075 Voted,"2,57,88","67,02","2,15,78","1,80,30",
+2235,SOCIAL SECURITY AND WELFARE,,,,,
+02,Social Welfare,,,,,
+103,Women's Welfare,,,,,
+#,State's Expenditure,,,,,
+BG,Mahila Courts,,,,,2235 02 103 BG 30000
+333,Payments for Professional and Special Services,"51,78","20,00","68,29","20,00",2235 02 103 BG 33300
+01,Pleaders Fees,"51,78","20,00","68,29","20,00",2235 02 103 BG 33301
+BG,Total BG,"51,78","20,00","68,29","20,00",
+#,State's Expenditure Total,"51,78","20,00","68,29","20,00",
+103,Total 103,"51,78","20,00","68,29","20,00",
+02,Total 02,"51,78","20,00","68,29","20,00",
+60,Other Social Security and Welfare Programmes,,,,,
+102,Pension under Social Security Schemes,,,,,
+#,State's Expenditure,,,,,
+AF,"Pensions to Freedom fighters, their dependents etc.,",,,,,2235 60 102 AF 30000
+327,Pensions,,,,"18,30,30",2235 60 102 AF 32700
+05,Social Security Pensions,,,,"18,30,30",2235 60 102 AF 32705
+AF,Total AF,,,"18,30,30",,
+AG,Cost of remittance of pension by Money Order,,,,,2235 60 102 AG 30000
+305,Office Expenses,,,,"1,00",2235 60 102 AG 30500
+04,Service Postage & Postal Expenditure,,,,"1,00",2235 60 102 AG 30504
+AG,Total AG,,,"1,00",,
+AK,Medical Allowance to Freedom Fighters,,,,,2235 60 102 AK 30000
+327,Pensions,,,,"1,40,16",2235 60 102 AK 32700
+01,Basic Pension,,,,"1,40,16",2235 60 102 AK 32701
+AK,Total AK,,,,"1,40,16",
+AL,Presentation of Momentos to Freedom Fighters,,,,,2235 60 102 AL 30000
+327,Pensions,,,,1,2235 60 102 AL 32700
+01,Basic Pension,,,,1,2235 60 102 AL 32701
+AL,Total AL,,,,1,
+JB,Social Security Net - Pension for the Differently abled,,,,,2235 60 102 JB 30000
+327,Pensions,"2,40,20,11","2,60,50,77","2,82,48,95","3,10,64,70",2235 60 102 JB 32700
+05,Social Security Pensions,"2,40,20,11","2,60,50,77","2,82,48,95","3,10,64,70",2235 60 102 JB 32705
+JB,Total JB,"2,40,20,11","2,60,50,77","2,82,48,95","3,10,64,70",
+JD,Social Security Net - Pension to Deserted Wives,,,,,2235 60 102 JD 30000
+327,Pensions,"1,10,61,53","1,21,61,71","1,16,35,06","1,27,94,80",2235 60 102 JD 32700
+05,Social Security Pensions,"1,10,61,53","1,21,61,71","1,16,35,06","1,27,94,80",2235 60 102 JD 32705
+JD,Total JD,"1,10,61,53","1,21,61,71","1,16,35,06","1,27,94,80",
+JE,Destitute Widows Pension,,,,,2235 60 102 JE 30000
+327,Pensions,"4,00,59,95","4,13,37,66","4,43,40,58","4,87,60,28",2235 60 102 JE 32700
+05,Social Security Pensions,"4,00,59,95","4,13,37,66","4,43,40,58","4,87,60,28",2235 60 102 JE 32705
+JE,Total JE,"4,00,59,95","4,13,37,66","4,43,40,58","4,87,60,28",
+JF,Pension for Old Poor Spinster,,,,,2235 60 102 JF 30000
+327,Pensions,"26,55,33","27,46,62","29,22,12","32,13,39",2235 60 102 JF 32700
+05,Social Security Pensions,"26,55,33","27,46,62","29,22,12","32,13,39",2235 60 102 JF 32705
+JF,Total JF,"26,55,33","27,46,62","29,22,12","32,13,39",
+JG,Social Security Net-Old Age  Pension for the Srilankan Tamils staying at relief camps,,,,,2235 60 102 JG 30000
+327,Pensions,"3,30,77","3,45,57","3,45,29","3,79,70",2235 60 102 JG 32700
+05,Social Security Pensions,"3,30,77","3,45,57","3,45,29","3,79,70",2235 60 102 JG 32705
+JG,Total JG,"3,30,77","3,45,57","3,45,29","3,79,70",
+JH,Social Security Net-Widows Pension for the Srilankan Tamils staying at relief camps,,,,,2235 60 102 JH 30000
+327,Pensions,"1,63,91","1,74,66","1,74,71","1,92,12",2235 60 102 JH 32700
+05,Social Security Pensions,"1,63,91","1,74,66","1,74,71","1,92,12",2235 60 102 JH 32705
+JH,Total JH,"1,63,91","1,74,66","1,74,71","1,92,12",
+JI,Social Security Net-Deserted Wives Pension for the Srilankan Tamils staying at relief camps,,,,,2235 60 102 JI 30000
+327,Pensions,"20,91","24,71","21,89","24,07",2235 60 102 JI 32700
+05,Social Security Pensions,"20,91","24,71","21,89","24,07",2235 60 102 JI 32705
+JI,Total JI,"20,91","24,71","21,89","24,07",
+JJ,Social Security Net-Differently abled Pension for the Srilankan Tamils staying at relief camps,,,,,2235 60 102 JJ 30000
+327,Pensions,"27,31","30,26","29,68","32,64",2235 60 102 JJ 32700
+05,Social Security Pensions,"27,31","30,26","29,68","32,64",2235 60 102 JJ 32705
+JJ,Total JJ,"27,31","30,26","29,68","32,64",
+#,State's Expenditure Total,"7,83,39,82","8,28,71,96","8,77,18,28","9,84,33,17",
+#,Schemes shared between State and Centre,,,,,
+UA,Social Security Net - Indira Gandhi National Old Age Pension,,,,,2235 60 102 UA 30000
+327,Pensions,"11,50,81,48","13,24,80,02","12,64,50,45","14,04,16,95",2235 60 102 UA 32700
+05,Social Security Pensions,"11,23,30,26","13,16,75,77","12,56,46,20","13,95,72,49",2235 60 102 UA 32705
+09,Others,"27,51,22","8,04,25","8,04,25","8,44,46",2235 60 102 UA 32709
+UA,Total UA,"11,50,81,48","13,24,80,02","12,64,50,45","14,04,16,95",
+UB,Indira Gandhi National Disabled Pension Scheme,,,,,2235 60 102 UB 30000
+327,Pensions,"55,26,86","63,07,57","59,53,95","66,85,84",2235 60 102 UB 32700
+05,Social Security Pensions,"55,26,86","63,07,57","59,53,95","66,85,84",2235 60 102 UB 32705
+UB,Total UB,"55,26,86","63,07,57","59,53,95","66,85,84",
+UC,Indira Gandhi National Destitute Widow Pension Scheme,,,,,2235 60 102 UC 30000
+327,Pensions,"4,87,87,36","5,06,16,12","5,28,88,91","5,36,51,61",2235 60 102 UC 32700
+05,Social Security Pensions,"4,87,87,36","5,06,16,12","5,28,88,91","5,36,51,61",2235 60 102 UC 32705
+UC,Total UC,"4,87,87,36","5,06,16,12","5,28,88,91","5,36,51,61",
+#,Schemes shared between State and Centre Total,"16,93,95,70","18,94,03,71","18,52,93,31","20,07,54,40",
+102,Total 102,"24,77,35,52","27,22,75,67","27,30,11,59","29,91,87,57",
+200,Other Programmes,,,,,
+#,State's Expenditure,,,,,
+DR,Corpus Fund for New Comprehensive Accident cum Life Insurance Scheme implemented by CRA,,,,,2235 60 200 DR 30000
+310,Contributions,,,,"1,50,00,00",2235 60 200 DR 31000
+01,Contribution to Specific Fund,,,,"1,50,00,00",2235 60 200 DR 31001
+DR,Total DR,,,,"1,50,00,00",
+JQ,Supply of Dhoties / Sarees to Old Age Pensioners,,,,,2235 60 200 JQ 30000
+346,"Clothing, Tentage and Stores","67,96,46","67,37,80","70,15,46","73,66,23",2235 60 200 JQ 34600
+01,"Clothing, Tentage and Stores","67,96,46","67,37,80","70,15,46","73,66,23",2235 60 200 JQ 34601
+JQ,Total JQ,"67,96,46","67,37,80","70,15,46","73,66,23",
+KX,Chief Minister's Uzhavar Pathukappu Thittam (CMUPT),,,,,2235 60 200 KX 30000
+327,Pensions,"2,86,25,60","3,05,81,58","2,96,92,58","3,26,52,22",2235 60 200 KX 32700
+05,Social Security Pensions,"2,86,25,60","3,05,81,58","2,96,92,58","3,26,52,22",2235 60 200 KX 32705
+KX,Total KX,"2,86,25,60","3,05,81,58","2,96,92,58","3,26,52,22",
+MB,New Comprehensive Accident-cum-Life Insurance Scheme implemented by CRA,,,,,2235 60 200 MB 30000
+310,Contributions,,,,"1,00,00,00",2235 60 200 MB 31000
+02,Insurance Premium,,,,"1,00,00,00",2235 60 200 MB 31002
+MB,Total MB,,,,"1,00,00,00",
+#,State's Expenditure Total,"3,54,22,06","3,73,19,38","3,67,08,04","6,50,18,45",
+#,Central Sector Schemes,,,,,
+SF,Widows Differently abled and Old Age Pensioner's Free Ration Schemes,,,,,2235 60 200 SF 30000
+343,Cost of Ration,"1,61,00","1,60,00","1,60,00","1,68,00",2235 60 200 SF 34300
+01,Cost of Ration,"1,61,00","1,60,00","1,60,00","1,68,00",2235 60 200 SF 34301
+SF,Total SF,"1,61,00","1,60,00","1,60,00","1,68,00",
+SG,Accident Relief Schemes to certain poor occupational categories,,,,,2235 60 200 SG 30000
+309,Grants-in-Aid,"3,10","20,00","33,00","34,65",2235 60 200 SG 30900
+03,Grants for Specific Schemes,"3,10","20,00","33,00","34,65",2235 60 200 SG 30903
+SG,Total SG,"3,10","20,00","33,00","34,65",
+SH,Distress Relief Scheme,,,,,2235 60 200 SH 30000
+309,Grants-in-Aid,"11,78,19","3,20,00","9,55,34","10,03,11",2235 60 200 SH 30900
+03,Grants for Specific Schemes,"11,67,39","3,00,00","9,00,00","9,45,00",2235 60 200 SH 30903
+09,Others,"10,80","20,00","55,34","58,11",2235 60 200 SH 30909
+SH,Total SH,"11,78,19","3,20,00","9,55,34","10,03,11",
+#,Central Sector Schemes Total,"13,42,29","5,00,00","11,48,34","12,05,76",
+200,Total 200,"3,67,64,35","3,78,19,38","3,78,56,38","6,62,24,21",
+789,Special Component Plan for Scheduled Castes,,,,,
+#,State's Expenditure,,,,,
+JF,"Social Security Net - Pension for the Differently abled under Special Component Plan,,,,,2235 60 789 JF 30000
+327,Pensions""","61,46,69","65,45,40","72,91,84","80,18,66",2235 60 789 JF 32700
+05,Social Security Pensions,"61,46,69","65,45,40","72,91,84","80,18,66",2235 60 789 JF 32705
+JF,Total JF,"61,46,69","65,45,40","72,91,84","80,18,66",
+JH,Social Security Net - Pension to Deserted Wives,,,,,2235 60 789 JH 30000
+327,Pensions,"24,91,54","25,89,23","26,27,95","28,89,89",2235 60 789 JH 32700
+05,Social Security Pensions,"24,91,54","25,89,23","26,27,95","28,89,89",2235 60 789 JH 32705
+JH,Total JH,"24,91,54","25,89,23","26,27,95","28,89,89",
+JJ,Supply of Dhoties / Sarees to Old Age Pensioners,,,,,2235 60 789 JJ 30000
+346,"Clothing, Tentage and Stores","19,01,20","23,99,34","21,29,41","22,35,88",2235 60 789 JJ 34600
+01,"Clothing, Tentage and Stores","19,01,20","23,99,34","21,29,41","22,35,88",2235 60 789 JJ 34601
+JJ,Total JJ,"19,01,20","23,99,34","21,29,41","22,35,88",
+JT,Destitute Widows Pension under Special Component Plan,,,,,2235 60 789 JT 30000
+327,Pensions,"1,09,30,57","1,14,19,44","1,24,36,58","1,36,76,21",2235 60 789 JT 32700
+05,Social Security Pensions,"1,09,30,57","1,14,19,44","1,24,36,58","1,36,76,21",2235 60 789 JT 32705
+JT,Total JT,"1,09,30,57","1,14,19,44","1,24,36,58","1,36,76,21",
+JY,Chief Minister's Uzhavar Pathukappu Thittam (CMUPT) under Special Component Plan,,,,,2235 60 789 JY 30000
+327,Pensions,"67,30,07","70,58,26","70,87,02","77,93,43",2235 60 789 JY 32700
+05,Social Security Pensions,"67,30,07","70,58,26","70,87,02","77,93,43",2235 60 789 JY 32705
+JY,Total JY,"67,30,07","70,58,26","70,87,02","77,93,43",
+#,State's Expenditure Total,"2,82,00,07","3,00,11,67","3,15,72,80","3,46,14,07",
+789,Total 789,"2,82,00,07","3,00,11,67","3,15,72,80","3,46,14,07",
+793,Special Central Assistance for Scheduled Caste Component Plan,,,,,
+#,Central Sector Schemes Central Sector Sechemes,,,,,
+SA,"Widows, Differently abled and Old Age Pensioners' Free Ration Schemes",,,,,2235 60 793 SA 30000
+343,Cost of Ration,"40,59","89,30","89,30","93,77",2235 60 793 SA 34300 
+01,Cost of Ration,"40,59","89,30","89,30","93,77",2235 60 793 SA 34301
+SA,Total SA,"40,59","89,30","89,30","93,77",
+SB,Distress Relief Scheme,,,,,2235 60 793 SB 30000
+309,Grants-in-Aid,"2,67,13","3,22,00","8,00,00","8,40,00",2235 60 793 SB 30900 
+03,Grants for Specific Schemes,"2,67,13","3,22,00","8,00,00","8,40,00",2235 60 793 SB 30903
+SB,Total SB,"2,67,13","3,22,00","8,00,00","8,40,00",
+#,Central Sector Schemes Total,"3,07,72","4,11,30","8,89,30","9,33,77",
+#,Schemes shared between State and Centre,,,,,
+UA,Social Security Net - Indira Gandhi National Old Age Pension under Special Component Plan,,,,,2235 60 793 UA 30000
+327,Pensions,"3,75,60,56","4,34,00,08","4,14,05,05","4,60,02,82",2235 60 793 UA 32700
+05,Social Security Pensions,"3,75,60,56","4,34,00,08","4,14,05,05","4,60,02,82",2235 60 793 UA 32705
+UA,Total UA,"3,75,60,56","4,34,00,08","4,14,05,05","4,60,02,82",
+UB,Indira Gandhi National Disabled Pension Scheme under Special Component Plan,,,,,2235 60 793 UB 30000
+327,Pensions,"16,29,32","17,53,18","17,46,27","18,58,32",2235 60 793 UB 32700
+05,Social Security Pensions,"16,29,32","17,53,18","17,46,27","18,58,32",2235 60 793 UB 32705
+UB,Total UB,"16,29,32","17,53,18","17,46,27","18,58,32",
+UC,Indira Gandhi National Widow Pension Scheme under Special Component Plan,,,,,2235 60 793 UC 30000
+327,Pensions,"1,48,77,92","1,61,90,81","1,66,36,12","1,71,61,79",2235 60 793 UC 32700
+05,Social Security Pensions,"1,48,77,92","1,61,90,81","1,66,36,12","1,71,61,79",2235 60 793 UC 32705
+UC,Total UC,"1,48,77,92","1,61,90,81","1,66,36,12","1,71,61,79",
+#,Schemes shared between State and Centre Total,"5,40,67,80","6,13,44,07","5,97,87,44","6,50,22,93",
+793,Total 793,"5,43,75,52","6,17,55,37","6,06,76,74","6,59,56,70",
+794,Special Central Assistance for Tribal Sub-Plan,,,,,
+#,Central Sector Schemes Central Sector Sechemes,,,,,
+SA,Distress Relief Scheme,,,,,2235 60 794 SA 30000
+309,Grants-in-Aid,"6,99","15,00","1,11,50","1,17,08",2235 60 794 SA 30900
+03,Grants for Specific Schemes,"6,99","15,00","1,11,50","1,17,08",2235 60 794 SA 30903
+SA,Total SA,"6,99","15,00","1,11,50","1,17,08",
+SB,"Widows, Differently abled and Old Age Pensioners' Free Ration Schemes",,,,,2235 60 794 SB 30000
+343,Cost of Ration,99,"3,53","3,53","3,71",2235 60 794 SB 34300
+01,Cost of Ration,99,"3,53","3,53","3,71",2235 60 794 SB 34301
+SB,Total SB,99,"3,53","3,53","3,71",
+#,Central Sector Schemes Total,"7,98","18,53","1,15,03","1,20,79",
+#,Schemes shared between State and Centre,,,,,
+UA,Social Security Net - Indira Gandhi National Old Age Pension,,,,,2235 60 794 UA 30000
+327,Pensions,"17,62,67","19,34,41","19,15,42","20,50,42",2235 60 794 UA 32700
+05,Social Security Pensions,"17,62,67","19,34,41","19,15,42","20,50,42",2235 60 794 UA 32705
+UA,Total UA,"17,62,67","19,34,41","19,15,42","20,50,42",
+UB,Indira Gandhi National Disabled Pension Scheme,,,,,2235 60 794 UB 30000
+327,Pensions,"59,73","1,33,42","60,13","1,41,42",2235 60 794 UB 32700
+05,Social Security Pensions,"59,73","1,33,42","60,13","1,41,42",2235 60 794 UB 32705
+UB,Total UB,"59,73","1,33,42","60,13","1,41,42",
+UC,Indira Gandhi National Widow Pension Scheme,,,,,2235 60 794 UC 30000
+327,Pensions,"5,74,52","6,61,09","6,58,10","7,00,74",2235 60 794 UC 32700
+05,Social Security Pensions,"5,74,52","6,61,09","6,58,10","7,00,74",2235 60 794 UC 32705
+UC,Total UC,"5,74,52","6,61,09","6,58,10","7,00,74",
+#,Schemes shared between State and Centre Total,"23,96,92","27,28,92","26,33,65","28,92,58",
+794,Total 794,"24,04,90","27,47,45","27,48,68","30,13,37",
+796,Tribal Area Sub-Plan,,,,,
+#,State's Expenditure,,,,,
+JK,Social Security Net - Pension to Deserted Wives,,,,,2235 60 796 JK 30000
+327,Pensions,"1,14,51","1,20,78","1,21,65","1,33,78",2235 60 796 JK 32700
+05,Social Security Pensions,"1,14,51","1,20,78","1,21,65","1,33,78",2235 60 796 JK 32705
+JK,Total JK,"1,14,51","1,20,78","1,21,65","1,33,78",
+JM,Social Security Net - Pension for the Differently abled,,,,,2235 60 796 JM 30000
+327,Pensions,"1,91,11","3,13,57","2,26,28","2,48,83",2235 60 796 JM 32700
+05,Social Security Pensions,"1,91,11","3,13,57","2,26,28","2,48,83",2235 60 796 JM 32705
+JM,Total JM,"1,91,11","3,13,57","2,26,28","2,48,83",
+JO,Destitute Widows Pension,,,,,2235 60 796 JO 30000
+327,Pensions,"4,44,93","4,65,72","5,11,15","5,62,10",2235 60 796 JO 32700
+05,Social Security Pensions,"4,44,93","4,65,72","5,11,15","5,62,10",2235 60 796 JO 32705
+JO,Total JO,"4,44,93","4,65,72","5,11,15","5,62,10",
+JQ,Supply of Dhoties / Sarees to Old Age Pensioners,,,,,2235 60 796 JQ 30000
+346,"Clothing, Tentage and Stores","89,22","1,62,86","95,63","1,00,41",2235 60 796 JQ 34600
+01,"Clothing, Tentage and Stores","89,22","1,62,86","95,63","1,00,41",2235 60 796 JQ 34601
+JQ,Total JQ,"89,22","1,62,86","95,63","1,00,41",
+JV,Chief Minister's Uzhavar Pathukappu Thittam (CMUPT) under Tribal Area Sub Plan,,,,,2235 60 796 JV 30000
+327,Pensions,"3,51,46","3,61,61","3,76,52","4,14,05",2235 60 796 JV 32700
+05,Social Security Pensions,"3,51,46","3,61,61","3,76,52","4,14,05",2235 60 796 JV 32705
+JV,Total JV,"3,51,46","3,61,61","3,76,52","4,14,05",
+#,State's Expenditure Total,"11,91,23","14,24,54","13,31,23","14,59,17",
+796,Total 796,"11,91,23","14,24,54","13,31,23","14,59,17",
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+AI,Cost of Funeral expenditure on the death of Freedom Fighters,,,,,2235 60 800 AI 30000
+309,Grants-in-Aid,,,,"2,00",2235 60 800 AI 30900
+09,Others,,,,"2,00",2235 60 800 AI 30909
+AI,Total AI,,,,"2,00",
+#,State's Expenditure Total,,,,"2,00",
+800,Total 800,,,,"2,00",
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+JA,Deduct - Recoveries of Overpayments -,,,,,2235 60 911 JA 30000
+377,Deduct-Recoveries,"-4,13,56",,,,2235 60 911 JA 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-4,13,56",,,,2235 60 911 JA 37702
+JA,Total JA,"-4,13,56",,,,
+JB,Deduct - Recoveries of Overpayments -,,,,,2235 60 911 JB 30000
+377,Deduct-Recoveries,-4,,,,2235 60 911 JB 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-4,,,,2235 60 911 JB 37702
+JB,Total JB,-4,,,,
+JD,Chief Minister's Farmers Security Scheme,,,,,2235 60 911 JD 30000
+377,Deduct-Recoveries,"-1,54",,,,2235 60 911 JD 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-1,54",,,,2235 60 911 JD 37702
+JD,Total JD,"-1,54",,,,
+JF,Social Security Net - Pension for the Differently abled under Special Component Plan,,,,,2235 60 911 JF 30000
+377,Deduct-Recoveries,"-5,00",,,,2235 60 911 JF 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-5,00",,,,2235 60 911 JF 37702
+JF,Total JF,"-5,00",,,,
+JK,Distress Relief Scheme,,,,,2235 60 911 JK 30000
+377,Deduct-Recoveries,"-2,37",,,,2235 60 911 JK 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-2,37",,,,2235 60 911 JK 37702
+JK,Total JK,"-2,37",,,,
+JL,Deduct - Recoveries of Overpayments,,,,,2235 60 911 JL 30000
+377,Deduct-Recoveries,"-34,05",,,,2235 60 911 JL 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-34,05",,,,2235 60 911 JL 37702
+JL,Total JL,"-34,05",,,,
+JN,Deduct - Recoveries of Overpayments,,,,,2235 60 911 JN 30000
+377,Deduct-Recoveries,-3,,,,2235 60 911 JN 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-3,,,,2235 60 911 JN 37702
+JN,Total JN,-3,,,,
+JS,Distress Relief Scheme,,,,,2235 60 911 JS 30000
+377,Deduct-Recoveries,-40,,,,2235 60 911 JS 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-40,,,,2235 60 911 JS 37702
+JS,Total JS,-40,,,,
+JV,Deduct - Recoveries of Overpayments,,,,,2235 60 911 JV 30000
+377,Deduct-Recoveries,"-1,03",,,,2235 60 911 JV 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-1,03",,,,2235 60 911 JV 37702
+JV,Total JV,"-1,03",,,,
+JW,Indira Gandhi National Widow Pension Scheme under Special Component Plan,,,,,2235 60 911 JW 30000
+377,Deduct-Recoveries,"-1,53",,,,2235 60 911 JW 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-1,53",,,,2235 60 911 JW 37702
+JW,Total JW,"-1,53",,,,
+KX,Chief Minister's Uzhavar Pathukappu Thittam (CMUPT),,,,,2235 60 911 KX 30000
+377,Deduct-Recoveries,"-3,53,65",,,,2235 60 911 KX 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-3,53,65",,,,2235 60 911 KX 37702
+KX,Total KX,"-3,53,65",,,,
+#,State's Expenditure Total,"-8,13,20",,,,
+#,Schemes shared between State and Centre,,,,,
+UC,Indira Gandhi National Destitute Widow Pension Scheme,,,,,2235 60 911 UC 30000
+377,Deduct-Recoveries,-18,,,,2235 60 911 UC 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-18,,,,2235 60 911 UC 37702
+UC,Total UC,-18,,,,
+#,Schemes shared between State and Centre Total,-18,,,,
+911,Total 911,"-8,13,38",,,,
+60,Total 60,"36,98,58,21","40,60,34,08","40,71,97,42","47,04,57,09",
+2235,Total 2235,"36,99,09,99","40,60,54,08","40,72,65,71","47,04,77,09",
+3454,CENSUS SURVEYS AND STATISTICS,,,,,
+01,Census,,,,,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+AC,Census Work 2001,,,,,3454 01 800 AC 30000
+301,Salaries,,8,8,8,3454 01 800 AC 30100
+01,Pay,,3,3,3,3454 01 800 AC 30101
+02,Medical Allowance,,2,2,2,3454 01 800 AC 30102
+04,Other Allowances,,1,1,1,3454 01 800 AC 30104
+06,House Rent Allowance,,2,2,2,3454 01 800 AC 30106
+303,Dearness Allowance,,1,1,1,3454 01 800 AC 30300
+01,Dearness Allowance,,1,1,1,3454 01 800 AC 30301
+304,Travel Expenses,,1,1,1,3454 01 800 AC 30400
+01,Tour Travelling Allowances,,1,1,1,3454 01 800 AC 30401
+305,Office Expenses,,1,1,1,3454 01 800 AC 30500
+02,Other Contingencies,,1,1,1,3454 01 800 AC 30502
+333,Payments for Professional and Special Services,,1,1,1,3454 01 800 AC 33300
+04,Contract Payment,,1,1,1,3454 01 800 AC 33304
+AC,Total AC,12,12,12,,
+#,State's Expenditure Total,,12,12,12,
+#,Central Sector Schemes,,,,,
+SA,Census Work 2011,,,,,3454 01 800 SA 30000
+301,Salaries,,4,4,4,3454 01 800 SA 30100
+01,Pay,,3,3,3,3454 01 800 SA 30101
+09,Honorarium,,1,1,1,3454 01 800 SA 30109
+SA,Total SA,4,4,4,,
+SB,Preparation of National Population Register,,,,,3454 01 800 SB 30000
+301,Salaries,"8,86",4,"1,20,42",4,3454 01 800 SB 30100
+01,Pay,12,3,3,3,3454 01 800 SB 30101
+09,Honorarium,"8,74",1,"1,20,39",1,3454 01 800 SB 30109
+305,Office Expenses,"22,79,33",1,"3,99,96",1,3454 01 800 SB 30500
+02,Other Contingencies,"22,79,33",1,"3,99,96",1,3454 01 800 SB 30502
+SB,Total SB,"22,88,19",5,"5,20,38",5,
+#,Central Sector Schemes Total,"22,88,19",9,"5,20,42",9,
+800,Total 800,"22,88,19",21,"5,20,54",21,
+911,Deduct - Recoveries of Overpayments Central Sector Sechemes,,,,,
+SB,Preparation of National Population Register,,,,,3454 01 911 SB 30000
+377,Deduct-Recoveries,"-60,45",,,,3454 01 911 SB 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-60,45",,,,3454 01 911 SB 37702
+SB,Total SB,"-60,45",,,,
+#,Central Sector Schemes Total,"-60,45",,,,
+911,Total 911,"-60,45",,,,
+01,Total 01,"22,27,74",21,"5,20,54",21,
+3454,Total 3454,"22,27,74",21,"5,20,54",21,
+3064,COMPENSATIONS AND ASSIGNMENTS TO LOCAL BODIES AND PANCHAYAT RAJ INSTITUTIONS,,,,,
+200,Other Miscellaneous Compensations and Assignments,,,,,
+#,State's Expenditure,,,,,
+AA,Payments in lieu of resumed lands,,,,,3604 00 200 AA 30000
+334,Other Charges,,1,1,1,3604 00 200 AA 33400
+01,Other Items,,1,1,1,3604 00 200 AA 33401
+AA,Total AA,1,1,1,,
+AF,Malikanas,,,,,3604 00 200 AF 30000
+334,Other Charges,37,40,40,40,3604 00 200 AF 33400
+01,Other Items,37,40,40,40,3604 00 200 AF 33401
+AF,Total AF,37,40,40,40,
+AH,Other items,,,,,3604 00 200 AH 30000
+334,Other Charges,,1,1,1,3604 00 200 AH 33400
+01,Other Items,,1,1,1,3604 00 200 AH 33401
+AH,Total AH,1,1,1,,
+#,State's Expenditure Total,37,42,42,42,
+200,Total 200,37,42,42,42,
+00,Total 00,37,42,42,42,
+3604,Total 3604,37,42,42,42,
+4070-00,CAPITAL OUTLAY ON OTHER ADMINISTRATIVE SERVICES,,,,,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+AY,Acquisition of lands for construction of buildings for Revenue and Disaster Management Department,,,,,4070 00 800 AY 40000
+464,Lands Charged,"5,63,45",1,"1,16,50,35",1,4070 00 800 AY 46400
+464,Lands Voted,,,,"14,00,00",4070 00 800 AY 46400
+01,Lands - Voted,,,,"14,00,00",4070 00 800 AY 46401
+51,Lands Charged,"5,63,45",1,"1,16,50,35",1,4070 00 800 AY 46451
+AY,Total AY Charged,"5,63,45",1,"1,16,50,35",1,
+AY,Total AY Voted,,,,"14,00,00",
+KO,Establishment of Arboretum,,,,,4070 00 800 KO 40000
+416,Major Works,,,"5,00,00",1,4070 00 800 KO 41600
+01,Major Works,,,"5,00,00",1,4070 00 800 KO 41601
+KO,Total KO,,,"5,00,00",1,
+#,State's Expenditure Total Charged,"5,63,45",1,"1,16,50,35",1,
+#,State's Expenditure Total Voted,,,"5,00,00","14,00,01",
+800,Total 800 Charged,"5,63,45",1,"1,16,50,35",1,
+800,Total 800 Voted,,,"5,00,00","14,00,01",
+00,Total 00 Charged,"5,63,45",1,"1,16,50,35",1,
+00,Total 00 Voted,,,"5,00,00","14,00,01",
+4070,Total 4070 Charged,"5,63,45",1,"1,16,50,35",1,
+4070,Total 4070 Voted,,,"5,00,00","14,00,01",
+4216,CAPITAL OUTLAY ON HOUSING,,,,,
+03,Rural Housing,,,,,
+102,Provision of House sites to the Landless,,,,,
+#,State's Expenditure,,,,,
+AA,Acquisition of Lands for Provision of House Sites,,,,,
+to,the Encroachers at objectionable Poramboke,,,,,4216 03 102 AA 40000
+464,Lands,,1,"9,71,62","1,00,00,00",4216 03 102 AA 46400
+01,Lands - Voted,,1,"9,71,62","1,00,00,00",4216 03 102 AA 46401
+AA,Total AA,,1,"9,71,62","1,00,00,00",
+#,State's Expenditure Total,,1,"9,71,62","1,00,00,00",
+102,Total 102,,1,"9,71,62","1,00,00,00",
+03,Total 03,,1,"9,71,62","1,00,00,00",
+80,General,,,,,
+800,Other Expenditure,,,,,
+#,Externally Aided Projects Externally Aided Project,,,,,
+QC,Construction of Evacuation Shelters under Emergency Tsunami Reconstruction Project (ETRP)  - World Bank assisted schemes,,,,,4216 80 800 QC 40000
+416,Major Works,,1,"2,03,34",,4216 80 800 QC 41600
+01,Major Works,,1,"2,03,34",,4216 80 800 QC 41601
+QC,Total QC,1,"2,03,34",,,
+#,Externally Aided Projects Total,,1,"2,03,34",,
+800,Total 800,1,"2,03,34",,,
+80,Total 80,1,"2,03,34",,,
+4216,Total 4216,2,"11,74,96","1,00,00,00",,

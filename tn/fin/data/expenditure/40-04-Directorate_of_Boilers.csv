@@ -1,0 +1,41 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2230,"LABOUR, EMPLOYMENT AND SKILL DEVELOPMENT",,,,,
+01,Labour,,,,,
+102,Working conditions and Safety,,,,,
+#,State's Expenditure,,,,,
+AH,Inspector of Steam Boilers,,,,,2230 01 102 AH 30000
+301,Salaries,,,,"2,78,76",2230 01 102 AH 30100
+01,Pay,,,,"2,59,68",2230 01 102 AH 30101
+02,Medical Allowance,,,,"1,26",2230 01 102 AH 30102
+03,Medical Charges,,,,10,2230 01 102 AH 30103
+04,Other Allowances,,,,"1,04",2230 01 102 AH 30104
+06,House Rent Allowance,,,,"14,22",2230 01 102 AH 30106
+07,Travel Concession,,,,30,2230 01 102 AH 30107
+08,City Compensatory Allowance,,,,"2,16",2230 01 102 AH 30108
+302,Wages,,,,29,2230 01 102 AH 30200
+01,Wages,,,,29,2230 01 102 AH 30201
+303,Dearness Allowance,,,,"49,34",2230 01 102 AH 30300
+01,Dearness Allowance,,,,"49,34",2230 01 102 AH 30301
+304,Travel Expenses,,,,"5,00",2230 01 102 AH 30400
+01,Tour Travelling Allowances,,,,"5,00",2230 01 102 AH 30401
+305,Office Expenses,,,,"4,30",2230 01 102 AH 30500
+01,Telephone Charges,,,,"1,39",2230 01 102 AH 30501
+02,Other Contingencies,,,,30,2230 01 102 AH 30502
+03,Electricity Charges,,,,"1,11",2230 01 102 AH 30503
+04,Service Postage & Postal Expenditure,,,,"1,50",2230 01 102 AH 30504
+306,"Rent, Rates and Taxes",,,,59,2230 01 102 AH 30600
+01,Rent,,,,12,2230 01 102 AH 30601
+02,Property tax,,,,47,2230 01 102 AH 30602
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,,,"3,30",2230 01 102 AH 34901
+02,Festival Advances-Credit,,,,"-3,30",2230 01 102 AH 34902
+359,Prizes and Awards,,,,6,2230 01 102 AH 35900
+01,Prizes and Awards,,,,6,2230 01 102 AH 35901
+376,Computer and Accessories,,,,39,2230 01 102 AH 37600
+02,Maintenance,,,,24,2230 01 102 AH 37602
+03,Stationery,,,,15,2230 01 102 AH 37603
+AH,Total AH,,,,"3,38,73",
+#,State's Expenditure Total,,,,"3,38,73",
+102,Total 102,,,,"3,38,73",
+01,Total 01,,,,"3,38,73",
+2230,Total 2230,,,,"3,38,73",

@@ -1,0 +1,213 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2215,WATER SUPPLY AND SANITATION,,,,,
+01,Water Supply,,,,,
+101,Urban water Supply Programmes,,,,,
+#,State's Expenditure,,,,,
+AD,Maintenance of Ground Water Supply,,,,,2215 01 101 AD 30000
+301,Salaries,,,,"42,73",2215 01 101 AD 30100
+01,Pay,,,,"39,50",2215 01 101 AD 30101
+02,Medical Allowance,,,,12,2215 01 101 AD 30102
+06,House Rent Allowance,,,,"2,68",2215 01 101 AD 30106
+08,City Compensatory Allowance,,,,43,2215 01 101 AD 30108
+303,Dearness Allowance,,,,"6,72",2215 01 101 AD 30300
+01,Dearness Allowance,,,,"6,72",2215 01 101 AD 30301
+304,Travel Expenses,,,,"1,16",2215 01 101 AD 30400
+01,Tour Travelling Allowances,,,,"1,16",2215 01 101 AD 30401
+305,Office Expenses,,,,"1,92,50",2215 01 101 AD 30500
+03,Electricity Charges,,,,"1,92,50",2215 01 101 AD 30503
+318,Maintenance,,,,"1,77,67",2215 01 101 AD 31800
+01,Periodical Maintenance,,,,"1,77,66",2215 01 101 AD 31801
+02,Special Maintenance,,,,1,2215 01 101 AD 31802
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,,,40,2215 01 101 AD 34901
+02,Festival Advances-Credit,,,,-40,2215 01 101 AD 34902
+AD,Total AD,,,"4,20,78",,
+040,02   Public Works -Ground Water,,,,,
+101,Total 101,,,"4,20,78",,
+01,Total 01,,,"4,20,78",,
+2215,Total 2215,,,"4,20,78",,
+2702,MINOR IRRIGATION,,,,,
+02,Ground water,,,,,
+001,Direction and Administration,,,,,
+#,State's Expenditure,,,,,
+AA,Chief Engineer,,,,,2702 02 001 AA 30000
+301,Salaries,,,,"2,98,22",2702 02 001 AA 30100
+01,Pay,,,,"2,63,57",2702 02 001 AA 30101
+02,Medical Allowance,,,,"1,12",2702 02 001 AA 30102
+03,Medical Charges,,,,8,2702 02 001 AA 30103
+04,Other Allowances,,,,"1,35",2702 02 001 AA 30104
+06,House Rent Allowance,,,,"27,03",2702 02 001 AA 30106
+07,Travel Concession,,,,10,2702 02 001 AA 30107
+08,City Compensatory Allowance,,,,"4,97",2702 02 001 AA 30108
+303,Dearness Allowance,,,,"62,20",2702 02 001 AA 30300
+01,Dearness Allowance,,,,"62,20",2702 02 001 AA 30301
+304,Travel Expenses,,,,"3,37",2702 02 001 AA 30400
+01,Tour Travelling Allowances,,,,"3,01",2702 02 001 AA 30401
+02,Transfer Travelling Allowances,,,,36,2702 02 001 AA 30402
+305,Office Expenses,,,,"3,01",2702 02 001 AA 30500
+01,Telephone Charges,,,,"1,52",2702 02 001 AA 30501
+02,Other Contingencies,,,,75,2702 02 001 AA 30502
+346,"Clothing, Tentage and Stores",,,,12,2702 02 001 AA 34600
+01,"Clothing, Tentage and Stores",,,,12,2702 02 001 AA 34601
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,,,"3,60",2702 02 001 AA 34901
+02,Festival Advances-Credit,,,,"-3,60",2702 02 001 AA 34902
+359,Prizes and Awards,,,,14,2702 02 001 AA 35900
+01,Prizes and Awards,,,,14,2702 02 001 AA 35901
+372,Training,,,,1,2702 02 001 AA 37200
+01,Training,,,,1,2702 02 001 AA 37201
+AA,Total AA,,,,"3,67,07",
+AB,Superintending Engineer,,,,,2702 02 001 AB 30000
+301,Salaries,,,,"2,72,78",2702 02 001 AB 30100
+01,Pay,,,,"2,49,61",2702 02 001 AB 30101
+02,Medical Allowance,,,,"1,03",2702 02 001 AB 30102
+03,Medical Charges,,,,32,2702 02 001 AB 30103
+04,Other Allowances,,,,80,2702 02 001 AB 30104
+06,House Rent Allowance,,,,"18,29",2702 02 001 AB 30106
+07,Travel Concession,,,,30,2702 02 001 AB 30107
+08,City Compensatory Allowance,,,,"2,43",2702 02 001 AB 30108
+303,Dearness Allowance,,,,"62,54",2702 02 001 AB 30300
+01,Dearness Allowance,,,,"62,54",2702 02 001 AB 30301
+304,Travel Expenses,,,,"5,52",2702 02 001 AB 30400
+01,Tour Travelling Allowances,,,,"5,19",2702 02 001 AB 30401
+01,Telephone Charges,,,,92,2702 02 001 AB 30501
+02,Other Contingencies,,,,50,2702 02 001 AB 30502
+03,Electricity Charges,,,,68,2702 02 001 AB 30503
+04,Service Postage & Postal Expenditure,,,,35,2702 02 001 AB 30504
+346,"Clothing, Tentage and Stores",,,,3,2702 02 001 AB 34600
+01,"Clothing, Tentage and Stores",,,,3,2702 02 001 AB 34601
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,,,"3,75",2702 02 001 AB 34901
+02,Festival Advances-Credit,,,,"-3,75",2702 02 001 AB 34902
+359,Prizes and Awards,,,,6,2702 02 001 AB 35900
+01,Prizes and Awards,,,,6,2702 02 001 AB 35901
+AB,Total AB,,,,"3,43,38",
+AC,Executive Establishment,,,,,2702 02 001 AC 30000
+301,Salaries,,,,"19,44,93",2702 02 001 AC 30100
+01,Pay,,,,"18,06,56",2702 02 001 AC 30101
+02,Medical Allowance,,,,"9,82",2702 02 001 AC 30102
+03,Medical Charges,,,,74,2702 02 001 AC 30103
+04,Other Allowances,,,,"8,45",2702 02 001 AC 30104
+06,House Rent Allowance,,,,"1,06,37",2702 02 001 AC 30106
+07,Travel Concession,,,,"1,00",2702 02 001 AC 30107
+08,City Compensatory Allowance,,,,"11,99",2702 02 001 AC 30108
+303,Dearness Allowance,,,,"4,87,99",2702 02 001 AC 30300
+01,Tour Travelling Allowances,,,,"66,29",2702 02 001 AC 30401
+02,Transfer Travelling Allowances,,,,"1,16",2702 02 001 AC 30402
+305,Office Expenses,,,,"28,80",2702 02 001 AC 30500
+01,Telephone Charges,,,,"3,18",2702 02 001 AC 30501
+02,Other Contingencies,,,,"1,60",2702 02 001 AC 30502
+03,Electricity Charges,,,,"22,99",2702 02 001 AC 30503
+04,Service Postage and Postal Expenditure,,,,"1,03",2702 02 001 AC 30504
+306,"Rent, Rates and Taxes",,,,"11,77",2702 02 001 AC 30600
+01,Rent,,,,"2,46",2702 02 001 AC 30601
+02,Property tax,,,,"7,27",2702 02 001 AC 30602
+03,Water Charges,,,,"2,04",2702 02 001 AC 30603
+333,Payments for Professional and Special Services,,,,50,2702 02 001 AC 33300
+01,Pleaders Fees,,,,50,2702 02 001 AC 33301
+346,"Clothing, Tentage and Stores",,,,95,2702 02 001 AC 34600
+01,"Clothing, Tentage and Stores",,,,95,2702 02 001 AC 34601
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,,,"25,69",2702 02 001 AC 34901
+02,Festival Advances-Credit,,,,"-25,69",2702 02 001 AC 34902
+AC,Total AC,,,,"25,42,79",
+#,State's Expenditure Total,,,,"32,53,24",
+001,Total 001,,,,"32,53,24",
+005,Investigation,,,,,
+#,State's Expenditure,,,,,
+AD,Setting up of Documentation Mapping and Re-production Unit,,,,,2702 02 005 AD 30000
+301,Salaries,,,,"54,64",2702 02 005 AD 30100
+01,Pay,,,,"53,69",2702 02 005 AD 30101
+06,House Rent Allowance,,,,51,2702 02 005 AD 30106
+08,City Compensatory Allowance,,,,44,2702 02 005 AD 30108
+AD,Total AD,,,,"54,64",
+AH,Setting up of a Geochemical Laboratories at Ground Water Circle,,,,,2702 02 005 AH 30000
+301,Salaries,,,,"43,20",2702 02 005 AH 30100
+01,Pay,,,,"40,72",2702 02 005 AH 30101
+02,Medical Allowance,,,,12,2702 02 005 AH 30102
+04,Other Allowances,,,,10,2702 02 005 AH 30104
+06,House Rent Allowance,,,,"1,82",2702 02 005 AH 30106
+07,Travel Concession,,,,10,2702 02 005 AH 30107
+08,City Compensatory Allowance,,,,34,2702 02 005 AH 30108
+303,Dearness Allowance,,,,"5,12",2702 02 005 AH 30300
+01,Dearness Allowance,,,,"5,12",2702 02 005 AH 30301
+304,Travel Expenses,,,,38,2702 02 005 AH 30400
+01,Tour Travelling Allowance,,,,38,2702 02 005 AH 30401
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,,,31,2702 02 005 AH 34901
+02,Festival Advances-Credit,,,,-31,2702 02 005 AH 34902
+AH,Total AH,,,,"49,55",
+AK,Ground water survey in Tamil Nadu,,,,,2702 02 005 AK 30000
+307,Publications,,,,"6,00",2702 02 005 AK 30700
+01,Publications,,,,"6,00",2702 02 005 AK 30701
+317,Minor Works,,,,1,2702 02 005 AK 31700
+01,Minor Works,,,,1,2702 02 005 AK 31701
+318,Maintenance,,,,"62,09",2702 02 005 AK 31800
+01,Periodical Maintenance,,,,"62,09",2702 02 005 AK 31801
+319,Machinery and Equipments,,,,"65,62",2702 02 005 AK 31900
+03,Maintenance,,,,"65,62",2702 02 005 AK 31903
+321,Motor Vehicles,,,,"8,40",2702 02 005 AK 32100
+02,Maintenance of Functional Vehicles,,,,"8,40",2702 02 005 AK 32102
+324,Materials and Supplies,,,,"10,15",2702 02 005 AK 32400
+01,Materials and Supplies,,,,"10,15",2702 02 005 AK 32401
+333,Payments for Professional and Special Services,,,,"1,36,28",2702 02 005 AK 33300
+04,Contract Payment,,,,"1,36,28",2702 02 005 AK 33304
+334,Other Charges,,,,5,2702 02 005 AK 33400
+01,Other Items,,,,5,2702 02 005 AK 33401
+345,"Petroleum, Oil and Lubricant",,,,"67,73",2702 02 005 AK 34500
+01,Stores - Voted,,,,86,2702 02 005 AK 34701
+373,Transport Charges,,,,1,2702 02 005 AK 37300
+01,Transport Charges,,,,1,2702 02 005 AK 37301
+375,Working Expenses,,,,1,2702 02 005 AK 37500
+01,Working Expenses,,,,1,2702 02 005 AK 37501
+376,Computer and Accessories,,,,"8,12",2702 02 005 AK 37600
+02,Maintenance,,,,"8,12",2702 02 005 AK 37602
+AK,Total AK,,,,"3,65,33",
+#,State's Expenditure Total,"4,69,52",,,,
+005,Total 005,,,,,
+052,Machinery and Equipment,,,,,
+#,State's Expenditure,,,,,
+AB,Repairs and Carriages,,,,,2702 02 052 AB 30000
+319,Machinery and Equipments,,,,10,2702 02 052 AB 31900
+03,Maintenance,,,,10,2702 02 052 AB 31903
+376,Computer and Accessories,,,,26,2702 02 052 AB 37600
+02,Maintenance,,,,26,2702 02 052 AB 37602
+AB,Total AB,,,,36,
+#,State's Expenditure Total,36,,,36,
+0532,Total 052,,,,36,
+02,Total 02,,,,"37,23,12",
+2702,Total 2702,,,,"37,23,12",
+2711,FLOOD CONTROL AND DRAINAGE,,,,,
+01,Flood Control,,,,,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+AY,Pensionary Charges,,,,,2711 01 800 AY 30000
+327,Pensions,,,,44,2711 01 800 AY 32700
+01,Basic Pension,,,,44,2711 01 800 AY 32701
+AY,Total AY,,,,44,
+#,State's Expenditure Total,,,,44,
+800,Total 800,,,,44,
+01,Total 01,,,,44,
+2711,Total 2711,,,,44,
+3056-00,INLAND WATER TRANSPORT,,,,,
+104,Navigation,,,,,
+#,State's Expenditure,,,,,
+AY,Pensionary Charges,,,,,3056 00 104 AY 30000
+327,Pensions,,,,"1,08",3056 00 104 AY 32700
+01,Basic Pension,,,,"1,08",3056 00 104 AY 32701
+AY,Total AY,,,,"1,08",
+#,State's Expenditure Total,,,,"1,08",
+104,Total 104,,,,"1,08",
+00,Total 00,,,,"1,08",
+3056,Total 3056,,,,"1,08",
+4702-00,CAPITAL OUTLAY ON MINOR IRRIGATION,,,,,
+102,Ground water,,,,,
+#,State's Expenditure,,,,,
+JD,Scheme for Artificial Ground Water Re-charge Structure,,,,,4702 00 102 JD 40000
+416,Major Works ,,,,"12,00,00",4702 00 102 JD 41600
+01,Major Works ,,,,"12,00,00",4702 00 102 JD 41601
+JD,Total JD,,,,"12,00,00",
+#,State's Expenditure Total,,,,"12,00,00 ",
+102,Total 102 ,,,,"12,00,00",
+00,Total 00,,,,"12,00,00",
+4702,Total 4702,,,"12,00,00",,,

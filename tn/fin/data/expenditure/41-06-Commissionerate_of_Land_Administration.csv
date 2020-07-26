@@ -1,0 +1,1050 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2029-00,LAND REVENUE,,,,,
+001,Direction and Administration,,,,,
+#,State's Expenditure,,,,,
+AB,Headquarters Staff - Commissioner of Land Administration,,,,,2029 00 001 AB 30000
+301,Salaries,"4,40,48","5,16,97","5,76,06","5,97,46",2029 00 001 AB 30100
+01,Pay,"3,74,15","4,52,80","5,05,00","5,25,20",2029 00 001 AB 30101
+02,Medical Allowance,"3,06","2,00","2,50","2,55",2029 00 001 AB 30102
+03,Medical Charges,"2,22","4,00","4,00","4,00",2029 00 001 AB 30103
+04,Other Allowances,"6,89",78,"3,10","3,15",2029 00 001 AB 30104
+06,House Rent Allowance,"46,56","48,63","52,70","52,80",2029 00 001 AB 30106
+07,Travel Concession,61,"1,14","1,14","1,14",2029 00 001 AB 30107
+08,City Compensatory Allowance,"6,99","7,62","7,62","8,62",2029 00 001 AB 30108
+303,Dearness Allowance,"31,95","58,86","80,81","1,28,67",2029 00 001 AB 30300
+01,Dearness Allowance,"31,95","58,86","80,81","1,28,67",2029 00 001 AB 30301
+304,Travel Expenses,"2,77","9,00","8,80","9,00",2029 00 001 AB 30400
+01,Tour Travelling Allowances,"2,22","8,00","8,00","8,00",2029 00 001 AB 30401
+02,Transfer Travelling Allowances,55,"1,00",80,"1,00",2029 00 001 AB 30402
+305,Office Expenses,"25,35","15,58","15,68","15,78",2029 00 001 AB 30500
+01,Telephone Charges,"1,76","2,00","2,10","2,20",2029 00 001 AB 30501
+02,Other Contingencies,"9,49","10,00","10,00","10,00",2029 00 001 AB 30502
+04,Service Postage & Postal Expenditure,"14,10","3,58","3,58","3,58",2029 00 001 AB 30504
+317,Minor Works,,1,5,10,2029 00 001 AB 31700
+01,Minor Works,,1,5,10,2029 00 001 AB 31701
+319,Machinery and Equipments,,1,5,10,2029 00 001 AB 31900
+01,Purchase,,1,5,10,2029 00 001 AB 31901
+321,Motor Vehicles,25,"1,42","8,50","1,61",2029 00 001 AB 32100
+01,Purchase,,1,"7,00",1,2029 00 001 AB 32101
+02,Maintenance of Functional Vehicles,25,"1,41","1,50","1,60",2029 00 001 AB 32102
+333,Payments for Professional and Special Services,"5,12",77,"6,52","7,02",2029 00 001 AB 33300
+01,Pleaders Fees,"1,35",74,"2,50","3,00",2029 00 001 AB 33301
+02,Remuneration,"3,77",1,1,1,2029 00 001 AB 33302
+03,Special Service,,1,1,1,2029 00 001 AB 33303
+04,Contract Payment,,1,"4,00","4,00",2029 00 001 AB 33304
+345,"Petroleum, Oil and Lubricant","4,00","3,40","3,40","3,40",2029 00 001 AB 34500
+01,"Petroleum, Oil and Lubricant","4,00","3,40","3,40","3,40",2029 00 001 AB 34501
+349,Festival Advances,27,,,,2029 00 001 AB 34900
+01,Festival Advances-Debit,"3,05","40,50","41,20","40,50",2029 00 001 AB 34901
+02,Festival Advances-Credit,"-2,78","-40,50","-41,20","-40,50",2029 00 001 AB 34902
+351,Compensation Charged,,2,2,2,2029 00 001 AB 35100
+51,Claims under no fault liability -  principal charges Charged,,2,2,2,2029 00 001 AB 35151
+359,Prizes and Awards,26,50,50,50,2029 00 001 AB 35900
+01,Prizes and Awards,26,50,50,50,2029 00 001 AB 35901
+372,Training,,1,1,1,2029 00 001 AB 37200
+01,Training,,1,1,1,2029 00 001 AB 37201
+376,Computer and Accessories,"5,06","5,23","5,50","6,02",2029 00 001 AB 37600
+01,Purchase,,1,,2,2029 00 001 AB 37601
+02,Maintenance,"2,06","2,22","2,50","3,00",2029 00 001 AB 37602
+03,Stationery,"3,00","3,00","3,00","3,00",2029 00 001 AB 37603
+AB,Total AB Charged,,2,2,2,
+AB,Total AB Voted,"5,15,51","6,11,76","7,05,88","7,69,67",
+JC,Computerization of Land Acquisition - Scheme under State Innovation Fund,,,,,2029 00 001 JC 30000
+376,Computer and Accessories,,1,,2,2029 00 001 JC 37600
+01,Purchase,,1,,2,2029 00 001 JC 37601
+JC,Total JC,1,,2,,
+#,State's Expenditure Total Charged,,2,2,2,
+#,State's Expenditure Total Voted,"5,15,51","6,11,77","7,05,88","7,69,69",
+#,Central Sector Schemes,,,,,
+SA,Census of Irrigation Schemes Plan,,,,,2029 00 001 SA 30000
+301,Salaries,"32,76","36,57","36,58","38,48",2029 00 001 SA 30100
+01,Pay,"28,93","31,51","31,51","32,78",2029 00 001 SA 30101
+02,Medical Allowance,10,33,33,40,2029 00 001 SA 30102
+03,Medical Charges,,15,15,15,2029 00 001 SA 30103
+04,Other Allowances,,24,24,30,2029 00 001 SA 30104
+06,House Rent Allowance,"3,22","3,50","3,50","4,00",2029 00 001 SA 30106
+08,City Compensatory Allowance,51,84,85,85,2029 00 001 SA 30108
+303,Dearness Allowance,"2,50","4,10","5,05","8,03",2029 00 001 SA 30300
+01,Dearness Allowance,"2,50","4,10","5,05","8,03",2029 00 001 SA 30301
+304,Travel Expenses,11,14,80,45,2029 00 001 SA 30400
+01,Tour Travelling Allowances,11,14,80,45,2029 00 001 SA 30401
+305,Office Expenses,69,70,75,80,2029 00 001 SA 30500
+01,Telephone Charges,29,30,30,30,2029 00 001 SA 30501
+02,Other Contingencies,40,40,45,50,2029 00 001 SA 30502
+333,Payments for Professional and Special Services,"2,45",1,"2,96",50,2029 00 001 SA 33300
+04,Contract Payment,"2,45",1,"2,96",50,2029 00 001 SA 33304
+349,Festival Advances,2,,,,2029 00 001 SA 34900
+01,Festival Advances-Debit,10,30,40,60,2029 00 001 SA 34901
+02,Festival Advances-Credit,-8,-30,-40,-60,2029 00 001 SA 34902
+372,Training,"2,57,81","4,50,00","4,00,00",1,2029 00 001 SA 37200
+01,Training,"2,57,81","4,50,00","4,00,00",1,2029 00 001 SA 37201
+376,Computer and Accessories,,1,1,1,2029 00 001 SA 37600
+01,Purchase,,1,1,1,2029 00 001 SA 37601
+SA,Total SA,"2,96,34","4,91,53","4,46,15","48,28",
+#,Central Sector Schemes Total,"2,96,34","4,91,53","4,46,15","48,28",
+001,Total 001 Charged,,2,2,2,
+001,Total 001 Voted,"8,11,85","11,03,30","11,52,03","8,17,97",
+105,Management of Ex-Zamindari Estates,,,,,
+#,State's Expenditure,,,,,
+AA,District Establishment,,,,,2029 00 105 AA 30000
+301,Salaries,"1,43,72","2,38,19","2,51,10","2,59,19",2029 00 105 AA 30100
+01,Pay,"1,26,48","1,80,74","1,90,48","1,98,10",2029 00 105 AA 30101
+02,Medical Allowance,"1,05","1,00","1,20","1,30",2029 00 105 AA 30102
+03,Medical Charges,,"1,00","1,00","1,00",2029 00 105 AA 30103
+04,Other Allowances,91,50,60,65,2029 00 105 AA 30104
+06,House Rent Allowance,"12,81","47,13","50,00","50,10",2029 00 105 AA 30106
+07,Travel Concession,12,"1,38","1,38","1,38",2029 00 105 AA 30107
+08,City Compensatory Allowance,"2,35","6,44","6,44","6,66",2029 00 105 AA 30108
+303,Dearness Allowance,"11,95","23,50","30,48","48,53",2029 00 105 AA 30300
+01,Dearness Allowance,"11,95","23,50","30,48","48,53",2029 00 105 AA 30301
+304,Travel Expenses,24,46,55,51,2029 00 105 AA 30400
+01,Tour Travelling Allowances,,20,25,25,2029 00 105 AA 30401
+02,Transfer Travelling Allowances,24,26,30,26,2029 00 105 AA 30402
+305,Office Expenses,"8,98","10,00","11,10","10,20",2029 00 105 AA 30500
+01,Telephone Charges,,"1,00","1,10","1,20",2029 00 105 AA 30501
+02,Other Contingencies,"8,98","9,00","10,00","9,00",2029 00 105 AA 30502
+321,Motor Vehicles,,25,30,35,2029 00 105 AA 32100
+02,Maintenance of Functional Vehicles,,25,30,35,2029 00 105 AA 32102
+345,"Petroleum, Oil and Lubricant",33,56,56,56,2029 00 105 AA 34500
+01,"Petroleum, Oil and Lubricant",33,56,56,56,2029 00 105 AA 34501
+349,Festival Advances,6,,,,2029 00 105 AA 34900
+01,Festival Advances-Debit,"1,15","3,60","4,00","4,10",2029 00 105 AA 34901
+02,Festival Advances-Credit,"-1,09","-3,60","-4,00","-4,10",2029 00 105 AA 34902
+AA,Total AA,"1,65,28","2,72,96","2,94,09","3,19,34",
+#,State's Expenditure Total,"1,65,28","2,72,96","2,94,09","3,19,34",
+105,Total 105,"1,65,28","2,72,96","2,94,09","3,19,34",
+902,Deduct - Amount met from State Innovation Fund,,,,,
+#,State's Expenditure,,,,,
+JC,Deduct - Amount met from State Innovation Fund,,,,,2029 00 902 JC 30000
+330,Inter-Account Transfers,,-1,1,1,2029 00 902 JC 33000
+01,Inter-Account Transfers,,-1,1,1,2029 00 902 JC 33001
+JC,Total JC,,-1,1,1,
+#,State's Expenditure Total,,-1,1,1,
+902,Total 902,,-1,1,1,
+00,Total 00 Charged,,2,2,2,
+00,Total 00 Voted,"9,77,13","13,76,25","14,46,13","11,37,32",
+2029,Total 2029 Charged,,2,2,2,
+2029,Total 2029 Voted,"9,77,13","13,76,25","14,46,13","11,37,32",
+2053-00,DISTRICT ADMINISTRATION,,,,,
+094,Other Establishment,,,,,
+#,State's Expenditure,,,,,
+AE,Establishment for Acquisition of lands for Lignite Project in Cuddalore District,,,,,2053 00 094 AE 30000
+301,Salaries,"1,50,67","68,43","69,76","72,05",2053 00 094 AE 30100
+01,Pay,"1,30,76","49,93","50,90","52,94",2053 00 094 AE 30101
+02,Medical Allowance,"1,10",42,45,50,2053 00 094 AE 30102
+04,Other Allowances,"11,76","10,00","10,10","10,20",2053 00 094 AE 30104
+06,House Rent Allowance,"6,90","7,77","8,00","8,10",2053 00 094 AE 30106
+07,Travel Concession,15,31,31,31,2053 00 094 AE 30107
+303,Dearness Allowance,"11,25","6,49","8,14","12,97",2053 00 094 AE 30300
+01,Dearness Allowance,"11,25","6,49","8,14","12,97",2053 00 094 AE 30301
+304,Travel Expenses,"4,61","4,60","4,60","4,60",2053 00 094 AE 30400
+01,Tour Travelling Allowances,"4,47","4,40","4,40","4,40",2053 00 094 AE 30401
+02,Transfer Travelling Allowances,14,20,20,20,2053 00 094 AE 30402
+305,Office Expenses,73,80,85,80,2053 00 094 AE 30500
+02,Other Contingencies,73,80,85,80,2053 00 094 AE 30502
+349,Festival Advances,-1,,,,2053 00 094 AE 34900
+01,Festival Advances-Debit,70,"3,70","3,70","3,70",2053 00 094 AE 34901
+02,Festival Advances-Credit,-71,"-3,70","-3,70","-3,70",2053 00 094 AE 34902
+AE,Total AE,"1,67,25","80,32","83,35","90,42",
+AG,Establishment for Acquisition of Lands for the Tamil Nadu Housing Board,,,,,2053 00 094 AG 30000
+301,Salaries,"36,04","1,00,64","1,00,78","1,04,63",2053 00 094 AG 30100
+01,Pay,"31,46","92,54","92,60","96,30",2053 00 094 AG 30101
+02,Medical Allowance,15,48,50,55,2053 00 094 AG 30102
+04,Other Allowances,20,76,80,85,2053 00 094 AG 30104
+06,House Rent Allowance,"3,63","5,78","5,80","5,85",2053 00 094 AG 30106
+08,City Compensatory Allowance,60,"1,08","1,08","1,08",2053 00 094 AG 30108
+303,Dearness Allowance,"5,21","12,03","14,82","23,59",2053 00 094 AG 30300
+01,Dearness Allowance,"5,21","12,03","14,82","23,59",2053 00 094 AG 30301
+304,Travel Expenses,7,80,80,80,2053 00 094 AG 30400
+01,Tour Travelling Allowances,,60,60,60,2053 00 094 AG 30401
+02,Transfer Travelling Allowances,7,20,20,20,2053 00 094 AG 30402
+305,Office Expenses,7,"1,31","1,35","1,31",2053 00 094 AG 30500
+02,Other Contingencies,7,16,20,16,2053 00 094 AG 30502
+03,Electricity Charges,,"1,12","1,12","1,12",2053 00 094 AG 30503
+04,Service Postage & Postal Expenditure,,3,3,3,2053 00 094 AG 30504
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,60,60,60,2053 00 094 AG 34901
+02,Festival Advances-Credit,,-60,-60,-60,2053 00 094 AG 34902
+AG,Total AG,"41,39","1,14,78","1,17,75","1,30,33",
+AN,Establishment for Acquisition of Lands for Growth Centre by SIPCOT Limited,,,,,2053 00 094 AN 30000
+301,Salaries,"8,18,78","6,55,26","6,65,71","6,90,15",2053 00 094 AN 30100
+01,Pay,"7,46,79","5,94,60","6,04,80","6,28,99",2053 00 094 AN 30101
+02,Medical Allowance,"5,38","5,00","5,10","5,20",2053 00 094 AN 30102
+04,Other Allowances,"12,57","12,00","12,10","12,20",2053 00 094 AN 30104
+06,House Rent Allowance,"50,36","41,75","41,80","41,85",2053 00 094 AN 30106
+07,Travel Concession,,21,21,21,2053 00 094 AN 30107
+08,City Compensatory Allowance,"3,68","1,70","1,70","1,70",2053 00 094 AN 30108
+303,Dearness Allowance,"85,74","77,30","96,77","1,54,10",2053 00 094 AN 30300
+01,Dearness Allowance,"85,74","77,30","96,77","1,54,10",2053 00 094 AN 30301
+304,Travel Expenses,"11,06","16,80","16,80","16,90",2053 00 094 AN 30400
+01,Tour Travelling Allowances,"10,89","16,00","16,10","16,10",2053 00 094 AN 30401
+02,Transfer Travelling Allowances,17,80,70,80,2053 00 094 AN 30402
+305,Office Expenses,4,"1,68","1,73","1,68",2053 00 094 AN 30500
+01,Telephone Charges,,8,8,8,2053 00 094 AN 30501
+02,Other Contingencies,4,"1,50","1,55","1,50",2053 00 094 AN 30502
+04,Service Postage & Postal Expenditure,,10,10,10,2053 00 094 AN 30504
+306,"Rent, Rates and Taxes",,"1,50","1,50","1,50",2053 00 094 AN 30600
+01,Rent,,"1,50","1,50","1,50",2053 00 094 AN 30601
+349,Festival Advances,-20,,,,2053 00 094 AN 34900
+01,Festival Advances-Debit,"2,45","6,20","6,20","6,20",2053 00 094 AN 34901
+02,Festival Advances-Credit,"-2,65","-6,20","-6,20","-6,20",2053 00 094 AN 34902
+AN,Total AN,"9,15,42","7,52,54","7,82,51","8,64,33",
+AP,Establishment of Special Staff for Acquisition of Lands to SIPCOT for BHEL and Other Ancillary factories,,,,,2053 00 094 AP 30000
+351,Compensation Charged,,1,57,1,2053 00 094 AP 35100
+351,Compensation Voted,53,,1,1,2053 00 094 AP 35100
+02,Other Compensations  - Voted,53,,1,1,2053 00 094 AP 35102
+52,Other Compensations Charged,,1,57,1,2053 00 094 AP 35152
+AP,Total AP Charged,,1,57,1,
+AP,Total AP Voted,53,,1,1,
+AT,Establishment for Acquisition of lands for Defence Department,,,,,2053 00 094 AT 30000
+301,Salaries,"16,81","19,66","19,66","20,42",2053 00 094 AT 30100
+01,Pay,"15,67","18,94","18,94","19,70",2053 00 094 AT 30101
+02,Medical Allowance,11,9,9,9,2053 00 094 AT 30102
+04,Other Allowances,23,20,20,20,2053 00 094 AT 30104
+06,House Rent Allowance,80,38,38,38,2053 00 094 AT 30106
+07,Travel Concession,,5,5,5,2053 00 094 AT 30107
+303,Dearness Allowance,"3,33","2,46","3,03","4,83",2053 00 094 AT 30300
+01,Dearness Allowance,"3,33","2,46","3,03","4,83",2053 00 094 AT 30301
+304,Travel Expenses,29,50,50,50,2053 00 094 AT 30400
+01,Tour Travelling Allowances,29,40,40,40,2053 00 094 AT 30401
+02,Transfer Travelling Allowances,,10,10,10,2053 00 094 AT 30402
+305,Office Expenses,"1,37",65,65,65,2053 00 094 AT 30500
+02,Other Contingencies,"1,37",60,60,60,2053 00 094 AT 30502
+04,Service Postage & Postal Expenditure,,5,5,5,2053 00 094 AT 30504
+333,Payments for Professional and Special Services,"1,69","2,63","7,63","7,63",2053 00 094 AT 33300
+04,Contract Payment,"1,69","2,63","7,63","7,63",2053 00 094 AT 33304
+349,Festival Advances,3,,,,2053 00 094 AT 34900
+01,Festival Advances-Debit,5,70,70,70,2053 00 094 AT 34901
+02,Festival Advances-Credit,-2,-70,-70,-70,2053 00 094 AT 34902
+AT,Total AT,"23,52","25,90","31,47","34,03",
+BB,Establishment for Acquisition of Lands for Chennai International Airport,,,,,2053 00 094 BB 30000
+301,Salaries,"39,72","23,87","26,08","26,96",2053 00 094 BB 30100
+01,Pay,"34,47","19,85","22,00","22,88",2053 00 094 BB 30101
+02,Medical Allowance,18,18,18,18,2053 00 094 BB 30102
+04,Other Allowances,48,14,20,20,2053 00 094 BB 30104
+06,House Rent Allowance,"3,92","3,12","3,12","3,12",2053 00 094 BB 30106
+08,City Compensatory Allowance,67,58,58,58,2053 00 094 BB 30108
+303,Dearness Allowance,"2,31","2,58","3,52","5,61",2053 00 094 BB 30300
+01,Dearness Allowance,"2,31","2,58","3,52","5,61",2053 00 094 BB 30301
+304,Travel Expenses,"1,03","1,20","1,20","1,20",2053 00 094 BB 30400
+01,Tour Travelling Allowances,"1,03","1,00","1,00","1,00",2053 00 094 BB 30401
+02,Transfer Travelling Allowances,,20,20,20,2053 00 094 BB 30402
+305,Office Expenses,64,79,79,79,2053 00 094 BB 30500
+02,Other Contingencies,60,60,60,60,2053 00 094 BB 30502
+03,Electricity Charges,4,19,19,19,2053 00 094 BB 30503
+306,"Rent, Rates and Taxes","6,85","6,43",,,2053 00 094 BB 30600
+01,Rent,"6,85","6,43",,,2053 00 094 BB 30601
+345,"Petroleum, Oil and Lubricant",63,"1,05","1,05","1,05",2053 00 094 BB 34500
+01,"Petroleum, Oil and Lubricant",63,"1,05","1,05","1,05",2053 00 094 BB 34501
+BB,Total BB,"51,18","35,92","32,64","35,61",
+BM,Establishment for Acquisition of lands for Chennai Metropolitan Water Supply and Sewerage Board,,,,,2053 00 094 BM 30000
+301,Salaries,"13,30","11,49","11,69","12,10",2053 00 094 BM 30100
+01,Pay,"11,52","10,00","10,20","10,61",2053 00 094 BM 30101
+02,Medical Allowance,5,42,42,42,2053 00 094 BM 30102
+04,Other Allowances,4,10,10,10,2053 00 094 BM 30104
+06,House Rent Allowance,"1,47",77,77,77,2053 00 094 BM 30106
+08,City Compensatory Allowance,22,20,20,20,2053 00 094 BM 30108
+303,Dearness Allowance,"1,86","1,30","1,63","2,60",2053 00 094 BM 30300
+01,Dearness Allowance,"1,86","1,30","1,63","2,60",2053 00 094 BM 30301
+304,Travel Expenses,,40,40,40,2053 00 094 BM 30400
+01,Tour Travelling Allowances,,30,30,30,2053 00 094 BM 30401
+02,Transfer Travelling Allowances,,10,10,10,2053 00 094 BM 30402
+305,Office Expenses,,37,37,37,2053 00 094 BM 30500
+01,Telephone Charges,,5,5,5,2053 00 094 BM 30501
+02,Other Contingencies,,30,30,30,2053 00 094 BM 30502
+04,Service Postage & Postal Expenditure,,2,2,2,2053 00 094 BM 30504
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,25,30,30,2053 00 094 BM 34901
+02,Festival Advances-Credit,,-25,-30,-30,2053 00 094 BM 34902
+BM,Total BM,"15,16","13,56","14,09","15,47",
+BS,Establishment for Acquisition of Lands for Indian Rare Earth Ltd.,,,,,2053 00 094 BS 30000
+301,Salaries,,3,1,1,2053 00 094 BS 30100
+01,Pay,,3,1,1,2053 00 094 BS 30101
+BS,Total BS,,3,1,1,
+CV,Establishment for Acquisition of Lands for Jayagondam Lignite Power Corporation Limited,,,,,2053 00 094 CV 30000
+301,Salaries,"14,38","18,53","18,61","19,34",2053 00 094 CV 30100
+01,Pay,"13,62","17,10","17,10","17,78",2053 00 094 CV 30101
+02,Medical Allowance,10,36,36,36,2053 00 094 CV 30102
+04,Other Allowances,13,2,10,10,2053 00 094 CV 30104
+06,House Rent Allowance,53,"1,05","1,05","1,10",2053 00 094 CV 30106
+303,Dearness Allowance,"3,35","2,22","2,74","4,36",2053 00 094 CV 30300
+01,Dearness Allowance,"3,35","2,22","2,74","4,36",2053 00 094 CV 30301
+304,Travel Expenses,"1,04","1,10","1,10","1,10",2053 00 094 CV 30400 
+01,Tour Travelling Allowances,"1,00","1,00","1,00","1,00",2053 00 094 CV 30401
+02,Transfer Travelling Allowances,4,10,10,10,2053 00 094 CV 30402
+305,Office Expenses,25,25,25,25,2053 00 094 CV 30500
+02,Other Contingencies,25,25,25,25,2053 00 094 CV 30502
+349,Festival Advances,-4,,,,2053 00 094 CV 34900
+01,Festival Advances-Debit,,35,30,30,2053 00 094 CV 34901
+02,Festival Advances-Credit,-4,-35,-30,-30,2053 00 094 CV 34902
+CV,Total CV,"18,98","22,10","22,70","25,05",
+CY,Establishment for Acquisition of lands for Tamil Nadu Cements Limited,,,,,2053 00 094 CY 30000
+301,Salaries,"5,09","8,40","8,71","9,01",2053 00 094 CY 30100
+01,Pay,"4,98","7,10","7,40","7,70",2053 00 094 CY 30101
+02,Medical Allowance,1,9,10,10,2053 00 094 CY 30102
+04,Other Allowances,,44,44,44,2053 00 094 CY 30104
+06,House Rent Allowance,10,77,77,77,2053 00 094 CY 30106
+303,Dearness Allowance,71,92,"1,18","1,89",2053 00 094 CY 30300
+01,Dearness Allowance,71,92,"1,18","1,89",2053 00 094 CY 30301
+304,Travel Expenses,18,24,24,24,2053 00 094 CY 30400
+01,Tour Travelling Allowances,14,14,14,14,2053 00 094 CY 30401
+02,Transfer Travelling Allowances,4,10,10,10,2053 00 094 CY 30402
+305,Office Expenses,5,5,5,5,2053 00 094 CY 30500
+02,Other Contingencies,5,5,5,5,2053 00 094 CY 30502
+349,Festival Advances,-4,,,,2053 00 094 CY 34900
+01,Festival Advances-Debit,,35,40,40,2053 00 094 CY 34901
+02,Festival Advances-Credit,-4,-35,-40,-40,2053 00 094 CY 34902
+CY,Total CY,"5,99","9,61","10,18","11,19",
+DB,Establishment  for the Acquisition of Additional lands for the Tamil Nadu Corporation for Industrial Infrastructure Development,,,,,2053 00 094 DB 30000
+301,Salaries,"4,60","9,12","9,12","9,46",2053 00 094 DB 30100
+01,Pay,"3,99","8,42","8,42","8,76",2053 00 094 DB 30101
+02,Medical Allowance,2,3,3,3,2053 00 094 DB 30102
+04,Other Allowances,3,12,12,12,2053 00 094 DB 30104
+06,House Rent Allowance,50,44,44,44,2053 00 094 DB 30106
+07,Travel Concession,,1,1,1,2053 00 094 DB 30107
+08,City Compensatory Allowance,6,10,10,10,2053 00 094 DB 30108
+303,Dearness Allowance,32,"1,10","1,35","2,15",2053 00 094 DB 30300
+01,Dearness Allowance,32,"1,10","1,35","2,15",2053 00 094 DB 30301
+304,Travel Expenses,,6,6,6,2053 00 094 DB 30400
+01,Tour Travelling Allowances,,6,6,6,2053 00 094 DB 30401
+305,Office Expenses,,5,5,5,2053 00 094 DB 30500
+01,Telephone Charges,,5,5,5,2053 00 094 DB 30501
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,25,30,30,2053 00 094 DB 34901
+02,Festival Advances-Credit,,-25,-30,-30,2053 00 094 DB 34902
+DB,Total DB,"4,92","10,33","10,58","11,72",
+DP,Establishment for Acquisition of Lands for Petroleum Park at Ponneri,,,,,2053 00 094 DP 30000
+301,Salaries,"8,04","17,22","17,36","17,99",2053 00 094 DP 30100
+01,Pay,"6,95","14,42","14,50","15,08",2053 00 094 DP 30101
+02,Medical Allowance,3,72,72,72,2053 00 094 DP 30102
+04,Other Allowances,1,50,50,50,2053 00 094 DP 30104
+06,House Rent Allowance,91,"1,34","1,40","1,45",2053 00 094 DP 30106
+08,City Compensatory Allowance,14,24,24,24,2053 00 094 DP 30108
+303,Dearness Allowance,58,"1,88","2,32","3,69",2053 00 094 DP 30300
+01,Dearness Allowance,58,"1,88","2,32","3,69",2053 00 094 DP 30301
+304,Travel Expenses,,30,30,30,2053 00 094 DP 30400
+01,Tour Travelling Allowances,,30,30,30,2053 00 094 DP 30401
+305,Office Expenses,,20,20,20,2053 00 094 DP 30500
+01,Telephone Charges,,5,5,5,2053 00 094 DP 30501
+02,Other Contingencies,,15,15,15,2053 00 094 DP 30502
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,25,30,30,2053 00 094 DP 34901
+02,Festival Advances-Credit,,-25,-30,-30,2053 00 094 DP 34902
+DP,Total DP,"8,62","19,60","20,18","22,18",
+DW,Establishment for Acquisition of lands for Radial Roads,,,,,2053 00 094 DW 30000
+301,Salaries,"56,39","1,13,56","1,13,73","1,17,93",2053 00 094 DW 30100
+01,Pay,"49,02","1,01,21","1,01,25","1,05,30",2053 00 094 DW 30101
+02,Medical Allowance,35,72,75,80,2053 00 094 DW 30102
+04,Other Allowances,28,50,55,60,2053 00 094 DW 30104
+06,House Rent Allowance,"5,67","9,05","9,10","9,15",2053 00 094 DW 30106
+08,City Compensatory Allowance,"1,07","2,08","2,08","2,08",2053 00 094 DW 30108
+303,Dearness Allowance,"4,12","13,16","16,20","25,80",2053 00 094 DW 30300
+01,Dearness Allowance,"4,12","13,16","16,20","25,80",2053 00 094 DW 30301
+304,Travel Expenses,"1,76","2,60","2,65","2,65",2053 00 094 DW 30400
+01,Tour Travelling Allowances,"1,76","2,00","2,05","2,05",2053 00 094 DW 30401
+02,Transfer Travelling Allowances,,60,60,60,2053 00 094 DW 30402
+305,Office Expenses,96,75,75,75,2053 00 094 DW 30500
+02,Other Contingencies,96,75,75,75,2053 00 094 DW 30502
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,80,80,80,2053 00 094 DW 34901
+02,Festival Advances-Credit,,-80,-80,-80,2053 00 094 DW 34902
+DW,Total DW,"63,23","1,30,07","1,33,33","1,47,13",
+DX,Establishment for Acquisition of lands for improvement and widening of National Highways,,,,,2053 00 094 DX 30000
+301,Salaries,"19,60,24","17,16,37","18,57,72","19,30,37",2053 00 094 DX 30100
+01,Pay,"18,41,29","16,63,85","17,90,06","18,61,66",2053 00 094 DX 30101
+02,Medical Allowance,"9,43","5,45","5,60","5,65",2053 00 094 DX 30102
+04,Other Allowances,"20,60","12,00","14,00","14,50",2053 00 094 DX 30104
+06,House Rent Allowance,"84,38","32,01","45,00","45,50",2053 00 094 DX 30106
+07,Travel Concession,,52,52,52,2053 00 094 DX 30107
+08,City Compensatory Allowance,"4,54","2,54","2,54","2,54",2053 00 094 DX 30108
+302,Wages,,,1,1,2053 00 094 DX 30200
+01,Wages,,,1,1,2053 00 094 DX 30201
+303,Dearness Allowance,"1,55,82","2,16,32","2,86,41","4,56,11",2053 00 094 DX 30300
+01,Dearness Allowance,"1,55,82","2,16,32","2,86,41","4,56,11",2053 00 094 DX 30301
+304,Travel Expenses,"89,64","50,94","75,67","48,67",2053 00 094 DX 30400
+01,Tour Travelling Allowances,"88,21","49,80","73,33","47,53",2053 00 094 DX 30401
+02,Transfer Travelling Allowances,"1,43","1,14","2,34","1,14",2053 00 094 DX 30402
+305,Office Expenses,"3,52,33","42,54","2,07,23","48,56",2053 00 094 DX 30500
+01,Telephone Charges,"6,87","7,78","15,74","8,55",2053 00 094 DX 30501
+02,Other Contingencies,"3,35,10","26,00","1,12,84","26,00",2053 00 094 DX 30502
+03,Electricity Charges,"8,28","8,50","19,60","8,90",2053 00 094 DX 30503
+04,Service Postage & Postal Expenditure,"2,08",26,"5,00","5,05",2053 00 094 DX 30504
+05,Furniture,,,"54,05",6,2053 00 094 DX 30505
+306,"Rent, Rates and Taxes","89,30","49,00","1,01,37","52,11",2053 00 094 DX 30600
+01,Rent,"89,30","49,00","95,97","52,10",2053 00 094 DX 30601
+03,Water Charges,,,"5,40",1,2053 00 094 DX 30603
+319,Machinery and Equipments,,,"36,00",,2053 00 094 DX 31900
+01,Purchase,,,"36,00",,2053 00 094 DX 31901
+321,Motor Vehicles,"1,48,77",,"92,00",,2053 00 094 DX 32100
+03,Hire Charges,"1,48,77",,"92,00",,2053 00 094 DX 32103
+333,Payments for Professional and Special Services,"11,21,63","94,82","6,10,00","6,10,50",2053 00 094 DX 33300
+01,Pleaders Fees,"13,46","1,80","10,00","10,50",2053 00 094 DX 33301
+04,Contract Payment,"11,08,17","93,02","6,00,00","6,00,00",2053 00 094 DX 33304
+349,Festival Advances,-9,,,,2053 00 094 DX 34900
+01,Festival Advances-Debit,"3,90","11,55","12,00","12,00",2053 00 094 DX 34901
+02,Festival Advances-Credit,"-3,99","-11,55","-12,00","-12,00",2053 00 094 DX 34902
+376,Computer and Accessories,"5,96",,"13,56",,2053 00 094 DX 37600
+01,Purchase,50,,"13,56",,2053 00 094 DX 37601
+02,Maintenance,"5,46",,,,2053 00 094 DX 37602
+DX,Total DX,"39,23,60","21,69,99","32,79,97","31,46,33",
+EC,Establishment for acquisition of Land for Airport at Madurai,,,,,2053 00 094 EC 30000
+301,Salaries,"56,66","55,96","57,03","59,07",2053 00 094 EC 30100
+01,Pay,"51,65","49,93","51,00","53,04",2053 00 094 EC 30101
+02,Medical Allowance,33,30,30,30,2053 00 094 EC 30102
+04,Other Allowances,81,86,86,86,2053 00 094 EC 30104
+06,House Rent Allowance,"3,20","3,88","3,88","3,88",2053 00 094 EC 30106
+07,Travel Concession,14,23,23,23,2053 00 094 EC 30107
+08,City Compensatory Allowance,53,76,76,76,2053 00 094 EC 30108
+303,Dearness Allowance,"5,62","6,49","8,16","12,99",2053 00 094 EC 30300
+01,Dearness Allowance,"5,62","6,49","8,16","12,99",2053 00 094 EC 30301
+304,Travel Expenses,"1,83","2,20","2,20","2,20",2053 00 094 EC 30400
+01,Tour Travelling Allowances,"1,83","2,00","2,00","2,00",2053 00 094 EC 30401
+02,Transfer Travelling Allowances,,20,20,20,2053 00 094 EC 30402
+305,Office Expenses,"1,65","1,66","1,66","1,66",2053 00 094 EC 30500
+02,Other Contingencies,"1,49","1,50","1,50","1,50",2053 00 094 EC 30502
+04,Service Postage & Postal Expenditure,16,16,16,16,2053 00 094 EC 30504
+308,Advertising and Publicity,"32,66",,"1,85","1,11",2053 00 094 EC 30800
+01,Advertisement Charges,"32,66",,"1,85","1,11",2053 00 094 EC 30801
+349,Festival Advances,-33,,,,2053 00 094 EC 34900
+01,Festival Advances-Debit,,75,80,80,2053 00 094 EC 34901
+02,Festival Advances-Credit,-33,-75,-80,-80,2053 00 094 EC 34902
+EC,Total EC,"98,09","66,31","70,90","77,03",
+ED,Establishment for acquisition of land for Neyveli Lignite Corporation Limited in Cuddalore District,,,,,2053 00 094 ED 30000
+301,Salaries,"74,36","53,11","55,01","57,86",2053 00 094 ED 30100
+01,Pay,"65,05","44,71","45,00","46,80",2053 00 094 ED 30101
+02,Medical Allowance,44,"1,10","1,20","1,25",2053 00 094 ED 30102
+04,Other Allowances,"5,70","4,00","5,00","5,50",2053 00 094 ED 30104
+06,House Rent Allowance,"3,17","2,99","3,50","4,00",2053 00 094 ED 30106
+07,Travel Concession,,31,31,31,2053 00 094 ED 30107
+303,Dearness Allowance,"7,50","5,81","7,20","11,47",2053 00 094 ED 30300
+01,Dearness Allowance,"7,50","5,81","7,20","11,47",2053 00 094 ED 30301
+304,Travel Expenses,"2,49","2,70","2,96","2,95",2053 00 094 ED 30400
+01,Tour Travelling Allowances,"2,41","2,50","2,75","2,75",2053 00 094 ED 30401
+02,Transfer Travelling Allowances,8,20,21,20,2053 00 094 ED 30402
+305,Office Expenses,60,60,65,60,2053 00 094 ED 30500
+02,Other Contingencies,60,60,65,60,2053 00 094 ED 30502
+349,Festival Advances,-11,,,,2053 00 094 ED 34900
+01,Festival Advances-Debit,10,"1,60","1,60","1,60",2053 00 094 ED 34901
+02,Festival Advances-Credit,-21,"-1,60","-1,60","-1,60",2053 00 094 ED 34902
+ED,Total ED,"84,84","62,22","65,82","72,88",
+EF,"Establishment of Aquisition of Lands for Information Technology Park,  Siruseri",,,,,2053 00 094 EF 30000
+301,Salaries,"4,77","16,99","16,99","17,62",2053 00 094 EF 30100
+01,Pay,"4,14","15,78","15,78","16,41",2053 00 094 EF 30101
+02,Medical Allowance,3,3,3,3,2053 00 094 EF 30102
+04,Other Allowances,1,14,14,14,2053 00 094 EF 30104
+06,House Rent Allowance,50,88,88,88,2053 00 094 EF 30106
+08,City Compensatory Allowance,9,16,16,16,2053 00 094 EF 30108
+303,Dearness Allowance,93,"2,05","2,52","4,02",2053 00 094 EF 30300
+01,Dearness Allowance,93,"2,05","2,52","4,02",2053 00 094 EF 30301
+EF,Total EF,"5,70","19,04","19,51","21,64",
+EH,Establishment for Acquisition of lands for Chennai Metro Rail Limited,,,,,2053 00 094 EH 30000
+301,Salaries,"35,96","32,73","32,75","33,91",2053 00 094 EH 30100
+01,Pay,"31,28","28,93","28,95","30,11",2053 00 094 EH 30101
+02,Medical Allowance,19,15,15,15,2053 00 094 EH 30102
+04,Other Allowances,2,44,44,44,2053 00 094 EH 30104
+06,House Rent Allowance,"3,82","2,59","2,59","2,59",2053 00 094 EH 30106
+08,City Compensatory Allowance,65,62,62,62,2053 00 094 EH 30108
+303,Dearness Allowance,"4,47","3,76","4,63","7,38",2053 00 094 EH 30300
+01,Dearness Allowance,"4,47","3,76","4,63","7,38",2053 00 094 EH 30301
+304,Travel Expenses,13,38,36,36,2053 00 094 EH 30400
+01,Tour Travelling Allowances,8,28,26,26,2053 00 094 EH 30401
+02,Transfer Travelling Allowances,5,10,10,10,2053 00 094 EH 30402
+349,Festival Advances,-2,,,,2053 00 094 EH 34900
+01,Festival Advances-Debit,,35,40,40,2053 00 094 EH 34901
+02,Festival Advances-Credit,-2,-35,-40,-40,2053 00 094 EH 34902
+EH,Total EH,"40,54","36,87","37,74","41,65",
+EI,Establishment for acquistion of land for development of roads in the area industries developing through Tamil Nadu Infrastructure Development Corporation,,,,,2053 00 094 EI 30000
+301,Salaries,"14,98","7,94","10,46","10,83",2053 00 094 EI 30100
+01,Pay,"13,06","6,82","9,34","9,71",2053 00 094 EI 30101
+02,Medical Allowance,11,9,9,9,2053 00 094 EI 30102
+04,Other Allowances,6,6,6,6,2053 00 094 EI 30104
+06,House Rent Allowance,"1,47",77,77,77,2053 00 094 EI 30106
+08,City Compensatory Allowance,28,20,20,20,2053 00 094 EI 30108
+303,Dearness Allowance,"1,13",89,"1,49","2,38",2053 00 094 EI 30300
+01,Dearness Allowance,"1,13",89,"1,49","2,38",2053 00 094 EI 30301
+304,Travel Expenses,22,30,30,30,2053 00 094 EI 30400
+01,Tour Travelling Allowances,22,20,20,20,2053 00 094 EI 30401
+02,Transfer Travelling Allowances,,10,10,10,2053 00 094 EI 30402
+305,Office Expenses,6,6,6,6,2053 00 094 EI 30500
+02,Other Contingencies,6,5,5,5,2053 00 094 EI 30502
+04,Service Postage & Postal Expenditure,,1,1,1,2053 00 094 EI 30504
+349,Festival Advances,-3,,,,2053 00 094 EI 34900
+01,Festival Advances-Debit,,30,40,40,2053 00 094 EI 34901
+02,Festival Advances-Credit,-3,-30,-40,-40,2053 00 094 EI 34902
+EI,Total EI,"16,36","9,19","12,31","13,57",
+EK,Establishment for acquisition of land for setting up of Ultra Mega Power Project (4000 MW) by Coastal Tamil Nadu Power Limited,,,,,2053 00 094 EK 30000
+301,Salaries,"52,49","1,04,93","1,05,19","1,09,35",2053 00 094 EK 30100
+01,Pay,"49,09","99,12","99,12","1,03,08",2053 00 094 EK 30101
+02,Medical Allowance,35,54,60,65,2053 00 094 EK 30102
+04,Other Allowances,34,50,55,60,2053 00 094 EK 30104
+06,House Rent Allowance,"2,60","4,65","4,80","4,90",2053 00 094 EK 30106
+08,City Compensatory Allowance,11,12,12,12,2053 00 094 EK 30108
+302,Wages,58,30,30,30,2053 00 094 EK 30200
+01,Wages,58,30,30,30,2053 00 094 EK 30201
+303,Dearness Allowance,"4,22","12,89","15,86","25,25",2053 00 094 EK 30300
+01,Dearness Allowance,"4,22","12,89","15,86","25,25",2053 00 094 EK 30301
+304,Travel Expenses,"1,61","2,00","2,00","2,00",2053 00 094 EK 30400
+01,Tour Travelling Allowances,"1,61","2,00","2,00","2,00",2053 00 094 EK 30401
+305,Office Expenses,60,60,60,60,2053 00 094 EK 30500
+02,Other Contingencies,60,60,60,60,2053 00 094 EK 30502
+349,Festival Advances,3,,,,2053 00 094 EK 34900
+01,Festival Advances-Debit,15,"1,00","1,00","1,00",2053 00 094 EK 34901
+02,Festival Advances-Credit,-12,"-1,00","-1,00","-1,00",2053 00 094 EK 34902
+EK,Total EK,"59,53","1,20,72","1,23,95","1,37,50",
+EL,Establishment for acquistion of land for formation  Bye pass Road,,,,,2053 00 094 EL 30000
+301,Salaries,"98,63","42,32","55,19","57,23",2053 00 094 EL 30100
+01,Pay,"91,39","38,13","51,00","53,04",2053 00 094 EL 30101
+02,Medical Allowance,62,51,51,51,2053 00 094 EL 30102
+04,Other Allowances,"1,12",52,52,52,2053 00 094 EL 30104
+06,House Rent Allowance,"5,50","3,16","3,16","3,16",2053 00 094 EL 30106
+303,Dearness Allowance,"22,75","4,96","8,16","12,99",2053 00 094 EL 30300
+01,Dearness Allowance,"22,75","4,96","8,16","12,99",2053 00 094 EL 30301
+304,Travel Expenses,,30,30,30,2053 00 094 EL 30400
+01,Tour Travelling Allowances,,30,30,30,2053 00 094 EL 30401
+305,Office Expenses,,14,14,14,2053 00 094 EL 30500
+04,Service Postage & Postal Expenditure,,14,14,14,2053 00 094 EL 30504
+333,Payments for Professional and Special Services,,,48,48,2053 00 094 EL 33300
+04,Contract Payment,,,48,48,2053 00 094 EL 33304
+349,Festival Advances,18,,,,2053 00 094 EL 34900
+01,Festival Advances-Debit,30,80,80,80,2053 00 094 EL 34901
+02,Festival Advances-Credit,-12,-80,-80,-80,2053 00 094 EL 34902
+EL,Total EL,"1,21,56","47,72","64,27","71,14",
+EM,Establishment for acquistion of land for the formation of Broad Guage Line between Nagapattinam and Thiruthuraipoondi,,,,,2053 00 094 EM 30000
+301,Salaries,"7,92","12,89","12,89","13,36",2053 00 094 EM 30100
+01,Pay,"7,47","11,84","11,84","12,31",2053 00 094 EM 30101
+02,Medical Allowance,4,6,6,6,2053 00 094 EM 30102
+04,Other Allowances,,34,34,34,2053 00 094 EM 30104
+06,House Rent Allowance,41,65,65,65,2053 00 094 EM 30106
+303,Dearness Allowance,65,"1,54","1,89","3,02",2053 00 094 EM 30300
+01,Dearness Allowance,65,"1,54","1,89","3,02",2053 00 094 EM 30301
+304,Travel Expenses,,4,4,4,2053 00 094 EM 30400
+01,Tour Travelling Allowances,,4,4,4,2053 00 094 EM 30401
+305,Office Expenses,5,5,5,5,2053 00 094 EM 30500
+02,Other Contingencies,5,5,5,5,2053 00 094 EM 30502
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,20,20,20,2053 00 094 EM 34901
+02,Festival Advances-Credit,,-20,-20,-20,2053 00 094 EM 34902
+EM,Total EM,"8,62","14,52","14,87","16,47",
+EN,Establishment for acquisition of lands in favour of TIDCO for setting up of Petroleum Refinery Project through NOCL in Cuddalore District,,,,,2053 00 094 EN 30000
+301,Salaries,,"12,30","12,28","12,75",2053 00 094 EN 30100
+01,Pay,,"11,29","11,29","11,74",2053 00 094 EN 30101
+02,Medical Allowance,,12,12,12,2053 00 094 EN 30102
+04,Other Allowances,,24,22,24,2053 00 094 EN 30104
+06,House Rent Allowance,,65,65,65,2053 00 094 EN 30106
+303,Dearness Allowance,,"1,47","1,81","2,88",2053 00 094 EN 30300
+01,Dearness Allowance,,"1,47","1,81","2,88",2053 00 094 EN 30301
+304,Travel Expenses,,20,70,70,2053 00 094 EN 30400
+01,Tour Travelling Allowances,,20,70,70,2053 00 094 EN 30401
+305,Office Expenses,,20,20,20,2053 00 094 EN 30500
+02,Other Contingencies,,20,20,20,2053 00 094 EN 30502
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,25,30,30,2053 00 094 EN 34901
+02,Festival Advances-Credit,,-25,-30,-30,2053 00 094 EN 34902
+EN,Total EN,"14,17","14,99","16,53",,
+EO,Establishment for acquisition of land for the extension of runway at Coimbatore Airport,,,,,2053 00 094 EO 30000
+301,Salaries,"45,15","52,91","53,38","55,02",2053 00 094 EO 30100
+01,Pay,"40,87","41,03","41,03","42,67",2053 00 094 EO 30101
+02,Medical Allowance,32,"1,02","1,02","1,02",2053 00 094 EO 30102
+04,Other Allowances,61,"2,50","2,50","2,50",2053 00 094 EO 30104
+06,House Rent Allowance,"2,85","7,12","7,59","7,59",2053 00 094 EO 30106
+08,City Compensatory Allowance,50,"1,24","1,24","1,24",2053 00 094 EO 30108
+303,Dearness Allowance,"5,05","5,33","6,56","10,45",2053 00 094 EO 30300
+01,Dearness Allowance,"5,05","5,33","6,56","10,45",2053 00 094 EO 30301
+304,Travel Expenses,"3,37","1,00","1,00","1,00",2053 00 094 EO 30400
+01,Tour Travelling Allowances,"3,37","1,00","1,00","1,00",2053 00 094 EO 30401
+305,Office Expenses,"4,69","3,34","3,23","3,23",2053 00 094 EO 30500
+01,Telephone Charges,10,36,36,36,2053 00 094 EO 30501
+02,Other Contingencies,"3,66","1,30","1,30","1,30",2053 00 094 EO 30502
+03,Electricity Charges,93,"1,57","1,57","1,57",2053 00 094 EO 30503
+04,Service Postage & Postal Expenditure,,11,,,2053 00 094 EO 30504
+308,Advertising and Publicity,"11,54","10,00",,,2053 00 094 EO 30800
+01,Advertisement Charges,"11,54","10,00",,,2053 00 094 EO 30801
+321,Motor Vehicles,"8,90",2,"21,06",2,2053 00 094 EO 32100
+03,Hire Charges,"8,90",2,"21,06",2,2053 00 094 EO 32103
+333,Payments for Professional and Special Services,"13,15","13,86","13,86","13,86",2053 00 094 EO 33300
+04,Contract Payment,"13,15","13,86","13,86","13,86",2053 00 094 EO 33304
+349,Festival Advances,-5,,,,2053 00 094 EO 34900
+01,Festival Advances-Debit,20,90,90,90,2053 00 094 EO 34901
+02,Festival Advances-Credit,-25,-90,-90,-90,2053 00 094 EO 34902
+EO,Total EO,"91,80","86,46","99,09","83,58",
+EP,"Establishment for acquisition of land for the formation of Flood Carrier Channel joining Tamirabarani, Karumaniyaru & Nambiyar from Kannadian Anaicut",,,,,2053 00 094 EP 30000
+301,Salaries,"1,75,48","75,96","77,34","80,13",2053 00 094 EP 30100
+01,Pay,"1,63,12","65,31","66,00","68,64",2053 00 094 EP 30101
+02,Medical Allowance,"1,36",57,65,70,2053 00 094 EP 30102
+04,Other Allowances,"1,48","2,45","2,75","2,80",2053 00 094 EP 30104
+06,House Rent Allowance,"8,58","7,19","7,50","7,55",2053 00 094 EP 30106
+07,Travel Concession,,16,16,16,2053 00 094 EP 30107
+08,City Compensatory Allowance,94,28,28,28,2053 00 094 EP 30108
+303,Dearness Allowance,"16,68","8,49","10,56","16,82",2053 00 094 EP 30300
+01,Dearness Allowance,"16,68","8,49","10,56","16,82",2053 00 094 EP 30301
+304,Travel Expenses,"2,49","2,68","2,68","2,68",2053 00 094 EP 30400 
+01,Tour Travelling Allowances,"2,44","2,50","2,50","2,50",2053 00 094 EP 30401
+02,Transfer Travelling Allowances,5,10,10,10,2053 00 094 EP 30402
+03,Fixed Travelling Allowances,,8,8,8,2053 00 094 EP 30403
+305,Office Expenses,"1,24","1,87","5,67","1,97",2053 00 094 EP 30500 
+02,Other Contingencies,95,"1,25","5,00","1,25",2053 00 094 EP 30502
+03,Electricity Charges,22,37,37,37,2053 00 094 EP 30503
+04,Service Postage & Postal Expenditure,7,25,30,35,2053 00 094 EP 30504
+333,Payments for Professional and Special Services,,,60,,2053 00 094 EP 33300
+01,Pleaders Fees,,,60,,2053 00 094 EP 33301
+349,Festival Advances,-4,,,,2053 00 094 EP 34900
+01,Festival Advances-Debit,90,"2,10","3,60","3,60",2053 00 094 EP 34901
+02,Festival Advances-Credit,-94,"-2,10","-3,60","-3,60",2053 00 094 EP 34902
+376,Computer and Accessories,1,1,,,2053 00 094 EP 37600
+01,Purchase,1,1,,,2053 00 094 EP 37601
+EP,Total EP,"1,95,86","89,01","96,85","1,01,60",
+EQ,Establishment for Acquisition of Lands for Udangudi Thermal Power Station by Tamil Nadu Generation and Distribution of Corporation Ltd (TANGEDCo Ltd),,,,,2053 00 094 EQ 30000
+301,Salaries,,"19,78","19,78","20,22",2053 00 094 EQ 30100
+01,Pay,,"11,04","11,04","11,48",2053 00 094 EQ 30101
+02,Medical Allowance,,45,45,45,2053 00 094 EQ 30102
+04,Other Allowances,,16,16,16,2053 00 094 EQ 30104
+06,House Rent Allowance,,"8,13","8,13","8,13",2053 00 094 EQ 30106
+303,Dearness Allowance,,"1,44","1,77","2,81",2053 00 094 EQ 30300
+01,Dearness Allowance,,"1,44","1,77","2,81",2053 00 094 EQ 30301
+EQ,Total EQ,"21,22","21,55","23,03",,
+ER,Establishment Charges towards Acquisition of land for the development of Thoothukudi Airport,,,,,2053 00 094 ER 30000
+301,Salaries,"33,35","38,01","38,01","39,22",2053 00 094 ER 30100
+01,Pay,"31,21","30,23","30,23","31,44",2053 00 094 ER 30101
+02,Medical Allowance,22,75,75,75,2053 00 094 ER 30102
+04,Other Allowances,29,56,56,56,2053 00 094 ER 30104
+06,House Rent Allowance,"1,63","6,47","6,47","6,47",2053 00 094 ER 30106
+303,Dearness Allowance,"3,11","3,93","4,84","7,70",2053 00 094 ER 30300
+01,Dearness Allowance,"3,11","3,93","4,84","7,70",2053 00 094 ER 30301
+304,Travel Expenses,32,42,42,42,2053 00 094 ER 30400
+01,Tour Travelling Allowances,32,32,32,32,2053 00 094 ER 30401
+02,Transfer Travelling Allowances,,10,10,10,2053 00 094 ER 30402
+305,Office Expenses,13,38,38,38,2053 00 094 ER 30500
+02,Other Contingencies,10,10,10,10,2053 00 094 ER 30502
+03,Electricity Charges,,25,25,25,2053 00 094 ER 30503
+04,Service Postage & Postal Expenditure,3,3,3,3,2053 00 094 ER 30504
+306,"Rent, Rates and Taxes",,1,1,1,2053 00 094 ER 30600
+01,Rent,,1,1,1,2053 00 094 ER 30601
+308,Advertising and Publicity,"42,82",,,,2053 00 094 ER 30800
+01,Advertisement Charges,"42,82",,,,2053 00 094 ER 30801
+349,Festival Advances,-7,,,,2053 00 094 ER 34900
+01,Festival Advances-Debit,10,"1,50","1,50","1,50",2053 00 094 ER 34901
+02,Festival Advances-Credit,-17,"-1,50","-1,50","-1,50",2053 00 094 ER 34902
+ER,Total ER,"79,66","42,75","43,66","47,73",
+ES,"Establishment for Acquisition of Lands for formation of a new reservoir near Kannankottai in Thervaikandigai Village,Gummidipoondi Taluk, Thiruvallur District",,,,,2053 00 094 ES 30000
+301,Salaries,"44,61","54,49","54,49","56,35",2053 00 094 ES 30100
+01,Pay,"38,51","46,52","46,52","48,38",2053 00 094 ES 30101
+02,Medical Allowance,21,30,30,30,2053 00 094 ES 30102
+04,Other Allowances,46,60,60,60,2053 00 094 ES 30104
+06,House Rent Allowance,"4,63","5,70","5,70","5,70",2053 00 094 ES 30106
+07,Travel Concession,,19,19,19,2053 00 094 ES 30107
+08,City Compensatory Allowance,80,"1,18","1,18","1,18",2053 00 094 ES 30108
+302,Wages,34,20,20,20,2053 00 094 ES 30200
+01,Wages,34,20,20,20,2053 00 094 ES 30201
+303,Dearness Allowance,"2,31","6,05","7,44","11,85",2053 00 094 ES 30300
+01,Dearness Allowance,"2,31","6,05","7,44","11,85",2053 00 094 ES 30301
+304,Travel Expenses,46,30,30,30,2053 00 094 ES 30400
+01,Tour Travelling Allowances,46,20,20,20,2053 00 094 ES 30401
+02,Transfer Travelling Allowances,,10,10,10,2053 00 094 ES 30402
+305,Office Expenses,"1,90","2,40","2,40","2,40",2053 00 094 ES 30500
+01,Telephone Charges,26,55,55,55,2053 00 094 ES 30501
+02,Other Contingencies,"1,25","1,25","1,25","1,25",2053 00 094 ES 30502
+03,Electricity Charges,35,55,55,55,2053 00 094 ES 30503
+04,Service Postage & Postal Expenditure,4,5,5,5,2053 00 094 ES 30504
+306,"Rent, Rates and Taxes","3,32","2,28","2,28","2,28",2053 00 094 ES 30600
+01,Rent,"3,32","2,28","2,28","2,28",2053 00 094 ES 30601
+321,Motor Vehicles,9,18,18,18,2053 00 094 ES 32100
+02,Maintenance of Functional Vehicles,9,18,18,18,2053 00 094 ES 32102
+333,Payments for Professional and Special Services,"23,74","39,06","39,06","39,06",2053 00 094 ES 33300
+01,Pleaders Fees,,21,21,21,2053 00 094 ES 33301
+04,Contract Payment,"23,74","38,85","38,85","38,85",2053 00 094 ES 33304
+345,"Petroleum, Oil and Lubricant","1,65","2,35","2,35","2,35",2053 00 094 ES 34500
+01,"Petroleum, Oil and Lubricant","1,65","2,35","2,35","2,35",2053 00 094 ES 34501
+349,Festival Advances,-1,,,,2053 00 094 ES 34900
+01,Festival Advances-Debit,,30,40,40,2053 00 094 ES 34901
+02,Festival Advances-Credit,-1,-30,-40,-40,2053 00 094 ES 34902
+376,Computer and Accessories,45,,,,2053 00 094 ES 37600
+02,Maintenance,45,,,,2053 00 094 ES 37602
+ES,Total ES,"78,86","1,07,31","1,08,70","1,14,97",
+ET,Establishment for Acquisition of Lands for Ash Dyke to the Neyveli Lignite Corporation Tamil Nadu Power Ltd.,,,,,2053 00 094 ET 30000
+301,Salaries,"2,91","17,72","17,72","18,38",2053 00 094 ET 30100
+01,Pay,"2,70","16,57","16,57","17,23",2053 00 094 ET 30101
+02,Medical Allowance,2,24,24,24,2053 00 094 ET 30102
+04,Other Allowances,4,32,32,32,2053 00 094 ET 30104
+06,House Rent Allowance,15,59,59,59,2053 00 094 ET 30106
+303,Dearness Allowance,"2,03","2,15","2,65","4,22",2053 00 094 ET 30300
+01,Dearness Allowance,"2,03","2,15","2,65","4,22",2053 00 094 ET 30301
+304,Travel Expenses,,50,50,50,2053 00 094 ET 30400
+01,Tour Travelling Allowances,,50,50,50,2053 00 094 ET 30401
+305,Office Expenses,,"1,25","1,25","1,25",2053 00 094 ET 30500
+02,Other Contingencies,,"1,25","1,25","1,25",2053 00 094 ET 30502
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,"1,10","1,10","1,10",2053 00 094 ET 34901
+02,Festival Advances-Credit,,"-1,10","-1,10","-1,10",2053 00 094 ET 34902
+ET,Total ET,"4,94","21,62","22,12","24,35",
+EU,Tamil Nadu Newsprint and Papers Limited Plan,,,,,2053 00 094 EU 30000
+301,Salaries,"46,60","55,74","56,45","58,80",2053 00 094 EU 30100
+01,Pay,"44,10","52,58","52,60","54,70",2053 00 094 EU 30101
+02,Medical Allowance,24,18,25,30,2053 00 094 EU 30102
+04,Other Allowances,57,80,"1,00","1,10",2053 00 094 EU 30104
+06,House Rent Allowance,"1,69","2,18","2,60","2,70",2053 00 094 EU 30106
+303,Dearness Allowance,"5,19","6,84","8,42","13,40",2053 00 094 EU 30300
+01,Dearness Allowance,"5,19","6,84","8,42","13,40",2053 00 094 EU 30301
+349,Festival Advances,-2,,,,2053 00 094 EU 34900
+01,Festival Advances-Debit,,60,60,60,2053 00 094 EU 34901
+02,Festival Advances-Credit,-2,-60,-60,-60,2053 00 094 EU 34902
+EU,Total EU,"51,77","62,58","64,87","72,20",
+EW,Establishment for Acquisition of lands for the Chennai Outer Ring Road (CORR) Project Phase-I,,,,,2053 00 094 EW 30000
+301,Salaries,"12,75","97,95","1,10,01","1,14,25",2053 00 094 EW 30100
+01,Pay,"10,92","89,38","1,01,00","1,05,04",2053 00 094 EW 30101
+02,Medical Allowance,6,36,40,45,2053 00 094 EW 30102
+04,Other Allowances,13,80,85,90,2053 00 094 EW 30104
+06,House Rent Allowance,"1,39","5,65","6,00","6,10",2053 00 094 EW 30106
+08,City Compensatory Allowance,25,"1,76","1,76","1,76",2053 00 094 EW 30108
+303,Dearness Allowance,"1,76","11,62","16,16","25,73",2053 00 094 EW 30300
+01,Dearness Allowance,"1,76","11,62","16,16","25,73",2053 00 094 EW 30301
+305,Office Expenses,,10,10,10,2053 00 094 EW 30500
+01,Telephone Charges,,5,5,5,2053 00 094 EW 30501
+02,Other Contingencies,,1,1,1,2053 00 094 EW 30502
+04,Service Postage & Postal Expenditure,,4,4,4,2053 00 094 EW 30504
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,20,20,20,2053 00 094 EW 34901
+02,Festival Advances-Credit,,-20,-20,-20,2053 00 094 EW 34902
+EW,Total EW,"14,51","1,09,67","1,26,27","1,40,08",
+EX,Establishment for acquisition of lands for Uppoor Thermal Power Station by Tamil Nadu Generation and Distribution Corporation Limited (TANGEDCO Ltd),,,,,2053 00 094 EX 30000
+301,Salaries,"35,58","54,69","24,90","25,80",2053 00 094 EX 30100
+01,Pay,"33,50","50,46","20,00","20,80",2053 00 094 EX 30101
+02,Medical Allowance,23,60,70,75,2053 00 094 EX 30102
+06,House Rent Allowance,"1,85","3,63","4,20","4,25",2053 00 094 EX 30106
+303,Dearness Allowance,"2,87","6,56","3,20","5,10",2053 00 094 EX 30300
+01,Dearness Allowance,"2,87","6,56","3,20","5,10",2053 00 094 EX 30301
+304,Travel Expenses,"2,23","1,30","1,80","1,80",2053 00 094 EX 30400
+01,Tour Travelling Allowances,"2,23","1,20","1,70","1,70",2053 00 094 EX 30401
+02,Transfer Travelling Allowances,,10,10,10,2053 00 094 EX 30402
+305,Office Expenses,78,22,50,22,2053 00 094 EX 30500
+02,Other Contingencies,78,22,50,22,2053 00 094 EX 30502
+306,"Rent, Rates and Taxes",,10,10,10,2053 00 094 EX 30600
+01,Rent,,10,10,10,2053 00 094 EX 30601
+333,Payments for Professional and Special Services,"14,98","4,10","4,10","4,10",2053 00 094 EX 33300
+01,Pleaders Fees,,74,74,74,2053 00 094 EX 33301
+04,Contract Payment,"14,98","3,36","3,36","3,36",2053 00 094 EX 33304
+349,Festival Advances,-4,,,,2053 00 094 EX 34900
+01,Festival Advances-Debit,,60,60,60,2053 00 094 EX 34901
+02,Festival Advances-Credit,-4,-60,-60,-60,2053 00 094 EX 34902
+EX,Total EX,"56,40","66,97","34,60","37,12",
+EY,Establishment for acquisition of lands in Villupuram District for the formation of New Broad Gauge Railway line between Tindiva am-Thiruvannamalai and Tindivanam-Nagari,,,,,2053 00 094 EY 30000
+301,Salaries,"43,72","3,71","21,18","22,08",2053 00 094 EY 30100
+01,Pay,"40,81","2,87","20,00","20,80",2053 00 094 EY 30101
+02,Medical Allowance,18,3,20,25,2053 00 094 EY 30102
+04,Other Allowances,"1,42",6,8,8,2053 00 094 EY 30104
+06,House Rent Allowance,"1,31",65,80,85,2053 00 094 EY 30106
+08,City Compensatory Allowance,,10,10,10,2053 00 094 EY 30108
+303,Dearness Allowance,"2,18",37,"3,20","5,10",2053 00 094 EY 30300
+01,Dearness Allowance,"2,18",37,"3,20","5,10",2053 00 094 EY 30301
+EY,Total EY,"45,90","4,08","24,38","27,18",
+EZ,Establishment for acquisition of lands in Thiruvannamalai District for the formation of New Broad Gauge Railway line between Tindivanam-Nagari and Tindivanam-Tiruvannamalai,,,,,2053 00 094 EZ 30000
+301,Salaries,"38,74","57,53","57,79","60,10",2053 00 094 EZ 30100
+01,Pay,"36,74","55,19","55,19","57,40",2053 00 094 EZ 30101
+02,Medical Allowance,35,27,35,40,2053 00 094 EZ 30102
+06,House Rent Allowance,"1,65","2,07","2,25","2,30",2053 00 094 EZ 30106
+303,Dearness Allowance,"13,59","7,18","8,83","14,06",2053 00 094 EZ 30300
+01,Dearness Allowance,"13,59","7,18","8,83","14,06",2053 00 094 EZ 30301
+304,Travel Expenses,"3,42",26,40,40,2053 00 094 EZ 30400
+01,Tour Travelling Allowances,"3,40",16,30,30,2053 00 094 EZ 30401
+02,Transfer Travelling Allowances,2,10,10,10,2053 00 094 EZ 30402
+305,Office Expenses,"5,95","1,58","4,50","2,15",2053 00 094 EZ 30500
+01,Telephone Charges,,93,93,93,2053 00 094 EZ 30501
+02,Other Contingencies,"5,95",65,"3,00",65,2053 00 094 EZ 30502
+03,Electricity Charges,,,57,57,2053 00 094 EZ 30503
+306,"Rent, Rates and Taxes","2,77",,,,2053 00 094 EZ 30600
+01,Rent,"2,77",,,,2053 00 094 EZ 30601
+333,Payments for Professional and Special Services,"3,39","3,28","3,28","3,28",2053 00 094 EZ 33300
+04,Contract Payment,"3,39","3,28","3,28","3,28",2053 00 094 EZ 33304
+376,Computer and Accessories,"6,66",,,,2053 00 094 EZ 37600
+02,Maintenance,"6,66",,,,2053 00 094 EZ 37602
+EZ,Total EZ,"74,52","69,83","74,80","79,99",
+FA,Establishment for acquisition of lands for the formation of doubling broad gauge railway line between Villupuram and Dindigul,,,,,2053 00 094 FA 30000
+301,Salaries,"1,46,88","73,60","97,93","1,01,73",2053 00 094 FA 30100
+01,Pay,"1,46,88","73,60","95,00","98,80",2053 00 094 FA 30101
+02,Medical Allowance,,,20,20,2053 00 094 FA 30102
+04,Other Allowances,,,"2,40","2,40",2053 00 094 FA 30104
+06,House Rent Allowance,,,33,33,2053 00 094 FA 30106
+303,Dearness Allowance,"6,40","9,57","15,20","24,21",2053 00 094 FA 30300
+01,Dearness Allowance,"6,40","9,57","15,20","24,21",2053 00 094 FA 30301
+304,Travel Expenses,"5,16","1,50","1,50","1,50",2053 00 094 FA 30400
+01,Tour Travelling Allowances,"5,16","1,50","1,50","1,50",2053 00 094 FA 30401
+305,Office Expenses,"10,80","2,10","16,95","2,25",2053 00 094 FA 30500
+02,Other Contingencies,"9,85",25,"15,00",25,2053 00 094 FA 30502
+03,Electricity Charges,29,"1,83","1,85","1,90",2053 00 094 FA 30503
+04,Service Postage & Postal Expenditure,66,2,10,10,2053 00 094 FA 30504
+306,"Rent, Rates and Taxes","9,27",10,"2,40","2,40",2053 00 094 FA 30600
+01,Rent,"9,27",10,"2,40","2,40",2053 00 094 FA 30601
+333,Payments for Professional and Special Services,"17,49",1,"19,80","19,80",2053 00 094 FA 33300
+04,Contract Payment,"17,49",1,"19,80","19,80",2053 00 094 FA 33304
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,,,"1,00",2053 00 094 FA 34901
+02,Festival Advances-Credit,,,,"-1,00",2053 00 094 FA 34902
+FA,Total FA,"1,96,00","86,88","1,53,78","1,51,89",
+FB,Establishment for acquisition of lands for the formation of fourth line between Tiruvallur-Arakkonam and new broad gauge railway line between Tindivanam-Nagari,,,,,2053 00 094 FB 30000
+301,Salaries,,"1,80","1,86","2,02",2053 00 094 FB 30100
+01,Pay,,"1,57","1,57","1,63",2053 00 094 FB 30101
+04,Other Allowances,,6,10,15,2053 00 094 FB 30104
+06,House Rent Allowance,,13,15,20,2053 00 094 FB 30106
+08,City Compensatory Allowance,,4,4,4,2053 00 094 FB 30108
+303,Dearness Allowance,,20,25,40,2053 00 094 FB 30300
+01,Dearness Allowance,,20,25,40,2053 00 094 FB 30301
+FB,Total FB,"2,00","2,11","2,42",,
+FC,Establishment for acquisition of lands for the formation of New Broad Gauge Railway line between Tindivanam-Nagari,,,,,2053 00 094 FC 30000
+301,Salaries,"39,01","3,31","17,00","17,69",2053 00 094 FC 30100
+01,Pay,"36,90","2,62","16,00","16,64",2053 00 094 FC 30101
+04,Other Allowances,55,4,20,20,2053 00 094 FC 30104
+06,House Rent Allowance,"1,56",65,80,85,2053 00 094 FC 30106
+303,Dearness Allowance,"4,92",34,"2,56","4,08",2053 00 094 FC 30300
+01,Dearness Allowance,"4,92",34,"2,56","4,08",2053 00 094 FC 30301
+333,Payments for Professional and Special Services,80,"5,04","5,04","5,04",2053 00 094 FC 33300
+04,Contract Payment,80,"5,04","5,04","5,04",2053 00 094 FC 33304
+FC,Total FC,"44,73","8,69","24,60","26,81",
+FD,Establishment for Acquisition of Lands for TIDCO for setting up of a Heavy Engineering Hub in Tiruvallur District,,,,,2053 00 094 FD 30000
+301,Salaries,"9,72","6,56","7,65","8,01",2053 00 094 FD 30100
+01,Pay,"9,72","6,56","6,60","6,86",2053 00 094 FD 30101
+04,Other Allowances,,,35,40,2053 00 094 FD 30104
+06,House Rent Allowance,,,70,75,2053 00 094 FD 30106
+303,Dearness Allowance,"1,23",85,"1,06","1,68",2053 00 094 FD 30300
+01,Dearness Allowance,"1,23",85,"1,06","1,68",2053 00 094 FD 30301
+FD,Total FD,"10,95","7,41","8,71","9,69",
+FE,Establishment for Acquisition of Lands for Northern Port Access Road Project,,,,,2053 00 094 FE 30000
+301,Salaries,"18,52","19,31","19,42","20,23",2053 00 094 FE 30100
+01,Pay,"15,79","16,57","16,60","17,26",2053 00 094 FE 30101
+02,Medical Allowance,9,18,20,25,2053 00 094 FE 30102
+06,House Rent Allowance,"2,31","1,94","2,00","2,10",2053 00 094 FE 30106
+08,City Compensatory Allowance,33,62,62,62,2053 00 094 FE 30108
+303,Dearness Allowance,"2,12","2,15","2,66","4,23",2053 00 094 FE 30300
+01,Dearness Allowance,"2,12","2,15","2,66","4,23",2053 00 094 FE 30301
+304,Travel Expenses,26,30,40,35,2053 00 094 FE 30400
+01,Tour Travelling Allowances,24,20,25,25,2053 00 094 FE 30401
+02,Transfer Travelling Allowances,2,10,15,10,2053 00 094 FE 30402
+305,Office Expenses,29,55,70,80,2053 00 094 FE 30500
+01,Telephone Charges,,15,20,25,2053 00 094 FE 30501
+02,Other Contingencies,25,25,30,25,2053 00 094 FE 30502
+03,Electricity Charges,2,13,15,20,2053 00 094 FE 30503
+04,Service Postage & Postal Expenditure,2,2,5,10,2053 00 094 FE 30504
+306,"Rent, Rates and Taxes","1,50","1,80","2,00","2,00",2053 00 094 FE 30600
+01,Rent,"1,50","1,80","2,00","2,00",2053 00 094 FE 30601
+FE,Total FE,"22,69","24,11","25,18","27,61",
+FF,Establishment for acquisition of lands for the formation of new Broad Gauge Railway Line between Madurai - Thoothukudi,,,,,2053 00 094 FF 30000
+301,Salaries,"24,55","14,84","21,30","22,25",2053 00 094 FF 30100
+01,Pay,"23,17","13,70","20,00","20,80",2053 00 094 FF 30101
+02,Medical Allowance,20,30,35,40,2053 00 094 FF 30102
+04,Other Allowances,20,12,15,20,2053 00 094 FF 30104
+06,House Rent Allowance,98,72,80,85,2053 00 094 FF 30106
+303,Dearness Allowance,"2,34","1,78","3,20","5,10",2053 00 094 FF 30300
+01,Dearness Allowance,"2,34","1,78","3,20","5,10",2053 00 094 FF 30301
+304,Travel Expenses,27,20,25,25,2053 00 094 FF 30400
+01,Tour Travelling Allowances,27,20,25,25,2053 00 094 FF 30401
+FF,Total FF,"27,16","16,82","24,75","27,60",
+FG,Establishment for acquisition of lands for conversion of Single Broad Gauge Line as Double Broad Guage Railway line between Omalur - Mettur Dam,,,,,2053 00 094 FG 30000
+301,Salaries,"21,73","16,97","17,20","17,98",2053 00 094 FG 30100
+01,Pay,"18,94","15,78","15,80","16,43",2053 00 094 FG 30101
+02,Medical Allowance,13,30,35,40,2053 00 094 FG 30102
+04,Other Allowances,"1,14",12,25,30,2053 00 094 FG 30104
+06,House Rent Allowance,"1,52",77,80,85,2053 00 094 FG 30106
+303,Dearness Allowance,"1,57","2,05","2,53","4,03",2053 00 094 FG 30300
+01,Dearness Allowance,"1,57","2,05","2,53","4,03",2053 00 094 FG 30301
+305,Office Expenses,"8,69",54,"2,35",71,2053 00 094 FG 30500
+02,Other Contingencies,"8,60",1,"1,80",1,2053 00 094 FG 30502
+03,Electricity Charges,9,50,50,55,2053 00 094 FG 30503
+04,Service Postage & Postal Expenditure,,3,5,15,2053 00 094 FG 30504
+306,"Rent, Rates and Taxes",,40,45,45,2053 00 094 FG 30600
+01,Rent,,40,45,45,2053 00 094 FG 30601
+FG,Total FG,"31,99","19,96","22,53","23,17",
+FH,"Establishment for acquisition of lands for  Bye-Pass Road, Ring Road and Railway over bridge / under bridge in Vellore District",,,,,2053 00 094 FH 30000
+301,Salaries,,"20,02","20,06","20,93",2053 00 094 FH 30100
+01,Pay,,"19,19","19,19","19,96",2053 00 094 FH 30101
+02,Medical Allowance,,6,10,15,2053 00 094 FH 30102
+04,Other Allowances,,12,12,12,2053 00 094 FH 30104
+06,House Rent Allowance,,65,65,70,2053 00 094 FH 30106
+303,Dearness Allowance,,"2,49","3,07","4,89",2053 00 094 FH 30300
+01,Dearness Allowance,,"2,49","3,07","4,89",2053 00 094 FH 30301
+304,Travel Expenses,,"1,00","1,00","1,00",2053 00 094 FH 30400
+01,Tour Travelling Allowances,,50,50,50,2053 00 094 FH 30401
+02,Transfer Travelling Allowances,,50,50,50,2053 00 094 FH 30402
+305,Office Expenses,,"1,98","2,00","2,10",2053 00 094 FH 30500
+01,Telephone Charges,,75,75,80,2053 00 094 FH 30501
+02,Other Contingencies,,30,30,30,2053 00 094 FH 30502
+03,Electricity Charges,,83,85,90,2053 00 094 FH 30503
+04,Service Postage & Postal Expenditure,,10,10,10,2053 00 094 FH 30504
+306,"Rent, Rates and Taxes",,5,10,10,2053 00 094 FH 30600
+01,Rent,,5,10,10,2053 00 094 FH 30601
+FH,Total FH,"25,54","26,23","29,02",,
+FI,Establishment of separate land acquisition unit for Highways Department,,,,,2053 00 094 FI 30000
+301,Salaries,"25,82","23,41","73,94","74,84",2053 00 094 FI 30100
+01,Pay,"23,47","21,04","70,54","71,32",2053 00 094 FI 30101
+02,Medical Allowance,15,30,30,35,2053 00 094 FI 30102
+06,House Rent Allowance,"2,20","2,07","2,60","2,67",2053 00 094 FI 30106
+08,City Compensatory Allowance,,,50,50,2053 00 094 FI 30108
+303,Dearness Allowance,"2,08","2,74","10,97","17,47",2053 00 094 FI 30300
+01,Dearness Allowance,"2,08","2,74","10,97","17,47",2053 00 094 FI 30301
+304,Travel Expenses,,,"1,00","1,00",2053 00 094 FI 30400
+01,Tour Travelling Allowances,,,"1,00","1,00",2053 00 094 FI 30401
+305,Office Expenses,"2,11",2,"2,88",11,2053 00 094 FI 30500
+01,Telephone Charges,,,10,10,2053 00 094 FI 30501
+02,Other Contingencies,,,"2,78",1,2053 00 094 FI 30502
+04,Service Postage & Postal Expenditure,60,,,,2053 00 094 FI 30504
+05,Furniture,"1,51",2,,,2053 00 094 FI 30505
+333,Payments for Professional and Special Services,"46,92","1,05","56,16","56,16",2053 00 094 FI 33300
+04,Contract Payment,"46,92","1,05","56,16","56,16",2053 00 094 FI 33304
+376,Computer and Accessories,"3,25",1,,,2053 00 094 FI 37600
+01,Purchase,"2,51",1,,,2053 00 094 FI 37601
+03,Stationery,74,,,,2053 00 094 FI 37603
+FI,Total FI,"80,18","27,23","1,44,95","1,49,58",
+FJ,Establishment for acquisition of lands for development of East Coast Road,,,,,2053 00 094 FJ 30000
+301,Salaries,"15,36","20,02","5,62","5,27",2053 00 094 FJ 30100
+01,Pay,"14,40","19,19","5,07","5,27",2053 00 094 FJ 30101
+02,Medical Allowance,11,6,30,,2053 00 094 FJ 30102
+04,Other Allowances,30,12,8,,2053 00 094 FJ 30104
+06,House Rent Allowance,55,65,17,,2053 00 094 FJ 30106
+303,Dearness Allowance,"1,28","2,49",81,"1,29",2053 00 094 FJ 30300
+01,Dearness Allowance,"1,28","2,49",81,"1,29",2053 00 094 FJ 30301
+FJ,Total FJ,"16,64","22,51","6,43","6,56",
+FK,Establishment for acquisition of lands for formation of Road / over bridge,,,,,2053 00 094 FK 30000
+301,Salaries,"23,98","41,31","41,45","43,14",2053 00 094 FK 30100
+01,Pay,"22,34","38,52","38,60","40,14",2053 00 094 FK 30101
+02,Medical Allowance,11,48,50,55,2053 00 094 FK 30102
+04,Other Allowances,37,24,25,30,2053 00 094 FK 30104
+06,House Rent Allowance,"1,16","2,07","2,10","2,15",2053 00 094 FK 30106
+303,Dearness Allowance,"1,78","4,98","6,18","9,83",2053 00 094 FK 30300
+01,Dearness Allowance,"1,78","4,98","6,18","9,83",2053 00 094 FK 30301
+FK,Total FK,"25,76","46,29","47,63","52,97",
+FM,Acquisition of lands for formation of New Broad Gauge Railway lines in Tamil Nadu,,,,,2053 00 094 FM 30000
+301,Salaries,"29,03",,"1,29,95","1,34,86",2053 00 094 FM 30100
+01,Pay,"29,03",,"1,22,75","1,27,66",2053 00 094 FM 30101
+06,House Rent Allowance,,,"7,20","7,20",2053 00 094 FM 30106
+303,Dearness Allowance,,,"19,64","31,28",2053 00 094 FM 30300
+01,Dearness Allowance,,,"19,64","31,28",2053 00 094 FM 30301
+333,Payments for Professional and Special Services,"42,25","28,35","74,12","74,12",2053 00 094 FM 33300
+04,Contract Payment,"42,25","28,35","74,12","74,12",2053 00 094 FM 33304
+FM,Total FM,"71,28","28,35","2,23,71","2,40,26",
+FN,Establishment for acquisition of land for expansion of Salem Airport,,,,,2053 00 094 FN 30000
+301,Salaries,"72,44","87,93","1,07,54","1,11,64",2053 00 094 FN 30100
+01,Pay,"66,41","80,45","1,00,01","1,04,01",2053 00 094 FN 30101
+02,Medical Allowance,52,94,95,"1,00",2053 00 094 FN 30102
+06,House Rent Allowance,"4,75","5,71","5,75","5,80",2053 00 094 FN 30106
+08,City Compensatory Allowance,76,83,83,83,2053 00 094 FN 30108
+303,Dearness Allowance,"8,76","10,46","16,00","25,48",2053 00 094 FN 30300
+01,Dearness Allowance,"8,76","10,46","16,00","25,48",2053 00 094 FN 30301
+308,Advertising and Publicity,"59,94",,"5,55",,2053 00 094 FN 30800
+01,Advertisement Charges,"59,94",,"5,55",,2053 00 094 FN 30801
+FN,Total FN,"1,41,14","98,39","1,29,09","1,37,12",
+FO,Establishment for acquisition of lands for Krishna Water Supply Project in Thiruvallur District,,,,,2053 00 094 FO 30000
+301,Salaries,"13,09","15,72","15,78","16,51",2053 00 094 FO 30100
+01,Pay,"11,57","13,52","13,52","14,10",2053 00 094 FO 30101
+02,Medical Allowance,7,10,10,15,2053 00 094 FO 30102
+04,Other Allowances,8,22,25,30,2053 00 094 FO 30104
+06,House Rent Allowance,"1,20","1,62","1,65","1,70",2053 00 094 FO 30106
+07,Travel Concession,,1,1,1,2053 00 094 FO 30107
+08,City Compensatory Allowance,17,25,25,25,2053 00 094 FO 30108
+302,Wages,2,,,,2053 00 094 FO 30200
+01,Wages,2,,,,2053 00 094 FO 30201
+303,Dearness Allowance,"1,87","1,76","2,16","3,45",2053 00 094 FO 30300
+01,Dearness Allowance,"1,87","1,76","2,16","3,45",2053 00 094 FO 30301
+304,Travel Expenses,9,50,50,50,2053 00 094 FO 30400
+01,Tour Travelling Allowances,9,50,50,50,2053 00 094 FO 30401
+305,Office Expenses,"4,06","4,12","4,15","4,20",2053 00 094 FO 30500
+02,Other Contingencies,"4,00","4,00","4,00","4,00",2053 00 094 FO 30502
+03,Electricity Charges,6,12,15,20,2053 00 094 FO 30503
+306,"Rent, Rates and Taxes",49,50,55,55,2053 00 094 FO 30600
+01,Rent,49,50,55,55,2053 00 094 FO 30601
+333,Payments for Professional and Special Services,,"1,79","1,81","1,86",2053 00 094 FO 33300
+01,Pleaders Fees,,"1,78","1,80","1,85",2053 00 094 FO 33301
+04,Contract Payment,,1,1,1,2053 00 094 FO 33304
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,20,50,30,2053 00 094 FO 34901
+02,Festival Advances-Credit,,-20,-50,-30,2053 00 094 FO 34902
+FO,Total FO,"19,62","24,39","24,95","27,07",
+FP,Establishment for Acquisition of lands for Expansion of Trichy Airport,,,,,2053 00 094 FP 30000
+301,Salaries,"16,43",,1,1,2053 00 094 FP 30100
+01,Pay,"16,43",,1,1,2053 00 094 FP 30101
+304,Travel Expenses,,,"1,60",60,2053 00 094 FP 30400
+01,Tour Travelling Allowances,,,"1,20",60,2053 00 094 FP 30401
+02,Transfer Travelling Allowances,,,40,,2053 00 094 FP 30402
+305,Office Expenses,,,"1,72",,2053 00 094 FP 30500
+02,Other Contingencies,,,"1,72",,2053 00 094 FP 30502
+308,Advertising and Publicity,"1,15,20",,"36,82",,2053 00 094 FP 30800
+01,Advertisement Charges,"1,15,20",,"36,82",,2053 00 094 FP 30801
+321,Motor Vehicles,,,60,60,2053 00 094 FP 32100
+03,Hire Charges,,,60,60,2053 00 094 FP 32103
+333,Payments for Professional and Special Services,79,84,"14,00","14,00",2053 00 094 FP 33300
+04,Contract Payment,79,84,"14,00","14,00",2053 00 094 FP 33304
+FP,Total FP,"1,32,42",84,"54,75","15,21",
+FQ,Establishment for Acquisition of lands for the Chennai Outer Ring Road (CORR) Project Phase-II,,,,,2053 00 094 FQ 30000
+301,Salaries,"8,03",,1,1,2053 00 094 FQ 30100
+01,Pay,"8,03",,1,1,2053 00 094 FQ 30101
+FQ,Total FQ,"8,03",,1,1,
+FR,Establishment for Acquisition of lands under Chennai - Kanyakumari Industrial Corridor Project,,,,,2053 00 094 FR 30000
+301,Salaries,,,1,1,2053 00 094 FR 30100
+01,Pay,,,1,1,2053 00 094 FR 30101
+333,Payments for Professional and Special Services,,1,1,1,2053 00 094 FR 33300
+04,Contract Payment,,1,1,1,2053 00 094 FR 33304
+FR,Total FR,,1,2,2,
+FS,Establishment for Acquisition of lands for construction of HPCL Petroleum Storage Tank,,,,,2053 00 094 FS 30000
+301,Salaries,,,1,1,2053 00 094 FS 30100
+01,Pay,,,1,1,2053 00 094 FS 30101
+FS,Total FS,,,1,1,
+#,State's Expenditure Total Charged,,1,57,1,
+#,State's Expenditure Total Voted,"71,97,84","48,96,43","65,99,46","66,81,07",
+094,Total 094 Charged,,1,57,1,
+094,Total 094 Voted,"71,97,84","48,96,43","65,99,46","66,81,07",
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+AN,Establishment for Acquisition of Lands for Growth Centre by SIPCOT Limited,,,,,2053 00 911 AN 30000
+377,Deduct-Recoveries,,,1,1,2053 00 911 AN 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,,,1,1,2053 00 911 AN 37702
+AN,Total AN,,1,1,,
+DX,Establishment for Acquisition of lands for improvement and widening of National Highways,,,,,2053 00 911 DX 30000
+377,Deduct-Recoveries,"-3,28,88",,1,1,2053 00 911 DX 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-3,28,88",,1,1,2053 00 911 DX 37702
+DX,Total DX,"-3,28,88",,1,1,
+EK,Establishment for acquisition of land for setting up of Ultra Mega Power Project (4000 MW) by Coastal Tamil Nadu Power Limited,,,,,2053 00 911 EK 30000
+377,Deduct-Recoveries,,,1,1,2053 00 911 EK 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,,,1,1,2053 00 911 EK 37702
+EK,Total EK,,,1,1,
+FN,Establishment for acquisition of land for expansion of Salem Airport,,,,,2053 00 911 FN 30000
+377,Deduct-Recoveries,-1,,,,2053 00 911 FN 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-1,,,,2053 00 911 FN 37702
+FN,Total FN,-1,,,,
+#,State's Expenditure Total,"-3,28,89",,3,3,
+911,Total 911,"-3,28,89",,3,3,
+00,Total 00 Charged,,1,57,1,
+00,Total 00 Voted,"68,68,95","48,96,43","65,99,49","66,81,10",
+2053,Total 2053 Charged,,1,57,1,
+2053,Total 2053 Voted,"68,68,95","48,96,43","65,99,49","66,81,10",
+3604,COMPENSATION AND ASSIGNMENTS TO LOCAL BODIES AND PANCHAYAT RAJ INSTITUTIONS,,,,,
+103,Entertainment Tax,,,,,
+#,State's Expenditure,,,,,
+AB,Cinematographic Licence Fee,,,,,3604 00 103 AB 30000
+351,Compensation,,1,1,1,3604 00 103 AB 35100
+02,Other Compensations  - Voted,,1,1,1,3604 00 103 AB 35102
+AB,Total AB,,1,1,1,
+#,State's Expenditure Total,,1,1,1,
+103,Total 103,,1,1,1,
+200,Other Miscellaneous Compensations and Assignments,,,,,
+#,State's Expenditure,,,,,
+AC,Other Compensations to Religious Institutions,,,,,3604 00 200 AC 30000
+351,Compensation,,,"1,67,21",1,3604 00 200 AC 35100
+01,Claims under no fault liability -  principal,,,"1,67,21",1,3604 00 200 AC 35101
+charges  - Voted,,,,,,
+AC,Total AC,,"1,67,21",1,,
+AE,Other compensations to Educational Institutions,,,,,3604 00 200 AE 30000
+351,Compensation,,1,1,1,3604 00 200 AE 35100
+02,Other Compensations  - Voted,,1,1,1,3604 00 200 AE 35102
+AE,Total AE,1,1,1,,
+#,State's Expenditure Total,,1,"1,67,22",2,
+200,Total 200,1,"1,67,22",2,,
+00,Total 00,2,"1,67,23",3,,
+3604,Total 3604,2,"1,67,23",3,,
+5053,CAPITAL OUTLAY ON CIVIL AVIATION,,,,,
+02,Airports,,,,,
+102,Aerodromes,,,,,
+#,State's Expenditure,,,,,
+AD,Expansion of Madurai Airport,,,,,5053 02 102 AD 40000
+464,Lands,"1,60,36,70",3,1,1,5053 02 102 AD 46400
+01,Lands - Voted,"1,60,36,70",3,1,1,5053 02 102 AD 46401
+AD,Total AD,"1,60,36,70",3,1,1,
+#,State's Expenditure Total,"1,60,36,70",3,1,1,
+102,Total 102,"1,60,36,70",3,1,1,
+02,Total 02,"1,60,36,70",3,1,1,
+5053,Total 5053,"1,60,36,70",3,1,1,

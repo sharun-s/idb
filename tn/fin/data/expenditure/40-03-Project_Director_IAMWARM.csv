@@ -1,0 +1,72 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2701,MEDIUM IRRIGATION,,,,,
+80,General,,,,,
+001,Direction and Administration,,,,,
+#,Externally Aided Projects,,,,,
+PD,Multi Disciplinary Project Unit in Tamil Nadu Irrigated Agriculture Modernization and Water Bodies Restoration and Management Project (IAMWARM),,,,,2701 80 001 PD 30000
+301,Salaries,,,,"1,33,28",2701 80 001 PD 30100
+01,Pay,,,,"1,16,60",2701 80 001 PD 30101
+02,Medical Allowance,,,,12,2701 80 001 PD 30102
+03,Medical Charges,,,,58,2701 80 001 PD 30103
+04,Other Allowances,,,,"2,77",2701 80 001 PD 30104
+06,House Rent Allowance,,,,"11,52",2701 80 001 PD 30106
+07,Travel Concession,,,,1,2701 80 001 PD 30107
+08,City Compensatory Allowance,,,,"1,68",2701 80 001 PD 30108
+302,Wages,,,,"22,14",2701 80 001 PD 30200
+01,Wages,,,,"22,14",2701 80 001 PD 30201
+303,Dearness Allowance,,,,"33,20",2701 80 001 PD 30300
+01,Dearness Allowance,,,,"33,20",2701 80 001 PD 30301
+304,Travel Expenses,,,,"10,01",2701 80 001 PD 30400
+01,Tour Travelling Allowances,,,,"10,00",2701 80 001 PD 30401
+02,Transfer Travelling Allowances,,,,1,2701 80 001 PD 30402
+305,Office Expenses,,,,"10,50",2701 80 001 PD 30500
+01,Telephone Charges,,,,"3,40",2701 80 001 PD 30501
+02,Other Contingencies,,,,"3,50",2701 80 001 PD 30502
+03,Electricity Charges,,,,"3,00",2701 80 001 PD 30503
+04,Service Postage & Postal Expenditure,,,,10,2701 80 001 PD 30504
+05,Furniture,,,,50,2701 80 001 PD 30505
+308,Advertising and Publicity,,,,,
+01,Advertisement Charges,,,,"4,00",2701 80 001 PD 30801
+02,Exhibition,,,,"1,00",2701 80 001 PD 30802
+09,Others,,,,"1,00",2701 80 001 PD 30809
+313,Hospitality / Entertainment Expenditure,,,,"5,50",2701 80 001 PD 31300,
+01,Hospitality / Entertainment Expenditure,,,,"5,50",2701 80 001 PD 31301
+317,Minor Works,,,,"2,00",2701 80 001 PD 31700
+01,Minor Works,,,,"2,00",2701 80 001 PD 31701
+319,Machinery and Equipments,,,,"3,00",2701 80 001 PD 31900
+01,Purchase,,,,"1,00",2701 80 001 PD 31901
+03,Maintenance,,,,"2,00",2701 80 001 PD 31903
+320,Tools and Plant,,,,"1,00",2701 80 001 PD 32000
+02,Renewal and Replacement,,,,"1,00",2701 80 001 PD 32002
+321,Motor Vehicles,,,,"9,31",2701 80 001 PD 32100
+01,Purchase,,,,1,2701 80 001 PD 32101
+02,Maintenance of Functional Vehicles,,,,"3,30",2701 80 001 PD 32102
+03,Hire Charges,,,,"6,00",2701 80 001 PD 32103
+333,Payments for Professional and Special,,,,,
+Services,,,,"2,26,88",2701 80 001 PD 33300,
+03,Special Service,,,,"2,00,00",2701 80 001 PD 33303
+04,Contract Payment,,,,"26,88",2701 80 001 PD 33304
+345,"Petroleum, Oil and Lubricant",,,,,
+01,"Petroleum, Oil and Lubricant",,,,"9,67",2701 80 001 PD 34501
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,,,50,2701 80 001 PD 34901
+02,Festival Advances-Credit,,,,-50,2701 80 001 PD 34902
+359,Prizes and Awards,,,,1,2701 80 001 PD 35900
+01,Prizes and Awards,,,,1,2701 80 001 PD 35901
+360,T.A./D.A.to Non-Official Members,,,,"3,00",2701 80 001 PD 36000
+01,T.A./D.A.to Non-Official Members,,,,"3,00",2701 80 001 PD 36001
+368,"Cost of Books/Note, Books/Slates, etc.",,,,25,2701 80 001 PD 36800
+01,"Cost of Books/Note, Books/Slates etc.",,,,25,2701 80 001 PD 36801
+371,Printing Charges,,,,"3,00",2701 80 001 PD 37100
+01,Printing Charges,,,,"3,00",2701 80 001 PD 37101
+372,Training,,,,"10,00",2701 80 001 PD 37200
+01,Training,,,,"10,00",2701 80 001 PD 37201
+376,Computer and Accessories,,,,"5,01",2701 80 001 PD 37600
+01,Purchase,,,,1,2701 80 001 PD 37601
+02,Maintenance,,,,"3,00",2701 80 001 PD 37602
+03,Stationery,,,,"2,00",2701 80 001 PD 37603
+PD,Total PD,,,,"4,93,76",
+#,Externally Aided Projects Total,,,,"4,93,76",
+001,Total 001,,,,"4,93,76",
+80,Total 80,,,,"4,93,76",
+2701,Total 2701,,,,"4,93,76",

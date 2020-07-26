@@ -1,0 +1,59 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2702,MINOR IRRIGATION,,,,,
+02,Ground water,,,,,
+005,Investigation,,,,,
+#,State's Expenditure,,,,,
+AI,Setting up of an International Water Institute,,,,,2702 02 005 AI 30000
+301,Salaries,,,,"19,77,83",2702 02 005 AI 30100
+01,Pay,,,,"18,54,38",2702 02 005 AI 30101
+02,Medical Allowance,,,,"8,85",2702 02 005 AI 30102
+03,Medical Charges,,,,"1,00",2702 02 005 AI 30103
+04,Other Allowances,,,,"6,27",2702 02 005 AI 30104
+06,House Rent Allowance,,,,"93,31",2702 02 005 AI 30106
+07,Travel Concession,,,,"3,39",2702 02 005 AI 30107
+08,City Compensatory Allowance,,,,"10,63",2702 02 005 AI 30108
+303,Dearness Allowance,,,,"7,26,41",2702 02 005 AI 30300
+01,Dearness Allowance,,,,"7,26,41",2702 02 005 AI 30301
+304,Travel Expenses,,,,"16,00",2702 02 005 AI 30400
+01,Tour Travelling Allowances,,,,"15,00",2702 02 005 AI 30401
+02,Transfer Travelling Allowances,,,,"1,00",2702 02 005 AI 30402
+305,Office Expenses,,,,"17,90",2702 02 005 AI 30500
+01,Telephone Charges,,,,"2,00",2702 02 005 AI 30501
+02,Other Contingencies,,,,"3,00",2702 02 005 AI 30502
+03,Electricity Charges,,,,"12,00",2702 02 005 AI 30503
+04,Service Postage & Postal Expenditure,,,,90,2702 02 005 AI 30504
+306,"Rent, Rates and Taxes",,,,"13,24",2702 02 005 AI 30600
+01,Rent,,,,1,2702 02 005 AI 30601
+02,Property tax,,,,"12,03",2702 02 005 AI 30602
+03,Water Charges,,,,"1,20",2702 02 005 AI 30603
+317,Minor Works,,,,"1,73",2702 02 005 AI 31700
+01,Minor Works,,,,"1,73",2702 02 005 AI 31701
+319,Machinery and Equipments,,,,"3,80",2702 02 005 AI 31900
+03,Maintenance,,,,"3,80",2702 02 005 AI 31903
+321,Motor Vehicles,,,,"6,00",2702 02 005 AI 32100
+02,Maintenance of Functional Vehicles,,,,"6,00",2702 02 005 AI 32102
+333,Payments for Professional and Special,,,,,
+Services,,,,"64,30",2702 02 005 AI 33300,
+01,Pleaders Fees,,,,10,2702 02 005 AI 33301
+04,Contract Payment,,,,"64,20",2702 02 005 AI 33304
+334,Other Charges,,,,26,2702 02 005 AI 33400
+01,Other Items,,,,26,2702 02 005 AI 33401
+345,"Petroleum, Oil and Lubricant",,,,,
+01,"Petroleum, Oil and Lubricant",,,,"37,00",2702 02 005 AI 34501
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,,,"35,00",2702 02 005 AI 34901
+02,Festival Advances-Credit,,,,"-35,00",2702 02 005 AI 34902
+359,Prizes and Awards,,,,38,2702 02 005 AI 35900
+01,Prizes and Awards,,,,38,2702 02 005 AI 35901
+368,"Cost of Books/Note, Books/Slates, etc.",,,,11,2702 02 005 AI 36800
+01,"Cost of Books/Note, Books/Slates, etc.",,,,11,2702 02 005 AI 36801
+372,Training,,,,11,2702 02 005 AI 37200
+01,Training,,,,11,2702 02 005 AI 37201
+376,Computer and Accessories,,,,"8,50",2702 02 005 AI 37600
+02,Maintenance,,,,"5,00",2702 02 005 AI 37602
+03,Stationery,,,,"3,50",2702 02 005 AI 37603
+AI,Total AI,,,,"28,73,57",
+#,State's Expenditure Total,,,,"28,73,57",
+005,Total 005,,,,"28,73,57",
+02,Total 02,,,,"28,73,57",
+2702,Total 2702,,,,"28,73,57",

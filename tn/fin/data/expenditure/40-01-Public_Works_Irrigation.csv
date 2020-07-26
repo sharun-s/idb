@@ -1,0 +1,1996 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2059,PUBLIC WORKS,,,,,
+80,General,,,,,
+105,Public Works Workshops,,,,,
+#,State's Expenditure,,,,,
+AD,Workshop Establishment,,,,,2059 80 105 AD 30000
+301,Salaries,,,,"6,00,02",2059 80 105 AD 30100
+01,Pay,,,,"5,33,44",2059 80 105 AD 30101
+02,Medical Allowance,,,,"3,05",2059 80 105 AD 30102
+03,Medical Charges,,,,77,2059 80 105 AD 30103
+04,Other Allowances,,,,"6,50",2059 80 105 AD 30104
+06,House Rent Allowance,,,,"45,28",2059 80 105 AD 30106
+07,Travel Concession,,,,55,2059 80 105 AD 30107
+08,City Compensatory Allowance,,,,"10,43",2059 80 105 AD 30108
+303,Dearness Allowance,,,,"1,61,77",2059 80 105 AD 30300
+01,Dearness Allowance,,,,"1,61,77",2059 80 105 AD 30301
+304,Travel Expenses,,,,"7,62",2059 80 105 AD 30400
+01,Tour Travelling Allowances,,,,"7,43",2059 80 105 AD 30401
+02,Transfer Travelling Allowances,,,,19,2059 80 105 AD 30402
+305,Office Expenses,,,,"22,83",2059 80 105 AD 30500
+01,Telephone Charges,,,,74,2059 80 105 AD 30501
+02,Other Contingencies,,,,"1,05",2059 80 105 AD 30502
+03,Electricity Charges,,,,"20,96",2059 80 105 AD 30503
+04,Service Postage & Postal Expenditure,,,,8,2059 80 105 AD 30504
+308,Advertising and Publicity,,,,,
+01,Advertisement Charges,,,,1,2059 80 105 AD 30801
+312,Scholarships and Stipends,,,,,
+09,Others,,,,"1,00",2059 80 105 AD 31209
+319,Machinery and Equipments,,,,"1,54",2059 80 105 AD 31900
+02,Renewal and Replacement,,,,52,2059 80 105 AD 31902
+03,Maintenance,,,,"1,02",2059 80 105 AD 31903
+321,Motor Vehicles,,,,"1,56",2059 80 105 AD 32100
+02,Maintenance of Functional Vehicles,,,,"1,56",2059 80 105 AD 32102
+332,Suspense,,,,,
+03,Stock - Debit,,,,"2,97",2059 80 105 AD 33203
+04,Stock - Credit,,,,"-2,97",2059 80 105 AD 33204
+05,Misc. P.W. Advances-Debit,,,,"2,21",2059 80 105 AD 33205
+06,Misc. P.W. Advances-Credit,,,,"-2,21",2059 80 105 AD 33206
+07,Workshop Suspense -,,,,"43,26",2059 80 105 AD 33207
+Debit,,,,,,
+08,Workshop Suspense-Credit,,,,"-43,26",2059 80 105 AD 33208
+333,Payments for Professional and Special,,,,,
+Services,,,,"3,40",2059 80 105 AD 33300,
+04,Contract Payment,,,,"3,40",2059 80 105 AD 33304
+345,"Petroleum, Oil and Lubricant",,,,,
+01,"Petroleum, Oil and Lubricant",,,,"2,18",2059 80 105 AD 34501
+346,"Clothing, Tentage and Stores",,,,85,2059 80 105 AD 34600
+01,"Clothing, Tentage and Stores",,,,85,2059 80 105 AD 34601
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,,,"3,90",2059 80 105 AD 34901
+02,Festival Advances-Credit,,,,"-3,90",2059 80 105 AD 34902
+351,Compensation Charged,,,,1,2059 80 105 AD 35100
+51,Claims under no fault liability -  principal charges Charged,,,,1,2059 80 105 AD 35151
+359,Prizes and Awards,,,,39,2059 80 105 AD 35900
+01,Prizes and Awards,,,,39,2059 80 105 AD 35901
+376,Computer and Accessories,,,,"2,56",2059 80 105 AD 37600
+02,Maintenance,,,,"2,02",2059 80 105 AD 37602
+03,Stationery,,,,54,2059 80 105 AD 37603
+AD,Total AD Charged,,,,1,
+AD,Total AD Voted,,,,"8,05,73",
+#,State's Expenditure Total Charged,,,,1,
+#,State's Expenditure Total Voted,,,"8,05,73",,
+105,Total 105 Charged,,,,1,
+105,Total 105 Voted,,,,"8,05,73",
+80,Total 80 Charged,,,,1,
+80,Total 80 Voted,,,,"8,05,73",
+2059,Total 2059,,,,,
+2215,WATER SUPPLY AND SANITATION,,,,,
+01,Water Supply,,,,,
+101,Urban water Supply Programmes,,,,,
+#,State's Expenditure,,,,,
+AO,Annual maintenance and repairs of City water supply sources,,,,,2215 01 101 AO 30000
+318,Maintenance,,,,"26,62",2215 01 101 AO 31800
+01,Periodical Maintenance,,,,"26,62",2215 01 101 AO 31801
+AO,Total AO,,,"26,62",,
+AQ,Water Supply to Chennai City from Krishna River,,,,,2215 01 101 AQ 30000
+301,Salaries,,,,"4,59,49",2215 01 101 AQ 30100
+01,Pay,,,,"4,07,53",2215 01 101 AQ 30101
+02,Medical Allowance,,,,"1,58",2215 01 101 AQ 30102
+03,Medical Charges,,,,51,2215 01 101 AQ 30103
+04,Other Allowances,,,,"4,16",2215 01 101 AQ 30104
+06,House Rent Allowance,,,,"39,12",2215 01 101 AQ 30106
+07,Travel Concession,,,,16,2215 01 101 AQ 30107
+08,City Compensatory Allowance,,,,"6,43",2215 01 101 AQ 30108
+303,Dearness Allowance,,,,"1,33,47",2215 01 101 AQ 30300
+01,Dearness Allowance,,,,"1,33,47",2215 01 101 AQ 30301
+304,Travel Expenses,,,,"15,68",2215 01 101 AQ 30400
+01,Tour Travelling Allowances,,,,"15,63",2215 01 101 AQ 30401
+02,Transfer Travelling Allowances,,,,5,2215 01 101 AQ 30402
+305,Office Expenses,,,,"8,12",2215 01 101 AQ 30500
+02,Other Contingencies,,,,37,2215 01 101 AQ 30502
+03,Electricity Charges,,,,"7,70",2215 01 101 AQ 30503
+04,Service Postage & Postal Expenditure,,,,5,2215 01 101 AQ 30504
+306,"Rent, Rates and Taxes",,,,"1,60",2215 01 101 AQ 30600
+02,Property tax,,,,"1,60",2215 01 101 AQ 30602
+318,Maintenance,,,,1,2215 01 101 AQ 31800
+02,Special Maintenance,,,,1,2215 01 101 AQ 31802
+319,Machinery and Equipments,,,,10,2215 01 101 AQ 31900
+03,Maintenance,,,,10,2215 01 101 AQ 31903
+321,Motor Vehicles,,,,"1,89",2215 01 101 AQ 32100
+02,Maintenance of Functional Vehicles,,,,"1,89",2215 01 101 AQ 32102
+333,Payments for Professional and SpecialServices,,,,"4,85",2215 01 101 AQ 33300
+04,Contract Payment,,,,"4,85",2215 01 101 AQ 33304
+345,"Petroleum, Oil and Lubricant",,,,"4,95",2215 01 101 AQ 34500
+01,"Petroleum, Oil and Lubricant",,,,"4,95",2215 01 101 AQ 34501
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,,,"4,35",2215 01 101 AQ 34901
+02,Festival Advances-Credit,,,,"-4,35",2215 01 101 AQ 34902
+359,Prizes and Awards,,,,2,2215 01 101 AQ 35900
+01,Prizes and Awards,,,,2,2215 01 101 AQ 35901
+376,Computer and Accessories,,,,34,2215 01 101 AQ 37600
+02,Maintenance,,,,20,2215 01 101 AQ 37602
+03,Stationery,,,,14,2215 01 101 AQ 37603
+AQ,Total AQ,,,,"6,30,52",
+AR,Water Supply to Chennai City Scheme,,,,,2215 01 101 AR 30000
+318,Maintenance,,,,"31,01",2215 01 101 AR 31800
+01,Periodical Maintenance,,,,"31,00",2215 01 101 AR 31801
+02,Special Maintenance,,,,1,2215 01 101 AR 31802
+AR,Total AR,,,,"31,01",
+JN,Capital Grant to Andhra Pradesh for Krishna Water Supply Project,,,,,2215 01 101 JN 30000
+309,Grants-in-Aid,,,,"100,00,00",2215 01 101 JN 30900
+03,Grants for Specific Schemes,,,,"100,00,00",2215 01 101 JN 30903
+JN,Total JN,,,,"100,00,00",
+KH,Payment of the Annual lease rent towards diversion of forest land for the Kannankottai - Thervaikandigai Reservoir Project,,,,,2215 01 101 KH 30000
+306,"Rent, Rates and Taxes",,,,"5,47",2215 01 101 KH 30600
+04,Lease for Land,,,,"5,47",2215 01 101 KH 30604
+KH,Total KH,,,,"5,47",
+#,State's Expenditure Total,,,,"106,93,62",
+101,Total 101,,,,"106,93,62",
+01,Total 01,,,,"106,93,62",
+2215,Total 2215,,,,"106,93,62",
+2700,MAJOR IRRIGATION,,,,,
+01,Cauvery Basin,,,,,
+001,Direction and Administration,,,,,
+#,Externally Aided Projects,,,,,
+PA,Mitigation  impact of Climate Change in Cauvery Delta Area under ADB assistance programme,,,,,2700 01 001 PA 30000
+302,Wages,,,,"1,10",2700 01 001 PA 30200
+01,Wages,,,,"1,10",2700 01 001 PA 30201
+305,Office Expenses,,,,"5,75",2700 01 001 PA 30500
+01,Telephone Charges,,,,"1,00",2700 01 001 PA 30501
+02,Other Contingencies,,,,"1,00",2700 01 001 PA 30502
+03,Electricity Charges,,,,"3,50",2700 01 001 PA 30503
+04,Service Postage & Postal Expenditure,,,,25,2700 01 001 PA 30504
+308,Advertising and Publicity,,,,,
+01,Advertisement Charges,,,,"6,50",2700 01 001 PA 30801
+313,Hospitality / Entertainment,,,,,
+Expenditure,,,,"5,00",2700 01 001 PA 31300,
+01,Hospitality / Entertainment Expenditure,,,,"5,00",2700 01 001 PA 31301
+317,Minor Works,,,,"3,00",2700 01 001 PA 31700
+01,Minor Works,,,,"3,00",2700 01 001 PA 31701
+319,Machinery and Equipments,,,,"1,00",2700 01 001 PA 31900
+03,Maintenance,,,,"1,00",2700 01 001 PA 31903
+321,Motor Vehicles,,,,"1,00",2700 01 001 PA 32100
+03,Hire Charges,,,,"1,00",2700 01 001 PA 32103
+333,Payments for Professional and Special,,,,,
+Services,,,,"33,00",2700 01 001 PA 33300,
+03,Special Service,,,,"1,00",2700 01 001 PA 33303
+04,Contract Payment,,,,"32,00",2700 01 001 PA 33304
+345,"Petroleum, Oil and Lubricant",,,,,
+01,"Petroleum, Oil and Lubricant",,,,"1,00",2700 01 001 PA 34501
+360,T.A./D.A.to Non-Official Members,,,,"1,00",2700 01 001 PA 36000
+01,T.A./D.A.to Non-Official Members,,,,"1,00",2700 01 001 PA 36001
+371,Printing Charges,,,,"1,00",2700 01 001 PA 37100
+01,Printing Charges,,,,"1,00",2700 01 001 PA 37101
+376,Computer and Accessories,,,,"4,00",2700 01 001 PA 37600
+02,Maintenance,,,,"2,00",2700 01 001 PA 37602
+03,Stationery,,,,"2,00",2700 01 001 PA 37603
+PA,Total PA,,,"63,35",,
+Externally Aided,,,,,,
+Projects Total,,,,"63,35",,
+001,Total 001,,,"63,35",,
+101,Maintenance and Repairs,,,,,
+#,State's Expenditure,,,,,
+AA,Cauvery Basin,,,,,2700 01 101 AA 30000
+305,Office Expenses,,,,"2,54,21",2700 01 101 AA 30500
+01,Telephone Charges,,,,"35,59",2700 01 101 AA 30501
+03,Electricity Charges,,,,"2,18,62",2700 01 101 AA 30503
+317,Minor Works,,,,"1,52,79",2700 01 101 AA 31700
+01,Minor Works,,,,"1,52,79",2700 01 101 AA 31701
+318,Maintenance,,,,"77,60,75",2700 01 101 AA 31800
+01,Periodical Maintenance,,,,"75,84,82",2700 01 101 AA 31801
+09,Others,,,,"1,75,93",2700 01 101 AA 31809
+AA,Total AA,,,"81,67,75",,
+AY,Pensionary Charges,,,,,2700 01 101 AY 30000
+327,Pensions,,,,"2,63,35",2700 01 101 AY 32700
+01,Basic Pension,,,,"2,63,35",2700 01 101 AY 32701
+AY,Total AY,,,"2,63,35",,
+#,State's Expenditure Total,,,,"84,31,10",
+101,Total 101,,,"84,31,10",,
+01,Total 01,,,"84,94,45",,
+02,Pennaiyar Basin,,,,,
+101,Maintenance and Repairs,,,,,
+#,State's Expenditure,,,,,
+AA,Pennaiyar Basin,,,,,2700 02 101 AA 30000
+305,Office Expenses,,,,"64,84",2700 02 101 AA 30500
+03,Electricity Charges,,,,"64,84",2700 02 101 AA 30503
+306,"Rent, Rates and Taxes",,,,"15,68",2700 02 101 AA 30600
+04,Lease for Land,,,,"15,68",2700 02 101 AA 30604
+318,Maintenance,,,,"5,24,64",2700 02 101 AA 31800
+01,Periodical Maintenance,,,,"5,24,64",2700 02 101 AA 31801
+AA,Total AA,,,,"6,05,16",
+AY,Pensionary Charges,,,,,2700 02 101 AY 30000
+327,Pensions,,,,"22,84",2700 02 101 AY 32700
+01,Basic Pension,,,,"22,84",2700 02 101 AY 32701
+AY,Total AY,,,,"22,84",
+#,State's Expenditure Total,,,,"6,28,00",
+101,Total 101,,,,"6,28,00",
+02,Total 02,,,,"6,28,00",
+03,Palar Basin,,,,,
+101,Maintenance and Repairs,,,,,
+#,State's Expenditure,,,,,
+AA,Palar Basin,,,,,2700 03 101 AA 30000
+305,Office Expenses,,,,"19,30",2700 03 101 AA 30500
+03,Electricity Charges,,,,"19,30",2700 03 101 AA 30503
+318,Maintenance,,,,"7,04,99",2700 03 101 AA 31800
+01,Periodical Maintenance,,,,"7,04,99",2700 03 101 AA 31801
+AA,Total AA,,,,"7,24,29",
+AY,Pensionary Charges,,,,,2700 03 101 AY 30000
+327,Pensions,,,,"21,82",2700 03 101 AY 32700
+01,Basic Pension,,,,"21,82",2700 03 101 AY 32701
+AY,Total AY,,,,"21,82",
+#,State's Expenditure Total,,,,"7,46,11",
+101,Total 101,,,,"7,46,11",
+03,Total 03,,,,"7,46,11",
+04,Vellar Basin,,,,,
+101,Maintenance and Repairs,,,,,
+#,State's Expenditure,,,,,
+AA,Vellar Basin,,,,,2700 04 101 AA 30000
+305,Office Expenses,,,,"10,84",2700 04 101 AA 30500
+03,Electricity Charges,,,,"10,84",2700 04 101 AA 30503
+318,Maintenance,,,,"4,52,85",2700 04 101 AA 31800
+01,Periodical Maintenance,,,,"4,52,85",2700 04 101 AA 31801
+AA,Total AA,,,,"4,63,69",
+AY,Pensionary Charges,,,,,2700 04 101 AY 30000
+327,Pensions,,,,"14,55",2700 04 101 AY 32700
+01,Basic Pension,,,,"14,55",2700 04 101 AY 32701
+AY,Total AY,,,,"14,55",
+#,State's Expenditure Total,,,,"4,78,24",
+101,Total 101,,,,"4,78,24",
+04,Total 04,,,,"4,78,24",
+05,Vaigai Basin,,,,,
+101,Maintenance and Repairs,,,,,
+#,State's Expenditure,,,,,
+AA,Vaigai Basin,,,,,2700 05 101 AA 30000
+305,Office Expenses,,,,"89,08",2700 05 101 AA 30500
+01,Telephone Charges,,,,60,2700 05 101 AA 30501
+03,Electricity Charges,,,,"88,48",2700 05 101 AA 30503
+318,Maintenance,,,,"23,64,12",2700 05 101 AA 31800
+01,Periodical Maintenance,,,,"23,30,84",2700 05 101 AA 31801
+09,Others,,,,"33,28",2700 05 101 AA 31809
+333,Payments for Professional and Special,,,,,
+Services,,,,"1,00",2700 05 101 AA 33300,
+01,Pleaders Fees,,,,"1,00",2700 05 101 AA 33301
+AA,Total AA,,,"24,54,20",,
+AY,Pensionary Charges,,,,,2700 05 101 AY 30000
+327,Pensions,,,,"71,42",2700 05 101 AY 32700
+01,Basic Pension,,,,"71,42",2700 05 101 AY 32701
+AY,Total AY,,,,"71,42",
+#,State's Expenditure Total,,,,"25,25,62",
+101,Total 101,,,"25,25,62",,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+AB,Lease amount payable to Kerala Government,,,,,2700 05 800 AB 30000
+342,Service or Commitment Charges,,,,,
+01,Service or Commitment Charges,,,,"2,58",2700 05 800 AB 34201
+AB,Total AB,,,"2,58",,
+#,State's Expenditure Total,,,,"2,58",
+800,Total 800,,,,"2,58",
+05,Total 05,,,,"25,28,20",
+80,General,,,,,
+001,Direction and Administration,,,,,
+#,State's Expenditure,,,,,
+AY,Pensionary Charges,,,,,2700 80 001 AY 30000
+327,Pensions,,,,"12,03",2700 80 001 AY 32700
+01,Basic Pension,,,,"12,03",2700 80 001 AY 32701
+AY,Total AY,,,,"12,03",
+#,State's Expenditure Total,,,,"12,03",
+001,Total 001,,,,"12,03",
+006,Consultancy,,,,,
+#,State's Expenditure,,,,,
+AA,"Preparation of Environmental impact Assessment report for Penniyar, Palar link in Vaniyampadi Taluk in Vellore District",,,,,2700 80 006 AA 30000
+333,Payments for Professional and Special Services,,,,"42,82",2700 80 006 AA 33300
+03,Special Service,,,,"42,82",2700 80 006 AA 33303
+AA,Total AA,,,,"42,82",
+AB,Preparation of DPR for extension of Canal from Manimuthar to Vaigai and Gundar,,,,,2700 80 006 AB 30000
+317,Minor Works,,,,1,2700 80 006 AB 31700
+01,Minor Works,,,,1,2700 80 006 AB 31701
+AB,Total AB,,,,1,
+AD,"Preparation of DPR, Rapid EIA, Tender Documents and Evaluation, Project Management Consultancy Service and Post Project Evaluation study for desilting of Vaigai, Pechipparai, Mettur, Amaravathy Reservoirs and Srivaikundam Anicut",,,,,2700 80 006 AD 30000
+333,Payments for Professional and Special Services,,,,"5,11,57",2700 80 006 AD 33300
+03,Special Service,,,,"5,11,57",2700 80 006 AD 33303
+AD,Total AD,,,,"5,11,57",
+AF,Pilot Studies on eco restoration of river and reservoirs,,,,,2700 80 006 AF 30000
+333,Payments for Professional and Special Services,,,,"22,63",2700 80 006 AF 33300
+03,Special Service,,,,"22,63",2700 80 006 AF 33303
+AF,Total AF,,,,"22,63",
+#,State's Expenditure Total,,,,"5,77,03",
+006,Total 006,,,,"5,77,03",
+80,Total 80,,,,"5,89,06",
+2700,Total 2700,,,,"134,64,06",
+2701,MEDIUM IRRIGATION,,,,,
+01,Thamiraparani Basin,,,,,
+101,Maintenance and Repairs,,,,,
+#,State's Expenditure,,,,,
+AE,Thamiraparani Basin,,,,,2701 01 101 AE 30000
+305,Office Expenses,,,,"23,71",2701 01 101 AE 30500
+01,Telephone Charges,,,,27,2701 01 101 AE 30501
+03,Electricity Charges,,,,"23,44",2701 01 101 AE 30503
+318,Maintenance,,,,"9,03,75",2701 01 101 AE 31800
+01,Periodical Maintenance,,,,"8,49,91",2701 01 101 AE 31801
+09,Others,,,,"53,84",2701 01 101 AE 31809
+AE,Total AE,,,,"9,27,46",
+AY,Pensionary Charges,,,,,2701 01 101 AY 30000
+327,Pensions,,,,"27,98",2701 01 101 AY 32700
+01,Basic Pension,,,,"27,98",2701 01 101 AY 32701
+AY,Total AY,,,,"27,98",
+#,State's Expenditure Total,,,,"9,55,44",
+101,Total 101,,,,"9,55,44",
+01,Total 01,,,,"9,55,44",
+02,Chennai Basin,,,,,
+101,Maintenance and Repairs,,,,,
+#,State's Expenditure,,,,,
+AA,Chennai Basin,,,,,2701 02 101 AA 30000
+305,Office Expenses,,,,"1,21",2701 02 101 AA 30500
+03,Electricity Charges,,,,"1,21",2701 02 101 AA 30503
+318,Maintenance,,,,"2,56,53",2701 02 101 AA 31800
+01,Periodical Maintenance,,,,"1,32,10",2701 02 101 AA 31801
+02,Special Maintenance,,,,"1,24,43",2701 02 101 AA 31802
+AA,Total AA,,,,"2,57,74",
+AY,Pensionary Charges,,,,,2701 02 101 AY 30000
+327,Pensions,,,,"4,08",2701 02 101 AY 32700
+01,Basic Pension,,,,"4,08",2701 02 101 AY 32701
+AY,Total AY,,,,"4,08",
+#,State's Expenditure Total,,,,"2,61,82",
+101,Total 101,,,,"2,61,82",
+02,Total 02,,,,"2,61,82",
+03,Vaippar Basin,,,,,
+101,Maintenance and Repairs,,,,,
+#,State's Expenditure,,,,,
+AD,Vaippar Basin,,,,,2701 03 101 AD 30000
+305,Office Expenses,,,,"7,66",2701 03 101 AD 30500
+01,Telephone Charges,,,,30,2701 03 101 AD 30501
+03,Electricity Charges,,,,"7,36",2701 03 101 AD 30503
+318,Maintenance,,,,"1,54,81",2701 03 101 AD 31800
+01,Periodical Maintenance,,,,"1,54,81",2701 03 101 AD 31801
+AD,Total AD,,,,"1,62,47",
+AY,Pensionary Charges,,,,,2701 03 101 AY 30000
+327,Pensions,,,,"4,97",2701 03 101 AY 32700
+01,Basic Pension,,,,"4,97",2701 03 101 AY 32701
+AY,Total AY,,,,"4,97",
+#,State's Expenditure Total,,,,"1,67,44",
+101,Total 101,,,,"1,67,44",
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+AY,Pensionary Charges,,,,,2701 03 911 AY 30000
+327,Pensions,,,,-12,2701 03 911 AY 32700
+01,Basic Pension,,,,-12,2701 03 911 AY 32701
+AY,Total AY,,,-12,,
+#,State's Expenditure Total,,,,-12,
+911,Total 911,,,-12,,
+03,Total 03,,,"1,67,32",,
+80,General,,,,,
+001,Direction and Administration,,,,,
+#,State's Expenditure,,,,,
+AA,Chief Engineer (Water Resources Department),,,,,2701 80 001 AA 30000
+301,Salaries,,,,"27,21,37",2701 80 001 AA 30100
+01,Pay,,,,"24,77,01",2701 80 001 AA 30101
+02,Medical Allowance,,,,"13,85",2701 80 001 AA 30102
+03,Medical Charges,,,,"2,25",2701 80 001 AA 30103
+04,Other Allowances,,,,"13,17",2701 80 001 AA 30104
+06,House Rent Allowance,,,,"1,83,24",2701 80 001 AA 30106
+07,Travel Concession,,,,"1,67",2701 80 001 AA 30107
+08,City Compensatory Allowance,,,,"30,18",2701 80 001 AA 30108
+303,Dearness Allowance,,,,"9,31,96",2701 80 001 AA 30300
+01,Dearness Allowance,,,,"9,31,96",2701 80 001 AA 30301
+304,Travel Expenses,,,,"29,15",2701 80 001 AA 30400
+01,Tour Travelling Allowances,,,,"27,85",2701 80 001 AA 30401
+02,Transfer Travelling Allowances,,,,"1,30",2701 80 001 AA 30402
+305,Office Expenses,,,,"37,10",2701 80 001 AA 30500
+01,Telephone Charges,,,,"5,48",2701 80 001 AA 30501
+02,Other Contingencies,,,,"11,50",2701 80 001 AA 30502
+03,Electricity Charges,,,,"16,52",2701 80 001 AA 30503
+04,Service Postage & Postal Expenditure,,,,"3,60",2701 80 001 AA 30504
+313,Hospitality / Entertainment,,,,,
+Expenditure,,,,75,2701 80 001 AA 31300,
+01,Hospitality / Entertainment Expenditure,,,,75,2701 80 001 AA 31301
+319,Machinery and Equipments,,,,"10,00",2701 80 001 AA 31900
+03,Maintenance,,,,"10,00",2701 80 001 AA 31903
+333,Payments for Professional and Special,,,,,
+Services,,,,"13,46",2701 80 001 AA 33300,
+01,Pleaders Fees,,,,50,2701 80 001 AA 33301
+04,Contract Payment,,,,"12,96",2701 80 001 AA 33304
+334,Other Charges,,,,1,2701 80 001 AA 33400
+02,"Purchase  of  Books & Periodicals to Libraries etc.,",,,,1,2701 80 001 AA 33402
+346,"Clothing, Tentage and Stores",,,,,
+01,"Clothing, Tentage and Stores",,,,1,2701 80 001 AA 34601
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,,,"44,15",2701 80 001 AA 34901
+02,Festival Advances-Credit,,,,"-44,15",2701 80 001 AA 34902
+359,Prizes and Awards,,,,54,2701 80 001 AA 35900
+01,Prizes and Awards,,,,54,2701 80 001 AA 35901
+372,Training,,,,1,2701 80 001 AA 37200
+01,Training,,,,1,2701 80 001 AA 37201
+376,Computer and Accessories,,,,"24,46",2701 80 001 AA 37600
+02,Maintenance,,,,"13,13",2701 80 001 AA 37602
+03,Stationery,,,,"11,33",2701 80 001 AA 37603
+AA,Total AA,,,"37,68,82",,
+AB,Cauvery Technical Cell,,,,,2701 80 001 AB 30000
+301,Salaries,,,,"1,63,09",2701 80 001 AB 30100
+01,Pay,,,,"1,27,11",2701 80 001 AB 30101
+02,Medical Allowance,,,,58,2701 80 001 AB 30102
+03,Medical Charges,,,,4,2701 80 001 AB 30103
+04,Other Allowances,,,,90,2701 80 001 AB 30104
+06,House Rent Allowance,,,,"7,51",2701 80 001 AB 30106
+07,Travel Concession,,,,7,2701 80 001 AB 30107
+08,City Compensatory Allowance,,,,"1,88",2701 80 001 AB 30108
+09,Honorarium,,,,"25,00",2701 80 001 AB 30109
+303,Dearness Allowance,,,,"76,97",2701 80 001 AB 30300
+01,Dearness Allowance,,,,"76,97",2701 80 001 AB 30301
+304,Travel Expenses,,,,"6,00",2701 80 001 AB 30400
+01,Tour Travelling Allowances,,,,"5,89",2701 80 001 AB 30401
+02,Transfer Travelling Allowances,,,,11,2701 80 001 AB 30402
+305,Office Expenses,,,,"9,54",2701 80 001 AB 30500
+01,Telephone Charges,,,,"1,30",2701 80 001 AB 30501
+02,Other Contingencies,,,,"5,08",2701 80 001 AB 30502
+03,Electricity Charges,,,,"3,02",2701 80 001 AB 30503
+04,Service Postage & Postal Expenditure,,,,14,2701 80 001 AB 30504
+319,Machinery and Equipments,,,,"1,16",2701 80 001 AB 31900
+01,Purchase,,,,1,2701 80 001 AB 31901
+03,Maintenance,,,,"1,15",2701 80 001 AB 31903
+320,Tools and Plant,,,,1,2701 80 001 AB 32000
+02,Renewal and Replacement,,,,1,2701 80 001 AB 32002
+321,Motor Vehicles,,,,"1,48",2701 80 001 AB 32100
+01,Purchase,,,,1,2701 80 001 AB 32101
+02,Maintenance of Functional Vehicles,,,,"1,47",2701 80 001 AB 32102
+333,Payments for Professional and Special,,,,,
+Services,,,,"21,20",2701 80 001 AB 33300,
+03,Special Service,,,,"14,55",2701 80 001 AB 33303
+04,Contract Payment,,,,"6,65",2701 80 001 AB 33304
+345,"Petroleum, Oil and Lubricant",,,,,
+01,"Petroleum, Oil and Lubricant",,,,"4,32",2701 80 001 AB 34501
+346,"Clothing, Tentage and Stores",,,,,
+01,"Clothing, Tentage and Stores",,,,13,2701 80 001 AB 34601
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,,,"2,30",2701 80 001 AB 34901
+02,Festival Advances-Credit,,,,"-2,30",2701 80 001 AB 34902
+359,Prizes and Awards,,,,2,2701 80 001 AB 35900
+01,Prizes and Awards,,,,2,2701 80 001 AB 35901
+376,Computer and Accessories,,,,"1,79",2701 80 001 AB 37600
+01,Purchase,,,,1,2701 80 001 AB 37601
+02,Maintenance,,,,86,2701 80 001 AB 37602
+03,Stationery,,,,92,2701 80 001 AB 37603
+AB,Total AB,,,"2,85,71",,
+AC,Superintending Engineers (Territorial) Circles under Water Resources Department,,,,,2701 80 001 AC 30000
+301,Salaries,,,,"19,08,21",2701 80 001 AC 30100
+01,Pay,,,,"17,98,82",2701 80 001 AC 30101
+02,Medical Allowance,,,,"8,06",2701 80 001 AC 30102
+03,Medical Charges,,,,"1,05",2701 80 001 AC 30103
+04,Other Allowances,,,,"9,99",2701 80 001 AC 30104
+06,House Rent Allowance,,,,"80,28",2701 80 001 AC 30106
+07,Travel Concession,,,,"1,29",2701 80 001 AC 30107
+08,City Compensatory Allowance,,,,"8,72",2701 80 001 AC 30108
+303,Dearness Allowance,,,,"5,07,17",2701 80 001 AC 30300
+01,Dearness Allowance,,,,"5,07,17",2701 80 001 AC 30301
+304,Travel Expenses,,,,"29,07",2701 80 001 AC 30400
+01,Tour Travelling Allowances,,,,"27,86",2701 80 001 AC 30401
+02,Transfer Travelling Allowances,,,,"1,21",2701 80 001 AC 30402
+305,Office Expenses,,,,"31,83",2701 80 001 AC 30500
+01,Telephone Charges,,,,"6,31",2701 80 001 AC 30501
+02,Other Contingencies,,,,"3,84",2701 80 001 AC 30502
+03,Electricity Charges,,,,"19,77",2701 80 001 AC 30503
+04,Service Postage & Postal Expenditure,,,,"1,91",2701 80 001 AC 30504
+319,Machinery and Equipments,,,,"4,02",2701 80 001 AC 31900
+03,Maintenance,,,,"4,02",2701 80 001 AC 31903
+321,Motor Vehicles,,,,50,2701 80 001 AC 32100
+02,Maintenance of Functional Vehicles,,,,50,2701 80 001 AC 32102
+333,Payments for Professional and Special,,,,,
+Services,,,,"4,54",2701 80 001 AC 33300,
+04,Contract Payment,,,,"4,54",2701 80 001 AC 33304
+345,"Petroleum, Oil and Lubricant",,,,,
+01,"Petroleum, Oil and Lubricant",,,,"2,10",2701 80 001 AC 34501
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,,,"32,35",2701 80 001 AC 34901
+02,Festival Advances-Credit,,,,"-32,35",2701 80 001 AC 34902
+359,Prizes and Awards,,,,65,2701 80 001 AC 35900
+01,Prizes and Awards,,,,65,2701 80 001 AC 35901
+376,Computer and Accessories,,,,"6,69",2701 80 001 AC 37600
+02,Maintenance,,,,"3,87",2701 80 001 AC 37602
+03,Stationery,,,,"2,82",2701 80 001 AC 37603
+AC,Total AC,,,"24,94,78",,
+AD,Superintending Engineers (Functional) Circles under Water Resources Department,,,,,2701 80 001 AD 30000
+301,Salaries,,,,"1,88,93",2701 80 001 AD 30100
+01,Pay,,,,"1,71,04",2701 80 001 AD 30101
+02,Medical Allowance,,,,53,2701 80 001 AD 30102
+03,Medical Charges,,,,23,2701 80 001 AD 30103
+04,Other Allowances,,,,95,2701 80 001 AD 30104
+06,House Rent Allowance,,,,"13,77",2701 80 001 AD 30106
+07,Travel Concession,,,,23,2701 80 001 AD 30107
+08,City Compensatory Allowance,,,,"2,18",2701 80 001 AD 30108
+303,Dearness Allowance,,,,"93,96",2701 80 001 AD 30300
+01,Dearness Allowance,,,,"93,96",2701 80 001 AD 30301
+304,Travel Expenses,,,,"1,37",2701 80 001 AD 30400
+01,Tour Travelling Allowances,,,,"1,28",2701 80 001 AD 30401
+02,Transfer Travelling Allowances,,,,9,2701 80 001 AD 30402
+305,Office Expenses,,,,"4,58",2701 80 001 AD 30500
+01,Telephone Charges,,,,25,2701 80 001 AD 30501
+02,Other Contingencies,,,,25,2701 80 001 AD 30502
+03,Electricity Charges,,,,"4,00",2701 80 001 AD 30503
+04,Service Postage & Postal Expenditure,,,,8,2701 80 001 AD 30504
+319,Machinery and Equipments,,,,26,2701 80 001 AD 31900
+03,Maintenance,,,,26,2701 80 001 AD 31903
+334,Other Charges,,,,2,2701 80 001 AD 33400
+02,"Purchase  of  Books & Periodicals to Libraries etc.,",,,,2,2701 80 001 AD 33402
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,,,"1,05",2701 80 001 AD 34901
+02,Festival Advances-Credit,,,,"-1,05",2701 80 001 AD 34902
+359,Prizes and Awards,,,,2,2701 80 001 AD 35900
+01,Prizes and Awards,,,,2,2701 80 001 AD 35901
+376,Computer and Accessories,,,,"1,12",2701 80 001 AD 37600
+02,Maintenance,,,,65,2701 80 001 AD 37602
+03,Stationery,,,,47,2701 80 001 AD 37603
+AD,Total AD,,,,"2,90,26",
+AF,Executive Establishment (Territorial) Divisions under Water Resources Department,,,,,2701 80 001 AF 30000
+301,Salaries,,,,"178,82,28",2701 80 001 AF 30100
+01,Pay,,,,"167,89,14",2701 80 001 AF 30101
+02,Medical Allowance,,,,"1,00,96",2701 80 001 AF 30102
+03,Medical Charges,,,,"5,47",2701 80 001 AF 30103
+04,Other Allowances,,,,"1,43,94",2701 80 001 AF 30104
+06,House Rent Allowance,,,,"7,90,98",2701 80 001 AF 30106
+07,Travel Concession,,,,"12,93",2701 80 001 AF 30107
+08,City Compensatory Allowance,,,,"38,86",2701 80 001 AF 30108
+303,Dearness Allowance,,,,"63,85,85",2701 80 001 AF 30300
+01,Dearness Allowance,,,,"63,85,85",2701 80 001 AF 30301
+304,Travel Expenses,,,,"6,80,66",2701 80 001 AF 30400
+01,Tour Travelling Allowances,,,,"6,73,39",2701 80 001 AF 30401
+02,Transfer Travelling Allowances,,,,"4,13",2701 80 001 AF 30402
+03,Fixed Travelling Allowances,,,,"3,14",2701 80 001 AF 30403
+305,Office Expenses,,,,"2,11,01",2701 80 001 AF 30500
+01,Telephone Charges,,,,"38,19",2701 80 001 AF 30501
+02,Other Contingencies,,,,"36,04",2701 80 001 AF 30502
+03,Electricity Charges,,,,"1,28,63",2701 80 001 AF 30503
+04,Service Postage & Postal Expenditure,,,,"8,15",2701 80 001 AF 30504
+306,"Rent, Rates and Taxes",,,,"1,18,13",2701 80 001 AF 30600
+01,Rent,,,,"3,44",2701 80 001 AF 30601
+02,Property tax,,,,"1,12,34",2701 80 001 AF 30602
+03,Water Charges,,,,"2,35",2701 80 001 AF 30603
+308,Advertising and Publicity,,,,70,2701 80 001 AF 30800
+02,Exhibition,,,,70,2701 80 001 AF 30802
+313,Hospitality / Entertainment,,,,,
+Expenditure,,,,"1,75",2701 80 001 AF 31300,
+01,Hospitality / Entertainment Expenditure,,,,"1,75",2701 80 001 AF 31301
+319,Machinery and Equipments,,,,"10,85",2701 80 001 AF 31900
+03,Maintenance,,,,"10,85",2701 80 001 AF 31903
+321,Motor Vehicles,,,,"1,02,57",2701 80 001 AF 32100
+02,Maintenance of Functional Vehicles,,,,"1,02,57",2701 80 001 AF 32102
+333,Payments for Professional and Special Services,,,,"43,84,04",2701 80 001 AF 33300
+01,Pleaders Fees,,,,"30,00",2701 80 001 AF 33301
+04,Contract Payment,,,,"43,54,04",2701 80 001 AF 33304
+345,"Petroleum, Oil and,Lubricant",,,,"2,80,43",2701 80 001 AF 34500
+01,"Petroleum, Oil and Lubricant",,,,"2,80,43",2701 80 001 AF 34501
+346,"Clothing, Tentage and ,Stores",,,,"3,00",2701 80 001 AF 34600
+01,"Clothing, Tentage and Stores",,,,"3,00",2701 80 001 AF 34601
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,,,"2,98,80",2701 80 001 AF 34901
+02,Festival Advances-Credit,,,,"-2,98,80",2701 80 001 AF 34902
+351,Compensation Charged,,,,1,2701 80 001 AF 35100
+52,Other Compensations Charged,,,,1,2701 80 001 AF 35152
+359,Prizes and Awards,,,,"3,62",2701 80 001 AF 35900
+01,Prizes and Awards,,,,"3,62",2701 80 001 AF 35901
+371,Printing Charges,,,,"1,25",2701 80 001 AF 37100
+01,Printing Charges,,,,"1,25",2701 80 001 AF 37101
+376,Computer and Accessories,,,,"51,78",2701 80 001 AF 37600
+02,Maintenance,,,,"31,70",2701 80 001 AF 37602
+03,Stationery,,,,"20,08",2701 80 001 AF 37603
+AF,Total AF Charged,,,,1,
+AF,Total AF Voted,,,,"301,17,92",
+AG,Executive Establishment (Functional) Divisions under Water Resources Department,,,,,2701 80 001 AG 30000
+301,Salaries,,,,"4,38,05",2701 80 001 AG 30100
+01,Pay,,,,"3,93,23",2701 80 001 AG 30101
+02,Medical Allowance,,,,"2,03",2701 80 001 AG 30102
+03,Medical Charges,,,,36,2701 80 001 AG 30103
+04,Other Allowances,,,,"1,57",2701 80 001 AG 30104
+06,House Rent Allowance,,,,"34,99",2701 80 001 AG 30106
+07,Travel Concession,,,,42,2701 80 001 AG 30107
+08,City Compensatory Allowance,,,,"5,45",2701 80 001 AG 30108
+303,Dearness Allowance,,,,"2,45,52",2701 80 001 AG 30300
+01,Dearness Allowance,,,,"2,45,52",2701 80 001 AG 30301
+304,Travel Expenses,,,,"4,55",2701 80 001 AG 30400
+01,Tour Travelling Allowances,,,,"4,53",2701 80 001 AG 30401
+02,Transfer Travelling Allowances,,,,2,2701 80 001 AG 30402
+305,Office Expenses,,,,"4,78",2701 80 001 AG 30500
+01,Telephone Charges,,,,41,2701 80 001 AG 30501
+02,Other Contingencies,,,,"1,30",2701 80 001 AG 30502
+03,Electricity Charges,,,,"2,98",2701 80 001 AG 30503
+04,Service Postage & Postal Expenditure,,,,9,2701 80 001 AG 30504
+319,Machinery and Equipments,,,,"4,15",2701 80 001 AG 31900
+03,Maintenance,,,,"4,15",2701 80 001 AG 31903
+320,Tools and Plant,,,,6,2701 80 001 AG 32000
+03,Maintenance,,,,6,2701 80 001 AG 32003
+321,Motor Vehicles,,,,"2,51",2701 80 001 AG 32100
+02,Maintenance of Functional Vehicles,,,,"2,51",2701 80 001 AG 32102
+324,Materials and Supplies,,,,83,2701 80 001 AG 32400
+01,Materials and Supplies,,,,83,2701 80 001 AG 32401
+333,Payments for Professional and Special,,,,,
+Services,,,,"1,03",2701 80 001 AG 33300,
+04,Contract Payment,,,,"1,03",2701 80 001 AG 33304
+334,Other Charges,,,,9,2701 80 001 AG 33400
+02,"Purchase  of  Books & Periodicals to Libraries etc.,",,,,9,2701 80 001 AG 33402
+345,"Petroleum, Oil and Lubricant",,,,,
+01,"Petroleum, Oil and Lubricant",,,,"5,04",2701 80 001 AG 34501
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,,,"7,45",2701 80 001 AG 34901
+02,Festival Advances-Credit,,,,"-7,45",2701 80 001 AG 34902
+359,Prizes and Awards,,,,2,2701 80 001 AG 35900
+01,Prizes and Awards,,,,2,2701 80 001 AG 35901
+376,Computer and Accessories,,,,"1,66",2701 80 001 AG 37600
+02,Maintenance,,,,"1,12",2701 80 001 AG 37602
+03,Stationery,,,,54,2701 80 001 AG 37603
+AG,Total AG,,,"7,08,29",,
+AH,Executive Establishment - Special Division under WRD,,,,,2701 80 001 AH 30000
+301,Salaries,,,,"35,89,60",2701 80 001 AH 30100
+01,Pay,,,,"33,98,91",2701 80 001 AH 30101
+02,Medical Allowance,,,,"23,42",2701 80 001 AH 30102
+03,Medical Charges,,,,"1,98",2701 80 001 AH 30103
+04,Other Allowances,,,,"25,32",2701 80 001 AH 30104
+06,House Rent Allowance,,,,"1,25,35",2701 80 001 AH 30106
+07,Travel Concession,,,,"2,04",2701 80 001 AH 30107
+08,City Compensatory Allowance,,,,"12,58",2701 80 001 AH 30108
+303,Dearness Allowance,,,,"15,21,62",2701 80 001 AH 30300
+01,Dearness Allowance,,,,"15,21,62",2701 80 001 AH 30301
+304,Travel Expenses,,,,"1,33,85",2701 80 001 AH 30400
+01,Tour Travelling Allowances,,,,"1,30,60",2701 80 001 AH 30401
+02,Transfer Travelling Allowances,,,,"2,53",2701 80 001 AH 30402
+03,Fixed Travelling Allowances,,,,72,2701 80 001 AH 30403
+305,Office Expenses,,,,"32,78",2701 80 001 AH 30500
+01,Telephone Charges,,,,"4,76",2701 80 001 AH 30501
+02,Other Contingencies,,,,"12,20",2701 80 001 AH 30502
+03,Electricity Charges,,,,"14,11",2701 80 001 AH 30503
+04,Service Postage & Postal Expenditure,,,,"1,71",2701 80 001 AH 30504
+306,"Rent, Rates and Taxes",,,,"42,26",2701 80 001 AH 30600
+01,Rent,,,,"32,44",2701 80 001 AH 30601
+02,Property tax,,,,"9,74",2701 80 001 AH 30602
+03,Water Charges,,,,8,2701 80 001 AH 30603
+319,Machinery and Equipments,,,,"8,29",2701 80 001 AH 31900
+03,Maintenance,,,,"8,29",2701 80 001 AH 31903
+320,Tools and Plant,,,,5,2701 80 001 AH 32000
+03,Maintenance,,,,5,2701 80 001 AH 32003
+321,Motor Vehicles,,,,"32,63",2701 80 001 AH 32100
+02,Maintenance of Functional Vehicles,,,,"32,63",2701 80 001 AH 32102
+333,Payments for Professional and Special,,,,,
+Services,,,,"1,63,36",2701 80 001 AH 33300,
+01,Pleaders Fees,,,,"15,00",2701 80 001 AH 33301
+04,Contract Payment,,,,"1,48,36",2701 80 001 AH 33304
+345,"Petroleum, Oil and Lubricant",,,,,
+01,"Petroleum, Oil and Lubricant",,,,"84,66",2701 80 001 AH 34501
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,,,"54,25",2701 80 001 AH 34901
+02,Festival Advances-Credit,,,,"-54,25",2701 80 001 AH 34902
+359,Prizes and Awards,,,,46,2701 80 001 AH 35900
+01,Prizes and Awards,,,,46,2701 80 001 AH 35901
+376,Computer and Accessories,,,,"10,48",2701 80 001 AH 37600
+02,Maintenance,,,,"6,12",2701 80 001 AH 37602
+03,Stationery,,,,"4,36",2701 80 001 AH 37603
+AH,Total AH,,,"56,20,04",,
+AI,Settlement of Air Travel expenses incurred by the user department under the control of Engineer-in-Chief,,,,,2701 80 001 AI 30000
+304,Travel Expenses,,,,"1,32,66",2701 80 001 AI 30400
+01,Tour Travelling Allowances,,,,"1,32,66",2701 80 001 AI 30401
+AI,Total AI,,,"1,32,66",,
+AK,Superintending Engineer - Special Circle under WRD,,,,,2701 80 001 AK 30000
+301,Salaries,,,,"3,69,78",2701 80 001 AK 30100
+01,Pay,,,,"3,43,09",2701 80 001 AK 30101
+02,Medical Allowance,,,,"1,76",2701 80 001 AK 30102
+03,Medical Charges,,,,67,2701 80 001 AK 30103
+04,Other Allowances,,,,"2,71",2701 80 001 AK 30104
+06,House Rent Allowance,,,,"16,52",2701 80 001 AK 30106
+07,Travel Concession,,,,31,2701 80 001 AK 30107
+08,City Compensatory Allowance,,,,"4,72",2701 80 001 AK 30108
+303,Dearness Allowance,,,,"76,58",2701 80 001 AK 30300
+01,Dearness Allowance,,,,"76,58",2701 80 001 AK 30301
+304,Travel Expenses,,,,"10,63",2701 80 001 AK 30400
+01,Tour Travelling Allowances,,,,"10,14",2701 80 001 AK 30401
+02,Transfer Travelling Allowances,,,,49,2701 80 001 AK 30402
+305,Office Expenses,,,,"7,94",2701 80 001 AK 30500
+01,Telephone Charges,,,,"1,03",2701 80 001 AK 30501
+02,Other Contingencies,,,,"2,14",2701 80 001 AK 30502
+03,Electricity Charges,,,,"4,32",2701 80 001 AK 30503
+04,Service Postage & Postal Expenditure,,,,45,2701 80 001 AK 30504
+319,Machinery and Equipments,,,,99,2701 80 001 AK 31900
+03,Maintenance,,,,99,2701 80 001 AK 31903
+320,Tools and Plant,,,,2,2701 80 001 AK 32000
+03,Maintenance,,,,2,2701 80 001 AK 32003
+321,Motor Vehicles,,,,"1,22",2701 80 001 AK 32100
+02,Maintenance of Functional Vehicles,,,,"1,22",2701 80 001 AK 32102
+333,Payments for Professional and Special,,,,,
+Services,,,,"1,08",2701 80 001 AK 33300,
+04,Contract Payment,,,,"1,08",2701 80 001 AK 33304
+345,"Petroleum, Oil and Lubricant",,,,,
+01,"Petroleum, Oil and Lubricant",,,,"4,17",2701 80 001 AK 34501
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,,,"5,60",2701 80 001 AK 34901
+02,Festival Advances-Credit,,,,"-5,60",2701 80 001 AK 34902
+359,Prizes and Awards,,,,2,2701 80 001 AK 35900
+01,Prizes and Awards,,,,2,2701 80 001 AK 35901
+376,Computer and Accessories,,,,"2,38",2701 80 001 AK 37600
+02,Maintenance,,,,"1,30",2701 80 001 AK 37602
+03,Stationery,,,,"1,08",2701 80 001 AK 37603
+AK,Total AK,,,"4,74,81",,
+AL,Deduct - Establishment Charges transferred on prorata basis to various revenue major heads,,,,,2701 80 001 AL 30000
+330,Inter-Account Transfers,,,,"-172,37,50",2701 80 001 AL 33000
+01,Inter-Account Transfers,,,,"-172,37,50",2701 80 001 AL 33001
+AL,Total AL,,,"-172,37,50",,
+AM,Investigation projects,,,,,2701 80 001 AM 30000
+301,Salaries,,,,"15,24,02",2701 80 001 AM 30100
+01,Pay,,,,"14,09,00",2701 80 001 AM 30101
+02,Medical Allowance,,,,"8,31",2701 80 001 AM 30102
+03,Medical Charges,,,,62,2701 80 001 AM 30103
+04,Other Allowances,,,,"47,42",2701 80 001 AM 30104
+06,House Rent Allowance,,,,"52,65",2701 80 001 AM 30106
+07,Travel Concession,,,,88,2701 80 001 AM 30107
+08,City Compensatory Allowance,,,,"5,14",2701 80 001 AM 30108
+303,Dearness Allowance,,,,"8,64,26",2701 80 001 AM 30300
+01,Dearness Allowance,,,,"8,64,26",2701 80 001 AM 30301
+304,Travel Expenses,,,,"56,27",2701 80 001 AM 30400
+01,Tour Travelling Allowances,,,,"55,30",2701 80 001 AM 30401
+02,Transfer Travelling Allowances,,,,97,2701 80 001 AM 30402
+305,Office Expenses,,,,"14,89",2701 80 001 AM 30500
+01,Telephone Charges,,,,"2,42",2701 80 001 AM 30501
+02,Other Contingencies,,,,"2,85",2701 80 001 AM 30502
+03,Electricity Charges,,,,"8,58",2701 80 001 AM 30503
+04,Service Postage & Postal Expenditure,,,,"1,04",2701 80 001 AM 30504
+306,"Rent, Rates and Taxes",,,,"9,78",2701 80 001 AM 30600
+02,Property tax,,,,"9,78",2701 80 001 AM 30602
+319,Machinery and Equipments,,,,"1,66",2701 80 001 AM 31900
+03,Maintenance,,,,"1,66",2701 80 001 AM 31903
+321,Motor Vehicles,,,,"12,58",2701 80 001 AM 32100
+02,Maintenance of Functional Vehicles,,,,"12,58",2701 80 001 AM 32102
+333,Payments for Professional and Special,,,,,
+Services,,,,"79,78",2701 80 001 AM 33300,
+04,Contract Payment,,,,"79,78",2701 80 001 AM 33304
+345,"Petroleum, Oil and Lubricant",,,,,
+01,"Petroleum, Oil and Lubricant",,,,"43,99",2701 80 001 AM 34501
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,,,"30,80",2701 80 001 AM 34901
+02,Festival Advances-Credit,,,,"-30,80",2701 80 001 AM 34902
+359,Prizes and Awards,,,,35,2701 80 001 AM 35900
+01,Prizes and Awards,,,,35,2701 80 001 AM 35901
+376,Computer and Accessories,,,,"3,44",2701 80 001 AM 37600
+02,Maintenance,,,,"2,16",2701 80 001 AM 37602
+03,Stationery,,,,"1,28",2701 80 001 AM 37603
+AM,Total AM,,,"26,11,02",,
+AN,State Dam Safety Directorate,,,,,2701 80 001 AN 30000
+301,Salaries,,,,"2,14,67",2701 80 001 AN 30100
+01,Pay,,,,"1,92,41",2701 80 001 AN 30101
+02,Medical Allowance,,,,63,2701 80 001 AN 30102
+03,Medical Charges,,,,9,2701 80 001 AN 30103
+04,Other Allowances,,,,97,2701 80 001 AN 30104
+06,House Rent Allowance,,,,"17,99",2701 80 001 AN 30106
+07,Travel Concession,,,,2,2701 80 001 AN 30107
+08,City Compensatory Allowance,,,,"2,56",2701 80 001 AN 30108
+303,Dearness Allowance,,,,"50,79",2701 80 001 AN 30300
+01,Dearness Allowance,,,,"50,79",2701 80 001 AN 30301
+304,Travel Expenses,,,,"1,47",2701 80 001 AN 30400
+01,Tour Travelling Allowances,,,,"1,41",2701 80 001 AN 30401
+02,Transfer Travelling Allowances,,,,6,2701 80 001 AN 30402
+305,Office Expenses,,,,"11,13",2701 80 001 AN 30500
+01,Telephone Charges,,,,28,2701 80 001 AN 30501
+02,Other Contingencies,,,,32,2701 80 001 AN 30502
+03,Electricity Charges,,,,"10,48",2701 80 001 AN 30503
+04,Service Postage & Postal Expenditure,,,,5,2701 80 001 AN 30504
+319,Machinery and Equipments,,,,18,2701 80 001 AN 31900
+03,Maintenance,,,,18,2701 80 001 AN 31903
+321,Motor Vehicles,,,,78,2701 80 001 AN 32100
+02,Maintenance of Functional Vehicles,,,,78,2701 80 001 AN 32102
+333,Payments for Professional and Special,,,,,
+Services,,,,"1,08",2701 80 001 AN 33300,
+04,Contract Payment,,,,"1,08",2701 80 001 AN 33304
+345,"Petroleum, Oil and Lubricant",,,,,
+01,"Petroleum, Oil and Lubricant",,,,"2,45",2701 80 001 AN 34501
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,,,"1,00",2701 80 001 AN 34901
+02,Festival Advances-Credit,,,,"-1,00",2701 80 001 AN 34902
+359,Prizes and Awards,,,,4,2701 80 001 AN 35900
+01,Prizes and Awards,,,,4,2701 80 001 AN 35901
+376,Computer and Accessories,,,,55,2701 80 001 AN 37600
+02,Maintenance,,,,29,2701 80 001 AN 37602
+03,Stationery,,,,26,2701 80 001 AN 37603
+AN,Total AN,,,"2,83,14",,
+AO,Environmental Action Plan under WRD,,,,,2701 80 001 AO 30000
+301,Salaries,,,,"3,49,81",2701 80 001 AO 30100
+01,Pay,,,,"3,21,95",2701 80 001 AO 30101
+02,Medical Allowance,,,,"1,87",2701 80 001 AO 30102
+03,Medical Charges,,,,34,2701 80 001 AO 30103
+04,Other Allowances,,,,"1,76",2701 80 001 AO 30104
+06,House Rent Allowance,,,,"20,21",2701 80 001 AO 30106
+07,Travel Concession,,,,43,2701 80 001 AO 30107
+08,City Compensatory Allowance,,,,"3,25",2701 80 001 AO 30108
+303,Dearness Allowance,,,,"2,09,88",2701 80 001 AO 30300
+01,Dearness Allowance,,,,"2,09,88",2701 80 001 AO 30301
+304,Travel Expenses,,,,"15,37",2701 80 001 AO 30400
+01,Tour Travelling Allowances,,,,"15,00",2701 80 001 AO 30401
+02,Transfer Travelling Allowances,,,,37,2701 80 001 AO 30402
+305,Office Expenses,,,,"3,14",2701 80 001 AO 30500
+01,Telephone Charges,,,,88,2701 80 001 AO 30501
+02,Other Contingencies,,,,81,2701 80 001 AO 30502
+03,Electricity Charges,,,,"1,20",2701 80 001 AO 30503
+04,Service Postage & Postal Expenditure,,,,25,2701 80 001 AO 30504
+306,"Rent, Rates and Taxes",,,,87,2701 80 001 AO 30600
+01,Rent,,,,87,2701 80 001 AO 30601
+319,Machinery and Equipments,,,,55,2701 80 001 AO 31900
+03,Maintenance,,,,55,2701 80 001 AO 31903
+321,Motor Vehicles,,,,"2,13",2701 80 001 AO 32100
+02,Maintenance of Functional Vehicles,,,,"2,13",2701 80 001 AO 32102
+333,Payments for Professional and Special,,,,,
+Services,,,,"7,19",2701 80 001 AO 33300,
+04,Contract Payment,,,,"7,19",2701 80 001 AO 33304
+345,"Petroleum, Oil and Lubricant",,,,,
+01,"Petroleum, Oil and Lubricant",,,,"10,31",2701 80 001 AO 34501
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,,,"5,50",2701 80 001 AO 34901
+02,Festival Advances-Credit,,,,"-5,50",2701 80 001 AO 34902
+359,Prizes and Awards,,,,10,2701 80 001 AO 35900
+01,Prizes and Awards,,,,10,2701 80 001 AO 35901
+376,Computer and Accessories,,,,"1,00",2701 80 001 AO 37600
+02,Maintenance,,,,53,2701 80 001 AO 37602
+03,Stationery,,,,47,2701 80 001 AO 37603
+AO,Total AO,,,"6,00,35",,
+AT,Expenditure towards Sand Quarry operations,,,,,2701 80 001 AT 30000
+301,Salaries,,,,"68,05",2701 80 001 AT 30100
+01,Pay,,,,"61,02",2701 80 001 AT 30101
+02,Medical Allowance,,,,30,2701 80 001 AT 30102
+04,Other Allowances,,,,14,2701 80 001 AT 30104
+06,House Rent Allowance,,,,"5,68",2701 80 001 AT 30106
+07,Travel Concession,,,,3,2701 80 001 AT 30107
+08,City Compensatory Allowance,,,,88,2701 80 001 AT 30108
+302,Wages,,,,"98,06,58",2701 80 001 AT 30200
+01,Wages,,,,"98,06,58",2701 80 001 AT 30201
+303,Dearness Allowance,,,,"21,75",2701 80 001 AT 30300
+01,Dearness Allowance,,,,"21,75",2701 80 001 AT 30301
+304,Travel Expenses,,,,"2,19",2701 80 001 AT 30400
+01,Tour Travelling Allowances,,,,"2,08",2701 80 001 AT 30401
+02,Transfer Travelling Allowances,,,,11,2701 80 001 AT 30402
+305,Office Expenses,,,,"3,79",2701 80 001 AT 30500
+01,Telephone Charges,,,,60,2701 80 001 AT 30501
+02,Other Contingencies,,,,88,2701 80 001 AT 30502
+03,Electricity Charges,,,,"2,19",2701 80 001 AT 30503
+04,Service Postage & Postal Expenditure,,,,12,2701 80 001 AT 30504
+318,Maintenance,,,,1,2701 80 001 AT 31800
+01,Periodical Maintenance,,,,1,2701 80 001 AT 31801
+319,Machinery and Equipments,,,,26,2701 80 001 AT 31900
+03,Maintenance,,,,26,2701 80 001 AT 31903
+321,Motor Vehicles,,,,32,2701 80 001 AT 32100
+02,Maintenance of Functional Vehicles,,,,32,2701 80 001 AT 32102
+333,Payments for Professional and Special,,,,,
+Services,,,,"60,07",2701 80 001 AT 33300,
+01,Pleaders Fees,,,,"60,00",2701 80 001 AT 33301
+04,Contract Payment,,,,7,2701 80 001 AT 33304
+342,Service or Commitment Charges,,,,,
+01,Service or Commitment Charges,,,,1,2701 80 001 AT 34201
+345,"Petroleum, Oil and Lubricant",,,,,
+01,"Petroleum, Oil and Lubricant",,,,87,2701 80 001 AT 34501
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,,,90,2701 80 001 AT 34901
+02,Festival Advances-Credit,,,,-90,2701 80 001 AT 34902
+376,Computer and Accessories,,,,24,2701 80 001 AT 37600
+02,Maintenance,,,,8,2701 80 001 AT 37602
+03,Stationery,,,,16,2701 80 001 AT 37603
+AT,Total AT,,,"99,64,14",,
+JT,Tamil Nadu Water Resources Development Cell,,,,,2701 80 001 JT 30000
+301,Salaries,,,,"71,79",2701 80 001 JT 30100
+01,Pay,,,,"35,77",2701 80 001 JT 30101
+02,Medical Allowance,,,,18,2701 80 001 JT 30102
+04,Other Allowances,,,,3,2701 80 001 JT 30104
+06,House Rent Allowance,,,,"3,44",2701 80 001 JT 30106
+07,Travel Concession,,,,4,2701 80 001 JT 30107
+08,City Compensatory Allowance,,,,53,2701 80 001 JT 30108
+09,Honorarium,,,,"31,80",2701 80 001 JT 30109
+303,Dearness Allowance,,,,"13,33",2701 80 001 JT 30300
+01,Dearness Allowance,,,,"13,33",2701 80 001 JT 30301
+304,Travel Expenses,,,,95,2701 80 001 JT 30400
+01,Tour Travelling Allowances,,,,95,2701 80 001 JT 30401
+305,Office Expenses,,,,48,2701 80 001 JT 30500
+01,Telephone Charges,,,,15,2701 80 001 JT 30501
+02,Other Contingencies,,,,30,2701 80 001 JT 30502
+04,Service Postage & Postal Expenditure,,,,2,2701 80 001 JT 30504
+05,Furniture,,,,1,2701 80 001 JT 30505
+308,Advertising and Publicity,,,,,
+01,Advertisement Charges,,,,"3,00",2701 80 001 JT 30801
+313,Hospitality / Entertainment,,,,,
+Expenditure,,,,"3,00",2701 80 001 JT 31300,
+01,Hospitality / Entertainment Expenditure,,,,"3,00",2701 80 001 JT 31301
+317,Minor Works,,,,"3,00",2701 80 001 JT 31700
+01,Minor Works,,,,"3,00",2701 80 001 JT 31701
+319,Machinery and Equipments,,,,"2,50",2701 80 001 JT 31900
+01,Purchase,,,,"2,00",2701 80 001 JT 31901
+03,Maintenance,,,,50,2701 80 001 JT 31903
+321,Motor Vehicles,,,,"1,61",2701 80 001 JT 32100
+01,Purchase,,,,1,2701 80 001 JT 32101
+02,Maintenance of Functional Vehicles,,,,60,2701 80 001 JT 32102
+03,Hire Charges,,,,"1,00",2701 80 001 JT 32103
+333,Payments for Professional and Special,,,,,
+Services,,,,"26,15",2701 80 001 JT 33300,
+03,Special Service,,,,"10,00",2701 80 001 JT 33303
+04,Contract Payment,,,,"16,15",2701 80 001 JT 33304
+345,"Petroleum, Oil and Lubricant",,,,,
+01,"Petroleum, Oil and Lubricant",,,,"4,77",2701 80 001 JT 34501
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,,,30,2701 80 001 JT 34901
+02,Festival Advances-Credit,,,,-30,2701 80 001 JT 34902
+360,T.A./D.A.to Non-Official Members,,,,"7,00",2701 80 001 JT 36000
+01,T.A./D.A.to Non-Official Members,,,,"7,00",2701 80 001 JT 36001
+371,Printing Charges,,,,90,2701 80 001 JT 37100
+01,Printing Charges,,,,90,2701 80 001 JT 37101
+376,Computer and Accessories,,,,"2,75",2701 80 001 JT 37600
+01,Purchase,,,,"2,00",2701 80 001 JT 37601
+02,Maintenance,,,,50,2701 80 001 JT 37602
+03,Stationery,,,,25,2701 80 001 JT 37603
+JT,Total JT,,,"1,41,23",,
+#,State's Expenditure Total Charged,,,,1,
+#,State's Expenditure Total Voted,,,,"402,55,67",
+#,Externally Aided Projects,,,,,
+PB,State Project Management unit under DRIP,,,,,2701 80 001 PB 30000
+301,Salaries,,,,"2,18,21",2701 80 001 PB 30100
+01,Pay,,,,"1,94,54",2701 80 001 PB 30101
+02,Medical Allowance,,,,64,2701 80 001 PB 30102
+03,Medical Charges,,,,40,2701 80 001 PB 30103
+04,Other Allowances,,,,"2,72",2701 80 001 PB 30104
+06,House Rent Allowance,,,,"17,41",2701 80 001 PB 30106
+07,Travel Concession,,,,25,2701 80 001 PB 30107
+08,City Compensatory Allowance,,,,"2,25",2701 80 001 PB 30108
+303,Dearness Allowance,,,,"76,76",2701 80 001 PB 30300
+01,Dearness Allowance,,,,"76,76",2701 80 001 PB 30301
+304,Travel Expenses,,,,"6,01",2701 80 001 PB 30400
+01,Tour Travelling Allowances,,,,"6,00",2701 80 001 PB 30401
+02,Transfer Travelling Allowances,,,,1,2701 80 001 PB 30402
+305,Office Expenses,,,,"7,29",2701 80 001 PB 30500
+01,Telephone Charges,,,,"1,48",2701 80 001 PB 30501
+02,Other Contingencies,,,,"1,70",2701 80 001 PB 30502
+03,Electricity Charges,,,,"4,00",2701 80 001 PB 30503
+04,Service Postage & Postal Expenditure,,,,10,2701 80 001 PB 30504
+05,Furniture,,,,1,2701 80 001 PB 30505
+313,Hospitality / Entertainment,,,,,
+Expenditure,,,,"15,00",2701 80 001 PB 31300,
+01,Hospitality / Entertainment Expenditure,,,,"15,00",2701 80 001 PB 31301
+317,Minor Works,,,,"1,00",2701 80 001 PB 31700
+01,Minor Works,,,,"1,00",2701 80 001 PB 31701
+318,Maintenance,,,,1,2701 80 001 PB 31800
+02,Special Maintenance,,,,1,2701 80 001 PB 31802
+319,Machinery and Equipments,,,,"2,21",2701 80 001 PB 31900
+01,Purchase,,,,1,2701 80 001 PB 31901
+02,Renewal and Replacement,,,,60,2701 80 001 PB 31902
+03,Maintenance,,,,"1,60",2701 80 001 PB 31903
+321,Motor Vehicles,,,,"5,59",2701 80 001 PB 32100
+01,Purchase,,,,1,2701 80 001 PB 32101
+02,Maintenance of Functional Vehicles,,,,96,2701 80 001 PB 32102
+03,Hire Charges,,,,"4,62",2701 80 001 PB 32103
+324,Materials and Supplies,,,,70,2701 80 001 PB 32400
+01,Materials and Supplies,,,,70,2701 80 001 PB 32401
+333,Payments for Professional and Special,,,,,
+03,Special Service,,,,1,2701 80 001 PB 33303
+04,Contract Payment,,,,"5,66",2701 80 001 PB 33304
+345,"Petroleum, Oil and Lubricant",,,,"1,35",2701 80 001 PB 34500
+01,"Petroleum, Oil and Lubricant",,,,"1,35",2701 80 001 PB 34501
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,,,"2,50",2701 80 001 PB 34901
+02,Festival Advances-Credit,,,,"-2,50",2701 80 001 PB 34902
+359,Prizes and Awards,,,,10,2701 80 001 PB 35900
+01,Prizes and Awards,,,,10,2701 80 001 PB 35901
+360,T.A./D.A.to Non-Official Members,,,,10,2701 80 001 PB 36000
+01,T.A./D.A.to Non-Official Members,,,,10,2701 80 001 PB 36001
+371,Printing Charges,,,,73,2701 80 001 PB 37100
+01,Printing Charges,,,,73,2701 80 001 PB 37101
+372,Training,,,,"40,00",2701 80 001 PB 37200
+01,Training,,,,"40,00",2701 80 001 PB 37201
+376,Computer and Accessories,,,,"5,06",2701 80 001 PB 37600
+01,Purchase,,,,1,2701 80 001 PB 37601
+02,Maintenance,,,,"1,75",2701 80 001 PB 37602
+03,Stationery,,,,"3,30",2701 80 001 PB 37603
+PB,Total PB,,,,"3,85,79",
+PE,Strengthening of office(O&M) Under TANIAM Project- II,,,,,2701 80 001 PE 30000
+321,Motor Vehicles,,,,1,2701 80 001 PE 32100
+01,Purchase,,,,1,2701 80 001 PE 32101
+PE,Total PE,,,1,,
+PG,State Project Management unit under TANGEDCO,,,,,2701 80 001 PG 30000
+301,Salaries,,,,5,2701 80 001 PG 30100
+01,Pay,,,,1,2701 80 001 PG 30101
+02,Medical Allowance,,,,1,2701 80 001 PG 30102
+04,Other Allowances,,,,1,2701 80 001 PG 30104
+06,House Rent Allowance,,,,1,2701 80 001 PG 30106
+08,City Compensatory Allowance,,,,1,2701 80 001 PG 30108
+302,Wages,,,,1,2701 80 001 PG 30200
+01,Wages,,,,1,2701 80 001 PG 30201
+303,Dearness Allowance,,,,1,2701 80 001 PG 30300
+01,Dearness Allowance,,,,1,2701 80 001 PG 30301
+304,Travel Expenses,,,,1,2701 80 001 PG 30400
+01,Tour Travelling Allowances,,,,1,2701 80 001 PG 30401
+305,Office Expenses,,,,1,2701 80 001 PG 30500
+01,Telephone Charges,,,,1,2701 80 001 PG 30501
+318,Maintenance,,,,1,2701 80 001 PG 31800
+02,Special Maintenance,,,,1,2701 80 001 PG 31802
+321,Motor Vehicles,,,,1,2701 80 001 PG 32100
+03,Hire Charges,,,,1,2701 80 001 PG 32103
+333,Payments for Professional and Special,,,,,
+Services,,,,1,2701 80 001 PG 33300,
+04,Contract Payment,,,,1,2701 80 001 PG 33304
+PG,Total PG,,,12,,
+Externally Aided,,,,,,
+Projects Total,,,,"3,85,92",,
+001,Total 001 Charged,,,,1,
+001,Total 001 Voted,,,,"406,41,59",
+002,Data Collection,,,,,
+#,State's Expenditure,,,,,
+AA,Preparation of concept note for tail end regulators to prevent the intrusion of seawater under Green Climate Fund,,,,,2701 80 002 AA 30000
+317,Minor Works,,,,"2,50",2701 80 002 AA 31700
+01,Minor Works,,,,"2,50",2701 80 002 AA 31701
+AA,Total AA,,,"2,50",,
+#,State's Expenditure Total,,,,"2,50",
+002,Total 002,,,"2,50",,
+003,Training,,,,,
+#,State's Expenditure,,,,,
+AA,Irrigation Management Training Institute,,,,,2701 80 003 AA 30000
+309,Grants-in-Aid,,,,"9,11,83",2701 80 003 AA 30900
+03,Grants for Specific Schemes,,,,"9,11,83",2701 80 003 AA 30903
+AA,Total AA,,,"9,11,83",,
+#,State's Expenditure Total,,,,"9,11,83",
+003,Total 003,,,"9,11,83",,
+004,Research,,,,,
+#,State's Expenditure,,,,,
+AA,Irrigation Research Experiments,,,,,2701 80 004 AA 30000
+301,Salaries,,,,"4,96,60",2701 80 004 AA 30100
+01,Pay,,,,"4,36,50",2701 80 004 AA 30101
+02,Medical Allowance,,,,"2,53",2701 80 004 AA 30102
+03,Medical Charges,,,,15,2701 80 004 AA 30103
+04,Other Allowances,,,,"5,64",2701 80 004 AA 30104
+06,House Rent Allowance,,,,"43,45",2701 80 004 AA 30106
+07,Travel Concession,,,,27,2701 80 004 AA 30107
+08,City Compensatory Allowance,,,,"8,06",2701 80 004 AA 30108
+303,Dearness Allowance,,,,"80,10",2701 80 004 AA 30300
+01,Dearness Allowance,,,,"80,10",2701 80 004 AA 30301
+304,Travel Expenses,,,,"14,90",2701 80 004 AA 30400
+01,Tour Travelling Allowances,,,,"14,74",2701 80 004 AA 30401
+02,Transfer Travelling Allowances,,,,16,2701 80 004 AA 30402
+305,Office Expenses,,,,"16,09",2701 80 004 AA 30500
+01,Telephone Charges,,,,75,2701 80 004 AA 30501
+02,Other Contingencies,,,,84,2701 80 004 AA 30502
+03,Electricity Charges,,,,"14,31",2701 80 004 AA 30503
+04,Service Postage & Postal Expenditure,,,,19,2701 80 004 AA 30504
+317,Minor Works,,,,"18,00",2701 80 004 AA 31700
+01,Minor Works,,,,"18,00",2701 80 004 AA 31701
+318,Maintenance,,,,"14,00",2701 80 004 AA 31800
+01,Periodical Maintenance,,,,"14,00",2701 80 004 AA 31801
+320,Tools and Plant,,,,6,2701 80 004 AA 32000
+02,Renewal and Replacement,,,,6,2701 80 004 AA 32002
+321,Motor Vehicles,,,,"2,22",2701 80 004 AA 32100
+02,Maintenance of Functional Vehicles,,,,"2,22",2701 80 004 AA 32102
+333,Payments for Professional and Special,,,,,
+Services,,,,"3,64",2701 80 004 AA 33300,
+04,Contract Payment,,,,"3,64",2701 80 004 AA 33304
+345,"Petroleum, Oil and Lubricant",,,,,
+01,"Petroleum, Oil and Lubricant",,,,"7,09",2701 80 004 AA 34501
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,,,"8,60",2701 80 004 AA 34901
+02,Festival Advances-Credit,,,,"-8,60",2701 80 004 AA 34902
+359,Prizes and Awards,,,,24,2701 80 004 AA 35900
+01,Prizes and Awards,,,,24,2701 80 004 AA 35901
+376,Computer and Accessories,,,,"1,21",2701 80 004 AA 37600
+02,Maintenance,,,,74,2701 80 004 AA 37602
+03,Stationery,,,,47,2701 80 004 AA 37603
+AA,Total AA,,,,"6,54,15",
+AG,Sedimentation studies on selected reservoirs in Tamil Nadu,,,,,2701 80 004 AG 30000
+301,Salaries,,,,"1,24,53",2701 80 004 AG 30100
+01,Pay,,,,"1,18,45",2701 80 004 AG 30101
+02,Medical Allowance,,,,36,2701 80 004 AG 30102
+04,Other Allowances,,,,45,2701 80 004 AG 30104
+06,House Rent Allowance,,,,"4,97",2701 80 004 AG 30106
+08,City Compensatory Allowance,,,,30,2701 80 004 AG 30108
+303,Dearness Allowance,,,,"70,78",2701 80 004 AG 30300
+01,Dearness Allowance,,,,"70,78",2701 80 004 AG 30301
+304,Travel Expenses,,,,"4,95",2701 80 004 AG 30400
+01,Tour Travelling Allowances,,,,"4,74",2701 80 004 AG 30401
+02,Transfer Travelling Allowances,,,,21,2701 80 004 AG 30402
+305,Office Expenses,,,,"1,05",2701 80 004 AG 30500
+01,Telephone Charges,,,,35,2701 80 004 AG 30501
+02,Other Contingencies,,,,23,2701 80 004 AG 30502
+03,Electricity Charges,,,,40,2701 80 004 AG 30503
+04,Service Postage & Postal Expenditure,,,,7,2701 80 004 AG 30504
+318,Maintenance,,,,"2,00",2701 80 004 AG 31800
+02,Special Maintenance,,,,"2,00",2701 80 004 AG 31802
+319,Machinery and Equipments,,,,15,2701 80 004 AG 31900
+03,Maintenance,,,,15,2701 80 004 AG 31903
+321,Motor Vehicles,,,,90,2701 80 004 AG 32100
+02,Maintenance of Functional Vehicles,,,,90,2701 80 004 AG 32102
+333,Payments for Professional and Special,,,,,
+Services,,,,"1,20",2701 80 004 AG 33300,
+04,Contract Payment,,,,"1,20",2701 80 004 AG 33304
+345,"Petroleum, Oil and Lubricant",,,,,
+01,"Petroleum, Oil and Lubricant",,,,"7,50",2701 80 004 AG 34501
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,,,"1,60",2701 80 004 AG 34901
+02,Festival Advances-Credit,,,,"-1,60",2701 80 004 AG 34902
+359,Prizes and Awards,,,,6,2701 80 004 AG 35900
+01,Prizes and Awards,,,,6,2701 80 004 AG 35901
+376,Computer and Accessories,,,,31,2701 80 004 AG 37600
+02,Maintenance,,,,23,2701 80 004 AG 37602
+03,Stationery,,,,8,2701 80 004 AG 37603
+AG,Total AG,,,"2,13,43",,
+#,State's Expenditure Total,,,,"8,67,58",
+#,Externally Aided Projects,,,,,
+PA,Strengthening of Institute of Water Studies under TNIAM Project-II,,,,,2701 80 004 PA 30000
+305,Office Expenses,,,,1,2701 80 004 PA 30500
+01,Telephone Charges,,,,1,2701 80 004 PA 30501
+333,Payments for Professional and Special,,,,,
+Services,,,,1,2701 80 004 PA 33300,
+04,Contract Payment,,,,1,2701 80 004 PA 33304
+372,Training,,,,1,2701 80 004 PA 37200
+01,Training,,,,1,2701 80 004 PA 37201
+PA,Total PA,,,3,,
+PB,Irrigation Research Fund under TNIAM Project-II,,,,,2701 80 004 PB 30000
+372,Training,,,,"1,00",2701 80 004 PB 37200
+01,Training,,,,"1,00",2701 80 004 PB 37201
+PB,Total PB,,,"1,00",,
+PC,Formation of SWaRMA under TNIAM Project-II,,,,,2701 80 004 PC 30000
+301,Salaries,,,,"90,85",2701 80 004 PC 30100
+01,Pay,,,,"81,55",2701 80 004 PC 30101
+02,Medical Allowance,,,,28,2701 80 004 PC 30102
+03,Medical Charges,,,,11,2701 80 004 PC 30103
+04,Other Allowances,,,,17,2701 80 004 PC 30104
+06,House Rent Allowance,,,,"7,14",2701 80 004 PC 30106
+07,Travel Concession,,,,33,2701 80 004 PC 30107
+08,City Compensatory Allowance,,,,"1,27",2701 80 004 PC 30108
+303,Dearness Allowance,,,,"40,00",2701 80 004 PC 30300
+01,Dearness Allowance,,,,"40,00",2701 80 004 PC 30301
+304,Travel Expenses,,,,"1,20",2701 80 004 PC 30400
+01,Tour Travelling Allowances,,,,"1,20",2701 80 004 PC 30401
+305,Office Expenses,,,,"8,83",2701 80 004 PC 30500
+01,Telephone Charges,,,,"3,30",2701 80 004 PC 30501
+02,Other Contingencies,,,,"2,20",2701 80 004 PC 30502
+03,Electricity Charges,,,,"3,30",2701 80 004 PC 30503
+04,Service Postage & Postal Expenditure,,,,3,2701 80 004 PC 30504
+308,Advertising and Publicity,,,,,
+01,Advertisement Charges,,,,30,2701 80 004 PC 30801
+09,Others,,,,1,2701 80 004 PC 30809
+313,Hospitality / Entertainment,,,,,
+Expenditure,,,,"1,10",2701 80 004 PC 31300,
+01,Hospitality / Entertainment Expenditure,,,,"1,10",2701 80 004 PC 31301
+317,Minor Works,,,,"2,20",2701 80 004 PC 31700
+01,Minor Works,,,,"2,20",2701 80 004 PC 31701
+319,Machinery and Equipments,,,,"3,31",2701 80 004 PC 31900
+01,Purchase,,,,1,2701 80 004 PC 31901
+03,Maintenance,,,,"3,30",2701 80 004 PC 31903
+321,Motor Vehicles,,,,"1,31",2701 80 004 PC 32100
+01,Purchase,,,,1,2701 80 004 PC 32101
+02,Maintenance of Functional Vehicles,,,,"1,10",2701 80 004 PC 32102
+03,Hire Charges,,,,20,2701 80 004 PC 32103
+333,Payments for Professional and Special,,,,,
+Services,,,,"5,02",2701 80 004 PC 33300,
+02,Remuneration,,,,1,2701 80 004 PC 33302
+03,Special Service,,,,1,2701 80 004 PC 33303
+04,Contract Payment,,,,"5,00",2701 80 004 PC 33304
+345,"Petroleum, Oil and Lubricant",,,,,
+01,"Petroleum, Oil and Lubricant",,,,"3,30",2701 80 004 PC 34501
+360,T.A./D.A.to Non-Official Members,,,,11,2701 80 004 PC 36000
+01,T.A./D.A.to Non-Official Members,,,,11,2701 80 004 PC 36001
+372,Training,,,,"3,15",2701 80 004 PC 37200
+01,Training,,,,"3,15",2701 80 004 PC 37201
+376,Computer and Accessories,,,,"1,76",2701 80 004 PC 37600
+01,Purchase,,,,55,2701 80 004 PC 37601
+02,Maintenance,,,,"1,10",2701 80 004 PC 37602
+03,Stationery,,,,11,2701 80 004 PC 37603
+PC,Total PC,,,,"1,62,45",
+PD,Information and Technology under TNIAM Project-II,,,,,2701 80 004 PD 30000
+333,Payments for Professional and Special Services,,,,2,2701 80 004 PD 33300
+03,Special Service,,,,1,2701 80 004 PD 33303
+04,Contract Payment,,,,1,2701 80 004 PD 33304
+PD,Total PD,,,,2,
+#,Externally Aided Projects Total,,,,"1,63,50",
+004,Total 004,,,,"10,31,08",
+005,Survey,,,,,
+#,State's Expenditure,,,,,
+AA,Investigation of Projects on Surveying and levelling operations etc.,,,,,2701 80 005 AA 30000
+317,Minor Works,,,,"1,86,51",2701 80 005 AA 31700
+01,Minor Works,,,,"1,86,51",2701 80 005 AA 31701
+AA,Total AA,,,"1,86,51",,
+AB,Surveying and Levelling Operation for the  DPR for Diversion of Surplus Water from Krishna Tank to Periya Tank in Devampadi,,,,,2701 80 005 AB 30000
+317,Minor Works,,,,"2,00",2701 80 005 AB 31700
+01,Minor Works,,,,"2,00",2701 80 005 AB 31701
+AB,Total AB,,,"2,00",,
+#,State's Expenditure Total,,,,"1,88,51",
+005,Total 005,,,"1,88,51",,
+006,Consultancy,,,,,
+#,Externally Aided Projects,,,,,
+PA,Farmers Organisation under Water Resources consolidation Project,,,,,2701 80 006 PA 30000
+333,Payments for Professional and Special,,,,,
+Services,,,,1,2701 80 006 PA 33300,
+03,Special Service,,,,1,2701 80 006 PA 33303
+PA,Total PA,,,1,,
+PB,Environmental activities under TN IAMWARM Project,,,,,2701 80 006 PB 30000
+333,Payments for Professional and Special Services,,,,1,2701 80 006 PB 33300
+03,Special Service,,,,1,2701 80 006 PB 33303
+PB,Total PB,,,,1,
+#,Externally Aided Projects Total,,,,2,
+006,Total 006,,,,2,
+052,Machinery and Equipment,,,,,
+#,State's Expenditure,,,,,
+AA,Deduct - Machinery and Equipment charges transferred on pro-rata basis to various revenue Major Heads,,,,,2701 80 052 AA 30000
+330,Inter-Account Transfers,,,,"-1,24,32",2701 80 052 AA 33000
+02,Pro-rata Charges,,,,"-1,24,32",2701 80 052 AA 33002
+AA,Total AA,,,,"-1,24,32",
+AB,Deduct - Machinery and Equipment charges transferred on percentage Basis to various capital Major Heads,,,,,2701 80 052 AB 30000
+330,Inter-Account Transfers,,,,"-4,13,19",2701 80 052 AB 33000
+02,Pro-rata Charges,,,,"-4,13,19",2701 80 052 AB 33002
+AB,Total AB,,,,"-4,13,19",
+AC,Add - Machinery and Equipment Charges transferred from Major Head 2701 on  pro rata basis,,,,,2701 80 052 AC 30000
+330,Inter-Account Transfers,,,,"1,24,32",2701 80 052 AC 33000
+02,Pro-rata Charges,,,,"1,24,32",2701 80 052 AC 33002
+AC,Total AC,,,,"1,24,32",
+#,State's Expenditure Total,,,,"-4,13,19",
+052,Total 052,,,,"-4,13,19",
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+AA,Interest Charges,,,,,2701 80 800 AA 30000
+325,Interest,,,,"962,76,07",2701 80 800 AA 32500
+01,Interest,,,,"962,76,07",2701 80 800 AA 32501
+AA,Total AA,,,,"962,76,07",
+AC,Add - Establishment Charges transferred from Major Head 2701 on  Pro rata basis,,,,,2701 80 800 AC 30000
+330,Inter-Account Transfers,,,,"172,37,50",2701 80 800 AC 33000
+02,Pro-rata Charges,,,,"172,37,50",2701 80 800 AC 33002
+AC,Total AC,,,,"172,37,50",
+AG,Contribution to Central Water and Power Commission,,,,,2701 80 800 AG 30000
+310,Contributions,,,,"2,40",2701 80 800 AG 31000
+09,Others,,,,"2,40",2701 80 800 AG 31009
+AG,Total AG,,,,"2,40",
+AK,Deduct - Establishment Charges transferred on percentage basis to various capital Major Heads,,,,,2701 80 800 AK 30000
+330,Inter-Account Transfers,,,,"-449,74,52",2701 80 800 AK 33000
+02,Pro-rata Charges,,,,"-449,74,52",2701 80 800 AK 33002
+AK,Total AK,,,"-449,74,52",,
+AM,Maintenance Grant to water users Associations / Farmers' Councils,,,,,2701 80 800 AM 30000
+309,Grants-in-Aid,,,,1,2701 80 800 AM 30900
+09,Others,,,,1,2701 80 800 AM 30909
+AM,Total AM,,,1,,
+AN,Institutional membership fees for Indian Committee on large Dams,,,,,2701 80 800 AN 30000
+310,Contributions,,,,20,2701 80 800 AN 31000
+09,Others,,,,20,2701 80 800 AN 31009
+AN,Total AN,,,20,,
+AO,Extension and Improvement by Irrigation Department,,,,,2701 80 800 AO 30000
+317,Minor Works,,,,"16,50",2701 80 800 AO 31700
+01,Minor Works,,,,"16,50",2701 80 800 AO 31701
+AO,Total AO,,,"16,50",,
+#,State's Expenditure Total,,,,"685,58,16",
+#,Externally Aided Projects,,,,,
+PB,Farmers Organisation under TNIAM Project-II,,,,,2701 80 800 PB 30000
+305,Office Expenses,,,,2,2701 80 800 PB 30500
+01,Telephone Charges,,,,1,2701 80 800 PB 30501
+05,Furniture,,,,1,2701 80 800 PB 30505
+321,Motor Vehicles,,,,2,2701 80 800 PB 32100
+01,Purchase,,,,1,2701 80 800 PB 32101
+02,Maintenance of Functional Vehicles,,,,1,2701 80 800 PB 32102
+333,Payments for Professional and Special,,,,,
+Services,,,,"5,20,01",2701 80 800 PB 33300,
+03,Special Service,,,,"5,20,00",2701 80 800 PB 33303
+04,Contract Payment,,,,1,2701 80 800 PB 33304
+372,Training,,,,"40,01",2701 80 800 PB 37200
+01,Training,,,,"40,01",2701 80 800 PB 37201
+376,Computer and Accessories,,,,3,2701 80 800 PB 37600
+01,Purchase,,,,1,2701 80 800 PB 37601
+02,Maintenance,,,,1,2701 80 800 PB 37602
+03,Stationery,,,,1,2701 80 800 PB 37603
+PB,Total PB,,,"5,60,09",,
+Externally Aided,,,,,,
+Projects Total,,,,"5,60,09",,
+800,Total 800,,,"691,18,25",,
+80,Total 80 Charged,,,,1,
+80,Total 80 Voted,,,,"1,114,80,59",
+2701,Total 2701 Charged,,,,1,
+2701,Total 2701 Voted,,,,"1,128,65,17",
+2702,MINOR IRRIGATION,,,,,
+01,Surface Water,,,,,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+AB,Parambikulam-Aliyar Basin,,,,,2702 01 800 AB 30000
+305,Office Expenses,,,,"65,96",2702 01 800 AB 30500
+03,Electricity Charges,,,,"65,96",2702 01 800 AB 30503
+306,"Rent, Rates and Taxes",,,,"2,46",2702 01 800 AB 30600
+04,Lease for Land,,,,"2,46",2702 01 800 AB 30604
+317,Minor Works,,,,"50,00",2702 01 800 AB 31700
+01,Minor Works,,,,"50,00",2702 01 800 AB 31701
+318,Maintenance,,,,"17,03,46",2702 01 800 AB 31800
+01,Periodical Maintenance,,,,"16,23,80",2702 01 800 AB 31801
+09,Others,,,,"79,66",2702 01 800 AB 31809
+AB,Total AB,,,"18,21,88",,
+AC,Kodaiyar Basin,,,,,2702 01 800 AC 30000
+305,Office Expenses,,,,"9,20",2702 01 800 AC 30500
+03,Electricity Charges,,,,"9,20",2702 01 800 AC 30503
+318,Maintenance,,,,"5,17,92",2702 01 800 AC 31800
+01,Periodical Maintenance,,,,"4,84,75",2702 01 800 AC 31801
+09,Others,,,,"33,17",2702 01 800 AC 31809
+AC,Total AC,,,"5,27,12",,
+AD,Varahanadhi Basin,,,,,2702 01 800 AD 30000
+305,Office Expenses,,,,"3,85",2702 01 800 AD 30500
+03,Electricity Charges,,,,"3,85",2702 01 800 AD 30503
+318,Maintenance,,,,"29,36",2702 01 800 AD 31800
+01,Periodical Maintenance,,,,"29,36",2702 01 800 AD 31801
+AD,Total AD,,,"33,21",,
+AE,Nambiyar Basin,,,,,2702 01 800 AE 30000
+305,Office Expenses,,,,"1,70",2702 01 800 AE 30500
+03,Electricity Charges,,,,"1,70",2702 01 800 AE 30503
+318,Maintenance,,,,"9,25",2702 01 800 AE 31800
+01,Periodical Maintenance,,,,"7,50",2702 01 800 AE 31801
+09,Others,,,,"1,75",2702 01 800 AE 31809
+AE,Total AE,,,,"10,95",
+AF,Amount recovered from Pondicherry Government,,,,,2702 01 800 AF 30000
+330,Inter-Account Transfers,,,,"-1,58",2702 01 800 AF 33000
+01,Inter-Account Transfers,,,,"-1,58",2702 01 800 AF 33001
+AF,Total AF,,,,"-1,58",
+#,State's Expenditure Total,,,,"23,91,58",
+800,Total 800,,,,"23,91,58",
+01,Total 01,,,,"23,91,58",
+03,Maintenance,,,,,
+101,Water tanks,,,,,
+#,State's Expenditure,,,,,
+AH,Maintenance and Repairs,,,,,
+of, Non System Tanks,,,,,2702 03 101 AH 30000
+318,Maintenance,,,,"46,40,74",2702 03 101 AH 31800
+01,Periodical Maintenance,,,,"46,40,74",2702 03 101 AH 31801
+AH,Total AH,,,,"46,40,74",
+AI,Maintenance of Sewage Treatment Plant using Bio-Ozobyte Technology at Ooty Lake in Nilgiris District.,,,,,2702 03 101 AI 30000
+318,Maintenance,,,,"30,00",2702 03 101 AI 31800
+01,Periodical Maintenance,,,,"30,00",2702 03 101 AI 31801
+AI,Total AI,,,,"30,00",
+#,State's Expenditure Total,,,,"46,70,74",
+101,Total 101,,,,"46,70,74",
+03,Total 03,,,,"46,70,74",
+80,General,,,,,
+005,Investigation,,,,,
+#,State's Expenditure,,,,,
+AA,Survey and Investigation (conducting Joint Cauging,,,,,
+in,Parambikulam Aliyar Project),,,,,2702 80 005 AA 30000
+317,Minor Works,,,,"15,00",2702 80 005 AA 31700
+01,Minor Works,,,,"15,00",2702 80 005 AA 31701
+AA,Total AA,,,,"15,00",
+AB,Investigation of Projects,,,,,
+on,Surveying and levelling operations for check Dam across Kallar River,,,,,2702 80 005 AB 30000
+317,Minor Works,,,,10,2702 80 005 AB 31700
+01,Minor Works,,,,10,2702 80 005 AB 31701
+AB,Total AB,,,,10,
+#,State's Expenditure Total,,,,"15,10",
+005,Total 005,,,,"15,10",
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+AY,Pensionary Charges,,,,,2702 80 800 AY 30000
+327,Pensions,,,,"94,36",2702 80 800 AY 32700
+01,Basic Pension,,,,"94,36",2702 80 800 AY 32701
+AY,Total AY,,,,"94,36",
+#,State's Expenditure Total,,,,"94,36",
+800,Total 800,,,,"94,36",
+80,Total 80,,,,"1,09,46",
+2702,Total 2702,,,,"71,71,78",
+2711,FLOOD CONTROL AND DRAINAGE,,,,,
+01,Flood Control,,,,,
+103,Civil Works,,,,,
+#,State's Expenditure,,,,,
+AB,Buckingham Canal,,,,,2711 01 103 AB 30000
+318,Maintenance,,,,"9,90",2711 01 103 AB 31800
+01,Periodical Maintenance,,,,"9,90",2711 01 103 AB 31801
+AB,Total AB,,,,"9,90",
+AC,Cooum River,,,,,2711 01 103 AC 30000
+318,Maintenance,,,,"6,60",2711 01 103 AC 31800
+01,Periodical Maintenance,,,,"6,60",2711 01 103 AC 31801
+AC,Total AC,,,,"6,60",
+#,State's Expenditure Total,,,,"16,50",
+103,Total 103,,,,"16,50",
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+AC,Cauvery Delta System,,,,,2711 01 800 AC 30000
+325,Interest,,,,"88,56",2711 01 800 AC 32500
+01,Interest,,,,"88,56",2711 01 800 AC 32501
+AC,Total AC,,,,"88,56",
+#,State's Expenditure Total,,,,"88,56",
+800,Total 800,,,,"88,56",
+01,Total 01,,,,"1,05,06",
+2711,Total 2711,,,,"1,05,06",
+3056-00,INLAND WATER TRANSPORT,,,,,
+104,Navigation,,,,,
+#,State's Expenditure,,,,,
+AB,Vedaranyam Canal,,,,,3056 00 104 AB 30000
+318,Maintenance,,,,"4,00",3056 00 104 AB 31800
+01,Periodical Maintenance,,,,"4,00",3056 00 104 AB 31801
+AB,Total AB,,,,"4,00",
+AE,Non-System Works,,,,,3056 00 104 AE 30000
+318,Maintenance,,,,"30,00",3056 00 104 AE 31800
+01,Periodical Maintenance,,,,"30,00",3056 00 104 AE 31801
+AE,Total AE,,,,"30,00",
+#,State's Expenditure Total,,,,"34,00",
+104,Total 104,,,,"34,00",
+00,Total 00,,,,"34,00",
+3056,Total 3056,,,,"34,00",
+4215,CAPITAL OUTLAY ON WATER SUPPLY AND SANITATION,,,,,
+01,Water Supply,,,,,
+101,Urban Water Supply,,,,,
+#,State's Expenditure,,,,,
+JB,Construction of Dam for Storage of Krishna River water,,,,,4215 01 101 JB 40000
+464,Lands Charged,,,,"5,00,00",4215 01 101 JB 46400
+51,Lands Charged,,,,"5,00,00",4215 01 101 JB 46451
+JB,Total JB Charged,,,,"5,00,00",
+JU,"Creation of additional water storage in Cholavaram, Porur,Nemam and Ayanambakkam Tanks",,,,,4215 01 101 JU 40000
+416,Major Works,,,,"33,00,01",4215 01 101 JU 41600
+01,Major Works,,,,"33,00,01",4215 01 101 JU 41601
+JU,Total JU,,,"33,00,01",,
+JV,Formation of new reservoir at Kannankottai and Theruvaikandigai at Gummidipoondi Taluk of Tiruvallur District,,,,,4215 01 101 JV 40000
+416,Major Works,,,,"15,17,37",4215 01 101 JV 41600
+01,Major Works,,,,"15,17,37",4215 01 101 JV 41601
+464,Lands Charged,,,,"10,00,00",4215 01 101 JV 46400
+51,Lands Charged,,,,"10,00,00",4215 01 101 JV 46451
+JV,Total JV Charged,,,,"10,00,00",
+JV,Total JV Voted,,,,"15,17,37",
+#,State's Expenditure Voted,,,,"48,17,38",
+101,Total 101 Charged,,,,"15,00,00",
+101,Total 101 Voted,,,,"48,17,38",
+01,Total 01 Charged,,,,"15,00,00",
+01,Total 01 Voted,,,,"48,17,38",
+4215,Total 4215 Charged,,,,"15,00,00",
+4215,Total 4215 Voted,,,,"48,17,38",
+4700,CAPITAL OUTLAY ON MAJOR IRRIGATION,,,,,
+01,Cauvery Basin,,,,,
+789,Special Component Plan for Scheduled Castes,,,,,
+#,Schemes shared between State and Centre,,,,,
+UA,Weir under NADP-RKVY,,,,,4700 01 789 UA 40000
+416,Major Works,,,,1,4700 01 789 UA 41600
+01,Major Works,,,,1,4700 01 789 UA 41601
+UA,Total UA,,,1,,
+#,Schemes shared between State and Centre Total,,,,1,
+789,Total 789,,,1,,
+796,Tribal Area Sub-Plan,,,,,
+UA,Weir under NADP-RKVY,,,,,4700 01 796 UA 40000
+416,Major Works,,,,1,4700 01 796 UA 41600
+01,Major Works,,,,1,4700 01 796 UA 41601
+UA,Total UA,,,1,,
+#,Schemes shared between State and Centre Total,,,,1,
+796,Total 796,,,1,,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+AA,Reservoirs,,,,,4700 01 800 AA 40000
+416,Major Works,,,,"10,00,02",4700 01 800 AA 41600
+01,Major Works,,,,"10,00,02",4700 01 800 AA 41601
+AA,Total AA,,,"10,00,02",,
+AB,Reservoirs -  NABARD Assistance,,,,,4700 01 800 AB 40000
+416,Major Works,,,,"63,83,58",4700 01 800 AB 41600
+01,Major Works,,,,"63,83,58",4700 01 800 AB 41601
+AB,Total AB,,,"63,83,58",,
+BA,Dam and Appurtenant Works,,,,,4700 01 800 BA 40000
+416,Major Works,,,,"6,85,63",4700 01 800 BA 41600
+01,Major Works,,,,"6,85,63",4700 01 800 BA 41601
+BA,Total BA,,,"6,85,63",,
+BB,Dam and Appurtenant Works-NABARD assistance,,,,,4700 01 800 BB 40000
+416,Major Works,,,,"200,00,00",4700 01 800 BB 41600
+01,Major Works,,,,"200,00,00",4700 01 800 BB 41601
+BB,Total BB,,,"200,00,00",,
+CA,Canals,,,,,4700 01 800 CA 40000
+416,Major Works,,,,"925,82,31",4700 01 800 CA 41600
+01,Major Works,,,,"925,82,31",4700 01 800 CA 41601
+464,Lands,,,,1,4700 01 800 CA 46400
+01,Lands - Voted,,,,1,4700 01 800 CA 46401
+499,Miscellaneous,,,,"15,00,00",4700 01 800 CA 49900
+01,Miscellaneous,,,,"15,00,00",4700 01 800 CA 49901
+CA,Total CA,,,"940,82,32",,
+CB,Canals-NABARD assistance,,,,,4700 01 800 CB 40000
+416,Major Works,,,,"10,00",4700 01 800 CB 41600
+01,Major Works,,,,"10,00",4700 01 800 CB 41601
+CB,Total CB,,,"10,00",,
+DA,Weir,,,,,4700 01 800 DA 40000
+416,Major Works,,,,"66,00",4700 01 800 DA 41600
+01,Major Works,,,,"66,00",4700 01 800 DA 41601
+DA,Total DA,,,"66,00",,
+DB,Weir - NABARD Assistance,,,,,4700 01 800 DB 40000
+416,Major Works,,,,"20,56,08",4700 01 800 DB 41600
+01,Major Works,,,,"20,56,08",4700 01 800 DB 41601
+DB,Total DB,,,"20,56,08",,
+EA,Water Courses,,,,,4700 01 800 EA 40000
+416,Major Works,,,,"13,94,00",4700 01 800 EA 41600
+01,Major Works,,,,"13,94,00",4700 01 800 EA 41601
+EA,Total EA,,,"13,94,00",,
+FA,Barrage,,,,,4700 01 800 FA 40000
+416,Major Works,,,,"242,79,27",4700 01 800 FA 41600
+01,Major Works,,,,"242,79,27",4700 01 800 FA 41601
+FA,Total FA,,,"242,79,27",,
+FB,Barrage - NABARD assistance,,,,,4700 01 800 FB 40000
+416,Major Works,,,,"1,01",4700 01 800 FB 41600
+01,Major Works,,,,"1,01",4700 01 800 FB 41601
+FB,Total FB,,,"1,01",,
+#,State's Expenditure Total,,,,"1,499,57,91",
+#,Externally Aided Projects,,,,,
+PA,Reservoirs under TNIAM Project -II,,,,,4700 01 800 PA 40000
+416,Major Works,,,,"389,90,38",4700 01 800 PA 41600
+01,Major Works,,,,"389,90,38",4700 01 800 PA 41601
+PA,Total PA,,,"389,90,38",,
+PB,Dam and Appurtenant Works,,,,,4700 01 800 PB 40000
+416,Major Works,,,,"30,89,77",4700 01 800 PB 41600
+01,Major Works,,,,"30,89,77",4700 01 800 PB 41601
+PB,Total PB,,,"30,89,77",,
+PC,Canals,,,,,4700 01 800 PC 40000
+416,Major Works,,,,"405,20,20",4700 01 800 PC 41600
+01,Major Works,,,,"405,20,20",4700 01 800 PC 41601
+PC,Total PC,,,"405,20,20",,
+Externally Aided,,,,,,
+Projects Total,,,,"826,00,35",,
+#,Schemes shared between State and Centre,,,,,
+UA,Weir - NADP-RKVY,,,,,4700 01 800 UA 40000
+416,Major Works,,,,1,4700 01 800 UA 41600
+01,Major Works,,,,1,4700 01 800 UA 41601
+UA,Total UA,,,1,,
+#,Schemes shared between State and Centre Total,,,,1,
+800,Total 800,,,"2,325,58,27",,
+01,Total 01,,,"2,325,58,29",,
+02,Pennaiyar Basin,,,,,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+AA,Reservoirs,,,,,4700 02 800 AA 40000
+416,Major Works,,,,"67,46",4700 02 800 AA 41600
+01,Major Works,,,,"67,46",4700 02 800 AA 41601
+AA,Total AA,,,"67,46",,
+BA,Dam and Appurtenant Works,,,,,4700 02 800 BA 40000
+416,Major Works,,,,"2,87,00",4700 02 800 BA 41600
+01,Major Works,,,,"2,87,00",4700 02 800 BA 41601
+BA,Total BA,,,"2,87,00",,
+CA,Canals,,,,,4700 02 800 CA 40000
+416,Major Works,,,,"2,01",4700 02 800 CA 41600
+01,Major Works,,,,"2,01",4700 02 800 CA 41601
+464,Lands,,,,2,4700 02 800 CA 46400
+01,Lands - Voted,,,,2,4700 02 800 CA 46401
+CA,Total CA,,,"2,03",,
+CB,Canals-NABARD assistance,,,,,4700 02 800 CB 40000
+416,Major Works,,,,1,4700 02 800 CB 41600
+01,Major Works,,,,1,4700 02 800 CB 41601
+CB,Total CB,,,1,,
+DB,Weir -  NABARD Assistance,,,,,4700 02 800 DB 40000
+416,Major Works,,,,1,4700 02 800 DB 41600
+01,Major Works,,,,1,4700 02 800 DB 41601
+DB,Total DB,,,1,,
+EA,Water Courses,,,,,4700 02 800 EA 40000
+416,Major Works,,,,1,4700 02 800 EA 41600
+01,Major Works,,,,1,4700 02 800 EA 41601
+EA,Total EA,,,1,,
+#,State's Expenditure Total,,,,"3,56,52",
+#,Externally Aided Projects,,,,,
+PA,Reservoirs under TNIAM Project -II,,,,,4700 02 800 PA 40000
+416,Major Works,,,,"78,70,26",4700 02 800 PA 41600
+01,Major Works,,,,"78,70,26",4700 02 800 PA 41601
+PA,Total PA,,,"78,70,26",,
+PB,Dam and Appurtenant Works,,,,,4700 02 800 PB 40000
+416,Major Works,,,,"45,21,77",4700 02 800 PB 41600
+01,Major Works,,,,"45,21,77",4700 02 800 PB 41601
+PB,Total PB,,,"45,21,77",,
+Externally Aided,,,,,,
+Projects Total,,,,"123,92,03",,
+800,Total 800,,,"127,48,55",,
+02,Total 02,,,"127,48,55",,
+03,Palar Basin,,,,,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+AA,Reservoirs,,,,,4700 03 800 AA 40000
+416,Major Works,,,,1,4700 03 800 AA 41600
+01,Major Works,,,,1,4700 03 800 AA 41601
+464,Lands Charged,,,,1,4700 03 800 AA 46400
+51,Lands Charged,,,,1,4700 03 800 AA 46451
+AA,Total AA Charged,,,,1,
+AA,Total AA Voted,,,,1,
+BB,Dam and Appurtenant Works-NABARD assistance,,,,,4700 03 800 BB 40000
+416,Major Works,,,,1,4700 03 800 BB 41600
+01,Major Works,,,,1,4700 03 800 BB 41601
+BB,Total BB,,,1,,
+CA,Canals,,,,,4700 03 800 CA 40000
+416,Major Works,,,,"1,00,00",4700 03 800 CA 41600
+01,Major Works,,,,"1,00,00",4700 03 800 CA 41601
+CA,Total CA,,,"1,00,00",,
+CB,Canals - NABARD Assistance,,,,,4700 03 800 CB 40000
+416,Major Works,,,,"99,75,00",4700 03 800 CB 41600
+01,Major Works,,,,"99,75,00",4700 03 800 CB 41601
+CB,Total CB,,,"99,75,00",,
+DA,Weir,,,,,4700 03 800 DA 40000
+416,Major Works,,,,1,4700 03 800 DA 41600
+01,Major Works,,,,1,4700 03 800 DA 41601
+DA,Total DA,,,1,,
+DB,Weir -  NABARD Assistance,,,,,4700 03 800 DB 40000
+416,Major Works,,,,1,4700 03 800 DB 41600
+01,Major Works,,,,1,4700 03 800 DB 41601
+DB,Total DB,,,1,,
+EA,Water Courses,,,,,4700 03 800 EA 40000
+416,Major Works,,,,"13,00,00",4700 03 800 EA 41600
+01,Major Works,,,,"13,00,00",4700 03 800 EA 41601
+EA,Total EA,,,"13,00,00",,
+#,State's Expenditure Total Charged,,,,1,
+#,State's Expenditure Total Voted,,,,"113,75,04",
+#,Externally Aided Projects,,,,,
+PA,Reservoirs under TNIAM Project -II,,,,,4700 03 800 PA 40000
+416,Major Works,,,,"12,64,91",4700 03 800 PA 41600
+01,Major Works,,,,"12,64,91",4700 03 800 PA 41601
+PA,Total PA,,,"12,64,91",,
+PB,Dam and Appurtenant Works,,,,,4700 03 800 PB 40000
+416,Major Works,,,,"5,85,02",4700 03 800 PB 41600
+01,Major Works,,,,"5,85,02",4700 03 800 PB 41601
+PB,Total PB,,,"5,85,02",,
+Externally Aided,,,,,,
+03,Total 03 Charged,,,,1,
+03,Total 03 Voted,,,,"132,24,97",
+04,Vellar Basin,,,,,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+AA,Reservoirs,,,,,4700 04 800 AA 40000
+416,Major Works,,,,"3,28,03",4700 04 800 AA 41600
+01,Major Works,,,,"3,28,03",4700 04 800 AA 41601
+AA,Total AA,,,"3,28,03",,
+EB,Water Courses-NABARD assistance,,,,,4700 04 800 EB 40000
+416,Major Works,,,,"23,24",4700 04 800 EB 41600
+01,Major Works,,,,"23,24",4700 04 800 EB 41601
+EB,Total EB,,,"23,24",,
+#,State's Expenditure Total,,,,"3,51,27",
+#,Externally Aided Projects,,,,,
+PA,Reservoirs under TNIAM Project -II,,,,,4700 04 800 PA 40000
+416,Major Works,,,,"43,05",4700 04 800 PA 41600
+01,Major Works,,,,"43,05",4700 04 800 PA 41601
+PA,Total PA,,,"43,05",,
+PB,Dam and Appurtenant Works,,,,,4700 04 800 PB 40000
+416,Major Works,,,,"20,58,14",4700 04 800 PB 41600
+01,Major Works,,,,"20,58,14",4700 04 800 PB 41601
+PB,Total PB,,,"20,58,14",,
+Externally Aided,,,,,,
+Projects Total,,,,"21,01,19",,
+05,Vaigai Basin,,,,,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+AA,Reservoirs,,,,,4700 05 800 AA 40000
+416,Major Works,,,,1,4700 05 800 AA 41600
+01,Major Works,,,,1,4700 05 800 AA 41601
+AA,Total AA,,,1,,
+BA,Dam and Appurtenant Works,,,,,4700 05 800 BA 40000
+416,Major Works,,,,"50,52",4700 05 800 BA 41600
+01,Major Works,,,,"50,52",4700 05 800 BA 41601
+BA,Total BA,,,"50,52",,
+CA,Canals,,,,,4700 05 800 CA 40000
+416,Major Works,,,,"100,00,02",4700 05 800 CA 41600
+01,Major Works,,,,"100,00,02",4700 05 800 CA 41601
+464,Lands Charged,,,,2,4700 05 800 CA 46400
+464,Lands Voted,,,,"600,00,00",4700 05 800 CA 46400
+01,Lands - Voted,,,,"600,00,00",4700 05 800 CA 46401
+51,Lands Charged,,,,2,4700 05 800 CA 46451
+CA,Total CA Charged,,,,2,
+CA,Total CA Voted,,,,"700,00,02",
+CB,Canals-NABARD assistance - RIDF-XVI,,,,,4700 05 800 CB 40000
+416,Major Works,,,,"28,01",4700 05 800 CB 41600
+01,Major Works,,,,"28,01",4700 05 800 CB 41601
+CB,Total CB,,,"28,01",,
+DA,Weir,,,,,4700 05 800 DA 40000
+416,Major Works,,,,"5,60,80",4700 05 800 DA 41600
+01,Major Works,,,,"5,60,80",4700 05 800 DA 41601
+DA,Total DA,,,"5,60,80",,
+DB,Weir -NABARD assistance,,,,,4700 05 800 DB 40000
+416,Major Works,,,,"50,00,01",4700 05 800 DB 41600
+01,Major Works,,,,"50,00,01",4700 05 800 DB 41601
+DB,Total DB,,,"50,00,01",,
+EA,Water Courses,,,,,4700 05 800 EA 40000
+416,Major Works,,,,"13,00,01",4700 05 800 EA 41600
+01,Major Works,,,,"13,00,01",4700 05 800 EA 41601
+EA,Total EA,,,"13,00,01",,
+GA,Buildings,,,,,4700 05 800 GA 40000
+416,Major Works,,,,"21,43",4700 05 800 GA 41600
+01,Major Works,,,,"21,43",4700 05 800 GA 41601
+GA,Total GA,,,"21,43",,
+#,State's Expenditure Total Charged,,,,2,
+#,State's Expenditure Total Voted,,,,"769,60,81",
+#,Externally Aided Projects,,,,,
+PA,Reservoirs under TNIAM Project -II,,,,,4700 05 800 PA 40000
+416,Major Works,,,,"102,13,11",4700 05 800 PA 41600
+01,Major Works,,,,"102,13,11",4700 05 800 PA 41601
+PA,Total PA,,,"102,13,11",,
+PB,Dam and Appurtenant Works,,,,,4700 05 800 PB 40000
+416,Major Works,,,,"12,97,74",4700 05 800 PB 41600
+01,Major Works,,,,"12,97,74",4700 05 800 PB 41601
+PB,Total PB,,,,"12,97,74",
+#,Externally Aided Projects Total,,,,"115,10,85",
+800,Total 800 Charged,,,,2,
+800,Total 800 Voted,,,,"884,71,66",
+05,Total 05 Charged,,,,2,
+05,Total 05 Voted,,,,"884,71,66",
+80,General,,,,,
+800,Other Expenditure,,,,,
+PW,Add-Percentages for Establishment transferred from Major Head 2701-Major and Medium Irrigation,,,,,4700 80 800 PW 40000
+430,Inter-Account Transfers,,,,"104,56,60",4700 80 800 PW 43000
+02,Pro-rata Charges,,,,"104,56,60",4700 80 800 PW 43002
+PW,Total PW,,,,"104,56,60",
+PX,Add-Percentage charges,,,,,
+for,Machinery and Equipment transferred from Major Head 2701-Major and Medium Irrigation,,,,,4700 80 800 PX 40000
+430,Inter-Account Transfers,,,,"96,07",4700 80 800 PX 43000
+02,Pro-rata Charges,,,,"96,07",4700 80 800 PX 43002
+PX,Total PX,,,,"96,07",
+4700,Total 4700 Charged,,,,3,
+4700,Total 4700 Voted,,,,"3,600,08,60",
+4701,CAPITAL OUTLAY ON MEDIUM IRRIGATION,,,,,
+01,Thamiraparani Basin,,,,,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+BA,Dam and Appurtenant Works,,,,,4701 01 800 BA 40000
+416,Major Works,,,,"5,00,00",4701 01 800 BA 41600
+01,Major Works,,,,"5,00,00",4701 01 800 BA 41601
+464,Lands Charged,,,,1,4701 01 800 BA 46400
+51,Lands Charged,,,,1,4701 01 800 BA 46451
+BA,Total BA Charged,,,,1,
+BA,Total BA Voted,,,,"5,00,00",
+CA,Canals,,,,,4701 01 800 CA 40000
+416,Major Works,,,,"57,42,65",4701 01 800 CA 41600
+01,Major Works,,,,"57,42,65",4701 01 800 CA 41601
+464,Lands Charged,,,,"4,60,79",4701 01 800 CA 46400
+51,Lands Charged,,,,"4,60,79",4701 01 800 CA 46451
+CA,Total CA Charged,,,,"4,60,79",
+CA,Total CA Voted,,,,"57,42,65",
+FA,Barrage,,,,,4701 01 800 FA 40000
+416,Major Works,,,,1,4701 01 800 FA 41600
+01,Major Works,,,,1,4701 01 800 FA 41601
+FA,Total FA,,,1,,
+#,State's Expenditure Total Charged,,,,"4,60,80",
+#,State's Expenditure Total Voted,,,,"62,42,66",
+#,Externally Aided Projects,,,,,
+PA,Reservoirs under TNIAM Project -II,,,,,4701 01 800 PA 40000
+416,Major Works,,,,"69,76,25",4701 01 800 PA 41600
+01,Major Works,,,,"69,76,25",4701 01 800 PA 41601
+PA,Total PA,,,"69,76,25",,
+PB,Dam and Appurtenant Works,,,,,4701 01 800 PB 40000
+416,Major Works,,,,"5,70,06",4701 01 800 PB 41600
+01,Major Works,,,,"5,70,06",4701 01 800 PB 41601
+PB,Total PB,,,"5,70,06",,
+Externally Aided,,,,,,
+Projects Total,,,,"75,46,31",,
+800,Total 800 Charged,,,,"4,60,80",
+800,Total 800 Voted,,,,"137,88,97",
+01,Total 01 Charged,,,,"4,60,80",
+01,Total 01 Voted,,,,"137,88,97",
+02,Chennai Basin,,,,,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+AA,Reservoirs,,,,,4701 02 800 AA 40000
+416,Major Works,,,,"4,63,63",4701 02 800 AA 41600
+01,Major Works,,,,"4,63,63",4701 02 800 AA 41601
+AA,Total AA,,,"4,63,63",,
+DB,Weir -  NABARD Assistance,,,,,4701 02 800 DB 40000
+416,Major Works,,,,"80,39,77",4701 02 800 DB 41600
+01,Major Works,,,,"80,39,77",4701 02 800 DB 41601
+DB,Total DB,,,"80,39,77",,
+EB,Water Courses-NABARD assistance,,,,,4701 02 800 EB 40000
+416,Major Works,,,,"93,61",4701 02 800 EB 41600
+01,Major Works,,,,"93,61",4701 02 800 EB 41601
+EB,Total EB,,,"93,61",,
+#,State's Expenditure Total,,,,"85,97,01",
+#,Externally Aided Projects,,,,,
+PA,Reservoirs,,,,,4701 02 800 PA 40000
+416,Major Works,,,,"28,21",4701 02 800 PA 41600
+01,Major Works,,,,"28,21",4701 02 800 PA 41601
+PA,Total PA,,,"28,21",,
+Externally Aided,,,,,,
+Projects Total,,,,"28,21",,
+800,Total 800,,,"86,25,22",,
+02,Total 02,,,"86,25,22",,
+03,Vaippar Basin,,,,,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+AA,Reservoirs,,,,,4701 03 800 AA 40000
+464,Lands Charged,,,,1,4701 03 800 AA 46400
+51,Lands Charged,,,,1,4701 03 800 AA 46451
+AA,Total AA Charged,,,,1,
+CA,Canals,,,,,4701 03 800 CA 40000
+464,Lands Charged,,,,1,4701 03 800 CA 46400
+51,Lands Charged,,,,1,4701 03 800 CA 46451
+CA,Total CA Charged,,,,1,
+#,State's Expenditure Total Charged,,,,2,
+#,Externally Aided Projects,,,,,
+PA,Reservoirs under TNIAM Project -II,,,,,4701 03 800 PA 40000
+416,Major Works,,,,"1,81",4701 03 800 PA 41600
+01,Major Works,,,,"1,81",4701 03 800 PA 41601
+PA,Total PA,,,"1,81",,
+PB,Dam and Appurtenant Works,,,,,4701 03 800 PB 40000
+416,Major Works,,,,"10,62,50",4701 03 800 PB 41600
+01,Major Works,,,,"10,62,50",4701 03 800 PB 41601
+PB,Total PB,,,"10,62,50",,
+03,Total 03 Charged,,,,2,
+03,Total 03 Voted,,,"10,64,31",,
+80,General,,,,,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+JJ,Add - Percentage charges,,,,,
+for,Establishment transferred from Major Head 2701 Major and Medium Irrigation,,,,,4701 80 800 JJ 40000
+430,Inter-Account Transfers,,,,"308,01,47",4701 80 800 JJ 43000
+02,Pro-rata Charges,,,,"308,01,47",4701 80 800 JJ 43002
+JJ,Total JJ,,,,"308,01,47",
+JK,"Add - Percentage charges for,Machinery and Equipment transferred from Major Head 2701.Major and Medium Irrigation",,,,,4701 80 800 JK 40000
+430,Inter-Account Transfers,,,,"2,83,02",4701 80 800 JK 43000
+02,Pro-rata Charges,,,,"2,83,02",4701 80 800 JK 43002
+JK,Total JK,,,,"2,83,02",
+#,State's Expenditure Total,,,,"310,84,49",
+800,Total 800,,,,"310,84,49",
+80,Total 80,,,,"310,84,49",
+4701,Total 4701 Charged,,,,"4,60,82",
+4701,Total 4701 Voted,,,,"545,62,99",
+4702-00,CAPITAL OUTLAY ON MINOR IRRIGATION,,,,,
+101,Surface Water,,,,,
+#,State's Expenditure,,,,,
+AC,Varahanadhi Basin-Reservoirs,,,,,4702 00 101 AC 40000
+416,Major Works,,,,"55,83,48",4702 00 101 AC 41600
+01,Major Works,,,,"55,83,48",4702 00 101 AC 41601
+AC,Total AC,,,"55,83,48",,
+AD,Varahanadhi Basin - Water Courses-NABARD assistance,,,,,4702 00 101 AD 40000
+416,Major Works,,,,1,4702 00 101 AD 41600
+01,Major Works,,,,1,4702 00 101 AD 41601
+AD,Total AD,,,1,,
+AE,Varahanadhi Basin-Weir-NABARD assistance,,,,,4702 00 101 AE 40000
+416,Major Works,,,,"25,87,96",4702 00 101 AE 41600
+01,Major Works,,,,"25,87,96",4702 00 101 AE 41601
+AE,Total AE,,,"25,87,96",,
+AG,Paramikulam Aliyar Basin - Canals-NABARD assistance,,,,,4702 00 101 AG 40000
+416,Major Works,,,,"25,02",4702 00 101 AG 41600
+01,Major Works,,,,"25,02",4702 00 101 AG 41601
+AG,Total AG,,,"25,02",,
+DEMAND 40   IRRIGATION (Public Works Department),,,,,,
+AH,Paramikulam Aliyar Basin -Dam and Appurtenant Works- NABARD  assistance,,,,,4702 00 101 AH 40000
+416,Major Works,,,,"20,00",4702 00 101 AH 41600
+01,Major Works,,,,"20,00",4702 00 101 AH 41601
+AH,Total AH,,,"20,00",,
+AJ,Parambikulam Aliyar Basin-Reservoirs,,,,,4702 00 101 AJ 40000
+416,Major Works,,,,"40,10,75",4702 00 101 AJ 41600
+01,Major Works,,,,"40,10,75",4702 00 101 AJ 41601
+AJ,Total AJ,,,"40,10,75",,
+AK,Paramikulam Aliyar Basin-Weir-NABARD assistance,,,,,4702 00 101 AK 40000
+416,Major Works,,,,"35,00,00",4702 00 101 AK 41600
+01,Major Works,,,,"35,00,00",4702 00 101 AK 41601
+AK,Total AK,,,"35,00,00",,
+AL,Nambiyar Basin-Reservoirs,,,,,4702 00 101 AL 40000
+416,Major Works,,,,"138,08,62",4702 00 101 AL 41600
+01,Major Works,,,,"138,08,62",4702 00 101 AL 41601
+464,Lands Charged,,,,1,4702 00 101 AL 46400
+51,Lands Charged,,,,1,4702 00 101 AL 46451
+AL,Total AL Charged,,,,1,
+AL,Total AL Voted,,,,"138,08,62",
+AM,Nambiyar Basin-Weir- NABARD assistance,,,,,4702 00 101 AM 40000
+416,Major Works,,,,"35,00,00",4702 00 101 AM 41600
+01,Major Works,,,,"35,00,00",4702 00 101 AM 41601
+AM,Total AM,,,"35,00,00",,
+AN,Kodaiyar Basin-Water Courses - NABARD assistance,,,,,4702 00 101 AN 40000
+416,Major Works,,,,1,4702 00 101 AN 41600
+01,Major Works,,,,1,4702 00 101 AN 41601
+AN,Total AN,,,1,,
+AQ,Agniyar Basin - Reservoirs,,,,,4702 00 101 AQ 40000
+416,Major Works,,,,"65,97,16",4702 00 101 AQ 41600
+01,Major Works,,,,"65,97,16",4702 00 101 AQ 41601
+AQ,Total AQ,,,"65,97,16",,
+AU,Agniyar Basin-Weir- NABARD assistance,,,,,4702 00 101 AU 40000
+416,Major Works,,,,"30,00,00",4702 00 101 AU 41600
+01,Major Works,,,,"30,00,00",4702 00 101 AU 41601
+AU,Total AU,,,"30,00,00",,
+BA,Parambikulam Aliyar Basin -Water Courses,,,,,4702 00 101 BA 40000
+416,Major Works,,,,"13,00,00",4702 00 101 BA 41600
+01,Major Works,,,,"13,00,00",4702 00 101 BA 41601
+BA,Total BA,,,"13,00,00",,
+#,State's Expenditure Total Charged,,,,1,
+#,State's Expenditure Total Voted,,,,"439,33,01",
+#,Externally Aided Projects,,,,,
+PC,Paravanar Basin-Reservoirs,,,,,4702 00 101 PC 40000
+416,Major Works,,,,"13,40",4702 00 101 PC 41600
+01,Major Works,,,,"13,40",4702 00 101 PC 41601
+PC,Total PC,,,,"13,40",
+PD,Varahanadhi Basin under TNIAM Project -II-Reservoirs,,,,,4702 00 101 PD 40000
+416,Major Works,,,,"71,74",4702 00 101 PD 41600
+01,Major Works,,,,"71,74",4702 00 101 PD 41601
+PD,Total PD,,,,"71,74",
+PE,Varahanadhi Basin-Dam and Appurtenant Works,,,,,4702 00 101 PE 40000
+416,Major Works,,,,"5,13,69",4702 00 101 PE 41600
+01,Major Works,,,,"5,13,69",4702 00 101 PE 41601
+PE,Total PE,,,,"5,13,69",
+PF,Parambikulam Aliyar Basin-Dam and Appurtenant Works,,,,,4702 00 101 PF 40000
+416,Major Works,,,,"19,46,94",4702 00 101 PF 41600
+01,Major Works,,,,"19,46,94",4702 00 101 PF 41601
+PF,Total PF,,,,"19,46,94",
+PG,Nambiyar Basin-Dam and Appurtenant Works,,,,,4702 00 101 PG 40000
+416,Major Works,,,,1,4702 00 101 PG 41600
+01,Major Works,,,,1,4702 00 101 PG 41601
+PG,Total PG,,,,1,
+PH,Kodaiyar Basin-Dam and Appurtenant Works,,,,,4702 00 101 PH 40000
+416,Major Works,,,,"81,30",4702 00 101 PH 41600
+01,Major Works,,,,"81,30",4702 00 101 PH 41601
+PH,Total PH,,,,"81,30",
+PI,Kallar Basin under TNIAM Project -II-Reservoirs,,,,,4702 00 101 PI 40000
+416,Major Works,,,,20,4702 00 101 PI 41600
+01,Major Works,,,,20,4702 00 101 PI 41601
+PI,Total PI,,,,20,
+PK,Rehabilitation and Improvement of Dams of TANGEDCO,,,,,4702 00 101 PK 40000
+416,Major Works,,,,"56,93,00",4702 00 101 PK 41600
+01,Major Works,,,,"56,93,00",4702 00 101 PK 41601
+PK,Total PK,,,,"56,93,00",
+#,Externally Aided Projects Total,,,,"83,20,28",
+101,Total 101 Charged,,,,1,
+101,Total 101 Voted,,,,"522,53,29",
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+JW,"Add - Establishment Charges transferred from 2701 .Major and,Medium Irrigation",,,,,4702 00 800 JW 40000
+430,Inter-Account Transfers,,,,"33,32,20",4702 00 800 JW 43000
+02,Pro-rata Charges,,,,"33,32,20",4702 00 800 JW 43002
+JW,Total JW,,,,"33,32,20",
+JX,Add - Percentage charges for Machinery and Equipments transferred from Major Head 2701/Major and Medium irrigation,,,,,4702 00 800 JX 40000
+430,Inter-Account Transfers,,,,"30,59",4702 00 800 JX 43000
+02,Pro-rata Charges,,,,"30,59",4702 00 800 JX 43002
+JX,Total JX,,,,"30,59",
+#,State's Expenditure Total,,,,"33,62,79",
+#,Externally Aided Projects,,,,,
+PB,Construction of New Quality Control Laboratory and Sub-Divisional Offices under DRIP,,,,,4702 00 800 PB 40000
+416,Major Works,,,,1,4702 00 800 PB 41600
+01,Major Works,,,,1,4702 00 800 PB 41601
+PB,Total PB,,,,1,
+PC,Construction of New Office Building,,,,,4702 00 800 PC 40000
+416,Major Works,,,,1,4702 00 800 PC 41600
+01,Major Works,,,,1,4702 00 800 PC 41601
+PC,Total PC,,,1,,
+PD,Instrumentation to DRIP,,,,,4702 00 800 PD 40000
+416,Major Works,,,,"10,00,00",4702 00 800 PD 41600
+01,Major Works,,,,"10,00,00",4702 00 800 PD 41601
+PD,Total PD,,,"10,00,00",,
+Externally Aided,,,,,,
+Projects Total,,,,"10,00,02",,
+800,Total 800,,,"43,62,81",,
+00,Total 00 Charged,,,,1,
+00,Total 00 Voted,,,,"566,16,10",
+4702,Total 4702 Charged,,,,1,
+4702,Total 4702 Voted,,,,"566,16,10",
+4711,CAPITAL OUTLAY ON FLOOD CONTROL PROJECTS,,,,,
+01,Flood Control,,,,,
+103,Civil Works,,,,,
+#,State's Expenditure,,,,,
+KL,Works for Chennai flood protection and flood relief,,,,,4711 01 103 KL 40000
+416,Major Works,,,,1,4711 01 103 KL 41600
+01,Major Works,,,,1,4711 01 103 KL 41601
+464,Lands Charged,,,,1,4711 01 103 KL 46400
+51,Lands Charged,,,,1,4711 01 103 KL 46451
+KL,Total KL Charged,,,,1,
+KL,Total KL Voted,,,,1,
+KO,"Desilting, widening and Construction of Flood Protection Works in Chennai City water ways",,,,,4711 01 103 KO 40000
+416,Major Works,,,,"9,90,00",4711 01 103 KO 41600
+01,Major Works,,,,"9,90,00",4711 01 103 KO 41601
+KO,Total KO,,,"9,90,00",,
+KP,"Flood Protection to avoid inundation in Karur, Trichy and Perambalur Districts",,,,,4711 01 103 KP 40000
+416,Major Works,,,,1,4711 01 103 KP 41600
+01,Major Works,,,,1,4711 01 103 KP 41601
+KP,Total KP,,,1,,
+KX,Rehabilitation and Restoration of Flood Damaged Adyar River and Vegavathi River in Kancheepuram District,,,,,4711 01 103 KX 40000
+416,Major Works,,,,1,4711 01 103 KX 41600
+01,Major Works,,,,1,4711 01 103 KX 41601
+KX,Total KX,,,1,,
+LA,Construction of Groyne at Poothurai in Vilavancode Taluk of Kanniyakumari District with NABARD Loan,,,,,4711 01 103 LA 40000
+416,Major Works,,,,"12,94,12",4711 01 103 LA 41600
+01,Major Works,,,,"12,94,12",4711 01 103 LA 41601
+LA,Total LA,,,"12,94,12",,
+LB,Rehablitation of the Drainage and Installation of sewage water treatment Plant,,,,,4711 01 103 LB 40000
+416,Major Works,,,,1,4711 01 103 LB 41600
+01,Major Works,,,,1,4711 01 103 LB 41601
+LB,Total LB,,,,1,
+LC,Reformation of Rubble Mound Sea Wall in Kanniyakumari District,,,,,4711 01 103 LC 40000
+416,Major Works,,,,"42,67",4711 01 103 LC 41600
+01,Major Works,,,,"42,67",4711 01 103 LC 41601
+LC,Total LC,,,"42,67",,
+#,State's Expenditure Total Charged,,,,1,
+#,State's Expenditure Total Voted,,,,"23,26,83",
+#,Externally Aided Projects,,,,,
+PA,Flood control room to the,,,,,
+19,WRD Dams,,,,,4711 01 103 PA 40000
+416,Major Works,,,,"2,06,75",4711 01 103 PA 41600
+01,Major Works,,,,"2,06,75",4711 01 103 PA 41601
+PA,Total PA,,,"2,06,75",,
+Externally Aided,,,,,,
+Projects Total,,,,"2,06,75",,
+#,Schemes shared between State and Centre,,,,,
+UA,"Repair, Renovation and Restoration of Water Bodies",,,,,4711 01 103 UA 40000
+416,Major Works,,,,"13,59,10",4711 01 103 UA 41600
+01,Major Works,,,,"13,59,10",4711 01 103 UA 41601
+UA,Total UA,,,"13,59,10",,
+#,Schemes shared between State and Centre Total,,,,"13,59,10",
+103,Total 103 Charged,,,,1,
+103,Total 103 Voted,,,,"38,92,68",
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+JD,Add - Percentage Charges for Establishment transferred from Major Head 2701 Major and Medium Irrigation,,,,,4711 01 800 JD 40000
+430,Inter-Account Transfers,,,,"3,84,25",4711 01 800 JD 43000
+02,Pro-rata Charges,,,,"3,84,25",4711 01 800 JD 43002
+JD,Total JD,,,,"3,84,25",
+JE,Add - Percentage Charges for Machinery and Equipment transferred from Major Head 2701.Major and Medium Irrigation,,,,,4711 01 800 JE 40000
+430,Inter-Account Transfers,,,,"3,51",4711 01 800 JE 43000
+02,Pro-rata Charges,,,,"3,51",4711 01 800 JE 43002
+JE,Total JE,,,,"3,51",
+#,State's Expenditure Total,,,,"3,87,76",
+800,Total 800,,,,"3,87,76",
+01,Total 01 Charged,,,,1,
+01,Total 01 Voted,,,,"42,80,44",
+4711,Total 4711 Charged,,,,1,
+4711,Total 4711 Voted,,,,"42,80,44",
