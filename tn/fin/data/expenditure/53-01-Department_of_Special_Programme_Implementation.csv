@@ -1,0 +1,143 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2052-00,SECRETARIAT - GENERAL SERVICES,,,,,
+090,Secretariat,,,,,
+#,State's Expenditure,,,,,
+CA,Department of Special Programme Implementation,,,,,2052 00 090 CA 30000
+301,Salaries,"2,49,46","2,45,99","2,58,70","2,67,76",2052 00 090 CA 30100
+01,Pay,"2,17,75","2,15,28","2,26,45","2,35,51",2052 00 090 CA 30101
+02,Medical Allowance,92,86,96,96,2052 00 090 CA 30102
+03,Medical Charges,35,64,64,64,2052 00 090 CA 30103
+04,Other Allowances,"5,03","4,84","4,94","4,94",2052 00 090 CA 30104
+06,House Rent Allowance,"21,49","20,11","21,20","21,20",2052 00 090 CA 30106
+07,Travel Concession,41,"1,00","1,00","1,00",2052 00 090 CA 30107
+08,City Compensatory Allowance,"3,51","3,26","3,51","3,51",2052 00 090 CA 30108
+303,Dearness Allowance,"19,22","27,98","36,23","58,88",2052 00 090 CA 30300
+01,Dearness Allowance,"19,22","27,98","36,23","58,88",2052 00 090 CA 30301
+304,Travel Expenses,"1,04","1,55","1,55","1,55",2052 00 090 CA 30400
+01,Tour Travelling Allowances,"1,04","1,50","1,50","1,50",2052 00 090 CA 30401
+02,Transfer Travelling Allowances,,5,5,5,2052 00 090 CA 30402
+305,Office Expenses,"13,80","13,80","13,80","13,80",2052 00 090 CA 30500
+01,Telephone Charges,"1,32","1,40","1,40","1,40",2052 00 090 CA 30501
+02,Other Contingencies,"12,28","12,19","12,19","12,19",2052 00 090 CA 30502
+04,Service Postage & Postal Expenditure,20,20,20,20,2052 00 090 CA 30504
+05,Furniture,,1,1,1,2052 00 090 CA 30505
+308,Advertising and Publicity,,1,1,1,2052 00 090 CA 30800
+01,Advertisement Charges,,1,1,1,2052 00 090 CA 30801
+313,Hospitality / Entertainment Expenditure,"1,79","2,50","2,50","2,50",2052 00 090 CA 31300
+01,Hospitality / Entertainment Expenditure,"1,79","2,50","2,50","2,50",2052 00 090 CA 31301
+317,Minor Works,,1,1,1,2052 00 090 CA 31700
+01,Minor Works,,1,1,1,2052 00 090 CA 31701
+319,Machinery and Equipments,,1,1,1,2052 00 090 CA 31900
+01,Purchase,,1,1,1,2052 00 090 CA 31901
+321,Motor Vehicles,11,51,"18,52",76,2052 00 090 CA 32100
+01,Purchase,,1,"17,77",1,2052 00 090 CA 32101
+02,Maintenance of Functional Vehicles,11,50,75,75,2052 00 090 CA 32102
+333,Payments for Professional and Special Services,"9,22","11,50","12,20","12,60",2052 00 090 CA 33300
+01,Pleaders Fees,1,10,10,50,2052 00 090 CA 33301
+04,Contract Payment,"9,21","11,40","12,10","12,10",2052 00 090 CA 33304
+345,"Petroleum, Oil and Lubricant","3,52","4,21","4,21","4,21",2052 00 090 CA 34500
+01,"Petroleum, Oil and Lubricant","3,52","4,21","4,21","4,21",2052 00 090 CA 34501
+349,Festival Advances,6,,,,2052 00 090 CA 34900
+01,Festival Advances-Debit,"1,00","1,55","3,50","3,50",2052 00 090 CA 34901
+02,Festival Advances-Credit,-94,"-1,55","-3,50","-3,50",2052 00 090 CA 34902
+351,Compensation Charged,,1,1,1,2052 00 090 CA 35100
+01,Claims under no fault liability -  principal,,1,1,1,2052 00 090 CA 35101
+charges  - Voted,,,,,,
+02,Other Compensations  - Voted,,1,1,1,2052 00 090 CA 35102
+51,Claims under no fault liability -  principal,,,,,
+charges, Charged,,1,1,1,2052 00 090 CA 35151
+359,Prizes and Awards,4,6,6,6,2052 00 090 CA 35900
+01,Prizes and Awards,4,6,6,6,2052 00 090 CA 35901
+376,Computer and Accessories,"4,29","4,51","12,19","4,51",2052 00 090 CA 37600 
+01,Purchase,,1,"7,69",1,2052 00 090 CA 37601
+02,Maintenance,"1,39","1,50","1,50","1,50",2052 00 090 CA 37602 
+03,Stationery,"2,90","3,00","3,00","3,00",2052 00 090 CA 37603 
+CA,Total CA Charged,,1,1,1,
+CA,Total CA Voted,"3,02,55","3,12,66","3,60,01","3,66,68",
+#,State's Expenditure Total Charged,,1,1,1,
+#,State's Expenditure Total Voted,"3,02,55","3,12,66","3,60,01","3,66,68",
+090,Total 090 Charged,,1,1,1,
+090,Total 090 Voted,"3,02,55","3,12,66","3,60,01","3,66,68",
+00,Total 00 Charged,,1,1,1,
+00,Total 00 Voted,"3,02,55","3,12,66","3,60,01","3,66,68",
+2052,Total 2052 Charged,,1,1,1,
+2052,Total 2052 Voted,"3,02,55","3,12,66","3,60,01","3,66,68",
+2202,GENERAL EDUCATION,,,,,
+80,General,,,,,
+789,Special Component Plan for Scheduled Castes,,,,,
+#,State's Expenditure,,,,,
+JE,Free Distribution of Laptop Computers to the Students under Special Component Plan,,,,,2202 80 789 JE 30000
+309,Grants-in-Aid,"35,41,04","3,40,56,80","3,40,56,80","2,37,32,54",2202 80 789 JE 30900
+03,Grants for Specific Schemes,"35,41,04","3,40,56,80","3,40,56,80","2,37,32,54",2202 80 789 JE 30903
+JE,Total JE,"35,41,04","3,40,56,80","3,40,56,80","2,37,32,54",
+#,State's Expenditure Total,"35,41,04","3,40,56,80","3,40,56,80","2,37,32,54",
+789,Total 789,"35,41,04","3,40,56,80","3,40,56,80","2,37,32,54",
+796,Tribal Area Sub-Plan,,,,,
+#,State's Expenditure,,,,,
+JA,Free Distribution of Laptop Computers to the Students under Tribal Area-Sub Plan,,,,,2202 80 796 JA 30000
+309,Grants-in-Aid,"1,41,65","13,62,27","13,62,27","9,49,30",2202 80 796 JA 30900
+03,Grants for Specific Schemes,"1,41,65","13,62,27","13,62,27","9,49,30",2202 80 796 JA 30903
+JA,Total JA,"1,41,65","13,62,27","13,62,27","9,49,30",
+#,State's Expenditure Total,"1,41,65","13,62,27","13,62,27","9,49,30",
+796,Total 796,"1,41,65","13,62,27","13,62,27","9,49,30",
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+JC,Free Distribution of Laptop Computers to the Students,,,,,2202 80 800 JC 30000
+309,Grants-in-Aid,"1,04,81,84","10,08,08,11","10,08,08,11","7,02,48,30",2202 80 800 JC 30900
+03,Grants for Specific Schemes,"1,04,81,84","10,08,08,11","10,08,08,11","7,02,48,30",2202 80 800 JC 30903
+JC,Total JC,"1,04,81,84","10,08,08,11","10,08,08,11","7,02,48,30",
+#,State's Expenditure Total,"1,04,81,84","10,08,08,11","10,08,08,11","7,02,48,30",
+800,Total 800,"1,04,81,84","10,08,08,11","10,08,08,11","7,02,48,30",
+80,Total 80,"1,41,64,53","13,62,27,18","13,62,27,18","9,49,30,14",
+2202,Total 2202,"1,41,64,53","13,62,27,18","13,62,27,18","9,49,30,14",
+2235,SOCIAL SECURITY AND WELFARE,,,,,
+60,Other Social Security and Welfare Programmes,,,,,
+200,Other Programmes,,,,,
+#,State's Expenditure,,,,,
+KU,"Free Distribution of  Electric Fans, Mixies and Grinders",,,,,2235 60 200 KU 30000
+324,Materials and Supplies,,1,1,"17,16,75",2235 60 200 KU 32400
+01,Materials and Supplies,,1,1,"17,16,75",2235 60 200 KU 32401
+KU,Total KU,1,1,"17,16,75",,
+#,State's Expenditure Total,,1,1,"17,16,75",
+200,Total 200,1,1,"17,16,75",,
+789,Special Component Plan for Scheduled Castes,,,,,
+#,State's Expenditure,,,,,
+JU,"Free Distribution of  Electric Fans, Mixies and Grinders under Special Component Plan",,,,,2235 60 789 JU 30000
+324,Materials and Supplies,,1,1,"5,49,36",2235 60 789 JU 32400
+01,Materials and Supplies,,1,1,"5,49,36",2235 60 789 JU 32401
+JU,Total JU,1,1,"5,49,36",,
+#,State's Expenditure Total,,1,1,"5,49,36",
+789,Total 789,1,1,"5,49,36",,
+796,Tribal Area Sub-Plan,,,,,
+#,State's Expenditure,,,,,
+JR,"Free Distribution of  Electric Fans, Mixies and Grinders under Tribal Area-Sub Plan",,,,,2235 60 796 JR 30000
+324,Materials and Supplies,,1,1,"22,89",2235 60 796 JR 32400
+01,Materials and Supplies,,1,1,"22,89",2235 60 796 JR 32401
+JR,Total JR,1,1,"22,89",,
+#,State's Expenditure Total,,1,1,"22,89",
+796,Total 796,1,1,"22,89",,
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+JU,"Free Distribution of  Electric Fans, Mixies and Grinders under Special Component Plan",,,,,2235 60 911 JU 30000
+377,Deduct-Recoveries,"-19,08",,,,2235 60 911 JU 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-19,08",,,,2235 60 911 JU 37702
+JU,Total JU,"-19,08",,,,
+KU,"Free Distribution of  Electric Fans, Mixies and Grinders",,,,,2235 60 911 KU 30000
+377,Deduct-Recoveries,"-41,77",,,,2235 60 911 KU 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-41,77",,,,2235 60 911 KU 37702
+KU,Total KU,"-41,77",,,,
+#,State's Expenditure Total,"-60,85",,,,
+911,Total 911,"-60,85",,,,
+60,Total 60,"-60,85",3,3,"22,89,00",
+2235,Total 2235,"-60,85",3,3,"22,89,00",
+7610-00,LOANS TO GOVERNMENT SERVANTS ETC.,,,,,
+201,House Building Advances,,,,,
+#,State's Expenditure,,,,,
+BN,Loans to Secretariat Employees for construction of houses - Department of Special Programme Implementation,,,,,7610 00 201 BN 50000
+502,Loan - Outgo,"12,50",1,1,"25,00",7610 00 201 BN 50200
+01,Bearing Interest,"12,50",1,1,"25,00",7610 00 201 BN 50201
+BN,Total BN,"12,50",1,1,"25,00",
+#,State's Expenditure Total,"12,50",1,1,"25,00",
+201,Total 201,"12,50",1,1,"25,00",
+00,Total 00,"12,50",1,1,"25,00",
+7610,Total 7610,"12,50",1,1,"25,00",

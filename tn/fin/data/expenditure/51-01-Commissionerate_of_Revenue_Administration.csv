@@ -1,0 +1,784 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2245,RELIEF ON ACCOUNT OF NATURAL CALAMITIES,,,,,
+01,Drought,,,,,
+101,Gratuitous Relief,,,,,
+#,State's Expenditure,,,,,
+AB,Free Distribution of rice to families of small and marginal farmers and landless agricultural labourers,,,,,2245 01 101 AB 30000
+367,Feeding/Dietary Charges,"4,00",2,2,2,2245 01 101 AB 36700
+01,Rice,,1,1,1,2245 01 101 AB 36701
+09,Others,"4,00",1,1,1,2245 01 101 AB 36709
+AB,Total AB,"4,00",2,2,2,
+AC,Drought Relief 2004 - Food for Work Programme - Cash Component of Wages,,,,,2245 01 101 AC 30000
+302,Wages,,1,1,1,2245 01 101 AC 30200
+01,Wages,,1,1,1,2245 01 101 AC 30201
+309,Grants-in-Aid,,1,1,1,2245 01 101 AC 30900
+03,Grants for Specific Schemes,,1,1,1,2245 01 101 AC 30903
+AC,Total AC,2,2,2,,
+AD,Cash relief to the families for the loss of clothing / utensils house hold goods due to natural calamities,,,,,2245 01 101 AD 30000
+309,Grants-in-Aid,23,1,1,1,2245 01 101 AD 30900
+03,Grants for Specific Schemes,23,1,1,1,2245 01 101 AD 30903
+AD,Total AD,23,1,1,1,
+AE,Subsidy to farmers for Agricultural inputs,,,,,2245 01 101 AE 30000
+311,Subsidies,"1,18,50",1,"1,86,25,08",1,2245 01 101 AE 31100
+01,Individual Based Subsidy,"1,18,50",1,"1,86,25,08",1,2245 01 101 AE 31101
+AE,Total AE,"1,18,50",1,"1,86,25,08",1,
+AF,Subsidy to farmers for Horticultural inputs,,,,,2245 01 101 AF 30000
+311,Subsidies,,1,"1,53,49",1,2245 01 101 AF 31100
+01,Individual Based Subsidy,,1,"1,53,49",1,2245 01 101 AF 31101
+AF,Total AF,,1,"1,53,49",1,
+#,State's Expenditure Total,"1,22,73",7,"1,87,78,62",7,
+101,Total 101,"1,22,73",7,"1,87,78,62",7,
+102,Drinking water supply,,,,,
+#,State's Expenditure,,,,,
+AA,Assistance to Municipalities for the Works executed by the TWAD Board,,,,,2245 01 102 AA 30000
+309,Grants-in-Aid,,1,1,1,2245 01 102 AA 30900
+02,Grants for Creation of Capital Assets,,1,1,1,2245 01 102 AA 30902
+AA,Total AA,,1,1,1,
+AB,Grants to Municipalities / Municipal Corporations for transportation and water supply in drought affected areas,,,,,2245 01 102 AB 30000
+309,Grants-in-Aid,,2,"56,05,01",2,2245 01 102 AB 30900
+01,Grants for Current Expenditure,,1,"56,05,00",1,2245 01 102 AB 30901
+02,Grants for Creation of Capital Assets,,1,1,1,2245 01 102 AB 30902
+AB,Total AB,2,"56,05,01",2,,
+AF,Grants for Water Supply in drought affected areas in Chennai City,,,,,2245 01 102 AF 30000
+309,Grants-in-Aid,"52,66,00",3,"2,19,65,90",3,2245 01 102 AF 30900
+01,Grants for Current Expenditure,"52,66,00",1,"2,19,65,88",1,2245 01 102 AF 30901
+02,Grants for Creation of Capital Assets,,1,1,1,2245 01 102 AF 30902
+03,Grants for Specific Schemes,,1,1,1,2245 01 102 AF 30903
+AF,Total AF,"52,66,00",3,"2,19,65,90",3,
+AG,Digging of New Borewells,,,,,2245 01 102 AG 30000
+309,Grants-in-Aid,,1,1,1,2245 01 102 AG 30900
+02,Grants for Creation of Capital Assets,,1,1,1,2245 01 102 AG 30902
+AG,Total AG,1,1,1,,
+AH,Repairs and Maintenance of Bore wells,,,,,2245 01 102 AH 30000
+309,Grants-in-Aid,,1,1,1,2245 01 102 AH 30900
+09,Others,,1,1,1,2245 01 102 AH 30909
+AH,Total AH,1,1,1,,
+AI,Grants to Town  Panchayat for transportation and water supply in drought affected areas,,,,,2245 01 102 AI 30000
+309,Grants-in-Aid,"3,52,00",2,"25,32,26",2,2245 01 102 AI 30900
+01,Grants for Current Expenditure,"3,52,00",1,"25,32,25",1,2245 01 102 AI 30901
+03,Grants for Specific Schemes,,1,1,1,2245 01 102 AI 30903
+AI,Total AI,"3,52,00",2,"25,32,26",2,
+AJ,Grants to Panchayat Unions for transportation and water supply in drought affected areas,,,,,2245 01 102 AJ 30000
+309,Grants-in-Aid,,2,2,2,2245 01 102 AJ 30900
+01,Grants for Current Expenditure,,1,1,1,2245 01 102 AJ 30901
+03,Grants for Specific Schemes,,1,1,1,2245 01 102 AJ 30903
+AJ,Total AJ,2,2,2,,
+AK,Grants to TWAD Board for Mitigating drinking water scarcity,,,,,2245 01 102 AK 30000
+309,Grants-in-Aid,"27,24,10",1,"16,00,00",1,2245 01 102 AK 30900
+01,Grants for Current Expenditure,"27,24,10",1,"16,00,00",1,2245 01 102 AK 30901
+AK,Total AK,"27,24,10",1,"16,00,00",1,
+#,State's Expenditure Total,"83,42,10",13,"3,17,03,22",13,
+102,Total 102,"83,42,10",13,"3,17,03,22",13,
+104,Supply of Fodder,,,,,
+#,State's Expenditure,,,,,
+AA,Purchase of fodder for distribution in the drought affected areas,,,,,2245 01 104 AA 30000
+309,Grants-in-Aid,"79,00",1,1,1,2245 01 104 AA 30900
+01,Grants for Current Expenditure,"79,00",1,1,1,2245 01 104 AA 30901
+AA,Total AA,"79,00",1,1,1,
+#,State's Expenditure Total,"79,00",1,1,1,
+104,Total 104,"79,00",1,1,1,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+AA,Other Miscellaneous Expenditure,,,,,2245 01 800 AA 30000
+309,Grants-in-Aid,,1,1,1,2245 01 800 AA 30900
+01,Grants for Current Expenditure,,1,1,1,2245 01 800 AA 30901
+366,Medicine,,1,1,1,2245 01 800 AA 36600
+01,Medicine,,1,1,1,2245 01 800 AA 36601
+367,Feeding/Dietary Charges,,1,1,1,2245 01 800 AA 36700
+09,Others,,1,1,1,2245 01 800 AA 36709
+399,Miscellaneous,,1,1,1,2245 01 800 AA 39900
+01,Miscellaneous,,1,1,1,2245 01 800 AA 39901
+AA,Total AA,4,4,4,,
+AC,Assistance to landless agricultural labourers in drought affected areas,,,,,2245 01 800 AC 30000
+309,Grants-in-Aid,,1,1,1,2245 01 800 AC 30900
+09,Others,,1,1,1,2245 01 800 AC 30909
+AC,Total AC,1,1,1,,
+AD,Assistance to Coconut Farmers affected by Drought,,,,,2245 01 800 AD 30000
+309,Grants-in-Aid,,1,1,1,2245 01 800 AD 30900
+01,Grants for Current Expenditure,,1,1,1,2245 01 800 AD 30901
+AD,Total AD,1,1,1,,
+AE,Other expenditure on drought Relief,,,,,2245 01 800 AE 30000
+309,Grants-in-Aid,,1,1,1,2245 01 800 AE 30900
+09,Others,,1,1,1,2245 01 800 AE 30909
+AE,Total AE,1,1,1,,
+AF," Relief to Small, Marginal and Large Farmers for Crop loss due to drought",,,,,2245 01 800 AF 30000
+309,Grants-in-Aid,,1,1,1,2245 01 800 AF 30900
+01,Grants for Current Expenditure,,1,1,1,2245 01 800 AF 30901
+311,Subsidies,,1,1,1,2245 01 800 AF 31100
+01,Individual Based Subsidy,,1,1,1,2245 01 800 AF 31101
+AF,Total AF,2,2,2,,
+AH,Drought relief works in the wildlife habitat / forest area,,,,,2245 01 800 AH 30000
+309,Grants-in-Aid,,1,1,1,2245 01 800 AH 30900
+09,Others,,1,1,1,2245 01 800 AH 30909
+AH,Total AH,1,1,1,,
+#,State's Expenditure Total,,10,10,10,
+800,Total 800,10,10,10,,
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+AE,Other expenditure on drought Relief,,,,,2245 01 911 AE 30000
+377,Deduct-Recoveries,"-2,93,17",,,,2245 01 911 AE 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-2,93,17",,,,2245 01 911 AE 37702
+AE,Total AE,"-2,93,17",,,,
+AF," Relief to Small, Marginal and Large Farmers for Crop loss due to drought",,,,,2245 01 911 AF 30000
+377,Deduct-Recoveries,"-15,91",,,,2245 01 911 AF 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-15,91",,,,2245 01 911 AF 37702
+AF,Total AF,"-15,91",,,,
+BF," Relief to Small, Marginal and Large Farmers for Crop loss due to drought",,,,,2245 01 911 BF 30000
+377,Deduct-Recoveries,-24,,,,2245 01 911 BF 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-24,,,,2245 01 911 BF 37702
+BF,Total BF,-24,,,,
+#,State's Expenditure Total,"-3,09,32",,,,
+911,Total 911,"-3,09,32",,,,
+01,Total 01,"82,34,51",31,"5,04,81,95",31,
+02,"Flood, Cyclones, etc.",,,,,
+101,Gratuitous Relief,,,,,
+#,State's Expenditure,,,,,
+AB,"Distribution of Free Supply of Rice, Cloth,Food, Kerosene etc. in flood affected areas",,,,,2245 02 101 AB 30000
+305,Office Expenses,,,"29,04",1,2245 02 101 AB 30500
+02,Other Contingencies,,,"29,04",1,2245 02 101 AB 30502
+311,Subsidies,"29,05",,1,1,2245 02 101 AB 31100
+02,General Subsidy,"29,05",,1,1,2245 02 101 AB 31102
+321,Motor Vehicles,,,"6,32",1,2245 02 101 AB 32100
+03,Hire Charges,,,"6,32",1,2245 02 101 AB 32103
+324,Materials and Supplies,"4,93,02,95",1,55,1,2245 02 101 AB 32400
+01,Materials and Supplies,"4,93,02,95",1,55,1,2245 02 101 AB 32401
+345,"Petroleum, Oil and Lubricant",,,"3,95",1,2245 02 101 AB 34500
+01,"Petroleum, Oil and Lubricant",,,"3,95",1,2245 02 101 AB 34501
+346,"Clothing, Tentage and Stores",,,"11,78",1,2245 02 101 AB 34600
+01,"Clothing, Tentage and Stores",,,"11,78",1,2245 02 101 AB 34601
+367,Feeding/Dietary Charges,,,"82,14",2,2245 02 101 AB 36700
+01,Rice,,,"43,04",1,2245 02 101 AB 36701
+09,Others,,,"39,10",1,2245 02 101 AB 36709
+AB,Total AB,"4,93,32,00",1,"1,33,79",8,
+AE,Cash Doles to persons affected in floods,,,,,2245 02 101 AE 30000
+356,Feeding and Cash Doles,"2,94,36",1,"1,10,89",1,2245 02 101 AE 35600
+01,Feeding and Cash Doles,"2,94,36",1,"1,10,89",1,2245 02 101 AE 35601
+AE,Total AE,"2,94,36",1,"1,10,89",1,
+AF,Supply of food and clothing in flood affected areas,,,,,2245 02 101 AF 30000
+309,Grants-in-Aid,"1,06",1,1,1,2245 02 101 AF 30900
+01,Grants for Current Expenditure,"1,06",1,1,1,2245 02 101 AF 30901
+334,Other Charges,,1,1,1,2245 02 101 AF 33400
+01,Other Items,,1,1,1,2245 02 101 AF 33401
+AF,Total AF,"1,06",2,2,2,
+AG,Supply of food and clothing to persons affected in fire,,,,,2245 02 101 AG 30000
+309,Grants-in-Aid,,1,1,1,2245 02 101 AG 30900
+09,Others,,1,1,1,2245 02 101 AG 30909
+334,Other Charges,,1,1,1,2245 02 101 AG 33400
+01,Other Items,,1,1,1,2245 02 101 AG 33401
+AG,Total AG,2,2,2,,
+AI,Cash Doles to persons affected in fire accident,,,,,2245 02 101 AI 30000
+356,Feeding and Cash Doles,"24,97",1,"5,92",1,2245 02 101 AI 35600
+01,Feeding and Cash Doles,"24,97",1,"5,92",1,2245 02 101 AI 35601
+AI,Total AI,"24,97",1,"5,92",1,
+AJ,Flood Relief - OtherItems2245 02 101 AJ 30000,,,,,
+305,Office Expenses,,2,2,2,2245 02 101 AJ 30500
+01,Telephone Charges,,1,1,1,2245 02 101 AJ 30501
+02,Other Contingencies,,1,1,1,2245 02 101 AJ 30502
+321,Motor Vehicles,,,"28,29",1,2245 02 101 AJ 32100
+03,Hire Charges,,,"28,29",1,2245 02 101 AJ 32103
+342,Service or Commitment Charges,,1,1,1,2245 02 101 AJ 34200
+01,Service or Commitment Charges,,1,1,1,2245 02 101 AJ 34201
+351,Compensation,,1,1,1,2245 02 101 AJ 35100
+02,Other Compensations  - Voted,,1,1,1,2245 02 101 AJ 35102
+373,Transport Charges,,1,"23,26",1,2245 02 101 AJ 37300
+01,Transport Charges,,1,"23,26",1,2245 02 101 AJ 37301
+399,Miscellaneous,,1,1,1,2245 02 101 AJ 39900
+01,Miscellaneous,,1,1,1,2245 02 101 AJ 39901
+AJ,Total AJ,6,"51,60",7,,
+AN,Assistance to Students in Flood affected areas,,,,,2245 02 101 AN 30000
+309,Grants-in-Aid,,1,1,1,2245 02 101 AN 30900
+09,Others,,1,1,1,2245 02 101 AN 30909
+AN,Total AN,,1,1,1,
+#,State's Expenditure Total,"4,96,52,39",14,"3,02,25",22,
+101,Total 101,"4,96,52,39",14,"3,02,25",22,
+102,Drinking water supply,,,,,
+#,State's Expenditure,,,,,
+AA,"Repairs and Restoration of protected water supply  silted wells, pumpsets etc.",,,,,2245 02 102 AA 30000
+309,Grants-in-Aid,,1,1,1,2245 02 102 AA 30900
+09,Others,,1,1,1,2245 02 102 AA 30909
+AA,Total AA,,1,1,1,
+AB,"Storm Water Drains and Water Supply Schemes  under Corporations, Local Bodies and Autonomous Bodies",,,,,2245 02 102 AB 30000
+318,Maintenance,,1,1,1,2245 02 102 AB 31800
+01,Periodical Maintenance,,1,1,1,2245 02 102 AB 31801
+AB,Total AB,,1,1,1,
+#,State's Expenditure Total,,2,2,2,
+102,Total 102,,2,2,2,
+105,Veterinary care,,,,,
+#,State's Expenditure,,,,,
+AA,Assistance for purchase of Medicines,,,,,2245 02 105 AA 30000
+366,Medicine,,1,1,1,2245 02 105 AA 36600
+01,Medicine,,1,1,1,2245 02 105 AA 36601
+AA,Total AA,1,1,1,,
+#,State's Expenditure Total,,1,1,1,
+105,Total 105,1,1,1,,
+106,Repairs and restoration of damaged roads and bridges,,,,,
+#,State's Expenditure,,,,,
+AA,Repairs and Restoration of Damaged Roads and Bridges due to Floods,,,,,2245 02 106 AA 30000
+316,Major Works,,1,1,1,2245 02 106 AA 31600
+01,Major Works,,1,1,1,2245 02 106 AA 31601
+317,Minor Works,"24,69,08",1,1,1,2245 02 106 AA 31700
+01,Minor Works,"24,69,08",1,1,1,2245 02 106 AA 31701
+AA,Total AA,"24,69,08",2,2,2,
+#,State's Expenditure Total,"24,69,08",2,2,2,
+106,Total 106,"24,69,08",2,2,2,
+107,Repairs and restoration of damaged Government Office Buildings,,,,,
+#,State's Expenditure,,,,,
+AA,Assistance for Repairs and Restoration of Damaged Government Office Buildings,,,,,2245 02 107 AA 30000
+317,Minor Works,"5,13,27",1,1,1,2245 02 107 AA 31700
+01,Minor Works,"5,13,27",1,1,1,2245 02 107 AA 31701
+AA,Total AA,"5,13,27",1,1,1,
+#,State's Expenditure Total,"5,13,27",1,1,1,
+107,Total 107,"5,13,27",1,1,1,
+111,Ex-gratia payment to bereaved families,,,,,
+#,State's Expenditure,,,,,
+AA,Ex-gratia payment to Bereaved Family in Flood affected areas,,,,,2245 02 111 AA 30000
+351,Compensation,"6,45",1,"2,27",1,2245 02 111 AA 35100
+02,Other Compensations  - Voted,"6,45",1,"2,27",1,2245 02 111 AA 35102
+AA,Total AA,"6,45",1,"2,27",1,
+AB,Ex-gratia Payment to Bereaved Family of the deceased,,,,,2245 02 111 AB 30000
+334,Other Charges,"1,25",1,1,1,2245 02 111 AB 33400
+01,Other Items,"1,25",1,1,1,2245 02 111 AB 33401
+351,Compensation Charged,"9,92,49",1,1,1,2245 02 111 AB 35100
+351,Compensation Voted,,1,"1,87,26",1,2245 02 111 AB 35100
+02,Other Compensations  - Voted,,1,"1,87,26",1,2245 02 111 AB 35102
+52,Other Compensations Charged,"9,92,49",1,1,1,2245 02 111 AB 35152
+AB,Total AB,,,,,
+#,State's Expenditure Total Charged,"9,92,49",1,1,1,
+#,State's Expenditure Total Voted,"7,70",3,"1,89,54",3,
+111,Total 111 Charged,"9,92,49",1,1,1,
+111,Total 111 Voted,"7,70",3,"1,89,54",3,
+112,Evacuation of population,,,,,
+#,State's Expenditure,,,,,
+AB,Assistance to Indian Air Force Authority for Rescue Operations,,,,,2245 02 112 AB 30000
+333,Payments for Professional and Special Services,"9,55,64",,1,1,2245 02 112 AB 33300
+03,Special Service,"9,55,64",,1,1,2245 02 112 AB 33303
+AB,Total AB,"9,55,64",,1,1,
+#,State's Expenditure Total,"9,55,64",,1,1,
+112,Total 112,"9,55,64",,1,1,
+113,Assistance for repairs / reconstruction of Houses,,,,,
+#,State's Expenditure,,,,,
+AA,Reconstruction of Houses,,,,,2245 02 113 AA 30000
+309,Grants-in-Aid,,1,1,1,2245 02 113 AA 30900
+01,Grants for Current Expenditure,,1,1,1,2245 02 113 AA 30901
+AA,Total AA,,1,1,1,
+AB,"Assistance for Repair / Reconstruction of damaged  Houses, Huts in the Flood Affected Areas",,,,,2245 02 113 AB 30000
+309,Grants-in-Aid,"3,40,05,62",1,"48,04",1,2245 02 113 AB 30900
+09,Others,"3,40,05,62",1,"48,04",1,2245 02 113 AB 30909
+AB,Total AB,"3,40,05,62",1,"48,04",1,
+#,State's Expenditure Total,"3,40,05,62",2,"48,05",2,
+113,Total 113,"3,40,05,62",2,"48,05",2,
+114,Assistance to Farmers for purchase of Agricultural inputs,,,,,
+#,State's Expenditure,,,,,
+AA,Subsidy to Small and Marginal Farmers for Agricultural Inputs due to Flood,,,,,2245 02 114 AA 30000
+311,Subsidies,"6,08,73,61",1,"20,06,70",1,2245 02 114 AA 31100
+01,Individual Based Subsidy,"6,08,73,61",1,"20,06,70",1,2245 02 114 AA 31101
+AA,Total AA,"6,08,73,61",1,"20,06,70",1,
+AB,Ploughing cost to raise intercropping in the perennial crops,,,,,2245 02 114 AB 30000
+311,Subsidies,,1,1,1,2245 02 114 AB 31100
+01,Individual Based Subsidy,,1,1,1,2245 02 114 AB 31101
+AB,Total AB,,1,1,1,
+AG,Relief Measures to Farmers whose lands affected by landslide,,,,,2245 02 114 AG 30000
+311,Subsidies,,,"11,49",1,2245 02 114 AG 31100
+01,Individual Based Subsidy,,,"11,49",1,2245 02 114 AG 31101
+AG,Total AG,,,"11,49",1,
+#,State's Expenditure Total,"6,08,73,61",2,"20,18,20",3,
+114,Total 114,"6,08,73,61",2,"20,18,20",3,
+115,Assistance to Farmers to clear sand / silt / salinity from lands,,,,,
+#,State's Expenditure,,,,,
+AA,Assistance to Farmers to clear sand silt / salinity from lands,,,,,2245 02 115 AA 30000
+309,Grants-in-Aid,,1,1,1,2245 02 115 AA 30900
+09,Others,,1,1,1,2245 02 115 AA 30909
+AA,Total AA,,1,1,1,
+AB,Assistance to Farmers to cut and remove the broken / damaged coconut trees,,,,,2245 02 115 AB 30000
+311,Subsidies,,1,1,1,2245 02 115 AB 31100
+01,Individual Based Subsidy,,1,1,1,2245 02 115 AB 31101
+AB,Total AB,,1,1,1,
+#,State's Expenditure Total,,2,2,2,
+115,Total 115,,2,2,2,
+117,Assistance to Farmers for purchases of live stock,,,,,
+#,State's Expenditure,,,,,
+AA,Assistance to Small / Marginal Farmers for replacement of lost animals in flood affected areas,,,,,2245 02 117 AA 30000
+351,Compensation,"8,25",1,1,1,2245 02 117 AA 35100
+02,Other Compensations  - Voted,"8,25",1,1,1,2245 02 117 AA 35102
+AA,Total AA,"8,25",1,1,1,
+#,State's Expenditure Total,"8,25",1,1,1,
+117,Total 117,"8,25",1,1,1,
+118,Assistance for Repairs / Replacement of damaged boats and Equipment for fishing,,,,,
+#,State's Expenditure,,,,,
+AA,Relief Measures to Fishermen,,,,,2245 02 118 AA 30000
+309,Grants-in-Aid,,1,"31,15,43",1,2245 02 118 AA 30900
+09,Others,,1,"31,15,43",1,2245 02 118 AA 30909
+351,Compensation,"41,63,00",1,"5,07,85",1,2245 02 118 AA 35100
+02,Other Compensations  - Voted,"41,63,00",1,"5,07,85",1,2245 02 118 AA 35102
+AA,Total AA,"41,63,00",2,"36,23,28",2,
+#,State's Expenditure Total,"41,63,00",2,"36,23,28",2,
+118,Total 118,"41,63,00",2,"36,23,28",2,
+119,Assistance to artisans for repairs / replacement of damaged tools and equipments,,,,,
+#,State's Expenditure,,,,,
+AA,Subsidy to handloom weavers for Repairs / Replacements of damaged equipment due to flood,,,,,2245 02 119 AA 30000
+351,Compensation,,1,1,1,2245 02 119 AA 35100
+02,Other Compensations  - Voted,,1,1,1,2245 02 119 AA 35102
+AA,Total AA,,1,1,1,
+AB,Subsidy to Khadi Weavers and Potters for Repairs / Replacements of Damaged Equipments,,,,,2245 02 119 AB 30000
+351,Compensation,,1,1,1,2245 02 119 AB 35100
+02,Other Compensations  - Voted,,1,1,1,2245 02 119 AB 35102
+AB,Total AB,,1,1,1,
+#,State's Expenditure Total,,2,2,2,
+119,Total 119,,2,2,2,
+121,Afforestation,,,,,
+#,State's Expenditure,,,,,
+AA,Restoration works under Forests,,,,,2245 02 121 AA 30000
+319,Machinery and Equipments,,1,1,1,2245 02 121 AA 31900
+01,Purchase,,1,1,1,2245 02 121 AA 31901
+AA,Total AA,,1,1,1,
+#,State's Expenditure Total,,1,1,1,
+121,Total 121,,1,1,1,
+122,Repairs and restoration of damaged Irrigation and Flood Control Works,,,,,
+#,State's Expenditure,,,,,
+AA,Repairs to irrigation sources (items eligible for assistance from Union Government),,,,,2245 02 122 AA 30000
+317,Minor Works,"2,21,81",1,1,1,2245 02 122 AA 31700
+01,Minor Works,"2,21,81",1,1,1,2245 02 122 AA 31701
+AA,Total AA,"2,21,81",1,1,1,
+AE,Repairs and restoration works under Public Works Department (Water Resources Department),,,,,2245 02 122 AE 30000
+317,Minor Works,,1,1,1,2245 02 122 AE 31700
+01,Minor Works,,1,1,1,2245 02 122 AE 31701
+AE,Total AE,,1,1,1,
+#,State's Expenditure Total,"2,21,81",2,2,2,
+122,Total 122,"2,21,81",2,2,2,
+190,Assistance to Public Undertakings,,,,,
+#,State's Expenditure,,,,,
+AA,Assistance to Tamil Nadu Slum Clearance Board,,,,,2245 02 190 AA 30000
+317,Minor Works,,1,1,1,2245 02 190 AA 31700
+01,Minor Works,,1,1,1,2245 02 190 AA 31701
+AA,Total AA,,1,1,1,
+AB,Assistance to Tamil Nadu Electricity Board,,,,,2245 02 190 AB 30000
+309,Grants-in-Aid,"4,50,00,00",1,1,1,2245 02 190 AB 30900
+09,Others,"4,50,00,00",1,1,1,2245 02 190 AB 30909
+AB,Total AB,"4,50,00,00",1,1,1,
+AC,Assistance to State Transport Corporations.,,,,,2245 02 190 AC 30000
+309,Grants-in-Aid,,1,1,1,2245 02 190 AC 30900
+09,Others,,1,1,1,2245 02 190 AC 30909
+AC,Total AC,,1,1,1,
+AD,Assistance to Aavin.,,,,,2245 02 190 AD 30000
+309,Grants-in-Aid,,1,1,1,2245 02 190 AD 30900
+09,Others,,1,1,1,2245 02 190 AD 30909
+AD,Total AD,,1,1,1,
+AE,Assistance to Chennai Metro Water Supply and Sewerage Boad (CMWSSB),,,,,2245 02 190 AE 30000
+309,Grants-in-Aid,"4,96,50",1,1,1,2245 02 190 AE 30900
+09,Others,"4,96,50",1,1,1,2245 02 190 AE 30909
+AE,Total AE,"4,96,50",1,1,1,
+AF,Assistance to Tamil Nadu Water Supply and Drainage Board,,,,,2245 02 190 AF 30000
+309,Grants-in-Aid,"5,00,00",1,"14,26,00",1,2245 02 190 AF 30900
+09,Others,"5,00,00",1,"14,26,00",1,2245 02 190 AF 30909
+AF,Total AF,"5,00,00",1,"14,26,00",1,
+#,State's Expenditure Total,"4,59,96,50",6,"14,26,05",6,
+190,Total 190,"4,59,96,50",6,"14,26,05",6,
+191,Assistance to Municipal Corporations,,,,,
+#,State's Expenditure,,,,,
+AA,Repairs and Restoration Works in Municipal Corporations,,,,,2245 02 191 AA 30000
+309,Grants-in-Aid,,1,1,1,2245 02 191 AA 30900
+09,Others,,1,1,1,2245 02 191 AA 30909
+317,Minor Works,,1,1,1,2245 02 191 AA 31700
+01,Minor Works,,1,1,1,2245 02 191 AA 31701
+AA,Total AA,2,2,2,,
+AB,Assistance to Chennai Corporation for the Purchase of Equipments,,,,,2245 02 191 AB 30000
+309,Grants-in-Aid,"19,60,00",1,"7,25,00",1,2245 02 191 AB 30900
+09,Others,"19,60,00",1,"7,25,00",1,2245 02 191 AB 30909
+AB,Total AB,"19,60,00",1,"7,25,00",1,
+AC,Repairs and restoration of roads pertaining to Corporation of Madurai due to flood,,,,,2245 02 191 AC 30000
+317,Minor Works,,1,1,1,2245 02 191 AC 31700
+01,Minor Works,,1,1,1,2245 02 191 AC 31701
+AC,Total AC,1,1,1,,
+AD,"Distribution of Free Supply of Rice, Cloth, Food, Kerosene etc. in flood affected areas in Local Bodies",,,,,2245 02 191 AD 30000
+324,Materials and Supplies,,1,1,1,2245 02 191 AD 32400
+01,Materials and Supplies,,1,1,1,2245 02 191 AD 32401
+AD,Total AD,1,1,1,,
+#,State's Expenditure Total,"19,60,00",5,"7,25,04",5,
+191,Total 191,"19,60,00",5,"7,25,04",5,
+192,Assistance to Municipal Councils,,,,,
+#,State's Expenditure,,,,,
+AA,Repairs and Restoration of damaged Municipal Buildings,,,,,2245 02 192 AA 30000
+317,Minor Works,,1,1,1,2245 02 192 AA 31700
+01,Minor Works,,1,1,1,2245 02 192 AA 31701
+AA,Total AA,1,1,1,,
+AB,Assistance to the Municipalities for carrying out the repairs to the damages caused by floods and cyclones,,,,,2245 02 192 AB 30000
+309,Grants-in-Aid,"5,00,00",2,"82,72",2,2245 02 192 AB 30900
+02,Grants for Creation of Capital Assets,,1,1,1,2245 02 192 AB 30902
+09,Others,"5,00,00",1,"82,71",1,2245 02 192 AB 30909
+AB,Total AB,"5,00,00",2,"82,72",2,
+AC,Repairs and restoration of damaged roads under local bodies,,,,,2245 02 192 AC 30000
+309,Grants-in-Aid,,1,1,1,2245 02 192 AC 30900
+09,Others,,1,1,1,2245 02 192 AC 30909
+AC,Total AC,1,1,1,,
+AD,Repairs and restoration of damaged Municipal roads,,,,,2245 02 192 AD 30000
+309,Grants-in-Aid,,1,1,1,2245 02 192 AD 30900
+09,Others,,1,1,1,2245 02 192 AD 30909
+AD,Total AD,1,1,1,,
+#,State's Expenditure Total,"5,00,00",5,"82,75",5,
+192,Total 192,"5,00,00",5,"82,75",5,
+193,Assistance to Nagar Panchayats / Notified Area Committees or equivalent there of,,,,,
+#,State's Expenditure,,,,,
+AC,Repairs and restoration of public properties belong to Panchayat Unions,,,,,2245 02 193 AC 30000
+309,Grants-in-Aid,,1,1,1,2245 02 193 AC 30900
+09,Others,,1,1,1,2245 02 193 AC 30909
+AC,Total AC,1,1,1,,
+AN,"Assistance to Local Bodies for repairs and restoration of roads, buildings, street lights, drainage, etc.,",,,,,2245 02 193 AN 30000
+309,Grants-in-Aid,"25,00,00",1,1,1,2245 02 193 AN 30900
+09,Others,"25,00,00",1,1,1,2245 02 193 AN 30909
+AN,Total AN,"25,00,00",1,1,1,
+AX,"Assistance to Town Panchayats for repairs and restoration of roads, buildings, street lights, drainage, etc.",,,,,2245 02 193 AX 30000
+309,Grants-in-Aid,"5,00,00",1,1,1,2245 02 193 AX 30900
+09,Others,"5,00,00",1,1,1,2245 02 193 AX 30909
+AX,Total AX,"5,00,00",1,1,1,
+#,State's Expenditure Total,"30,00,00",3,3,3,
+193,Total 193,"30,00,00",3,3,3,
+197,Assistance to Block Panchayats/Intermediate level Panchayats,,,,,
+#,State's Expenditure,,,,,
+AA,Repairs and Restoration of damaged Government panchayat union roads due to flood,,,,,2245 02 197 AA 30000
+317,Minor Works,,1,1,1,2245 02 197 AA 31700
+01,Minor Works,,1,1,1,2245 02 197 AA 31701
+AA,Total AA,1,1,1,,
+#,State's Expenditure Total,,1,1,1,
+197,Total 197,1,1,1,,
+282,Public Health,,,,,
+#,State's Expenditure,,,,,
+AA,Medical and Public Health Measures to Flood Affected Areas,,,,,2245 02 282 AA 30000
+309,Grants-in-Aid,,1,"13,08,40",1,2245 02 282 AA 30900
+09,Others,,1,"13,08,40",1,2245 02 282 AA 30909
+366,Medicine,,1,1,1,2245 02 282 AA 36600
+01,Medicine,,1,1,1,2245 02 282 AA 36601
+AA,Total AA,,2,"13,08,41",2,
+AB,Special Nutrition for children and Lactating mothers,,,,,2245 02 282 AB 30000
+367,Feeding/Dietary Charges,,1,1,1,2245 02 282 AB 36700
+09,Others,,1,1,1,2245 02 282 AB 36709
+AB,Total AB,,1,1,1,
+#,State's Expenditure Total,,3,"13,08,42",3,
+282,Total 282,3,"13,08,42",3,,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+AL,Fire Relief,,,,,2245 02 800 AL 30000
+319,Machinery and Equipments,"5,75,00",1,"14,26,00",1,2245 02 800 AL 31900
+01,Purchase,"5,75,00",1,"14,26,00",1,2245 02 800 AL 31901
+351,Compensation,"1,31,80",1,"51,93",1,2245 02 800 AL 35100
+02,Other Compensations  - Voted,"1,31,80",1,"51,93",1,2245 02 800 AL 35102
+AL,Total AL,"7,06,80",2,"14,77,93",2,
+AP,Repairing of Agricultural Machines,,,,,2245 02 800 AP 30000
+309,Grants-in-Aid,,1,1,1,2245 02 800 AP 30900
+09,Others,,1,1,1,2245 02 800 AP 30909
+AP,Total AP,1,1,1,,
+AQ,Assistance for damaged infrastructure in Industrial Estate,,,,,2245 02 800 AQ 30000
+309,Grants-in-Aid,,1,1,1,2245 02 800 AQ 30900
+09,Others,,1,1,1,2245 02 800 AQ 30909
+AQ,Total AQ,1,1,1,,
+AU,Rural Development Training Centre at Narayanapuram,,,,,2245 02 800 AU 30000
+309,Grants-in-Aid,,1,1,1,2245 02 800 AU 30900
+01,Grants for Current Expenditure,,1,1,1,2245 02 800 AU 30901
+AU,Total AU,1,1,1,,
+AV,Assistance to Voluntary Institutions,,,,,2245 02 800 AV 30000
+309,Grants-in-Aid,15,1,1,1,2245 02 800 AV 30900
+09,Others,15,1,1,1,2245 02 800 AV 30909
+AV,Total AV,15,1,1,1,
+AX,Relief to Narikuravas,,,,,2245 02 800 AX 30000
+356,Feeding and Cash Doles,,1,1,1,2245 02 800 AX 35600
+01,Feeding and Cash Doles,,1,1,1,2245 02 800 AX 35601
+AX,Total AX,1,1,1,,
+AY,Assistance to flood affected sericulture farmers,,,,,2245 02 800 AY 30000
+309,Grants-in-Aid,,1,1,1,2245 02 800 AY 30900
+09,Others,,1,1,1,2245 02 800 AY 30909
+AY,Total AY,1,1,1,,
+AZ,Assistance towards land reclamation and replantation of mulberry plantation in the Flood affected Government limits,,,,,2245 02 800 AZ 30000
+309,Grants-in-Aid,,1,1,1,2245 02 800 AZ 30900
+09,Others,,1,1,1,2245 02 800 AZ 30909
+AZ,Total AZ,1,1,1,,
+BC," Purchase, Installation and Maintainance of HAM",,,,,2245 02 800 BC 30000
+318,Maintenance,,1,1,1,2245 02 800 BC 31800
+01,Periodical Maintenance,,1,1,1,2245 02 800 BC 31801
+BC,Total BC,1,1,1,,
+BH,Relief measures to farmers due to damage of Horticultural Crops in flood affected areas,,,,,2245 02 800 BH 30000
+309,Grants-in-Aid,,1,1,1,2245 02 800 BH 30900
+09,Others,,1,1,1,2245 02 800 BH 30909
+311,Subsidies,"32,50,63",1,"2,60,43",1,2245 02 800 BH 31100
+01,Individual Based Subsidy,"32,50,63",1,"2,60,43",1,2245 02 800 BH 31101
+BH,Total BH,"32,50,63",2,"2,60,44",2,
+BI,Ex-gratia payment to the persons who lost their animals due to Natural Calamities,,,,,2245 02 800 BI 30000
+351,Compensation,"10,34,37",1,"1,11,81",1,2245 02 800 BI 35100
+02,Other Compensations  - Voted,"10,34,37",1,"1,11,81",1,2245 02 800 BI 35102
+BI,Total BI,"10,34,37",1,"1,11,81",1,
+BK,Relief to the farmers for the damages caused to their infrastructure due to Natural Calamities,,,,,2245 02 800 BK 30000
+351,Compensation,,1,1,1,2245 02 800 BK 35100
+02,Other Compensations  - Voted,,1,1,1,2245 02 800 BK 35102
+BK,Total BK,1,1,1,,
+BL,Prepardness under State Disaster Relief Fund - Fisheries,,,,,2245 02 800 BL 30000
+305,Office Expenses,,,"4,06",1,2245 02 800 BL 30500
+01,Telephone Charges,,,"4,06",1,2245 02 800 BL 30501
+309,Grants-in-Aid,,1,1,1,2245 02 800 BL 30900
+01,Grants for Current Expenditure,,1,1,1,2245 02 800 BL 30901
+319,Machinery and Equipments,"3,10,05",1,1,1,2245 02 800 BL 31900
+01,Purchase,"3,10,05",1,1,1,2245 02 800 BL 31901
+BL,Total BL,"3,10,05",2,"4,08",3,
+BM,Prepardness under State Disaster Relief Fund - Police,,,,,2245 02 800 BM 30000
+319,Machinery and Equipments,,1,1,1,2245 02 800 BM 31900
+01,Purchase,,1,1,1,2245 02 800 BM 31901
+BM,Total BM,,1,1,1,
+BN,Assistance to Police Department towards Repairs and Restoration of Traffic Signals,,,,,2245 02 800 BN 30000
+309,Grants-in-Aid,,1,1,1,2245 02 800 BN 30900
+09,Others,,1,1,1,2245 02 800 BN 30909
+BN,Total BN,,1,1,1,
+BO,Repairs and Restoration works in Flood affected Districts,,,,,2245 02 800 BO 30000
+309,Grants-in-Aid,"7,48,33",1,1,1,2245 02 800 BO 30900
+09,Others,"7,48,33",1,1,1,2245 02 800 BO 30909
+BO,Total BO,"7,48,33",1,1,1,
+BP,"Repairs and Restoration works in sanctuary and Zoological Parks etc.,",,,,,2245 02 800 BP 30000
+309,Grants-in-Aid,,1,1,1,2245 02 800 BP 30900
+09,Others,,1,1,1,2245 02 800 BP 30909
+BP,Total BP,,1,1,1,
+BQ,"Procurement of essential  search, rescue and evacuation equipments including communication equipments for Coastal Security Groups (CSG)",,,,,2245 02 800 BQ 30000
+319,Machinery and Equipments,,1,1,1,2245 02 800 BQ 31900
+01,Purchase,,1,1,1,2245 02 800 BQ 31901
+BQ,Total BQ,,1,1,1,
+BR,"Procurement of essential  search, rescue and evacuation equipments including communication equipments for Home Guard (HG)",,,,,2245 02 800 BR 30000
+319,Machinery and Equipments,"43,52",1,1,1,2245 02 800 BR 31900
+01,Purchase,"43,52",1,1,1,2245 02 800 BR 31901
+BR,Total BR,"43,52",1,1,1, 
+BS,"Procurement of essential search, rescue and evacuation equipments including communication equipments for Highways Department",,,,,2245 02 800 BS 30000
+319,Machinery and Equipments,"37,43",1,1,1,2245 02 800 BS 31900
+01,Purchase,"37,43",1,1,1,2245 02 800 BS 31901
+BS,Total BS,"37,43",1,1,1,
+BT,"Procurement of essential  search, rescue and evacuation equipments including communication equipments for Public Works Department (PWD)",,,,,2245 02 800 BT 30000
+319,Machinery and Equipments,,1,1,1,2245 02 800 BT 31900
+01,Purchase,,1,1,1,2245 02 800 BT 31901
+BT,Total BT,1,1,1,,
+BU,Disaster Preparedness - Flood Mitigation Works in the Highly Vulnerable areas,,,,,2245 02 800 BU 30000
+317,Minor Works,"43,59,39",,"5,28,90,72",1,2245 02 800 BU 31700
+01,Minor Works,"43,59,39",,"5,28,90,72",1,2245 02 800 BU 31701
+BU,Total BU,"43,59,39",,"5,28,90,72",1,
+#,State's Expenditure Total,"1,04,90,67",24,"5,47,45,15",26,
+800,Total 800,"1,04,90,67",24,"5,47,45,15",26,
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+AA,"Repairs and Restoration of protected water supply  silted wells, pumpsets etc.",,,,,2245 02 911 AA 30000
+377,Deduct-Recoveries,"-4,92",,,,2245 02 911 AA 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-4,92",,,,2245 02 911 AA 37702
+AA,Total AA,"-4,92",,,,
+AB,"Assistance for Repair / Reconstruction of damaged  Houses, Huts in the Flood Affected Areas",,,,,2245 02 911 AB 30000
+377,Deduct-Recoveries,"-2,18",,,,2245 02 911 AB 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-2,18",,,,2245 02 911 AB 37702
+AB,Total AB,"-2,18",,,,
+AE,Cash Doles to persons affected in floods,,,,,2245 02 911 AE 30000
+377,Deduct-Recoveries,"-1,22,00",,,,2245 02 911 AE 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-1,22,00",,,,2245 02 911 AE 37702
+AE,Total AE,"-1,22,00",,,,
+AF,Assistance to Tamil Nadu Electricity Board,,,,,2245 02 911 AF 30000
+377,Deduct-Recoveries,-5,,,,2245 02 911 AF 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-5,,,,2245 02 911 AF 37702
+AF,Total AF,-5,,,,
+AI,Relief Measures to Fishermen,,,,,2245 02 911 AI 30000
+377,Deduct-Recoveries,"-1,17",,,,2245 02 911 AI 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-1,17",,,,2245 02 911 AI 37702
+AI,Total AI,"-1,17",,,,
+AL,"Assistance to Local Bodies for repairs and restoration of roads, buildings, street lights,drainage, etc.,",,,,,2245 02 911 AL 30000
+377,Deduct-Recoveries,"-20,86",,,,2245 02 911 AL 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-20,86",,,,2245 02 911 AL 37702
+AL,Total AL,"-20,86",,,,
+BH,Relief measures to farmers due to damage of Hortricultural Crops in flood affected areas,,,,,2245 02 911 BH 30000
+377,Deduct-Recoveries,"-78,48",,,,2245 02 911 BH 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-78,48",,,,2245 02 911 BH 37702
+BH,Total BH,"-78,48",,,,
+BI,Deduct - Recoveries of Overpayments,,,,,2245 02 911 BI 30000
+377,Deduct-Recoveries,-7,,,,2245 02 911 BI 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-7,,,,2245 02 911 BI 37702
+BI,Total BI,-7,,,,
+BN,Assistance to Police Department towards Repairs and Restoration of Traffic Signals,,,,,2245 02 911 BN 30000
+377,Deduct-Recoveries,"-1,73,79",,,,2245 02 911 BN 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-1,73,79",,,,2245 02 911 BN 37702
+BN,Total BN,"-1,73,79",,,,
+BO,Repairs and restoration works in Flood affected Districts,,,,,2245 02 911 BO 30000
+377,Deduct-Recoveries,-93,,,,2245 02 911 BO 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-93,,,,2245 02 911 BO 37702
+BO,Total BO,-93,,,,
+CA,Assistance to the Municipalities for carrying out the repairs to the damages caused by floods and cyclones,,,,,2245 02 911 CA 30000
+377,Deduct-Recoveries,"-2,17",,,,2245 02 911 CA 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-2,17",,,,2245 02 911 CA 37702
+CA,Total CA,"-2,17",,,,
+CD,Subsidy to handloom weavers for Repairs / Replacements of damaged equipment due to flood,,,,,2245 02 911 CD 30000
+377,Deduct-Recoveries,-2,,,,2245 02 911 CD 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-2,,,,2245 02 911 CD 37702
+CD,Total CD,-2,,,,
+CE,Subsidy to handloom weavers for Repairs / Replacements of damaged equipment due to flood,,,,,2245 02 911 CE 30000
+377,Deduct-Recoveries,-8,,,,2245 02 911 CE 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-8,,,,2245 02 911 CE 37702
+CE,Total CE,-8,,,,
+CF,Ex-gratia Payment to Bereaved Family of the deceased,,,,,2245 02 911 CF 30000
+377,Deduct-Recoveries,-2,,,,2245 02 911 CF 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-2,,,,2245 02 911 CF 37702
+CF,Total CF,-2,,,,
+#,State's Expenditure Total,"-4,06,74",,,,
+911,Total 911,"-4,06,74",,,,
+02,Total 02 Charged,"9,92,49",1,1,1,
+02,Total 02 Voted,"21,44,10,80",84,"6,44,68,92",96,
+05,State Disaster Response Fund,,,,,
+101,Transfer to Reserve Funds and Deposit Accounts - State Disaster Response Fund,,,,,
+#,State's Expenditure,,,,,
+AC,Transfer to State Disaster Response Fund,,,,,2245 05 101 AC 30000
+330,Inter-Account Transfers,"7,86,00,00","8,25,00,00","8,25,00,00","13,60,00,00",2245 05 101 AC 33000
+01,Inter-Account Transfers,"7,86,00,00","8,25,00,00","8,25,00,00","13,60,00,00",2245 05 101 AC 33001
+AC,Total AC,"7,86,00,00","8,25,00,00","8,25,00,00","13,60,00,00",
+#,State's Expenditure Total,"7,86,00,00","8,25,00,00","8,25,00,00","13,60,00,00",
+101,Total 101,"7,86,00,00","8,25,00,00","8,25,00,00","13,60,00,00",
+901,Deduct-Amount met from State Disaster Response Fund,,,,,
+#,State's Expenditure,,,,,
+AC,Deduct - Amount met from State Disaster Response Fund,,,,,2245 05 901 AC 30000
+330,Inter-Account Transfers,"-7,86,00,00","-8,25,00,00","-8,25,00,00 -13,60,00,00",,2245 05 901 AC 33000
+01,Inter-Account Transfers,"-7,86,00,00","-8,25,00,00","-8,25,00,00 -13,60,00,00",,2245 05 901 AC 33001
+AC,Total AC,"-7,86,00,00","-8,25,00,00","-8,25,00,00 -13,60,00,00",,
+#,State's Expenditure Total,"-7,86,00,00","-8,25,00,00","-8,25,00,00 -13,60,00,00",,
+901,Total 901,"-7,86,00,00","-8,25,00,00","-8,25,00,00 -13,60,00,00",,
+05,Total 05,,,,,
+80,General,,,,,
+101,Centre for Training in disaster preparedness,,,,,
+#,State's Expenditure,,,,,
+AA,"Training Programmes on  flood, Cyclone and drought management and other disasters",,,,,2245 80 101 AA 30000
+372,Training,"4,10",1,"37,00",1,2245 80 101 AA 37200
+01,Training,"4,10",1,"37,00",1,2245 80 101 AA 37201
+AA,Total AA,"4,10",1,"37,00",1,
+AB,Capacity Building for Disaster Response as per the recommendation of 13th Finance Commission,,,,,2245 80 101 AB 30000
+333,Payments for Professional and Special Services,,1,1,1,2245 80 101 AB 33300
+04,Contract Payment,,1,1,1,2245 80 101 AB 33304
+372,Training,,1,1,1,2245 80 101 AB 37200
+01,Training,,1,1,1,2245 80 101 AB 37201
+AB,Total AB,,2,2,2,
+AC,Capacity Building Geographical Information System (GIS) Cell,,,,,2245 80 101 AC 30000
+372,Training,,1,1,1,2245 80 101 AC 37200
+01,Training,,1,1,1,2245 80 101 AC 37201
+AC,Total AC,,1,1,1,
+#,State's Expenditure Total,"4,10",4,"37,03",4,
+101,Total 101,"4,10",4,"37,03",4,
+102,"Management of Natural  Disasters, Contingency Plans in disaster prone areas",,,,,
+#,State's Expenditure,,,,,
+AA,State and District Disaster Response Fund,,,,,2245 80 102 AA 30000
+310,Contributions,,1,1,1,2245 80 102 AA 31000
+01,Contribution to Specific Fund,,1,1,1,2245 80 102 AA 31001
+AA,Total AA,1,1,1,,
+AB,State and District Mitigation Funds,,,,,2245 80 102 AB 30000
+310,Contributions,,1,1,1,2245 80 102 AB 31000
+01,Contribution to Specific Fund,,1,1,1,2245 80 102 AB 31001
+AB,Total AB,1,1,1,,
+AC,Schemes for preparation of State Disaster Management Plans,,,,,2245 80 102 AC 30000
+333,Payments for Professional and Special Services,,1,1,1,2245 80 102 AC 33300
+03,Special Service,,1,1,1,2245 80 102 AC 33303
+AC,Total AC,1,1,1,,
+AD,Tamil Nadu Disaster Response Force,,,,,2245 80 102 AD 30000
+319,Machinery and Equipments,,1,1,"10,14,83",2245 80 102 AD 31900
+01,Purchase,,1,1,"10,14,83",2245 80 102 AD 31901
+372,Training,,1,1,1,2245 80 102 AD 37200
+01,Training,,1,1,1,2245 80 102 AD 37201
+AD,Total AD,2,2,"10,14,84",,
+AE,Long Term Mitigation Funds,,,,,2245 80 102 AE 30000
+309,Grants-in-Aid,,"5,00,00","5,00,00",1,2245 80 102 AE 30900
+03,Grants for Specific Schemes,,"5,00,00","5,00,00",1,2245 80 102 AE 30903
+333,Payments for Professional and Special Services,,"5,00,00","5,00,00",1,2245 80 102 AE 33300
+03,Special Service,,"5,00,00","5,00,00",1,2245 80 102 AE 33303
+AE,Total AE,,"10,00,00","10,00,00",2,
+#,State's Expenditure Total,,"10,00,05","10,00,05","10,14,89",
+102,Total 102,,"10,00,05","10,00,05","10,14,89",
+103,Assistance to States from National Disaster Response Fund,,,,,
+#,State's Expenditure,,,,,
+AA,Assistance to States from National Disaster Response Fund,,,,,2245 80 103 AA 30000
+330,Inter-Account Transfers,"9,00,31,00",1,1,1,2245 80 103 AA 33000
+01,Inter-Account Transfers,"9,00,31,00",1,1,1,2245 80 103 AA 33001
+AA,Total AA,"9,00,31,00",1,1,1,
+#,State's Expenditure Total,"9,00,31,00",1,1,1,
+#,Central Sector Schemes,,,,,
+SA,Aapda Mitra scheme under Other Disaster Management Project (ODMP) scheme,,,,,2245 80 103 SA 30000
+372,Training,,,"22,70",1,2245 80 103 SA 37200
+01,Training,,,"22,70",1,2245 80 103 SA 37201
+SA,Total SA,,,"22,70",1,
+SB,Conduct of Mock Exercise,,,,,2245 80 103 SB 30000
+372,Training,,,1,1,2245 80 103 SB 37200
+01,Training,,,1,1,2245 80 103 SB 37201
+SB,Total SB,,1,1,,
+SC,Strengthening of District Disaster Management Authorities (DDMAs) of Hazard Prone Districts.,,,,,2245 80 103 SC 30000
+372,Training,,,"8,40",1,2245 80 103 SC 37200
+01,Training,,,"8,40",1,2245 80 103 SC 37201
+SC,Total SC,,"8,40",1,,
+SD,Sendai Framework for Disaster Risk Reduction (DRR) Scheme,,,,,2245 80 103 SD 30000
+309,Grants-in-Aid,,,"19,64",1,2245 80 103 SD 30900
+03,Grants for Specific Schemes,,,"19,64",1,2245 80 103 SD 30903
+SD,Total SD,,"19,64",1,,
+#,Central Sector Schemes Total,,,"50,75",4,
+103,Total 103,"9,00,31,00",1,"50,76",5,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+AA,Assistance for undertaking immediate relief works in connection with Flood / Fire / Drought,,,,,2245 80 800 AA 30000
+309,Grants-in-Aid,"2,08,67",3,3,3,2245 80 800 AA 30900
+01,Grants for Current Expenditure,,1,1,1,2245 80 800 AA 30901
+02,Grants for Creation of Capital Assets,,1,1,1,2245 80 800 AA 30902
+09,Others,"2,08,67",1,1,1,2245 80 800 AA 30909
+319,Machinery and Equipments,,2,2,2,2245 80 800 AA 31900
+01,Purchase,,1,1,1,2245 80 800 AA 31901
+03,Maintenance,,1,1,1,2245 80 800 AA 31903
+AA,Total AA,"2,08,67",5,5,5,
+AB,Assistance for undertaking  relief works in  Tsunami affected areas,,,,,2245 80 800 AB 30000
+309,Grants-in-Aid,,1,1,1,2245 80 800 AB 30900
+01,Grants for Current Expenditure,,1,1,1,2245 80 800 AB 30901
+317,Minor Works,,1,1,1,2245 80 800 AB 31700
+01,Minor Works,,1,1,1,2245 80 800 AB 31701
+351,Compensation Charged,,1,1,1,2245 80 800 AB 35100
+51,Claims under no fault liability -  principal charges Charged,,1,1,1,2245 80 800 AB 35151
+AB,Total AB Charged,,1,1,1,
+AB,Total AB Voted,,2,2,2,
+AF,Formation of EmergencyOperation Centres in,,,,,
+Sub-Divisional Offices,,,,,2245 80 800 AF 30000,
+305,Office Expenses,,1,1,1,2245 80 800 AF 30500
+01,Telephone Charges,,1,1,1,2245 80 800 AF 30501
+319,Machinery and Equipments,,1,1,1,2245 80 800 AF 31900
+01,Purchase,,1,1,1,2245 80 800 AF 31901
+376,Computer and Accessories,,1,1,1,2245 80 800 AF 37600
+01,Purchase,,1,1,1,2245 80 800 AF 37601
+AF,Total AF,3,3,3,,
+AG,Establishing Video Conferencing System,,,,,2245 80 800 AG 30000
+305,Office Expenses,,1,1,1,2245 80 800 AG 30500
+02,Other Contingencies,,1,1,1,2245 80 800 AG 30502
+AG,Total AG,,1,1,1,
+#,State's Expenditure Total Charged,,1,1,1,
+#,State's Expenditure Total Voted,"2,08,67",11,11,11,
+800,Total 800 Charged,,1,1,1,
+800,Total 800 Voted,"2,08,67",11,11,11,
+902,Deduct - Amount met from Reserve Fund,,,,,
+#,State's Expenditure,,,,,
+AA,Deduct - Amount met from the National Disaster Response Fund,,,,,2245 80 902 AA 30000
+330,Inter-Account Transfers,"-9,00,31,00",-1,-1,-1,2245 80 902 AA 33000
+01,Inter-Account Transfers,"-9,00,31,00",-1,-1,-1,2245 80 902 AA 33001
+AA,Total AA,"-9,00,31,00",-1,-1,-1,
+#,State's Expenditure Total,"-9,00,31,00",-1,-1,-1,
+902,Total 902,"-9,00,31,00",-1,-1,-1,
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+AA,Deduct - Recoveries of unspent balance of Grants-in-Aid - Assistance for undertaking relief works in Tsunami affected areas,,,,,2245 80 911 AA 30000
+377,Deduct-Recoveries,"-2,54",,,,2245 80 911 AA 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-2,54",,,,2245 80 911 AA 37702
+AA,Total AA,"-2,54",,,,
+AF,Formation of EmergencyOperation Centres in Sub-Divisional Offices,,,,,2245 80 911 AF 30000,
+377,Deduct-Recoveries,-10,,,,2245 80 911 AF 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-10,,,,2245 80 911 AF 37702
+AF,Total AF,-10,,,,
+CA,Assistance for undertaking immediate relief works in connection with Flood / Fire / Drought,,,,,2245 80 911 CA 30000
+377,Deduct-Recoveries,-15,,,,2245 80 911 CA 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-15,,,,2245 80 911 CA 37702
+CA,Total CA,-15,,,,
+#,State's Expenditure Total,"-2,79",,,,
+#,Central Sector Schemes,,,,,
+SA,Aapda Mitra Scheme under Other Disaster Management Project (ODMP) Scheme,,,,,2245 80 911 SA 30000
+377,Deduct-Recoveries,-1,,,,2245 80 911 SA 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-1,,,,2245 80 911 SA 37702
+SA,Total SA,-1,,,,
+SB,Conduct of Mock Exercise,,,,,2245 80 911 SB 30000
+377,Deduct-Recoveries,-66,,,,2245 80 911 SB 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-66,,,,2245 80 911 SB 37702
+SB,Total SB,-66,,,,
+#,Central Sector Schemes Total,-67,,,,
+911,Total 911,"-3,46",,,,
+80,Total 80 Charged,,1,1,1,
+80,Total 80 Voted,"2,09,31","10,00,20","10,87,94","10,15,08",
+2245,Total 2245 Charged,"9,92,49",2,2,2,
+2245,Total 2245 Voted,"22,28,54,62","10,01,35","11,60,38,81","10,16,35",

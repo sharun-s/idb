@@ -1,0 +1,1019 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2059,PUBLIC WORKS,,,,,
+01,Office Buildings,,,,,
+053,Maintenance and Repairs,,,,,
+#,State's Expenditure,,,,,
+CP,Buildings - Commissionerate for  the Welfare of Differently Abled Persons,,,,,2059 01 053 CP 30000
+318,Maintenance,"74,68","15,00","15,00","15,00",2059 01 053 CP 31800 
+01,Periodical Maintenance,"74,68","15,00","15,00","15,00",2059 01 053 CP 31801
+CP,Total CP,"74,68","15,00","15,00","15,00",
+DP,Buildings - Schools and Service Homes for the Welfare of Differently Abled Persons,,,,,2059 01 053 DP 30000
+318,Maintenance,"1,52,20","45,00","45,00","47,25",2059 01 053 DP 31800 
+01,Periodical Maintenance,"1,52,20","45,00","45,00","47,25",2059 01 053 DP 31801
+DP,Total DP,"1,52,20","45,00","45,00","47,25",
+#,State's Expenditure Total,"2,26,88","60,00","60,00","62,25",
+053,Total 053,"2,26,88","60,00","60,00","62,25",
+01,Total 01,"2,26,88","60,00","60,00","62,25",
+2059,Total 2059,"2,26,88","60,00","60,00","62,25",
+2235,SOCIAL SECURITY AND WELFARE,,,,,
+02,Social Welfare,,,,,
+001,Direction and Administration,,,,,
+#,State's Expenditure,,,,,
+AF,Commissionerate for  the Welfare of Differently Abled Persons,,,,,2235 02 001 AF 30000
+301,Salaries,"1,99,86","4,00,44","2,33,16","2,41,24",2235 02 001 AF 30100
+01,Pay,"1,72,76","3,66,14","2,01,81","2,09,88",2235 02 001 AF 30101
+02,Medical Allowance,95,"1,48","1,11","1,11",2235 02 001 AF 30102
+03,Medical Charges,7,78,25,26,2235 02 001 AF 30103
+04,Other Allowances,"2,92","4,77","3,00","3,00",2235 02 001 AF 30104
+06,House Rent Allowance,"20,27","23,93","23,92","23,92",2235 02 001 AF 30106
+07,Travel Concession,,77,50,50,2235 02 001 AF 30107
+08,City Compensatory Allowance,"2,89","2,57","2,57","2,57",2235 02 001 AF 30108
+303,Dearness Allowance,"21,88","47,59","40,65","51,42",2235 02 001 AF 30300
+01,Dearness Allowance,"21,88","47,59","40,65","51,42",2235 02 001 AF 30301
+304,Travel Expenses,"1,94","3,02","3,02","3,02",2235 02 001 AF 30400
+01,Tour Travelling Allowances,"1,94","2,96","2,96","2,96",2235 02 001 AF 30401
+02,Transfer Travelling Allowances,,6,6,6,2235 02 001 AF 30402
+305,Office Expenses,"20,20","14,52","17,92","17,92",2235 02 001 AF 30500
+01,Telephone Charges,"1,09","1,78","1,78","1,78",2235 02 001 AF 30501
+02,Other Contingencies,"13,58","9,00","9,00","9,00",2235 02 001 AF 30502
+03,Electricity Charges,"4,53","3,00","6,40","6,40",2235 02 001 AF 30503
+04,Service Postage & Postal Expenditure,"1,00",74,74,74,2235 02 001 AF 30504
+308,Advertising and Publicity,"12,85","11,75","13,90","11,75",2235 02 001 AF 30800
+01,Advertisement Charges,90,90,90,90,2235 02 001 AF 30801
+02,Exhibition,"11,95","10,85","13,00","10,85",2235 02 001 AF 30802
+309,Grants-in-Aid,"7,92",,,,2235 02 001 AF 30900
+03,Grants for Specific Schemes,"7,92",,,,2235 02 001 AF 30903
+312,Scholarships and Stipends,,,16,,2235 02 001 AF 31200
+09,Others,,,16,,2235 02 001 AF 31209
+317,Minor Works,"3,46","3,47",1,1,2235 02 001 AF 31700
+01,Minor Works,"3,46","3,47",1,1,2235 02 001 AF 31701
+321,Motor Vehicles,18,42,42,42,2235 02 001 AF 32100
+01,Purchase,,1,1,1,2235 02 001 AF 32101
+02,Maintenance of Functional Vehicles,18,41,41,41,2235 02 001 AF 32102
+333,Payments for Professional and Special Services,"1,25,02","11,20","20,65","20,65",2235 02 001 AF 33300
+01,Pleaders Fees,64,70,"1,55","1,55",2235 02 001 AF 33301
+03,Special Service,"1,16,12","8,70","8,70","8,70",2235 02 001 AF 33303
+04,Contract Payment,"8,26","1,80","10,40","10,40",2235 02 001 AF 33304
+334,Other Charges,,5,5,5,2235 02 001 AF 33400
+02,"Purchase  of  Books & Periodicals to Libraries etc.,",,5,5,5,2235 02 001 AF 33402
+345,"Petroleum, Oil and Lubricant","1,34","2,01","2,01","2,01",2235 02 001 AF 34500
+01,"Petroleum, Oil and Lubricant","1,34","2,01","2,01","2,01",2235 02 001 AF 34501
+346,"Clothing, Tentage and Stores",,1,1,1,2235 02 001 AF 34600
+01,"Clothing, Tentage and Stores",,1,1,1,2235 02 001 AF 34601
+349,Festival Advances,-10,,,,2235 02 001 AF 34900
+01,Festival Advances-Debit,70,"1,80","3,60","3,60",2235 02 001 AF 34901
+02,Festival Advances-Credit,-80,"-1,80","-3,60","-3,60",2235 02 001 AF 34902
+351,Compensation Charged,,1,1,1,2235 02 001 AF 35100
+51,Claims under no fault liability -  principal charges Charged,,1,1,1,2235 02 001 AF 35151
+359,Prizes and Awards,"5,50","5,50","5,50","5,50",2235 02 001 AF 35900
+01,Prizes and Awards,"5,50","5,50","5,50","5,50",2235 02 001 AF 35901
+364,Lands,,1,1,1,2235 02 001 AF 36400
+01,Lands - Voted,,1,1,1,2235 02 001 AF 36401
+376,Computer and Accessories,"4,48","5,42","5,42","5,42",2235 02 001 AF 37600
+02,Maintenance,"4,17","4,92","4,92","4,92",2235 02 001 AF 37602
+03,Stationery,31,50,50,50,2235 02 001 AF 37603
+AF,Total AF Charged,,1,1,1,
+AF,Total AF Voted,"4,04,53","5,05,41","3,42,89","3,59,43",
+#,State's Expenditure Total Charged,,1,1,1,
+#,State's Expenditure Total Voted,"4,04,53","5,05,41","3,42,89","3,59,43",
+001,Total 001 Charged,,1,1,1,
+001,Total 001 Voted,"4,04,53","5,05,41","3,42,89","3,59,43",
+101,Welfare of Differently Abled Persons,,,,,
+#,State's Expenditure,,,,,
+AA,School for the Blind,,,,,2235 02 101 AA 30000
+301,Salaries,"7,88,47","7,21,90","7,91,16","8,19,77",2235 02 101 AA 30100
+01,Pay,"7,06,40","6,46,04","7,15,00","7,43,61",2235 02 101 AA 30101
+02,Medical Allowance,"5,22","4,78","5,00","5,00",2235 02 101 AA 30102
+03,Medical Charges,,8,8,8,2235 02 101 AA 30103
+04,Other Allowances,"15,51","17,31","16,70","16,70",2235 02 101 AA 30104
+06,House Rent Allowance,"53,83","45,81","46,50","46,50",2235 02 101 AA 30106
+07,Travel Concession,4,47,47,47,2235 02 101 AA 30107
+08,City Compensatory Allowance,"7,47","7,41","7,41","7,41",2235 02 101 AA 30108
+302,Wages,"3,68","6,02","6,02","6,02",2235 02 101 AA 30200
+01,Wages,"3,68","6,02","6,02","6,02",2235 02 101 AA 30201
+303,Dearness Allowance,"70,90","83,97","1,04,92","1,82,18",2235 02 101 AA 30300
+01,Dearness Allowance,"70,90","83,97","1,04,92","1,82,18",2235 02 101 AA 30301
+304,Travel Expenses,65,"1,61","1,61","1,61",2235 02 101 AA 30400
+01,Tour Travelling Allowances,52,"1,36","1,36","1,36",2235 02 101 AA 30401
+02,Transfer Travelling Allowances,13,25,25,25,2235 02 101 AA 30402
+305,Office Expenses,"19,49","13,59","17,81","17,81",2235 02 101 AA 30500
+01,Telephone Charges,97,"1,60","1,60","1,60",2235 02 101 AA 30501
+02,Other Contingencies,"3,44","5,00","5,00","5,00",2235 02 101 AA 30502
+03,Electricity Charges,"12,58","6,67","10,89","10,89",2235 02 101 AA 30503
+04,Service Postage & Postal Expenditure,22,32,32,32,2235 02 101 AA 30504
+05,Furniture,"2,28",,,,2235 02 101 AA 30505
+306,"Rent, Rates and Taxes","2,45","2,52","2,52","2,52",2235 02 101 AA 30600
+01,Rent,"2,45","2,46","2,46","2,46",2235 02 101 AA 30601
+02,Property tax,,6,6,6,2235 02 101 AA 30602
+309,Grants-in-Aid,"44,47","65,87","65,87","65,87",2235 02 101 AA 30900
+03,Grants for Specific Schemes,"36,92","58,32","58,32","58,32",2235 02 101 AA 30903
+09,Others,"7,55","7,55","7,55","7,55",2235 02 101 AA 30909
+319,Machinery and Equipments,,1,"11,86",2,2235 02 101 AA 31900
+01,Purchase,,,"11,85",1,2235 02 101 AA 31901
+03,Maintenance,,1,1,1,2235 02 101 AA 31903
+324,Materials and Supplies,"3,06","15,00","15,00","15,00",2235 02 101 AA 32400
+01,Materials and Supplies,"3,06","15,00","15,00","15,00",2235 02 101 AA 32401
+333,Payments for Professional and Special Services,,"16,21","16,21","16,21",2235 02 101 AA 33300
+04,Contract Payment,,"16,21","16,21","16,21",2235 02 101 AA 33304
+346,"Clothing, Tentage and Stores","13,51","11,42","13,01","13,01",2235 02 101 AA 34600
+01,"Clothing, Tentage and Stores","13,51","11,42","13,01","13,01",2235 02 101 AA 34601
+349,Festival Advances,45,,,,2235 02 101 AA 34900
+01,Festival Advances-Debit,"5,65","9,50","19,00","19,00",2235 02 101 AA 34901
+02,Festival Advances-Credit,"-5,20","-9,50","-19,00","-19,00",2235 02 101 AA 34902
+354,Expenses on Conducted Tours,"8,30","7,86","7,86","7,86",2235 02 101 AA 35400
+01,Expenses on Conducted Tours,"8,30","7,86","7,86","7,86",2235 02 101 AA 35401
+359,Prizes and Awards,15,,18,18,2235 02 101 AA 35900
+01,Prizes and Awards,15,,18,18,2235 02 101 AA 35901
+367,Feeding/Dietary Charges,"23,26","53,52","53,52","53,52",2235 02 101 AA 36700
+09,Others,"23,26","53,52","53,52","53,52",2235 02 101 AA 36709
+368,"Cost of Books/Note Books/Slates, etc.",,1,1,1,2235 02 101 AA 36800
+01,"Cost of Books/Note Books/Slates, etc.",,1,1,1,2235 02 101 AA 36801
+376,Computer and Accessories,"34,33",1,1,1,2235 02 101 AA 37600
+01,Purchase,"34,33",1,1,1,2235 02 101 AA 37601
+AA,Total AA,"10,13,17","9,99,52","11,07,57","12,01,60",
+AB,Regional Braille Press,,,,,2235 02 101 AB 30000
+301,Salaries,"6,66","5,90","6,47","6,68",2235 02 101 AB 30100
+01,Pay,"5,84","4,64","5,21","5,42",2235 02 101 AB 30101
+02,Medical Allowance,4,6,6,6,2235 02 101 AB 30102
+04,Other Allowances,7,19,19,19,2235 02 101 AB 30104
+06,House Rent Allowance,60,92,92,92,2235 02 101 AB 30106
+08,City Compensatory Allowance,11,9,9,9,2235 02 101 AB 30108
+303,Dearness Allowance,51,60,74,"1,33",2235 02 101 AB 30300
+01,Dearness Allowance,51,60,74,"1,33",2235 02 101 AB 30301
+304,Travel Expenses,10,7,7,7,2235 02 101 AB 30400
+01,Tour Travelling Allowances,10,7,7,7,2235 02 101 AB 30401
+305,Office Expenses,10,17,35,35,2235 02 101 AB 30500
+02,Other Contingencies,5,10,10,10,2235 02 101 AB 30502
+03,Electricity Charges,5,6,24,24,2235 02 101 AB 30503
+04,Service Postage & Postal Expenditure,,1,1,1,2235 02 101 AB 30504
+349,Festival Advances,4,,,,2235 02 101 AB 34900
+01,Festival Advances-Debit,10,10,20,20,2235 02 101 AB 34901
+02,Festival Advances-Credit,-6,-10,-20,-20,2235 02 101 AB 34902
+376,Computer and Accessories,4,5,5,5,2235 02 101 AB 37600
+02,Maintenance,4,5,5,5,2235 02 101 AB 37602
+AB,Total AB,"7,45","6,79","7,68","8,48",
+AE,Light Engineering Education Project for the Adult Blind,,,,,2235 02 101 AE 30000
+301,Salaries,"14,67","16,77","16,66","17,20",2235 02 101 AE 30100
+01,Pay,"12,63","13,41","13,41","13,95",2235 02 101 AE 30101
+02,Medical Allowance,10,9,10,10,2235 02 101 AE 30102
+04,Other Allowances,19,11,20,20,2235 02 101 AE 30104
+06,House Rent Allowance,"1,49","2,59","2,59","2,59",2235 02 101 AE 30106
+07,Travel Concession,,6,6,6,2235 02 101 AE 30107
+08,City Compensatory Allowance,26,51,30,30,2235 02 101 AE 30108
+303,Dearness Allowance,"1,09","1,24","1,53","3,42",2235 02 101 AE 30300
+01,Dearness Allowance,"1,09","1,24","1,53","3,42",2235 02 101 AE 30301
+304,Travel Expenses,6,4,4,4,2235 02 101 AE 30400
+01,Tour Travelling Allowances,6,4,4,4,2235 02 101 AE 30401
+305,Office Expenses,31,"1,14","1,14","1,14",2235 02 101 AE 30500
+01,Telephone Charges,4,7,7,7,2235 02 101 AE 30501
+02,Other Contingencies,7,7,7,7,2235 02 101 AE 30502
+03,Electricity Charges,20,98,98,98,2235 02 101 AE 30503
+04,Service Postage & Postal Expenditure,,2,2,2,2235 02 101 AE 30504
+312,Scholarships and Stipends,35,1,1,1,2235 02 101 AE 31200
+09,Others,35,1,1,1,2235 02 101 AE 31209
+324,Materials and Supplies,9,10,10,10,2235 02 101 AE 32400
+01,Materials and Supplies,9,10,10,10,2235 02 101 AE 32401
+333,Payments for Professional and Special Services,"1,41","1,46","2,78","2,78",2235 02 101 AE 33300
+04,Contract Payment,"1,41","1,46","2,78","2,78",2235 02 101 AE 33304
+349,Festival Advances,1,,,,2235 02 101 AE 34900
+01,Festival Advances-Debit,5,5,20,20,2235 02 101 AE 34901
+02,Festival Advances-Credit,-4,-5,-20,-20,2235 02 101 AE 34902
+AE,Total AE,"17,99","20,76","22,26","24,69",
+AG,Regional Training Centres for Teachers of the Blind,,,,,2235 02 101 AG 30000
+301,Salaries,,"7,57",5,5,2235 02 101 AG 30100
+01,Pay,,"6,49",1,1,2235 02 101 AG 30101
+02,Medical Allowance,,9,1,1,2235 02 101 AG 30102
+04,Other Allowances,,19,1,1,2235 02 101 AG 30104
+06,House Rent Allowance,,69,1,1,2235 02 101 AG 30106
+08,City Compensatory Allowance,,11,1,1,2235 02 101 AG 30108
+303,Dearness Allowance,,85,1,,2235 02 101 AG 30300
+01,Dearness Allowance,,85,1,,2235 02 101 AG 30301
+304,Travel Expenses,,20,1,1,2235 02 101 AG 30400
+01,Tour Travelling Allowances,,20,1,1,2235 02 101 AG 30401
+305,Office Expenses,,2,2,2,2235 02 101 AG 30500
+04,Service Postage & Postal Expenditure,,2,2,2,2235 02 101 AG 30504
+312,Scholarships and Stipends,,1,1,1,2235 02 101 AG 31200
+09,Others,,1,1,1,2235 02 101 AG 31209
+333,Payments for Professional and Special Services,,16,,1,2235 02 101 AG 33300
+02,Remuneration,,16,,1,2235 02 101 AG 33302
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,5,10,10,2235 02 101 AG 34901
+02,Festival Advances-Credit,,-5,-10,-10,2235 02 101 AG 34902
+AG,Total AG,"8,81",10,10,,
+AR,Schools for the Deaf,,,,,2235 02 101 AR 30000
+301,Salaries,"7,87,64","6,67,75","7,93,34","8,22,27",2235 02 101 AR 30100
+01,Pay,"7,22,00","6,02,00","7,23,23","7,52,16",2235 02 101 AR 30101
+02,Medical Allowance,"5,79","3,27","4,10","4,10",2235 02 101 AR 30102
+04,Other Allowances,"16,01","15,12","18,54","18,54",2235 02 101 AR 30104
+06,House Rent Allowance,"40,58","44,08","44,08","44,08",2235 02 101 AR 30106
+07,Travel Concession,27,41,40,40,2235 02 101 AR 30107
+08,City Compensatory Allowance,"2,39","2,27","2,27","2,27",2235 02 101 AR 30108
+09,Honorarium,60,60,72,72,2235 02 101 AR 30109
+302,Wages,"2,04","2,44","2,44","2,44",2235 02 101 AR 30200
+01,Wages,"2,04","2,44","2,44","2,44",2235 02 101 AR 30201
+303,Dearness Allowance,"73,61","78,75","1,09,41","1,84,28",2235 02 101 AR 30300
+01,Dearness Allowance,"73,61","78,75","1,09,41","1,84,28",2235 02 101 AR 30301
+304,Travel Expenses,71,"1,19","1,06","1,06",2235 02 101 AR 30400
+01,Tour Travelling Allowances,68,"1,13","1,00","1,00",2235 02 101 AR 30401
+02,Transfer Travelling Allowances,3,6,6,6,2235 02 101 AR 30402
+305,Office Expenses,"13,13","13,90","16,55","16,55",2235 02 101 AR 30500
+01,Telephone Charges,77,"1,08","1,08","1,08",2235 02 101 AR 30501
+02,Other Contingencies,"3,97","5,00","5,00","5,00",2235 02 101 AR 30502
+03,Electricity Charges,"5,69","7,16","9,81","9,81",2235 02 101 AR 30503
+04,Service Postage & Postal Expenditure,18,66,66,66,2235 02 101 AR 30504
+05,Furniture,"2,52",,,,2235 02 101 AR 30505
+306,"Rent, Rates and Taxes","2,17","7,42","7,42","7,42",2235 02 101 AR 30600
+01,Rent,"2,17","7,42","7,42","7,42",2235 02 101 AR 30601
+309,Grants-in-Aid,"1,81,39","2,69,09","2,69,09","2,69,09",2235 02 101 AR 30900
+03,Grants for Specific Schemes,"1,66,95","2,54,85","2,54,85","2,54,85",2235 02 101 AR 30903
+09,Others,"14,44","14,24","14,24","14,24",2235 02 101 AR 30909
+319,Machinery and Equipments,,,"3,15",1,2235 02 101 AR 31900
+01,Purchase,,,"3,15",1,2235 02 101 AR 31901
+324,Materials and Supplies,"4,52","7,00","7,00","7,00",2235 02 101 AR 32400
+01,Materials and Supplies,"4,52","7,00","7,00","7,00",2235 02 101 AR 32401
+333,Payments for Professional and Special Services,,"18,00","18,00","18,00",2235 02 101 AR 33300
+04,Contract Payment,,"18,00","18,00","18,00",2235 02 101 AR 33304
+347,Stores and Equipments,13,14,14,14,2235 02 101 AR 34700
+01,Stores - Voted,13,14,14,14,2235 02 101 AR 34701
+349,Festival Advances,30,,,,2235 02 101 AR 34900
+01,Festival Advances-Debit,"5,95","9,00","18,00","18,00",2235 02 101 AR 34901
+02,Festival Advances-Credit,"-5,65","-9,00","-18,00","-18,00",2235 02 101 AR 34902
+354,Expenses on Conducted Tours,"5,61","5,29","5,29","5,29",2235 02 101 AR 35400
+01,Expenses on Conducted Tours,"5,61","5,29","5,29","5,29",2235 02 101 AR 35401
+367,Feeding/Dietary Charges,"26,39","49,50","49,50","49,50",2235 02 101 AR 36700
+09,Others,"26,39","49,50","49,50","49,50",2235 02 101 AR 36709
+372,Training,,,"10,00",1,2235 02 101 AR 37200
+01,Training,,,"10,00",1,2235 02 101 AR 37201
+376,Computer and Accessories,"41,17",60,89,89,2235 02 101 AR 37600
+01,Purchase,"40,78",1,1,1,2235 02 101 AR 37601
+02,Maintenance,24,18,44,44,2235 02 101 AR 37602
+03,Stationery,15,41,44,44,2235 02 101 AR 37603
+379,Salary Grants,"1,29,78","1,31,89","1,60,88","1,55,76",2235 02 101 AR 37900
+01,Pay,"1,04,18","91,28","91,28","94,93",2235 02 101 AR 37901
+02,Medical Allowance,77,74,94,94,2235 02 101 AR 37902
+04,Other Allowances,77,80,"1,30","1,30",2235 02 101 AR 37904
+06,House Rent Allowances,"5,65","12,48","33,31","33,31",2235 02 101 AR 37906
+08,City Compensatory Allowance,78,57,"2,02","2,02",2235 02 101 AR 37908
+09,Dearness Allowance,"17,63","26,02","32,03","23,26",2235 02 101 AR 37909
+AR,Total AR,"12,68,59","12,52,96","14,54,16","15,39,71",
+AY,Assistive Devices Production Workshop at Guindy -  Unit of Commissionerate for  the Welfare of Differently Abled Persons,,,,,2235 02 101 AY 30000
+301,Salaries,,11,8,8,2235 02 101 AY 30100
+01,Pay,,3,3,3,2235 02 101 AY 30101
+02,Medical Allowance,,3,1,1,2235 02 101 AY 30102
+04,Other Allowances,,2,1,1,2235 02 101 AY 30104
+06,House Rent Allowance,,2,2,2,2235 02 101 AY 30106
+07,Travel Concession,,1,1,1,2235 02 101 AY 30107
+302,Wages,,1,1,1,2235 02 101 AY 30200
+01,Wages,,1,1,1,2235 02 101 AY 30201
+303,Dearness Allowance,,1,1,1,2235 02 101 AY 30300
+01,Dearness Allowance,,1,1,1,2235 02 101 AY 30301
+305,Office Expenses,29,33,33,33,2235 02 101 AY 30500
+01,Telephone Charges,,1,1,1,2235 02 101 AY 30501
+03,Electricity Charges,17,20,20,20,2235 02 101 AY 30503
+04,Service Postage & Postal Expenditure,12,12,12,12,2235 02 101 AY 30504
+319,Machinery and Equipments,,1,1,1,2235 02 101 AY 31900
+01,Purchase,,1,1,1,2235 02 101 AY 31901
+AY,Total AY,29,47,44,44,
+AZ,Starting of Institute for Mentally Retarded,,,,,2235 02 101 AZ 30000
+309,Grants-in-Aid,,1,1,1,2235 02 101 AZ 30900
+01,Grants for Current Expenditure,,1,1,1,2235 02 101 AZ 30901
+AZ,Total AZ,1,1,1,,
+BB,Scholarships to the Differently Abled Students,,,,,2235 02 101 BB 30000
+312,Scholarships and Stipends,"7,81,17","7,85,51","7,85,51","7,85,51",2235 02 101 BB 31200
+09,Others,"7,81,17","7,85,51","7,85,51","7,85,51",2235 02 101 BB 31209
+BB,Total BB,"7,81,17","7,85,51","7,85,51","7,85,51",
+BD,Regional Rehabilitation Centres,,,,,2235 02 101 BD 30000
+301,Salaries,"13,70,53","12,17,85","12,21,26","12,66,38",2235 02 101 BD 30100
+01,Pay,"12,53,35","11,27,87","11,27,87","11,72,99",2235 02 101 BD 30101
+02,Medical Allowance,"10,46","8,95","8,95","8,95",2235 02 101 BD 30102
+03,Medical Charges,,7,7,7,2235 02 101 BD 30103
+04,Other Allowances,"21,65","18,98","21,85","21,85",2235 02 101 BD 30104
+06,House Rent Allowance,"79,03","56,88","56,88","56,88",2235 02 101 BD 30106
+07,Travel Concession,31,49,70,70,2235 02 101 BD 30107
+08,City Compensatory Allowance,"5,73","4,61","4,94","4,94",2235 02 101 BD 30108
+302,Wages,"2,85","3,27","3,27","3,27",2235 02 101 BD 30200
+01,Wages,"2,85","3,27","3,27","3,27",2235 02 101 BD 30201
+303,Dearness Allowance,"1,58,95","1,46,64","1,85,37","2,87,38",2235 02 101 BD 30300
+01,Dearness Allowance,"1,58,95","1,46,64","1,85,37","2,87,38",2235 02 101 BD 30301
+304,Travel Expenses,"12,94","11,63","11,98","11,98",2235 02 101 BD 30400
+01,Tour Travelling Allowances,"12,87","11,22","11,57","11,57",2235 02 101 BD 30401
+02,Transfer Travelling Allowances,7,41,41,41,2235 02 101 BD 30402
+305,Office Expenses,"27,23","33,12","36,25","36,25",2235 02 101 BD 30500
+01,Telephone Charges,"4,77","6,72","6,72","6,72",2235 02 101 BD 30501
+02,Other Contingencies,"7,68","7,78","7,97","7,97",2235 02 101 BD 30502
+03,Electricity Charges,"11,72","15,48","18,42","18,42",2235 02 101 BD 30503
+04,Service Postage & Postal Expenditure,"3,06","3,14","3,14","3,14",2235 02 101 BD 30504
+306,"Rent, Rates and Taxes",74,"3,65","3,66","3,66",2235 02 101 BD 30600
+01,Rent,56,"3,15","3,15","3,15",2235 02 101 BD 30601
+02,Property tax,18,50,51,51,2235 02 101 BD 30602
+319,Machinery and Equipments,63,"1,18","1,18","1,18",2235 02 101 BD 31900
+03,Maintenance,63,"1,18","1,18","1,18",2235 02 101 BD 31903
+321,Motor Vehicles,"1,94","2,80","2,80","2,80",2235 02 101 BD 32100
+02,Maintenance of Functional Vehicles,"1,94","2,80","2,80","2,80",2235 02 101 BD 32102
+333,Payments for Professional and Special Services,"6,12","3,60","3,60","3,60",2235 02 101 BD 33300
+02,Remuneration,"2,70",,,,2235 02 101 BD 33302
+04,Contract Payment,"3,42","3,60","3,60","3,60",2235 02 101 BD 33304
+345,"Petroleum, Oil and Lubricant","22,50","23,95","23,95","23,95",2235 02 101 BD 34500
+01,"Petroleum, Oil and Lubricant","22,50","23,95","23,95","23,95",2235 02 101 BD 34501
+349,Festival Advances,56,,,,2235 02 101 BD 34900
+01,Festival Advances-Debit,"11,10","15,40","30,80","30,80",2235 02 101 BD 34901
+02,Festival Advances-Credit,"-10,54","-15,40","-30,80","-30,80",2235 02 101 BD 34902
+376,Computer and Accessories,"4,71","4,67","6,94","6,94",2235 02 101 BD 37600
+02,Maintenance,"2,82","2,64","3,74","3,74",2235 02 101 BD 37602
+03,Stationery,"1,89","2,03","3,20","3,20",2235 02 101 BD 37603
+BD,Total BD,"16,09,70","14,52,36","15,00,26","16,47,39",
+BE,School for the Severely affected Orthopaedic Differently Abled Persons,,,,,2235 02 101 BE 30000
+301,Salaries,"59,32","41,71","41,87","43,32",2235 02 101 BE 30100
+01,Pay,"53,40","36,30","36,30","37,75",2235 02 101 BE 30101
+02,Medical Allowance,45,32,32,32,2235 02 101 BE 30102
+04,Other Allowances,"1,39",74,90,90,2235 02 101 BE 30104
+06,House Rent Allowance,"3,49","3,78","3,78","3,78",2235 02 101 BE 30106
+07,Travel Concession,,3,3,3,2235 02 101 BE 30107
+08,City Compensatory Allowance,59,54,54,54,2235 02 101 BE 30108
+303,Dearness Allowance,"4,89","4,72","5,81","9,25",2235 02 101 BE 30300
+01,Dearness Allowance,"4,89","4,72","5,81","9,25",2235 02 101 BE 30301
+305,Office Expenses,85,88,"1,08","1,08",2235 02 101 BE 30500
+02,Other Contingencies,51,50,50,50,2235 02 101 BE 30502
+03,Electricity Charges,16,35,55,55,2235 02 101 BE 30503
+04,Service Postage & Postal Expenditure,2,3,3,3,2235 02 101 BE 30504
+05,Furniture,16,,,,2235 02 101 BE 30505
+309,Grants-in-Aid,"2,26","2,26","2,26","2,26",2235 02 101 BE 30900
+09,Others,"2,26","2,26","2,26","2,26",2235 02 101 BE 30909
+317,Minor Works,1,1,1,1,2235 02 101 BE 31700
+01,Minor Works,1,1,1,1,2235 02 101 BE 31701
+324,Materials and Supplies,9,9,9,9,2235 02 101 BE 32400
+01,Materials and Supplies,9,9,9,9,2235 02 101 BE 32401
+333,Payments for Professional and Special Services,,"1,80","1,80","1,80",2235 02 101 BE 33300
+04,Contract Payment,,"1,80","1,80","1,80",2235 02 101 BE 33304
+349,Festival Advances,2,,,,2235 02 101 BE 34900
+01,Festival Advances-Debit,60,75,"1,70","1,70",2235 02 101 BE 34901
+02,Festival Advances-Credit,-58,-75,"-1,70","-1,70",2235 02 101 BE 34902
+354,Expenses on Conducted Tours,6,5,5,5,2235 02 101 BE 35400
+01,Expenses on Conducted Tours,6,5,5,5,2235 02 101 BE 35401
+367,Feeding/Dietary Charges,76,"1,76","1,76","1,76",2235 02 101 BE 36700
+09,Others,76,"1,76","1,76","1,76",2235 02 101 BE 36709
+376,Computer and Accessories,"2,50",,,,2235 02 101 BE 37600
+01,Purchase,"2,50",,,,2235 02 101 BE 37601
+BE,Total BE,"70,76","53,28","54,73","59,62",
+BG,Travel Concession to Differently Abled Persons,,,,,2235 02 101 BG 30000
+342,Service or Commitment Charges,"33,00,00","33,00,00","63,82,91","33,00,00",2235 02 101 BG 34200
+01,Service or Commitment Charges,"33,00,00","33,00,00","63,82,91","33,00,00",2235 02 101 BG 34201
+BG,Total BG,"33,00,00","33,00,00","63,82,91","33,00,00",
+BV,Lumpsum Provision for Buildings - Welfare of Differently Abled Persons,,,,,2235 02 101 BV 30000
+317,Minor Works,,19,1,1,2235 02 101 BV 31700
+01,Minor Works,,19,1,1,2235 02 101 BV 31701
+BV,Total BV,19,1,1,,
+BX,Integrated Polio Eradication Programme,,,,,2235 02 101 BX 30000
+301,Salaries,"28,87","16,12","16,09","16,61",2235 02 101 BX 30100
+01,Pay,"24,63","13,01","13,01","13,53",2235 02 101 BX 30101
+02,Medical Allowance,25,12,12,12,2235 02 101 BX 30102
+04,Other Allowances,9,28,25,25,2235 02 101 BX 30104
+06,House Rent Allowance,"3,32","2,33","2,33","2,33",2235 02 101 BX 30106
+07,Travel Concession,,1,1,1,2235 02 101 BX 30107
+08,City Compensatory Allowance,58,37,37,37,2235 02 101 BX 30108
+303,Dearness Allowance,"5,55","1,70","2,09","3,31",2235 02 101 BX 30300
+01,Dearness Allowance,"5,55","1,70","2,09","3,31",2235 02 101 BX 30301
+305,Office Expenses,21,21,21,21,2235 02 101 BX 30500
+04,Service Postage & Postal Expenditure,21,21,21,21,2235 02 101 BX 30504
+349,Festival Advances,-1,,,,2235 02 101 BX 34900
+01,Festival Advances-Debit,15,25,50,50,2235 02 101 BX 34901
+02,Festival Advances-Credit,-16,-25,-50,-50,2235 02 101 BX 34902
+BX,Total BX,"34,62","18,03","18,39","20,13",
+CC,Starting of New Schools and Higher Secondary Schools for the Deaf,,,,,2235 02 101 CC 30000
+301,Salaries,"1,49,92","1,39,88","1,40,39","1,45,55",2235 02 101 CC 30100
+01,Pay,"1,37,85","1,29,24","1,29,24","1,34,40",2235 02 101 CC 30101
+02,Medical Allowance,63,75,75,75,2235 02 101 CC 30102
+04,Other Allowances,"2,10","1,75","2,30","2,30",2235 02 101 CC 30104
+06,House Rent Allowance,"8,50","7,77","7,77","7,77",2235 02 101 CC 30106
+07,Travel Concession,4,7,3,3,2235 02 101 CC 30107
+08,City Compensatory Allowance,80,30,30,30,2235 02 101 CC 30108
+303,Dearness Allowance,"12,09","16,80","20,68","32,93",2235 02 101 CC 30300
+01,Dearness Allowance,"12,09","16,80","20,68","32,93",2235 02 101 CC 30301
+304,Travel Expenses,7,14,11,11,2235 02 101 CC 30400
+01,Tour Travelling Allowances,7,13,10,10,2235 02 101 CC 30401
+02,Transfer Travelling Allowances,,1,1,1,2235 02 101 CC 30402
+305,Office Expenses,23,71,71,71,2235 02 101 CC 30500
+02,Other Contingencies,18,30,30,30,2235 02 101 CC 30502
+04,Service Postage & Postal Expenditure,5,21,21,21,2235 02 101 CC 30504
+05,Furniture,,20,20,20,2235 02 101 CC 30505
+349,Festival Advances,-9,,,,2235 02 101 CC 34900
+01,Festival Advances-Debit,50,"1,25","2,50","2,50",2235 02 101 CC 34901
+02,Festival Advances-Credit,-59,"-1,25","-2,50","-2,50",2235 02 101 CC 34902
+CC,Total CC,"1,62,22","1,57,53","1,61,89","1,79,30",
+CD,Maintenance Allowance to the Severely affected Differenly Abled Persons,,,,,2235 02 101 CD 30000
+309,Grants-in-Aid,"2,85,77,35","2,96,88,12","3,15,72,00","3,57,16,36",2235 02 101 CD 30900
+03,Grants for Specific Schemes,"2,85,77,35","2,96,88,12","3,15,72,00","3,57,16,36",2235 02 101 CD 30903
+CD,Total CD,"2,85,77,35","2,96,88,12","3,15,72,00","3,57,16,36",
+CE,Assistance to Government recognised schools for the Differently abled,,,,,2235 02 101 CE 30000
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,10,30,60,60,2235 02 101 CE 34901
+02,Festival Advances-Credit,-10,-30,-60,-60,2235 02 101 CE 34902
+367,Feeding/Dietary Charges,"2,56,88","2,71,20","2,71,20","2,71,20",2235 02 101 CE 36700
+09,Others,"2,56,88","2,71,20","2,71,20","2,71,20",2235 02 101 CE 36709
+379,Salary Grants,"71,97","79,94","97,90","1,08,05",2235 02 101 CE 37900
+01,Pay,"59,17","63,07","63,07","65,59",2235 02 101 CE 37901
+02,Medical Allowance,"2,31",38,48,48,2235 02 101 CE 37902
+04,Other Allowances,30,60,98,98,2235 02 101 CE 37904
+06,House Rent Allowances,"2,48","8,07","21,54","21,54",2235 02 101 CE 37906
+08,City Compensatory Allowance,21,96,"3,39","3,39",2235 02 101 CE 37908
+09,Dearness Allowance,"7,50","6,86","8,44","16,07",2235 02 101 CE 37909
+CE,Total CE,"3,28,85","3,51,14","3,69,10","3,79,25",
+CF,Assistance to Non-Government Organisations for Schools for Mentally Retarded Children,,,,,2235 02 101 CF 30000
+309,Grants-in-Aid,"18,88","13,15","13,15","13,15",2235 02 101 CF 30900
+01,Grants for Current Expenditure,"3,03","4,50","4,50","4,50",2235 02 101 CF 30901
+03,Grants for Specific Schemes,"15,85","8,65","8,65","8,65",2235 02 101 CF 30903
+349,Festival Advances,25,,,,2235 02 101 CF 34900
+01,Festival Advances-Debit,25,25,50,50,2235 02 101 CF 34901
+02,Festival Advances-Credit,,-25,-50,-50,2235 02 101 CF 34902
+379,Salary Grants,"37,55","15,23","18,69","18,73",2235 02 101 CF 37900
+01,Pay,"32,11","10,78","10,78","11,21",2235 02 101 CF 37901
+02,Medical Allowance,19,13,16,16,2235 02 101 CF 37902
+04,Other Allowances,16,11,18,18,2235 02 101 CF 37904
+06,House Rent Allowances,"1,69","1,66","4,43","4,43",2235 02 101 CF 37906
+09,Dearness Allowance,"3,40","2,55","3,14","2,75",2235 02 101 CF 37909
+CF,Total CF,"56,68","28,38","31,84","31,88",
+CG,Assistance for Recaning of Wooden Furniture by Blind Persons,,,,,2235 02 101 CG 30000
+301,Salaries,"1,00,47","82,40","83,62","86,51",2235 02 101 CG 30100
+01,Pay,"85,02","72,37","72,37","75,26",2235 02 101 CG 30101
+02,Medical Allowance,98,67,76,76,2235 02 101 CG 30102
+04,Other Allowances,"9,71","6,21","7,20","7,20",2235 02 101 CG 30104
+06,House Rent Allowance,"4,44","2,70","2,70","2,70",2235 02 101 CG 30106
+07,Travel Concession,6,6,20,20,2235 02 101 CG 30107
+08,City Compensatory Allowance,26,39,39,39,2235 02 101 CG 30108
+303,Dearness Allowance,"7,11","9,41","11,58","18,44",2235 02 101 CG 30300
+01,Dearness Allowance,"7,11","9,41","11,58","18,44",2235 02 101 CG 30301
+349,Festival Advances,14,,,,2235 02 101 CG 34900
+01,Festival Advances-Debit,"1,05","1,55","3,10","3,10",2235 02 101 CG 34901
+02,Festival Advances-Credit,-91,"-1,55","-3,10","-3,10",2235 02 101 CG 34902
+CG,Total CG,"1,07,72","91,81","95,20","1,04,95",
+CH,Assistance to School for the Differently Abled Persons,,,,,2235 02 101 CH 30000
+349,Festival Advances,"1,52",,,,2235 02 101 CH 34900
+01,Festival Advances-Debit,"11,75","19,85","39,70","39,70",2235 02 101 CH 34901
+02,Festival Advances-Credit,"-10,23","-19,85","-39,70","-39,70",2235 02 101 CH 34902
+379,Salary Grants,"27,39,11","27,55,96","29,12,52","32,52,65",2235 02 101 CH 37900
+01,Pay,"24,05,95","23,95,73","23,95,73","24,91,56",2235 02 101 CH 37901
+02,Medical Allowance,"12,28","9,21","11,64","11,64",2235 02 101 CH 37902
+04,Other Allowances,"9,37","8,49","13,82","13,82",2235 02 101 CH 37904
+06,House Rent Allowances,"1,00,44","39,16","1,04,52","1,04,52",2235 02 101 CH 37906
+08,City Compensatory Allowance,"14,57","5,89","20,68","20,68",2235 02 101 CH 37908
+09,Dearness Allowance,"1,96,50","2,97,48","3,66,13","6,10,43",2235 02 101 CH 37909
+CH,Total CH,"27,40,63","27,55,96","29,12,52","32,52,65",
+CI,Starting of Early Intervention Centres for infants and young children with hearing impairment,,,,,2235 02 101 CI 30000
+309,Grants-in-Aid,"1,04,48","1,14,64","1,14,64","1,14,64",2235 02 101 CI 30900
+03,Grants for Specific Schemes,"1,04,48","1,14,64","1,14,64","1,14,64",2235 02 101 CI 30903
+CI,Total CI,"1,04,48","1,14,64","1,14,64","1,14,64",
+CJ,Degree Course for the Deaf,,,,,2235 02 101 CJ 30000
+305,Office Expenses,15,15,15,15,2235 02 101 CJ 30500
+02,Other Contingencies,15,15,15,15,2235 02 101 CJ 30502
+333,Payments for Professional and Special Services,"4,95","4,32","6,84","6,84",2235 02 101 CJ 33300
+04,Contract Payment,"4,95","4,32","6,84","6,84",2235 02 101 CJ 33304
+376,Computer and Accessories,10,10,10,10,2235 02 101 CJ 37600
+02,Maintenance,5,5,5,5,2235 02 101 CJ 37602
+03,Stationery,5,5,5,5,2235 02 101 CJ 37603
+CJ,Total CJ,"5,20","4,57","7,09","7,09",
+CK,Grants to Welfare Board for the Differently abled,,,,,2235 02 101 CK 30000
+309,Grants-in-Aid,"4,12,24","3,29,62","3,29,62","3,29,62",2235 02 101 CK 30900
+03,Grants for Specific Schemes,"4,12,24","3,29,62","3,29,62","3,29,62",2235 02 101 CK 30903
+CK,Total CK,"4,12,24","3,29,62","3,29,62","3,29,62",
+CL,Assistance to families with severely mentally retarded persons,,,,,2235 02 101 CL 30000
+309,Grants-in-Aid,,1,1,1,2235 02 101 CL 30900
+01,Grants for Current Expenditure,,1,1,1,2235 02 101 CL 30901
+CL,Total CL,1,1,1,,
+CM,Maintenance Grants to the persons with Muscular Dystrophy Disease,,,,,2235 02 101 CM 30000
+309,Grants-in-Aid,"5,10,87","5,40,54","5,40,54","5,84,97",2235 02 101 CM 30900
+03,Grants for Specific Schemes,"5,10,87","5,40,54","5,40,54","5,84,97",2235 02 101 CM 30903
+CM,Total CM,"5,10,87","5,40,54","5,40,54","5,84,97",
+CN,Assistance to differently abled Persons for Self Employment under Prime Minister's Employment Generation Programme,,,,,2235 02 101 CN 30000
+309,Grants-in-Aid,"7,29","5,00","5,00","5,00",2235 02 101 CN 30900
+03,Grants for Specific Schemes,"7,29","5,00","5,00","5,00",2235 02 101 CN 30903
+CN,Total CN,"7,29","5,00","5,00","5,00",
+CO,Scheme for Rehabilitation of the Differently Abled Persons,,,,,2235 02 101 CO 30000
+308,Advertising and Publicity,"18,96","13,36","13,36","13,36",2235 02 101 CO 30800
+01,Advertisement Charges,"12,56","6,96","6,96","6,96",2235 02 101 CO 30801
+03,Demonstration,"6,40","6,40","6,40","6,40",2235 02 101 CO 30803
+319,Machinery and Equipments,"2,48,43","2,21,00","2,36,00","2,21,00",2235 02 101 CO 31900
+01,Purchase,"2,48,43","2,21,00","2,36,00","2,21,00",2235 02 101 CO 31901
+321,Motor Vehicles,"7,96,10","11,97,28","11,97,28","11,97,28",2235 02 101 CO 32100
+01,Purchase,"7,96,10","11,97,28","11,97,28","11,97,28",2235 02 101 CO 32101
+324,Materials and Supplies,"1,17,31","4,36,91","21,17","4,36,91",2235 02 101 CO 32400
+01,Materials and Supplies,"1,17,31","4,36,91","21,17","4,36,91",2235 02 101 CO 32401
+333,Payments for Professional and Special Services,"28,52","60,08","67,44","67,44",2235 02 101 CO 33300
+04,Contract Payment,"28,52","60,08","67,44","67,44",2235 02 101 CO 33304
+372,Training,"37,18","41,55","37,38","37,38",2235 02 101 CO 37200
+01,Training,"37,18","41,55","37,38","37,38",2235 02 101 CO 37201
+376,Computer and Accessories,,1,1,1,2235 02 101 CO 37600
+02,Maintenance,,1,1,1,2235 02 101 CO 37602
+CO,Total CO,"12,46,50","19,70,19","15,72,64","19,73,38",
+CP,Self-Employment forDifferently Abled Persons2235 02 101 CP 30000,,,,,
+309,Grants-in-Aid,"27,45","25,00","1,00,00","1,00,00",2235 02 101 CP 30900
+03,Grants for Specific Schemes,"27,45","25,00","1,00,00","1,00,00",2235 02 101 CP 30903
+370,Unemployment Relief,"3,78,88","5,00,00","3,81,36","4,00,00",2235 02 101 CP 37000
+01,Unemployment Relief,"3,78,88","5,00,00","3,81,36","4,00,00",2235 02 101 CP 37001
+CP,Total CP,"4,06,33","5,25,00","4,81,36","5,00,00",
+CQ,Supply of  Motorised Sewing Machines,,,,,2235 02 101 CQ 30000
+319,Machinery and Equipments,"1,27,99","72,00","1,28,00","1,28,00",2235 02 101 CQ 31900
+01,Purchase,"1,27,99","72,00","1,28,00","1,28,00",2235 02 101 CQ 31901
+CQ,Total CQ,"1,27,99","72,00","1,28,00","1,28,00",
+CR,Government Special Schools,,,,,2235 02 101 CR 30000
+305,Office Expenses,,"1,00","1,00","1,00",2235 02 101 CR 30500
+02,Other Contingencies,,"1,00","1,00","1,00",2235 02 101 CR 30502
+CR,Total CR,"1,00","1,00","1,00",,
+CS,"Scribe Assistance to Students of Schools for,Blind and Expenses for the Helper,,,,,2235 02 101 CS 30000
+333,Payments for""","43,54","44,84","44,84","44,84",2235 02 101 CS 33300
+Professional and Special,,,,,,
+Services,,,,,,
+02,Remuneration,"43,54","44,84","44,84","44,84",2235 02 101 CS 33302
+CS,Total CS,"43,54","44,84","44,84","44,84",
+CT,Assistance to Differently abled Law Graduates towards fees for Registration as Lawyers and for Purchase of Law Books,,,,,2235 02 101 CT 30000
+309,Grants-in-Aid,"1,50","1,50","1,50","1,50",2235 02 101 CT 30900
+01,Grants for Current Expenditure,"1,50","1,50","1,50","1,50",2235 02 101 CT 30901
+CT,Total CT,"1,50","1,50","1,50","1,50",
+CU,Starting of Rehabilitation Home for the Adult Mentally Retarded Girls,,,,,2235 02 101 CU 30000
+309,Grants-in-Aid,"45,14","49,10","49,10","49,10",2235 02 101 CU 30900
+03,Grants for Specific Schemes,"45,14","49,10","49,10","49,10",2235 02 101 CU 30903
+CU,Total CU,"45,14","49,10","49,10","49,10",
+CV,Concession to Normal Persons Marrying Differently Abled Persons,,,,,2235 02 101 CV 30000
+309,Grants-in-Aid,"1,70,49","3,36,31","3,36,31","3,36,31",2235 02 101 CV 30900
+03,Grants for Specific Schemes,"1,70,49","3,36,31","3,36,31","3,36,31",2235 02 101 CV 30903
+CV,Total CV,"1,70,49","3,36,31","3,36,31","3,36,31",
+CW,"Starting of Vocational Training courses in Government schools/Higher Secondary Schools for the mentally retarded, blind, etc.",,,,,2235 02 101 CW 30000
+301,Salaries,"5,53","4,46","4,67","4,83",2235 02 101 CW 30100
+01,Pay,"4,58","3,87","3,87","4,03",2235 02 101 CW 30101
+02,Medical Allowance,4,3,3,3,2235 02 101 CW 30102
+04,Other Allowances,24,3,24,24,2235 02 101 CW 30104
+06,House Rent Allowance,52,46,46,46,2235 02 101 CW 30106
+08,City Compensatory Allowance,15,7,7,7,2235 02 101 CW 30108
+303,Dearness Allowance,39,51,63,99,2235 02 101 CW 30300
+01,Dearness Allowance,39,51,63,99,2235 02 101 CW 30301
+304,Travel Expenses,,4,4,4,2235 02 101 CW 30400
+01,Tour Travelling Allowances,,4,4,4,2235 02 101 CW 30401
+305,Office Expenses,,6,6,6,2235 02 101 CW 30500
+03,Electricity Charges,,6,6,6,2235 02 101 CW 30503
+324,Materials and Supplies,,"1,55",1,1,2235 02 101 CW 32400
+01,Materials and Supplies,,"1,55",1,1,2235 02 101 CW 32401
+349,Festival Advances,-4,,,,2235 02 101 CW 34900
+01,Festival Advances-Debit,,5,10,10,2235 02 101 CW 34901
+02,Festival Advances-Credit,-4,-5,-10,-10,2235 02 101 CW 34902
+CW,Total CW,"5,88","6,62","5,41","5,93",
+CY,"Lumpsum Provision for Scheme to Differently  abled, Deaf and Dumb and Employment of Women",,,,,2235 02 101 CY 30000
+309,Grants-in-Aid,,1,1,1,2235 02 101 CY 30900
+01,Grants for Current Expenditure,,1,1,1,2235 02 101 CY 30901
+CY,Total CY,1,1,1,,
+CZ,Assistance for starting of Day care centres for Mentally retarded Children in Theni District through Non Government Organisations,,,,,2235 02 101 CZ 30000
+309,Grants-in-Aid,"14,52","17,90","14,52","14,52",2235 02 101 CZ 30900
+03,Grants for Specific Schemes,"14,52","17,90","14,52","14,52",2235 02 101 CZ 30903
+CZ,Total CZ,"14,52","17,90","14,52","14,52",
+DA,Grant to Differently Abled Persons for sports events and cultural programmes,,,,,2235 02 101 DA 30000
+309,Grants-in-Aid,"41,57","21,77","39,59","37,77",2235 02 101 DA 30900
+03,Grants for Specific Schemes,"41,57","21,77","39,59","37,77",2235 02 101 DA 30903
+DA,Total DA,"41,57","21,77","39,59","37,77",
+DB,Grant for starting of Secondary Grade Teacher Training Institute for the Visually and Orthopaedically Differently Abled Persons,,,,,2235 02 101 DB 30000
+305,Office Expenses,,20,1,1,2235 02 101 DB 30500
+02,Other Contingencies,,20,1,1,2235 02 101 DB 30502
+308,Advertising and Publicity,,"1,00",1,1,2235 02 101 DB 30800
+01,Advertisement Charges,,"1,00",1,1,2235 02 101 DB 30801
+312,Scholarships and Stipends,,1,1,1,2235 02 101 DB 31200
+01,Pre-Matric,,1,1,1,2235 02 101 DB 31201
+324,Materials and Supplies,,1,1,1,2235 02 101 DB 32400
+01,Materials and Supplies,,1,1,1,2235 02 101 DB 32401
+376,Computer and Accessories,,17,3,3,2235 02 101 DB 37600
+01,Purchase,,1,1,1,2235 02 101 DB 37601
+02,Maintenance,,8,1,1,2235 02 101 DB 37602
+03,Stationery,,8,1,1,2235 02 101 DB 37603
+DB,Total DB,"1,39",7,7,,
+DC,Concession to Normal Persons Marrying Blind,,,,,2235 02 101 DC 30000
+309,Grants-in-Aid,"23,75","40,68","40,68","40,68",2235 02 101 DC 30900
+03,Grants for Specific Schemes,"23,75","40,68","40,68","40,68",2235 02 101 DC 30903
+DC,Total DC,"23,75","40,68","40,68","40,68",
+DD,Concessions to able persons who come forward to marry deaf and dumb,,,,,2235 02 101 DD 30000
+309,Grants-in-Aid,"43,75","64,18","64,18","64,18",2235 02 101 DD 30900
+03,Grants for Specific Schemes,"43,75","64,18","64,18","64,18",2235 02 101 DD 30903
+DD,Total DD,"43,75","64,18","64,18","64,18",
+DE,State Resource cum Training Centre,,,,,2235 02 101 DE 30000
+309,Grants-in-Aid,"55,69","59,48","59,48","59,48",2235 02 101 DE 30900
+03,Grants for Specific Schemes,"55,69","59,48","59,48","59,48",2235 02 101 DE 30903
+319,Machinery and Equipments,,1,1,1,2235 02 101 DE 31900
+01,Purchase,,1,1,1,2235 02 101 DE 31901
+324,Materials and Supplies,,1,1,1,2235 02 101 DE 32400
+01,Materials and Supplies,,1,1,1,2235 02 101 DE 32401
+DE,Total DE,"55,69","59,50","59,50","59,50",
+DF,Establishment of Information Centre for the Differently Abled Persons,,,,,2235 02 101 DF 30000
+305,Office Expenses,56,"1,08","1,08","1,08",2235 02 101 DF 30500
+01,Telephone Charges,43,95,95,95,2235 02 101 DF 30501
+02,Other Contingencies,13,13,13,13,2235 02 101 DF 30502
+333,Payments for Professional and Special Services,"3,55","3,60","3,60","3,60",2235 02 101 DF 33300
+04,Contract Payment,"3,55","3,60","3,60","3,60",2235 02 101 DF 33304
+DF,Total DF,"4,11","4,68","4,68","4,68",
+DG,Annual Tour Programme for the Differently Abled Children of Primary Training Centres,,,,,2235 02 101 DG 30000
+354,Expenses on Conducted Tours,"7,90","7,90","7,90","7,90",2235 02 101 DG 35400
+01,Expenses on Conducted Tours,"7,90","7,90","7,90","7,90",2235 02 101 DG 35401
+DG,Total DG,"7,90","7,90","7,90","7,90",
+DH,Early Intervention Programme for the Children with development delay to the age group of 0-6 years,,,,,2235 02 101 DH 30000
+305,Office Expenses,,1,1,1,2235 02 101 DH 30500
+02,Other Contingencies,,1,1,1,2235 02 101 DH 30502
+342,Service or Commitment Charges,,1,1,1,2235 02 101 DH 34200
+01,Service or Commitment Charges,,1,1,1,2235 02 101 DH 34201
+371,Printing Charges,,1,1,1,2235 02 101 DH 37100
+01,Printing Charges,,1,1,1,2235 02 101 DH 37101
+372,Training,,1,1,1,2235 02 101 DH 37200
+01,Training,,1,1,1,2235 02 101 DH 37201
+DH,Total DH,4,4,4,,
+DI,State Fund for Personswith Disabilities2235 02 101 DI 30000,,,,,
+309,Grants-in-Aid,,"10,00,00","10,00,00","10,00,00",2235 02 101 DI 30900
+03,Grants for Specific Schemes,,"10,00,00","10,00,00","10,00,00",2235 02 101 DI 30903
+DI,Total DI,"10,00,00","10,00,00","10,00,00",,
+DJ,Creation of Modernised Smart Class,,,,,2235 02 101 DJ 30000
+305,Office Expenses,"13,93",45,45,45,2235 02 101 DJ 30500
+01,Telephone Charges,44,45,45,45,2235 02 101 DJ 30501
+05,Furniture,"13,49",,,,2235 02 101 DJ 30505
+319,Machinery and Equipments,"15,77",1,1,1,2235 02 101 DJ 31900
+01,Purchase,"15,77",1,1,1,2235 02 101 DJ 31901
+376,Computer and Accessories,"13,55","2,25","2,25","2,25",2235 02 101 DJ 37600
+01,Purchase,"11,30",,,,2235 02 101 DJ 37601
+03,Stationery,"2,25","2,25","2,25","2,25",2235 02 101 DJ 37603
+DJ,Total DJ,"43,25","2,71","2,71","2,71",
+DK,"Supply of Teaching, Training and Sports material for Early Intervention Centres for the Hearing Impaired Children",,,,,2235 02 101 DK 30000
+309,Grants-in-Aid,,,"74,25",1,2235 02 101 DK 30900
+03,Grants for Specific Schemes,,,"74,25",1,2235 02 101 DK 30903
+DK,Total DK,,"74,25",1,,
+DL,Care Homes with vocational training for mentally retarted disabled Person,,,,,2235 02 101 DL 30000
+309,Grants-in-Aid,,,"1,15,46","2,54,57",2235 02 101 DL 30900
+01,Grants for Current Expenditure,,,"1,15,46","2,54,57",2235 02 101 DL 30901
+DL,Total DL,,"1,15,46","2,54,57",,
+DM,Smart phones to hearing and visually impaired persons,,,,,2235 02 101 DM 30000
+309,Grants-in-Aid,,,,"10,00,00",2235 02 101 DM 30900
+03,Grants for Specific Schemes,,,,"10,00,00",2235 02 101 DM 30903
+DM,Total DM,,,"10,00,00",,
+MG,Assistance to reputed NGO's for Special Institutions for Mentally Retarded,,,,,2235 02 101 MG 30000
+309,Grants-in-Aid,"35,12,40","24,83,69","28,95,80","28,95,80",2235 02 101 MG 30900
+01,Grants for Current Expenditure,"32,94,05","24,78,96","28,91,07","28,91,07",2235 02 101 MG 30901
+03,Grants for Specific Schemes,"2,18,35","4,73","4,73","4,73",2235 02 101 MG 30903
+MG,Total MG,"35,12,40","24,83,69","28,95,80","28,95,80",
+MJ,Unemployment Allowance to Unemployed differently abled / Hearing Impaired / Mentally Retarded registered in Employment Exchange,,,,,2235 02 101 MJ 30000
+309,Grants-in-Aid,"20,00,25","22,66,49","20,45,11","20,00,00",2235 02 101 MJ 30900
+01,Grants for Current Expenditure,"20,00,25","22,66,49","20,45,11","20,00,00",2235 02 101 MJ 30901
+MJ,Total MJ,"20,00,25","22,66,49","20,45,11","20,00,00",
+MM,Assistance to differently abled persons marrying Differenly abled persons,,,,,2235 02 101 MM 30000
+309,Grants-in-Aid,"78,99","1,04,69","1,04,69","1,04,69",2235 02 101 MM 30900
+03,Grants for Specific Schemes,"78,99","1,04,69","1,04,69","1,04,69",2235 02 101 MM 30903
+MM,Total MM,"78,99","1,04,69","1,04,69","1,04,69",
+MN,Establishment of Regional Early Diagnostic Centre for the Hearing Impaired,,,,,2235 02 101 MN 30000
+309,Grants-in-Aid,,1,1,1,2235 02 101 MN 30900
+03,Grants for Specific Schemes,,1,1,1,2235 02 101 MN 30903
+MN,Total MN,1,1,1,,
+MO,Assistance for Rehabilitation of Mentally ill,,,,,2235 02 101 MO 30000
+309,Grants-in-Aid,"3,23,70","3,54,09","6,21,35","6,21,35",2235 02 101 MO 30900
+03,Grants for Specific Schemes,"3,23,70","3,54,09","6,21,35","6,21,35",2235 02 101 MO 30903
+MO,Total MO,"3,23,70","3,54,09","6,21,35","6,21,35",
+MR,Establishment of Day Care Centres for the persons affected with Muscular Dystrophy,,,,,2235 02 101 MR 30000
+309,Grants-in-Aid,"36,98","36,99","3,01,99","3,01,99",2235 02 101 MR 30900
+01,Grants for Current Expenditure,"36,98","36,99","3,01,99","3,01,99",2235 02 101 MR 30901
+MR,Total MR,"36,98","36,99","3,01,99","3,01,99",
+MS,Setting up of Early Intervention Centres for the Visually handicapped children below 6 years,,,,,2235 02 101 MS 30000
+309,Grants-in-Aid,"22,00","24,60","24,60","24,60",2235 02 101 MS 30900
+03,Grants for Specific Schemes,"22,00","24,60","24,60","24,60",2235 02 101 MS 30903
+MS,Total MS,"22,00","24,60","24,60","24,60",
+MT,Special Scheme for rescuing and admitting the mentally retarded persons in the mental hospitals / rehabilitation centres,,,,,2235 02 101 MT 30000
+309,Grants-in-Aid,"7,23","7,50","7,50","7,50",2235 02 101 MT 30900
+03,Grants for Specific Schemes,"7,23","7,50","7,50","7,50",2235 02 101 MT 30903
+MT,Total MT,"7,23","7,50","7,50","7,50",
+MU,Creation of employment for unemployed educated youths scheme,,,,,2235 02 101 MU 30000
+309,Grants-in-Aid,"7,79","15,00","10,00","10,00",2235 02 101 MU 30900
+03,Grants for Specific Schemes,"7,79","15,00","10,00","10,00",2235 02 101 MU 30903
+MU,Total MU,"7,79","15,00","10,00","10,00",
+MV,Mobile Therapy Units for Differently abled Children,,,,,2235 02 101 MV 30000
+308,Advertising and Publicity,35,"11,14","11,14","11,14",2235 02 101 MV 30800
+01,Advertisement Charges,35,"11,14","11,14","11,14",2235 02 101 MV 30801
+319,Machinery and Equipments,,1,1,1,2235 02 101 MV 31900
+01,Purchase,,1,1,1,2235 02 101 MV 31901
+321,Motor Vehicles,40,1,1,1,2235 02 101 MV 32100
+01,Purchase,40,1,1,1,2235 02 101 MV 32101
+333,Payments for Professional and Special Services,"49,65","49,92","62,40","62,40",2235 02 101 MV 33300
+04,Contract Payment,"49,65","49,92","62,40","62,40",2235 02 101 MV 33304
+345,"Petroleum, Oil and Lubricant","26,25","38,40","38,40","38,40",2235 02 101 MV 34500
+01,"Petroleum, Oil and Lubricant","26,25","38,40","38,40","38,40",2235 02 101 MV 34501
+MV,Total MV,"76,65","99,48","1,11,96","1,11,96",
+MW,Assistance to the Non Governmental Organisations for Early Intervention Centre for bringing the Food from Anganwadi Centre to Early Intervention Centre,,,,,2235 02 101 MW 30000
+373,Transport Charges,"2,76","3,45","3,45","3,45",2235 02 101 MW 37300
+01,Transport Charges,"2,76","3,45","3,45","3,45",2235 02 101 MW 37301
+MW,Total MW,"2,76","3,45","3,45","3,45",
+MX,Assistance to NGO's for Special Institution for Children with Autism,,,,,2235 02 101 MX 30000
+309,Grants-in-Aid,"29,24","11,34","11,34","11,34",2235 02 101 MX 30900
+03,Grants for Specific Schemes,"29,24","11,34","11,34","11,34",2235 02 101 MX 30903
+MX,Total MX,"29,24","11,34","11,34","11,34",
+MY,New born screening programme for hearing loss in babies at Chennai and Sivagangai Districts under State Innovation Fund,,,,,2235 02 101 MY 30000
+309,Grants-in-Aid,"52,82","52,82",1,1,2235 02 101 MY 30900
+03,Grants for Specific Schemes,"52,82","52,82",1,1,2235 02 101 MY 30903
+MY,Total MY,"52,82","52,82",1,1,
+MZ,Augmentative and Alternative Communication system for persons affected by Cerebral Palsy,,,,,2235 02 101 MZ 30000
+324,Materials and Supplies,,1,1,1,2235 02 101 MZ 32400
+01,Materials and Supplies,,1,1,1,2235 02 101 MZ 32401
+MZ,Total MZ,1,1,1,,
+NB,Mobility Assistance Appliance for persons affected by Muscular Dystrophy,,,,,2235 02 101 NB 30000
+324,Materials and Supplies,"2,42,87","13,00,00","13,00,00","13,00,00",2235 02 101 NB 32400
+01,Materials and Supplies,"2,42,87","13,00,00","13,00,00","13,00,00",2235 02 101 NB 32401
+NB,Total NB,"2,42,87","13,00,00","13,00,00","13,00,00",
+ND,Process Innovation in terms of provision of access to information and communication to persons with visual impairment,,,,,2235 02 101 ND 30000
+319,Machinery and Equipments,,1,1,1,2235 02 101 ND 31900
+01,Purchase,,1,1,1,2235 02 101 ND 31901
+ND,Total ND,1,1,1,,
+NE,Early Intervention Services to Children with Disabilities with use of TABLET under State Innovation Fund,,,,,2235 02 101 NE 30000
+309,Grants-in-Aid,"5,16","3,69","5,16",,2235 02 101 NE 30900
+03,Grants for Specific Schemes,"5,16","3,69","5,16",,2235 02 101 NE 30903
+NE,Total NE,"5,16","3,69","5,16",,
+NG,Providing Electric Scooters for the Differently Abled under State Innovation Fund,,,,,2235 02 101 NG 30000
+321,Motor Vehicles,,,,1,2235 02 101 NG 32100
+01,Purchase,,,,1,2235 02 101 NG 32101
+NG,Total NG,,,,1,
+NH,"Development and operation of a dedicated web portal for streamlining  philanthropy, employment generation and grievance redressal for the disabled in Tamil Nadu under State Innovation Fund",,,,,2235 02 101 NH 30000
+333,Payments for Professional and Special Services,"3,92","8,69","8,69",1,2235 02 101 NH 33300
+03,Special Service,"3,92","8,69","8,69",1,2235 02 101 NH 33303
+NH,Total NH,"3,92","8,69","8,69",1,
+NI,Care giver assistance to high support needed Differently Abled Persons,,,,,2235 02 101 NI 30000
+309,Grants-in-Aid,,,"48,00","96,00",2235 02 101 NI 30900
+03,Grants for Specific Schemes,,,"48,00","96,00",2235 02 101 NI 30903
+NI,Total NI,,"48,00","96,00",,
+#,State's Expenditure Total,"4,98,01,94","5,29,65,88","5,90,16,91","6,23,08,85",
+101,Total 101,"4,98,01,94","5,29,65,88","5,90,16,91","6,23,08,85",
+102,Child welfare,,,,,
+#,State's Expenditure,,,,,
+AZ,Starting of Institute for Mentally Retarded,,,,,2235 02 102 AZ 30000
+301,Salaries,"58,74","68,88","56,74","58,74",2235 02 102 AZ 30100
+01,Pay,"51,63","62,59","50,00","52,00",2235 02 102 AZ 30101
+02,Medical Allowance,37,23,23,23,2235 02 102 AZ 30102
+03,Medical Charges,,12,12,12,2235 02 102 AZ 30103
+04,Other Allowances,87,53,96,96,2235 02 102 AZ 30104
+06,House Rent Allowance,"4,82","4,45","4,45","4,45",2235 02 102 AZ 30106
+07,Travel Concession,6,6,8,8,2235 02 102 AZ 30107
+08,City Compensatory Allowance,99,90,90,90,2235 02 102 AZ 30108
+303,Dearness Allowance,"4,25","8,13","10,01","12,74",2235 02 102 AZ 30300
+01,Dearness Allowance,"4,25","8,13","10,01","12,74",2235 02 102 AZ 30301
+304,Travel Expenses,17,22,22,22,2235 02 102 AZ 30400
+01,Tour Travelling Allowances,17,20,20,20,2235 02 102 AZ 30401
+02,Transfer Travelling Allowances,,2,2,2,2235 02 102 AZ 30402
+305,Office Expenses,"1,90","2,41","2,41","2,41",2235 02 102 AZ 30500
+01,Telephone Charges,7,13,13,13,2235 02 102 AZ 30501
+02,Other Contingencies,18,25,25,25,2235 02 102 AZ 30502
+03,Electricity Charges,"1,65","2,00","2,00","2,00",2235 02 102 AZ 30503
+04,Service Postage & Postal Expenditure,,3,3,3,2235 02 102 AZ 30504
+309,Grants-in-Aid,,8,8,8,2235 02 102 AZ 30900
+03,Grants for Specific Schemes,,8,8,8,2235 02 102 AZ 30903
+321,Motor Vehicles,,8,8,8,2235 02 102 AZ 32100
+02,Maintenance of Functional Vehicles,,8,8,8,2235 02 102 AZ 32102
+324,Materials and Supplies,,"5,00","5,00","5,00",2235 02 102 AZ 32400
+01,Materials and Supplies,,"5,00","5,00","5,00",2235 02 102 AZ 32401
+345,"Petroleum, Oil and Lubricant",,24,24,24,2235 02 102 AZ 34500
+01,"Petroleum, Oil and Lubricant",,24,24,24,2235 02 102 AZ 34501
+346,"Clothing, Tentage and Stores",,5,5,5,2235 02 102 AZ 34600
+01,"Clothing, Tentage and Stores",,5,5,5,2235 02 102 AZ 34601
+347,Stores and Equipments,10,10,10,10,2235 02 102 AZ 34700
+01,Stores - Voted,10,10,10,10,2235 02 102 AZ 34701
+349,Festival Advances,11,,,,2235 02 102 AZ 34900
+01,Festival Advances-Debit,55,75,"1,50","1,50",2235 02 102 AZ 34901
+02,Festival Advances-Credit,-44,-75,"-1,50","-1,50",2235 02 102 AZ 34902
+354,Expenses on Conducted Tours,16,16,16,16,2235 02 102 AZ 35400
+01,Expenses on Conducted Tours,16,16,16,16,2235 02 102 AZ 35401
+366,Medicine,12,12,12,12,2235 02 102 AZ 36600
+01,Medicine,12,12,12,12,2235 02 102 AZ 36601
+367,Feeding/Dietary Charges,"1,06","4,72","4,72","4,72",2235 02 102 AZ 36700
+09,Others,"1,06","4,72","4,72","4,72",2235 02 102 AZ 36709
+AZ,Total AZ,"66,61","90,19","79,93","84,66",
+#,State's Expenditure Total,"66,61","90,19","79,93","84,66",
+102,Total 102,"66,61","90,19","79,93","84,66",
+104,"Welfare of aged, infirm and destitute",,,,,
+#,State's Expenditure,,,,,
+AI,Leprosy  Beggars Rehabilitation Home,,,,,2235 02 104 AI 30000
+301,Salaries,"9,17,12","6,39,42","6,41,44","6,64,40",2235 02 104 AI 30100
+01,Pay,"8,37,95","5,73,09","5,73,09","5,96,01",2235 02 104 AI 30101
+02,Medical Allowance,"5,66","5,44","5,44","5,44",2235 02 104 AI 30102
+03,Medical Charges,47,39,39,43,2235 02 104 AI 30103
+04,Other Allowances,"22,88","16,58","18,63","18,63",2235 02 104 AI 30104
+06,House Rent Allowance,"47,65","41,43","41,43","41,43",2235 02 104 AI 30106
+07,Travel Concession,57,47,46,46,2235 02 104 AI 30107
+08,City Compensatory Allowance,"1,94","2,02","2,00","2,00",2235 02 104 AI 30108
+302,Wages,"2,54","3,17","3,17","3,17",2235 02 104 AI 30200
+01,Wages,"2,54","3,17","3,17","3,17",2235 02 104 AI 30201
+303,Dearness Allowance,"1,01,89","74,50","91,69","1,46,02",2235 02 104 AI 30300
+01,Dearness Allowance,"1,01,89","74,50","91,69","1,46,02",2235 02 104 AI 30301
+304,Travel Expenses,"3,52","2,77","2,77","2,77",2235 02 104 AI 30400
+01,Tour Travelling Allowances,"3,52","2,61","2,61","2,61",2235 02 104 AI 30401
+02,Transfer Travelling Allowances,,16,16,16,2235 02 104 AI 30402
+305,Office Expenses,"22,16","27,26","24,95","24,95",2235 02 104 AI 30500
+01,Telephone Charges,35,94,94,94,2235 02 104 AI 30501
+02,Other Contingencies,"3,16","3,05","3,05","3,05",2235 02 104 AI 30502
+03,Electricity Charges,"18,29","22,90","20,59","20,59",2235 02 104 AI 30503
+04,Service Postage & Postal Expenditure,36,37,37,37,2235 02 104 AI 30504
+309,Grants-in-Aid,,1,1,1,2235 02 104 AI 30900
+01,Grants for Current Expenditure,,1,1,1,2235 02 104 AI 30901
+319,Machinery and Equipments,4,1,11,1,2235 02 104 AI 31900
+03,Maintenance,4,1,11,1,2235 02 104 AI 31903
+321,Motor Vehicles,5,14,14,14,2235 02 104 AI 32100
+02,Maintenance of Functional Vehicles,5,14,14,14,2235 02 104 AI 32102
+324,Materials and Supplies,"15,36","15,82","16,22","16,22",2235 02 104 AI 32400
+01,Materials and Supplies,"15,36","15,82","16,22","16,22",2235 02 104 AI 32401
+345,"Petroleum, Oil and Lubricant","1,24","1,29","1,29","1,29",2235 02 104 AI 34500
+01,"Petroleum, Oil and Lubricant","1,24","1,29","1,29","1,29",2235 02 104 AI 34501
+346,"Clothing, Tentage and Stores","4,07","5,08","5,08","5,08",2235 02 104 AI 34600
+01,"Clothing, Tentage and Stores","4,07","5,08","5,08","5,08",2235 02 104 AI 34601
+349,Festival Advances,47,,,,2235 02 104 AI 34900
+01,Festival Advances-Debit,"4,85","5,70","11,40","11,40",2235 02 104 AI 34901
+02,Festival Advances-Credit,"-4,38","-5,70","-11,40","-11,40",2235 02 104 AI 34902
+359,Prizes and Awards,88,16,18,18,2235 02 104 AI 35900
+01,Prizes and Awards,88,16,18,18,2235 02 104 AI 35901
+366,Medicine,"5,21","5,21","5,33","5,33",2235 02 104 AI 36600
+01,Medicine,"5,21","5,21","5,33","5,33",2235 02 104 AI 36601
+367,Feeding/Dietary Charges,"1,20,77","1,01,20","1,01,20","1,01,20",2235 02 104 AI 36700
+09,Others,"1,20,77","1,01,20","1,01,20","1,01,20",2235 02 104 AI 36709
+376,Computer and Accessories,"17,49",83,"1,07","1,07",2235 02 104 AI 37600
+01,Purchase,"16,50",,,,2235 02 104 AI 37601
+03,Stationery,99,83,"1,07","1,07",2235 02 104 AI 37603
+AI,Total AI,"12,12,81","8,76,87","8,94,65","9,71,84",
+AL,Care Camp at Melpakkam and Special Home at Kancheepuram,,,,,2235 02 104 AL 30000
+301,Salaries,"56,68","68,13","60,08","62,09",2235 02 104 AL 30100
+01,Pay,"49,10","57,36","50,00","52,00",2235 02 104 AL 30101
+02,Medical Allowance,38,98,30,30,2235 02 104 AL 30102
+03,Medical Charges,,6,6,7,2235 02 104 AL 30103
+04,Other Allowances,30,29,32,32,2235 02 104 AL 30104
+06,House Rent Allowance,"5,82","8,23","8,23","8,23",2235 02 104 AL 30106
+07,Travel Concession,,9,5,5,2235 02 104 AL 30107
+08,City Compensatory Allowance,"1,08","1,12","1,12","1,12",2235 02 104 AL 30108
+302,Wages,,9,9,9,2235 02 104 AL 30200
+01,Wages,,9,9,9,2235 02 104 AL 30201
+303,Dearness Allowance,"5,11","7,46","9,18","12,74",2235 02 104 AL 30300
+01,Dearness Allowance,"5,11","7,46","9,18","12,74",2235 02 104 AL 30301
+304,Travel Expenses,3,7,7,7,2235 02 104 AL 30400
+01,Tour Travelling Allowances,3,4,4,4,2235 02 104 AL 30401
+02,Transfer Travelling Allowances,,3,3,3,2235 02 104 AL 30402
+305,Office Expenses,72,20,"1,20","1,20",2235 02 104 AL 30500
+01,Telephone Charges,,2,2,2,2235 02 104 AL 30501
+02,Other Contingencies,5,8,8,8,2235 02 104 AL 30502
+03,Electricity Charges,67,8,"1,08","1,08",2235 02 104 AL 30503
+04,Service Postage & Postal Expenditure,,2,2,2,2235 02 104 AL 30504
+324,Materials and Supplies,,20,20,20,2235 02 104 AL 32400
+01,Materials and Supplies,,20,20,20,2235 02 104 AL 32401
+346,"Clothing, Tentage and Stores",,10,10,10,2235 02 104 AL 34600
+01,"Clothing, Tentage and Stores",,10,10,10,2235 02 104 AL 34601
+349,Festival Advances,-6,,,,2235 02 104 AL 34900
+01,Festival Advances-Debit,30,"1,30","1,30","1,30",2235 02 104 AL 34901
+02,Festival Advances-Credit,-36,"-1,30","-1,30","-1,30",2235 02 104 AL 34902
+366,Medicine,,15,15,15,2235 02 104 AL 36600
+01,Medicine,,15,15,15,2235 02 104 AL 36601
+367,Feeding/Dietary Charges,,"6,41","6,41","6,41",2235 02 104 AL 36700
+09,Others,,"6,41","6,41","6,41",2235 02 104 AL 36709
+AL,Total AL,"62,48","82,81","77,48","83,05",
+AY,"Supply of Colour Television Set to Government Rehabilitation  Homes, Government Care Camps and Karunai Illams",,,,,2235 02 104 AY 30000
+319,Machinery and Equipments,,1,1,1,2235 02 104 AY 31900
+01,Purchase,,1,1,1,2235 02 104 AY 31901
+AY,Total AY,1,1,1,,
+BA,Funeral Assistance to Leprosy affected inmates of Government Rehabilitation Homes,,,,,2235 02 104 BA 30000
+305,Office Expenses,81,"2,38","2,38","2,38",2235 02 104 BA 30500
+02,Other Contingencies,81,"2,38","2,38","2,38",2235 02 104 BA 30502
+324,Materials and Supplies,,1,1,1,2235 02 104 BA 32400
+01,Materials and Supplies,,1,1,1,2235 02 104 BA 32401
+347,Stores and Equipments,,1,1,1,2235 02 104 BA 34700
+01,Stores - Voted,,1,1,1,2235 02 104 BA 34701
+376,Computer and Accessories,19,39,39,39,2235 02 104 BA 37600
+01,Purchase,,1,1,1,2235 02 104 BA 37601
+02,Maintenance,4,8,8,8,2235 02 104 BA 37602
+03,Stationery,15,30,30,30,2235 02 104 BA 37603
+BA,Total BA,"1,00","2,79","2,79","2,79",
+KQ,Maintenance Allowance to Leprosy affected persons,,,,,2235 02 104 KQ 30000
+309,Grants-in-Aid,"12,51,79","10,97,18","11,07,62","11,98,67",2235 02 104 KQ 30900
+03,Grants for Specific Schemes,"12,51,79","10,97,18","11,07,62","11,98,67",2235 02 104 KQ 30903
+KQ,Total KQ,"12,51,79","10,97,18","11,07,62","11,98,67",
+#,State's Expenditure Total,"25,28,08","20,59,66","20,82,55","22,56,36",
+104,Total 104,"25,28,08","20,59,66","20,82,55","22,56,36",
+797,Transfer to/from Reserve Fund and Deposit Accounts,,,,,
+#,State's Expenditure,,,,,
+AE,Amount transfer to State Differently Abled Welfare Fund,,,,,2235 02 797 AE 30000
+330,Inter-Account Transfers,"10,00,00","10,00,00","10,00,00","10,00,00",2235 02 797 AE 33000
+01,Inter-Account Transfers,"10,00,00","10,00,00","10,00,00","10,00,00",2235 02 797 AE 33001
+AE,Total AE,"10,00,00","10,00,00","10,00,00","10,00,00",
+#,State's Expenditure Total,"10,00,00","10,00,00","10,00,00","10,00,00",
+797,Total 797,"10,00,00","10,00,00","10,00,00","10,00,00",
+902,Deduct Amount met from TamilNadu Special Welfare Fund,,,,,
+#,State's Expenditure,,,,,
+AE,State Fund for Persons with Disabilities,,,,,2235 02 902 AE 30000
+330,Inter-Account Transfers,,"-10,00,00","-10,00,00","-10,00,00",2235 02 902 AE 33000
+01,Inter-Account Transfers,,"-10,00,00","-10,00,00","-10,00,00",2235 02 902 AE 33001
+AE,Total AE,,"-10,00,00","-10,00,00","-10,00,00",
+JA,Deduct - Amount met from State Innovation Fund,,,,,2235 02 902 JA 30000
+330,Inter-Account Transfers,"-3,92","-12,38","-17,56",-3,2235 02 902 JA 33000
+01,Inter-Account Transfers,"-3,92","-12,38","-17,56",-3,2235 02 902 JA 33001
+JA,Total JA,"-3,92","-12,38","-17,56",-3,
+#,State's Expenditure Total,"-3,92","-10,12,38","-10,17,56","-10,00,03",
+902,Total 902,"-3,92","-10,12,38","-10,17,56","-10,00,03",
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+AE,Light Engineering Education Project for the Adult Blind,,,,,2235 02 911 AE 30000
+377,Deduct-Recoveries,"-39,35",,,,2235 02 911 AE 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-39,35",,,,2235 02 911 AE 37702
+AE,Total AE,"-39,35",,,,
+BB,Deduct - Recoveries of Overpayments,,,,,2235 02 911 BB 30000
+377,Deduct-Recoveries,"-3,19",,,,2235 02 911 BB 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-3,19",,,,2235 02 911 BB 37702
+BB,Total BB,"-3,19",,,,
+BD,Regional Rehabilitation Centres,,,,,2235 02 911 BD 30000
+377,Deduct-Recoveries,"-19,78",,,,2235 02 911 BD 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-19,78",,,,2235 02 911 BD 37702
+BD,Total BD,"-19,78",,,,
+CD,Deduct - Recoveries of Overpayments,,,,,2235 02 911 CD 30000
+377,Deduct-Recoveries,"-54,68",,,,2235 02 911 CD 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-54,68",,,,2235 02 911 CD 37702
+CD,Total CD,"-54,68",,,,
+CG,Assistance for Recaning of Wooden Furniture by Blind Persons,,,,,2235 02 911 CG 30000
+377,Deduct-Recoveries,-2,,,,2235 02 911 CG 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-2,,,,2235 02 911 CG 37702
+CG,Total CG,-2,,,,
+CI,Starting of Early Intervention Centres for infants and young children with hearing impairment,,,,,2235 02 911 CI 30000
+377,Deduct-Recoveries,-23,,,,2235 02 911 CI 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-23,,,,2235 02 911 CI 37702
+CI,Total CI,-23,,,,
+CM,Maintenance Grants to the persons with Muscular Dystrophy Disease,,,,,2235 02 911 CM 30000
+377,Deduct-Recoveries,-16,,,,2235 02 911 CM 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-16,,,,2235 02 911 CM 37702
+CM,Total CM,-16,,,,
+CO,Scheme for Rehabilitation of the Differently Abled Persons,,,,,2235 02 911 CO 30000
+377,Deduct-Recoveries,-24,,,,2235 02 911 CO 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-24,,,,2235 02 911 CO 37702
+CO,Total CO,-24,,,,
+CP,Self-Employment forDifferently Abled Persons2235 02 911 CP 30000,,,,,
+377,Deduct-Recoveries,-20,,,,2235 02 911 CP 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-20,,,,2235 02 911 CP 37702
+CP,Total CP,-20,,,,
+CS,Scribe Assistance toStudents of Schools for,,,,,
+Blind and Expenses for,,,,,,
+the Helper,,,,,2235 02 911 CS 30000,
+377,Deduct-Recoveries,-57,,,,2235 02 911 CS 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-57,,,,2235 02 911 CS 37702
+CS,Total CS,-57,,,,
+CV,Concession to Normal Persons Marrying Differently Abled Persons,,,,,2235 02 911 CV 30000
+377,Deduct-Recoveries,"-1,50",,,,2235 02 911 CV 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-1,50",,,,2235 02 911 CV 37702
+CV,Total CV,"-1,50",,,,
+DE,State Resource cum Training Centre,,,,,2235 02 911 DE 30000
+377,Deduct-Recoveries,-10,,,,2235 02 911 DE 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-10,,,,2235 02 911 DE 37702
+DE,Total DE,-10,,,,
+KQ,Maintenance Allowance to Leprosy affected persons,,,,,2235 02 911 KQ 30000
+377,Deduct-Recoveries,-61,,,,2235 02 911 KQ 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-61,,,,2235 02 911 KQ 37702
+KQ,Total KQ,-61,,,,
+MJ,Unemployment Allowance to Unemployed differently abled / Hearing Impaired / Mentally Retarded registered in Employment Exchange,,,,,2235 02 911 MJ 30000
+377,Deduct-Recoveries,"-8,32",,,,2235 02 911 MJ 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-8,32",,,,2235 02 911 MJ 37702
+MJ,Total MJ,"-8,32",,,,
+MO,Assistance for Rehabilitation of Mentally ill,,,,,2235 02 911 MO 30000
+377,Deduct-Recoveries,-16,,,,2235 02 911 MO 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-16,,,,2235 02 911 MO 37702
+MO,Total MO,-16,,,,
+MY,New born screening programme for hearing loss in babies at Chennai and Sivagangai Districts under State Innovation Fund,,,,,2235 02 911 MY 30000
+377,Deduct-Recoveries,"-5,98",,,,2235 02 911 MY 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-5,98",,,,2235 02 911 MY 37702
+MY,Total MY,"-5,98",,,,
+#,State's Expenditure Total,"-1,35,09",,,,
+911,Total 911,"-1,35,09",,,,
+02,Total 02 Charged,,1,1,1,
+02,Total 02 Voted,"5,36,62,15","5,56,08,76","6,15,04,72","6,50,09,27",
+60,Other Social Security and Welfare Programmes,,,,,
+200,Other Programmes,,,,,
+#,State's Expenditure,,,,,
+DJ,Payment of Compensation to the Differently Abled Victims - Expenditure met from the Tamil Nadu Victim Assistance Fund for the Differently Abled Persons,,,,,2235 60 200 DJ 30000
+309,Grants-in-Aid,,1,,,2235 60 200 DJ 30900
+03,Grants for Specific Schemes,,1,,,2235 60 200 DJ 30903
+DJ,Total DJ,1,,,,
+#,State's Expenditure Total,,1,,,
+200,Total 200,1,,,,
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+DJ,Deduct - Recoveries of Overpayments,,,,,2235 60 911 DJ 30000
+377,Deduct-Recoveries,"-1,00",,,,2235 60 911 DJ 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-1,00",,,,2235 60 911 DJ 37702
+DJ,Total DJ,"-1,00",,,,
+#,State's Expenditure Total,"-1,00",,,,
+911,Total 911,"-1,00",,,,
+60,Total 60,"-1,00",1,,,
+2235,Total 2235 Charged,,1,1,1,
+2235,Total 2235 Voted,"5,36,61,15","5,56,08,77","6,15,04,72","6,50,09,27",
+4235,CAPITAL OUTLAY ON SOCIAL SECURITY AND WELFARE,,,,,
+02,Social Welfare,,,,,
+101,Welfare of Differently Abled Persons,,,,,
+#,State's Expenditure,,,,,
+AA,District Headquarters - Construction of Office Building  to Welfare of Differently Abled Department.,,,,,4235 02 101 AA 40000
+416,Major Works,,,"1,00,00",1,4235 02 101 AA 41600
+01,Major Works,,,"1,00,00",1,4235 02 101 AA 41601
+AA,Total AA,,"1,00,00",1,,
+JV,Construction of Own buildings in Government schools for the visually impaired differently abled,,,,,4235 02 101 JV 40000
+416,Major Works,"20,08",1,1,1,4235 02 101 JV 41600
+01,Major Works,"20,08",1,1,1,4235 02 101 JV 41601
+JV,Total JV,"20,08",1,1,1,
+#,State's Expenditure Total,"20,08",1,"1,00,01",2,
+#,Central Sector Schemes,,,,,
+SA,Scheme for Implementation of Persons with Disabilities Act - (SIPDA),,,,,4235 02 101 SA 40000
+416,Major Works,"7,75,93","3,01,55","3,01,55","3,63,93",4235 02 101 SA 41600
+01,Major Works,"7,75,93","3,01,55","3,01,55","3,63,93",4235 02 101 SA 41601
+SA,Total SA,"7,75,93","3,01,55","3,01,55","3,63,93",
+#,Central Sector Schemes Total,"7,75,93","3,01,55","3,01,55","3,63,93",
+101,Total 101,"7,96,01","3,01,56","4,01,56","3,63,95",
+02,Total 02,"7,96,01","3,01,56","4,01,56","3,63,95",
+4235,Total 4235,"7,96,01","3,01,56","4,01,56","3,63,95",
