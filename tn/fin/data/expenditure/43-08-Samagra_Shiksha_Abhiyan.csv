@@ -1,0 +1,102 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2202,GENERAL EDUCATION,,,,,
+01,Elementary Education,,,,,
+101,Government Primary Schools,,,,,
+#,State's Expenditure,,,,,
+JH,Setting up of Satellite Interactive Terminals for EDUSAT - Schemes under State Innovation Fund,,,,,2202 01 101 JH 30000
+309,Grants-in-Aid,,"29,61",,,2202 01 101 JH 30900
+03,Grants for Specific Schemes,,"29,61",,,2202 01 101 JH 30903
+JH,Total JH,"29,61",,,,
+#,State's Expenditure Total,,"29,61",,,
+#,Schemes shared between State and Centre,,,,,
+UA,Implementation of SSA (Sarva Shiksha Abhiyan) under Samagra Shiksha Abhiyan,,,,,2202 01 101 UA 30000
+309,Grants-in-Aid,"13,04,73,17","14,73,60,50","14,45,69,60",,2202 01 101 UA 30900
+03,Grants for Specific Schemes,"13,04,73,17","14,73,60,50","14,45,69,60",,2202 01 101 UA 30903
+UA,Total UA,"13,04,73,17","14,73,60,50","14,45,69,60",,
+#,Schemes shared between State and Centre Total,"13,04,73,17","14,73,60,50","14,45,69,60",,
+101,Total 101,"13,04,73,17","14,73,90,11","14,45,69,60",,
+113,Samagra Shiksha,,,,,
+#,Schemes shared between State and Centre,,,,,
+UA,Implementation of SSA (Sarva Shiksha Abhiyan) under Samagra Shiksha Abhiyan,,,,,2202 01 113 UA 30000
+309,Grants-in-Aid,,,,"17,51,30,00",2202 01 113 UA 30900
+03,Grants for Specific Schemes,,,,"17,51,30,00",2202 01 113 UA 30903
+UA,Total UA,,,"17,51,30,00",,
+#,Schemes shared between State and Centre Total,,,,"17,51,30,00",
+113,Total 113,,,"17,51,30,00",,
+793,Special Central Assistance for Scheduled Caste Component Plan,,,,,
+#,Schemes shared between State and Centre,,,,,
+UA,Implementation of SSA (Sarva Shiksha Abhiyan) under Samagra Shiksha Abhiyan,,,,,2202 01 793 UA 30000
+309,Grants-in-Aid,"4,32,51,30","4,88,47,13","4,79,22,00","5,80,52,17",2202 01 793 UA 30900
+03,Grants for Specific Schemes,"4,32,51,30","4,88,47,13","4,79,22,00","5,80,52,17",2202 01 793 UA 30903
+UA,Total UA,"4,32,51,30","4,88,47,13","4,79,22,00","5,80,52,17",
+#,Schemes shared between State and Centre Total,"4,32,51,30","4,88,47,13","4,79,22,00","5,80,52,17",
+793,Total 793,"4,32,51,30","4,88,47,13","4,79,22,00","5,80,52,17",
+794,Special Central Assistance for Tribal Sub-Plan,,,,,
+#,Schemes shared between State and Centre,,,,,
+UA,Implementation of SSA (Sarva Shiksha Abhiyan) under Samagra Shiksha Abhiyan,,,,,2202 01 794 UA 30000
+309,Grants-in-Aid,"31,66,45","35,76,13","35,08,40","42,50,03",2202 01 794 UA 30900 
+03,Grants for Specific Schemes,"31,66,45","35,76,13","35,08,40","42,50,03",2202 01 794 UA 30903
+UA,Total UA,"31,66,45","35,76,13","35,08,40","42,50,03",
+#,Schemes shared between State and Centre Total,"31,66,45","35,76,13","35,08,40","42,50,03",
+794,Total 794,"31,66,45","35,76,13","35,08,40","42,50,03",
+902,Deduct - Amount met from State Innovation Fund,,,,,
+#,State's Expenditure,,,,,
+JB,Deduct - Amount met from State Innovation Fund,,,,,2202 01 902 JB 30000
+330,Inter-Account Transfers,,"-29,61",,,2202 01 902 JB 33000
+01,Inter-Account Transfers,,"-29,61",,,2202 01 902 JB 33001
+JB,Total JB,,"-29,61",,,
+#,State's Expenditure Total,,,"-29,61",,
+902,Total 902,,"-29,61",,,
+01,Total 01,"17,68,90,92","19,97,83,76","19,60,00,00","23,74,32,20",
+02,Secondary Education,,,,,
+109,Government Secondary Schools,,,,,
+#,Schemes shared between State and Centre,,,,,
+#,Schemes shared between State and Centre,,,,,
+UG,Implementation of Rashtriya Madhayamik Shiksha Abhiyan (RMSA) Schemes under Samagra Shiksha Abhiyan (Non-Recurring),,,,,2202 02 109 UG 30000
+309,Grants-in-Aid,,"2,54,28,26","1,04,22,12",,2202 02 109 UG 30900
+02,Grants for Creation of Capital Assets,,"2,54,28,26","1,04,22,12",,2202 02 109 UG 30902
+UG,Total UG,"2,54,28,26","1,04,22,12",,,
+UH,Implementation of Rashtriya Madhayamik Shiksha Abhiyan (RMSA) Schemes under Samagra Shiksha Abhiyan (Recurring),,,,,2202 02 109 UH 30000
+309,Grants-in-Aid,,"3,40,82,69","4,61,25,00",,2202 02 109 UH 30900
+03,Grants for Specific Schemes,,"3,40,82,69","4,61,25,00",,2202 02 109 UH 30903
+UH,Total UH,"3,40,82,69","4,61,25,00",,,
+#,Schemes shared between State and Centre Total,,"5,95,10,95","5,65,47,12",,
+109,Total 109,"5,95,10,95","5,65,47,12",,,
+113,Samagra Shiksha,,,,,
+#,Schemes shared between State and Centre,,,,,
+UB,Implementation of Rashtriya Madhyamik Shiksha Abhiyan (RMSA) under Samagra Shiksha Abhiyan (Non Recurring),,,,,2202 02 113 UB 30000
+309,Grants-in-Aid,,,,"1,22,19,90",2202 02 113 UB 30900
+02,Grants for Creation of Capital Assets,,,,"1,22,19,90",2202 02 113 UB 30902
+UB,Total UB,,,"1,22,19,90",,
+UC,Implementation of Rashtriya Madhyamik Shiksha Abhiyan (RMSA) under Samagra Shiksha Abhiyan (Recurring),,,,,2202 02 113 UC 30000
+309,Grants-in-Aid,,,,"4,98,92,60",2202 02 113 UC 30900
+03,Grants for Specific Schemes,,,,"4,98,92,60",2202 02 113 UC 30903
+UC,Total UC,,,"4,98,92,60",,
+#,Schemes shared between State and Centre Total,,,,"6,21,12,50",
+113,Total 113,,,"6,21,12,50",,
+793,Special Central Assistance for Scheduled Caste Component Plan,,,,,
+#,Schemes shared between State and Centre,,,,,
+UD,Implementation of Rashtriya Madhayamik Shiksha Abhiyan (RMSA) Schemes under Samagra Shiksha Abhiyan (Non-Recurring),,,,,2202 02 793 UD 30000
+309,Grants-in-Aid,,"77,98,00","31,96,12","37,47,44",2202 02 793 UD 30900
+02,Grants for Creation of Capital Assets,,"77,98,00","31,96,12","37,47,44",2202 02 793 UD 30902
+UD,Total UD,"77,98,00","31,96,12","37,47,44",,
+UE,Implementation of Rashtriya Madhayamik Shiksha Abhiyan (RMSA) Schemes under Samagra Shiksha Abhiyan (Recurring),,,,,2202 02 793 UE 30000
+309,Grants-in-Aid,,"1,04,52,02","1,41,45,00","1,53,00,40",2202 02 793 UE 30900
+03,Grants for Specific Schemes,,"1,04,52,02","1,41,45,00","1,53,00,40",2202 02 793 UE 30903
+UE,Total UE,"1,04,52,02","1,41,45,00","1,53,00,40",,
+#,Schemes shared between State and Centre Total,,"1,82,50,02","1,73,41,12","1,90,47,84",
+793,Total 793,"1,82,50,02","1,73,41,12","1,90,47,84",,
+794,Special Central Assistance for Tribal Sub-Plan,,,,,
+#,Schemes shared between State and Centre,,,,,
+UD,Implementation of Rashtriya Madhayamik Shiksha Abhiyan (RMSA) Schemes under Samagra Shiksha Abhiyan (Non-Recurring),,,,,2202 02 794 UD 30000
+309,Grants-in-Aid,,"6,78,09","2,77,93","3,25,86",2202 02 794 UD 30900
+02,Grants for Creation of Capital Assets,,"6,78,09","2,77,93","3,25,86",2202 02 794 UD 30902
+UD,Total UD,"6,78,09","2,77,93","3,25,86",,
+UE,Implementation of Rashtriya Madhayamik Shiksha Abhiyan (RMSA) Schemes under Samagra Shiksha  Abhiyan (Recurring),,,,,2202 02 794 UE 30000
+309,Grants-in-Aid,,"9,08,87","12,30,00","13,30,47",2202 02 794 UE 30900
+03,Grants for Specific Schemes,,"9,08,87","12,30,00","13,30,47",2202 02 794 UE 30903
+UE,Total UE,"9,08,87","12,30,00","13,30,47",,
+#,Schemes shared between State and Centre Total,,"15,86,96","15,07,93","16,56,33",
+794,Total 794,"15,86,96","15,07,93","16,56,33",,
+02,Total 02,"7,93,47,93","7,53,96,17","8,28,16,67",,
+2202,Total 2202,"17,68,90,92","27,91,31,69","27,13,96,17","32,02,48,87",

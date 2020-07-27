@@ -1,0 +1,88 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2202,GENERAL EDUCATION,,,,,
+02,Secondary Education,,,,,
+108,Examinations,,,,,
+#,State's Expenditure,,,,,
+AA,Examinations conducted by the Director of Government Examinations,,,,,2202 02 108 AA 30000
+301,Salaries,"19,19,31","19,98,03","27,54,38","29,62,24",2202 02 108 AA 30100
+01,Pay,"16,99,60","17,82,22","24,83,69","26,82,39",2202 02 108 AA 30101
+02,Medical Allowance,"14,81","15,02","15,41","15,41",2202 02 108 AA 30102
+03,Medical Charges,17,60,30,30,2202 02 108 AA 30103
+04,Other Allowances,"21,78","21,31","25,37","25,37",2202 02 108 AA 30104
+06,House Rent Allowance,"1,56,17","1,51,37","2,04,05","2,12,22",2202 02 108 AA 30106
+07,Travel Concession,9,87,87,87,2202 02 108 AA 30107
+08,City Compensatory Allowance,"26,69","26,63","24,68","25,67",2202 02 108 AA 30108
+09,Honorarium,,1,1,1,2202 02 108 AA 30109
+303,Dearness Allowance,"1,56,91","2,31,69","3,97,39","6,57,19",2202 02 108 AA 30300
+01,Dearness Allowance,"1,56,91","2,31,69","3,97,39","6,57,19",2202 02 108 AA 30301
+304,Travel Expenses,"10,15,92","1,51,42","1,51,42","1,51,42",2202 02 108 AA 30400
+01,Tour Travelling Allowances,"10,13,26","1,50,00","1,50,00","1,50,00",2202 02 108 AA 30401
+02,Transfer Travelling Allowances,"2,66","1,42","1,42","1,42",2202 02 108 AA 30402
+305,Office Expenses,"6,14,76","6,77,21","6,72,21","6,75,21",2202 02 108 AA 30500
+01,Telephone Charges,"6,35","9,96","9,96","9,96",2202 02 108 AA 30501
+02,Other Contingencies,"5,83,53","6,24,52","6,24,52","6,24,52",2202 02 108 AA 30502
+03,Electricity Charges,"21,88","35,73","35,73","35,73",2202 02 108 AA 30503
+04,Service Postage & Postal Expenditure,"3,00","7,00","2,00","5,00",2202 02 108 AA 30504
+306,"Rent, Rates and Taxes","7,12","8,23","6,24","6,39",2202 02 108 AA 30600
+01,Rent,"6,66","7,58","3,93","4,09",2202 02 108 AA 30601
+02,Property tax,46,47,"2,03","2,12",2202 02 108 AA 30602
+03,Water Charges,,17,27,17,2202 02 108 AA 30603
+05,Others,,1,1,1,2202 02 108 AA 30605
+308,Advertising and Publicity,"8,78",1,"2,46","2,55",2202 02 108 AA 30800
+01,Advertisement Charges,"8,78",1,"2,46","2,55",2202 02 108 AA 30801
+316,Major Works,,,,1,2202 02 108 AA 31600
+01,Major Works,,,,1,2202 02 108 AA 31601
+319,Machinery and Equipments,"24,07",1,1,1,2202 02 108 AA 31900
+01,Purchase,"24,07",1,1,1,2202 02 108 AA 31901
+321,Motor Vehicles,18,51,"1,30",51,2202 02 108 AA 32100
+02,Maintenance of Functional Vehicles,18,50,"1,29",50,2202 02 108 AA 32102
+03,Hire Charges,,1,1,1,2202 02 108 AA 32103
+333,Payments for Professional and Special Services,"74,12,75","73,94,82","74,12,17","77,03,98",2202 02 108 AA 33300
+01,Pleaders Fees,10,75,"3,82",75,2202 02 108 AA 33301
+02,Remuneration,"73,40,94","73,71,86","73,71,86","76,66,74",2202 02 108 AA 33302
+04,Contract Payment,"59,71","13,71","27,99","27,99",2202 02 108 AA 33304
+09,Other Payments,"12,00","8,50","8,50","8,50",2202 02 108 AA 33309
+345,"Petroleum, Oil and Lubricant","5,03","9,00","10,58","10,58",2202 02 108 AA 34500
+01,"Petroleum, Oil and Lubricant","5,03","9,00","10,58","10,58",2202 02 108 AA 34501
+349,Festival Advances,"-2,61",,,,2202 02 108 AA 34900
+01,Festival Advances-Debit,"11,95","21,15","45,20","47,01",2202 02 108 AA 34901
+02,Festival Advances-Credit,"-14,56","-21,15","-45,20","-47,01",2202 02 108 AA 34902
+351,Compensation Charged,,1,1,1,2202 02 108 AA 35100
+351,Compensation Voted,,1,1,1,2202 02 108 AA 35100
+01,Claims under no fault liability -  principal,,1,1,1,2202 02 108 AA 35101
+charges  - Voted,,,,,,
+52,Other Compensations Charged,,1,1,1,2202 02 108 AA 35152
+359,Prizes and Awards,20,10,28,20,2202 02 108 AA 35900
+01,Prizes and Awards,20,10,28,20,2202 02 108 AA 35901
+364,Lands Charged,,1,1,1,2202 02 108 AA 36400
+51,Lands Charged,,1,1,1,2202 02 108 AA 36451
+371,Printing Charges,"20,04,00","15,02,00","15,02,00","15,62,08",2202 02 108 AA 37100
+01,Printing Charges,"20,04,00","15,02,00","15,02,00","15,62,08",2202 02 108 AA 37101
+373,Transport Charges,"7,26,87","7,37,72","7,37,72","7,37,72",2202 02 108 AA 37300
+01,Transport Charges,"7,26,87","7,37,72","7,37,72","7,37,72",2202 02 108 AA 37301
+376,Computer and Accessories,"4,41,92","20,01","1,48,30","1,42,05",2202 02 108 AA 37600
+01,Purchase,"1,27,21",1,"3,41",1,2202 02 108 AA 37601
+02,Maintenance,"14,91","15,00","17,85","15,00",2202 02 108 AA 37602
+03,Stationery,"2,99,80","5,00","1,27,04","1,27,04",2202 02 108 AA 37603
+377,Deduct-Recoveries,"-1,09,31","-1,00","-16,34","-1,00",2202 02 108 AA 37700
+03,Other Recoveries,"-1,09,31","-1,00","-16,34","-1,00",2202 02 108 AA 37703
+AA,Total AA Charged,,2,2,2,
+AA,Total AA Voted,"1,42,25,90","1,27,29,77","1,37,80,13","1,46,11,15",
+108,Total 108 Charged,,2,2,2,
+108,Total 108 Voted,"1,42,25,90","1,27,29,77","1,37,80,13","1,46,11,15",
+02,Total 02 Charged,,2,2,2,
+02,Total 02 Voted,"1,42,25,90","1,27,29,77","1,37,80,13","1,46,11,15",
+2202,Total 2202 Charged,,2,2,2,
+2202,Total 2202 Voted,"1,42,25,90","1,27,29,77","1,37,80,13","1,46,11,15",
+4202,"CAPITAL OUTLAY ON EDUCATION,SPORTS, ART AND CULTURE",,,,,
+01,General Education,,,,,
+202,Secondary Education,,,,,
+#,State's Expenditure,,,,,
+JH,Construction of Buildings - Controlled by Director of Government Examinations,,,,,4202 01 202 JH 40000
+416,Major Works,"2,70,85",,"24,49",1,4202 01 202 JH 41600
+01,Major Works,"2,70,85",,"24,49",1,4202 01 202 JH 41601
+JH,Total JH,"2,70,85",,"24,49",1,
+#,State's Expenditure Total,"2,70,85",,"24,49",1,
+202,Total 202,"2,70,85",,"24,49",1,
+01,Total 01,"2,70,85",,"24,49",1,
+4202,Total 4202,"2,70,85",,"24,49",1,

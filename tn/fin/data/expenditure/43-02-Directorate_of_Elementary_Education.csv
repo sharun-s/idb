@@ -1,0 +1,553 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2202,GENERAL EDUCATION,,,,,
+01,Elementary Education,,,,,
+001,Direction and Administration,,,,,
+#,State's Expenditure,,,,,
+AA,Directorate of Elementary Education,,,,,2202 01 001 AA 30000
+301,Salaries,"4,67,81","5,58,62","5,58,28","6,00,39",2202 01 001 AA 30100
+01,Pay,"4,08,11","4,97,29","4,97,29","5,37,07",2202 01 001 AA 30101
+02,Medical Allowance,"2,50","3,18","2,23","2,23",2202 01 001 AA 30102
+03,Medical Charges,34,25,25,25,2202 01 001 AA 30103
+04,Other Allowances,"2,73","2,33","2,33","2,33",2202 01 001 AA 30104
+06,House Rent Allowance,"45,51","47,90","47,88","49,94",2202 01 001 AA 30106
+07,Travel Concession,23,67,67,67,2202 01 001 AA 30107
+08,City Compensatory Allowance,"8,39","7,00","7,63","7,90",2202 01 001 AA 30108
+303,Dearness Allowance,"38,34","64,65","79,57","1,31,58",2202 01 001 AA 30300
+01,Dearness Allowance,"38,34","64,65","79,57","1,31,58",2202 01 001 AA 30301
+304,Travel Expenses,"4,03","8,90","7,90","8,24",2202 01 001 AA 30400
+01,Tour Travelling Allowances,"4,03","8,50","7,50","7,50",2202 01 001 AA 30401
+02,Transfer Travelling Allowances,,40,40,74,2202 01 001 AA 30402
+305,Office Expenses,"9,21","11,85","11,85","12,95",2202 01 001 AA 30500
+01,Telephone Charges,69,70,70,"2,65",2202 01 001 AA 30501
+02,Other Contingencies,"2,72","3,95","3,95","3,50",2202 01 001 AA 30502
+03,Electricity Charges,"5,15","6,00","6,00","6,00",2202 01 001 AA 30503
+04,Service Postage & Postal Expenditure,65,"1,20","1,20",80,2202 01 001 AA 30504
+321,Motor Vehicles,37,41,41,41,2202 01 001 AA 32100
+01,Purchase,,1,1,1,2202 01 001 AA 32101
+02,Maintenance of Functional Vehicles,37,40,40,40,2202 01 001 AA 32102
+325,Interest,,1,1,1,2202 01 001 AA 32500
+01,Interest,,1,1,1,2202 01 001 AA 32501
+333,Payments for Professional and Special Services,"27,18","12,30","22,50","22,50",2202 01 001 AA 33300
+01,Pleaders Fees,,"2,00","2,00","2,00",2202 01 001 AA 33301
+04,Contract Payment,"27,18","10,30","20,50","20,50",2202 01 001 AA 33304
+345,"Petroleum, Oil and Lubricant","3,53","4,74","4,28","4,46",2202 01 001 AA 34500
+01,"Petroleum, Oil and Lubricant","3,53","4,74","4,28","4,46",2202 01 001 AA 34501
+349,Festival Advances,-3,,,,2202 01 001 AA 34900
+01,Festival Advances-Debit,"1,95","4,00","8,00","8,00",2202 01 001 AA 34901
+02,Festival Advances-Credit,"-1,98","-4,00","-8,00","-8,00",2202 01 001 AA 34902
+359,Prizes and Awards,,20,20,20,2202 01 001 AA 35900
+01,Prizes and Awards,,20,20,20,2202 01 001 AA 35901
+376,Computer and Accessories,"2,11","3,00","3,00","3,25",2202 01 001 AA 37600
+02,Maintenance,22,75,75,75,2202 01 001 AA 37602
+03,Stationery,"1,89","2,25","2,25","2,50",2202 01 001 AA 37603
+AA,Total AA,"5,52,55","6,64,68","6,88,00","7,83,99",
+AB,Creation of Law Cell in the Directorate of Elementary Education,,,,,2202 01 001 AB 30000
+301,Salaries,"20,89","16,03","16,50","17,73",2202 01 001 AB 30100
+01,Pay,"18,54","14,56","14,56","15,72",2202 01 001 AB 30101
+02,Medical Allowance,4,2,11,11,2202 01 001 AB 30102
+06,House Rent Allowance,"2,01","1,20","1,58","1,64",2202 01 001 AB 30106
+08,City Compensatory Allowance,30,25,25,26,2202 01 001 AB 30108
+303,Dearness Allowance,"1,60","1,89","2,33","3,85",2202 01 001 AB 30300
+01,Dearness Allowance,"1,60","1,89","2,33","3,85",2202 01 001 AB 30301
+AB,Total AB,"22,49","17,92","18,83","21,58",
+AC,Audit Wing,,,,,2202 01 001 AC 30000
+301,Salaries,"60,90","60,16","60,36","64,97",2202 01 001 AC 30100
+01,Pay,"56,37","55,20","55,20","59,62",2202 01 001 AC 30101
+02,Medical Allowance,39,38,50,50,2202 01 001 AC 30102
+06,House Rent Allowance,"3,71","4,14","4,22","4,40",2202 01 001 AC 30106
+08,City Compensatory Allowance,43,44,44,45,2202 01 001 AC 30108
+303,Dearness Allowance,"4,60","7,18","8,83","14,61",2202 01 001 AC 30300
+01,Dearness Allowance,"4,60","7,18","8,83","14,61",2202 01 001 AC 30301
+304,Travel Expenses,"4,00","4,10","4,10","4,00",2202 01 001 AC 30400
+01,Tour Travelling Allowances,"4,00","4,00","4,00","4,00",2202 01 001 AC 30401
+02,Transfer Travelling Allowances,,10,10,,2202 01 001 AC 30402
+349,Festival Advances,-34,,,,2202 01 001 AC 34900
+01,Festival Advances-Debit,,75,60,60,2202 01 001 AC 34901
+02,Festival Advances-Credit,-34,-75,-60,-60,2202 01 001 AC 34902
+AC,Total AC,"69,16","71,44","73,29","83,58",
+#,State's Expenditure,,,,,
+#,Schemes shared between State and Centre,,,,,
+UA,Setting up of A Smart Class room in a School in Primary and Middle Schools,,,,,2202 01 001 UA 30000
+318,Maintenance,"8,10,00",1,1,1,2202 01 001 UA 31800
+02,Special Maintenance,"8,10,00",1,1,1,2202 01 001 UA 31802
+UA,Total UA,"8,10,00",1,1,1,
+#,Schemes shared between State and Centre Total,"8,10,00",1,1,1,
+001,Total 001,"14,54,20","7,54,05","7,80,13","8,89,16",
+101,Government Primary Schools,,,,,
+#,State's Expenditure,,,,,
+AA,Salaries of  Municipal and Corporation Elementary School Teachers,,,,,2202 01 101 AA 30000
+301,Salaries,"4,78,93,08","4,69,39,08","4,70,26,14","5,06,51,44",2202 01 101 AA 30100
+01,Pay,"4,34,94,98","4,28,01,78","4,28,01,78","4,62,25,92",2202 01 101 AA 30101
+02,Medical Allowance,"2,18,07","2,34,74","2,41,31","2,41,31",2202 01 101 AA 30102
+04,Other Allowances,"2,64,43","1,65,71","1,65,71","1,65,71",2202 01 101 AA 30104
+06,House Rent Allowance,"34,90,24","33,33,82","34,13,76","35,91,96",2202 01 101 AA 30106
+07,Travel Concession,5,55,55,55,2202 01 101 AA 30107
+08,City Compensatory Allowance,"4,25,31","4,02,48","4,03,03","4,25,99",2202 01 101 AA 30108
+302,Wages,"8,80","18,93","4,87","4,87",2202 01 101 AA 30200
+01,Wages,"8,80","18,93","4,87","4,87",2202 01 101 AA 30201
+303,Dearness Allowance,"40,67,40","55,64,23","68,48,28","1,13,25,35",2202 01 101 AA 30300
+01,Dearness Allowance,"40,67,40","55,64,23","68,48,28","1,13,25,35",2202 01 101 AA 30301
+304,Travel Expenses,43,"1,20",85,71,2202 01 101 AA 30400
+01,Tour Travelling Allowances,43,"1,00",65,65,2202 01 101 AA 30401
+02,Transfer Travelling Allowances,,20,20,6,2202 01 101 AA 30402
+305,Office Expenses,"2,77","2,80","2,80","2,73",2202 01 101 AA 30500
+02,Other Contingencies,"2,77","2,80","2,80","2,73",2202 01 101 AA 30502
+349,Festival Advances,"-12,47",,,,2202 01 101 AA 34900
+01,Festival Advances-Debit,"2,11,30","2,70,00","6,23,00","6,23,00",2202 01 101 AA 34901
+02,Festival Advances-Credit,"-2,23,77","-2,70,00","-6,23,00","-6,23,00",2202 01 101 AA 34902
+359,Prizes and Awards,46,"2,00",20,20,2202 01 101 AA 35900
+01,Prizes and Awards,46,"2,00",20,20,2202 01 101 AA 35901
+AA,Total AA,"5,19,60,47","5,25,28,24","5,38,83,14","6,19,85,30",
+AB,Government Elementary Schools,,,,,2202 01 101 AB 30000
+301,Salaries,"1,29,01,32","1,30,15,93","1,30,09,25","1,40,21,42",2202 01 101 AB 30100
+01,Pay,"1,22,73,02","1,23,98,55","1,23,98,55","1,33,90,43",2202 01 101 AB 30101
+02,Medical Allowance,"59,24","65,83","59,44","59,44",2202 01 101 AB 30102
+04,Other Allowances,"93,05","76,20","76,20","76,20",2202 01 101 AB 30104
+06,House Rent Allowance,"4,70,01","4,60,32","4,60,13","4,79,91",2202 01 101 AB 30106
+07,Travel Concession,,43,43,43,2202 01 101 AB 30107
+08,City Compensatory Allowance,"6,00","14,60","14,50","15,01",2202 01 101 AB 30108
+302,Wages,77,"2,55","2,62","2,24",2202 01 101 AB 30200
+01,Wages,77,"2,55","2,62","2,24",2202 01 101 AB 30201
+303,Dearness Allowance,"11,69,95","16,11,81","19,83,77","32,80,66",2202 01 101 AB 30300
+01,Dearness Allowance,"11,69,95","16,11,81","19,83,77","32,80,66",2202 01 101 AB 30301
+304,Travel Expenses,37,25,20,10,2202 01 101 AB 30400
+01,Tour Travelling Allowances,37,15,10,10,2202 01 101 AB 30401
+02,Transfer Travelling Allowances,,10,10,,2202 01 101 AB 30402
+305,Office Expenses,"11,69","9,20","9,20","9,73",2202 01 101 AB 30500
+02,Other Contingencies,"3,87",20,20,22,2202 01 101 AB 30502
+03,Electricity Charges,"7,82","9,00","9,00","9,51",2202 01 101 AB 30503
+349,Festival Advances,"-4,18",,,,2202 01 101 AB 34900
+01,Festival Advances-Debit,"50,76","65,05","55,70","55,70",2202 01 101 AB 34901
+02,Festival Advances-Credit,"-54,94","-65,05","-55,70","-55,70",2202 01 101 AB 34902
+359,Prizes and Awards,2,"2,00","1,50","1,50",2202 01 101 AB 35900
+01,Prizes and Awards,2,"2,00","1,50","1,50",2202 01 101 AB 35901
+364,Lands Charged,,1,1,1,2202 01 101 AB 36400
+51,Lands Charged,,1,1,1,2202 01 101 AB 36451
+AB,Total AB Charged,,1,1,1,
+AB,Total AB Voted,"1,40,79,94","1,46,41,74","1,50,06,54","1,73,15,65",
+AC,Salaries to Panchayat Union Elementary School Teachers,,,,,2202 01 101 AC 30000
+301,Salaries,"53,14,05,42","54,24,48,03","54,37,50,78","58,56,51,17",2202 01 101 AC 30100
+01,Pay,"49,84,46,54","51,15,99,98","51,15,99,98","55,25,27,98",2202 01 101 AC 30101
+02,Medical Allowance,"26,07,99","28,23,17","26,73,69","26,73,69",2202 01 101 AC 30102
+04,Other Allowances,"43,62,42","33,26,47","33,26,47","33,26,47",2202 01 101 AC 30104
+06,House Rent Allowance,"2,48,56,35","2,36,80,43","2,49,91,52","2,59,22,63",2202 01 101 AC 30106
+07,Travel Concession,"1,88","2,26","2,26","2,26",2202 01 101 AC 30107
+08,City Compensatory Allowance,"11,30,24","10,15,72","11,56,86","11,98,14",2202 01 101 AC 30108
+302,Wages,,"2,93","2,18","2,18",2202 01 101 AC 30200
+01,Wages,,"2,93","2,18","2,18",2202 01 101 AC 30201
+303,Dearness Allowance,"5,15,72,27","6,95,58,00","8,18,56,00","13,53,69,36",2202 01 101 AC 30300
+01,Dearness Allowance,"5,15,72,27","6,95,58,00","8,18,56,00","13,53,69,36",2202 01 101 AC 30301
+304,Travel Expenses,"1,41","3,73","4,01","3,55",2202 01 101 AC 30400
+01,Tour Travelling Allowances,92,"2,33","2,61","2,61",2202 01 101 AC 30401
+02,Transfer Travelling Allowances,49,"1,40","1,40",94,2202 01 101 AC 30402
+305,Office Expenses,"29,86","10,39","10,39","11,44",2202 01 101 AC 30500 
+02,Other Contingencies,"29,86","10,39","10,39","11,44",2202 01 101 AC 30502
+333,Payments for Professional and Special Services,,,,"5,43,60",2202 01 101 AC 33300
+03,Special Service,,,,"5,43,60",2202 01 101 AC 33303
+349,Festival Advances,"-14,81",,,,2202 01 101 AC 34900
+01,Festival Advances-Debit,"25,37,20","31,00,00","50,31,40","50,31,40",2202 01 101 AC 34901
+02,Festival Advances-Credit,"-25,52,01","-31,00,00","-50,31,40","-50,31,40",2202 01 101 AC 34902
+351,Compensation Charged,,1,1,1,2202 01 101 AC 35100
+351,Compensation Voted,,1,1,1,2202 01 101 AC 35100
+02,Other Compensations - Voted,,1,1,1,2202 01 101 AC 35102
+52,Other Compensations Charged,,1,1,1,2202 01 101 AC 35152
+359,Prizes and Awards,"3,07","10,27","3,00","3,00",2202 01 101 AC 35900
+01,Prizes and Awards,"3,07","10,27","3,00","3,00",2202 01 101 AC 35901
+AC,Total AC Charged,,1,1,1,
+AC,Total AC Voted,"58,29,97,22","61,20,33,36","62,56,26,37","72,15,84,31",
+AD,Payment of Salaries to Teachers under Sarva Shiksha Abhiyan (SSA),,,,,2202 01 101 AD 30000
+301,Salaries,"15,87,02,48","15,82,58,10","15,85,96,14","17,08,27,63",2202 01 101 AD 30100
+01,Pay,"14,87,89,48","14,86,97,75","14,86,97,75","16,05,93,57",2202 01 101 AD 30101
+02,Medical Allowance,"7,74,69","8,45,05","7,98,84","7,98,84",2202 01 101 AD 30102
+04,Other Allowances,"12,40,68","12,30,07","12,30,07","12,30,07",2202 01 101 AD 30104
+06,House Rent Allowance,"75,38,39","71,69,25","75,11,00","78,33,89",2202 01 101 AD 30106
+08,City Compensatory Allowance,"3,59,24","3,15,98","3,58,48","3,71,26",2202 01 101 AD 30108
+303,Dearness Allowance,"1,47,24,89","1,93,30,71","2,37,91,64","3,93,45,42",2202 01 101 AD 30300
+01,Dearness Allowance,"1,47,24,89","1,93,30,71","2,37,91,64","3,93,45,42",2202 01 101 AD 30301
+304,Travel Expenses,8,,,,2202 01 101 AD 30400
+01,Tour Travelling Allowances,8,,,,2202 01 101 AD 30401
+349,Festival Advances,"-81,95",,,,2202 01 101 AD 34900
+01,Festival Advances-Debit,"6,06,50","6,90,53","25,89,70","25,89,70",2202 01 101 AD 34901
+02,Festival Advances-Credit,"-6,88,45","-6,90,53","-25,89,70","-25,89,70",2202 01 101 AD 34902
+AD,Total AD,"17,33,45,50","17,75,88,81","18,23,87,78","21,01,73,05 ",
+JF,Provision of Computer to Middle Schools,,,,,2202 01 101 JF 30000
+376,Computer and Accessories,,1,1,1,2202 01 101 JF 37600
+01,Purchase,,1,1,1,2202 01 101 JF 37601
+JF,Total JF,1,1,1,,
+#,State's Expenditure Total Charged,,2,2,2,
+#,State's Expenditure Total Voted,"82,23,83,13","85,67,92,16","87,69,03,84","1,01,10,58,32",
+101,Total 101 Charged,,2,2,2,
+101,Total 101 Voted,"82,23,83,13","85,67,92,16","87,69,03,84","1,01,10,58,32",
+102,Assistance to Non-Government Primary Schools,,,,,
+#,State's Expenditure,,,,,
+AD,Grants to Non-Government Elementary Schools,,,,,2202 01 102 AD 30000
+309,Grants-in-Aid,"-40,65","5,50,01","5,50,01","10,00,01",2202 01 102 AD 30900
+01,Grants for Current Expenditure,"-40,34","5,50,00","5,50,00","10,00,00",2202 01 102 AD 30901
+09,Others,-31,1,1,1,2202 01 102 AD 30909
+349,Festival Advances,"-77,46",,,,2202 01 102 AD 34900
+01,Festival Advances-Debit,"10,71,78","13,34,62","25,46,70","25,46,70",2202 01 102 AD 34901
+02,Festival Advances-Credit,"-11,49,24","-13,34,62","-25,46,70","-25,46,70",2202 01 102 AD 34902
+359,Prizes and Awards,32,"2,60","1,00","1,00",2202 01 102 AD 35900
+01,Prizes and Awards,32,"2,60","1,00","1,00",2202 01 102 AD 35901
+379,Salary Grants,"28,80,44,63","24,53,05,47","29,57,66,85","32,87,99,52",2202 01 102 AD 37900
+01,Pay,"24,93,04,73","20,49,32,72","24,14,59,42","25,11,17,80",2202 01 102 AD 37901
+02,Medical Allowance,"13,17,89","12,79,30","11,85,05","11,85,05",2202 01 102 AD 37902
+03,Medical Charges,"7,74",1,24,1,2202 01 102 AD 37903
+04,Other Allowances,"15,35,36","12,72,60","12,72,60","12,72,60",2202 01 102 AD 37904
+06,House Rent Allowances,"1,29,23,43","1,05,71,97","1,23,58,49","1,28,52,83",2202 01 102 AD 37906
+08,City Compensatory Allowance,"9,04,88","5,72,87","8,14,78","8,47,37",2202 01 102 AD 37908
+09,Dearness Allowance,"2,20,50,60","2,66,76,00","3,86,76,27","6,15,23,86",2202 01 102 AD 37909
+AD,Total AD,"28,79,26,84","24,58,58,08","29,63,17,86","32,98,00,53",
+AE,Pre-Primary Schools,,,,,2202 01 102 AE 30000
+379,Salary Grants,"76,21","2,67,28","2,67,28","3,46,07",2202 01 102 AE 37900
+01,Pay,"76,21","2,67,28","2,67,28","2,77,97",2202 01 102 AE 37901
+09,Dearness Allowance,,,,"68,10",2202 01 102 AE 37909
+AE,Total AE,"76,21","2,67,28","2,67,28","3,46,07",
+AF,Tamil Teachers for Middle Schools,,,,,2202 01 102 AF 30000
+301,Salaries,"2,23,80","2,13,75","2,14,19","2,30,71",2202 01 102 AF 30100
+01,Pay,"2,11,72","2,02,41","2,02,41","2,18,60",2202 01 102 AF 30101
+02,Medical Allowance,83,87,90,90,2202 01 102 AF 30102
+04,Other Allowances,"3,20","2,95","2,95","2,95",2202 01 102 AF 30104
+06,House Rent Allowance,"7,96","7,41","7,82","8,15",2202 01 102 AF 30106
+08,City Compensatory Allowance,9,11,11,11,2202 01 102 AF 30108
+303,Dearness Allowance,"18,66","26,31","32,39","53,56",2202 01 102 AF 30300
+01,Dearness Allowance,"18,66","26,31","32,39","53,56",2202 01 102 AF 30301
+349,Festival Advances,-11,,,,2202 01 102 AF 34900
+01,Festival Advances-Debit,65,"1,60","2,70","2,70",2202 01 102 AF 34901
+02,Festival Advances-Credit,-76,"-1,60","-2,70","-2,70",2202 01 102 AF 34902
+AF,Total AF,"2,42,35","2,40,06","2,46,58","2,84,27",
+AG,Creation of Science / Maths B.T. Teachers Posts for Middle Schools,,,,,2202 01 102 AG 30000
+301,Salaries,"3,02,69","3,07,50","3,07,22","3,30,14",2202 01 102 AG 30100
+01,Pay,"2,81,92","2,85,78","2,85,78","3,08,64",2202 01 102 AG 30101
+02,Medical Allowance,"1,32","1,48","1,19","1,19",2202 01 102 AG 30102
+04,Other Allowances,"6,33","7,42","7,42","7,42",2202 01 102 AG 30104
+06,House Rent Allowance,"12,74","12,43","12,42","12,46",2202 01 102 AG 30106
+08,City Compensatory Allowance,38,39,41,43,2202 01 102 AG 30108
+303,Dearness Allowance,"24,80","37,15","45,72","75,62",2202 01 102 AG 30300
+01,Dearness Allowance,"24,80","37,15","45,72","75,62",2202 01 102 AG 30301
+349,Festival Advances,-55,,,,2202 01 102 AG 34900
+01,Festival Advances-Debit,65,"3,20","3,00","3,00",2202 01 102 AG 34901
+02,Festival Advances-Credit,"-1,20","-3,20","-3,00","-3,00",2202 01 102 AG 34902
+AG,Total AG,"3,26,94","3,44,65","3,52,94","4,05,76",
+#,State's Expenditure Total,"28,85,72,34","24,67,10,07","29,71,84,66","33,08,36,63",
+102,Total 102,"28,85,72,34","24,67,10,07","29,71,84,66","33,08,36,63",
+103,Assistance to Local Bodies for Primary Education,,,,,
+#,State's Expenditure,,,,,
+AB,Residuary Grants to Panchayat Union Councils for Elementary Education,,,,,2202 01 103 AB 30000
+309,Grants-in-Aid,"5,03,47","6,53,73","6,53,73","6,53,73",2202 01 103 AB 30900
+03,Grants for Specific Schemes,"5,03,47","6,53,73","6,53,73","6,53,73",2202 01 103 AB 30903
+AB,Total AB,"5,03,47","6,53,73","6,53,73","6,53,73",
+#,State's Expenditure Total,"5,03,47","6,53,73","6,53,73","6,53,73",
+103,Total 103,"5,03,47","6,53,73","6,53,73","6,53,73",
+104,Inspection,,,,,
+#,State's Expenditure,,,,,
+AA,District Elementary Educational - Subordinate Officers,,,,,2202 01 104 AA 30000
+301,Salaries,"1,78,93,84","1,80,79,42","1,80,72,92","1,94,69,38",2202 01 104 AA 30100
+01,Pay,"1,67,40,36","1,70,07,41","1,70,07,41","1,83,68,00",2202 01 104 AA 30101
+02,Medical Allowance,"1,12,86","1,26,97","1,11,13","1,11,13",2202 01 104 AA 30102
+04,Other Allowances,"1,69,45","1,30,65","1,30,65","1,30,65",2202 01 104 AA 30104
+06,House Rent Allowance,"8,28,38","7,75,44","7,76,42","8,10,84",2202 01 104 AA 30106
+07,Travel Concession,"1,48","6,67","6,67","6,67",2202 01 104 AA 30107
+08,City Compensatory Allowance,"41,31","32,28","40,64","42,09",2202 01 104 AA 30108
+302,Wages,"9,01","18,11","10,33","10,71",2202 01 104 AA 30200
+01,Wages,"9,01","18,11","10,33","10,71",2202 01 104 AA 30201
+303,Dearness Allowance,"16,41,13","22,10,96","27,21,19","45,00,16",2202 01 104 AA 30300
+01,Dearness Allowance,"16,41,13","22,10,96","27,21,19","45,00,16",2202 01 104 AA 30301
+304,Travel Expenses,"2,67,44","2,37,80","2,58,94","2,59,40",2202 01 104 AA 30400
+01,Tour Travelling Allowances,"2,65,78","2,34,00","2,55,14","2,55,14",2202 01 104 AA 30401
+02,Transfer Travelling Allowances,"1,66","3,80","3,80","4,26",2202 01 104 AA 30402
+305,Office Expenses,"1,35,64","1,32,44","1,32,44","1,29,83",2202 01 104 AA 30500
+01,Telephone Charges,"57,48","50,66","50,66","48,71",2202 01 104 AA 30501
+02,Other Contingencies,"14,42","10,28","10,28","9,73",2202 01 104 AA 30502
+03,Electricity Charges,"59,12","67,70","67,70","67,19",2202 01 104 AA 30503
+04,Service Postage & Postal Expenditure,"4,62","3,80","3,80","4,20",2202 01 104 AA 30504
+306,"Rent, Rates and Taxes","33,04","49,00","49,00","49,00",2202 01 104 AA 30600
+01,Rent,"31,71","45,00","45,00","45,00",2202 01 104 AA 30601
+02,Property tax,"1,33","4,00","4,00","4,00",2202 01 104 AA 30602
+321,Motor Vehicles,,1,1,1,2202 01 104 AA 32100
+01,Purchase,,1,1,1,2202 01 104 AA 32101
+333,Payments for Professional and Special Services,54,,,,2202 01 104 AA 33300
+04,Contract Payment,54,,,,2202 01 104 AA 33304
+345,"Petroleum, Oil and Lubricant","3,24",,,,2202 01 104 AA 34500
+01,"Petroleum, Oil and Lubricant","3,24",,,,2202 01 104 AA 34501
+349,Festival Advances,"-9,51",,,,2202 01 104 AA 34900
+01,Festival Advances-Debit,"88,50","1,30,00","3,38,60","3,38,60",2202 01 104 AA 34901
+02,Festival Advances-Credit,"-98,01","-1,30,00","-3,38,60","-3,38,60",2202 01 104 AA 34902
+351,Compensation Charged,,1,1,1,2202 01 104 AA 35100
+52,Other Compensations Charged,,1,1,1,2202 01 104 AA 35152
+359,Prizes and Awards,54,"5,19","2,80","2,80",2202 01 104 AA 35900
+01,Prizes and Awards,54,"5,19","2,80","2,80",2202 01 104 AA 35901
+376,Computer and Accessories,"7,45","15,75","10,88,46","15,51",2202 01 104 AA 37600 
+01,Purchase,,,"10,72,71",1,2202 01 104 AA 37601
+03,Stationery,"7,45","15,75","15,75","15,50",2202 01 104 AA 37603 
+AA,Total AA Charged,,1,1,1,
+AA,Total AA Voted,"1,99,82,36","2,07,48,68","2,23,36,09","2,44,36,80",
+#,State's Expenditure Total Charged,,1,1,1,
+#,State's Expenditure Total Voted,"1,99,82,36","2,07,48,68","2,23,36,09","2,44,36,80",
+104,Total 104 Charged,,1,1,1,
+104,Total 104 Voted,"1,99,82,36","2,07,48,68","2,23,36,09","2,44,36,80",
+108,Text Books,,,,,
+#,State's Expenditure,,,,,
+JC,Supply of Text Books to Students,,,,,2202 01 108 JC 30000
+368,"Cost of Books/Note Books/Slates, etc.","80,11,77","80,20,00","80,20,00","80,20,00",2202 01 108 JC 36800 
+01,"Cost of Books/Note Books/Slates, etc.","80,11,77","80,20,00","80,20,00","80,20,00",2202 01 108 JC 36801 
+JC,Total JC,"80,11,77","80,20,00","80,20,00","80,20,00",
+#,State's Expenditure Total,"80,11,77","80,20,00","80,20,00","80,20,00",
+108,Total 108,"80,11,77","80,20,00","80,20,00","80,20,00",
+789,Special Component Plan for Scheduled Castes,,,,,
+#,State's Expenditure,,,,,
+JE,Provision of Computers in Middle Schools under Special Component Plan,,,,,2202 01 789 JE 30000
+376,Computer and Accessories,,1,1,1,2202 01 789 JE 37600
+01,Purchase,,1,1,1,2202 01 789 JE 37601
+JE,Total JE,1,1,1,,
+JF,Supply of bags and other learning materials to students in Government and Government Aided Schools,,,,,2202 01 789 JF 30000
+324,Materials and Supplies,"10,23,64","9,96,00","10,37,76","10,35,84",2202 01 789 JF 32400
+01,Materials and Supplies,"10,23,64","9,96,00","10,37,76","10,35,84",2202 01 789 JF 32401
+368,"Cost of Books/Note Books/Slates, etc.",,"24,08","24,08","24,08",2202 01 789 JF 36800
+01,"Cost of Books/Note Books/Slates, etc.",,"24,08","24,08","24,08",2202 01 789 JF 36801
+JF,Total JF,"10,23,64","10,20,08","10,61,84","10,59,92",
+JG,Information and Communication Technology (ICT) in Schools,,,,,2202 01 789 JG 30000
+376,Computer and Accessories,,1,1,1,2202 01 789 JG 37600
+01,Purchase,,1,1,1,2202 01 789 JG 37601
+JG,Total JG,1,1,1,,
+JH,Free Supply of Woolen Sweaters to Students,,,,,2202 01 789 JH 30000
+324,Materials and Supplies,"38,97","50,00","50,00","50,00",2202 01 789 JH 32400
+01,Materials and Supplies,"38,97","50,00","50,00","50,00",2202 01 789 JH 32401
+JH,Total JH,"38,97","50,00","50,00","50,00",
+#,State's Expenditure Total,"10,62,61","10,70,10","11,11,86","11,09,94",
+789,Total 789,"10,62,61","10,70,10","11,11,86","11,09,94",
+796,Tribal Area Sub-Plan,,,,,
+#,State's Expenditure,,,,,
+JA,Supply of Text Books to Students,,,,,2202 01 796 JA 30000
+368,"Cost of Books/Note Books/Slates, etc.","1,00,14","1,00,25","1,00,25","1,00,25",2202 01 796 JA 36800
+01,"Cost of Books/Note Books/Slates, etc.","1,00,14","1,00,25","1,00,25","1,00,25",2202 01 796 JA 36801
+JA,Total JA,"1,00,14","1,00,25","1,00,25","1,00,25",
+JB,Free Supply of Uniform to Students,,,,,2202 01 796 JB 30000
+346,"Clothing, Tentage and Stores","18,96,50","20,46,50","20,46,50","20,46,50",2202 01 796 JB 34600
+01,"Clothing, Tentage and Stores","18,96,50","20,46,50","20,46,50","20,46,50",2202 01 796 JB 34601
+JB,Total JB,"18,96,50","20,46,50","20,46,50","20,46,50",
+JC,Provision of Computer to Middle Schools,,,,,2202 01 796 JC 30000
+376,Computer and Accessories,,1,1,1,2202 01 796 JC 37600
+01,Purchase,,1,1,1,2202 01 796 JC 37601
+JC,Total JC,1,1,1,,
+JE,Supply of bags and other learning materials to students in Government and Government Aided Schools,,,,,2202 01 796 JE 30000
+324,Materials and Supplies,"85,30","83,00","86,48","86,32",2202 01 796 JE 32400
+01,Materials and Supplies,"85,30","83,00","86,48","86,32",2202 01 796 JE 32401
+368,"Cost of Books/Note Books/Slates, etc.",,"1,29","1,29","1,29",2202 01 796 JE 36800
+01,"Cost of Books/Note Books/Slates, etc.",,"1,29","1,29","1,29",2202 01 796 JE 36801
+JE,Total JE,"85,30","84,29","87,77","87,61",
+JF,Information andCommunication Technology (ICT) in Schools,,,,,2202 01 796 JF 30000,
+376,Computer and Accessories,,1,1,1,2202 01 796 JF 37600
+01,Purchase,,1,1,1,2202 01 796 JF 37601
+JF,Total JF,1,1,1,,
+JG,Free Supply of Woolen Sweaters to Students,,,,,2202 01 796 JG 30000
+324,Materials and Supplies,"1,56","2,00","2,00","2,00",2202 01 796 JG 32400
+01,Materials and Supplies,"1,56","2,00","2,00","2,00",2202 01 796 JG 32401
+JG,Total JG,"1,56","2,00","2,00","2,00",
+#,State's Expenditure Total,"20,83,50","22,33,06","22,36,54","22,36,38",
+796,Total 796,"20,83,50","22,33,06","22,36,54","22,36,38",
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+AD,"Financial assistance to the students of  Govt / Govt aided schools met  with Minor, Major injury / loss of life",,,,,2202 01 800 AD 30000
+309,Grants-in-Aid,,,,1,2202 01 800 AD 30900
+03,Grants for Specific Schemes,,,,1,2202 01 800 AD 30903
+AD,Total AD,,,,1,
+AV,Award to the Best Schools,,,,,2202 01 800 AV 30000
+359,Prizes and Awards,"17,10","29,50","16,30","16,30",2202 01 800 AV 35900
+01,Prizes and Awards,"17,10","29,50","16,30","16,30",2202 01 800 AV 35901
+AV,Total AV,"17,10","29,50","16,30","16,30",
+AY,Electricity Charges to Panchayat Union Elementary Schools,,,,,2202 01 800 AY 30000
+305,Office Expenses,"8,83,30","10,00,00","10,00,00","10,00,00",2202 01 800 AY 30500
+03,Electricity Charges,"8,83,30","10,00,00","10,00,00","10,00,00",2202 01 800 AY 30503
+AY,Total AY,"8,83,30","10,00,00","10,00,00","10,00,00",
+BB,Assistance to the students studying  1 -8 std. of Government/Aided Schools where breadwinning father or mother dies in an accident or permanently incapaciated - Controlled by the Director of Elementary Education,,,,,2202 01 800 BB 30000
+309,Grants-in-Aid,"2,00,00","2,00,00","3,00,00","3,00,00",2202 01 800 BB 30900
+03,Grants for Specific Schemes,"2,00,00","2,00,00","3,00,00","3,00,00",2202 01 800 BB 30903
+BB,Total BB,"2,00,00","2,00,00","3,00,00","3,00,00",
+BC,"Free Supply of Text Books, Note Books,Uniforms, School Bags,Footwears, Crayons, Colour Pencils, Geometry Boxes, Maps, WoollenSweaters etc.,",,,,,2202 01 800 BC 30000
+373,Transport Charges,"4,99,18","5,00,00","5,00,00","5,00,00",2202 01 800 BC 37300
+01,Transport Charges,"4,99,18","5,00,00","5,00,00","5,00,00",2202 01 800 BC 37301
+BC,Total BC,"4,99,18","5,00,00","5,00,00","5,00,00",
+JC,Free Supply of Uniforms to Students,,,,,2202 01 800 JC 30000
+308,Advertising and Publicity,"19,34",1,"19,79","30,00",2202 01 800 JC 30800
+01,Advertisement Charges,"19,34",1,"19,79","30,00",2202 01 800 JC 30801
+342,Service or Commitment Charges,"5,00,00","5,00,00","5,00,00","5,00,00",2202 01 800 JC 34200
+01,Service or Commitment Charges,"5,00,00","5,00,00","5,00,00","5,00,00",2202 01 800 JC 34201
+346,"Clothing, Tentage and Stores","2,80,68,16","3,02,88,20","3,02,88,20","3,02,88,20",2202 01 800 JC 34600
+01,"Clothing, Tentage and Stores","2,80,68,16","3,02,88,20","3,02,88,20","3,02,88,20",2202 01 800 JC 34601
+JC,Total JC,"2,85,87,50","3,07,88,21","3,08,07,99","3,08,18,20",
+JK,Free supply of Footwear to School going children,,,,,2202 01 800 JK 30000
+324,Materials and Supplies,"36,02,16","30,71,00","35,94,18","35,94,18",2202 01 800 JK 32400
+01,Materials and Supplies,"36,02,16","30,71,00","35,94,18","35,94,18",2202 01 800 JK 32401
+JK,Total JK,"36,02,16","30,71,00","35,94,18","35,94,18",
+KG,Supply of bags and other learning materials to students in Government and Government Aided Schools,,,,,2202 01 800 KG 30000
+324,Materials and Supplies,"31,56,21","30,71,00","31,99,76","31,93,84",2202 01 800 KG 32400
+01,Materials and Supplies,"31,56,21","30,71,00","31,99,76","31,93,84",2202 01 800 KG 32401
+333,Payments for Professional and Special Services,,1,1,1,2202 01 800 KG 33300
+09,Other Payments,,1,1,1,2202 01 800 KG 33309
+368,"Cost of Books/Note Books/Slates, etc.",,"1,03,20","1,03,20","1,03,20",2202 01 800 KG 36800
+01,"Cost of Books/Note Books/Slates, etc.",,"1,03,20","1,03,20","1,03,20",2202 01 800 KG 36801
+KG,Total KG,"31,56,21","31,74,21","33,02,97","32,97,05",
+KH,Provision of Chess Board to Panchayat Union Schools,,,,,2202 01 800 KH 30000
+333,Payments for Professional and Special Services,,1,1,1,2202 01 800 KH 33300
+03,Special Service,,1,1,1,2202 01 800 KH 33303
+KH,Total KH,1,1,1,,
+KI,Distribution of Free Note Books to Students,,,,,2202 01 800 KI 30000
+368,"Cost of Books/Note Books/Slates, etc.","31,76,90","31,76,90","31,76,90","31,76,90",2202 01 800 KI 36800
+01,"Cost of Books/Note Books/Slates, etc.","31,76,90","31,76,90","31,76,90","31,76,90",2202 01 800 KI 36801
+KI,Total KI,"31,76,90","31,76,90","31,76,90","31,76,90",
+KJ,Information andCommunication Technology,,,,,
+(ICT) in Schools,,,,,2202 01 800 KJ 30000,
+376,Computer and Accessories,,1,1,1,2202 01 800 KJ 37600
+01,Purchase,,1,1,1,2202 01 800 KJ 37601
+KJ,Total KJ,1,1,1,,
+KN,Free Supply of Woolen Sweaters to Students,,,,,2202 01 800 KN 30000
+324,Materials and Supplies,"1,15,36","1,48,00","1,48,00","1,48,00",2202 01 800 KN 32400
+01,Materials and Supplies,"1,15,36","1,48,00","1,48,00","1,48,00",2202 01 800 KN 32401
+KN,Total KN,"1,15,36","1,48,00","1,48,00","1,48,00",
+KO,Supply of Maps to the class rooms of Government Elementary and Middle Schools,,,,,2202 01 800 KO 30000
+368,"Cost of Books/Note Books/Slates, etc.",,1,1,1,2202 01 800 KO 36800
+01,"Cost of Books/Note Books/Slates, etc.",,1,1,1,2202 01 800 KO 36801
+KO,Total KO,1,1,1,,
+KQ,Transport Facility to Students for Hill Areas and Distantly Located Residential Area,,,,,2202 01 800 KQ 30000
+373,Transport Charges,,1,1,1,2202 01 800 KQ 37300
+01,Transport Charges,,1,1,1,2202 01 800 KQ 37301
+KQ,Total KQ,1,1,1,,
+#,State's Expenditure Total,"4,02,37,71","4,20,87,86","4,28,46,38","4,28,50,68",
+800,Total 800,"4,02,37,71","4,20,87,86","4,28,46,38","4,28,50,68",
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+AA,Deduct - Recoveries of Overpayments -,,,,,2202 01 911 AA 30000
+377,Deduct-Recoveries,-24,,-34,,2202 01 911 AA 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-24,,-34,,2202 01 911 AA 37702
+AA,Total AA,-24,,-34,,
+AC,Salaries to Panchayat Union Elementary School Teachers,,,,,2202 01 911 AC 30000
+377,Deduct-Recoveries,"-1,99",,-72,,2202 01 911 AC 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-1,99",,-72,,2202 01 911 AC 37702
+AC,Total AC,"-1,99",,-72,,
+JB,Free Supply of Uniforms to Students,,,,,2202 01 911 JB 30000
+377,Deduct-Recoveries,"-12,96,69",,,,2202 01 911 JB 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-12,96,69",,,,2202 01 911 JB 37702
+JB,Total JB,"-12,96,69",,,,
+JG,English Education,,,,,2202 01 911 JG 30000
+377,Deduct-Recoveries,,,"-1,06",,2202 01 911 JG 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,,,"-1,06",,2202 01 911 JG 37702
+JG,Total JG,,"-1,06",,,
+#,State's Expenditure Total,"-12,98,92",,"-2,12",,
+911,Total 911,"-12,98,92",,"-2,12",,
+01,Total 01 Charged,,3,3,3,
+01,Total 01 Voted,"1,18,29,92,17","1,17,90,69,71","1,25,20,71,11","1,42,20,91,64",
+02,Secondary Education,,,,,
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+JY,Conducting National and State level Sports Competition for Participation of School Students,,,,,2202 02 911 JY 30000
+377,Deduct-Recoveries,"-23,77",,,,2202 02 911 JY 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-23,77",,,,2202 02 911 JY 37702
+JY,Total JY,"-23,77",,,,
+#,State's Expenditure Total,"-23,77",,,,
+911,Total 911,"-23,77",,,,
+02,Total 02,"-23,77",,,,
+05,Language Development,,,,,
+102,Promotion of Modern Indian Languages and Literature,,,,,
+#,Central Sector Schemes Central Sector Sechemes,,,,,
+SA,Modernisation of Madrasa Education,,,,,2202 05 102 SA 30000
+309,Grants-in-Aid,,1,1,1,2202 05 102 SA 30900
+01,Grants for Current Expenditure,,1,1,1,2202 05 102 SA 30901
+SA,Total SA,1,1,1,,
+#,Central Sector Schemes Total,,1,1,1,
+102,Total 102,1,1,1,,
+05,Total 05,1,1,1,,
+2202,Total 2202 Charged,,3,3,3,
+2202,Total 2202 Voted,"1,18,29,68,40","1,17,90,69,72","1,25,20,71,12","1,42,20,91,65",
+2225,"WELFARE OF SCHEDULED CASTE, SCHEDULED TRIBES, OTHER BACKWARD CLASSES AND MINORITIES",,,,,
+01,Welfare of Scheduled Castes,,,,,
+789,Special Component Plan for Scheduled Castes,,,,,
+#,State's Expenditure,,,,,
+JA,Supply of Text Books under Special Component Plan Directorate of Elementary Education,,,,,2225 01 789 JA 30000
+368,"Cost of Books/Note Books/Slates, etc.","19,02,80","19,04,75","19,04,75","19,04,75",2225 01 789 JA 36800
+01,"Cost of Books/Note Books/Slates, etc.","19,02,80","19,04,75","19,04,75","19,04,75",2225 01 789 JA 36801
+JA,Total JA,"19,02,80","19,04,75","19,04,75","19,04,75",
+JB,Supply of Uniforms to Students under Special Component Plan,,,,,2225 01 789 JB 30000
+346,"Clothing, Tentage and Stores","79,65,26","85,95,30","85,95,30","85,95,30",2225 01 789 JB 34600
+01,"Clothing, Tentage and Stores","79,65,26","85,95,30","85,95,30","85,95,30",2225 01 789 JB 34601
+JB,Total JB,"79,65,26","85,95,30","85,95,30","85,95,30",
+JE,Free supply of Footwear to School going children under Elementary Education,,,,,2225 01 789 JE 30000
+324,Materials and Supplies,"11,68,27","9,96,00","11,65,68","11,65,68",2225 01 789 JE 32400
+01,Materials and Supplies,"11,68,27","9,96,00","11,65,68","11,65,68",2225 01 789 JE 32401
+JE,Total JE,"11,68,27","9,96,00","11,65,68","11,65,68",
+JG,Distribution of Free Note Books to Students,,,,,2225 01 789 JG 30000
+368,"Cost of Books/Note Books/Slates, etc.","13,16,14","13,16,14","13,16,14","13,16,14",2225 01 789 JG 36800
+01,"Cost of Books/Note Books/Slates, etc.","13,16,14","13,16,14","13,16,14","13,16,14",2225 01 789 JG 36801
+JG,Total JG,"13,16,14","13,16,14","13,16,14","13,16,14",
+#,State's Expenditure Total,"1,23,52,47","1,28,12,19","1,29,81,87","1,29,81,87",
+789,Total 789,"1,23,52,47","1,28,12,19","1,29,81,87","1,29,81,87",
+01,Total 01,"1,23,52,47","1,28,12,19","1,29,81,87","1,29,81,87",
+02,Welfare of Scheduled Tribes,,,,,
+796,Tribal Area Sub-Plan,,,,,
+#,State's Expenditure,,,,,
+JF,Distribution of Free Note Books to Students,,,,,2225 02 796 JF 30000
+368,"Cost of Books/Note Books/Slates, etc.","45,37","45,38","45,38","45,38",2225 02 796 JF 36800
+01,"Cost of Books/Note Books/Slates, etc.","45,37","45,38","45,38","45,38",2225 02 796 JF 36801
+JF,Total JF,"45,37","45,38","45,38","45,38",
+JX,Free supply of Footwear to School going children,,,,,2225 02 796 JX 30000
+324,Materials and Supplies,"97,36","83,00","97,14","97,14",2225 02 796 JX 32400
+01,Materials and Supplies,"97,36","83,00","97,14","97,14",2225 02 796 JX 32401
+JX,Total JX,"97,36","83,00","97,14","97,14",
+#,State's Expenditure Total,"1,42,73","1,28,38","1,42,52","1,42,52",
+796,Total 796,"1,42,73","1,28,38","1,42,52","1,42,52",
+02,Total 02,"1,42,73","1,28,38","1,42,52","1,42,52",
+03,Welfare of Backward classes,,,,,
+277,Education,,,,,
+#,State's Expenditure,,,,,
+BK,Residential Schools controlled by the Director of Elementary Education,,,,,2225 03 277 BK 30000
+301,Salaries,"49,13","52,48","52,40","56,17",2225 03 277 BK 30100
+01,Pay,"43,97","46,52","46,52","50,24",2225 03 277 BK 30101
+02,Medical Allowance,27,33,25,25,2225 03 277 BK 30102
+04,Other Allowances,"3,67","4,38","4,38","4,38",2225 03 277 BK 30104
+06,House Rent Allowance,"1,22","1,23","1,23","1,28",2225 03 277 BK 30106
+07,Travel Concession,,2,2,2,2225 03 277 BK 30107
+303,Dearness Allowance,"3,73","6,05","7,44","12,31",2225 03 277 BK 30300
+01,Dearness Allowance,"3,73","6,05","7,44","12,31",2225 03 277 BK 30301
+304,Travel Expenses,,2,,,2225 03 277 BK 30400
+01,Tour Travelling Allowances,,2,,,2225 03 277 BK 30401
+305,Office Expenses,,7,7,7,2225 03 277 BK 30500
+02,Other Contingencies,,2,2,2,2225 03 277 BK 30502
+03,Electricity Charges,,5,5,5,2225 03 277 BK 30503
+349,Festival Advances,-2,,,,2225 03 277 BK 34900
+01,Festival Advances-Debit,5,25,60,60,2225 03 277 BK 34901
+02,Festival Advances-Credit,-7,-25,-60,-60,2225 03 277 BK 34902
+367,Feeding/Dietary Charges,"1,80","1,80","1,80","1,80",2225 03 277 BK 36700
+09,Others,"1,80","1,80","1,80","1,80",2225 03 277 BK 36709
+BK,Total BK,"54,64","60,42","61,71","70,35",
+#,State's Expenditure Total,"54,64","60,42","61,71","70,35",
+277,Total 277,"54,64","60,42","61,71","70,35",
+03,Total 03,"54,64","60,42","61,71","70,35",
+2225,Total 2225,"1,25,49,84","1,30,00,99","1,31,86,10","1,31,94,74",
+2235,SOCIAL SECURITY AND WELFARE,,,,,
+60,Other Social Security and Welfare Programmes,,,,,
+200,Other Programmes,,,,,
+#,State's Expenditure,,,,,
+CF,Special Provident Fund-cum-Gratuity Scheme for Aided Educational Institutions - controlled by the Director of Elementary Education,,,,,2235 60 200 CF 30000
+310,Contributions,"55,90","80,00","80,00","80,00",2235 60 200 CF 31000 
+01,Contribution to Specific Fund,"55,90","80,00","80,00","80,00",2235 60 200 CF 31001
+CF,Total CF,"55,90","80,00","80,00","80,00",
+DG,Special Provident Fund-cum-Gratuity Schemes for Municipal and Corporation Elementary Schools - Controlled by the Director of Elementary Education,,,,,2235 60 200 DG 30000
+310,Contributions,"6,70","10,00","10,00","10,00",2235 60 200 DG 31000
+01,Contribution to Specific Fund,"6,70","10,00","10,00","10,00",2235 60 200 DG 31001
+DG,Total DG,"6,70","10,00","10,00","10,00",
+#,State's Expenditure Total,"62,60","90,00","90,00","90,00",
+200,Total 200,"62,60","90,00","90,00","90,00",
+60,Total 60,"62,60","90,00","90,00","90,00",
+2235,Total 2235,"62,60","90,00","90,00","90,00",
+4202,"CAPITAL OUTLAY ON,EDUCATION,SPORTS, ART AND CULTURE",,,,,
+01,General Education,,,,,
+201,Elementary Education,,,,,
+#,State's Expenditure,,,,,
+JG,Transformation of Toilet into Child friendly - Schemes under State Innovation Fund,,,,,4202 01 201 JG 40000
+416,Major Works,,1,1,1,4202 01 201 JG 41600
+01,Major Works,,1,1,1,4202 01 201 JG 41601
+JG,Total JG,1,1,1,,
+#,State's Expenditure Total,,1,1,1,
+201,Total 201,1,1,1,,
+01,Total 01,1,1,1,,
+4202,Total 4202,1,1,1,,

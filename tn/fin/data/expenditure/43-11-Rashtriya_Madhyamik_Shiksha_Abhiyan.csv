@@ -1,0 +1,32 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2202,GENERAL EDUCATION,,,,,
+02,Secondary Education,,,,,
+109,Government Secondary Schools,,,,,
+#,Schemes shared between State and Centre,,,,,
+UD,Implementation of Secondary Education Improvement  Scheme,,,,,2202 02 109 UD 30000
+309,Grants-in-Aid,"4,71,92,58",,,,2202 02 109 UD 30900
+02,Grants for Creation of Capital Assets,"1,91,62,92",,,,2202 02 109 UD 30902
+03,Grants for Specific Schemes,"2,80,29,66",,,,2202 02 109 UD 30903
+UD,Total UD,"4,71,92,58",,,,
+#,Schemes shared between State and Centre Total,"4,71,92,58",,,,
+109,Total 109,"4,71,92,58",,,,
+793,Special Central Assistance for Scheduled Caste Component Plan,,,,,
+#,Schemes shared between State and Centre,,,,,
+UC,Implementation of Secondary Education Improvement Scheme,,,,,2202 02 793 UC 30000
+309,Grants-in-Aid,"1,44,72,39",,,,2202 02 793 UC 30900
+02,Grants for Creation of Capital Assets,"59,53,14",,,,2202 02 793 UC 30902
+03,Grants for Specific Schemes,"85,19,25",,,,2202 02 793 UC 30903
+UC,Total UC,"1,44,72,39",,,,
+#,Schemes shared between State and Centre Total,"1,44,72,39",,,,
+793,Total 793,"1,44,72,39",,,,
+794,Special Central Assistance for Tribal Sub-Plan,,,,,
+#,Schemes shared between State and Centre,,,,,
+UC,Implementation of Secondary Education Improvement Scheme,,,,,2202 02 794 UC 30000
+309,Grants-in-Aid,"12,58,47",,,,2202 02 794 UC 30900
+02,Grants for Creation of Capital Assets,"5,17,66",,,,2202 02 794 UC 30902
+03,Grants for Specific Schemes,"7,40,81",,,,2202 02 794 UC 30903
+UC,Total UC,"12,58,47",,,,
+#,Schemes shared between State and Centre Total,"12,58,47",,,,
+794,Total 794,"12,58,47",,,,
+02,Total 02,"6,29,23,44",,,,
+2202,Total 2202,"6,29,23,44",,,,

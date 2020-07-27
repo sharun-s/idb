@@ -1,0 +1,54 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2051-00,PUBLIC SERVICE COMMISSION,,,,,
+103,Staff Selection Commission,,,,,
+#,State's Expenditure,,,,,
+AC,Teachers Recruitment Board,,,,,2051 00 103 AC 30000
+301,Salaries,"3,06,86","3,09,61","3,23,09","3,44,62",2051 00 103 AC 30100
+01,Pay,"2,71,99","2,73,81","2,86,01","3,08,89",2051 00 103 AC 30101
+02,Medical Allowance,"1,16","1,23","1,13","1,17",2051 00 103 AC 30102
+03,Medical Charges,22,50,"2,19",50,2051 00 103 AC 30103
+04,Other Allowances,"3,56","3,59","3,30","3,30",2051 00 103 AC 30104
+06,House Rent Allowance,"25,84","25,75","26,06","26,32",2051 00 103 AC 30106
+07,Travel Concession,6,53,30,30,2051 00 103 AC 30107
+08,City Compensatory Allowance,"4,03","4,20","4,10","4,14",2051 00 103 AC 30108
+302,Wages,65,91,80,82,2051 00 103 AC 30200
+01,Wages,65,91,80,82,2051 00 103 AC 30201
+303,Dearness Allowance,"33,99","35,60","41,02","75,68",2051 00 103 AC 30300
+01,Dearness Allowance,"33,99","35,60","41,02","75,68",2051 00 103 AC 30301
+304,Travel Expenses,82,80,80,80,2051 00 103 AC 30400
+01,Tour Travelling Allowances,67,80,80,80,2051 00 103 AC 30401
+02,Transfer Travelling Allowances,15,,,,2051 00 103 AC 30402
+305,Office Expenses,"8,85","11,41","10,81","10,86",2051 00 103 AC 30500
+01,Telephone Charges,"2,24","2,50","2,50","2,50",2051 00 103 AC 30501
+02,Other Contingencies,"1,11","1,11","1,11","1,11",2051 00 103 AC 30502
+03,Electricity Charges,"5,50","7,80","7,20","7,25",2051 00 103 AC 30503
+306,"Rent, Rates and Taxes","54,29","48,99","49,05","49,07",2051 00 103 AC 30600
+01,Rent,"53,86","48,58","48,59","48,59",2051 00 103 AC 30601 
+03,Water Charges,43,41,46,48,2051 00 103 AC 30603
+321,Motor Vehicles,17,18,18,18,2051 00 103 AC 32100
+02,Maintenance of Functional Vehicles,17,18,18,18,2051 00 103 AC 32102
+333,Payments for Professional and Special Services,94,96,96,96,2051 00 103 AC 33300
+01,Pleaders Fees,94,95,95,95,2051 00 103 AC 33301
+04,Contract Payment,,1,1,1,2051 00 103 AC 33304
+345,"Petroleum, Oil and Lubricant",,"1,50",50,50,2051 00 103 AC 34500
+01,"Petroleum, Oil and Lubricant",,"1,50",50,50,2051 00 103 AC 34501
+349,Festival Advances,-12,,,,2051 00 103 AC 34900
+01,Festival Advances-Debit,90,"1,50","2,70","2,70",2051 00 103 AC 34901
+02,Festival Advances-Credit,"-1,02","-1,50","-2,70","-2,70",2051 00 103 AC 34902
+351,Compensation Charged,,1,1,1,2051 00 103 AC 35100
+52,Other Compensations Charged,,1,1,1,2051 00 103 AC 35152
+359,Prizes and Awards,4,10,6,6,2051 00 103 AC 35900
+01,Prizes and Awards,4,10,6,6,2051 00 103 AC 35901
+376,Computer and Accessories,92,92,92,92,2051 00 103 AC 37600
+02,Maintenance,77,77,77,77,2051 00 103 AC 37602
+03,Stationery,15,15,15,15,2051 00 103 AC 37603
+AC,Total AC Charged,,1,1,1,
+AC,Total AC Voted,"4,07,41","4,10,98","4,28,19","4,84,47",
+#,State's Expenditure Total Charged,,1,1,1,
+#,State's Expenditure Total Voted,"4,07,41","4,10,98","4,28,19","4,84,47",
+103,Total 103 Charged,,1,1,1,
+103,Total 103 Voted,"4,07,41","4,10,98","4,28,19","4,84,47",
+00,Total 00 Charged,,1,1,1,
+00,Total 00 Voted,"4,07,41","4,10,98","4,28,19","4,84,47",
+2051,Total 2051 Charged,,1,1,1,
+2051,Total 2051 Voted,"4,07,41","4,10,98","4,28,19","4,84,47",
