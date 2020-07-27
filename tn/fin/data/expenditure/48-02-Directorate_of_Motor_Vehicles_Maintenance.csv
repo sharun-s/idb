@@ -1,0 +1,109 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2059,PUBLIC WORKS,,,,,
+01,Office Buildings,,,,,
+053,Maintenance and Repairs,,,,,
+#,State's Expenditure,,,,,
+CF,Buildings including workshops under the Control of the Director of MVMD (Administered by Chief Engineer (Buildings),,,,,2059 01 053 CF 30000
+318,Maintenance,"11,98","13,00","13,00","13,50",2059 01 053 CF 31800 
+01,Periodical Maintenance,"11,98","13,00","13,00","13,50",2059 01 053 CF 31801
+CF,Total CF,"11,98","13,00","13,00","13,50",
+#,State's Expenditure Total,"11,98","13,00","13,00","13,50",
+053,Total 053,"11,98","13,00","13,00","13,50",
+01,Total 01,"11,98","13,00","13,00","13,50",
+2059,Total 2059,"11,98","13,00","13,00","13,50",
+2070-00,OTHER ADMINISTRATIVE SERVICES,,,,,
+114,Purchase and maintenance of Transport,,,,,
+#,State's Expenditure,,,,,
+AA,Motor Vehicles Maintenance Organisation,,,,,2070 00 114 AA 30000
+301,Salaries,"27,46,07","30,66,91","27,26,92","28,26,36",2070 00 114 AA 30100
+01,Pay,"24,68,45","28,05,00","24,57,46","25,56,69",2070 00 114 AA 30101
+02,Medical Allowance,"16,49","18,52","16,40","16,16",2070 00 114 AA 30102
+03,Medical Charges,56,"1,02",60,"1,05",2070 00 114 AA 30103
+04,Other Allowances,"33,25","32,98","31,98","31,98",2070 00 114 AA 30104
+06,House Rent Allowance,"1,98,91","1,82,00","1,94,88","1,94,88",2070 00 114 AA 30106
+07,Travel Concession,88,"1,99","1,99","1,99",2070 00 114 AA 30107
+08,City Compensatory Allowance,"27,53","25,40","23,61","23,61",2070 00 114 AA 30108
+303,Dearness Allowance,"3,90,25","3,64,65","3,92,71","6,26,39",2070 00 114 AA 30300
+01,Dearness Allowance,"3,90,25","3,64,65","3,92,71","6,26,39",2070 00 114 AA 30301
+304,Travel Expenses,"9,99","8,98","11,60","8,98",2070 00 114 AA 30400
+01,Tour Travelling Allowances,"9,53","8,38","11,00","8,38",2070 00 114 AA 30401
+02,Transfer Travelling Allowances,46,60,60,60,2070 00 114 AA 30402
+305,Office Expenses,"31,90","37,95","39,97","40,31",2070 00 114 AA 30500
+01,Telephone Charges,"3,82","5,20","7,20","7,20",2070 00 114 AA 30501
+02,Other Contingencies,"6,42","6,65","6,65","6,98",2070 00 114 AA 30502
+03,Electricity Charges,"18,65","23,12","23,12","23,12",2070 00 114 AA 30503
+04,Service Postage & Postal Expenditure,"3,01","2,98","3,00","3,00",2070 00 114 AA 30504
+05,Furniture,,,,1,2070 00 114 AA 30505
+306,"Rent, Rates and Taxes","15,43","16,13","28,75","28,83",2070 00 114 AA 30600
+02,Property tax,"11,71","12,00","24,62","24,70",2070 00 114 AA 30602
+03,Water Charges,47,65,65,65,2070 00 114 AA 30603
+05,Others,"3,25","3,48","3,48","3,48",2070 00 114 AA 30605
+308,Advertising and Publicity,"5,88","8,30","8,30","8,30",2070 00 114 AA 30800
+01,Advertisement Charges,"5,88","8,30","8,30","8,30",2070 00 114 AA 30801
+312,Scholarships and Stipends,"39,88","44,46","53,16","53,16",2070 00 114 AA 31200
+09,Others,"39,88","44,46","53,16","53,16",2070 00 114 AA 31209
+316,Major Works,,,,1,2070 00 114 AA 31600
+01,Major Works,,,,1,2070 00 114 AA 31601
+317,Minor Works,,1,28,1,2070 00 114 AA 31700
+01,Minor Works,,1,28,1,2070 00 114 AA 31701
+318,Maintenance,,,"13,00","14,00",2070 00 114 AA 31800
+01,Periodical Maintenance,,,"13,00","14,00",2070 00 114 AA 31801
+319,Machinery and Equipments,66,52,60,62,2070 00 114 AA 31900
+01,Purchase,,1,,1,2070 00 114 AA 31901
+02,Renewal and Replacement,,1,,1,2070 00 114 AA 31902
+03,Maintenance,66,50,60,60,2070 00 114 AA 31903
+321,Motor Vehicles,,"1,01","21,00","1,01",2070 00 114 AA 32100
+01,Purchase,,1,"20,00",1,2070 00 114 AA 32101
+02,Maintenance of Functional Vehicles,,"1,00","1,00","1,00",2070 00 114 AA 32102
+324,Materials and Supplies,"15,12,24","13,75,00","13,75,00","14,00,00",2070 00 114 AA 32400
+01,Materials and Supplies,"15,12,24","13,75,00","13,75,00","14,00,00",2070 00 114 AA 32401
+333,Payments for Professional and Special Services,"1,12,48","1,17,76","1,42,22","2,84,46",2070 00 114 AA 33300
+01,Pleaders Fees,"1,26",20,64,"1,00",2070 00 114 AA 33301
+02,Remuneration,"1,08,71","1,17,55","1,26,53","1,77,53",2070 00 114 AA 33302
+03,Special Service,,,,"90,88",2070 00 114 AA 33303
+04,Contract Payment,"2,51",1,"15,05","15,05",2070 00 114 AA 33304
+334,Other Charges,17,16,28,28,2070 00 114 AA 33400
+01,Other Items,17,16,28,28,2070 00 114 AA 33401
+342,Service or Commitment Charges,"6,32","7,00","7,00","7,00",2070 00 114 AA 34200
+01,Service or Commitment Charges,"6,32","7,00","7,00","7,00",2070 00 114 AA 34201
+345,"Petroleum, Oil and Lubricant","11,48,58","11,60,00","11,60,00","12,00,00",2070 00 114 AA 34500
+01,"Petroleum, Oil and Lubricant","11,48,58","11,60,00","11,60,00","12,00,00",2070 00 114 AA 34501
+346,"Clothing, Tentage and Stores","15,94","16,09","16,09","16,20",2070 00 114 AA 34600
+01,"Clothing, Tentage and Stores","15,94","16,09","16,09","16,20",2070 00 114 AA 34601
+349,Festival Advances,-98,,,,2070 00 114 AA 34900
+01,Festival Advances-Debit,"17,70","35,15","70,00","70,00",2070 00 114 AA 34901
+02,Festival Advances-Credit,"-18,68","-35,15","-70,00","-70,00",2070 00 114 AA 34902
+351,Compensation Charged,,1,,,2070 00 114 AA 35100
+351,Compensation Voted,,,,1,2070 00 114 AA 35100
+01,Claims under no fault liability -  principal,,,,1,2070 00 114 AA 35101
+charges  - Voted,,,,,,
+51,Claims under no fault liability -  principal charges Charged,,1,,,2070 00 114 AA 35151
+359,Prizes and Awards,12,20,20,20,2070 00 114 AA 35900
+01,Prizes and Awards,12,20,20,20,2070 00 114 AA 35901
+372,Training,"2,14","15,70","15,70","15,70",2070 00 114 AA 37200 
+01,Training,"2,14","15,70","15,70","15,70",2070 00 114 AA 37201 
+376,Computer and Accessories,"7,85","8,03","61,05","8,03",2070 00 114 AA 37600 
+01,Purchase,,1,"53,03",1,2070 00 114 AA 37601
+02,Maintenance,"4,35","4,52","4,52","4,52",2070 00 114 AA 37602 
+03,Stationery,"3,50","3,50","3,50","3,50",2070 00 114 AA 37603 
+AA,Total AA Charged,,1,,,
+AA,Total AA Voted,"60,44,92","62,48,86","60,73,83","65,39,86",
+#,State's Expenditure Total Charged,,1,,,
+#,State's Expenditure Total Voted,"60,44,92","62,48,86","60,73,83","65,39,86",
+114,Total 114 Charged,,1,,,
+114,Total 114 Voted,"60,44,92","62,48,86","60,73,83","65,39,86",
+00,Total 00 Charged,,1,,,
+00,Total 00 Voted,"60,44,92","62,48,86","60,73,83","65,39,86",
+2070,Total 2070 Charged,,1,,,
+2070,Total 2070 Voted,"60,44,92","62,48,86","60,73,83","65,39,86",
+4070-00,CAPITAL OUTLAY ON OTHER ADMINISTRATIVE SERVICES,,,,,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+AW,Motor Vehicles Maintanance Organisation,,,,,4070 00 800 AW 40000
+416,Major Works,"1,00,00",,47,,4070 00 800 AW 41600
+01,Major Works,"1,00,00",,47,,4070 00 800 AW 41601
+AW,Total AW,"1,00,00",,47,,
+#,State's Expenditure Total,"1,00,00",,47,,
+800,Total 800,"1,00,00",,47,,
+00,Total 00,"1,00,00",,47,,
+4070,Total 4070,"1,00,00",,47,,

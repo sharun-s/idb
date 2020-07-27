@@ -1,0 +1,394 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2071,PENSION AND OTHER RETIREMENT BENEFITS,,,,,
+01,Civil,,,,,
+101,Superannuation and Retirement Allowances,,,,,
+#,State's Expenditure,,,,,
+AA,Payment to Tamil Nadu Government Pensioners,,,,,2071 01 101 AA 30000
+327,Pensions,,"1,15,59,58,03 1,32,56,38,17 1,19,21,11,16 1,27,00,81,57",,,2071 01 101 AA 32700
+01,Basic Pension,,"1,15,59,58,03 1,32,42,28,51 1,19,07,01,50 1,27,00,81,56",,,2071 01 101 AA 32701
+07,Interim Relief,,"14,09,66","14,09,66",1,2071 01 101 AA 32707
+349,Festival Advances,"-7,62,24",,,,2071 01 101 AA 34900
+01,Festival Advances-Debit,"1,38,21","10,00","3,00,00","3,00,00",2071 01 101 AA 34901
+02,Festival Advances-Credit,"-9,00,45","-10,00","-3,00,00","-3,00,00",2071 01 101 AA 34902
+377,Deduct-Recoveries,"-48,50,94",,,,2071 01 101 AA 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-48,50,94",,,,2071 01 101 AA 37702
+AA,Total AA,"1,15,03,44,85 1,32,56,38,17 1,19,21,11,16 1,27,00,81,57",,,,
+AC,Dearness Allowance to Pensioners,,,,,2071 01 101 AC 30000
+303,Dearness Allowance,"13,02,20,84","17,48,97,68","20,32,38,08","31,69,31,47",2071 01 101 AC 30300
+01,Dearness Allowance,"13,02,20,84","17,48,97,68","20,32,38,08","31,69,31,47",2071 01 101 AC 30301
+AC,Total AC,"13,02,20,84","17,48,97,68","20,32,38,08","31,69,31,47",
+AD,Medical Allowances to Pensioners,,,,,2071 01 101 AD 30000
+327,Pensions,"1,50,84,30","1,58,72,52","1,53,09,27","1,63,29,84",2071 01 101 AD 32700
+09,Others,"1,50,84,30","1,58,72,52","1,53,09,27","1,63,29,84",2071 01 101 AD 32709
+AD,Total AD,"1,50,84,30","1,58,72,52","1,53,09,27","1,63,29,84",
+AF,"Pensions granted under Rule 18 of the All-India Services (Death - cum -retirement benefits) Rules, 1958",,,,,2071 01 101 AF 30000
+327,Pensions,,"10,50",25,27,2071 01 101 AF 32700
+01,Basic Pension,,"10,50",25,27,2071 01 101 AF 32701
+AF,Total AF,"10,50",25,27,,
+AH,Relief to All-India service pensioners,,,,,2071 01 101 AH 30000
+327,Pensions,"7,07","7,75","6,31","6,75",2071 01 101 AH 32700
+01,Basic Pension,"7,07","7,75","6,31","6,75",2071 01 101 AH 32701
+AH,Total AH,"7,07","7,75","6,31","6,75",
+AI,Payment to Village Servants on retirement,,,,,2071 01 101 AI 30000
+327,Pensions,"13,68,78","14,56,18","16,46,48","17,56,20",2071 01 101 AI 32700
+01,Basic Pension,"13,68,78","14,56,18","16,46,48","17,56,20",2071 01 101 AI 32701
+AI,Total AI,"13,68,78","14,56,18","16,46,48","17,56,20",
+AL,Payment of pension to ex-Village Officers,,,,,2071 01 101 AL 30000
+327,Pensions,"31,39,17","36,58,58","34,03,73","36,30,60",2071 01 101 AL 32700
+01,Basic Pension,"31,39,17"," 36,58,58"," 34,03,73","36,30,60",2071 01 101 AL 32701
+AL,Total AL,"31,39,17","36,58,58","34,03,73","36,30,60",
+AN,Payment of Pension Arrears,,,,,2071 01 101 AN 30000
+327,Pensions,,"11,75","11,75","11,75",2071 01 101 AN 32700
+03,Pension Arrears,,"11,75","11,75","11,75",2071 01 101 AN 32703
+AN,Total AN,,"11,75","11,75","11,75",
+AO,Additional Pension to Tamil Nadu Government Pensioners Aged above 80 years,,,,,2071 01 101 AO 30000
+327,Pensions,"1,45,72,25","1,60,23,50","1,69,96,38","1,81,29,48",2071 01 101 AO 32700
+01,Basic Pension,"1,45,72,25","1,60,23,50","1,69,96,38","1,81,29,48",2071 01 101 AO 32701
+AO,Total AO,"1,45,72,25","1,60,23,50","1,69,96,38","1,81,29,48",
+AP,Government Contribution for New Pension Scheme for Tamil Nadu State Public Works Department Divisional Accountants / Accounts Officer,,,,,2071 01 101 AP 30000
+310,Contributions,"24,65",,,,2071 01 101 AP 31000
+01,Contribution to Specific Fund,"24,65",,,,2071 01 101 AP 31001
+AP,Total AP,,"24,65",,,
+#,State's Expenditure,"1,31,47,61,91","1,53,75,76,63","1,43,27,23,41","1,62,68,77,93",
+101,Total 101,"1,31,47,61,91","1,53,75,76,63","1,43,27,23,41","1,62,68,77,93",
+102,Commuted Value of Pensions,,,,,
+#,State's Expenditure,,,,,
+AA,Commuted Value of Pensions,,,,,2071 01 102 AA 30000
+327,Pensions,"29,40,88,72","18,49,27,85","20,29,16,94","21,91,50,30",2071 01 102 AA 32700
+02,Commutation,"29,40,88,72","18,49,27,85","20,29,16,94","21,91,50,30",2071 01 102 AA 32702
+AA,Total AA,"29,40,88,72","18,49,27,85","20,29,16,94","21,91,50,30",
+AB,Payment of arrears on Commuted Value of Pensions and Gratuities,,,,,2071 01 102 AB 30000
+327,Pensions,"3,71,25","4,11,74","4,11,74","4,11,74",2071 01 102 AB 32700
+04,Commutation Arrears,"3,71,25","4,11,74","4,11,74","4,11,74",2071 01 102 AB 32704
+328,Gratuities,"10,13,18","30,97,31","7,89,43","8,28,90",2071 01 102 AB 32800 
+01,Gratuities,"10,13,18","30,97,31","7,89,43","8,28,90",2071 01 102 AB 32801
+AB,Total AB,"13,84,43","35,09,05","12,01,17","12,40,64",
+#,State's Expenditure Total,"29,54,73,15","18,84,36,90","20,41,18,11","22,03,90,94",
+102,Total 102,"29,54,73,15","18,84,36,90","20,41,18,11","22,03,90,94",
+103,Compassionate Allowances,,,,,
+#,State's Expenditure,,,,,
+AA,Pensions granted under Rule 18 of the All-India Services (Death-cum-Retirement Benefit) Rules 1958,,,,,2071 01 103 AA 30000
+327,Pensions,,"6,38","6,38","6,38",2071 01 103 AA 32700
+01,Basic Pension,,"6,38","6,38","6,38",2071 01 103 AA 32701
+AA,Total AA,,"6,38","6,38","6,38",
+#,State's Expenditure Total,,"6,38","6,38","6,38",
+103,Total 103,,"6,38","6,38","6,38",
+104,Gratuities,,,,,
+#,State's Expenditure,,,,,
+AA,"Superannuation, Retirement Compassionate and Invalid Gratuities granted under the Tamil Nadu Liberalised Pension Rules, 1960",,,,,2071 01 104 AA 30000
+328,Gratuities,"49,51,28","38,52,08","3,62,60","3,91,61",2071 01 104 AA 32800 
+01,Gratuities,"49,51,28","38,52,08","3,62,60","3,91,61",2071 01 104 AA 32801
+AA,Total AA,"49,51,28","38,52,08","3,62,60","3,91,61",
+AB,Death-cum-Retirement Gratuities to Tamil Nadu Government Pensioners,,,,,2071 01 104 AB 30000
+328,Gratuities,"23,50,60,41","27,34,31,19","21,86,20,34","23,61,09,97",2071 01 104 AB 32800 
+01,Gratuities,"23,50,60,41","27,34,31,19","21,86,20,34","23,61,09,97",2071 01 104 AB 32801
+AB,Total AB,"23,50,60,41","27,34,31,19","21,86,20,34","23,61,09,97",
+AE,Interest on belated payments of Gratuity,,,,,2071 01 104 AE 30000
+325,Interest,"86,58","1,79,40","1,79,40","1,79,40",2071 01 104 AE 32500
+01,Interest,"86,58","1,79,40","1,79,40","1,79,40",2071 01 104 AE 32501
+AE,Total AE,"86,58","1,79,40","1,79,40","1,79,40",
+#,State's Expenditure Total,"24,00,98,27","27,74,62,67","21,91,62,34","23,66,80,98",
+104,Total 104,"24,00,98,27","27,74,62,67","21,91,62,34","23,66,80,98",
+105,Family Pensions,,,,,
+#,State's Expenditure,,,,,
+AA,Family pension to Tamil Nadu Government pensioners,,,,,2071 01 105 AA 30000
+327,Pensions,"29,27,00,11","33,28,96,49","31,03,59,61","33,10,50,24",2071 01 105 AA 32700
+01,Basic Pension,"29,27,00,11","33,28,96,49","31,03,59,61","33,10,50,24",2071 01 105 AA 32701
+349,Festival Advances,"-7,80",,,,2071 01 105 AA 34900
+01,Festival Advances-Debit,,"3,54","7,08","7,08",2071 01 105 AA 34901
+02,Festival Advances-Credit,"-7,80","-3,54","-7,08","-7,08",2071 01 105 AA 34902
+377,Deduct-Recoveries,"-10,33,91",,,,2071 01 105 AA 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-10,33,91",,,,2071 01 105 AA 37702
+AA,Total AA,"29,16,58,40","33,28,96,49","31,03,59,61","33,10,50,24",
+AC,Dearness Allowance to Family pensioners of Tamil Nadu Government,,,,,2071 01 105 AC 30000
+303,Dearness Allowance,"2,93,18,27","4,38,53,02","4,88,81,67","8,23,36,88",2071 01 105 AC 30300
+01,Dearness Allowance,"2,93,18,27","4,38,53,02","4,88,81,67","8,23,36,88",2071 01 105 AC 30301
+AC,Total AC,"2,93,18,27","4,38,53,02","4,88,81,67","8,23,36,88",
+AD,Relief to All-India Service Family Pensioners,,,,,2071 01 105 AD 30000
+327,Pensions,"1,15,54","59,42","59,42","59,42",2071 01 105 AD 32700
+06,Family Pension,"1,15,54","59,42","59,42","59,42",2071 01 105 AD 32706
+AD,Total AD,"1,15,54","59,42","59,42","59,42",
+AE,Medical Allowances to Family Pensioners,,,,,2071 01 105 AE 30000
+327,Pensions,"56,10,08","59,20,56","58,57,73","62,48,28",2071 01 105 AE 32700
+09,Others,"56,10,08","59,20,56","58,57,73","62,48,28",2071 01 105 AE 32709
+AE,Total AE,"56,10,08","59,20,56","58,57,73","62,48,28",
+AG,Payment of family pension to ex-Village Officers,,,,,2071 01 105 AG 30000
+327,Pensions,"15,61,20","17,97,16","17,61,15","18,78,60",2071 01 105 AG 32700
+06,Family Pension,"15,61,20","17,97,16","17,61,15","18,78,60",2071 01 105 AG 32706
+AG,Total AG,"15,61,20","17,97,16","17,61,15","18,78,60",
+AH,Additional Family Pension to Tamil Nadu Government Pensioners Aged above 80 years,,,,,2071 01 105 AH 30000
+327,Pensions,"24,70,61","26,37,30","29,43,78","31,40,04",2071 01 105 AH 32700
+01,Basic Pension,"24,70,61","26,37,30","29,43,78","31,40,04",2071 01 105 AH 32701
+AH,Total AH,"24,70,61","26,37,30","29,43,78","31,40,04",
+#,State's Expenditure Total,"33,07,34,10","38,71,63,95","36,98,63,36","42,47,13,46",
+105,Total 105,"33,07,34,10","38,71,63,95","36,98,63,36","42,47,13,46",
+106,Pensionary charges in respect of High Court Judges,,,,,
+#,State's Expenditure,,,,,
+AA,Superannuation and other Retirement Pensions,,,,,2071 01 106 AA 30000
+327,Pensions Charged,,"17,26,81","13,64,85","10,57,39",2071 01 106 AA 32700
+01,Basic Pension Charged,,"14,19,34","10,57,38","10,57,38",2071 01 106 AA 32701
+03,Pension Arrears Charged,,"3,07,47","3,07,47",1,2071 01 106 AA 32703
+AA,Total AA Charged,,"17,26,81","13,64,85","10,57,39",
+AE,Medical and Other Benefits of Retired Hon'ble Judges and their Families,,,,,2071 01 106 AE 30000
+327,Pensions Charged,"4,07,57","4,65,64","4,65,64","4,65,64",2071 01 106 AE 32700
+09,Others Charged,"4,07,57","4,65,64","4,65,64","4,65,64",2071 01 106 AE 32709
+AE,Total AE Charged,"4,07,57","4,65,64","4,65,64","4,65,64",
+AF,Medical and Other Benefits of Retired Judicial Officers and their Families,,,,,2071 01 106 AF 30000
+327,Pensions Charged,"86,64","79,94","86,34","86,64",2071 01 106 AF 32700
+09,Others Charged,"86,64","79,94","86,34","86,64",2071 01 106 AF 32709
+AF,Total AF Charged,"86,64","79,94","86,34","86,64",
+#,State's Expenditure Total Charged,"4,94,21","22,72,39","19,16,83","16,09,67",
+106,Total 106 Charged,"4,94,21","22,72,39","19,16,83","16,09,67",
+107,Contribution to Pensions and Gratuities,,,,,
+#,State's Expenditure,,,,,
+AA,Contribution payable to the non-Governmental Institutions and other Governments,,,,,2071 01 107 AA 30000
+310,Contributions,,2,2,1,2071 01 107 AA 31000
+01,Contribution to Specific Fund,"-1,74",1,1,1,2071 01 107 AA 31001
+09,Others,"1,74",1,1,,2071 01 107 AA 31009
+AA,Total AA,2,2,1,,
+AB,Contribution Payable for the Employees deputed from the State public Sector-Undertakings,,,,,2071 01 107 AB 30000
+327,Pensions,,"19,53","19,53","19,53",2071 01 107 AB 32700
+01,Basic Pension,,"19,53","19,53","19,53",2071 01 107 AB 32701
+AB,Total AB,,"19,53","19,53","19,53",
+#,State's Expenditure Total,,"19,55","19,55","19,54",
+107,Total 107,,"19,55","19,55","19,54",
+108,Contribution to Provident Fund,,,,,
+#,State's Expenditure,,,,,
+AB,Government contributions under Government Industrial Employees Contributory Provident Fund,,,,,2071 01 108 AB 30000
+310,Contributions,"39,95","41,00","48,00","49,00",2071 01 108 AB 31000
+01,Contribution to Specific Fund,"39,95","41,00","48,00","49,00",2071 01 108 AB 31001
+AB,Total AB,"39,95","41,00","48,00","49,00",
+AD,Contributory Pension Payable for the Employees deputed from the State Public Sector Undertakings,,,,,2071 01 108 AD 30000
+327,Pensions,,1,1,1,2071 01 108 AD 32700
+01,Basic Pension,,1,1,1,2071 01 108 AD 32701
+AD,Total AD,,1,1,1,
+AE,Employer's Contributions to Employees Provident Fund for the Employees deputed from the State Public Sector Undertakings,,,,,2071 01 108 AE 30000
+310,Contributions,,,"10,02",1,2071 01 108 AE 31000
+01,Contribution to Specific Fund,,,"10,02",1,2071 01 108 AE 31001
+AE,Total AE,,"10,02",1,,
+#,State's Expenditure Total,"39,95","41,01","58,03","49,02",
+108,Total 108,"39,95","41,01","58,03","49,02",
+109,Pensions to Employees of State Aided Educational Institutions,,,,,
+#,State's Expenditure,,,,,
+AA,"Dearness Allowance to Teacher Pensioners of  Aided Schools, Colleges and Local Bodies",,,,,2071 01 109 AA 30000
+303,Dearness Allowance,"2,51,63,04","3,32,00,26","3,84,03,06","6,10,92,05",2071 01 109 AA 30300
+01,Dearness Allowance,"2,51,63,04","3,32,00,26","3,84,03,06","6,10,92,05",2071 01 109 AA 30301
+AA,Total AA,"2,51,63,04","3,32,00,26","3,84,03,06","6,10,92,05",
+AB,"Pensions to Teachers of Aided Schools, Schools of Local Bodies, Aided Colleges and non-teaching staff of Aided Schools",,,,,2071 01 109 AB 30000
+327,Pensions,"22,14,17,15","25,53,86,61","23,37,70,62","24,93,55,32",2071 01 109 AB 32700
+01,Basic Pension,"22,14,17,15","25,53,86,61","23,37,70,62","24,93,55,32",2071 01 109 AB 32701
+349,Festival Advances,"-81,24",,,,2071 01 109 AB 34900
+01,Festival Advances-Debit,"29,14","5,00","10,00","10,00",2071 01 109 AB 34901
+02,Festival Advances-Credit,"-1,10,38","-5,00","-10,00","-10,00",2071 01 109 AB 34902
+377,Deduct-Recoveries,"-4,02,36",,,,2071 01 109 AB 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-4,02,36",,,,2071 01 109 AB 37702
+AB,Total AB,"22,09,33,55","25,53,86,61","23,37,70,62","24,93,55,32",
+AC,Gratuities,,,,,2071 01 109 AC 30000
+328,Gratuities,"2,63,63,53","3,19,52,79","3,61,41,98","3,90,33,34",2071 01 109 AC 32800
+01,Gratuities,"2,63,63,53","3,19,52,79","3,61,41,98","3,90,33,34",2071 01 109 AC 32801
+AC,Total AC,"2,63,63,53","3,19,52,79","3,61,41,98","3,90,33,34",
+AD,Family pensions,,,,,2071 01 109 AD 30000
+327,Pensions,"4,70,33,33","5,53,34,54","4,45,32,46","4,75,01,28",2071 01 109 AD 32700
+06,Family Pension,"4,70,33,33","5,53,34,54","4,45,32,46","4,75,01,28",2071 01 109 AD 32706
+349,Festival Advances,"-1,84",,,,2071 01 109 AD 34900
+01,Festival Advances-Debit,,45,"1,00","1,00",2071 01 109 AD 34901
+02,Festival Advances-Credit,"-1,84",-45,"-1,00","-1,00",2071 01 109 AD 34902
+377,Deduct-Recoveries,"-1,51,17",,,,2071 01 109 AD 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-1,51,17",,,,2071 01 109 AD 37702
+AD,Total AD,"4,68,80,32","5,53,34,54","4,45,32,46","4,75,01,28",
+AE,"Dearness Allowance to Teachers Family Pensioners of Aided  Schools, Colleges and Local bodies",,,,,2071 01 109 AE 30000
+303,Dearness Allowance,"45,38,92","71,93,49","69,68,09","1,16,37,81",2071 01 109 AE 30300
+01,Dearness Allowance,"45,38,92","71,93,49","69,68,09","1,16,37,81",2071 01 109 AE 30301
+AE,Total AE,"45,38,92","71,93,49","69,68,09","1,16,37,81",
+AF,Commuted Value of Pensions to Teachers of Aided Schools and Schools of Local Bodies,,,,,2071 01 109 AF 30000
+327,Pensions,"3,45,80,23","3,91,64,69","4,59,74,87","4,96,52,86",2071 01 109 AF 32700
+02,Commutation,"3,45,80,23","3,91,64,69","4,59,74,87","4,96,52,86",2071 01 109 AF 32702
+AF,Total AF,"3,45,80,23","3,91,64,69","4,59,74,87","4,96,52,86",
+AG,"Medical Allowances to Teacher Pensioners and Teacher Family Pensioners of Aided Schools, School of Local Bodies, Aided Colleges and Non teaching staff of Aided Schools",,,,,2071 01 109 AG 30000
+327,Pensions,"33,05,76","36,18,72","33,24,57","35,46,24",2071 01 109 AG 32700
+09,Others,"33,05,76","36,18,72","33,24,57","35,46,24",2071 01 109 AG 32709
+AG,Total AG,"33,05,76","36,18,72","33,24,57","35,46,24",
+#,State's Expenditure Total,"36,17,65,35","42,58,51,10","40,91,15,65","46,18,18,90",
+109,Total 109,"36,17,65,35","42,58,51,10","40,91,15,65","46,18,18,90",
+111,Pensions to Legislators,,,,,
+#,State's Expenditure,,,,,
+AA,State Legislative Assembly Members,,,,,2071 01 111 AA 30000
+327,Pensions,"29,49,73","29,32,50","30,32,08","29,10,40",2071 01 111 AA 32700
+01,Basic Pension,"24,64,97","22,05,60","22,57,98","21,79,20",2071 01 111 AA 32701
+06,Family Pension,"2,80,00","4,51,20","4,90,00","4,51,20",2071 01 111 AA 32706
+09,Others,"2,04,76","2,75,70","2,84,10","2,80,00",2071 01 111 AA 32709
+AA,Total AA,"29,49,73","29,32,50","30,32,08","29,10,40",
+AD,Members of the Legislative Council,,,,,2071 01 111 AD 30000
+327,Pensions,"1,14,30","1,18,15","1,17,55","1,01,70",2071 01 111 AD 32700
+01,Basic Pension,"87,22","69,60","59,98","57,60",2071 01 111 AD 32701
+06,Family Pension,"25,20","39,60","49,40","36,00",2071 01 111 AD 32706
+09,Others,"1,88","8,95","8,17","8,10",2071 01 111 AD 32709
+AD,Total AD,"1,14,30","1,18,15","1,17,55","1,01,70",
+#,State's Expenditure Total,"30,64,03","30,50,65","31,49,63","30,12,10",
+111,Total 111,"30,64,03","30,50,65","31,49,63","30,12,10",
+115,Leave Encashment Benefits,,,,,
+#,State's Expenditure,,,,,
+AA,Encashment of Leave Salary of Government Servants at the time of Retirement / Death or Termination of Service,,,,,2071 01 115 AA 30000
+301,Salaries,"15,32,86,95","12,06,21,04","16,65,88,67","17,99,15,77",2071 01 115 AA 30100
+01,Pay,"14,68,83,03","11,22,43,48","15,93,25,96","17,20,72,04",2071 01 115 AA 30101
+06,House Rent Allowance,"49,54,28","62,66,76","63,68,12","68,77,57",2071 01 115 AA 30106
+08,City Compensatory Allowance,"14,49,64","21,10,80","8,94,59","9,66,16",2071 01 115 AA 30108
+303,Dearness Allowance,"1,03,29,39","1,59,59,88","1,34,92,80","4,21,57,65",2071 01 115 AA 30300
+01,Dearness Allowance,"1,03,29,39","1,59,59,88","1,34,92,80","4,21,57,65",2071 01 115 AA 30301
+AA,Total AA,"16,36,16,34","13,65,80,92","18,00,81,47","22,20,73,42",
+AB,Leave Salary Contribution to the Employees deputed from the State Public Sector Undertakings,,,,,2071 01 115 AB 30000
+327,Pensions,"2,02","20,56","20,56","20,56",2071 01 115 AB 32700
+01,Basic Pension,"2,02","20,56","20,56","20,56",2071 01 115 AB 32701
+AB,Total AB,"2,02","20,56","20,56","20,56",
+#,State's Expenditure Total,"16,36,18,36","13,66,01,48","18,01,02,03","22,20,93,98",
+115,Total 115,"16,36,18,36","13,66,01,48","18,01,02,03","22,20,93,98",
+117,Government Contribution for Defined Contribution Pension Scheme,,,,,
+#,State's Expenditure,,,,,
+AA,Government Contribution for Tamil Nadu Government Employees,,,,,2071 01 117 AA 30000
+310,Contributions,"17,42,42,90","19,56,50,64","19,56,50,64","22,68,94,46",2071 01 117 AA 31000
+01,Contribution to Specific Fund,"17,42,42,90","19,56,50,64","19,56,50,64","22,68,94,46",2071 01 117 AA 31001
+AA,Total AA,"17,42,42,90","19,56,50,64","19,56,50,64","22,68,94,46",
+AB,Government Contribution for Employees of Tamil Nadu Aided Educational Institutions,,,,,2071 01 117 AB 30000
+310,Contributions,"2,57,90,53","2,77,68,96","2,76,45,64","3,04,10,20",2071 01 117 AB 31000
+01,Contribution to Specific Fund,"2,57,90,53","2,77,68,96","2,76,45,64","3,04,10,20",2071 01 117 AB 31001
+AB,Total AB,"2,57,90,53","2,77,68,96","2,76,45,64","3,04,10,20",
+AC,Government Contribution for Employees of Panchayat Union Schools,,,,,2071 01 117 AC 30000
+310,Contributions,"2,06,71,76","2,29,55,76","2,36,04,11","2,59,64,52",2071 01 117 AC 31000
+01,Contribution to Specific Fund,"2,06,71,76","2,29,55,76","2,36,04,11","2,59,64,52",2071 01 117 AC 31001
+AC,Total AC,"2,06,71,76","2,29,55,76","2,36,04,11","2,59,64,52",
+AD,Government Contribution for Employees of Municipal Schools,,,,,2071 01 117 AD 30000
+310,Contributions,"18,72,50","20,27,52","22,36,26","24,59,89",2071 01 117 AD 31000
+01,Contribution to Specific Fund,"18,72,50","20,27,52","22,36,26","24,59,89",2071 01 117 AD 31001
+AD,Total AD,"18,72,50","20,27,52","22,36,26","24,59,89",
+AE,Government Contribution for New Pension Scheme for Tamil Nadu State Public Works Department Divisional Accountants / Accounts Officer,,,,,2071 01 117 AE 30000
+310,Contributions,,"30,66","30,66","30,66",2071 01 117 AE 31000
+01,Contribution to Specific Fund,,"30,66","30,66","30,66",2071 01 117 AE 31001
+AE,Total AE,"30,66","30,66","30,66",,
+#,State's Expenditure Total,"22,25,77,69","24,84,33,54","24,91,67,31","28,57,59,73",
+117,Total 117,"22,25,77,69","24,84,33,54","24,91,67,31","28,57,59,73",
+119,Payment of Service Charges to National Securities Depository Limited under New Pension Scheme,,,,,
+#,State's Expenditure,,,,,
+AA,Payment of Service Charges to National Securities Depository Limited (NSDL) under New Pension Scheme (NPS) for All India Services (AIS) Officers Tamil Nadu Cadre,,,,,2071 01 119 AA 30000
+333,Payments for Professional and Special Services,19,30,48,55,2071 01 119 AA 33300
+03,Special Service,19,30,48,55,2071 01 119 AA 33303
+AA,Total AA,19,30,48,55,
+#,State's Expenditure Total,19,30,48,55,
+119,Total 119,19,30,48,55,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+AA,Cost of remittance of pensions by Money Orders,,,,,2071 01 800 AA 30000
+342,Service or Commitment Charges,"2,77",64,64,64,2071 01 800 AA 34200
+01,Service or Commitment Charges,"2,77",64,64,64,2071 01 800 AA 34201
+AA,Total AA,"2,77",64,64,64,
+AC,Payment of Medical Reimbursement Charges to Retired All India Service Officers,,,,,2071 01 800 AC 30000
+327,Pensions,,1,1,1,2071 01 800 AC 32700
+09,Others,,1,1,1,2071 01 800 AC 32709
+AC,Total AC,,1,1,1,
+AE,Interest on belated Payment of Terminal Benefits to Government Servants who went on Deputation to the Public Sector and Other Undertaking and Retired,,,,,2071 01 800 AE 30000
+325,Interest,14,69,10,11,2071 01 800 AE 32500
+01,Interest,14,69,10,11,2071 01 800 AE 32501
+AE,Total AE,14,69,10,11,
+AF,Pongal Prize to Pensioners and Family Pensioners,,,,,2071 01 800 AF 30000
+327,Pensions,"16,34,01","23,42,13","17,01,45","17,86,52",2071 01 800 AF 32700
+09,Others,"16,34,01","23,42,13","17,01,45","17,86,52",2071 01 800 AF 32709
+AF,Total AF,"16,34,01","23,42,13","17,01,45","17,86,52",
+AG,Interest on belated payments of Retirement Benefits to Government Servants Retired on Superannuation / Voluntary Retirement / Medically Invalidated,,,,,2071 01 800 AG 30000
+325,Interest,"7,30","15,50","10,30","10,82",2071 01 800 AG 32500
+01,Interest,"7,30","15,50","10,30","10,82",2071 01 800 AG 32501
+AG,Total AG,"7,30","15,50","10,30","10,82",
+AH,Ex-gratia payment to families of deceased - Non-Provincialised Employees - Contributory Provident Fund,,,,,2071 01 800 AH 30000
+327,Pensions,"44,95","52,04","47,54","49,92",2071 01 800 AH 32700
+09,Others,"44,95","52,04","47,54","49,92",2071 01 800 AH 32709
+AH,Total AH,"44,95","52,04","47,54","49,92",
+AK,Other Expenditure - Pongal Prize to Ex-Village Officers,,,,,2071 01 800 AK 30000
+327,Pensions,"41,68","32,07","32,07","32,07",2071 01 800 AK 32700
+09,Others,"41,68","32,07","32,07","32,07",2071 01 800 AK 32709
+AK,Total AK,"41,68","32,07","32,07","32,07",
+AL,Government Contribution for New Pension Scheme for All India Service Officers,,,,,2071 01 800 AL 30000
+310,Contributions,"1,71,76","1,93,20","1,86,78","2,05,46",2071 01 800 AL 31000
+01,Contribution to Specific Fund,"1,71,76","1,93,20","1,86,78","2,05,46",2071 01 800 AL 31001
+AL,Total AL,"1,71,76","1,93,20","1,86,78","2,05,46",
+AM,Insurance Premium for State Government Pensioners / Family Pensioners under New Health Insurance Scheme,,,,,2071 01 800 AM 30000
+310,Contributions,"2,84,09,75","2,99,27,47","2,94,00,00","3,06,65,27",2071 01 800 AM 31000
+02,Insurance Premium,"2,84,09,75","2,99,27,47","2,94,00,00","3,06,65,27",2071 01 800 AM 31002
+327,Pensions,"41,34","50,00",,,2071 01 800 AM 32700
+09,Others,"41,34","50,00",,,2071 01 800 AM 32709
+AM,Total AM,"2,84,51,09","2,99,77,47","2,94,00,00","3,06,65,27",
+AN,Reimbursement of Medicl expenses to pensioners and Family Pensioners,,,,,2071 01 800 AN 30000
+327,Pensions,,,96,"1,00,00",2071 01 800 AN 32700
+09,Others,,,96,"1,00,00",2071 01 800 AN 32709
+AN,Total AN,,96,"1,00,00",,
+#,State's Expenditure Total,"3,03,53,70","3,26,13,75","3,13,79,85","3,28,50,82",
+800,Total 800,"3,03,53,70","3,26,13,75","3,13,79,85","3,28,50,82",
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+AA,Payment to Tamil Nadu Government Pensioners,,,,,2071 01 911 AA 30000
+377,Deduct-Recoveries,"-16,92",,,,2071 01 911 AA 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-16,92",,,,2071 01 911 AA 37702
+AA,Total AA,"-16,92",,,,
+AB,Death-cum-Retirement Gratutities to Tamil Nadu Government pensioners,,,,,2071 01 911 AB 30000
+377,Deduct-Recoveries,"-3,60",,,,2071 01 911 AB 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-3,60",,,,2071 01 911 AB 37702
+AB,Total AB,"-3,60",,,,
+AD,Family pension to Tamil Nadu Government pensioners,,,,,2071 01 911 AD 30000
+377,Deduct-Recoveries,-69,,,,2071 01 911 AD 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-69,,,,2071 01 911 AD 37702
+AD,Total AD,-69,,,,
+#,State's Expenditure Total,"-21,21",,,,
+911,Total 911,"-21,21",,,,
+01,Total 01 Charged,"4,94,21","22,72,39","19,16,83","16,09,67",
+01,Total 01 Voted,"2,96,24,65,49","3,23,72,57,91","3,09,88,66,13","3,51,42,74,33",
+2071,Total 2071 Charged,"4,94,21","22,72,39","19,16,83"," 16,09,67",
+2071,Total 2071 Voted,"2,96,24,65,49","3,23,72,57,91","3,09,88,66,13","3,51,42,74,33",
+2235,SOCIAL SECURITY AND WELFARE,,,,,
+60,Other Social Security and Welfare Programmes,,,,,
+102,Pension under Social Security Schemes,,,,,
+#,State's Expenditure,,,,,
+AF,"Pensions to Freedom fighters, their dependents etc.,",,,,,2235 60 102 AF 30000
+327,Pensions,"14,24,88","17,22,42","17,79,41",,2235 60 102 AF 32700
+05,Social Security Pensions,"14,24,88","17,22,42","17,79,41",,2235 60 102 AF 32705
+AF,Total AF,"14,24,88","17,22,42","17,79,41",,
+AG,Cost of remittance of pension by Money Order,,,,,2235 60 102 AG 30000
+305,Office Expenses,"1,04","2,00","1,00",,2235 60 102 AG 30500
+04,Service Postage & Postal Expenditure,"1,04","2,00","1,00",,2235 60 102 AG 30504
+AG,Total AG,"1,04","2,00","1,00",,
+AK,Medical Allowance to Freedom Fighters,,,,,2235 60 102 AK 30000
+327,Pensions,"84,48","1,46,82","1,40,16",,2235 60 102 AK 32700
+01,Basic Pension,"84,48","1,46,82","1,40,16",,2235 60 102 AK 32701
+AK,Total AK,"84,48","1,46,82","1,40,16",,
+AL,Presentation of Momentos to Freedom Fighters,,,,,2235 60 102 AL 30000
+327,Pensions,,1,1,,2235 60 102 AL 32700
+01,Basic Pension,,1,1,,2235 60 102 AL 32701
+AL,Total AL,,1,1,,
+AR,Special Pension for livelihood support to the retired employees on Special Time Scales of Pay,,,,,2235 60 102 AR 30000
+327,Pensions,,1,1,,2235 60 102 AR 32700
+05,Social Security Pensions,,1,1,,2235 60 102 AR 32705
+AR,Total AR,,1,1,,
+#,State's Expenditure Total,"15,10,40","18,71,26","19,20,59",,
+102,Total 102,"15,10,40","18,71,26","19,20,59",,
+200,Other Programmes,,,,,
+#,State's Expenditure,,,,,
+CU,Free Bus Pass to Ex-Legislators,,,,,2235 60 200 CU 30000
+304,Travel Expenses,"1,27,83","1,68,81","1,65,78",,2235 60 200 CU 30400
+01,Tour Travelling Allowances,"1,27,83","1,68,81","1,65,78",,2235 60 200 CU 30401
+CU,Total CU,"1,27,83","1,68,81","1,65,78",,
+DQ,Lumpsum payment to the employees on Special Time Scales of Pay at the time of retirement,,,,,2235 60 200 DQ 30000
+309,Grants-in-Aid,,1,1,,2235 60 200 DQ 30900
+03,Grants for Specific Schemes,,1,1,,2235 60 200 DQ 30903
+DQ,Total DQ,1,1,,,
+#,State's Expenditure Total,"1,27,83","1,68,82","1,65,79",,
+200,Total 200,"1,27,83","1,68,82","1,65,79",,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+AI,Cost of Funeral expenditure on the death of Freedom Fighters,,,,,2235 60 800 AI 30000
+309,Grants-in-Aid,46,"2,00","2,00",,2235 60 800 AI 30900
+09,Others,46,"2,00","2,00",,2235 60 800 AI 30909
+AI,Total AI,46,"2,00","2,00",,
+AM,Tamil Nadu Government Pensioners Health Fund,,,,,2235 60 800 AM 30000
+310,Contributions,,1,1,,2235 60 800 AM 31000
+01,Contribution to Specific Fund,,1,1,,2235 60 800 AM 31001
+AM,Total AM,1,1,,,
+#,State's Expenditure Total,46,"2,01","2,01",,
+800,Total 800,46,"2,01","2,01",,
+60,Total 60,"16,38,69","20,42,09","20,88,39",,
+2235,Total 2235,"16,38,69","20,42,09","20,88,39",,

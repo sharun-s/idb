@@ -1,0 +1,425 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2059,PUBLIC WORKS,,,,,
+01,Office Buildings,,,,,
+053,Maintenance and Repairs,,,,,
+#,State's Expenditure,,,,,
+CO,Buildings - Tamil Nadu Integrated Nutrition Project (TINP),,,,,2059 01 053 CO 30000
+318,Maintenance,"36,39","15,00","15,00","15,75",2059 01 053 CO 31800 
+01,Periodical Maintenance,"36,39","15,00","15,00","15,75",2059 01 053 CO 31801
+CO,Total CO,"36,39","15,00","15,00","15,75",
+#,State's Expenditure Total,"36,39","15,00","15,00","15,75",
+053,Total 053,"36,39","15,00","15,00","15,75",
+01,Total 01,"36,39","15,00","15,00","15,75",
+2059,Total 2059,"36,39","15,00","15,00","15,75",
+2235,SOCIAL SECURITY AND WELFARE,,,,,
+02,Social Welfare,,,,,
+102,Child welfare,,,,,
+#,Schemes shared between State and Centre,,,,,
+#,Schemes shared between State and Centre,,,,,
+UD,Assistance to Creches under Rajiv Gandhi National Creche Scheme (RGNCS),,,,,2235 02 102 UD 30000
+309,Grants-in-Aid,"7,80,57","8,33,65","8,33,65","7,25,86",2235 02 102 UD 30900 
+03,Grants for Specific Schemes,"7,80,57","8,33,65","8,33,65","7,25,86",2235 02 102 UD 30903
+UD,Total UD,"7,80,57","8,33,65","8,33,65","7,25,86",
+#,Schemes shared between State and Centre Total,"7,80,57","8,33,65","8,33,65","7,25,86",
+102,Total 102,"7,80,57","8,33,65","8,33,65","7,25,86",
+02,Total 02,"7,80,57","8,33,65","8,33,65","7,25,86",
+60,Other Social Security and Welfare Programmes,,,,,
+102,Pension under Social Security Schemes,,,,,
+#,State's Expenditure,,,,,
+AP,Special Pension for Livelihood Support to Retired  ICDS Workers,,,,,2235 60 102 AP 30000
+327,Pensions,"1,08,16,97","1,09,03,08","1,15,42,92","1,39,50,80",2235 60 102 AP 32700
+05,Social Security Pensions,"1,08,16,97","1,09,03,08","1,15,42,92","1,39,50,80",2235 60 102 AP 32705
+AP,Total AP,"1,08,16,97","1,09,03,08","1,15,42,92","1,39,50,80",
+#,State's Expenditure Total,"1,08,16,97","1,09,03,08","1,15,42,92","1,39,50,80",
+102,Total 102,"1,08,16,97","1,09,03,08","1,15,42,92","1,39,50,80",
+200,Other Programmes,,,,,
+#,State's Expenditure,,,,,
+DB,Lumpsum Provision to Anganwadi Workers,,,,,2235 60 200 DB 30000
+309,Grants-in-Aid,"22,56,47","20,00,00","20,61,75","17,90,50",2235 60 200 DB 30900
+03,Grants for Specific Schemes,"22,56,47","20,00,00","20,61,75","17,90,50",2235 60 200 DB 30903
+DB,Total DB,"22,56,47","20,00,00","20,61,75","17,90,50",
+#,State's Expenditure Total,"22,56,47","20,00,00","20,61,75","17,90,50",
+#,Schemes shared between State and Centre,,,,,
+UA,Pradhan Mantri Matru Vandana Yojana (PMMVY) Maternity Benefit Scheme,,,,,2235 60 200 UA 30000
+301,Salaries,43,,,,2235 60 200 UA 30100
+01,Pay,43,,,,2235 60 200 UA 30101
+309,Grants-in-Aid,-4,,,,2235 60 200 UA 30900
+03,Grants for Specific Schemes,-4,,,,2235 60 200 UA 30903
+UA,Total UA,39,,,,
+#,Schemes shared between State and Centre Total,39,,,,
+200,Total 200,"22,56,86","20,00,00","20,61,75","17,90,50",
+60,Total 60,"1,30,73,83","1,29,03,08","1,36,04,67","1,57,41,30",
+2235,Total 2235,"1,38,54,40","1,37,36,73","1,44,38,32","1,64,67,16",
+2236,NUTRITION,,,,,
+02,Distribution of nutritious food and beverages,,,,,
+101,Special Nutrition programmes,,,,,
+#,State's Expenditure,,,,,
+JN,Tamil Nadu Integrated Child Development Services Scheme Phase-III,,,,,2236 02 101 JN 30000
+301,Salaries,"6,77,57,66","6,22,69,98","6,99,30,84","7,23,93,65",2236 02 101 JN 30100
+01,Pay,"5,63,30,29","5,23,95,16","5,86,00,00","6,09,44,00",2236 02 101 JN 30101
+02,Medical Allowance,"32,45,84","30,09,65","32,45,83","32,45,83",2236 02 101 JN 30102
+04,Other Allowances,"17,67,68","9,65,65","21,40,31","21,40,31",2236 02 101 JN 30104
+06,House Rent Allowance,"59,20,33","54,45,57","55,14,72","56,25,01",2236 02 101 JN 30106
+08,City Compensatory Allowance,"4,90,84","4,49,95","4,25,98","4,34,50",2236 02 101 JN 30108
+09,Honorarium,"2,68","4,00","4,00","4,00",2236 02 101 JN 30109
+303,Dearness Allowance,"69,84,56","59,80,26","96,85,24","1,49,31,28",2236 02 101 JN 30300
+01,Dearness Allowance,"69,84,56","59,80,26","96,85,24","1,49,31,28",2236 02 101 JN 30301
+305,Office Expenses,"2,67","15,01","15,01","15,01",2236 02 101 JN 30500
+02,Other Contingencies,35,1,1,1,2236 02 101 JN 30502
+03,Electricity Charges,"2,32","15,00","15,00","15,00",2236 02 101 JN 30503
+306,"Rent, Rates and Taxes",,1,1,1,2236 02 101 JN 30600
+01,Rent,,1,1,1,2236 02 101 JN 30601
+318,Maintenance,"1,00","1,00","1,00","1,00",2236 02 101 JN 31800
+01,Periodical Maintenance,"1,00","1,00","1,00","1,00",2236 02 101 JN 31801
+321,Motor Vehicles,,1,1,1,2236 02 101 JN 32100
+01,Purchase,,1,1,1,2236 02 101 JN 32101
+324,Materials and Supplies,"5,77,64","7,07,20","9,55,07","8,44,24",2236 02 101 JN 32400
+01,Materials and Supplies,"5,77,64","7,07,20","9,55,07","8,44,24",2236 02 101 JN 32401
+346,"Clothing, Tentage and Stores","9,94,86","9,94,54","16,61,64","16,61,64",2236 02 101 JN 34600
+01,"Clothing, Tentage and Stores","9,94,86","9,94,54","16,61,64","16,61,64",2236 02 101 JN 34601
+349,Festival Advances,"4,65,03",,,,2236 02 101 JN 34900
+01,Festival Advances-Debit,"36,74,09","51,96,90","92,79,90","1,03,93,80",2236 02 101 JN 34901
+02,Festival Advances-Credit,"-32,09,06","-51,96,90","-92,79,90","-1,03,93,80",2236 02 101 JN 34902
+351,Compensation Charged,,1,1,1,2236 02 101 JN 35100
+51,Claims under no fault liability -  principal charges Charged,,1,1,1,2236 02 101 JN 35151
+364,Lands,,1,1,1,2236 02 101 JN 36400
+01,Lands - Voted,,1,1,1,2236 02 101 JN 36401
+JN,Total JN Charged,,1,1,1,
+JN,Total JN Voted,"7,67,83,42","6,99,68,02","8,22,48,83","8,98,46,85",
+JQ,Imparting school preparedness and child health outcome through Integrated Child Development Services Scheme - Scheme under State Innovation Fund,,,,,2236 02 101 JQ 30000
+333,Payments for Professional and Special Services,"92,83",,,,2236 02 101 JQ 33300
+04,Contract Payment,"92,83",,,,2236 02 101 JQ 33304
+342,Service or Commitment Charges,,1,1,1,2236 02 101 JQ 34200
+01,Service or Commitment Charges,,1,1,1,2236 02 101 JQ 34201
+367,Feeding/Dietary Charges,"49,60","1,53",,,2236 02 101 JQ 36700
+09,Others,"49,60","1,53",,,2236 02 101 JQ 36709
+371,Printing Charges,41,,,,2236 02 101 JQ 37100
+01,Printing Charges,41,,,,2236 02 101 JQ 37101
+JQ,Total JQ,"1,42,84","1,54",1,1,
+JT,Anaemia Intervention Programme for Ante Natal Mothers  - Scheme  under State Innovation Fund,,,,,2236 02 101 JT 30000
+367,Feeding/Dietary Charges,,,1,"89,81",2236 02 101 JT 36700
+09,Others,,,1,"89,81",2236 02 101 JT 36709
+JT,Total JT,,,1,"89,81",
+JU,Provision of Double Fortified salt to Ante Natal Mothers. - Scheme under State Innovation Fund,,,,,2236 02 101 JU 30000
+367,Feeding/Dietary Charges,,,1,"9,40",2236 02 101 JU 36700
+09,Others,,,1,"9,40",2236 02 101 JU 36709
+JU,Total JU,,,1,"9,40",
+JV,Provision of supplementary Nutrition as Sathu Mavu to Old Age Pensioners  - Scheme under State Innovation Fund,,,,,2236 02 101 JV 30000
+367,Feeding/Dietary Charges,,,1,"2,09,12",2236 02 101 JV 36700
+09,Others,,,1,"2,09,12",2236 02 101 JV 36709
+JV,Total JV,,,1,"2,09,12",
+#,State's Expenditure Total Charged,,1,1,1,
+#,State's Expenditure Total Voted,"7,69,26,26","6,99,69,56","8,22,48,87","9,01,55,19",
+#,Central Sector Schemes,,,,,
+SC,Integrated Child Development Services Scheme,,,,,2236 02 101 SC 30000
+372,Training,"16,31,85","8,00,00","5,81,73","8,00,00",2236 02 101 SC 37200
+01,Training,"16,31,85","8,00,00","5,81,73","8,00,00",2236 02 101 SC 37201
+376,Computer and Accessories,"8,72","3,00","5,00","5,00",2236 02 101 SC 37600
+03,Stationery,"8,72","3,00","5,00","5,00",2236 02 101 SC 37603
+SC,Total SC,"16,40,57","8,03,00","5,86,73","8,05,00",
+SF,Integrated Child Development Services Scheme - Phase III,,,,,2236 02 101 SF 30000
+301,Salaries,"3,56,65,50","3,32,31,51","3,81,03,11","3,86,43,15",2236 02 101 SF 30100
+01,Pay,"3,47,68,23","3,23,86,05","3,62,00,00","3,76,48,00",2236 02 101 SF 30101
+02,Medical Allowance,"98,15","1,09,90","1,09,90","1,09,90",2236 02 101 SF 30102
+03,Medical Charges,"1,33","4,00","2,00","2,00",2236 02 101 SF 30103
+04,Other Allowances,"1,50,54","1,44,46","11,15,01","1,93,61",2236 02 101 SF 30104
+06,House Rent Allowance,"6,00,99","5,42,16","6,25,03","6,37,53",2236 02 101 SF 30106
+07,Travel Concession,90,"4,00","4,00","4,00",2236 02 101 SF 30107
+08,City Compensatory Allowance,"45,36","40,94","47,17","48,11",2236 02 101 SF 30108
+302,Wages,"5,80","11,75","11,75","11,75",2236 02 101 SF 30200
+01,Wages,"5,80","11,75","11,75","11,75",2236 02 101 SF 30201
+303,Dearness Allowance,"13,47,60","14,81,38","18,68,67","92,23,76",2236 02 101 SF 30300
+01,Dearness Allowance,"13,47,60","14,81,38","18,68,67","92,23,76",2236 02 101 SF 30301
+304,Travel Expenses,"2,22,72","2,49,00","2,49,00","2,49,00",2236 02 101 SF 30400
+01,Tour Travelling Allowances,"1,91,88","2,00,00","2,00,00","2,00,00",2236 02 101 SF 30401
+02,Transfer Travelling Allowances,44,"3,00","3,00","3,00",2236 02 101 SF 30402
+03,Fixed Travelling Allowance,"30,40","46,00","46,00","46,00",2236 02 101 SF 30403
+305,Office Expenses,"6,14,66","9,02,05","9,02,05","9,02,05",2236 02 101 SF 30500
+01,Telephone Charges,"12,65","16,90","16,90","16,90",2236 02 101 SF 30501
+02,Other Contingencies,"5,77,84","8,45,14","8,45,14","8,45,14",2236 02 101 SF 30502
+03,Electricity Charges,"24,17","40,00","40,00","40,00",2236 02 101 SF 30503
+05,Furniture,,1,1,1,2236 02 101 SF 30505
+306,"Rent, Rates and Taxes","7,82,38","9,70,12","9,70,86","9,70,86",2236 02 101 SF 30600
+01,Rent,"7,82,56","9,69,53","9,69,53","9,69,53",2236 02 101 SF 30601
+02,Property tax,-20,53,"1,27","1,27",2236 02 101 SF 30602
+03,Water Charges,2,6,6,6,2236 02 101 SF 30603
+307,Publications,,,"2,00,76","2,00,76",2236 02 101 SF 30700
+01,Publications,,,"2,00,76","2,00,76",2236 02 101 SF 30701
+308,Advertising and Publicity,"6,48","10,00","2,20,23","2,20,23",2236 02 101 SF 30800
+01,Advertisement Charges,"6,48","10,00","2,20,23","2,20,23",2236 02 101 SF 30801
+313,Hospitality / Entertainment Expenditure,"1,21","1,25","1,25","1,25",2236 02 101 SF 31300
+01,Hospitality / Entertainment Expenditure,"1,21","1,25","1,25","1,25",2236 02 101 SF 31301
+319,Machinery and Equipments,,2,2,2,2236 02 101 SF 31900
+01,Purchase,,1,1,1,2236 02 101 SF 31901
+02,Renewal and Replacement,,1,1,1,2236 02 101 SF 31902
+321,Motor Vehicles,"2,89","5,95","5,95","5,00",2236 02 101 SF 32100
+02,Maintenance of Functional Vehicles,"2,89","5,95","5,95","5,00",2236 02 101 SF 32102
+324,Materials and Supplies,"15,37,71","18,00,00","20,62,40","20,62,40",2236 02 101 SF 32400
+01,Materials and Supplies,"15,37,71","18,00,00","20,62,40","20,62,40",2236 02 101 SF 32401
+333,Payments for Professional and Special Services,"1,80","2,51","6,44,67","1,69,72",2236 02 101 SF 33300
+01,Pleaders Fees,30,"2,50","2,50","2,50",2236 02 101 SF 33301
+03,Special Service,"1,50",1,"6,42,17","1,67,22",2236 02 101 SF 33303
+345,"Petroleum, Oil and Lubricant","24,07","35,00","35,00","35,00",2236 02 101 SF 34500
+01,"Petroleum, Oil and Lubricant","24,07","35,00","35,00","35,00",2236 02 101 SF 34501
+346,"Clothing, Tentage and Stores","8,31,50","7,20,00","8,32,00","8,32,00",2236 02 101 SF 34600
+01,"Clothing, Tentage and Stores","8,31,50","7,20,00","8,32,00","8,32,00",2236 02 101 SF 34601
+347,Stores and Equipments,-25,1,1,1,2236 02 101 SF 34700
+02,Equipments - Voted,-25,1,1,1,2236 02 101 SF 34702
+349,Festival Advances,"-8,04",,,,2236 02 101 SF 34900
+01,Festival Advances-Debit,"81,02","2,01,40","3,35,40","3,35,40",2236 02 101 SF 34901
+02,Festival Advances-Credit,"-89,06","-2,01,40","-3,35,40","-3,35,40",2236 02 101 SF 34902
+351,Compensation Charged,,1,1,1,2236 02 101 SF 35100
+351,Compensation Voted,,1,1,1,2236 02 101 SF 35100
+02,Other Compensations - Voted,,1,1,1,2236 02 101 SF 35102
+51,Claims under no fault liability -  principal charges Charged,,1,1,1,2236 02 101 SF 35151
+359,Prizes and Awards,"10,00","10,00","2,00","2,00",2236 02 101 SF 35900
+01,Prizes and Awards,"10,00","10,00","2,00","2,00",2236 02 101 SF 35901
+366,Medicine,"4,67,61","7,79,54","10,91,10","7,79,54",2236 02 101 SF 36600 
+01,Medicine,"4,67,61","7,79,54","10,91,10","7,79,54",2236 02 101 SF 36601
+371,Printing Charges,"4,59,73","4,59,73","3,84,42","3,84,42",2236 02 101 SF 37100
+01,Printing Charges,"4,59,73","4,59,73","3,84,42","3,84,42",2236 02 101 SF 37101
+372,Training,"3,44","8,00,00",,,2236 02 101 SF 37200
+01,Training,"3,44","8,00,00",,,2236 02 101 SF 37201
+376,Computer and Accessories,"2,06,59","12,76","58,60","14,21",2236 02 101 SF 37600
+01,Purchase,"1,98,79",1,"44,85",1,2236 02 101 SF 37601
+02,Maintenance,"7,80","10,75","10,75","11,20",2236 02 101 SF 37602
+03,Stationery,,"2,00","3,00","3,00",2236 02 101 SF 37603
+SF,Total SF Charged,,1,1,1,
+SF,Total SF Voted,"4,21,83,40","4,14,82,59","4,76,43,86","5,47,07,14",
+SJ,Rajiv Gandhi Scheme for Empowerment of Adolescent Girls - SABLA,,,,,2236 02 101 SJ 30000
+309,Grants-in-Aid,"4,44","3,72,37","18,93","18,93",2236 02 101 SJ 30900
+03,Grants for Specific Schemes,"4,44","3,72,37","18,93","18,93",2236 02 101 SJ 30903
+SJ,Total SJ,"4,44","3,72,37","18,93","18,93",
+SL,Purchase of Aadhaar enrolment Machine under Anganwadi Services Project,,,,,2236 02 101 SL 30000
+309,Grants-in-Aid,"13,47,72",1,1,1,2236 02 101 SL 30900
+03,Grants for Specific Schemes,"13,47,72",1,1,1,2236 02 101 SL 30903
+SL,Total SL,"13,47,72",1,1,1,
+#,Central Sector Schemes Total Charged,,1,1,1,
+#,Central Sector Schemes Total Voted,"4,51,76,13","4,26,57,97","4,82,49,53","5,55,31,08",
+#,Schemes shared between State and Centre,,,,,
+UA,Supplementary Nutrition to Adolescent Girls under Rajiv Gandhi Scheme for Empowerment of Adolescent Girls - SABLA,,,,,2236 02 101 UA 30000
+367,Feeding/Dietary Charges,"46,73,39","26,27,05","8,30,78","37,40",2236 02 101 UA 36700
+09,Others,"46,73,39","26,27,05","8,30,78","37,40",2236 02 101 UA 36709
+UA,Total UA,"46,73,39","26,27,05","8,30,78","37,40",
+UB,Distribution of Flexi Fund to Anganwadi and Mini Anganwadi Centres,,,,,2236 02 101 UB 30000
+305,Office Expenses,73,,,,2236 02 101 UB 30500
+02,Other Contingencies,73,,,,2236 02 101 UB 30502
+UB,Total UB,73,,,,
+UC,Hiring of Vehicles under ICDS Schemes,,,,,2236 02 101 UC 30000
+321,Motor Vehicles,"6,08,69","10,10,00","8,03,80","10,10,00",2236 02 101 UC 32100
+03,Hire Charges,"6,08,69","10,10,00","8,03,80","10,10,00",2236 02 101 UC 32103
+UC,Total UC,"6,08,69","10,10,00","8,03,80","10,10,00",
+UE,Strengthening and Restructuring of Integrated Child Development Services Scheme,,,,,2236 02 101 UE 30000
+305,Office Expenses,"31,25","39,00","10,98,16","10,98,16",2236 02 101 UE 30500
+01,Telephone Charges,"31,25","39,00","39,00","39,00",2236 02 101 UE 30501
+05,Furniture,,,"10,59,16","10,59,16",2236 02 101 UE 30505
+317,Minor Works,,1,"13,36,03","13,36,03",2236 02 101 UE 31700
+01,Minor Works,,1,"13,36,03","13,36,03",2236 02 101 UE 31701
+324,Materials and Supplies,"1,13,01",,1,1,2236 02 101 UE 32400
+01,Materials and Supplies,"1,13,01",,1,1,2236 02 101 UE 32401
+333,Payments for Professional and Special Services,"12,83",,,,2236 02 101 UE 33300
+04,Contract Payment,"12,83",,,,2236 02 101 UE 33304
+367,Feeding/Dietary Charges,"3,79,78",,,,2236 02 101 UE 36700
+09,Others,"3,79,78",,,,2236 02 101 UE 36709
+372,Training,"3,04",,,,2236 02 101 UE 37200
+01,Training,"3,04",,,,2236 02 101 UE 37201
+UE,Total UE,"5,39,91","39,01","24,34,20","24,34,20",
+UF,Tamil Nadu Integrated Child Development Services Scheme Phase-III,,,,,2236 02 101 UF 30000
+367,Feeding/Dietary Charges,"5,73,21,55","6,48,68,68","6,67,11,86","6,75,05,24",2236 02 101 UF 36700
+09,Others,"5,73,21,55","6,48,68,68","6,67,11,86","6,75,05,24",2236 02 101 UF 36709
+UF,Total UF,"5,73,21,55","6,48,68,68","6,67,11,86","6,75,05,24",
+UG,National Nutrition Mission (NNM),,,,,2236 02 101 UG 30000
+301,Salaries,,,"18,19,59",1,2236 02 101 UG 30100
+04,Other Allowances,,,"18,19,59",1,2236 02 101 UG 30104
+305,Office Expenses,"1,04,83","5,58,56","14,19,68","14,19,68",2236 02 101 UG 30500
+01,Telephone Charges,"79,92","4,60,56","13,71,68","13,71,68",2236 02 101 UG 30501
+02,Other Contingencies,"24,91","98,00","48,00","48,00",2236 02 101 UG 30502
+319,Machinery and Equipments,"26,44,27",1,"75,41,41",1,2236 02 101 UG 31900
+01,Purchase,"26,44,27",1,"75,41,41",1,2236 02 101 UG 31901
+333,Payments for Professional and Special Services,"1,46,34","2,23,96","13,98,18","15,96,34",2236 02 101 UG 33300
+04,Contract Payment,"1,46,34","2,23,96","13,98,18","15,96,34",2236 02 101 UG 33304
+371,Printing Charges,,,"19,27",1,2236 02 101 UG 37100
+01,Printing Charges,,,"19,27",1,2236 02 101 UG 37101
+372,Training,"4,35,84","5,72,84","42,96,04","42,96,04",2236 02 101 UG 37200
+01,Training,"4,35,84","5,72,84","42,96,04","42,96,04",2236 02 101 UG 37201
+UG,Total UG,"33,31,28","13,55,37","1,64,94,17","73,12,09",
+#,Schemes shared between State and Centre Total,"6,64,75,55","6,99,00,11","8,72,74,81","7,82,98,93",
+101,Total 101 Charged,,2,2,2,
+101,Total 101 Voted,"18,85,77,94","18,25,27,64","21,77,73,21","22,39,85,20",
+102,Mid-day Meals,,,,,
+#,State's Expenditure,,,,,
+KE,Feeding to Old Age Pensioners under the Puratchi Thalaivar M.G.R. Nutritious Meal Programme,,,,,2236 02 102 KE 30000
+367,Feeding/Dietary Charges,43,"2,52","2,58","2,70",2236 02 102 KE 36700
+01,Rice,,50,50,50,2236 02 102 KE 36701
+02,Dhall,,"1,00","1,00","1,00",2236 02 102 KE 36702
+03,Oil,,22,22,22,2236 02 102 KE 36703
+04,"Vegetables, Condiments",43,80,86,98,2236 02 102 KE 36704
+KE,Total KE,43,"2,52","2,58","2,70",
+#,State's Expenditure Total,43,"2,52","2,58","2,70",
+#,Schemes shared between State and Centre,,,,,
+UA,Feeding to poor children in the age group of 2 plus to 4 plus in Tamil Nadu,,,,,2236 02 102 UA 30000
+305,Office Expenses,"4,12","1,00","1,25","1,25",2236 02 102 UA 30500
+02,Other Contingencies,"4,12","1,00","1,25","1,25",2236 02 102 UA 30502
+367,Feeding/Dietary Charges,"43,98,28","58,40,58","55,63,43","60,27,34",2236 02 102 UA 36700
+01,Rice,"7,08,84","8,27,93","8,43,67","8,43,67",2236 02 102 UA 36701
+02,Dhall,"9,21,66","16,41,90","9,97,46","9,97,46",2236 02 102 UA 36702
+03,Oil,"2,82,23","3,39,05","4,37,14","4,54,62",2236 02 102 UA 36703
+04,"Vegetables, Condiments","23,39,46","28,75,70","30,95,11","35,33,94",2236 02 102 UA 36704
+06,Potato,"1,49,33","1,56,00","1,90,05","1,97,65",2236 02 102 UA 36706
+07,Curry Leaf Powder,"-3,24",,,,2236 02 102 UA 36707
+UA,Total UA,"44,02,40","58,41,58","55,64,68","60,28,59",
+UB,Payment for supply of various food items to the beneficiaries under Puratchi Thalaivar M.G.R. Nutritious Meal Programme,,,,,2236 02 102 UB 30000
+367,Feeding/Dietary Charges,"2,93,47","5,76,25","5,76,57","5,76,62",2236 02 102 UB 36700
+02,Dhall,"2,92,58","5,75,30","5,75,30","5,75,30",2236 02 102 UB 36702
+08,Banana,89,95,"1,27","1,32",2236 02 102 UB 36708
+UB,Total UB,"2,93,47","5,76,25","5,76,57","5,76,62",
+#,Schemes shared between State and Centre Total,"46,95,87","64,17,83","61,41,25","66,05,21",
+102,Total 102,"46,96,30","64,20,35","61,43,83","66,07,91",
+789,Special Component Plan for Scheduled Castes,,,,,
+#,State's Expenditure,,,,,
+JJ,Feeding Old Age Pensioners under the Puratchi Thalaivar M.G.R. Nutritious Meal Programme under Special Component Plan,,,,,2236 02 789 JJ 30000
+367,Feeding/Dietary Charges,12,90,92,95,2236 02 789 JJ 36700
+01,Rice,,15,15,15,2236 02 789 JJ 36701
+02,Dhall,,40,40,40,2236 02 789 JJ 36702
+03,Oil,,10,10,10,2236 02 789 JJ 36703
+04,"Vegetables, Condiments",12,25,27,30,2236 02 789 JJ 36704
+JJ,Total JJ,12,90,92,95,
+#,State's Expenditure Total,12,90,92,95,
+789,Total 789,12,90,92,95,
+793,Special Central Assistance for Scheduled Caste Component Plan,,,,,
+#,Central Sector Schemes Central Sector Sechemes,,,,,
+SB,Rajiv Gandhi Scheme for Empowerment of Adolescent Girls - SABLA,,,,,2236 02 793 SB 30000
+309,Grants-in-Aid,,"1,00,26","5,10","1,00,26",2236 02 793 SB 30900
+03,Grants for Specific Schemes,,"1,00,26","5,10","1,00,26",2236 02 793 SB 30903
+SB,Total SB,"1,00,26","5,10","1,00,26",,
+#,Central Sector Schemes Total,,"1,00,26","5,10","1,00,26",
+#,Schemes shared between State and Centre,,,,,
+UA,Supplementary Nutrition to Adolescent Girls under Rajiv Gandhi Scheme for Empowerment of Adolescent Girls - SABLA,,,,,2236 02 793 UA 30000
+367,Feeding/Dietary Charges,"14,77,42","54,95","9,65","9,65",2236 02 793 UA 36700
+09,Others,"14,77,42","54,95","9,65","9,65",2236 02 793 UA 36709
+UA,Total UA,"14,77,42","54,95","9,65","9,65",
+UB,Tamil Nadu Integrated Child Development Services Scheme Phase-III under Special Component Plan,,,,,2236 02 793 UB 30000
+367,Feeding/Dietary Charges,"1,36,10,48","1,54,23,82","1,54,23,82","1,54,23,82",2236 02 793 UB 36700
+09,Others,"1,36,10,48","1,54,23,82","1,54,23,82","1,54,23,82",2236 02 793 UB 36709
+UB,Total UB,"1,36,10,48","1,54,23,82","1,54,23,82","1,54,23,82",
+UC,Feeding poor children in the age group of 2 plus to 4 plus in Tamil Nadu under Special Component Plan,,,,,2236 02 793 UC 30000
+367,Feeding/Dietary Charges,"13,40,20","22,50,77","25,35,70","27,67,79",2236 02 793 UC 36700
+01,Rice,"3,14,97","3,76,19","3,53,29","3,53,29",2236 02 793 UC 36701
+02,Dhall,"2,40,36","2,67,00","4,17,68","4,17,68",2236 02 793 UC 36702
+03,Oil,"72,46","91,35","1,26,84","1,31,91",2236 02 793 UC 36703
+04,"Vegetables, Condiments","6,80,05","14,74,23","15,86,71","18,11,68",2236 02 793 UC 36704
+06,Potato,"32,36","42,00","51,18","53,23",2236 02 793 UC 36706
+UC,Total UC,"13,40,20","22,50,77","25,35,70","27,67,79",
+UD,Payment for supply of various food items to the beneficiaries under Puratchi Thalaivar MGR Nutritious Meal Programme under Special Component Plan,,,,,2236 02 793 UD 30000
+367,Feeding/Dietary Charges,"1,07,81","1,53,05","1,86,40","1,86,40",2236 02 793 UD 36700
+02,Dhall,"1,07,81","1,53,00","1,85,90","1,85,90",2236 02 793 UD 36702
+08,Banana,,5,50,50,2236 02 793 UD 36708
+UD,Total UD,"1,07,81","1,53,05","1,86,40","1,86,40",
+#,Schemes shared between State and Centre Total,"1,65,35,91","1,78,82,59","1,81,55,57","1,83,87,66",
+793,Total 793,"1,65,35,91","1,79,82,85","1,81,60,67","1,84,87,92",
+794,Special Central Assistance for Tribal Sub-Plan,,,,,
+#,Central Sector Schemes Central Sector Sechemes,,,,,
+SB,Rajiv Gandhi Scheme for Empowerment of Adolescent Girls - SABLA,,,,,2236 02 794 SB 30000
+309,Grants-in-Aid,,"4,77",24,"4,77",2236 02 794 SB 30900
+03,Grants for Specific Schemes,,"4,77",24,"4,77",2236 02 794 SB 30903
+SB,Total SB,"4,77",24,"4,77",,
+#,Central Sector Schemes Total,,"4,77",24,"4,77",
+#,Schemes shared between State and Centre,,,,,
+UA,Tamil Nadu Integrated Child Development Services Scheme Phase-III under Tribal Sub-Plan,,,,,2236 02 794 UA 30000
+367,Feeding/Dietary Charges,"7,16,01","7,17,09","7,17,09","7,17,09",2236 02 794 UA 36700
+09,Others,"7,16,01","7,17,09","7,17,09","7,17,09",2236 02 794 UA 36709
+UA,Total UA,"7,16,01","7,17,09","7,17,09","7,17,09",
+UB,Feeding Poor Children in the age group of 2 plus to 4 plus in Tamil Nadu under Tribal Sub-Plan,,,,,2236 02 794 UB 30000
+367,Feeding/Dietary Charges,"62,97","82,85","1,03,79","1,09,73",2236 02 794 UB 36700
+01,Rice,"14,59","26,83","26,83","26,83",2236 02 794 UB 36701
+02,Dhall,"8,84","12,80","29,15","29,15",2236 02 794 UB 36702
+03,Oil,"2,69","4,35","5,70","5,93",2236 02 794 UB 36703
+04,"Vegetables, Condiments","35,30","36,87","39,68","45,30",2236 02 794 UB 36704
+06,Potato,"1,55","2,00","2,43","2,52",2236 02 794 UB 36706
+UB,Total UB,"62,97","82,85","1,03,79","1,09,73",
+UC,Supplementary Nutrition to Adolescent Girls under Rajiv Gandhi Scheme for Empowerment of Adolescent Girls - SABLA,,,,,2236 02 794 UC 30000
+367,Feeding/Dietary Charges,"3,11,51","2,87","1,26","1,26",2236 02 794 UC 36700
+09,Others,"3,11,51","2,87","1,26","1,26",2236 02 794 UC 36709 
+UC,Total UC,"3,11,51","2,87","1,26","1,26",
+#,Schemes shared between State and Centre Total,"10,90,49","8,02,81","8,22,14","8,28,08",
+794,Total 794,"10,90,49","8,07,58","8,22,38","8,32,85",
+902,Deduct - Amount met from State Innovation Fund,,,,,
+#,State's Expenditure,,,,,
+JA,Deduct - Amount met from State Innovation Fund,,,,,2236 02 902 JA 30000
+330,Inter-Account Transfers,"-1,42,84","-23,21",,"-3,08,33",2236 02 902 JA 33000
+01,Inter-Account Transfers,"-1,42,84","-23,21",,"-3,08,33",2236 02 902 JA 33001
+JA,Total JA,"-1,42,84","-23,21",,"-3,08,33",
+#,State's Expenditure Total,"-1,42,84","-23,21",,"-3,08,33",
+902,Total 902,"-1,42,84","-23,21",,"-3,08,33",
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+JN,Tamil Nadu Integrated Child Development Scheme Phase-III,,,,,2236 02 911 JN 30000
+377,Deduct-Recoveries,"-14,99",,,,2236 02 911 JN 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-14,99",,,,2236 02 911 JN 37702
+JN,Total JN,"-14,99",,,,
+JR,"ISO Certification, Grading and Accreditation of 128 Anganwadi Centres",,,,,2236 02 911 JR 30000
+377,Deduct-Recoveries,"-7,20",,,,2236 02 911 JR 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-7,20",,,,2236 02 911 JR 37702
+JR,Total JR,"-7,20",,,,
+KL,Puratchithalaivar MGR Nutritious Meal Programme for Children in the age group of 5 to 9,,,,,2236 02 911 KL 30000
+377,Deduct-Recoveries,"-21,06",,,,2236 02 911 KL 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-21,06",,,,2236 02 911 KL 37702
+KL,Total KL,"-21,06 ",,,,
+KP,Puratchithalaivar MGR Nutritious Meal Programme for Children of the age group of 5 to 9 in the Corporation and Municipal Schools,,,,,2236 02 911 KP 30000
+377,Deduct-Recoveries,"-1,56",,,,2236 02 911 KP 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-1,56",,,,2236 02 911 KP 37702
+KP,Total KP,"-1,56",,,,
+#,State's Expenditure Total,"-44,81",,,,
+#,Central Sector Schemes,,,,,
+SC,Integrated Child Development Services Scheme,,,,,2236 02 911 SC 30000
+377,Deduct-Recoveries,"-73,77",,,,2236 02 911 SC 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-73,77",,,,2236 02 911 SC 37702
+SC,Total SC,"-73,77",,,,
+SF,Integrated Child Development Services Scheme-Phase III,,,,,2236 02 911 SF 30000
+377,Deduct-Recoveries,"-2,06,58",,,,2236 02 911 SF 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-2,06,58",,,,2236 02 911 SF 37702
+SF,Total SF,"-2,06,58",,,,
+SI,Kishori Shakti Yojana,,,,,2236 02 911 SI 30000
+377,Deduct-Recoveries,"-3,24",,,,2236 02 911 SI 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-3,24",,,,2236 02 911 SI 37702
+SI,Total SI,"-3,24",,,,
+SJ,Rajiv Gandhi Scheme for Empowerment of Adolescent Girls - SABLA,,,,,2236 02 911 SJ 30000
+377,Deduct-Recoveries,"-1,02",,,,2236 02 911 SJ 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-1,02",,,,2236 02 911 SJ 37702
+SJ,Total SJ,"-1,02",,,,
+SK,Indra Gandhi Matritva Sahyog Yojana (IGMSY) Maternity Benefit Scheme,,,,,2236 02 911 SK 30000
+377,Deduct-Recoveries,"-1,09,56",,,,2236 02 911 SK 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-1,09,56",,,,2236 02 911 SK 37702
+SK,Total SK,"-1,09,56",,,,
+#,Central Sector Schemes Total,"-3,94,17",,,,
+#,Schemes shared between State and Centre,,,,,
+UE,Strengthening and Restructuring of Integrated Child Development Services Scheme,,,,,2236 02 911 UE 30000
+377,Deduct-Recoveries,-3,,,,2236 02 911 UE 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-3,,,,2236 02 911 UE 37702
+UE,Total UE,-3,,,,
+#,Schemes shared between State and Centre Total,-3,,,,
+911,Total 911,"-4,39,01",,,,
+02,Total 02 Charged,,2,2,2,
+02,Total 02 Voted,"21,03,18,91","20,77,16,11","24,29,01,01","24,96,06,50",
+2236,Total 2236 Charged,,2,2,2,
+2236,Total 2236 Voted,"21,03,18,91","20,77,16,11","24,29,01,01","24,96,06,50",
+4236,CAPITAL OUTLAY ON NUTRITION,,,,,
+80,General,,,,,
+800,Other Expenditure,,,,,
+#,Schemes shared between State and Centre,,,,,
+UB,Construction of Anganwadi Centres under restructed pattern of Integrated Child Development Service Scheme,,,,,4236 80 800 UB 40000
+416,Major Works,"37,18,65","20,00,00","50,06,00","37,94,00",4236 80 800 UB 41600
+01,Major Works,"37,18,65","20,00,00","50,06,00","37,94,00",4236 80 800 UB 41601
+UB,Total UB,"37,18,65","20,00,00","50,06,00","37,94,00",
+UC,Construction of Toilets to the Anganwadi Centres,,,,,4236 80 800 UC 40000
+416,Major Works,"1,74,24","1,17,12","1,53,84","1,53,84",4236 80 800 UC 41600
+01,Major Works,"1,74,24","1,17,12","1,53,84","1,53,84",4236 80 800 UC 41601
+UC,Total UC,"1,74,24","1,17,12","1,53,84","1,53,84",
+UD," Up-gradation, Strengthening, Repairs and Renovation of Anganwadi Centres under Anganwadi Services Scheme",,,,,4236 80 800 UD 40000
+416,Major Works,"8,00,00",,,,4236 80 800 UD 41600
+01,Major Works,"8,00,00",,,,4236 80 800 UD 41601
+UD,Total UD,"8,00,00",,,,
+#,Schemes shared between State and Centre Total,"46,92,89","21,17,12","51,59,84","39,47,84",
+800,Total 800,"46,92,89","21,17,12","51,59,84","39,47,84",
+80,Total 80,"46,92,89","21,17,12","51,59,84","39,47,84",
+4236,Total 4236,"46,92,89","21,17,12","51,59,84","39,47,84",

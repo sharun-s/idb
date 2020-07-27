@@ -1,0 +1,42 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2204-00,SPORTS AND YOUTH SERVICES,,,,,
+101,Physical Education,,,,,
+#,State's Expenditure,,,,,
+AB,Tamil Nadu Physical Education and Sports University at Chennai,,,,,2204 00 101 AB 30000
+309,Grants-in-Aid,"9,16,67","4,50,31","35,33,97","4,50,31",2204 00 101 AB 30900
+01,Grants for Current Expenditure,"4,16,67","4,50,29","4,50,29","4,50,29",2204 00 101 AB 30901
+02,Grants for Creation of Capital Assets,"5,00,00",1,"30,69,15",1,2204 00 101 AB 30902
+03,Grants for Specific Schemes,,1,"14,53",1,2204 00 101 AB 30903
+AB,Total AB,"9,16,67","4,50,31","35,33,97","4,50,31",
+JC,Establishing e-Library Centre in the Tamil Nadu Physical Education and Sports University Campus - Schemes under State Innovation Fund,,,,,2204 00 101 JC 30000
+309,Grants-in-Aid,"71,25",,"83,25",,2204 00 101 JC 30900
+02,Grants for Creation of Capital Assets,"71,25",,"83,25",,2204 00 101 JC 30902
+JC,Total JC,"71,25",,"83,25",,
+JD,Establishing Centre of Excellence in Sports Bio-Mechanics in Tamilnadu Physical Education and Sports University - Scheme under State Innovation Fund,,,,,2204 00 101 JD 30000
+309,Grants-in-Aid,,,"3,09,00",,2204 00 101 JD 30900
+02,Grants for Creation of Capital Assets,,,"3,09,00",,2204 00 101 JD 30902
+JD,Total JD,,"3,09,00",,,
+JE,"Establishment of Pedagogy Laboratory of Teaching, Testing and Training in Physical Education - Under State Innovation Fund",,,,,2204 00 101 JE 30000
+309,Grants-in-Aid,"19,40","1,25","1,25","1,40",2204 00 101 JE 30900
+02,Grants for Creation of Capital Assets,"19,40","1,25","1,25","1,40",2204 00 101 JE 30902
+JE,Total JE,"19,40","1,25","1,25","1,40",
+JF,Establishment of Traditional Kalari Payattu and Silambam Training Centre - Under State Innovation Fund,,,,,2204 00 101 JF 30000
+309,Grants-in-Aid,"1,31,50","14,00","14,00","14,50",2204 00 101 JF 30900
+02,Grants for Creation of Capital Assets,"1,31,50","14,00","14,00","14,50",2204 00 101 JF 30902
+JF,Total JF,"1,31,50","14,00","14,00","14,50",
+JG,Centre for Traditional and Adventure Sports  - Scheme  under State Innovation Fund,,,,,2204 00 101 JG 30000
+309,Grants-in-Aid,,,"2,20,60","60,60",2204 00 101 JG 30900
+02,Grants for Creation of Capital Assets,,,"2,20,60","60,60",2204 00 101 JG 30902
+JG,Total JG,,,"2,20,60","60,60",
+#,State's Expenditure Total,"11,38,82","4,65,56","41,62,07","5,26,81",
+101,Total 101,"11,38,82","4,65,56","41,62,07","5,26,81",
+902,Deduct - Amount met from State Innovation Fund,,,,,
+#,State's Expenditure,,,,,
+JC,Centre for Traditional and Adventure Sports,,,,,2204 00 902 JC 30000
+330,Inter-Account Transfers,"-2,22,15","-15,25","-6,28,10","-76,50",2204 00 902 JC 33000
+01,Inter-Account Transfers,"-2,22,15","-15,25","-6,28,10","-76,50",2204 00 902 JC 33001
+JC,Total JC,"-2,22,15","-15,25","-6,28,10","-76,50",
+#,State's Expenditure Total,"-2,22,15","-15,25","-6,28,10","-76,50",
+902,Total 902,"-2,22,15","-15,25","-6,28,10","-76,50",
+00,Total 00,"9,16,67","4,50,31","35,33,97","4,50,31",
+2204,Total 2204,"9,16,67","4,50,31","35,33,97","4,50,31",

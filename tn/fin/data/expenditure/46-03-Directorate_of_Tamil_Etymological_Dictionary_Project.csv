@@ -1,0 +1,68 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2202,GENERAL EDUCATION,,,,,
+05,Language Development,,,,,
+001,Direction and Administration,,,,,
+#,State's Expenditure,,,,,
+AB,Directorate of Tamil Etymological Dictionary Project,,,,,2202 05 001 AB 30000
+301,Salaries,"60,94","62,97","63,04","65,52",2202 05 001 AB 30100
+01,Pay,"53,04","54,82","54,82","57,01",2202 05 001 AB 30101
+02,Medical Allowance,43,40,47,47,2202 05 001 AB 30102
+03,Medical Charges,,1,1,1,2202 05 001 AB 30103
+04,Other Allowances,96,96,96,98,2202 05 001 AB 30104
+06,House Rent Allowance,"5,52","5,52","5,52","5,74",2202 05 001 AB 30106
+07,Travel Concession,,4,4,4,2202 05 001 AB 30107
+08,City Compensatory Allowance,99,"1,22","1,22","1,27",2202 05 001 AB 30108
+302,Wages,,1,1,1,2202 05 001 AB 30200
+01,Wages,,1,1,1,2202 05 001 AB 30201
+303,Dearness Allowance,"4,39","7,13","8,77","13,97",2202 05 001 AB 30300
+01,Dearness Allowance,"4,39","7,13","8,77","13,97",2202 05 001 AB 30301
+304,Travel Expenses,,1,"1,51","1,51",2202 05 001 AB 30400
+01,Tour Travelling Allowances,,1,"1,51","1,51",2202 05 001 AB 30401
+305,Office Expenses,"2,95","2,13","4,80","4,83",2202 05 001 AB 30500
+01,Telephone Charges,21,23,23,26,2202 05 001 AB 30501
+02,Other Contingencies,"1,45",83,"3,49","3,49",2202 05 001 AB 30502
+03,Electricity Charges,96,"1,07","1,07","1,07",2202 05 001 AB 30503
+05,Furniture,33,,1,1,2202 05 001 AB 30505
+306,"Rent, Rates and Taxes","3,30","3,64","3,64","3,64",2202 05 001 AB 30600
+01,Rent,"3,30","3,63","3,63","3,63",2202 05 001 AB 30601
+03,Water Charges,,1,1,1,2202 05 001 AB 30603
+319,Machinery and Equipments,96,1,1,1,2202 05 001 AB 31900
+01,Purchase,96,1,1,1,2202 05 001 AB 31901
+321,Motor Vehicles,5,5,5,5,2202 05 001 AB 32100
+02,Maintenance of Functional Vehicles,5,5,5,5,2202 05 001 AB 32102
+333,Payments for Professional and Special Services,"19,60","20,28","27,91","21,56",2202 05 001 AB 33300
+04,Contract Payment,"18,96","19,08","25,43","19,08",2202 05 001 AB 33304
+09,Other Payments,64,"1,20","2,48","2,48",2202 05 001 AB 33309
+334,Other Charges,,1,1,1,2202 05 001 AB 33400
+01,Other Items,,1,1,1,2202 05 001 AB 33401
+345,"Petroleum, Oil and Lubricant",60,"1,65",84,88,2202 05 001 AB 34500
+01,"Petroleum, Oil and Lubricant",60,"1,65",84,88,2202 05 001 AB 34501
+349,Festival Advances,-8,,,,2202 05 001 AB 34900
+01,Festival Advances-Debit,40,55,"1,10","1,10",2202 05 001 AB 34901
+02,Festival Advances-Credit,-48,-55,"-1,10","-1,10",2202 05 001 AB 34902
+351,Compensation Charged,,1,,,2202 05 001 AB 35100
+351,Compensation Voted,,,1,1,2202 05 001 AB 35100
+51,Claims under no fault liability -  principal charges Charged,,1,,,2202 05 001 AB 35151
+51,Claims under no fault liability -  principal charges Voted,,,1,1,2202 05 001 AB 35151
+359,Prizes and Awards,60,1,46,46,2202 05 001 AB 35900
+01,Prizes and Awards,60,1,46,46,2202 05 001 AB 35901
+360,T.A./D.A.to Non-Official Members,,,"1,12","1,12",2202 05 001 AB 36000
+01,T.A./D.A.to Non-Official Members,,,"1,12","1,12",2202 05 001 AB 36001
+368,"Cost of Books/Note Books/Slates, etc.","1,40",,,,2202 05 001 AB 36800
+01,"Cost of Books/Note Books/Slates, etc.","1,40",,,,2202 05 001 AB 36801
+371,Printing Charges,,1,"3,01","3,01",2202 05 001 AB 37100
+01,Printing Charges,,1,"3,01","3,01",2202 05 001 AB 37101
+373,Transport Charges,,1,1,1,2202 05 001 AB 37300
+01,Transport Charges,,1,1,1,2202 05 001 AB 37301
+376,Computer and Accessories,"1,60",22,27,27,2202 05 001 AB 37600
+01,Purchase,"1,39",1,1,1,2202 05 001 AB 37601
+02,Maintenance,6,6,6,6,2202 05 001 AB 37602
+03,Stationery,15,15,20,20,2202 05 001 AB 37603
+AB,Total AB Charged,,1,,,
+AB,Total AB Voted,"96,31","98,14","1,15,47","1,16,87",
+#,State's Expenditure Total Charged,,1,,,
+#,State's Expenditure Total Voted,"96,31","98,14","1,15,47","1,16,87",
+001,Total 001 Charged,,1,,,
+001,Total 001 Voted,"96,31","98,14","1,15,47","1,16,87",
+05,Total 05 Charged,,1,,,
+2202,Total 2202 Voted,"96,31","98,14","1,15,47","1,16,87",

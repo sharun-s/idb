@@ -1,0 +1,1267 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2059,PUBLIC WORKS,,,,,
+01,Office Buildings,,,,,
+053,Maintenance and Repairs,,,,,
+#,State's Expenditure,,,,,
+BC,Buildings - Social Security and Welfare (Administered by Chief Engineer (Buildings)),,,,,2059 01 053 BC 30000
+318,Maintenance,"84,08","85,00","85,00","89,25",2059 01 053 BC 31800 
+01,Periodical Maintenance,"84,08","85,00","85,00","89,25",2059 01 053 BC 31801
+BC,Total BC,"84,08","85,00","85,00","89,25",
+#,State's Expenditure Total,"84,08","85,00","85,00","89,25",
+053,Total 053,"84,08","85,00","85,00","89,25",
+01,Total 01,"84,08","85,00","85,00","89,25",
+2059,Total 2059,"84,08","85,00","85,00","89,25",
+2225,"WELFARE OF SCHEDULED CASTE, SCHEDULED TRIBES, OTHER BACKWARD CLASSES AND MINORITIES",,,,,
+03,Welfare of Backward classes,,,,,
+102,Economic Development,,,,,
+#,State's Expenditure,,,,,
+AB,Opening of Tailoring Centres,,,,,2225 03 102 AB 30000
+301,Salaries,"6,70","24,20","23,56","24,46",2225 03 102 AB 30100
+01,Pay,"6,28","22,63","22,63","23,53",2225 03 102 AB 30101
+02,Medical Allowance,4,21,21,21,2225 03 102 AB 30102
+04,Other Allowances,3,30,30,30,2225 03 102 AB 30104
+06,House Rent Allowance,29,94,30,30,2225 03 102 AB 30106
+08,City Compensatory Allowance,6,12,12,12,2225 03 102 AB 30108
+303,Dearness Allowance,55,"2,94","3,62","5,76",2225 03 102 AB 30300
+01,Dearness Allowance,55,"2,94","3,62","5,76",2225 03 102 AB 30301
+304,Travel Expenses,5,15,5,5,2225 03 102 AB 30400
+01,Tour Travelling Allowances,5,15,5,5,2225 03 102 AB 30401
+305,Office Expenses,,15,15,15,2225 03 102 AB 30500
+02,Other Contingencies,,15,15,15,2225 03 102 AB 30502
+306,"Rent, Rates and Taxes",6,41,1,1,2225 03 102 AB 30600
+01,Rent,6,41,1,1,2225 03 102 AB 30601
+312,Scholarships and Stipends,,25,1,1,2225 03 102 AB 31200
+09,Others,,25,1,1,2225 03 102 AB 31209
+324,Materials and Supplies,,15,,,2225 03 102 AB 32400
+01,Materials and Supplies,,15,,,2225 03 102 AB 32401
+349,Festival Advances,1,,,,2225 03 102 AB 34900
+01,Festival Advances-Debit,5,35,10,60,2225 03 102 AB 34901
+02,Festival Advances-Credit,-4,-35,-10,-60,2225 03 102 AB 34902
+AB,Total AB,"7,37","28,25","27,40","30,44",
+#,State's Expenditure Total,"7,37","28,25","27,40","30,44",
+102,Total 102,"7,37","28,25","27,40","30,44",
+03,Total 03,"7,37","28,25","27,40","30,44",
+80,General,,,,,
+101,Welfare of Denotified and other nomadic tribes,,,,,
+#,State's Expenditure,,,,,
+AB,Cottage Industries for Denotified Communities,,,,,2225 80 101 AB 30000
+301,Salaries,"6,41","5,91","5,84","6,06",2225 80 101 AB 30100
+01,Pay,"6,09","5,52","5,52","5,74",2225 80 101 AB 30101
+02,Medical Allowance,4,6,4,4,2225 80 101 AB 30102
+04,Other Allowances,3,8,8,8,2225 80 101 AB 30104
+06,House Rent Allowance,25,25,20,20,2225 80 101 AB 30106
+303,Dearness Allowance,53,72,88,"1,41",2225 80 101 AB 30300
+01,Dearness Allowance,53,72,88,"1,41",2225 80 101 AB 30301
+304,Travel Expenses,,10,5,5,2225 80 101 AB 30400
+01,Tour Travelling Allowances,,10,5,5,2225 80 101 AB 30401
+305,Office Expenses,,6,6,6,2225 80 101 AB 30500
+02,Other Contingencies,,6,6,6,2225 80 101 AB 30502
+306,"Rent, Rates and Taxes",,16,1,1,2225 80 101 AB 30600
+01,Rent,,16,1,1,2225 80 101 AB 30601
+312,Scholarships and Stipends,,15,1,1,2225 80 101 AB 31200
+09,Others,,15,1,1,2225 80 101 AB 31209
+324,Materials and Supplies,,5,1,1,2225 80 101 AB 32400
+01,Materials and Supplies,,5,1,1,2225 80 101 AB 32401
+349,Festival Advances,1,,,,2225 80 101 AB 34900
+01,Festival Advances-Debit,5,24,20,20,2225 80 101 AB 34901
+02,Festival Advances-Credit,-4,-24,-20,-20,2225 80 101 AB 34902
+AB,Total AB,"6,95","7,15","6,86","7,61",
+#,State's Expenditure Total,"6,95","7,15","6,86","7,61",
+101,Total 101,"6,95","7,15","6,86","7,61",
+80,Total 80,"6,95","7,15","6,86","7,61",
+2225,Total 2225,"14,32","35,40","34,26","38,05",
+2235,SOCIAL SECURITY AND WELFARE,,,,,
+02,Social Welfare,,,,,
+001,Direction and Administration,,,,,
+#,State's Expenditure,,,,,
+AA,Directorate of Social Welfare,,,,,2235 02 001 AA 30000
+301,Salaries,"4,78,56","5,35,55","5,35,52","5,54,92",2235 02 001 AA 30100
+01,Pay,"4,16,60","4,62,75","4,62,75","4,81,26",2235 02 001 AA 30101
+02,Medical Allowance,"2,45","3,00","3,96","3,96",2235 02 001 AA 30102
+03,Medical Charges,72,"1,45","1,45","1,45",2235 02 001 AA 30103
+04,Other Allowances,"4,44","7,00","7,00","7,00",2235 02 001 AA 30104
+06,House Rent Allowance,"46,89","48,30","48,30","48,30",2235 02 001 AA 30106
+07,Travel Concession,,45,56,45,2235 02 001 AA 30107
+08,City Compensatory Allowance,"7,46","9,60","10,50","10,50",2235 02 001 AA 30108
+09,Honorarium,,"3,00","1,00","2,00",2235 02 001 AA 30109
+303,Dearness Allowance,"54,62","60,16","74,04","1,17,91",2235 02 001 AA 30300
+01,Dearness Allowance,"54,62","60,16","74,04","1,17,91",2235 02 001 AA 30301
+304,Travel Expenses,"7,92","14,16","12,04","13,90",2235 02 001 AA 30400
+01,Tour Travelling Allowances,"6,64","12,10","10,24","12,10",2235 02 001 AA 30401
+02,Transfer Travelling Allowances,"1,28","2,06","1,80","1,80",2235 02 001 AA 30402
+305,Office Expenses,"30,17","39,43","43,43","38,43",2235 02 001 AA 30500
+01,Telephone Charges,"2,24","4,00","3,00","3,00",2235 02 001 AA 30501
+02,Other Contingencies,"14,32","16,38","16,38","16,38",2235 02 001 AA 30502
+03,Electricity Charges,"11,61","15,54","20,54","15,54",2235 02 001 AA 30503
+04,Service Postage & Postal Expenditure,"2,00","3,50","3,50","3,50",2235 02 001 AA 30504
+05,Furniture,,1,1,1,2235 02 001 AA 30505
+306,"Rent, Rates and Taxes","34,44","35,00","69,00","50,00",2235 02 001 AA 30600
+01,Rent,"34,44","35,00","69,00","50,00",2235 02 001 AA 30601
+308,Advertising and Publicity,"13,17","14,10","18,20","18,20",2235 02 001 AA 30800
+01,Advertisement Charges,"11,07","12,00","12,60","12,60",2235 02 001 AA 30801
+02,Exhibition,"2,10","2,10","5,60","5,60",2235 02 001 AA 30802
+319,Machinery and Equipments,,1,1,1,2235 02 001 AA 31900
+01,Purchase,,1,1,1,2235 02 001 AA 31901
+321,Motor Vehicles,"6,30",31,"7,21",61,2235 02 001 AA 32100
+01,Purchase,"6,00",1,"6,01",1,2235 02 001 AA 32101
+02,Maintenance of Functional Vehicles,30,30,"1,20",60,2235 02 001 AA 32102
+333,Payments for Professional and Special Services,"17,62","10,49","16,49","17,51",2235 02 001 AA 33300
+01,Pleaders Fees,"8,60","1,49","1,49","1,51",2235 02 001 AA 33301
+04,Contract Payment,"9,02","9,00","15,00","16,00",2235 02 001 AA 33304
+345,"Petroleum, Oil and Lubricant","3,43","4,62","5,07","5,00",2235 02 001 AA 34500
+01,"Petroleum, Oil and Lubricant","3,43","4,62","5,07","5,00",2235 02 001 AA 34501
+349,Festival Advances,-6,,,,2235 02 001 AA 34900
+01,Festival Advances-Debit,"2,35","4,55","9,00","9,40",2235 02 001 AA 34901
+02,Festival Advances-Credit,"-2,41","-4,55","-9,00","-9,40",2235 02 001 AA 34902
+351,Compensation Charged,,1,1,1,2235 02 001 AA 35100
+51,Claims under no fault liability -  principal charges Charged,,1,1,1,2235 02 001 AA 35151
+359,Prizes and Awards,"3,94","2,25","5,42","4,50",2235 02 001 AA 35900
+01,Prizes and Awards,"3,94","2,25","5,42","4,50",2235 02 001 AA 35901
+364,Lands,,1,1,1,2235 02 001 AA 36400
+01,Lands - Voted,,1,1,1,2235 02 001 AA 36401
+376,Computer and Accessories,"7,37","1,62","12,50","4,11",2235 02 001 AA 37600
+01,Purchase,,,"9,00",1,2235 02 001 AA 37601
+02,Maintenance,68,"1,10","1,50","2,00",2235 02 001 AA 37602
+03,Stationery,"6,69",52,"2,00","2,10",2235 02 001 AA 37603
+AA,Total AA Charged,,1,1,1,
+AA,Total AA Voted,"6,57,48","7,17,71","7,98,94","8,25,11",
+AD,District Establishment - Social Welfare,,,,,2235 02 001 AD 30000
+301,Salaries,"9,94,84","9,18,85","9,04,22","9,37,01",2235 02 001 AD 30100
+01,Pay,"9,18,94","8,19,71","8,19,71","8,52,50",2235 02 001 AD 30101
+02,Medical Allowance,"7,33","9,87","8,86","8,86",2235 02 001 AD 30102
+03,Medical Charges,24,60,60,60,2235 02 001 AD 30103
+04,Other Allowances,"10,76","18,78","18,78","18,78",2235 02 001 AD 30104
+06,House Rent Allowance,"53,29","63,87","50,25","50,25",2235 02 001 AD 30106
+07,Travel Concession,27,"1,42","1,42","1,42",2235 02 001 AD 30107
+08,City Compensatory Allowance,"4,01","4,60","4,60","4,60",2235 02 001 AD 30108
+302,Wages,78,"1,21","1,21","1,21",2235 02 001 AD 30200
+01,Wages,78,"1,21","1,21","1,21",2235 02 001 AD 30201
+303,Dearness Allowance,"1,29,68","1,06,58","1,31,15","2,08,86",2235 02 001 AD 30300
+01,Dearness Allowance,"1,29,68","1,06,58","1,31,15","2,08,86",2235 02 001 AD 30301
+304,Travel Expenses,"14,70","21,94","20,40","20,50",2235 02 001 AD 30400
+01,Tour Travelling Allowances,"14,52","21,50","20,00","20,00",2235 02 001 AD 30401
+02,Transfer Travelling Allowances,18,44,40,50,2235 02 001 AD 30402
+305,Office Expenses,"53,54","53,94","61,49","61,79",2235 02 001 AD 30500
+01,Telephone Charges,"3,49","7,00","7,00","7,00",2235 02 001 AD 30501
+02,Other Contingencies,"29,59","30,34","30,34","30,34",2235 02 001 AD 30502
+03,Electricity Charges,"16,86","12,00","20,00","20,00",2235 02 001 AD 30503
+04,Service Postage & Postal Expenditure,"3,60","4,60","4,15","4,45",2235 02 001 AD 30504
+306,"Rent, Rates and Taxes","10,01","14,87","14,60","24,36",2235 02 001 AD 30600
+01,Rent,"9,76","14,00","14,00","23,76",2235 02 001 AD 30601
+02,Property tax,25,87,60,60,2235 02 001 AD 30602
+308,Advertising and Publicity,"7,30","8,80","8,00","8,00",2235 02 001 AD 30800
+01,Advertisement Charges,30,90,30,30,2235 02 001 AD 30801
+02,Exhibition,"7,00","7,90","7,70","7,70",2235 02 001 AD 30802
+321,Motor Vehicles,"1,59","2,11","2,06","1,70",2235 02 001 AD 32100 
+02,Maintenance of Functional Vehicles,"1,59","2,11","2,06","1,70",2235 02 001 AD 32102
+333,Payments for Professional and Special Services,"95,92","90,50","2,93,41","1,92,85",2235 02 001 AD 33300
+01,Pleaders Fees,35,50,85,85,2235 02 001 AD 33301
+04,Contract Payment,"95,57","90,00","2,92,56","1,92,00",2235 02 001 AD 33304
+345,"Petroleum, Oil and Lubricant","14,16","18,55","18,50","18,50",2235 02 001 AD 34500
+01,"Petroleum, Oil and Lubricant","14,16","18,55","18,50","18,50",2235 02 001 AD 34501
+349,Festival Advances,-52,,,,2235 02 001 AD 34900
+01,Festival Advances-Debit,"6,10","12,10","27,80","27,80",2235 02 001 AD 34901
+02,Festival Advances-Credit,"-6,62","-12,10","-27,80","-27,80",2235 02 001 AD 34902
+359,Prizes and Awards,,41,41,41,2235 02 001 AD 35900
+01,Prizes and Awards,,41,41,41,2235 02 001 AD 35901
+376,Computer and Accessories,"3,19","3,45","3,45","3,65",2235 02 001 AD 37600
+02,Maintenance,"1,80","1,90","1,90","2,10",2235 02 001 AD 37602
+03,Stationery,"1,39","1,55","1,55","1,55",2235 02 001 AD 37603
+AD,Total AD,"13,25,19","12,41,21","14,58,90","14,78,84",
+AE,Social Welfare Board,,,,,2235 02 001 AE 30000
+301,Salaries,"1,02,96","1,52,19","1,49,88","1,55,21",2235 02 001 AE 30100
+01,Pay,"89,49","1,33,31","1,33,31","1,38,64",2235 02 001 AE 30101
+02,Medical Allowance,88,"1,17","1,36","1,36",2235 02 001 AE 30102
+03,Medical Charges,,56,56,56,2235 02 001 AE 30103
+04,Other Allowances,69,"2,00","2,00","2,00",2235 02 001 AE 30104
+06,House Rent Allowance,"9,95","11,50","10,00","10,00",2235 02 001 AE 30106
+07,Travel Concession,13,15,15,15,2235 02 001 AE 30107
+08,City Compensatory Allowance,"1,82","3,50","2,50","2,50",2235 02 001 AE 30108
+303,Dearness Allowance,"11,22","17,34","21,33","33,97",2235 02 001 AE 30300
+01,Dearness Allowance,"11,22","17,34","21,33","33,97",2235 02 001 AE 30301
+304,Travel Expenses,,70,40,60,2235 02 001 AE 30400
+01,Tour Travelling Allowances,,20,20,20,2235 02 001 AE 30401
+02,Transfer Travelling Allowances,,50,20,40,2235 02 001 AE 30402
+305,Office Expenses,,13,13,13,2235 02 001 AE 30500
+01,Telephone Charges,,13,13,13,2235 02 001 AE 30501
+306,"Rent, Rates and Taxes","1,24","4,15",1,1,2235 02 001 AE 30600
+01,Rent,"1,24","4,15",1,1,2235 02 001 AE 30601
+318,Maintenance,"19,15",,,,2235 02 001 AE 31800
+02,Special Maintenance,"19,15",,,,2235 02 001 AE 31802
+333,Payments for Professional and Special Services,,1,1,1,2235 02 001 AE 33300
+01,Pleaders Fees,,1,1,1,2235 02 001 AE 33301
+349,Festival Advances,-20,,,,2235 02 001 AE 34900
+01,Festival Advances-Debit,70,"1,69","3,80","3,80",2235 02 001 AE 34901
+02,Festival Advances-Credit,-90,"-1,69","-3,80","-3,80",2235 02 001 AE 34902
+360,T.A./D.A.to Non-Official Members,,40,40,40,2235 02 001 AE 36000
+01,T.A./D.A.to Non-Official Members,,40,40,40,2235 02 001 AE 36001
+AE,Total AE,"1,34,37","1,74,92","1,72,16","1,90,33",
+#,State's Expenditure Total Charged,,1,1,1,
+#,State's Expenditure Total Voted,"21,17,04","21,33,84","24,30,00","24,94,28",
+001,Total 001 Charged,,1,1,1,
+001,Total 001 Voted,"21,17,04","21,33,84","24,30,00","24,94,28",
+102,Child welfare,,,,,
+#,State's Expenditure,,,,,
+BK,Grants to Social Welfare Board for assisting Social Welfare Institutions for Works in Rural Areas,,,,,2235 02 102 BK 30000
+309,Grants-in-Aid,"10,00","10,00","10,00","10,00",2235 02 102 BK 30900
+03,Grants for Specific Schemes,"10,00","10,00","10,00","10,00",2235 02 102 BK 30903
+BK,Total BK,"10,00","10,00","10,00","10,00",
+BO,Starting of Creches for children of working and ailing mothers,,,,,2235 02 102 BO 30000
+309,Grants-in-Aid,"1,02","3,82","3,82","3,82",2235 02 102 BO 30900
+03,Grants for Specific Schemes,"1,02","3,82","3,82","3,82",2235 02 102 BO 30903
+BO,Total BO,"1,02","3,82","3,82","3,82",
+BP,Setting up of a Reception Centre for adopting newly born female babies,,,,,2235 02 102 BP 30000
+301,Salaries,91,"1,59","1,59","1,65",2235 02 102 BP 30100
+01,Pay,90,"1,51","1,51","1,57",2235 02 102 BP 30101
+04,Other Allowances,1,8,8,8,2235 02 102 BP 30104
+305,Office Expenses,9,50,50,50,2235 02 102 BP 30500
+01,Telephone Charges,2,5,5,5,2235 02 102 BP 30501
+02,Other Contingencies,7,20,20,20,2235 02 102 BP 30502
+03,Electricity Charges,,25,25,25,2235 02 102 BP 30503
+309,Grants-in-Aid,"8,83","41,32","41,32","41,32",2235 02 102 BP 30900
+03,Grants for Specific Schemes,"8,83","41,32","41,32","41,32",2235 02 102 BP 30903
+321,Motor Vehicles,,2,1,1,2235 02 102 BP 32100
+02,Maintenance of Functional Vehicles,,2,1,1,2235 02 102 BP 32102
+324,Materials and Supplies,,4,10,10,2235 02 102 BP 32400
+01,Materials and Supplies,,4,10,10,2235 02 102 BP 32401
+345,"Petroleum, Oil and Lubricant",,42,1,1,2235 02 102 BP 34500
+01,"Petroleum, Oil and Lubricant",,42,1,1,2235 02 102 BP 34501
+346,"Clothing, Tentage and Stores",5,13,13,13,2235 02 102 BP 34600
+01,"Clothing, Tentage and Stores",5,13,13,13,2235 02 102 BP 34601
+366,Medicine,,7,10,10,2235 02 102 BP 36600
+01,Medicine,,7,10,10,2235 02 102 BP 36601
+367,Feeding/Dietary Charges,7,30,30,30,2235 02 102 BP 36700
+09,Others,7,30,30,30,2235 02 102 BP 36709
+BP,Total BP,"9,95","44,39","44,06","44,12",
+JX,Assistance to Scheme for Girl Child Welfare,,,,,2235 02 102 JX 30000
+305,Office Expenses,77,"1,00","1,00","1,00",2235 02 102 JX 30500
+02,Other Contingencies,77,"1,00","1,00","1,00",2235 02 102 JX 30502
+309,Grants-in-Aid,"72,09,80","1,10,69,20","95,69,20","1,10,69,20",2235 02 102 JX 30900
+03,Grants for Specific Schemes,"72,09,80","1,10,69,20","95,69,20","1,10,69,20",2235 02 102 JX 30903
+JX,Total JX,"72,10,57","1,10,70,20","95,70,20","1,10,70,20",
+KC,Scheme for promotion of awareness in children adoption,,,,,2235 02 102 KC 30000
+309,Grants-in-Aid,"39,86","37,00","37,00","37,00",2235 02 102 KC 30900
+03,Grants for Specific Schemes,"39,86","37,00","37,00","37,00",2235 02 102 KC 30903
+KC,Total KC,"39,86","37,00","37,00","37,00",
+#,State's Expenditure Total,"72,71,40","1,11,65,41","96,65,08","1,11,65,14",
+102,Total 102,"72,71,40","1,11,65,41","96,65,08","1,11,65,14",
+103,Women's Welfare,,,,,
+#,State's Expenditure,,,,,
+AA,Running of Hostels for working women,,,,,2235 02 103 AA 30000
+301,Salaries,"84,70","38,64","40,31","41,70",2235 02 103 AA 30100
+01,Pay,"73,31","31,92","31,92","33,20",2235 02 103 AA 30101
+02,Medical Allowance,90,62,"2,40","2,40",2235 02 103 AA 30102
+03,Medical Charges,,24,24,24,2235 02 103 AA 30103
+04,Other Allowances,"2,61",94,94,94,2235 02 103 AA 30104
+06,House Rent Allowance,"7,44","4,26","4,26","4,26",2235 02 103 AA 30106
+07,Travel Concession,,12,1,12,2235 02 103 AA 30107
+08,City Compensatory Allowance,44,54,54,54,2235 02 103 AA 30108
+302,Wages,"15,08","28,18","39,33","39,33",2235 02 103 AA 30200
+01,Wages,"15,08","28,18","39,33","39,33",2235 02 103 AA 30201
+303,Dearness Allowance,"9,80","4,15","5,11","8,13",2235 02 103 AA 30300
+01,Dearness Allowance,"9,80","4,15","5,11","8,13",2235 02 103 AA 30301
+304,Travel Expenses,5,30,20,30,2235 02 103 AA 30400
+01,Tour Travelling Allowances,5,30,20,30,2235 02 103 AA 30401
+305,Office Expenses,"2,73","8,02","7,52","7,52",2235 02 103 AA 30500
+02,Other Contingencies,"1,87","5,50","5,00","5,00",2235 02 103 AA 30502
+03,Electricity Charges,86,"2,52","2,52","2,52",2235 02 103 AA 30503
+306,"Rent, Rates and Taxes","16,18","30,00","1,04,54","73,12",2235 02 103 AA 30600
+01,Rent,"16,18","30,00","40,00","60,00",2235 02 103 AA 30601
+04,Lease for Land,,,"64,54","13,12",2235 02 103 AA 30604
+308,Advertising and Publicity,11,1,1,1,2235 02 103 AA 30800
+09,Others,11,1,1,1,2235 02 103 AA 30809
+319,Machinery and Equipments,,1,1,1,2235 02 103 AA 31900
+01,Purchase,,1,1,1,2235 02 103 AA 31901
+324,Materials and Supplies,,1,1,1,2235 02 103 AA 32400
+01,Materials and Supplies,,1,1,1,2235 02 103 AA 32401
+333,Payments for Professional and Special Services,"8,45","15,06","20,94","18,00",2235 02 103 AA 33300
+04,Contract Payment,"8,45","15,06","20,94","18,00",2235 02 103 AA 33304
+349,Festival Advances,21,,,,2235 02 103 AA 34900
+01,Festival Advances-Debit,75,"1,46","2,00","10,00",2235 02 103 AA 34901
+02,Festival Advances-Credit,-54,"-1,46","-2,00","-10,00",2235 02 103 AA 34902
+AA,Total AA,"1,37,31","1,24,38","2,17,98","1,88,13",
+AE,Work Centres and Production Units,,,,,2235 02 103 AE 30000
+301,Salaries,"2,44,23","2,39,12","2,35,22","2,43,69",2235 02 103 AE 30100
+01,Pay,"2,22,62","2,12,27","2,12,27","2,20,76",2235 02 103 AE 30101
+02,Medical Allowance,"1,43","1,94","2,20","2,20",2235 02 103 AE 30102
+03,Medical Charges,,56,56,54,2235 02 103 AE 30103
+04,Other Allowances,"2,15","2,50","2,00","2,00",2235 02 103 AE 30104
+06,House Rent Allowance,"16,20","18,12","16,00","16,00",2235 02 103 AE 30106
+07,Travel Concession,7,19,19,19,2235 02 103 AE 30107
+08,City Compensatory Allowance,"1,76","3,54","2,00","2,00",2235 02 103 AE 30108
+302,Wages,,60,20,20,2235 02 103 AE 30200
+01,Wages,,60,20,20,2235 02 103 AE 30201
+303,Dearness Allowance,"31,96","27,60","33,96","54,09",2235 02 103 AE 30300
+01,Dearness Allowance,"31,96","27,60","33,96","54,09",2235 02 103 AE 30301
+304,Travel Expenses,38,"4,50","6,80","4,50",2235 02 103 AE 30400
+01,Tour Travelling Allowances,40,"4,20","6,50","4,20",2235 02 103 AE 30401
+02,Transfer Travelling Allowances,-2,30,30,30,2235 02 103 AE 30402
+305,Office Expenses,36,60,60,60,2235 02 103 AE 30500
+02,Other Contingencies,36,60,60,60,2235 02 103 AE 30502
+306,"Rent, Rates and Taxes",,"1,00",1,1,2235 02 103 AE 30600
+01,Rent,,"1,00",1,1,2235 02 103 AE 30601
+312,Scholarships and Stipends,,"1,35",1,1,2235 02 103 AE 31200
+09,Others,,"1,35",1,1,2235 02 103 AE 31209
+324,Materials and Supplies,,40,1,1,2235 02 103 AE 32400
+01,Materials and Supplies,,40,1,1,2235 02 103 AE 32401
+349,Festival Advances,12,,,,2235 02 103 AE 34900
+01,Festival Advances-Debit,"1,25","2,40","5,60","5,60",2235 02 103 AE 34901
+02,Festival Advances-Credit,"-1,13","-2,40","-5,60","-5,60",2235 02 103 AE 34902
+359,Prizes and Awards,,2,2,2,2235 02 103 AE 35900
+01,Prizes and Awards,,2,2,2,2235 02 103 AE 35901
+AE,Total AE,"2,77,05","2,75,19","2,76,83","3,03,13",
+AN,Service Homes in Districts,,,,,2235 02 103 AN 30000
+301,Salaries,"3,92,89","5,72,47","3,98,26","4,12,40",2235 02 103 AN 30100
+01,Pay,"3,58,67","4,53,49","3,53,49","3,67,63",2235 02 103 AN 30101
+02,Medical Allowance,"2,44","79,78","7,00","7,00",2235 02 103 AN 30102
+03,Medical Charges,,36,36,36,2235 02 103 AN 30103
+04,Other Allowances,"2,92","4,06","4,06","4,06",2235 02 103 AN 30104
+06,House Rent Allowance,"25,11","29,19","28,00","28,00",2235 02 103 AN 30106
+07,Travel Concession,6,34,34,34,2235 02 103 AN 30107
+08,City Compensatory Allowance,"3,69","5,20","5,00","5,00",2235 02 103 AN 30108
+09,Honorarium,,5,1,1,2235 02 103 AN 30109
+303,Dearness Allowance,"42,30","58,96","56,56","90,07",2235 02 103 AN 30300
+01,Dearness Allowance,"42,30","58,96","56,56","90,07",2235 02 103 AN 30301
+304,Travel Expenses,59,"1,16","1,06","1,16",2235 02 103 AN 30400
+01,Tour Travelling Allowances,49,94,84,94,2235 02 103 AN 30401
+02,Transfer Travelling Allowances,10,22,22,22,2235 02 103 AN 30402
+305,Office Expenses,"7,58","11,79","11,60","11,60",2235 02 103 AN 30500 
+01,Telephone Charges,15,61,42,42,2235 02 103 AN 30501
+02,Other Contingencies,"1,19","2,27","2,27","2,27",2235 02 103 AN 30502
+03,Electricity Charges,"6,14","8,64","8,64","8,64",2235 02 103 AN 30503
+04,Service Postage & Postal Expenditure,10,27,27,27,2235 02 103 AN 30504
+306,"Rent, Rates and Taxes","7,23","7,77","13,66","21,66",2235 02 103 AN 30600
+01,Rent,"5,80","6,11","12,00","20,00",2235 02 103 AN 30601
+02,Property tax,"1,38","1,52","1,52","1,52",2235 02 103 AN 30602
+03,Water Charges,5,14,14,14,2235 02 103 AN 30603
+312,Scholarships and Stipends,15,"1,17",15,15,2235 02 103 AN 31200
+09,Others,15,"1,17",15,15,2235 02 103 AN 31209
+321,Motor Vehicles,,,43,41,2235 02 103 AN 32100
+02,Maintenance of Functional Vehicles,,,43,41,2235 02 103 AN 32102
+324,Materials and Supplies,73,73,79,79,2235 02 103 AN 32400
+01,Materials and Supplies,73,73,79,79,2235 02 103 AN 32401
+333,Payments for Professional and Special Services,"5,85","8,65","21,00","8,65",2235 02 103 AN 33300
+04,Contract Payment,"5,85","8,65","21,00","8,65",2235 02 103 AN 33304
+345,"Petroleum, Oil and Lubricant",63,"1,32","1,20","1,20",2235 02 103 AN 34500
+01,"Petroleum, Oil and Lubricant",63,"1,32","1,20","1,20",2235 02 103 AN 34501
+346,"Clothing, Tentage and Stores","5,45","8,65","8,60","8,60",2235 02 103 AN 34600
+01,"Clothing, Tentage and Stores","5,45","8,65","8,60","8,60",2235 02 103 AN 34601
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,"2,50","4,45","8,90","10,00",2235 02 103 AN 34901
+02,Festival Advances-Credit,"-2,50","-4,45","-8,90","-10,00",2235 02 103 AN 34902
+354,Expenses on Conducted Tours,"2,18","2,62","2,62","2,62",2235 02 103 AN 35400
+01,Expenses on Conducted Tours,"2,18","2,62","2,62","2,62",2235 02 103 AN 35401
+359,Prizes and Awards,,"2,60","2,60","2,60",2235 02 103 AN 35900
+01,Prizes and Awards,,"2,60","2,60","2,60",2235 02 103 AN 35901
+366,Medicine,13,13,13,13,2235 02 103 AN 36600
+01,Medicine,13,13,13,13,2235 02 103 AN 36601
+367,Feeding/Dietary Charges,"26,40","53,21","53,21","54,00",2235 02 103 AN 36700
+09,Others,"26,40","53,21","53,21","54,00",2235 02 103 AN 36709
+368,"Cost of Books/Note Books/Slates, etc.","2,05","3,25","3,25","3,25",2235 02 103 AN 36800
+01,"Cost of Books/Note Books/Slates, etc.","2,05","3,25","3,25","3,25",2235 02 103 AN 36801
+372,Training,"6,00","7,44","7,44","6,00",2235 02 103 AN 37200
+01,Training,"6,00","7,44","7,44","6,00",2235 02 103 AN 37201
+376,Computer and Accessories,31,31,60,60,2235 02 103 AN 37600
+02,Maintenance,30,30,30,30,2235 02 103 AN 37602
+03,Stationery,1,1,30,30,2235 02 103 AN 37603
+AN,Total AN,"5,00,47","7,42,23","5,83,16","6,25,89",
+AQ,Assistance to Voluntary Institutions,,,,,2235 02 103 AQ 30000
+309,Grants-in-Aid,"2,85","2,50","5,94","5,94",2235 02 103 AQ 30900
+09,Others,"2,85","2,50","5,94","5,94",2235 02 103 AQ 30909
+349,Festival Advances,-2,,,,2235 02 103 AQ 34900
+01,Festival Advances-Debit,20,"1,66",80,80,2235 02 103 AQ 34901
+02,Festival Advances-Credit,-22,"-1,66",-80,-80,2235 02 103 AQ 34902
+379,Salary Grants,"44,45","47,40","48,53","51,93",2235 02 103 AQ 37900
+01,Pay,"38,94","39,94","39,94","39,94",2235 02 103 AQ 37901
+02,Medical Allowance,20,20,22,22,2235 02 103 AQ 37902
+04,Other Allowances,6,15,15,15,2235 02 103 AQ 37904
+06,House Rent Allowances,"1,95","1,82","1,82","1,82",2235 02 103 AQ 37906
+08,City Compensatory Allowance,4,10,1,1,2235 02 103 AQ 37908
+09,Dearness Allowance,"3,26","5,19","6,39","9,79",2235 02 103 AQ 37909
+AQ,Total AQ,"47,28","49,90","54,47","57,87",
+AV,Guidance Bureau for women,,,,,2235 02 103 AV 30000
+301,Salaries,"1,36,65","1,90,83","1,46,40","1,51,68",2235 02 103 AV 30100
+01,Pay,"1,25,02","1,72,04","1,32,04","1,37,32",2235 02 103 AV 30101
+02,Medical Allowance,"1,25","1,50","1,50","1,50",2235 02 103 AV 30102
+03,Medical Charges,,30,30,30,2235 02 103 AV 30103
+04,Other Allowances,"1,56","3,08","3,08","3,08",2235 02 103 AV 30104
+06,House Rent Allowance,"7,57","12,83","8,00","8,00",2235 02 103 AV 30106
+07,Travel Concession,,18,18,18,2235 02 103 AV 30107
+08,City Compensatory Allowance,"1,25",90,"1,30","1,30",2235 02 103 AV 30108
+303,Dearness Allowance,"19,85","22,37","21,13","33,64",2235 02 103 AV 30300
+01,Dearness Allowance,"19,85","22,37","21,13","33,64",2235 02 103 AV 30301
+304,Travel Expenses,85,"3,16","2,16","2,16",2235 02 103 AV 30400
+01,Tour Travelling Allowances,85,"3,00","2,00","2,00",2235 02 103 AV 30401
+02,Transfer Travelling Allowances,,16,16,16,2235 02 103 AV 30402
+305,Office Expenses,39,70,30,30,2235 02 103 AV 30500
+02,Other Contingencies,39,70,30,30,2235 02 103 AV 30502
+349,Festival Advances,-26,,,,2235 02 103 AV 34900
+01,Festival Advances-Debit,80,"2,94","2,90","3,00",2235 02 103 AV 34901
+02,Festival Advances-Credit,"-1,06","-2,94","-2,90","-3,00",2235 02 103 AV 34902
+AV,Total AV,"1,57,48","2,17,06","1,69,99","1,87,78",
+BA,State Level Commission for Women,,,,,2235 02 103 BA 30000
+301,Salaries,"18,71","22,11","35,28","35,60",2235 02 103 BA 30100
+01,Pay,"13,99","16,49","16,49","17,15",2235 02 103 BA 30101
+02,Medical Allowance,8,18,18,18,2235 02 103 BA 30102
+04,Other Allowances,6,20,20,20,2235 02 103 BA 30104
+06,House Rent Allowance,"1,47","1,79","1,70","1,70",2235 02 103 BA 30106
+08,City Compensatory Allowance,24,20,37,37,2235 02 103 BA 30108
+09,Honorarium,"2,87","3,25","16,34","16,00",2235 02 103 BA 30109
+303,Dearness Allowance,"1,17","2,15","2,64","4,20",2235 02 103 BA 30300
+01,Dearness Allowance,"1,17","2,15","2,64","4,20",2235 02 103 BA 30301
+304,Travel Expenses,,10,10,10,2235 02 103 BA 30400
+01,Tour Travelling Allowances,,10,10,10,2235 02 103 BA 30401
+305,Office Expenses,"2,70","3,43","4,91","4,91",2235 02 103 BA 30500
+01,Telephone Charges,47,50,"1,08","1,08",2235 02 103 BA 30501
+02,Other Contingencies,"1,49","1,50","2,40","2,40",2235 02 103 BA 30502
+03,Electricity Charges,31,"1,00","1,00","1,00",2235 02 103 BA 30503
+04,Service Postage & Postal Expenditure,43,43,43,43,2235 02 103 BA 30504
+306,"Rent, Rates and Taxes",,,"1,04,18",1,2235 02 103 BA 30600
+01,Rent,,,"1,04,18",1,2235 02 103 BA 30601
+321,Motor Vehicles,"1,63",30,79,79,2235 02 103 BA 32100
+02,Maintenance of Functional Vehicles,,20,20,20,2235 02 103 BA 32102
+03,Hire Charges,"1,63",10,59,59,2235 02 103 BA 32103
+333,Payments for Professional and Special Services,"1,96","3,28","3,28","3,50",2235 02 103 BA 33300
+04,Contract Payment,"1,96","3,28","3,28","3,50",2235 02 103 BA 33304
+345,"Petroleum, Oil and Lubricant",87,"1,20","1,20","1,20",2235 02 103 BA 34500
+01,"Petroleum, Oil and Lubricant",87,"1,20","1,20","1,20",2235 02 103 BA 34501
+349,Festival Advances,-2,,,,2235 02 103 BA 34900
+01,Festival Advances-Debit,5,24,70,70,2235 02 103 BA 34901
+02,Festival Advances-Credit,-7,-24,-70,-70,2235 02 103 BA 34902
+360,T.A./D.A.to Non-Official Members,"2,77","1,00","4,80","4,80",2235 02 103 BA 36000
+01,T.A./D.A.to Non-Official Members,"2,77","1,00","4,80","4,80",2235 02 103 BA 36001
+376,Computer and Accessories,27,38,40,50,2235 02 103 BA 37600
+02,Maintenance,7,18,20,25,2235 02 103 BA 37602
+03,Stationery,20,20,20,25,2235 02 103 BA 37603
+BA,Total BA,"30,06","33,95","1,57,58","55,61",
+BD,Supervisory Cell for Co-operative Societies,,,,,2235 02 103 BD 30000
+301,Salaries,"3,22,42","2,82,73","2,84,25","2,94,75",2235 02 103 BD 30100
+01,Pay,"2,95,94","2,62,52","2,62,52","2,73,02",2235 02 103 BD 30101
+02,Medical Allowance,"1,38","1,20","1,50","1,50",2235 02 103 BD 30102
+03,Medical Charges,,10,10,10,2235 02 103 BD 30103
+04,Other Allowances,"1,97","1,50","1,50","1,50",2235 02 103 BD 30104
+06,House Rent Allowance,"20,81","14,51","14,51","14,51",2235 02 103 BD 30106
+07,Travel Concession,,12,12,12,2235 02 103 BD 30107
+08,City Compensatory Allowance,"2,32","2,78","4,00","4,00",2235 02 103 BD 30108
+303,Dearness Allowance,"43,03","34,13","42,00","66,89",2235 02 103 BD 30300
+01,Dearness Allowance,"43,03","34,13","42,00","66,89",2235 02 103 BD 30301
+304,Travel Expenses,"1,25","3,90","6,40","3,90",2235 02 103 BD 30400
+01,Tour Travelling Allowance,"1,25","3,90","6,40","3,90",2235 02 103 BD 30401
+349,Festival Advances,-33,,,,2235 02 103 BD 34900
+01,Festival Advances-Debit,25,"1,35","5,90","5,90",2235 02 103 BD 34901
+02,Festival Advances-Credit,-58,"-1,35","-5,90","-5,90",2235 02 103 BD 34902
+359,Prizes and Awards,,2,2,2,2235 02 103 BD 35900
+01,Prizes and Awards,,2,2,2,2235 02 103 BD 35901
+BD,Total BD,"3,66,37","3,20,78","3,32,67","3,65,56",
+BH,Celebration of World Women's Day,,,,,2235 02 103 BH 30000
+305,Office Expenses,61,,,,2235 02 103 BH 30500
+02,Other Contingencies,61,,,,2235 02 103 BH 30502
+309,Grants-in-Aid,"5,69","6,47","6,47","6,47",2235 02 103 BH 30900 
+01,Grants for Current Expenditure,"5,69","6,47","6,47","6,47",2235 02 103 BH 30901
+359,Prizes and Awards,"1,50","2,29","2,29","2,29",2235 02 103 BH 35900
+01,Prizes and Awards,"1,50","2,29","2,29","2,29",2235 02 103 BH 35901
+BH,Total BH,"7,80","8,76","8,76","8,76",
+BN,Savings Certificates Schemes for encouraging widow re-marriage,,,,,2235 02 103 BN 30000
+309,Grants-in-Aid,"18,04","22,77","22,77","22,77",2235 02 103 BN 30900 
+03,Grants for Specific Schemes,"18,04","22,77","22,77","22,77",2235 02 103 BN 30903
+BN,Total BN,"18,04","22,77","22,77","22,77",
+BP,Managerial Training for Field and Executive Staff,,,,,2235 02 103 BP 30000
+372,Training,"2,99","1,21","36,63","36,63",2235 02 103 BP 37200 
+01,Training,"2,99","1,21","36,63","36,63",2235 02 103 BP 37201
+BP,Total BP,"2,99","1,21","36,63","36,63",
+BQ,Scheme for Supply of Sewing Machines,,,,,2235 02 103 BQ 30000
+309,Grants-in-Aid,,,,"1,35,00",2235 02 103 BQ 30900
+03,Grants for Specific Schemes,,,,"1,35,00",2235 02 103 BQ 30903
+319,Machinery and Equipments,"1,34,98","1,35,00","1,35,00",1,2235 02 103 BQ 31900
+01,Purchase,"1,34,98","1,35,00","1,35,00",1,2235 02 103 BQ 31901
+BQ,Total BQ,"1,34,98","1,35,00","1,35,00","1,35,01",
+BR,Assistance to Welfare Board for the Third Genders,,,,,2235 02 103 BR 30000
+309,Grants-in-Aid,"2,82","1,00,00","1,00,00","1,00,00",2235 02 103 BR 30900
+03,Grants for Specific Schemes,"2,82","1,00,00","1,00,00","1,00,00",2235 02 103 BR 30903
+327,Pensions,"1,66,43","1,00,00","1,00,00","1,50,00",2235 02 103 BR 32700
+05,Social Security Pensions,"1,66,43","1,00,00","1,00,00","1,50,00",2235 02 103 BR 32705
+BR,Total BR,"1,69,25","2,00,00","2,00,00","2,50,00",
+BS,Continuance of Higher Studies by the inmates of Service Homes and Government Orphanages,,,,,2235 02 103 BS 30000
+305,Office Expenses,"5,80",93,93,93,2235 02 103 BS 30500
+02,Other Contingencies,"5,80",93,93,93,2235 02 103 BS 30502
+312,Scholarships and Stipends,"12,00","32,00","32,00","32,00",2235 02 103 BS 31200
+09,Others,"12,00","32,00","32,00","32,00",2235 02 103 BS 31209
+346,"Clothing, Tentage and Stores",,15,15,15,2235 02 103 BS 34600
+01,"Clothing, Tentage and Stores",,15,15,15,2235 02 103 BS 34601
+367,Feeding/Dietary Charges,,15,15,15,2235 02 103 BS 36700
+09,Others,,15,15,15,2235 02 103 BS 36709
+368,"Cost of Books/Note Books/Slates, etc.",,55,55,55,2235 02 103 BS 36800
+01,"Cost of Books/Note Books/Slates, etc.",,55,55,55,2235 02 103 BS 36801
+BS,Total BS,"17,80","33,78","33,78","33,78",
+BT,Family Counselling Centres by Social Welfare Board,,,,,2235 02 103 BT 30000
+309,Grants-in-Aid,"6,18","7,14","6,48","7,14",2235 02 103 BT 30900
+03,Grants for Specific Schemes,"6,18","7,14","6,48","7,14",2235 02 103 BT 30903
+BT,Total BT,"6,18","7,14","6,48","7,14",
+JS,Assistance to School children of poor widows,,,,,2235 02 103 JS 30000
+368,"Cost of Books/Note Books/Slates, etc.","9,60","9,85","9,85","9,85",2235 02 103 JS 36800
+01,"Cost of Books/Note Books/Slates, etc.","9,60","9,85","9,85","9,85",2235 02 103 JS 36801
+JS,Total JS,"9,60","9,85","9,85","9,85",
+KC,Marriage Assistance for the marriage of daughters of poor widows,,,,,2235 02 103 KC 30000
+309,Grants-in-Aid,"25,50,92","25,97,89","25,97,89","25,97,89",2235 02 103 KC 30900
+03,Grants for Specific Schemes,"25,50,92","25,97,89","25,97,89","25,97,89",2235 02 103 KC 30903
+KC,Total KC,"25,50,92","25,97,89","25,97,89","25,97,89",
+KH,Marriage Assistance for Orphan girls,,,,,2235 02 103 KH 30000
+309,Grants-in-Aid,"3,00,45","2,93,15","2,93,15","2,93,15",2235 02 103 KH 30900
+03,Grants for Specific Schemes,"3,00,45","2,93,15","2,93,15","2,93,15",2235 02 103 KH 30903
+KH,Total KH,"3,00,45","2,93,15","2,93,15","2,93,15",
+LT,Financial Assistance for Marriage of Girls Below Poverty Line under Moovalur Ramamirtham Ammaiyar Ninaivu Thirumana Thittam,,,,,2235 02 103 LT 30000
+309,Grants-in-Aid,"5,26,81,90","5,07,00,45","5,07,00,45","5,07,00,45",2235 02 103 LT 30900
+03,Grants for Specific Schemes,"5,26,81,90","5,07,00,45","5,07,00,45","5,07,00,45",2235 02 103 LT 30903
+LT,Total LT,"5,26,81,90","5,07,00,45","5,07,00,45","5,07,00,45",
+#,State's Expenditure Total,"5,74,15,93","5,57,73,49","5,58,37,44","5,58,79,40",
+#,Central Sector Schemes,,,,,
+SG,Formation of State Resource Centre for Women,,,,,2235 02 103 SG 30000
+309,Grants-in-Aid,"29,42","38,90","38,90","38,90",2235 02 103 SG 30900
+01,Grants for Current Expenditure,"29,42","38,90","38,90","38,90",2235 02 103 SG 30901
+SG,Total SG,"29,42","38,90","38,90","38,90",
+SI,SAKHI (One Stop Crisis Centre) for woman victim of Domestic Violence and Sexual assault,,,,,2235 02 103 SI 30000
+309,Grants-in-Aid,,1,1,1,2235 02 103 SI 30900
+03,Grants for Specific Schemes,,1,1,1,2235 02 103 SI 30903
+SI,Total SI,1,1,1,,
+SJ,Women Help Line,,,,,2235 02 103 SJ 30000
+305,Office Expenses,,"6,90","6,90",2,2235 02 103 SJ 30500
+01,Telephone Charges,,"3,00","3,00",1,2235 02 103 SJ 30501
+02,Other Contingencies,,"3,90","3,90",1,2235 02 103 SJ 30502
+306,"Rent, Rates and Taxes",,"1,80","1,80",1,2235 02 103 SJ 30600
+01,Rent,,"1,80","1,80",1,2235 02 103 SJ 30601
+333,Payments for Professional and Special Services,,"36,00","36,00",1,2235 02 103 SJ 33300
+03,Special Service,,"36,00","36,00",1,2235 02 103 SJ 33303
+SJ,Total SJ,"44,70","44,70",4,,
+#,Central Sector Schemes Total,"29,42","83,61","83,61","38,95",
+#,Schemes shared between State and Centre,,,,,
+UE,Implementation of Swadhar Greh Scheme under Social Welfare Department,,,,,2235 02 103 UE 30000
+309,Grants-in-Aid,"5,53,49","5,58,45","13,08,47","5,58,45",2235 02 103 UE 30900
+03,Grants for Specific Schemes,"5,53,49","5,58,45","13,08,47","5,58,45",2235 02 103 UE 30903
+UE,Total UE,"5,53,49","5,58,45","13,08,47","5,58,45",
+UF,Mahila Shakthi Kendra (MSK) Scheme,,,,,2235 02 103 UF 30000
+309,Grants-in-Aid,"3,60,23","3,60,24","9,38,36","9,38,36",2235 02 103 UF 30900
+03,Grants for Specific Schemes,"3,60,23","3,60,24","9,38,36","9,38,36",2235 02 103 UF 30903
+UF,Total UF,"3,60,23","3,60,24","9,38,36","9,38,36",
+#,Schemes shared between State and Centre Total,"9,13,72","9,18,69","22,46,83","14,96,81",
+103,Total 103,"5,83,59,07","5,67,75,79","5,81,67,88","5,74,15,16",
+104,"Welfare of aged, infirm and destitute",,,,,
+#,State's Expenditure,,,,,
+BB,Home for aged owned by Voluntary Agencies,,,,,2235 02 104 BB 30000
+305,Office Expenses,"5,70","5,70","5,70","5,70",2235 02 104 BB 30500
+02,Other Contingencies,"5,70","5,70","5,70","5,70",2235 02 104 BB 30502
+309,Grants-in-Aid,"1,00,46","1,17,60","1,17,60","1,17,60",2235 02 104 BB 30900
+03,Grants for Specific Schemes,"1,00,46","1,17,60","1,17,60","1,17,60",2235 02 104 BB 30903
+BB,Total BB,"1,06,16","1,23,30","1,23,30","1,23,30",
+BE,Observation of Elder Abuse Awareness Day,,,,,2235 02 104 BE 30000
+305,Office Expenses,"1,00","1,00","1,00","1,00",2235 02 104 BE 30500
+02,Other Contingencies,"1,00","1,00","1,00","1,00",2235 02 104 BE 30502
+371,Printing Charges,"3,00","3,00","3,00","3,00",2235 02 104 BE 37100
+01,Printing Charges,"3,00","3,00","3,00","3,00",2235 02 104 BE 37101
+BE,Total BE,"4,00","4,00","4,00","4,00",
+KP,Integrated Complex of Special Homes for Senior Citizens and Destitute Children,,,,,2235 02 104 KP 30000
+309,Grants-in-Aid,"6,43,13","7,50,58","6,43,52","6,43,52",2235 02 104 KP 30900
+01,Grants for Current Expenditure,"6,43,13","7,50,58","6,43,52","6,43,52",2235 02 104 KP 30901
+KP,Total KP,"6,43,13","7,50,58","6,43,52","6,43,52",
+KR,Establishing Community Day care centre for extending rehabilitation services,,,,,2235 02 104 KR 30000
+309,Grants-in-Aid,,1,1,1,2235 02 104 KR 30900
+01,Grants for Current Expenditure,,1,1,1,2235 02 104 KR 30901
+KR,Total KR,1,1,1,,
+KS,Pneumonia Vaccine to Elderly Persons in Senior Citizens Homes and Integrated Complexes run by NGOs  under State Innovation Fund,,,,,2235 02 104 KS 30000
+366,Medicine,,,1,1,2235 02 104 KS 36600
+01,Medicine,,,1,1,2235 02 104 KS 36601
+372,Training,,,1,1,2235 02 104 KS 37200
+01,Training,,,1,1,2235 02 104 KS 37201
+KS,Total KS,,2,2,,
+#,State's Expenditure Total,"7,53,29","8,77,89","7,70,85","7,70,85",
+104,Total 104,"7,53,29","8,77,89","7,70,85","7,70,85",
+200,Other Programmes,,,,,
+#,State's Expenditure,,,,,
+JG,Tamil Nadu Government Inter Caste Marriage Assistance Scheme,,,,,2235 02 200 JG 30000
+339,Rewards,"1,92,40","1,99,66","1,99,66","1,99,66",2235 02 200 JG 33900
+01,Rewards,"1,92,40","1,99,66","1,99,66","1,99,66",2235 02 200 JG 33901
+JG,Total JG,"1,92,40","1,99,66","1,99,66","1,99,66",
+JJ,Creation of Community Help Desk and Development of Multi Dimensional Communication Tools,,,,,2235 02 200 JJ 30000
+308,Advertising and Publicity,,1,1,1,2235 02 200 JJ 30800
+01,Advertisement Charges,,1,1,1,2235 02 200 JJ 30801
+319,Machinery and Equipments,,1,1,1,2235 02 200 JJ 31900
+01,Purchase,,1,1,1,2235 02 200 JJ 31901
+342,Service or Commitment Charges,,1,1,1,2235 02 200 JJ 34200
+01,Service or Commitment Charges,,1,1,1,2235 02 200 JJ 34201
+371,Printing Charges,,,1,1,2235 02 200 JJ 37100
+01,Printing Charges,,,1,1,2235 02 200 JJ 37101
+372,Training,,,1,1,2235 02 200 JJ 37200
+01,Training,,,1,1,2235 02 200 JJ 37201
+376,Computer and Accessories,,1,1,1,2235 02 200 JJ 37600
+01,Purchase,,1,1,1,2235 02 200 JJ 37601
+JJ,Total JJ,,4,6,6,
+JK,Online Socio-Economic Screening for Flagship Social Welfare under State Innovation Fund,,,,,2235 02 200 JK 30000
+305,Office Expenses,"27,72","64,44","64,44","64,44",2235 02 200 JK 30500 
+01,Telephone Charges,"27,72","64,44","64,44","64,44",2235 02 200 JK 30501
+372,Training,"31,55","3,58","3,58","3,58",2235 02 200 JK 37200 
+01,Training,"31,55","3,58","3,58","3,58",2235 02 200 JK 37201
+376,Computer and Accessories,"1,93,09",1,2,2,2235 02 200 JK 37600
+01,Purchase,"1,32,00",,1,1,2235 02 200 JK 37601
+02,Maintenance,"61,09",1,1,1,2235 02 200 JK 37602
+JK,Total JK,"2,52,36","68,03","68,04","68,04",
+#,State's Expenditure Total,"4,44,76","2,67,73","2,67,76","2,67,76",
+#,Central Sector Schemes,,,,,
+SB,Beti Bachao Beti Padhao to celebrate Girl Child and enable her education,,,,,2235 02 200 SB 30000
+309,Grants-in-Aid,"12,29","12,30","24,59","26,00",2235 02 200 SB 30900
+03,Grants for Specific Schemes,"12,29","12,30","24,59","26,00",2235 02 200 SB 30903
+SB,Total SB,"12,29","12,30","24,59","26,00",
+#,Central Sector Schemes Total,"12,29","12,30","24,59","26,00",
+200,Total 200,"4,57,05","2,80,03","2,92,35","2,93,76",
+789,Special Component Plan for Scheduled Castes,,,,,
+#,State's Expenditure,,,,,
+JF,"Financial Assistance for Marriage of Girls Below Poverty Line under Moovalur Ramamirtham Ammaiyar Ninaivu Thirumana Thittam under Special Component Plan""",,,,,2235 02 789 JF 30000
+309,Grants-in-Aid,"1,53,10,54","1,53,12,75","1,53,12,75","1,53,12,75",2235 02 789 JF 30900
+03,Grants for Specific Schemes,"1,53,10,54","1,53,12,75","1,53,12,75","1,53,12,75",2235 02 789 JF 30903
+JF,Total JF,"1,53,10,54","1,53,12,75","1,53,12,75","1,53,12,75",
+JH,Marriage Assistance for the marriage of daughters of poor widows under Special Component Plan,,,,,2235 02 789 JH 30000
+309,Grants-in-Aid,"8,62,74","11,57,16","11,57,16","11,57,16",2235 02 789 JH 30900
+03,Grants for Specific Schemes,"8,62,74","11,57,16","11,57,16","11,57,16",2235 02 789 JH 30903
+JH,Total JH,"8,62,74","11,57,16","11,57,16","11,57,16",
+JI,Tamil Nadu Government Inter Caste Marriage Assistance Scheme under Special Component Plan,,,,,2235 02 789 JI 30000
+339,Rewards,"14,91,01","17,73,94","17,73,94","17,73,94",2235 02 789 JI 33900
+01,Rewards,"14,91,01","17,73,94","17,73,94","17,73,94",2235 02 789 JI 33901
+JI,Total JI,"14,91,01","17,73,94","17,73,94","17,73,94",
+JL,Marriage Assistance for Orphan Girls under Special Component Plan,,,,,2235 02 789 JL 30000
+309,Grants-in-Aid,"1,21,24","1,31,43","1,31,43","1,31,43",2235 02 789 JL 30900
+03,Grants for Specific Schemes,"1,21,24","1,31,43","1,31,43","1,31,43",2235 02 789 JL 30903
+JL,Total JL,"1,21,24","1,31,43","1,31,43","1,31,43",
+JM,Assistance to School children of poor widows under Special Component Plan,,,,,2235 02 789 JM 30000
+368,"Cost of Books/Note Books/Slates, etc.","2,55","2,60","2,60","2,60",2235 02 789 JM 36800
+01,"Cost of Books/Note Books/Slates, etc.","2,55","2,60","2,60","2,60",2235 02 789 JM 36801
+JM,Total JM,"2,55","2,60","2,60","2,60",
+JN,Assistance to Scheme for Girl Children Welfare under Special Component Plan,,,,,2235 02 789 JN 30000
+309,Grants-in-Aid,"23,59,55","29,42,45","24,42,45","29,42,45",2235 02 789 JN 30900
+03,Grants for Specific Schemes,"23,59,55","29,42,45","24,42,45","29,42,45",2235 02 789 JN 30903
+JN,Total JN,"23,59,55","29,42,45","24,42,45","29,42,45",
+#,State's Expenditure Total,"2,01,47,63","2,13,20,33","2,08,20,33","2,13,20,33",
+789,Total 789,"2,01,47,63","2,13,20,33","2,08,20,33","2,13,20,33",
+796,Tribal Area Sub-Plan,,,,,
+#,State's Expenditure,,,,,
+JB,Tailoring Centres for Tribal Women,,,,,2235 02 796 JB 30000
+301,Salaries,53,"7,34",85,87,2235 02 796 JB 30100
+01,Pay,48,"6,61",61,63,2235 02 796 JB 30101
+02,Medical Allowance,,24,5,5,2235 02 796 JB 30102
+04,Other Allowances,,14,14,14,2235 02 796 JB 30104
+06,House Rent Allowance,5,35,5,5,2235 02 796 JB 30106
+303,Dearness Allowance,52,86,10,15,2235 02 796 JB 30300
+01,Dearness Allowance,52,86,10,15,2235 02 796 JB 30301
+304,Travel Expenses,,10,1,1,2235 02 796 JB 30400
+01,Tour Travelling Allowances,,10,1,1,2235 02 796 JB 30401
+305,Office Expenses,,6,1,1,2235 02 796 JB 30500
+02,Other Contingencies,,6,1,1,2235 02 796 JB 30502
+306,"Rent, Rates and Taxes",,20,1,1,2235 02 796 JB 30600
+01,Rent,,20,1,1,2235 02 796 JB 30601
+312,Scholarships and Stipends,,55,1,1,2235 02 796 JB 31200
+09,Others,,55,1,1,2235 02 796 JB 31209
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,30,10,10,2235 02 796 JB 34901
+02,Festival Advances-Credit,,-30,-10,-10,2235 02 796 JB 34902
+JB,Total JB,"1,05","9,11",99,"1,06",
+JF,Financial Assistance for Marriage of Girls Below Poverty Line under Moovalur Ramamirtham Ammaiyar Ninaivu Thirumana Thittam  under Tribal Sub-Plan,,,,,2235 02 796 JF 30000
+309,Grants-in-Aid,"4,23,12","4,42,30","4,42,30","4,42,30",2235 02 796 JF 30900 
+03,Grants for Specific Schemes,"4,23,12","4,42,30","4,42,30","4,42,30",2235 02 796 JF 30903
+JF,Total JF,"4,23,12","4,42,30","4,42,30","4,42,30",
+#,State's Expenditure Total,"4,24,17","4,51,41","4,43,29","4,43,36",
+796,Total 796,"4,24,17","4,51,41","4,43,29","4,43,36",
+902,Deduct Amount met from TamilNadu Special Welfare Fund,,,,,
+#,State's Expenditure,,,,,
+JB,Deduct - Amount met from State Innovation Fund,,,,,2235 02 902 JB 30000
+330,Inter-Account Transfers,"-2,52,36","-1,38,20","-1,87,42","-68,06",2235 02 902 JB 33000
+01,Inter-Account Transfers,"-2,52,36","-1,38,20","-1,87,42","-68,06",2235 02 902 JB 33001
+JB,Total JB,"-2,52,36","-1,38,20","-1,87,42","-68,06",
+#,State's Expenditure Total,"-2,52,36","-1,38,20","-1,87,42","-68,06",
+902,Total 902,"-2,52,36","-1,38,20","-1,87,42","-68,06",
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+AA,Directorate of Social Welfare,,,,,2235 02 911 AA 30000
+377,Deduct-Recoveries,"-4,31",,-36,-36,2235 02 911 AA 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-4,31",,-36,-36,2235 02 911 AA 37702
+AA,Total AA,"-4,31",,-36,-36,
+AD,District Establishment - Social Welfare,,,,,2235 02 911 AD 30000
+377,Deduct-Recoveries,-30,,-16,-16,2235 02 911 AD 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-30,,-16,-16,2235 02 911 AD 37702
+AD,Total AD,-30,,-16,-16,
+AO,Programme for the care of Destitute children - Assistance to Private Organisations,,,,,2235 02 911 AO 30000
+377,Deduct-Recoveries,"-1,59",,-14,-14,2235 02 911 AO 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-1,59",,-14,-14,2235 02 911 AO 37702
+AO,Total AO,"-1,59",,-14,-14,
+BM,Service Homes in Districts,,,,,2235 02 911 BM 30000
+377,Deduct-Recoveries,-82,,,,2235 02 911 BM 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-82,,,,2235 02 911 BM 37702
+BM,Total BM,-82,,,,
+BR,Assistance to Welfare Board for the Third Genders,,,,,2235 02 911 BR 30000
+377,Deduct-Recoveries,-66,,,,2235 02 911 BR 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-66,,,,2235 02 911 BR 37702
+BR,Total BR,-66,,,,
+BS,Continuance of Higher Studies by the inmates of Service Homes and Government Orphanages,,,,,2235 02 911 BS 30000
+377,Deduct-Recoveries,"-7,19",,"-2,64","-2,64",2235 02 911 BS 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-7,19",,"-2,64","-2,64",2235 02 911 BS 37702
+BS,Total BS,"-7,19",,"-2,64","-2,64",
+CA,Running of Hostels for working women,,,,,2235 02 911 CA 30000
+377,Deduct-Recoveries,,,-1,-1,2235 02 911 CA 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,,,-1,-1,2235 02 911 CA 37702
+CA,Total CA,,-1,-1,,
+JF,Deduct - Recoveries of Overpayments,,,,,2235 02 911 JF 30000
+377,Deduct-Recoveries,"-8,00",,,,2235 02 911 JF 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-8,00",,,,2235 02 911 JF 37702
+JF,Total JF,"-8,00",,,,
+JG,Deduct - Recoveries of Overpayments,,,,,2235 02 911 JG 30000
+377,Deduct-Recoveries,"-21,55",,,,2235 02 911 JG 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-21,55",,,,2235 02 911 JG 37702
+JG,Total JG,"-21,55",,,,
+JH,Marriage Assistance for the marriage of daughters of poor widows under Special Component Plan,,,,,2235 02 911 JH 30000
+377,Deduct-Recoveries,"-3,27",,,,2235 02 911 JH 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-3,27",,,,2235 02 911 JH 37702
+JH,Total JH,"-3,27",,,,
+JL,Marriage Assistance for Orphan Girls under Special Component Plan,,,,,2235 02 911 JL 30000
+377,Deduct-Recoveries,-60,,,,2235 02 911 JL 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-60,,,,2235 02 911 JL 37702
+JL,Total JL,-60,,,,
+JX,Deduct - Recoveries of Overpayments,,,,,2235 02 911 JX 30000
+377,Deduct-Recoveries,"-1,00,71",,,,2235 02 911 JX 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-1,00,71",,,,2235 02 911 JX 37702
+JX,Total JX,"-1,00,71",,,,
+KC,Scheme for promotion of awareness in children adoption,,,,,2235 02 911 KC 30000
+377,Deduct-Recoveries,"-21,90",,,,2235 02 911 KC 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-21,90",,,,2235 02 911 KC 37702
+KC,Total KC,"-21,90",,,,
+LT,Financial Assistance for Marriage of Girls Below Poverty Line under Moovalur Ramamirtham Ammaiyar Ninaivu Thirumana Thittam,,,,,2235 02 911 LT 30000
+377,Deduct-Recoveries,"-2,66,32",,,,2235 02 911 LT 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-2,66,32",,,,2235 02 911 LT 37702
+LT,Total LT,"-2,66,32",,,,
+LX,Assistance to Welfare Board for the Third Genders,,,,,2235 02 911 LX 30000
+377,Deduct-Recoveries,"-7,50",,,,2235 02 911 LX 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-7,50",,,,2235 02 911 LX 37702
+LX,Total LX,"-7,50",,,,
+#,State's Expenditure Total,"-4,44,72",,"-3,31","-3,31",
+911,Total 911,"-4,44,72",,"-3,31","-3,31",
+02,Total 02 Charged,,1,1,1,
+02,Total 02 Voted,"8,88,32,57","9,28,66,50","9,23,99,05","9,38,31,51",
+60,Other Social Security and Welfare Programmes,,,,,
+102,Pension under Social Security Schemes,,,,,
+#,State's Expenditure,,,,,
+AQ,Livelihood Special Pension to Retired Noon Meal Workers under PTMGR NMP Scheme,,,,,2235 60 102 AQ 30000
+327,Pensions,"1,32,43,66","1,35,10,66","1,45,14,10","1,58,39,78",2235 60 102 AQ 32700
+05,Social Security Pensions,"1,32,43,66","1,35,10,66","1,45,14,10","1,58,39,78",2235 60 102 AQ 32705
+AQ,Total AQ,"1,32,43,66","1,35,10,66","1,45,14,10","1,58,39,78",
+#,State's Expenditure Total,"1,32,43,66","1,35,10,66","1,45,14,10","1,58,39,78",
+102,Total 102,"1,32,43,66","1,35,10,66","1,45,14,10","1,58,39,78",
+200,Other Programmes,,,,,
+#,State's Expenditure,,,,,
+DP,Lumpsum Provision to Noon-Meal Organisers,,,,,2235 60 200 DP 30000
+309,Grants-in-Aid,"36,57,31","37,86,50","57,67,51","59,98,21",2235 60 200 DP 30900 
+03,Grants for Specific Schemes,"36,57,31","37,86,50","57,67,51","59,98,21",2235 60 200 DP 30903
+DP,Total DP,"36,57,31","37,86,50","57,67,51","59,98,21",
+KV,"Conducting Information, Education and Communication  Activities in Districts under Social Welfare Department",,,,,2235 60 200 KV 30000
+308,Advertising and Publicity,"16,00","16,00","16,00","16,00",2235 60 200 KV 30800 
+09,Others,"16,00","16,00","16,00","16,00",2235 60 200 KV 30809
+KV,Total KV,"16,00","16,00","16,00","16,00",
+#,State's Expenditure Total,"36,73,31","38,02,50","57,83,51","60,14,21",
+200,Total 200,"36,73,31","38,02,50","57,83,51","60,14,21",
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+AP,Deduct - Recoveries of Overpayments -,,,,,2235 60 911 AP 30000
+377,Deduct-Recoveries,"-10,01",,"-1,54","-1,54",2235 60 911 AP 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-10,01",,"-1,54","-1,54",2235 60 911 AP 37702
+AP,Total AP,"-10,01",,"-1,54","-1,54",
+#,State's Expenditure Total,"-10,01",,"-1,54","-1,54",
+911,Total 911,"-10,01",,"-1,54","-1,54",
+60,Total 60,"1,69,06,96","1,73,13,16","2,02,96,07","2,18,52,45",
+2235,Total 2235 Charged,,1,1,1,
+2235,Total 2235 Voted,"10,57,39,53","11,01,79,66","11,26,95,12","11,56,83,96",
+2236,NUTRITION,,,,,
+02,Distribution of nutritious food and beverages,,,,,
+102,Mid-day Meals,,,,,
+#,State's Expenditure,,,,,
+AR,Staff for implementing Puratchithalaivar MGR Nutritious Meal Programme in rural areas,,,,,2236 02 102 AR 30000
+301,Salaries,"37,71,77","54,04,96","53,37,74","55,40,95",2236 02 102 AR 30100
+01,Pay,"35,19,39","50,86,69","50,80,00","52,83,20",2236 02 102 AR 30101
+02,Medical Allowance,"24,21","25,52","25,52","25,52",2236 02 102 AR 30102
+03,Medical Charges,10,20,20,21,2236 02 102 AR 30103
+04,Other Allowances,"29,12","34,30","29,00","29,00",2236 02 102 AR 30104
+06,House Rent Allowance,"1,88,69","2,45,23","1,90,00","1,90,00",2236 02 102 AR 30106
+07,Travel Concession,80,"1,96","1,96","1,96",2236 02 102 AR 30107
+08,City Compensatory Allowance,"9,46","11,06","11,06","11,06",2236 02 102 AR 30108
+302,Wages,,1,50,50,2236 02 102 AR 30200
+01,Wages,,1,50,50,2236 02 102 AR 30201
+303,Dearness Allowance,"3,60,23","8,02,59","8,13,04","12,94,38",2236 02 102 AR 30300
+01,Dearness Allowance,"3,60,23","8,02,59","8,13,04","12,94,38",2236 02 102 AR 30301
+304,Travel Expenses,"1,21,45","1,33,27","1,33,87","1,36,31",2236 02 102 AR 30400
+01,Tour Travelling Allowances,"1,19,94","1,31,07","1,31,07","1,33,81",2236 02 102 AR 30401
+02,Transfer Travelling Allowances,"1,51","2,20","2,80","2,50",2236 02 102 AR 30402
+305,Office Expenses,"23,71","33,45","35,95","35,65",2236 02 102 AR 30500
+01,Telephone Charges,"5,56","10,37","10,37","10,37",2236 02 102 AR 30501
+02,Other Contingencies,"10,74","12,02","12,07","12,07",2236 02 102 AR 30502
+03,Electricity Charges,"5,70","9,00","11,00","11,00",2236 02 102 AR 30503
+04,Service Postage & Postal Expenditure,"1,71","2,05","2,50","2,20",2236 02 102 AR 30504
+05,Furniture,,1,1,1,2236 02 102 AR 30505
+306,"Rent, Rates and Taxes",18,23,34,35,2236 02 102 AR 30600
+01,Rent,,1,1,1,2236 02 102 AR 30601
+02,Property tax,18,22,33,34,2236 02 102 AR 30602
+321,Motor Vehicles,"1,34","1,50","47,88","1,51",2236 02 102 AR 32100 
+01,Purchase,,,"46,18",1,2236 02 102 AR 32101
+02,Maintenance of Functional Vehicles,"1,34","1,50","1,70","1,50",2236 02 102 AR 32102
+333,Payments for Professional and Special Services,"2,92","1,01","11,39","14,38",2236 02 102 AR 33300
+01,Pleaders Fees,"2,92","1,00","2,75","2,86",2236 02 102 AR 33301
+04,Contract Payment,,1,"8,64","11,52",2236 02 102 AR 33304
+345,"Petroleum, Oil and Lubricant","14,06","17,41","17,58","17,65",2236 02 102 AR 34500
+01,"Petroleum, Oil and Lubricant","14,06","17,41","17,58","17,65",2236 02 102 AR 34501
+346,"Clothing, Tentage and Stores",41,50,55,55,2236 02 102 AR 34600
+01,"Clothing, Tentage and Stores",41,50,55,55,2236 02 102 AR 34601
+349,Festival Advances,87,,,,2236 02 102 AR 34900
+01,Festival Advances-Debit,"20,41","36,40","75,00","70,00",2236 02 102 AR 34901
+02,Festival Advances-Credit,"-19,54","-36,40","-75,00","-70,00",2236 02 102 AR 34902
+376,Computer and Accessories,"1,96","2,01","4,50","4,77",2236 02 102 AR 37600
+02,Maintenance,"1,11","1,14","3,00","3,21",2236 02 102 AR 37602
+03,Stationery,85,87,"1,50","1,56",2236 02 102 AR 37603
+AR,Total AR,"42,98,90","63,96,94","64,03,34","70,47,00",
+AX,Replacement of vessels under Puratchithalaivar MGR Nutritious Meal Programme,,,,,2236 02 102 AX 30000
+324,Materials and Supplies,"4,42","4,42","4,42","4,42",2236 02 102 AX 32400
+01,Materials and Supplies,"4,42","4,42","4,42","4,42",2236 02 102 AX 32401
+AX,Total AX,"4,42","4,42","4,42","4,42",
+JT,New Programme for feeding to poor children in the age group of 10 to 15 in Denotified Community Schools,,,,,2236 02 102 JT 30000
+301,Salaries,"1,01,20","1,30,34","1,37,43","1,42,48",2236 02 102 JT 30100
+01,Pay,"88,55","1,19,60","1,26,29","1,31,34",2236 02 102 JT 30101
+02,Medical Allowance,"3,82","3,89","3,89","3,89",2236 02 102 JT 30102
+04,Other Allowances,"1,67","2,15","1,70","1,70",2236 02 102 JT 30104
+06,House Rent Allowance,"7,16","4,70","5,55","5,55",2236 02 102 JT 30106
+303,Dearness Allowance,"8,48","11,34","20,21","32,18",2236 02 102 JT 30300
+01,Dearness Allowance,"8,48","11,34","20,21","32,18",2236 02 102 JT 30301
+305,Office Expenses,22,24,24,24,2236 02 102 JT 30500
+02,Other Contingencies,22,24,24,24,2236 02 102 JT 30502
+349,Festival Advances,83,,,,2236 02 102 JT 34900
+01,Festival Advances-Debit,"5,35","5,40","11,00","9,88",2236 02 102 JT 34901
+02,Festival Advances-Credit,"-4,52","-5,40","-11,00","-9,88",2236 02 102 JT 34902
+367,Feeding/Dietary Charges,"31,92","32,07","33,66","38,28",2236 02 102 JT 36700
+04,"Vegetables, Condiments","29,88","29,88","32,16","36,72",2236 02 102 JT 36704
+06,Potato,"2,04","2,19","1,50","1,56",2236 02 102 JT 36706
+JT,Total JT,"1,42,65","1,73,99","1,91,54","2,13,18",
+KB,Feeding to children in the Age Group of 10-14 under Puratchi Thalaivar MGR NMP - payment of cost to TNCSC for supply of food articles,,,,,2236 02 102 KB 30000
+367,Feeding/Dietary Charges,"31,23,03","49,86,46","42,62,37","42,62,37",2236 02 102 KB 36700
+01,Rice,"12,25,32","13,00,00","13,00,00","13,00,00",2236 02 102 KB 36701
+02,Dhall,"14,10,06","30,25,89","23,01,80","23,01,80",2236 02 102 KB 36702
+03,Oil,"4,87,65","6,60,57","6,60,57","6,60,57",2236 02 102 KB 36703
+KB,Total KB,"31,23,03","49,86,46","42,62,37","42,62,37",
+KC,Feeding Children in the age group of  5 -9 under Puratchi Thalaivar MGR Nutritious Meals Programme - Payment of cost to Tamil Nadu Civil Supplies Corporation for supply of food articles,,,,,2236 02 102 KC 30000
+308,Advertising and Publicity,"20,80","21,00","21,00","21,00",2236 02 102 KC 30800
+01,Advertisement Charges,"20,80","21,00","21,00","21,00",2236 02 102 KC 30801
+319,Machinery and Equipments,,1,1,1,2236 02 102 KC 31900
+01,Purchase,,1,1,1,2236 02 102 KC 31901
+324,Materials and Supplies,,1,1,1,2236 02 102 KC 32400
+01,Materials and Supplies,,1,1,1,2236 02 102 KC 32401
+367,Feeding/Dietary Charges,"25,42,50","40,47,84","34,15,84","34,15,84",2236 02 102 KC 36700
+01,Rice,-10,1,1,1,2236 02 102 KC 36701
+02,Dhall,"18,70,66","33,17,26","26,85,26","26,85,26",2236 02 102 KC 36702
+03,Oil,"6,71,95","7,30,56","7,30,56","7,30,56",2236 02 102 KC 36703
+09,Others,-1,1,1,1,2236 02 102 KC 36709
+372,Training,,1,1,1,2236 02 102 KC 37200
+01,Training,,1,1,1,2236 02 102 KC 37201
+KC,Total KC,"25,63,30","40,68,87","34,36,87","34,36,87",
+KL,Puratchithalaivar MGR Nutritious Meal Programme for Children in the age group of 5 to 9,,,,,2236 02 102 KL 30000
+301,Salaries,"6,46,76,85","5,01,82,40","4,91,54,93","5,06,75,61",2236 02 102 KL 30100
+01,Pay,"5,53,23,14","4,03,71,08","4,05,17,08","4,20,37,76",2236 02 102 KL 30101
+02,Medical Allowance,"24,49,75","20,56,09","23,21,57","23,21,57",2236 02 102 KL 30102
+04,Other Allowances,"17,57,43","32,54,31","18,45,37","18,45,37",2236 02 102 KL 30104
+06,House Rent Allowance,"48,68,57","43,12,83","42,10,00","42,10,00",2236 02 102 KL 30106
+08,City Compensatory Allowance,"2,77,96","1,88,09","2,60,91","2,60,91",2236 02 102 KL 30108
+303,Dearness Allowance,"50,84,35","64,77,80","64,82,73","1,02,99,25",2236 02 102 KL 30300
+01,Dearness Allowance,"50,84,35","64,77,80","64,82,73","1,02,99,25",2236 02 102 KL 30301
+305,Office Expenses,"1,69,26","1,83,72","1,83,72","1,83,72",2236 02 102 KL 30500
+02,Other Contingencies,"1,69,26","1,83,72","1,83,72","1,83,72",2236 02 102 KL 30502
+324,Materials and Supplies,,1,1,1,2236 02 102 KL 32400
+01,Materials and Supplies,,1,1,1,2236 02 102 KL 32401
+349,Festival Advances,"74,95",,,,2236 02 102 KL 34900
+01,Festival Advances-Debit,"28,25,10","36,20,03","65,00,00","64,48,80",2236 02 102 KL 34901
+02,Festival Advances-Credit,"-27,50,15","-36,20,03","-65,00,00","-64,48,80",2236 02 102 KL 34902
+367,Feeding/Dietary Charges,"47,77,68","62,02,83","66,50,83","75,58,81",2236 02 102 KL 36700
+04,"Vegetables, Condiments","44,81,01","58,59,93","63,07,04","72,01,27",2236 02 102 KL 36704
+06,Potato,"2,72,13","2,97,82","2,93,74","3,05,49",2236 02 102 KL 36706
+08,Banana,"24,54","45,08","50,05","52,05",2236 02 102 KL 36708
+376,Computer and Accessories,1,1,1,1,2236 02 102 KL 37600
+03,Stationery,1,1,1,1,2236 02 102 KL 37603
+KL,Total KL,"7,47,83,10","6,30,46,77","6,24,72,23","6,87,17,41",
+KM,New Programme for feeding poor children in the age group of 5 to 9 years in Denotified Community Schools,,,,,2236 02 102 KM 30000
+301,Salaries,"4,27,89","6,74,05","6,77,05","7,02,01",2236 02 102 KM 30100
+01,Pay,"3,65,55","6,24,00","6,24,00","6,48,96",2236 02 102 KM 30101
+02,Medical Allowance,"17,22","17,02","17,02","17,02",2236 02 102 KM 30102
+04,Other Allowances,"8,84","10,00","13,00","13,00",2236 02 102 KM 30104
+06,House Rent Allowance,"34,41","22,46","22,46","22,46",2236 02 102 KM 30106
+08,City Compensatory Allowance,"1,87",57,57,57,2236 02 102 KM 30108
+303,Dearness Allowance,"36,70","57,96","99,84","1,59,00",2236 02 102 KM 30300
+01,Dearness Allowance,"36,70","57,96","99,84","1,59,00",2236 02 102 KM 30301
+305,Office Expenses,"1,08","1,40","1,40","1,40",2236 02 102 KM 30500
+02,Other Contingencies,"1,08","1,40","1,40","1,40",2236 02 102 KM 30502
+349,Festival Advances,95,,,,2236 02 102 KM 34900
+01,Festival Advances-Debit,"22,45","15,60","69,00","46,38",2236 02 102 KM 34901
+02,Festival Advances-Credit,"-21,50","-15,60","-69,00","-46,38",2236 02 102 KM 34902
+367,Feeding/Dietary Charges,"30,26","33,45","35,12","39,94",2236 02 102 KM 36700
+04,"Vegetables, Condiments","28,18","31,17","33,55","38,31",2236 02 102 KM 36704
+06,Potato,"2,08","2,28","1,57","1,63",2236 02 102 KM 36706
+KM,Total KM,"4,96,88","7,66,86","8,13,41","9,02,35",
+KN,Puratchithalaivar MGR Nutritious Meal Programme for children in the age group of 10 to 14 in the Government and aided schools,,,,,2236 02 102 KN 30000
+301,Salaries,"1,88,98,50","2,33,89,25","2,31,52,00","2,39,84,00",2236 02 102 KN 30100
+01,Pay,"1,61,90,66","2,08,00,00","2,08,00,00","2,16,32,00",2236 02 102 KN 30101
+02,Medical Allowance,"7,29,40","6,26,87","6,26,87","6,26,87",2236 02 102 KN 30102
+04,Other Allowances,"5,32,89","8,00,10","5,30,00","5,30,00",2236 02 102 KN 30104
+06,House Rent Allowance,"13,58,77","10,85,34","11,10,00","11,10,00",2236 02 102 KN 30106
+08,City Compensatory Allowance,"86,78","76,94","85,13","85,13",2236 02 102 KN 30108
+303,Dearness Allowance,"15,34,62","16,96,40","33,28,00","52,99,84",2236 02 102 KN 30300
+01,Dearness Allowance,"15,34,62","16,96,40","33,28,00","52,99,84",2236 02 102 KN 30301
+305,Office Expenses,"31,78","34,43","34,43","34,43",2236 02 102 KN 30500
+02,Other Contingencies,"31,78","34,43","34,43","34,43",2236 02 102 KN 30502
+324,Materials and Supplies,,1,1,1,2236 02 102 KN 32400
+01,Materials and Supplies,,1,1,1,2236 02 102 KN 32401
+349,Festival Advances,"-9,92",,,,2236 02 102 KN 34900
+01,Festival Advances-Debit,"7,91,58","9,36,00","16,59,10","17,10,20",2236 02 102 KN 34901
+02,Festival Advances-Credit,"-8,01,50","-9,36,00","-16,59,10","-17,10,20",2236 02 102 KN 34902
+367,Feeding/Dietary Charges,"44,68,38","55,94,48","59,94,62","68,10,96",2236 02 102 KN 36700
+04,"Vegetables, Condiments","41,88,65","52,78,77","56,81,54","64,87,08",2236 02 102 KN 36704
+06,Potato,"2,53,50","2,76,77","2,69,96","2,80,76",2236 02 102 KN 36706
+08,Banana,"26,23","38,94","43,12","43,12",2236 02 102 KN 36708
+KN,Total KN,"2,49,23,36","3,07,14,57","3,25,09,06","3,61,29,24",
+KO,Feeding children of Adi Dravidar Welfare Schools under Puratchithalaivar MGR Nutritious Meal Programme,,,,,2236 02 102 KO 30000
+301,Salaries,"23,00,35","29,73,71","29,49,71","30,53,71",2236 02 102 KO 30100
+01,Pay,"19,44,93","26,00,00","26,00,00","27,04,00",2236 02 102 KO 30101
+02,Medical Allowance,"92,93","92,45","92,45","92,45",2236 02 102 KO 30102
+04,Other Allowances,"62,64","84,00","60,00","60,00",2236 02 102 KO 30104
+06,House Rent Allowance,"1,86,51","1,75,06","1,75,06","1,75,06",2236 02 102 KO 30106
+08,City Compensatory Allowance,"13,34","22,20","22,20","22,20",2236 02 102 KO 30108
+303,Dearness Allowance,"1,73,87","2,61,61","4,16,00","6,62,48",2236 02 102 KO 30300
+01,Dearness Allowance,"1,73,87","2,61,61","4,16,00","6,62,48",2236 02 102 KO 30301
+305,Office Expenses,"11,34","14,45","14,45","14,45",2236 02 102 KO 30500
+02,Other Contingencies,"11,34","14,45","14,45","14,45",2236 02 102 KO 30502
+349,Festival Advances,-40,,,,2236 02 102 KO 34900
+01,Festival Advances-Debit,"98,34","1,28,70","2,10,00","2,41,00",2236 02 102 KO 34901
+02,Festival Advances-Credit,"-98,74","-1,28,70","-2,10,00","-2,41,00",2236 02 102 KO 34902
+367,Feeding/Dietary Charges,"2,24,75","2,26,15","2,37,25","2,69,78",2236 02 102 KO 36700
+04,"Vegetables, Condiments","2,10,28","2,10,38","2,26,43","2,58,53",2236 02 102 KO 36704
+06,Potato,"14,47","15,77","10,82","11,25",2236 02 102 KO 36706
+KO,Total KO,"27,09,91","34,75,92","36,17,41","40,00,42",
+KP,Puratchi Thalaivar MGR Nutritious Meal Programme for Children in the age group of 5 to 9 in the Corporation and Municipal Schools,,,,,2236 02 102 KP 30000
+301,Salaries,"25,23,66","34,98,31","34,83,59","37,08,40",2236 02 102 KP 30100
+01,Pay,"21,38,63","31,20,00","31,20,00","33,44,80",2236 02 102 KP 30101
+02,Medical Allowance,"70,50","80,39","80,39","80,39",2236 02 102 KP 30102
+03,Medical Charges,,20,20,21,2236 02 102 KP 30103
+04,Other Allowances,"43,26","40,53","43,00","43,00",2236 02 102 KP 30104
+06,House Rent Allowance,"2,50,22","2,07,19","2,10,00","2,10,00",2236 02 102 KP 30106
+08,City Compensatory Allowance,"21,05","50,00","30,00","30,00",2236 02 102 KP 30108
+303,Dearness Allowance,"2,11,56","2,20,85","4,99,20","8,19,48",2236 02 102 KP 30300
+01,Dearness Allowance,"2,11,56","2,20,85","4,99,20","8,19,48",2236 02 102 KP 30301
+305,Office Expenses,"5,07","6,00","6,00","6,00",2236 02 102 KP 30500
+02,Other Contingencies,"5,07","6,00","6,00","6,00",2236 02 102 KP 30502
+349,Festival Advances,"1,84",,,,2236 02 102 KP 34900
+01,Festival Advances-Debit,"90,65","1,40,56","2,11,70","2,11,70",2236 02 102 KP 34901
+02,Festival Advances-Credit,"-88,81","-1,40,56","-2,11,70","-2,11,70",2236 02 102 KP 34902
+367,Feeding/Dietary Charges,"1,51,62","1,57,82","1,64,88","1,87,43",2236 02 102 KP 36700
+04,"Vegetables, Condiments","1,40,51","1,45,69","1,56,81","1,79,04",2236 02 102 KP 36704
+06,Potato,"10,69","11,70","8,05","8,37",2236 02 102 KP 36706
+08,Banana,42,42,1,1,2236 02 102 KP 36708
+09,Others,,1,1,1,2236 02 102 KP 36709
+KP,Total KP,"28,93,75","38,82,98","41,53,67","47,21,31",
+KQ,Puratchi Thalaivar MGR Nutritious Meal Programme for Children in the age group of 10 to 14 in the Corporation and Municipal Schools,,,,,2236 02 102 KQ 30000
+301,Salaries,"8,07,28","13,88,04","14,06,49","14,56,43",2236 02 102 KQ 30100
+01,Pay,"6,80,67","12,48,00","12,48,00","12,97,94",2236 02 102 KQ 30101
+02,Medical Allowance,"25,30","35,24","39,96","39,96",2236 02 102 KQ 30102
+04,Other Allowances,"15,03","15,00","15,00","15,00",2236 02 102 KQ 30104
+06,House Rent Allowance,"74,28","78,94","81,00","81,00",2236 02 102 KQ 30106
+08,City Compensatory Allowance,"12,00","10,86","22,53","22,53",2236 02 102 KQ 30108
+303,Dearness Allowance,"64,01","87,60","1,99,68","3,18,00",2236 02 102 KQ 30300
+01,Dearness Allowance,"64,01","87,60","1,99,68","3,18,00",2236 02 102 KQ 30301
+305,Office Expenses,"2,06","2,49","2,49","2,49",2236 02 102 KQ 30500
+02,Other Contingencies,"2,06","2,49","2,49","2,49",2236 02 102 KQ 30502
+349,Festival Advances,"2,92",,,,2236 02 102 KQ 34900
+01,Festival Advances-Debit,"33,00","36,40","1,11,00","1,11,00",2236 02 102 KQ 34901
+02,Festival Advances-Credit,"-30,08","-36,40","-1,11,00","-1,11,00",2236 02 102 KQ 34902
+367,Feeding/Dietary Charges,"2,10,03","2,11,95","2,21,82","2,52,23",2236 02 102 KQ 36700
+04,"Vegetables, Condiments","1,96,55","1,96,57","2,11,57","2,41,57",2236 02 102 KQ 36704
+06,Potato,"13,05","14,95","10,24","10,65",2236 02 102 KQ 36706
+08,Banana,43,43,1,1,2236 02 102 KQ 36708
+KQ,Total KQ,"10,86,30","16,90,08","18,30,48","20,29,15",
+KW,Payment for Supply of Eggs to the beneficiaries under Puratchi Thalaivar MGR Nutritious Meal Programme,,,,,2236 02 102 KW 30000
+367,Feeding/Dietary Charges,"1,90,23,04","2,37,56,67","2,06,64,40","2,14,90,98",2236 02 102 KW 36700
+05,Eggs,"1,90,23,04","2,37,56,67","2,06,64,40","2,14,90,98",2236 02 102 KW 36705
+373,Transport Charges,,1,1,1,2236 02 102 KW 37300
+01,Transport Charges,,1,1,1,2236 02 102 KW 37301
+KW,Total KW,"1,90,23,04","2,37,56,68","2,06,64,41","2,14,90,99",
+KX,Payment for Supply of Eggs to the beneficiaries under Integrated Child Development Services Scheme,,,,,2236 02 102 KX 30000
+367,Feeding/Dietary Charges,"56,22,77","56,22,88","51,93,91","54,01,67",2236 02 102 KX 36700
+05,Eggs,"56,22,77","56,22,88","51,93,91","54,01,67",2236 02 102 KX 36705
+373,Transport Charges,,1,1,1,2236 02 102 KX 37300
+01,Transport Charges,,1,1,1,2236 02 102 KX 37301
+KX,Total KX,"56,22,77","56,22,89","51,93,92","54,01,68",
+KY,Supply of Fortified Rice in PTMGRNMP and ICDS under State Innovation Fund,,,,,2236 02 102 KY 30000
+302,Wages,"18,75",1,"8,00","8,00",2236 02 102 KY 30200
+01,Wages,"18,75",1,"8,00","8,00",2236 02 102 KY 30201
+305,Office Expenses,"6,25",1,"10,00","15,00",2236 02 102 KY 30500
+03,Electricity Charges,"6,25",1,"10,00","15,00",2236 02 102 KY 30503
+309,Grants-in-Aid,,"3,65,85",1,1,2236 02 102 KY 30900
+03,Grants for Specific Schemes,,"3,65,85",1,1,2236 02 102 KY 30903
+319,Machinery and Equipments,"41,05",1,1,1,2236 02 102 KY 31900
+01,Purchase,"41,05",1,1,1,2236 02 102 KY 31901
+342,Service or Commitment Charges,20,1,"2,40","2,40",2236 02 102 KY 34200
+01,Service or Commitment Charges,20,1,"2,40","2,40",2236 02 102 KY 34201
+367,Feeding/Dietary Charges,"97,15",1,1,1,2236 02 102 KY 36700
+01,Rice,"97,15",1,1,1,2236 02 102 KY 36701
+KY,Total KY,"1,63,40","3,65,90","20,43","25,43",
+#,State's Expenditure Total,"14,18,34,81","14,89,53,33","14,55,73,56","15,83,81,82",
+#,Central Sector Schemes,,,,,
+SA,National Programme of Nutritional Support to Primary Education (Mid Day Meal Scheme),,,,,2236 02 102 SA 30000
+309,Grants-in-Aid,"7,62,11","7,53,67","11,81,64","12,28,91",2236 02 102 SA 30900
+03,Grants for Specific Schemes,"7,62,11","7,53,67","11,81,64","12,28,91",2236 02 102 SA 30903
+324,Materials and Supplies,-64,1,"9,14,66",1,2236 02 102 SA 32400
+01,Materials and Supplies,-64,1,"9,14,66",1,2236 02 102 SA 32401
+SA,Total SA,"7,61,47","7,53,68","20,96,30","12,28,92",
+SB,Supply of Free Rice to Primary and Upper Primary Students under National Programme for Mid Day Meals Scheme,,,,,2236 02 102 SB 30000
+367,Feeding/Dietary Charges,"13,38,80","26,55,92","25,56,72","26,58,99",2236 02 102 SB 36700
+01,Rice,"13,38,80","26,55,92","25,56,72","26,58,99",2236 02 102 SB 36701
+373,Transport Charges,"3,35,72","6,63,98","12,78,36","13,29,49",2236 02 102 SB 37300
+01,Transport Charges,"3,35,72","6,63,98","12,78,36","13,29,49",2236 02 102 SB 37301
+SB,Total SB,"16,74,52","33,19,90","38,35,08","39,88,48",
+SC,Providing Nutritious Meal to children under National Child Labour Programme (NCLP),,,,,2236 02 102 SC 30000
+301,Salaries,,1,1,1,2236 02 102 SC 30100
+09,Honorarium,,1,1,1,2236 02 102 SC 30109
+367,Feeding/Dietary Charges,"37,88","94,92","81,05","81,48",2236 02 102 SC 36700
+01,Rice,"11,57","6,95","5,76","5,99",2236 02 102 SC 36701 
+09,Others,"26,31","87,97","75,29","75,49",2236 02 102 SC 36709 
+373,Transport Charges,83,"1,74","2,88","3,00",2236 02 102 SC 37300
+01,Transport Charges,83,"1,74","2,88","3,00",2236 02 102 SC 37301
+SC,Total SC,"38,71","96,67","83,94","84,49",
+#,Central Sector Schemes Total,"24,74,70","41,70,25","60,15,32","53,01,89",
+#,Schemes shared between State and Centre,,,,,
+UC,Setting up of Vegitable Garden in Nutrition  Meal Centres under Puratchi Thalaivar  M.G.R. Nutritious Meal Programme,,,,,2236 02 102 UC 30000
+369,Procurement of Agricultural Inputs,,,"5,01,20",1,2236 02 102 UC 36900
+01,Procurement of Agricultural Inputs,,,"5,01,20",1,2236 02 102 UC 36901
+UC,Total UC,,,"5,01,20",1,
+#,Schemes shared between State and Centre Total,,,"5,01,20",1,
+102,Total 102,"14,43,09,51","15,31,23,58","15,20,90,08","16,36,83,72",
+789,Special Component Plan for Scheduled Castes,,,,,
+#,State's Expenditure,,,,,
+JE,Feeding Children in the age group of 5 -9 under Puratchi Thalaivar MGR Nutritious Meals Programme - Payment of cost to Tamil Nadu Civil Supplies Corporation for supply of food articles under Special Component Plan,,,,,2236 02 789 JE 30000
+367,Feeding/Dietary Charges,"8,01,20","9,17,14","6,97,87","7,17,78",2236 02 789 JE 36700
+01,Rice,,1,1,1,2236 02 789 JE 36701
+02,Dhall,"6,21,67","7,17,02","4,97,75","5,17,66",2236 02 789 JE 36702
+03,Oil,"1,79,53","2,00,11","2,00,11","2,00,11",2236 02 789 JE 36703
+JE,Total JE,"8,01,20","9,17,14","6,97,87","7,17,78",
+JI,Feeding children in the Age Group of 10-14 under Puratchi Thalaivar MGR NMP - payment of cost to TNCSC for supply of food articles under Special Component Plan,,,,,2236 02 789 JI 30000
+367,Feeding/Dietary Charges,"10,68,03","20,57,64","19,42,91","19,83,13",2236 02 789 JI 36700
+01,Rice,"4,24,03","6,58,50","6,58,50","6,58,50",2236 02 789 JI 36701
+02,Dhall,"4,77,99","11,20,28","10,05,55","10,45,77",2236 02 789 JI 36702
+03,Oil,"1,66,01","2,78,86","2,78,86","2,78,86",2236 02 789 JI 36703
+JI,Total JI,"10,68,03","20,57,64","19,42,91","19,83,13",
+JK,Payment for Supply of Eggs to the beneficiaries under Puratchi Thalaivar MGR Nutritious Meal Programme under Special Component Plan,,,,,2236 02 789 JK 30000
+367,Feeding/Dietary Charges,"1,03,03,37","1,28,74,70","1,10,07,43","1,14,47,73",2236 02 789 JK 36700
+05,Eggs,"1,03,03,37","1,28,74,70","1,10,07,43","1,14,47,73",2236 02 789 JK 36705
+373,Transport Charges,,1,1,1,2236 02 789 JK 37300
+01,Transport Charges,,1,1,1,2236 02 789 JK 37301
+JK,Total JK,"1,03,03,37","1,28,74,71","1,10,07,44","1,14,47,74",
+JL,Payment for Supply of Eggs to the beneficiaries under Integrated Child Development Scheme under Special Component Plan,,,,,2236 02 789 JL 30000
+367,Feeding/Dietary Charges,"24,72,26","25,08,20","23,34,48","24,27,86",2236 02 789 JL 36700
+05,Eggs,"24,72,26","25,08,20","23,34,48","24,27,86",2236 02 789 JL 36705
+373,Transport Charges,,1,1,1,2236 02 789 JL 37300
+01,Transport Charges,,1,1,1,2236 02 789 JL 37301
+JL,Total JL,"24,72,26","25,08,21","23,34,49","24,27,87",
+JN,Feeding Children in the age group of 5-9 years under Puratchi Thalaivar MGR Nutritious Meals Programme  under Special Component Plan,,,,,2236 02 789 JN 30000
+367,Feeding/Dietary Charges,"17,89,01","18,60,87","19,83,41","22,53,80",2236 02 789 JN 36700
+04,"Vegetables, Condiments","16,78,77","17,43,95","18,77,01","21,43,14",2236 02 789 JN 36704
+06,Potato,"1,06,52","1,09,67","1,04,47","1,08,65",2236 02 789 JN 36706
+08,Banana,"3,72","7,25","1,93","2,01",2236 02 789 JN 36708
+JN,Total JN,"17,89,01","18,60,87","19,83,41","22,53,80",
+JO,Feeding Children in the Age Group of 10-14 years under Puratchi Thalaivar MGR Nutritious Meal Programme under Special Component Plan,,,,,2236 02 789 JO 30000
+367,Feeding/Dietary Charges,"22,45,37","28,57,22","30,62,32","34,81,48",2236 02 789 JO 36700
+04,"Vegetables, Condiments","21,07,69","27,08,11","29,14,74","33,28,00",2236 02 789 JO 36704
+06,Potato,"1,33,16","1,43,40","1,45,29","1,51,10",2236 02 789 JO 36706
+08,Banana,"4,52","5,71","2,29","2,38",2236 02 789 JO 36708
+JO,Total JO,"22,45,37","28,57,22","30,62,32","34,81,48",
+JQ,Puratchi Thalaivar MGR Nutritious Meal Programme for Children in the age group of 5 to 9 in the Corporation and Municipal Schools,,,,,2236 02 789 JQ 30000
+367,Feeding/Dietary Charges,"45,89","46,24","48,43","55,08",2236 02 789 JQ 36700
+04,"Vegetables, Condiments","42,66","42,97","46,25","52,81",2236 02 789 JQ 36704
+06,Potato,"3,11","3,15","2,17","2,26",2236 02 789 JQ 36706
+08,Banana,12,12,1,1,2236 02 789 JQ 36708
+JQ,Total JQ,"45,89","46,24","48,43","55,08",
+JR,Puratchi Thalaivar MGR Nutritious Meal Programme for Children in the age group of 10 to 14 in the Corporation and Municipal Schools,,,,,2236 02 789 JR 30000
+367,Feeding/Dietary Charges,"59,16","59,34","62,18","70,72",2236 02 789 JR 36700
+04,"Vegetables, Condiments","55,07","55,20","59,41","67,84",2236 02 789 JR 36704
+06,Potato,"3,99","4,02","2,76","2,87",2236 02 789 JR 36706
+08,Banana,10,12,1,1,2236 02 789 JR 36708
+JR,Total JR,"59,16","59,34","62,18","70,72",
+#,State's Expenditure,,,,,
+#,Central Sector Schemes,,,,,
+SC,Supply of Free Rice to Primary and Upper Primary Students under National Programme for Mid Day Meals Scheme under Special Component Plan,,,,,2236 02 789 SC 30000
+367,Feeding/Dietary Charges,"4,35,70","8,70,24","8,27,24","8,60,33",2236 02 789 SC 36700
+01,Rice,"4,35,70","8,70,24","8,27,24","8,60,33",2236 02 789 SC 36701
+373,Transport Charges,"1,23,88","2,17,56","4,13,62","4,30,16",2236 02 789 SC 37300
+01,Transport Charges,"1,23,88","2,17,56","4,13,62","4,30,16",2236 02 789 SC 37301
+SC,Total SC,"5,59,58","10,87,80","12,40,86","12,90,49",
+SD,Providing Nutritious Meal to children under National Child Labour Programme (NCLP) under Special Component Plan,,,,,2236 02 789 SD 30000
+367,Feeding/Dietary Charges,"2,03","2,28","1,87","1,94",2236 02 789 SD 36700
+01,Rice,"2,03","2,28","1,87","1,94",2236 02 789 SD 36701
+373,Transport Charges,31,57,93,97,2236 02 789 SD 37300
+01,Transport Charges,31,57,93,97,2236 02 789 SD 37301
+SD,Total SD,"2,34","2,85","2,80","2,91",
+#,Central Sector Schemes Total,"5,61,92","10,90,65","12,43,66","12,93,40",
+789,Total 789,"1,93,46,21","2,42,72,02","2,23,82,71","2,37,31,00",
+796,Tribal Area Sub-Plan,,,,,
+#,State's Expenditure,,,,,
+JC,Feeding Children in the age group of 5 -9 under Puratchi Thalaivar MGR Nutritious Meals Programme - Payment of cost to Tamil Nadu Civil Supplies Corporation for supply of food articles under Tribal Sub-Plan,,,,,2236 02 796 JC 30000
+367,Feeding/Dietary Charges,"72,35","1,32,03","72,07","73,85",2236 02 796 JC 36700
+01,Rice,,1,1,1,2236 02 796 JC 36701
+02,Dhall,"56,52","1,04,44","44,48","46,26",2236 02 796 JC 36702
+03,Oil,"15,83","27,58","27,58","27,58",2236 02 796 JC 36703
+JC,Total JC,"72,35","1,32,03","72,07","73,85",
+JD,Puratchithalaivar MGR Nutritious Meal Programme for children in the age group of 10 to 14 in the Government and aided schools  under Tribal Sub-Plan,,,,,2236 02 796 JD 30000
+367,Feeding/Dietary Charges,"2,49,08","2,65,76","2,85,28","3,24,20",2236 02 796 JD 36700
+04,"Vegetables, Condiments","2,36,82","2,51,17","2,70,33","3,08,66",2236 02 796 JD 36704
+06,Potato,"11,83","14,16","14,35","14,92",2236 02 796 JD 36706
+08,Banana,43,43,60,62,2236 02 796 JD 36708
+JD,Total JD,"2,49,08","2,65,76","2,85,28","3,24,20",
+JE,Payment for Supply of Eggs to the beneficiaries under Puratchi Thalaivar MGR Nutritious Meal Programme under Tribal Sub-Plan,,,,,2236 02 796 JE 30000
+367,Feeding/Dietary Charges,"8,75,11","11,09,88","7,28,37","7,57,51",2236 02 796 JE 36700
+05,Eggs,"8,75,11","11,09,88","7,28,37","7,57,51",2236 02 796 JE 36705
+373,Transport Charges,,1,1,1,2236 02 796 JE 37300
+01,Transport Charges,,1,1,1,2236 02 796 JE 37301
+JE,Total JE,"8,75,11","11,09,89","7,28,38","7,57,52",
+JF,Puratchithalaivar MGR Nutritious Meal Programme for Children in the age group of 5 to 9  under Tribal Sub-Plan,,,,,2236 02 796 JF 30000
+367,Feeding/Dietary Charges,"2,05,24","2,26,82","2,43,11","2,76,26",2236 02 796 JF 36700
+04,"Vegetables, Condiments","1,95,21","2,13,80","2,30,11","2,62,74",2236 02 796 JF 36704
+06,Potato,"9,90","11,86","11,30","11,75",2236 02 796 JF 36706
+08,Banana,13,"1,16","1,70","1,77",2236 02 796 JF 36708
+JF,Total JF,"2,05,24","2,26,82","2,43,11","2,76,26",
+JI,Payment for Supply of Eggs to the beneficiaries under Integrated Child Development Scheme under Tribal Sub-Plan,,,,,2236 02 796 JI 30000
+367,Feeding/Dietary Charges,"1,73,07","2,00,00","1,26,97","1,32,05",2236 02 796 JI 36700
+05,Eggs,"1,73,07","2,00,00","1,26,97","1,32,05",2236 02 796 JI 36705
+373,Transport Charges,,1,1,1,2236 02 796 JI 37300
+01,Transport Charges,,1,1,1,2236 02 796 JI 37301
+JI,Total JI,"1,73,07","2,00,01","1,26,98","1,32,06",
+JK,Puratchi Thalaivar MGR Nutritious Meal Programme for Children in the age group of 5 to 9 in the Corporation and Municipal Schools,,,,,2236 02 796 JK 30000
+367,Feeding/Dietary Charges,"1,60","1,66","1,73","1,96",2236 02 796 JK 36700
+04,"Vegetables, Condiments","1,46","1,50","1,62","1,85",2236 02 796 JK 36704
+06,Potato,14,15,10,10,2236 02 796 JK 36706
+08,Banana,,1,1,1,2236 02 796 JK 36708
+JK,Total JK,"1,60","1,66","1,73","1,96",
+JL,Puratchi Thalaivar MGR Nutritious Meal Programme for Children in the age group of 10 to 14 in the Corporation and Municipal Schools,,,,,2236 02 796 JL 30000
+367,Feeding/Dietary Charges,"1,96","2,30","2,39","2,72",2236 02 796 JL 36700
+04,"Vegetables, Condiments","1,84","2,09","2,25","2,57",2236 02 796 JL 36704
+06,Potato,12,20,13,14,2236 02 796 JL 36706
+08,Banana,,1,1,1,2236 02 796 JL 36708
+JL,Total JL,"1,96","2,30","2,39","2,72",
+#,State's Expenditure Total,"15,78,41","19,38,47","14,59,94","15,68,57",
+#,Central Sector Schemes,,,,,
+SC,Supply of Free Rice to Primary and Upper Primary Students under National Programme for Mid Day Meals Scheme under Tribal Area Sub-Plan,,,,,2236 02 796 SC 30000
+367,Feeding/Dietary Charges,"30,16","60,98","57,12","59,40",2236 02 796 SC 36700
+01,Rice,"30,16","60,98","57,12","59,40",2236 02 796 SC 36701
+373,Transport Charges,"9,80","15,24","28,56","29,70",2236 02 796 SC 37300
+01,Transport Charges,"9,80","15,24","28,56","29,70",2236 02 796 SC 37301
+SC,Total SC,"39,96","76,22","85,68","89,10",
+SD,Providing Nutritious Meal to children under National Child Labour Programme (NCLP) under Tribal Area Sub-Plan,,,,,2236 02 796 SD 30000
+367,Feeding/Dietary Charges,13,16,13,14,2236 02 796 SD 36700
+01,Rice,13,16,13,14,2236 02 796 SD 36701
+373,Transport Charges,3,4,7,7,2236 02 796 SD 37300
+01,Transport Charges,3,4,7,7,2236 02 796 SD 37301
+SD,Total SD,16,20,20,21,
+#,Central Sector Schemes Total,"40,12","76,42","85,88","89,31",
+796,Total 796,"16,18,53","20,14,89","15,45,82","16,57,88",
+902,Deduct - Amount met from State Innovation Fund,,,,,
+#,State's Expenditure,,,,,
+JB,Deduct - Amount met from State Innovation Fund,,,,,2236 02 902 JB 30000
+330,Inter-Account Transfers,"-1,63,40","-2,27,65",,"-25,43",2236 02 902 JB 33000
+01,Inter-Account Transfers,"-1,63,40","-2,27,65",,"-25,43",2236 02 902 JB 33001
+JB,Total JB,"-1,63,40","-2,27,65",,"-25,43",
+#,State's Expenditure Total,"-1,63,40","-2,27,65",,"-25,43",
+902,Total 902,"-1,63,40","-2,27,65",,"-25,43",
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+AR,Staff for implementing Puratchithalaivar MGR Nutritious Meal Programme in rural areas,,,,,2236 02 911 AR 30000
+377,Deduct-Recoveries,-80,,,,2236 02 911 AR 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-80,,,,2236 02 911 AR 37702
+AR,Total AR,-80,,,,
+KB,Feeding to Children in the age group of 10-14 under Puratchi Thalaivar MGR Nutritious Meal Programme  - Payment of cost to Tamil Nadu Civil Supplies Corporation for supply of food articles,,,,,2236 02 911 KB 30000
+377,Deduct-Recoveries,"-1,43",,,,2236 02 911 KB 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-1,43",,,,2236 02 911 KB 37702
+KB,Total KB,"-1,43",,,,
+KC,Feeding of Children in age group of 5 -9 under Puratchithalaivar MGR Nutritious Meal Programme - Payment of cost to Tamil Nadu Civil Supplies Corporation for supply of food articles,,,,,2236 02 911 KC 30000
+377,Deduct-Recoveries,"-4,17",,,,2236 02 911 KC 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-4,17",,,,2236 02 911 KC 37702
+KC,Total KC,"-4,17",,,,
+KD,Feeding of poor children in the age group of 2 plus to 4 plus in Tamil Nadu,,,,,2236 02 911 KD 30000
+377,Deduct-Recoveries,-56,,,,2236 02 911 KD 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-56,,,,2236 02 911 KD 37702
+KD,Total KD,-56,,,,
+KM,New Programme for feeding poor children in the age group of 5 to 9 years in Denotified Community Schools,,,,,2236 02 911 KM 30000
+377,Deduct-Recoveries,-82,,,,2236 02 911 KM 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-82,,,,2236 02 911 KM 37702
+KM,Total KM,-82,,,,
+KN,Puratchithalaivar MGR Nutritious Meal Programme for children in the age group of 10 to 14 in the Government and aided schools,,,,,2236 02 911 KN 30000
+377,Deduct-Recoveries,"-3,62",,,,2236 02 911 KN 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-3,62",,,,2236 02 911 KN 37702
+KN,Total KN,"-3,62",,,,
+KO,Feeding children of Adi Dravidar Welfare Schools under Puratchithalaivar MGR Nutritious Meal Programme,,,,,2236 02 911 KO 30000
+377,Deduct-Recoveries,-18,,,,2236 02 911 KO 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-18,,,,2236 02 911 KO 37702
+KO,Total KO,-18,,,,
+#,State's Expenditure Total,"-11,58",,,,
+#,Central Sector Schemes,,,,,
+SA,National Programme of Nutritional Support to Primary Education (Mid Day Meal Scheme),,,,,2236 02 911 SA 30000
+377,Deduct-Recoveries,"-20,69",,,,2236 02 911 SA 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-20,69",,,,2236 02 911 SA 37702
+SA,Total SA,"-20,69",,,,
+SB,Supply of Free Rice to Primary and Upper Primary Students under National Programme for Mid Day Meals Scheme,,,,,2236 02 911 SB 30000
+377,Deduct-Recoveries,-54,,,,2236 02 911 SB 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-54,,,,2236 02 911 SB 37702
+SB,Total SB,-54,,,,
+#,Central Sector Schemes Total,"-21,23",,,,
+911,Total 911,"-32,81",,,,
+02,Total 02,"16,50,78,04","17,91,82,84","17,60,18,61","18,90,47,17",
+80,General,,,,,
+800,Other Expenditure,,,,,
+#,Schemes shared between State and Centre,,,,,
+#,Schemes shared between State and Centre,,,,,
+UB,Minor repairs carried out at Nutrition Meal Centers,,,,,2236 80 800 UB 30000
+317,Minor Works,,,"2,16,70",1,2236 80 800 UB 31700
+01,Minor Works,,,"2,16,70",1,2236 80 800 UB 31701
+UB,Total UB,,"2,16,70",1,,
+#,Schemes shared between State and Centre Total,,,"2,16,70",1,
+800,Total 800,,"2,16,70",1,,
+80,Total 80,,"2,16,70",1,,
+2236,Total 2236,"16,50,78,04","17,91,82,84","17,62,35,31","18,90,47,18",
+2551,HILL AREAS,,,,,
+01,Western Ghats,,,,,
+112,Nutrition,,,,,
+#,State's Expenditure,,,,,
+JA,Assistance for the implementation of Social Welfare Schemes under HADP in the Nilgiris District,,,,,2551 01 112 JA 30000
+309,Grants-in-Aid,,1,,,2551 01 112 JA 30900
+03,Grants for Specific Schemes,,1,,,2551 01 112 JA 30903
+JA,Total JA,1,,,,
+#,State's Expenditure Total,,1,,,
+112,Total 112,1,,,,
+01,Total 01,1,,,,
+2551,Total 2551,1,,,,
+4235,CAPITAL OUTLAY ON SOCIAL SECURITY AND WELFARE,,,,,
+02,Social Welfare,,,,,
+103,Women's Welfare,,,,,
+#,State's Expenditure,,,,,
+JE,Capital Assistance to Tamilnadu working women's Hostel Corporation as special purpose vehicle to undertake infrastructure Projects,,,,,4235 02 103 JE 40000
+422,Investments,,,"1,00,00",1,4235 02 103 JE 42200
+01,Investments,,,"1,00,00",1,4235 02 103 JE 42201
+JE,Total JE,,,"1,00,00",1,
+#,State's Expenditure Total,,,"1,00,00",1,
+103,Total 103,,,"1,00,00",1,
+02,Total 02,,,"1,00,00",1,
+4235,Total 4235,,,"1,00,00",1,
+4236,CAPITAL OUTLAY ON NUTRITION,,,,,
+80,General,,,,,
+800,Other Expenditure,,,,,
+#,Schemes shared between State and Centre,,,,,
+#,Schemes shared between State and Centre,,,,,
+UA,Construction of Kitchen-cum-Stores,,,,,4236 80 800 UA 40000
+416,Major Works,,1,1,1,4236 80 800 UA 41600
+01,Major Works,,1,1,1,4236 80 800 UA 41601
+477,Deduct-Recoveries,"-1,82,09,30",,,,4236 80 800 UA 47700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-1,82,09,30",,,,4236 80 800 UA 47702
+UA,Total UA,"-1,82,09,30",1,1,1,
+800,Total 800,"-1,82,09,30",1,1,1,
+80,Total 80,"-1,82,09,30",1,1,1,
+4236,Total 4236,"-1,82,09,30",1,1,1,

@@ -1,0 +1,239 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2059,PUBLIC WORKS,,,,,
+01,Office Buildings,,,,,
+053,Maintenance and Repairs,,,,,
+#,State's Expenditure,,,,,
+CM,Buildings - Directorate of Tamil Development,,,,,2059 01 053 CM 30000
+318,Maintenance,"8,36","8,50","13,30","8,50",2059 01 053 CM 31800 
+01,Periodical Maintenance,"8,36","8,50","13,30","8,50",2059 01 053 CM 31801
+CM,Total CM,"8,36","8,50","13,30","8,50",
+#,State's Expenditure Total,"8,36","8,50","13,30","8,50",
+053,Total 053,"8,36","8,50","13,30","8,50",
+01,Total 01,"8,36","8,50","13,30","8,50",
+2059,Total 2059,"8,36","8,50","13,30","8,50",
+2075-00,MISCELLANEOUS GENERAL SERVICES,,,,,
+104,Pensions and Awards in Consideration of Distinguished Services,,,,,
+#,State's Expenditure,,,,,
+AE,Pension to Tamil Scholars,,,,,2075 00 104 AE 30000
+327,Pensions,"1,28,50","1,47,40","1,78,32","1,78,32",2075 00 104 AE 32700
+05,Social Security Pensions,"1,28,50","1,47,40","1,78,32","1,78,32",2075 00 104 AE 32705
+AE,Total AE,"1,28,50","1,47,40","1,78,32","1,78,32",
+AF,Pension to the Persons who have rendered Meritorious Service for the Preservation and Promotion of Tamil Language Literature and Culture,,,,,2075 00 104 AF 30000
+327,Pensions,"4,85,17","6,68,22","5,75,70","5,75,70",2075 00 104 AF 32700
+05,Social Security Pensions,"4,85,17","6,68,22","5,75,70","5,75,70",2075 00 104 AF 32705
+AF,Total AF,"4,85,17","6,68,22","5,75,70","5,75,70",
+#,State's Expenditure Total,"6,13,67","8,15,62","7,54,02","7,54,02",
+104,Total 104,"6,13,67","8,15,62","7,54,02","7,54,02",
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+AE,Pension to Tamil Scholars,,,,,2075 00 911 AE 30000
+377,Deduct-Recoveries,-7,,,,2075 00 911 AE 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-7,,,,2075 00 911 AE 37702
+AE,Total AE,-7,,,,
+AF,Pension to the Persons who have rendered Meritorious Service for the Preservation and Promotion of Tamil Language Literature and Culture,,,,,2075 00 911 AF 30000
+377,Deduct-Recoveries,-67,,,,2075 00 911 AF 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-67,,,,2075 00 911 AF 37702
+AF,Total AF,-67,,,,
+#,State's Expenditure,,,,,
+911,Total 911,-74,,,,
+00,Total 00,"6,12,93","8,15,62","7,54,02","7,54,02",
+2075,Total 2075,"6,12,93","8,15,62","7,54,02","7,54,02",
+2202,GENERAL EDUCATION,,,,,
+03,University and Higher Education,,,,,
+102,Assistance to Universities,,,,,
+#,State's Expenditure,,,,,
+AI,"Tamil University, Thanjavur",,,,,2202 03 102 AI 30000
+309,Grants-in-Aid,"34,89,51","4,06,21","31,15,68","28,52,97",2202 03 102 AI 30900
+01,Grants for Current Expenditure,"18,04,46","3,81,19","29,31,02","24,91,96",2202 03 102 AI 30901
+02,Grants for Creation of Capital Assets,,1,,,2202 03 102 AI 30902
+03,Grants for Specific Schemes,"16,85,05","25,00","1,84,65","3,61,00",2202 03 102 AI 30903
+09,Others,,1,1,1,2202 03 102 AI 30909
+AI,Total AI,"34,89,51","4,06,21","31,15,68","28,52,97",
+#,State's Expenditure Total,"34,89,51","4,06,21","31,15,68","28,52,97",
+102,Total 102,"34,89,51","4,06,21","31,15,68","28,52,97",
+03,Total 03,"34,89,51","4,06,21","31,15,68","28,52,97",
+05,Language Development,,,,,
+001,Direction and Administration,,,,,
+#,State's Expenditure,,,,,
+AA,Directorate of Tamil Development,,,,,2202 05 001 AA 30000
+301,Salaries,"6,40,78","7,03,15","7,02,65","7,28,10",2202 05 001 AA 30100
+01,Pay,"5,85,02","6,38,56","6,36,14","6,61,59",2202 05 001 AA 30101
+02,Medical Allowance,"4,60","4,70","5,30","5,30",2202 05 001 AA 30102
+03,Medical Charges,21,30,30,30,2202 05 001 AA 30103
+04,Other Allowances,"6,56","6,20","7,52","7,52",2202 05 001 AA 30104
+06,House Rent Allowance,"38,70","47,00","47,00","47,00",2202 05 001 AA 30106
+07,Travel Concession,44,77,77,77,2202 05 001 AA 30107
+08,City Compensatory Allowance,"5,25","5,62","5,62","5,62",2202 05 001 AA 30108
+302,Wages,"3,69","3,72","3,72","3,72",2202 05 001 AA 30200
+01,Wages,"3,69","3,72","3,72","3,72",2202 05 001 AA 30201
+303,Dearness Allowance,"58,57","83,01","1,01,78","1,62,09",2202 05 001 AA 30300
+01,Dearness Allowance,"58,57","83,01","1,01,78","1,62,09",2202 05 001 AA 30301
+304,Travel Expenses,"11,59","12,01","51,73","12,01",2202 05 001 AA 30400
+01,Tour Travelling Allowances,"10,98","11,01","50,73","11,01",2202 05 001 AA 30401
+02,Transfer Travelling Allowances,61,"1,00","1,00","1,00",2202 05 001 AA 30402
+305,Office Expenses,"50,42","17,80","29,40","29,40",2202 05 001 AA 30500
+01,Telephone Charges,"6,17","4,56","4,56","4,56",2202 05 001 AA 30501
+02,Other Contingencies,"10,10","6,43","18,03","18,03",2202 05 001 AA 30502
+03,Electricity Charges,"3,89","4,80","4,80","4,80",2202 05 001 AA 30503
+04,Service Postage & Postal Expenditure,"1,85","2,00","2,00","2,00",2202 05 001 AA 30504
+05,Furniture,"28,41",1,1,1,2202 05 001 AA 30505
+306,"Rent, Rates and Taxes",,2,2,2,2202 05 001 AA 30600
+01,Rent,,1,1,1,2202 05 001 AA 30601
+03,Water Charges,,1,1,1,2202 05 001 AA 30603
+308,Advertising and Publicity,,"1,51","2,24","1,51",2202 05 001 AA 30800
+01,Advertisement Charges,,"1,50","2,23","1,50",2202 05 001 AA 30801
+09,Others,,1,1,1,2202 05 001 AA 30809
+309,Grants-in-Aid,"18,26","20,90","20,90","20,90",2202 05 001 AA 30900
+03,Grants for Specific Schemes,"18,26","20,90","20,90","20,90",2202 05 001 AA 30903
+313,Hospitality / Entertainment Expenditure,,,"21,28","21,28",2202 05 001 AA 31300
+01,Hospitality / Entertainment Expenditure,,,"21,28","21,28",2202 05 001 AA 31301
+319,Machinery and Equipments,"7,88","1,16","1,16","1,31",2202 05 001 AA 31900
+01,Purchase,"6,73",1,1,1,2202 05 001 AA 31901
+03,Maintenance,"1,15","1,15","1,15","1,30",2202 05 001 AA 31903
+321,Motor Vehicles,"2,06","1,81","2,26","2,07",2202 05 001 AA 32100
+01,Purchase,,1,1,1,2202 05 001 AA 32101
+02,Maintenance of Functional Vehicles,"2,06","1,80","2,25","2,06",2202 05 001 AA 32102
+333,Payments for Professional and Special Services,"98,18","86,80","88,80","87,69",2202 05 001 AA 33300
+01,Pleaders Fees,30,50,"2,50","1,00",2202 05 001 AA 33301
+02,Remuneration,"2,14","1,60","1,60","1,60",2202 05 001 AA 33302
+04,Contract Payment,"76,73","79,61","79,61","80,00",2202 05 001 AA 33304
+09,Other Payments,"19,01","5,09","5,09","5,09",2202 05 001 AA 33309
+345,"Petroleum, Oil and Lubricant","19,05","20,00","30,00","35,00",2202 05 001 AA 34500
+01,"Petroleum, Oil and Lubricant","19,05","20,00","30,00","35,00",2202 05 001 AA 34501
+349,Festival Advances,-62,,,,2202 05 001 AA 34900
+01,Festival Advances-Debit,"4,20","7,50","15,00","15,00",2202 05 001 AA 34901
+02,Festival Advances-Credit,"-4,82","-7,50","-15,00","-15,00",2202 05 001 AA 34902
+351,Compensation Charged,,1,1,1,2202 05 001 AA 35100
+51,Claims under no fault liability -  principal charges Charged,,1,1,1,2202 05 001 AA 35151
+359,Prizes and Awards,"1,50,70","64,21","94,14","97,84",2202 05 001 AA 35900
+01,Prizes and Awards,"1,50,70","64,21","94,14","97,84",2202 05 001 AA 35901
+360,T.A./D.A.to Non-Official Members,11,44,"41,06",44,2202 05 001 AA 36000
+01,T.A./D.A.to Non-Official Members,11,44,"41,06",44,2202 05 001 AA 36001
+368,"Cost of Books/Note Books/Slates, etc.",50,50,50,50,2202 05 001 AA 36800
+01,"Cost of Books/Note Books/Slates, etc.",50,50,50,50,2202 05 001 AA 36801
+371,Printing Charges,4,5,5,5,2202 05 001 AA 37100
+01,Printing Charges,4,5,5,5,2202 05 001 AA 37101
+372,Training,"43,90","43,90","43,90","59,45",2202 05 001 AA 37200 
+01,Training,"43,90","43,90","43,90","59,45",2202 05 001 AA 37201
+376,Computer and Accessories,"11,50","4,17","4,17","4,17",2202 05 001 AA 37600
+01,Purchase,"7,35",1,1,1,2202 05 001 AA 37601
+02,Maintenance,"3,33","3,36","3,36","3,36",2202 05 001 AA 37602
+03,Stationery,82,80,80,80,2202 05 001 AA 37603
+AA,Total AA Charged,,1,1,1,
+AA,Total AA Voted,"11,16,61","10,65,16","12,39,76","12,67,55",
+#,State's Expenditure Total Charged,,1,1,1,
+#,State's Expenditure Total Voted,"11,16,61","10,65,16","12,39,76","12,67,55",
+001,Total 001 Charged,,1,1,1,
+001,Total 001 Voted,"11,16,61","10,65,16","12,39,76","12,67,55",
+102,Promotion of Modern Indian Languages and Literature,,,,,
+#,State's Expenditure,,,,,
+AB,"Grants to the International Institute of Tamil Studies, Chennai",,,,,2202 05 102 AB 30000
+309,Grants-in-Aid,"6,01,44","3,46,68","4,57,97","4,37,72",2202 05 102 AB 30900
+01,Grants for Current Expenditure,"3,00,08","3,04,24","3,04,24","3,04,24",2202 05 102 AB 30901
+02,Grants for Creation of Capital Assets,,1,,,2202 05 102 AB 30902
+03,Grants for Specific Schemes,"3,01,36","42,42","1,53,72","1,23,47",2202 05 102 AB 30903
+09,Others,,1,1,"10,01",2202 05 102 AB 30909
+318,Maintenance,"8,00","8,00","8,00","8,00",2202 05 102 AB 31800
+01,Periodical Maintenance,"8,00","8,00","8,00","8,00",2202 05 102 AB 31801
+321,Motor Vehicles,"9,40",1,1,1,2202 05 102 AB 32100
+01,Purchase,"9,40",1,1,1,2202 05 102 AB 32101
+AB,Total AB,"6,18,84","3,54,69","4,65,98","4,45,73",
+AD,Grants to the Arivial Tamil Mandram,,,,,2202 05 102 AD 30000
+309,Grants-in-Aid,,1,1,1,2202 05 102 AD 30900
+01,Grants for Current Expenditure,,1,1,1,2202 05 102 AD 30901
+AD,Total AD,,1,1,1,
+AE,"Pensionary Grants to International Institute of Tamil Studies, Chennai",,,,,2202 05 102 AE 30000
+309,Grants-in-Aid,"1,09,19","1,13,56","1,13,56","1,13,56",2202 05 102 AE 30900
+01,Grants for Current Expenditure,"1,09,19","1,13,56","1,13,56","1,13,56",2202 05 102 AE 30901
+AE,Total AE,"1,09,19","1,13,56","1,13,56","1,13,56",
+AG,Grants to Madurai Ulaga Tamil Sangam,,,,,2202 05 102 AG 30000
+309,Grants-in-Aid,"1,05,62","15,77,85","8,84,52","6,36,35",2202 05 102 AG 30900
+01,Grants for Current Expenditure,"84,76","55,48","74,15","74,48",2202 05 102 AG 30901
+02,Grants for Creation of Capital Assets,,"15,00,00","5,00,00","5,00,00",2202 05 102 AG 30902
+03,Grants for Specific Schemes,"20,86","22,36","3,10,36","61,86",2202 05 102 AG 30903
+09,Others,,1,1,1,2202 05 102 AG 30909
+AG,Total AG,"1,05,62","15,77,85","8,84,52","6,36,35",
+AH,Endowment for Chair in Tamil Studies in Foreign Universities,,,,,2202 05 102 AH 30000
+309,Grants-in-Aid,,1,"1,00,01",1,2202 05 102 AH 30900
+03,Grants for Specific Schemes,,1,"1,00,01",1,2202 05 102 AH 30903
+AH,Total AH,1,"1,00,01",1,,
+AI,Tamil Language Propagation Centre,,,,,2202 05 102 AI 30000
+309,Grants-in-Aid,"50,00",1,1,1,2202 05 102 AI 30900
+01,Grants for Current Expenditure,"50,00",1,1,1,2202 05 102 AI 30901
+AI,Total AI,"50,00",1,1,1,
+AJ,Tamil Cultural Centre,,,,,2202 05 102 AJ 30000
+309,Grants-in-Aid,"25,00",1,1,1,2202 05 102 AJ 30900
+01,Grants for Current Expenditure,"25,00",1,1,1,2202 05 102 AJ 30901
+AJ,Total AJ,"25,00",1,1,1,
+#,State's Expenditure Total,"9,08,65","20,46,14","15,64,10","11,95,68",
+102,Total 102,"9,08,65","20,46,14","15,64,10","11,95,68",
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+AF,Literary Functions,,,,,2202 05 800 AF 30000
+305,Office Expenses,,1,1,1,2202 05 800 AF 30500
+02,Other Contingencies,,1,1,1,2202 05 800 AF 30502
+308,Advertising and Publicity,"14,21","35,22","45,90","47,02",2202 05 800 AF 30800
+09,Others,"14,21","35,22","45,90","47,02",2202 05 800 AF 30809
+309,Grants-in-Aid,,,"1,00,00",,2202 05 800 AF 30900
+03,Grants for Specific Schemes,,,"1,00,00",,2202 05 800 AF 30903
+AF,Total AF,"14,21","35,23","1,45,91","47,03",
+AK,"Grants, Prizes, etc for Tamil Development controlled by the Director of Tamil Development",,,,,2202 05 800 AK 30000
+304,Travel Expenses,,1,1,1,2202 05 800 AK 30400
+01,Tour Travelling Allowances,,1,1,1,2202 05 800 AK 30401
+305,Office Expenses,"3,69","13,01","13,51","13,01",2202 05 800 AK 30500
+02,Other Contingencies,"3,69","13,00","13,50","13,00",2202 05 800 AK 30502
+05,Furniture,,1,1,1,2202 05 800 AK 30505
+308,Advertising and Publicity,-9,1,"5,00",1,2202 05 800 AK 30800
+09,Others,-9,1,"5,00",1,2202 05 800 AK 30809
+309,Grants-in-Aid,"37,48","15,53","1,03,94","35,25",2202 05 800 AK 30900
+03,Grants for Specific Schemes,"37,48","15,53","1,03,94","35,25",2202 05 800 AK 30903
+319,Machinery and Equipments,,1,1,1,2202 05 800 AK 31900
+01,Purchase,,1,1,1,2202 05 800 AK 31901
+333,Payments for Professional and Special Services,,1,1,1,2202 05 800 AK 33300
+09,Other Payments,,1,1,1,2202 05 800 AK 33309
+334,Other Charges,5,5,5,5,2202 05 800 AK 33400
+02,"Purchase  of  Books & Periodicals to Libraries etc.,",5,5,5,5,2202 05 800 AK 33402
+359,Prizes and Awards,"53,96","44,46","44,46","44,46",2202 05 800 AK 35900
+01,Prizes and Awards,"53,96","44,46","44,46","44,46",2202 05 800 AK 35901
+360,T.A./D.A.to Non-Official Members,6,6,6,6,2202 05 800 AK 36000
+01,T.A./D.A.to Non-Official Members,6,6,6,6,2202 05 800 AK 36001
+371,Printing Charges,"20,00","20,00","20,00","20,00",2202 05 800 AK 37100
+01,Printing Charges,"20,00","20,00","20,00","20,00",2202 05 800 AK 37101
+376,Computer and Accessories,80,81,81,81,2202 05 800 AK 37600
+01,Purchase,,1,1,1,2202 05 800 AK 37601
+03,Stationery,80,80,80,80,2202 05 800 AK 37603
+AK,Total AK,"1,15,95","93,96","1,87,86","1,13,68",
+JE," Grants, Prizes, etc for Tamil Development controlled by the Director of Tamil Development",,,,,2202 05 800 JE 30000
+309,Grants-in-Aid,,,"1,17,41",,2202 05 800 JE 30900
+03,Grants for Specific Schemes,,,"1,17,41",,2202 05 800 JE 30903
+JE,Total JE,,"1,17,41",,,
+#,State's Expenditure Total,"1,30,16","1,29,19","4,51,18","1,60,71",
+800,Total 800,"1,30,16","1,29,19","4,51,18","1,60,71",
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+AA,Recoveries of Overpayment Controlled by the Director of Tamil Development,,,,,2202 05 911 AA 30000
+377,Deduct-Recoveries,"-1,96",,,,2202 05 911 AA 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-1,96",,,,2202 05 911 AA 37702
+AA,Total AA,"-1,96",,,,
+AF,Literary Functions,,,,,2202 05 911 AF 30000
+377,Deduct-Recoveries,-82,,,,2202 05 911 AF 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-82,,,,2202 05 911 AF 37702
+AF,Total AF,-82,,,,
+AG,Grants to Madurai Ulaga Tamil Sangam,,,,,2202 05 911 AG 30000
+377,Deduct-Recoveries,"-4,00,00",,,,2202 05 911 AG 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-4,00,00",,,,2202 05 911 AG 37702
+AG,Total AG,"-4,00,00",,,,
+AK," Grants, Prizes, etc for Tamil Development controlled by the Director of Tamil Development",,,,,2202 05 911 AK 30000
+377,Deduct-Recoveries,-20,,,,2202 05 911 AK 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-20,,,,2202 05 911 AK 37702
+AK,Total AK,-20,,,,
+JF,"Grants to the International Institute of Tamil Studies, Chennai",,,,,2202 05 911 JF 30000
+377,Deduct-Recoveries,-67,,,,2202 05 911 JF 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-67,,,,2202 05 911 JF 37702
+JF,Total JF,-67,,,,
+#,State's Expenditure Total,"-4,03,65",,,,
+911,Total 911,"-4,03,65",,,,
+05,Total 05 Charged,,1,1,1,
+05,Total 05 Voted,"17,51,77","32,40,49","32,55,04","26,23,94",
+2202,Total 2202 Charged,,1,1,1,
+2202,Total 2202 Voted,"52,41,28","36,46,70","63,70,72","54,76,91",
