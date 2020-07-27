@@ -1,0 +1,1355 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2210,MEDICAL AND PUBLIC HEALTH,,,,,
+03,Rural Health Service-Allopathy,,,,,
+110,Hospitals and Dispensaries,,,,,
+#,State's Expenditure,,,,,
+BR,Maintenance Grant for Maternity Centres of Local Bodies,,,,,2210 03 110 BR 30000
+309,Grants-in-Aid,,1,,,2210 03 110 BR 30900
+01,Grants for Current Expenditure,,1,,,2210 03 110 BR 30901
+BR,Total BR,1,,,,
+#,State's Expenditure Total,,1,,,
+110,Total 110,1,,,,
+03,Total 03,1,,,,
+2210,Total 2210,1,,,,
+2215,WATER SUPPLY AND SANITATION,,,,,
+01,Water Supply,,,,,
+102,Rural water Supply Programmes,,,,,
+#,State's Expenditure,,,,,
+KL,Assistance to Rural Local Bodies towards Water Supply Charges,,,,,2215 01 102 KL 30000
+309,Grants-in-Aid,"6,91,57","8,21,25","6,57,00","6,57,00",2215 01 102 KL 30900
+03,Grants for Specific Schemes,"6,91,57","8,21,25","6,57,00","6,57,00",2215 01 102 KL 30903
+KL,Total KL,"6,91,57","8,21,25","6,57,00","6,57,00",
+#,State's Expenditure Total,"6,91,57","8,21,25","6,57,00","6,57,00",
+102,Total 102,"6,91,57","8,21,25","6,57,00","6,57,00",
+01,Total 01,"6,91,57","8,21,25","6,57,00","6,57,00",
+02,Sewerage and Sanitation,,,,,
+105,Sanitation Services,,,,,
+#,State's Expenditure,,,,,
+JL,Total Sanitation Campaign - Swacch Bharat Mission,,,,,2215 02 105 JL 30000
+301,Salaries,"32,85","28,82","28,79","29,83",2215 02 105 JL 30100
+01,Pay,"30,07","25,96","25,96","27,00",2215 02 105 JL 30101
+02,Medical Allowance,4,8,8,8,2215 02 105 JL 30102
+03,Medical Charges,,2,1,1,2215 02 105 JL 30103
+04,Other Allowances,30,35,30,30,2215 02 105 JL 30104
+06,House Rent Allowance,"2,13","2,10","2,13","2,13",2215 02 105 JL 30106
+08,City Compensatory Allowance,31,31,31,31,2215 02 105 JL 30108
+303,Dearness Allowance,"2,37","3,40","3,64","6,62",2215 02 105 JL 30300
+01,Dearness Allowance,"2,37","3,40","3,64","6,62",2215 02 105 JL 30301
+304,Travel Expenses,28,"2,02","1,02","1,02",2215 02 105 JL 30400
+01,Tour Travelling Allowances,28,"2,00","1,00","1,00",2215 02 105 JL 30401
+02,Transfer Travelling Allowances,,2,2,2,2215 02 105 JL 30402
+305,Office Expenses,5,5,5,5,2215 02 105 JL 30500
+02,Other Contingencies,5,5,5,5,2215 02 105 JL 30502
+321,Motor Vehicles,15,15,15,15,2215 02 105 JL 32100
+02,Maintenance of Functional Vehicles,15,15,15,15,2215 02 105 JL 32102
+345,"Petroleum, Oil and Lubricant","2,87","3,00","3,50","3,50",2215 02 105 JL 34500
+01,"Petroleum, Oil and Lubricant","2,87","3,00","3,50","3,50",2215 02 105 JL 34501
+JL,Total JL,"38,57","37,44","37,15","41,17",
+#,State's Expenditure Total,"38,57","37,44","37,15","41,17",
+#,Schemes shared between State and Centre,,,,,
+UB,Total Sanitation Campaign - Swacch Bharat Mission,,,,,2215 02 105 UB 30000
+309,Grants-in-Aid,"5,35,90,88","2,64,00,00","3,68,19,85","2,64,00,00",2215 02 105 UB 30900
+03,Grants for Specific Schemes,"5,35,90,88","2,64,00,00","3,68,19,85","2,64,00,00",2215 02 105 UB 30903
+UB,Total UB,"5,35,90,88","2,64,00,00","3,68,19,85","2,64,00,00",
+#,Schemes shared between State and Centre Total,"5,35,90,88","2,64,00,00","3,68,19,85","2,64,00,00",
+105,Total 105,"5,36,29,45","2,64,37,44","3,68,57,00","2,64,41,17",
+793,Special Central Assistance for Scheduled Caste Component Plan,,,,,
+#,Schemes shared between State and Centre,,,,,
+UA,Total Sanitation Campaign - Swacch Bharat Mission,,,,,2215 02 793 UA 30000
+309,Grants-in-Aid,"2,54,13,68","1,32,00,00","1,84,09,93","1,32,00,00",2215 02 793 UA 30900
+03,Grants for Specific Schemes,"2,54,13,68","1,32,00,00","1,84,09,93","1,32,00,00",2215 02 793 UA 30903
+UA,Total UA,"2,54,13,68","1,32,00,00","1,84,09,93","1,32,00,00",
+#,Schemes shared between State and Centre Total,"2,54,13,68","1,32,00,00","1,84,09,93","1,32,00,00",
+793,Total 793,"2,54,13,68","1,32,00,00","1,84,09,93","1,32,00,00",
+794,Special Central Assistance for Tribal Sub-Plan,,,,,
+#,Schemes shared between State and Centre,,,,,
+UA,Total Sanitation Campaign - Swacch Bharat Mission,,,,,2215 02 794 UA 30000
+309,Grants-in-Aid,"16,54,04","4,00,00","5,57,88","4,00,00",2215 02 794 UA 30900
+03,Grants for Specific Schemes,"16,54,04","4,00,00","5,57,88","4,00,00",2215 02 794 UA 30903
+UA,Total UA,"16,54,04","4,00,00","5,57,88","4,00,00",
+#,Schemes shared between State and Centre Total,"16,54,04","4,00,00","5,57,88","4,00,00",
+794,Total 794,"16,54,04","4,00,00","5,57,88","4,00,00",
+02,Total 02,"8,06,97,17","4,00,37,44","5,58,24,81","4,00,41,17",
+2215,Total 2215,"8,13,88,74","4,08,58,69","5,64,81,81","4,06,98,17",
+2216,HOUSING,,,,,
+03,Rural Housing,,,,,
+789,Special Component Plan for Scheduled Castes,,,,,
+#,State's Expenditure,,,,,
+JB,Roofing cost for construction of Concrete Houses for Scheduled Castes,,,,,2216 03 789 JB 30000
+309,Grants-in-Aid,"3,77,62,26","3,77,62,06","3,52,52,98","3,77,62,06",2216 03 789 JB 30900
+02,Grants for Creation of Capital Assets,"3,77,62,26","3,77,62,06","3,52,52,98","3,77,62,06",2216 03 789 JB 30902
+JB,Total JB,"3,77,62,26","3,77,62,06","3,52,52,98","3,77,62,06",
+JD,Solar Powered Green House Scheme,,,,,2216 03 789 JD 30000
+309,Grants-in-Aid,"2,03,44,95","1,21,80,00","1,21,80,00","1,21,80,00",2216 03 789 JD 30900
+02,Grants for Creation of Capital Assets,"2,03,44,95","1,21,80,00","1,21,80,00","1,21,80,00",2216 03 789 JD 30902
+JD,Total JD,"2,03,44,95","1,21,80,00","1,21,80,00","1,21,80,00",
+JF,Repaired Housing Schemes for Scheduled Castes,,,,,2216 03 789 JF 30000
+311,Subsidies,"66,11,13",1,1,1,2216 03 789 JF 31100
+01,Individual Based Subsidy,"66,11,13",1,1,1,2216 03 789 JF 31101
+JF,Total JF,"66,11,13",1,1,1,
+#,State's Expenditure Total,"6,47,18,34","4,99,42,07","4,74,32,99","4,99,42,07",
+789,Total 789,"6,47,18,34","4,99,42,07","4,74,32,99","4,99,42,07",
+796,Tribal Area Sub-Plan,,,,,
+#,State's Expenditure,,,,,
+JB,Roofing cost for construction of Concrete Houses under Tribal Area Sub-Plan,,,,,2216 03 796 JB 30000
+309,Grants-in-Aid,"13,02,19","13,02,14","12,15,62","13,02,14",2216 03 796 JB 30900
+02,Grants for Creation of Capital Assets,"13,02,19","13,02,14","12,15,62","13,02,14",2216 03 796 JB 30902
+JB,Total JB,"13,02,19","13,02,14","12,15,62","13,02,14",
+JC,Solar Powered Green House Scheme,,,,,2216 03 796 JC 30000
+309,Grants-in-Aid,"7,01,55","4,20,00","4,20,00","4,20,00",2216 03 796 JC 30900
+02,Grants for Creation of Capital Assets,"7,01,55","4,20,00","4,20,00","4,20,00",2216 03 796 JC 30902
+JC,Total JC,"7,01,55","4,20,00","4,20,00","4,20,00",
+JE,Repaired Housing Schemes under Tribal Area Sub-Plan,,,,,2216 03 796 JE 30000
+311,Subsidies,"2,27,97",1,1,1,2216 03 796 JE 31100
+01,Individual Based Subsidy,"2,27,97",1,1,1,2216 03 796 JE 31101
+JE,Total JE,"2,27,97",1,1,1,
+JF,Special allocation for differential cost of housing for tribal families,,,,,2216 03 796 JF 30000
+309,Grants-in-Aid,,,,"80,00,00",2216 03 796 JF 30900
+03,Grants for Specific Schemes,,,,"80,00,00",2216 03 796 JF 30903
+JF,Total JF,,,"80,00,00",,
+#,State's Expenditure Total,"22,31,71","17,22,15","16,35,63","97,22,15",
+796,Total 796,"22,31,71","17,22,15","16,35,63","97,22,15",
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+JA,Roofing cost for construction of Concrete Houses for Other Backward Classes,,,,,2216 03 800 JA 30000
+309,Grants-in-Aid,"2,60,43,05","2,60,42,80","2,43,12,40","2,60,42,80",2216 03 800 JA 30900
+02,Grants for Creation of Capital Assets,"2,60,43,05","2,60,42,80","2,43,12,40","2,60,42,80",2216 03 800 JA 30902
+JA,Total JA,"2,60,43,05","2,60,42,80","2,43,12,40","2,60,42,80",
+JE,Grant towards Payment of interest for the loan obtained by TNRHIDC for implementation of IAY Scheme,,,,,2216 03 800 JE 30000
+309,Grants-in-Aid,"46,49,01","43,45,83","43,45,83","38,84,20",2216 03 800 JE 30900
+04,Grants for Debt Servicing,"46,49,01","43,45,83","43,45,83","38,84,20",2216 03 800 JE 30904
+JE,Total JE,"46,49,01","43,45,83","43,45,83","38,84,20",
+JF,Grant towards Payment of Principal for the Loan obtained by TNRHIDC for implementation of IAY Scheme,,,,,2216 03 800 JF 30000
+309,Grants-in-Aid,"51,45,52","51,45,52","51,45,52","51,45,52",2216 03 800 JF 30900
+04,Grants for Debt Servicing,"51,45,52","51,45,52","51,45,52","51,45,52",2216 03 800 JF 30904
+JF,Total JF,"51,45,52","51,45,52","51,45,52","51,45,52",
+JG,Solar Powered Green House Scheme,,,,,2216 03 800 JG 30000
+309,Grants-in-Aid,"4,91,08,50","2,94,00,00","2,94,00,00","2,94,00,00",2216 03 800 JG 30900
+02,Grants for Creation of Capital Assets,"4,91,08,50","2,94,00,00","2,94,00,00","2,94,00,00",2216 03 800 JG 30902
+JG,Total JG,"4,91,08,50","2,94,00,00","2,94,00,00","2,94,00,00",
+JI,Repaired Housing Schemes for Other Backward Classes,,,,,2216 03 800 JI 30000
+311,Subsidies,"1,59,57,90",1,1,1,2216 03 800 JI 31100
+01,Individual Based Subsidy,"1,59,57,90",1,1,1,2216 03 800 JI 31101
+JI,Total JI,"1,59,57,90",1,1,1,
+#,State's Expenditure Total,"10,09,03,98","6,49,34,16","6,32,03,76","6,44,72,53",
+800,Total 800,"10,09,03,98","6,49,34,16","6,32,03,76","6,44,72,53",
+03,Total 03,"16,78,54,03","11,65,98,38","11,22,72,38","12,41,36,75",
+2216,Total 2216,"16,78,54,03","11,65,98,38","11,22,72,38","12,41,36,75",
+2225,"WELFARE OF SCHEDULED CASTE, SCHEDULED TRIBES, OTHER BACKWARD CLASSES AND MINORITIES",,,,,
+01,Welfare of Scheduled Castes,,,,,
+789,Special Component Plan for Scheduled Castes,,,,,
+#,State's Expenditure,,,,,
+AB,Extension Officers (ADW) to implement the Programme intended for the welfare of the Scheduled Caste/Scheduled Tribe under Special Component Plan - Village Panchayats,,,,,2225 01 789 AB 30000
+301,Salaries,"20,76,42","22,46,35","23,31,16","24,18,70",2225 01 789 AB 30100
+01,Pay,"19,32,36","20,96,34","21,78,91","22,66,07",2225 01 789 AB 30101
+02,Medical Allowance,"12,79","13,67","13,37","13,64",2225 01 789 AB 30102
+04,Other Allowances,"12,40","9,90","12,40","12,40",2225 01 789 AB 30104
+06,House Rent Allowance,"1,06,91","1,19,59","1,19,59","1,19,59",2225 01 789 AB 30106
+07,Travel Concession,"7,27","1,44","1,78","1,89",2225 01 789 AB 30107
+08,City Compensatory Allowance,"4,69","5,41","5,11","5,11",2225 01 789 AB 30108
+303,Dearness Allowance,"1,90,58","2,72,53","2,15,13","5,55,19",2225 01 789 AB 30300
+01,Dearness Allowance,"1,90,58","2,72,53","2,15,13","5,55,19",2225 01 789 AB 30301
+304,Travel Expenses,"1,16,77","1,46,47","1,46,72","1,46,63",2225 01 789 AB 30400
+01,Tour Travelling Allowances,"76,81","1,00,00","1,00,16","1,00,16",2225 01 789 AB 30401
+02,Transfer Travelling Allowances,"1,16","3,32","3,41","3,32",2225 01 789 AB 30402
+03,Fixed Travelling Allowances,"38,80","43,15","43,15","43,15",2225 01 789 AB 30403
+349,Festival Advances,-63,,,,2225 01 789 AB 34900
+01,Festival Advances-Debit,"9,85","17,95","36,95","52,45",2225 01 789 AB 34901
+02,Festival Advances-Credit,"-10,48","-17,95","-36,95","-52,45",2225 01 789 AB 34902
+AB,Total AB,"23,83,14","26,65,35","26,93,01","31,20,52",
+#,State's Expenditure Total,"23,83,14","26,65,35","26,93,01","31,20,52",
+789,Total 789,"23,83,14","26,65,35","26,93,01","31,20,52",
+01,Total 01,"23,83,14","26,65,35","26,93,01","31,20,52",
+2225,Total 2225,"23,83,14","26,65,35","26,93,01","31,20,52",
+2235,SOCIAL SECURITY AND WELFARE,,,,,
+02,Social Welfare,,,,,
+103,Women's Welfare,,,,,
+#,State's Expenditure,,,,,
+LC,Tamil Nadu Women Development Project (Mahalir Thittam),,,,,2235 02 103 LC 30000
+311,Subsidies,,1,,,2235 02 103 LC 31100
+02,General Subsidy,,1,,,2235 02 103 LC 31102
+LC,Total LC,1,,,,
+MA,Amma Two Wheeler Scheme,,,,,2235 02 103 MA 30000
+311,Subsidies,"1,00,65,17","1,95,00,00","2,37,90,00","1,97,44,49",2235 02 103 MA 31100
+02,General Subsidy,"1,00,65,17","1,95,00,00","2,37,90,00","1,97,44,49",2235 02 103 MA 31102
+MA,Total MA,"1,00,65,17","1,95,00,00","2,37,90,00","1,97,44,49",
+#,State's Expenditure Total,"1,00,65,17","1,95,00,01","2,37,90,00","1,97,44,49",
+#,Externally Aided Projects,,,,,
+PD,World Bank aided Tamil Nadu Empowerment and Poverty Reduction Project,,,,,2235 02 103 PD 30000
+309,Grants-in-Aid,,1,1,1,2235 02 103 PD 30900
+03,Grants for Specific Schemes,,1,1,1,2235 02 103 PD 30903
+PD,Total PD,1,1,1,,
+PE,World Bank aided Tamil Nadu Rural Transformation Project (TNPVP Phase-II),,,,,2235 02 103 PE 30000
+309,Grants-in-Aid,"38,67,82","1,18,68,00","50,31,42","1,12,71,46",2235 02 103 PE 30900
+03,Grants for Specific Schemes,"38,67,82","1,18,68,00","50,31,42","1,12,71,46",2235 02 103 PE 30903
+PE,Total PE,"38,67,82","1,18,68,00","50,31,42","1,12,71,46",
+#,Externally Aided Projects Total,"38,67,82","1,18,68,01","50,31,43","1,12,71,47",
+103,Total 103,"1,39,32,99","3,13,68,02","2,88,21,43","3,10,15,96",
+200,Other Programmes,,,,,
+#,State's Expenditure,,,,,
+JL,Special Fund Assistance to the families under Below Poverty Line - Rural Area,,,,,2235 02 200 JL 30000
+309,Grants-in-Aid,"15,00",,"1,12,48",1,2235 02 200 JL 30900
+01,Grants for Current Expenditure,,,"1,12,48",1,2235 02 200 JL 30901
+09,Others,"15,00",,,,2235 02 200 JL 30909
+JL,Total JL,"15,00",,"1,12,48",1,
+#,State's Expenditure Total,"15,00",,"1,12,48",1,
+200,Total 200,"15,00",,"1,12,48",1,
+789,Special Component Plan for Scheduled Castes,,,,,
+#,State's Expenditure,,,,,
+JD,Tamil Nadu Women Development Project (Mahalir Thittam) under Special Component Plan,,,,,2235 02 789 JD 30000
+311,Subsidies,,1,,,2235 02 789 JD 31100
+02,General Subsidy,,1,,,2235 02 789 JD 31102
+JD,Total JD,1,,,,
+JP,Amma Two Wheeler Scheme,,,,,2235 02 789 JP 30000
+311,Subsidies,,"52,50,00","64,05,00","53,15,82",2235 02 789 JP 31100
+02,General Subsidy,,"52,50,00","64,05,00","53,15,82",2235 02 789 JP 31102
+JP,Total JP,"52,50,00","64,05,00","53,15,82",,
+#,State's Expenditure Total,,"52,50,01","64,05,00","53,15,82",
+#,Externally Aided Projects,,,,,
+PA,World Bank aided Tamil Nadu Empowerment and Poverty Reduction Project under Special Component Plan,,,,,2235 02 789 PA 30000
+309,Grants-in-Aid,,1,1,1,2235 02 789 PA 30900
+03,Grants for Specific Schemes,,1,1,1,2235 02 789 PA 30903
+PA,Total PA,1,1,1,,
+PC,World Bank aided Tamil Nadu Rural Transformation Project (TNPVP Phase-II) under Special Component Plan,,,,,2235 02 789 PC 30000
+309,Grants-in-Aid,"16,97,40","51,60,00","21,87,58","49,00,63",2235 02 789 PC 30900
+03,Grants for Specific Schemes,"16,97,40","51,60,00","21,87,58","49,00,63",2235 02 789 PC 30903
+PC,Total PC,"16,97,40","51,60,00","21,87,58","49,00,63",
+#,Externally Aided Projects Total,"16,97,40","51,60,01","21,87,59","49,00,64",
+789,Total 789,"16,97,40","1,04,10,02","85,92,59","1,02,16,46",
+796,Tribal Area Sub-Plan,,,,,
+#,State's Expenditure,,,,,
+JE,Tamil Nadu Women Development Project (Mahalir Thittam),,,,,2235 02 796 JE 30000
+311,Subsidies,,1,,,2235 02 796 JE 31100
+02,General Subsidy,,1,,,2235 02 796 JE 31102
+JE,Total JE,1,,,,
+JG,Amma Two Wheeler Scheme,,,,,2235 02 796 JG 30000
+311,Subsidies,,"2,50,00","3,05,00","2,53,13",2235 02 796 JG 31100
+02,General Subsidy,,"2,50,00","3,05,00","2,53,13",2235 02 796 JG 31102
+JG,Total JG,"2,50,00","3,05,00","2,53,13",,
+#,State's Expenditure Total,,"2,50,01","3,05,00","2,53,13",
+#,Externally Aided Projects,,,,,
+PA,World Bank aided Tamil Nadu Empowerment and Poverty Reduction Project,,,,,2235 02 796 PA 30000
+309,Grants-in-Aid,,1,1,1,2235 02 796 PA 30900
+03,Grants for Specific Schemes,,1,1,1,2235 02 796 PA 30903
+PA,Total PA,1,1,1,,
+PC,World Bank aided Tamil Nadu Rural Transformation Project (TNPVP Phase-II) under Tribal Area Sub-Plan,,,,,2235 02 796 PC 30000
+309,Grants-in-Aid,"92,79","1,72,00","72,92","1,63,35",2235 02 796 PC 30900
+03,Grants for Specific Schemes,"92,79","1,72,00","72,92","1,63,35",2235 02 796 PC 30903
+PC,Total PC,"92,79","1,72,00","72,92","1,63,35",
+#,Externally Aided Projects Total,"92,79","1,72,01","72,93","1,63,36",
+796,Total 796,"92,79","4,22,02","3,77,93","4,16,49",
+911,Deduct - Recoveries of Overpayments Externally Aided Project,,,,,
+PD,World Bank aided Tamil Nadu Empowerment and Poverty Reduction Project,,,,,2235 02 911 PD 30000
+377,Deduct-Recoveries,"-18,55,77",,,,2235 02 911 PD 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-18,55,77",,,,2235 02 911 PD 37702
+PD,Total PD,"-18,55,77",,,,
+#,Externally Aided Projects Total,"-18,55,77",,,,
+911,Total 911,"-18,55,77",,,,
+02,Total 02,"1,38,82,41","4,22,00,06","3,79,04,43","4,16,48,92",
+2235,Total 2235,"1,38,82,41","4,22,00,06","3,79,04,43","4,16,48,92",
+2501,SPECIAL PROGRAMMES FOR RURAL DEVELOPMENT,,,,,
+06,Self Employment Programmes,,,,,
+003,Training,,,,,
+#,State's Expenditure,,,,,
+JC,Monitoring and Controlling of Panchayat Raj and Implementation of Rural Development Schemes,,,,,2501 06 003 JC 30000
+301,Salaries,"43,24,27","43,64,50","44,85,29","46,91,89",2501 06 003 JC 30100
+01,Pay,"40,52,27","40,88,73","41,98,73","44,05,31",2501 06 003 JC 30101
+02,Medical Allowance,"23,55","23,58","24,29","24,29",2501 06 003 JC 30102
+03,Medical Charges,4,1,1,1,2501 06 003 JC 30103
+04,Other Allowances,"34,69","25,42","34,69","34,69",2501 06 003 JC 30104
+06,House Rent Allowance,"2,03,60","2,15,37","2,15,37","2,15,37",2501 06 003 JC 30106
+07,Travel Concession,48,"1,34","2,15","2,17",2501 06 003 JC 30107
+08,City Compensatory Allowance,"9,64","10,05","10,05","10,05",2501 06 003 JC 30108
+303,Dearness Allowance,"4,29,22","3,68,00","5,49,33","10,79,30",2501 06 003 JC 30300
+01,Dearness Allowance,"4,29,22","3,68,00","5,49,33","10,79,30",2501 06 003 JC 30301
+304,Travel Expenses,"1,04,13","1,47,79","1,34,97","1,34,60",2501 06 003 JC 30400
+01,Tour Travelling Allowances,"99,49","1,40,00","1,26,81","1,26,81",2501 06 003 JC 30401
+02,Transfer Travelling Allowances,"2,17","4,40","4,77","4,40",2501 06 003 JC 30402
+03,Fixed Travelling Allowances,"2,47","3,39","3,39","3,39",2501 06 003 JC 30403
+305,Office Expenses,,,,"13,01",2501 06 003 JC 30500
+02,Other Contingencies,,,,66,2501 06 003 JC 30502
+05,Furniture,,,,"12,35",2501 06 003 JC 30505
+321,Motor Vehicles,13,13,13,"19,57",2501 06 003 JC 32100
+01,Purchase,,,,"19,44",2501 06 003 JC 32101
+02,Maintenance of Functional Vehicles,13,13,13,13,2501 06 003 JC 32102
+345,"Petroleum, Oil and Lubricant","1,49","1,50","1,50","1,70",2501 06 003 JC 34500
+01,"Petroleum, Oil and Lubricant","1,49","1,50","1,50","1,70",2501 06 003 JC 34501
+349,Festival Advances,-13,,,,2501 06 003 JC 34900
+01,Festival Advances-Debit,"12,94","31,80","70,60","86,10",2501 06 003 JC 34901
+02,Festival Advances-Credit,"-13,07","-31,80","-70,60","-86,10",2501 06 003 JC 34902
+376,Computer and Accessories,,,,"12,45",2501 06 003 JC 37600
+01,Purchase,,,,"12,45",2501 06 003 JC 37601
+JC,Total JC,"48,59,11","48,81,92","51,71,22","59,52,52",
+#,State's Expenditure Total,"48,59,11","48,81,92","51,71,22","59,52,52",
+#,Schemes shared between State and Centre,,,,,
+UB,Deen Dayal Upadhyaya Grameen Kaushal Yojana (DDU-GKY),,,,,2501 06 003 UB 30000
+309,Grants-in-Aid,"56,91,90","1,15,44,90","87,50,00","1,49,80,00",2501 06 003 UB 30900
+03,Grants for Specific Schemes,"56,91,90","1,15,44,90","87,50,00","1,49,80,00",2501 06 003 UB 30903
+UB,Total UB,"56,91,90","1,15,44,90","87,50,00","1,49,80,00",
+UC,Aajeevika(NRLM),,,,,2501 06 003 UC 30000
+309,Grants-in-Aid,"1,67,33,10","1,72,70,91","1,92,10,00","2,25,32,43",2501 06 003 UC 30900
+03,Grants for Specific Schemes,"1,67,33,10","1,72,70,91","1,92,10,00","2,25,32,43",2501 06 003 UC 30903
+UC,Total UC,"1,67,33,10","1,72,70,91","1,92,10,00","2,25,32,43",
+UD,National Rural Economic Transformation Project,,,,,2501 06 003 UD 30000
+309,Grants-in-Aid,,,"12,70,00",1,2501 06 003 UD 30900
+03,Grants for Specific Schemes,,,"12,70,00",1,2501 06 003 UD 30903
+UD,Total UD,,"12,70,00",1,,
+#,Schemes shared between State and Centre Total,"2,24,25,00","2,88,15,81","2,92,30,00","3,75,12,44",
+003,Total 003,"2,72,84,11","3,36,97,73","3,44,01,22","4,34,64,96",
+102,National Rural Livelihood Mission (NRLM),,,,,
+#,Schemes shared between State and Centre,,,,,
+UA,Mahila Kisan Sashaktikaran Pariyojana (MKSP),,,,,2501 06 102 UA 30000
+309,Grants-in-Aid,,"1,63,30","1,00,00","1,04,80",2501 06 102 UA 30900
+03,Grants for Specific Schemes,,"1,63,30","1,00,00","1,04,80",2501 06 102 UA 30903
+UA,Total UA,"1,63,30","1,00,00","1,04,80",,
+UB,Stratup Village Entrepreneurship Programme (SVEP),,,,,2501 06 102 UB 30000
+309,Grants-in-Aid,,"60,71","78,00","8,46,99",2501 06 102 UB 30900
+03,Grants for Specific Schemes,,"60,71","78,00","8,46,99",2501 06 102 UB 30903
+UB,Total UB,"60,71","78,00","8,46,99",,
+#,Schemes shared between State and Centre Total,,"2,24,01","1,78,00","9,51,79",
+102,Total 102,"2,24,01","1,78,00","9,51,79",,
+793,Special Central Assistance for Scheduled Caste Component Plan,,,,,
+#,Schemes shared between State and Centre,,,,,
+UA,Deen Dayal Upadhyaya Grameen Kaushal Yojana (DDU-GKY),,,,,2501 06 793 UA 30000
+309,Grants-in-Aid,"25,57,32","66,96,04","50,75,00","86,88,40",2501 06 793 UA 30900
+03,Grants for Specific Schemes,"25,57,32","66,96,04","50,75,00","86,88,40",2501 06 793 UA 30903
+UA,Total UA,"25,57,32","66,96,04","50,75,00","86,88,40",
+UB,Aajeevika(NRLM),,,,,2501 06 793 UB 30000
+309,Grants-in-Aid,"64,59,84","1,00,17,12","1,11,41,80","1,30,68,82",2501 06 793 UB 30900
+03,Grants for Specific Schemes,"64,59,84","1,00,17,12","1,11,41,80","1,30,68,82",2501 06 793 UB 30903
+UB,Total UB,"64,59,84","1,00,17,12","1,11,41,80","1,30,68,82",
+UC,Mahila Kisan Sashaktikaran Pariyojana (MKSP),,,,,2501 06 793 UC 30000
+309,Grants-in-Aid,,"94,71","58,00","60,78",2501 06 793 UC 30900
+03,Grants for Specific Schemes,,"94,71","58,00","60,78",2501 06 793 UC 30903
+UC,Total UC,"94,71","58,00","60,78",,
+UD,Stratup Village Entrepreneurship Programme (SVEP),,,,,2501 06 793 UD 30000
+309,Grants-in-Aid,,"16,35","21,00","2,28,03",2501 06 793 UD 30900
+03,Grants for Specific Schemes,,"16,35","21,00","2,28,03",2501 06 793 UD 30903
+UD,Total UD,"16,35","21,00","2,28,03",,
+#,Schemes shared between State and Centre Total,"90,17,16","1,68,24,22","1,62,95,80","2,20,46,03",
+793,Total 793,"90,17,16","1,68,24,22","1,62,95,80","2,20,46,03",
+794,Special Central Assistance for Tribal Sub-Plan,,,,,
+#,Schemes shared between State and Centre,,,,,
+UA,Deen Dayal Upadhyaya Grameen Kaushal Yojana (DDU-GKY),,,,,2501 06 794 UA 30000
+309,Grants-in-Aid,"18,51,85","48,48,87","36,75,00","62,91,60",2501 06 794 UA 30900
+03,Grants for Specific Schemes,"18,51,85","48,48,87","36,75,00","62,91,60",2501 06 794 UA 30903
+UA,Total UA,"18,51,85","48,48,87","36,75,00","62,91,60",
+UB,Aajeevika(NRLM),,,,,2501 06 794 UB 30000
+309,Grants-in-Aid,"9,30,20","72,53,78","80,68,20","94,63,62",2501 06 794 UB 30900
+03,Grants for Specific Schemes,"9,30,20","72,53,78","80,68,20","94,63,62",2501 06 794 UB 30903
+UB,Total UB,"9,30,20","72,53,78","80,68,20","94,63,62",
+UC,Mahila Kisan Sashaktikaran Pariyojana (MKSP),,,,,2501 06 794 UC 30000
+309,Grants-in-Aid,,"68,59","42,00","44,00",2501 06 794 UC 30900
+03,Grants for Specific Schemes,,"68,59","42,00","44,00",2501 06 794 UC 30903
+UC,Total UC,"68,59","42,00","44,00",,
+UD,Stratup Village Entrepreneurship Programme (SVEP),,,,,2501 06 794 UD 30000
+309,Grants-in-Aid,,78,"1,00","10,86",2501 06 794 UD 30900
+03,Grants for Specific Schemes,,78,"1,00","10,86",2501 06 794 UD 30903
+UD,Total UD,78,"1,00","10,86",,
+#,Schemes shared between State and Centre Total,"27,82,05","1,21,72,02","1,17,86,20","1,58,10,08",
+794,Total 794,"27,82,05","1,21,72,02","1,17,86,20","1,58,10,08",
+06,Total 06,"3,90,83,32","6,29,17,98","6,26,61,22","8,22,72,86",
+2501,Total 2501,"3,90,83,32","6,29,17,98","6,26,61,22","8,22,72,86",
+2505,RURAL EMPLOYMENT,,,,,
+01,National Programmes,,,,,
+702,Jawahar Gram  Samridhi Yojana,,,,,
+#,State's Expenditure,,,,,
+JA,Sampoorna Grameen Rozgar Yojana - Block Panchayats,,,,,2505 01 702 JA 30000
+301,Salaries,"30,04,29","44,56,14","37,99,80","45,78,36",2505 01 702 JA 30100
+01,Pay,"27,75,06","42,05,47","35,45,04","43,21,63",2505 01 702 JA 30101
+02,Medical Allowance,"18,57","23,58","23,21","23,58",2505 01 702 JA 30102
+03,Medical Charges,45,70,70,70,2505 01 702 JA 30103
+04,Other Allowances,"39,55","35,41","39,55","39,55",2505 01 702 JA 30104
+06,House Rent Allowance,"1,53,41","1,75,64","1,75,64","1,75,64",2505 01 702 JA 30106
+07,Travel Concession,"7,38","1,30","1,62","3,22",2505 01 702 JA 30107
+08,City Compensatory Allowance,"9,87","14,04","14,04","14,04",2505 01 702 JA 30108
+303,Dearness Allowance,"15,22,70","7,10,20","16,83,82","10,58,80",2505 01 702 JA 30300
+01,Dearness Allowance,"15,22,70","7,10,20","16,83,82","10,58,80",2505 01 702 JA 30301
+304,Travel Expenses,"73,45","1,08,77","1,08,71","1,08,77",2505 01 702 JA 30400
+01,Tour Travelling Allowances,"72,15","1,06,18","1,06,18","1,06,18",2505 01 702 JA 30401
+02,Transfer Travelling Allowances,"1,16","2,55","2,49","2,55",2505 01 702 JA 30402
+03,Fixed Travelling Allowances,14,4,4,4,2505 01 702 JA 30403
+305,Office Expenses,"3,06","3,75","4,31","26,44",2505 01 702 JA 30500
+01,Telephone Charges,,,,96,2505 01 702 JA 30501
+02,Other Contingencies,"1,00",90,"1,30","2,81",2505 01 702 JA 30502
+03,Electricity Charges,"2,06","2,85","3,01","8,04",2505 01 702 JA 30503
+05,Furniture,,,,"14,63",2505 01 702 JA 30505
+306,"Rent, Rates and Taxes",,1,1,1,2505 01 702 JA 30600
+01,Rent,,1,1,1,2505 01 702 JA 30601
+321,Motor Vehicles,"14,83","19,52","19,52","78,04",2505 01 702 JA 32100
+01,Purchase,,,,"58,32",2505 01 702 JA 32101
+02,Maintenance of Functional Vehicles,"14,83","19,52","19,52","19,72",2505 01 702 JA 32102
+345,"Petroleum, Oil and Lubricant","1,24,78","1,37,93","1,43,48","1,55,63",2505 01 702 JA 34500
+01,"Petroleum, Oil and Lubricant","1,24,78","1,37,93","1,43,48","1,55,63",2505 01 702 JA 34501
+346,"Clothing, Tentage and Stores","3,04","3,36","4,03","4,03",2505 01 702 JA 34600
+01,"Clothing, Tentage and Stores","3,04","3,36","4,03","4,03",2505 01 702 JA 34601
+349,Festival Advances,-64,,,,2505 01 702 JA 34900
+01,Festival Advances-Debit,"13,75","33,90","64,80","71,00",2505 01 702 JA 34901
+02,Festival Advances-Credit,"-14,39","-33,90","-64,80","-71,00",2505 01 702 JA 34902
+359,Prizes and Awards,66,81,"1,93",37,2505 01 702 JA 35900
+01,Prizes and Awards,66,81,"1,93",37,2505 01 702 JA 35901
+376,Computer and Accessories,,,,"7,55",2505 01 702 JA 37600
+01,Purchase,,,,"7,14",2505 01 702 JA 37601
+03,Stationery,,,,41,2505 01 702 JA 37603
+JA,Total JA,"47,46,17","54,40,49","57,65,61","60,18,00",
+JP,Sampoorna Grameen Rozgar Yojana - Village Panchayat,,,,,2505 01 702 JP 30000
+301,Salaries,"64,34,72","65,88,01","65,94,50","69,28,26",2505 01 702 JP 30100
+01,Pay,"60,08,17","61,10,55","61,10,55","64,43,87",2505 01 702 JP 30101
+02,Medical Allowance,"38,84","45,63","45,73","45,63",2505 01 702 JP 30102
+03,Medical Charges,"2,00",2,1,1,2505 01 702 JP 30103
+04,Other Allowances,"41,50","35,58","41,50","41,50",2505 01 702 JP 30104
+06,House Rent Allowance,"3,29,20","3,77,54","3,77,54","3,77,54",2505 01 702 JP 30106
+07,Travel Concession,59,"1,72","2,20","2,74",2505 01 702 JP 30107
+08,City Compensatory Allowance,"14,42","16,97","16,97","16,97",2505 01 702 JP 30108
+303,Dearness Allowance,"19,03,66","7,94,37","20,19,21","15,78,75",2505 01 702 JP 30300
+01,Dearness Allowance,"19,03,66","7,94,37","20,19,21","15,78,75",2505 01 702 JP 30301
+304,Travel Expenses,"1,96,43","2,31,69","2,31,66","2,31,69",2505 01 702 JP 30400
+01,Tour Travelling Allowances,"1,55,34","1,70,00","1,70,00","1,70,00",2505 01 702 JP 30401
+02,Transfer Travelling Allowances,"1,81","6,72","6,69","6,72",2505 01 702 JP 30402
+03,Fixed Travelling Allowances,"39,28","54,97","54,97","54,97",2505 01 702 JP 30403
+349,Festival Advances,"1,58",,,,2505 01 702 JP 34900
+01,Festival Advances-Debit,"35,30","63,00","1,21,38","1,36,88",2505 01 702 JP 34901
+02,Festival Advances-Credit,"-33,72","-63,00","-1,21,38","-1,36,88",2505 01 702 JP 34902
+359,Prizes and Awards,8,13,8,23,2505 01 702 JP 35900
+01,Prizes and Awards,8,13,8,23,2505 01 702 JP 35901
+JP,Total JP,"85,36,47","76,14,20","88,45,45","87,38,93",
+#,Schemes shared between State and Centre,,,,,
+UM,Pradhan Mantri Awaas Yojana (Gramin),,,,,2505 01 702 UM 30000
+309,Grants-in-Aid,"5,19,04,63","6,50,02,82","3,77,43,02","9,79,20,00",2505 01 702 UM 30900
+03,Grants for Specific Schemes,"5,19,04,63","6,50,02,82","3,77,43,02","9,79,20,00",2505 01 702 UM 30903
+UM,Total UM,"5,19,04,63","6,50,02,82","3,77,43,02","9,79,20,00",
+#,Schemes shared between State and Centre Total,"5,19,04,63","6,50,02,82","3,77,43,02","9,79,20,00",
+702,Total 702,"6,51,87,27","7,80,57,51","5,23,54,08","11,26,76,93",
+793,Special Central Assistance for Scheduled Caste Component Plan,,,,,
+#,Schemes shared between State and Centre,,,,,
+UA,Pradhan Mantri Awaas Yojana (Gramin) under Special Component Plan,,,,,2505 01 793 UA 30000
+309,Grants-in-Aid,"7,31,56,16","9,42,54,09","5,47,27,37","14,19,84,00",2505 01 793 UA 30900
+03,Grants for Specific Schemes,"7,31,56,16","9,42,54,09","5,47,27,37","14,19,84,00",2505 01 793 UA 30903
+UA,Total UA,"7,31,56,16","9,42,54,09","5,47,27,37","14,19,84,00",
+#,Schemes shared between State and Centre Total,"7,31,56,16","9,42,54,09","5,47,27,37","14,19,84,00",
+793,Total 793,"7,31,56,16","9,42,54,09","5,47,27,37","14,19,84,00",
+794,Special Central Assistance for Tribal Sub-Plan,,,,,
+#,Schemes shared between State and Centre,,,,,
+UA,Pradhan Mantri Awaas Yojana (Gramin) under Tribal Sub-Plan,,,,,2505 01 794 UA 30000
+309,Grants-in-Aid,"17,34,40","32,50,14","18,87,15","48,96,00",2505 01 794 UA 30900
+03,Grants for Specific Schemes,"17,34,40","32,50,14","18,87,15","48,96,00",2505 01 794 UA 30903
+UA,Total UA,"17,34,40","32,50,14","18,87,15","48,96,00",
+#,Schemes shared between State and Centre Total,"17,34,40","32,50,14","18,87,15","48,96,00",
+794,Total 794,"17,34,40","32,50,14","18,87,15","48,96,00",
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+JA,Mahatma Gandhi Rural Employment Guarantee Scheme,,,,,2505 01 911 JA 30000
+377,Deduct-Recoveries,-7,,,,2505 01 911 JA 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-7,,,,2505 01 911 JA 37702
+JA,Total JA,-7,,,,
+#,State's Expenditure Total,-7,,,,
+911,Total 911,-7,,,,
+01,Total 01,"14,00,77,76","17,55,61,74","10,89,68,60","25,95,56,93",
+02,Rural Employment Guarantee Scheme,,,,,
+101,National Rural Employment Guarantee Scheme,,,,,
+#,Schemes shared between State and Centre,,,,,
+#,Schemes shared between State and Centre,,,,,
+UA,Mahatma Gandhi Rural Employment Guarantee Scheme,,,,,2505 02 101 UA 30000
+309,Grants-in-Aid,"10,09,21,90","7,00,00,00","8,75,00,00","10,50,00,00",2505 02 101 UA 30900
+03,Grants for Specific Schemes,"10,09,21,90","7,00,00,00","8,75,00,00","10,50,00,00",2505 02 101 UA 30903
+UA,Total UA,"10,09,21,90","7,00,00,00","8,75,00,00","10,50,00,00",
+#,Schemes shared between State and Centre Total,"10,09,21,90","7,00,00,00","8,75,00,00","10,50,00,00",
+101,Total 101,"10,09,21,90","7,00,00,00","8,75,00,00","10,50,00,00",
+793,Special Central Assistance for Scheduled Caste Component Plan,,,,,
+#,Schemes shared between State and Centre,,,,,
+UA,Mahatma Gandhi Rural Employment Guarantee Scheme under Special Component Plan,,,,,2505 02 793 UA 30000
+309,Grants-in-Aid,"4,18,10,50","2,90,00,00","3,62,50,00","4,35,00,00",2505 02 793 UA 30900
+03,Grants for Specific Schemes,"4,18,10,50","2,90,00,00","3,62,50,00","4,35,00,00",2505 02 793 UA 30903
+UA,Total UA,"4,18,10,50","2,90,00,00","3,62,50,00","4,35,00,00",
+#,Schemes shared between State and Centre Total,"4,18,10,50","2,90,00,00","3,62,50,00","4,35,00,00",
+793,Total 793,"4,18,10,50","2,90,00,00","3,62,50,00","4,35,00,00",
+794,Special Central Assistance for Tribal Sub-Plan,,,,,
+#,Schemes shared between State and Centre,,,,,
+UA,Mahatma Gandhi Rural Employment Guarantee Scheme under Tribal Sub-Plan,,,,,2505 02 794 UA 30000
+309,Grants-in-Aid,"14,41,74","10,00,00","12,50,00","15,00,00",2505 02 794 UA 30900
+03,Grants for Specific Schemes,"14,41,74","10,00,00","12,50,00","15,00,00",2505 02 794 UA 30903
+UA,Total UA,"14,41,74","10,00,00","12,50,00","15,00,00",
+#,Schemes shared between State and Centre Total,"14,41,74","10,00,00","12,50,00","15,00,00",
+794,Total 794,"14,41,74","10,00,00","12,50,00","15,00,00",
+02,Total 02,"14,41,74,14","10,00,00,00","12,50,00,00","15,00,00,00",
+2505,Total 2505,"28,42,51,90","27,55,61,74","23,39,68,60","40,95,56,93",
+2515-00,OTHER RURAL DEVELOPMENT PROGRAMMES,,,,,
+001,Direction and Administration,,,,,
+#,State's Expenditure,,,,,
+AA,Directorate of Rural Development,,,,,2515 00 001 AA 30000
+301,Salaries,"10,87,93","11,23,54","11,15,40","11,53,91",2515 00 001 AA 30100
+01,Pay,"9,42,22","9,56,40","9,56,40","9,94,66",2515 00 001 AA 30101
+02,Medical Allowance,"5,65","5,55","5,55","5,55",2515 00 001 AA 30102
+03,Medical Charges,"2,39","3,60","3,60","3,75",2515 00 001 AA 30103
+04,Other Allowances,"7,72","18,00","9,00","9,00",2515 00 001 AA 30104
+06,House Rent Allowance,"1,10,98","1,16,61","1,16,61","1,16,61",2515 00 001 AA 30106
+07,Travel Concession,93,"1,64","2,50","2,60",2515 00 001 AA 30107
+08,City Compensatory Allowance,"18,04","21,74","21,74","21,74",2515 00 001 AA 30108
+302,Wages,,1,1,1,2515 00 001 AA 30200
+01,Wages,,1,1,1,2515 00 001 AA 30201
+303,Dearness Allowance,"1,00,62","1,24,37","1,39,00","2,43,69",2515 00 001 AA 30300
+01,Dearness Allowance,"1,00,62","1,24,37","1,39,00","2,43,69",2515 00 001 AA 30301
+304,Travel Expenses,"3,53","10,20","7,40","7,20",2515 00 001 AA 30400
+01,Tour Travelling Allowances,"3,35","10,00","7,00","7,00",2515 00 001 AA 30401
+02,Transfer Travelling Allowances,18,20,40,20,2515 00 001 AA 30402
+305,Office Expenses,"47,83","58,50","58,50","59,50",2515 00 001 AA 30500
+01,Telephone Charges,"2,76","3,70","3,70","3,70",2515 00 001 AA 30501
+02,Other Contingencies,"17,31","17,30","17,30","17,30",2515 00 001 AA 30502
+03,Electricity Charges,"24,26","34,00","34,00","35,00",2515 00 001 AA 30503
+04,Service Postage & Postal Expenditure,"3,50","3,50","3,50","3,50",2515 00 001 AA 30504
+306,"Rent, Rates and Taxes","49,77","55,00","2,51,93","1,25,01",2515 00 001 AA 30600
+01,Rent,"49,77","55,00","2,51,93","1,25,01",2515 00 001 AA 30601
+308,Advertising and Publicity,"6,97","6,27","6,27","6,27",2515 00 001 AA 30800
+02,Exhibition,"6,97","6,27","6,27","6,27",2515 00 001 AA 30802
+321,Motor Vehicles,"1,46","1,46","1,46","1,46",2515 00 001 AA 32100
+02,Maintenance of Functional Vehicles,"1,46","1,46","1,46","1,46",2515 00 001 AA 32102
+333,Payments for Professional and Special Services,"8,25","3,33","7,74","5,86",2515 00 001 AA 33300
+01,Pleaders Fees,"8,25","3,00","6,75","5,20",2515 00 001 AA 33301
+04,Contract Payment,,33,99,66,2515 00 001 AA 33304
+345,"Petroleum, Oil and Lubricant","7,91","8,00","8,30","3,50",2515 00 001 AA 34500
+01,"Petroleum, Oil and Lubricant","7,91","8,00","8,30","3,50",2515 00 001 AA 34501
+346,"Clothing, Tentage and Stores",83,98,98,98,2515 00 001 AA 34600
+01,"Clothing, Tentage and Stores",83,98,98,98,2515 00 001 AA 34601
+349,Festival Advances,"1,28",,,,2515 00 001 AA 34900
+01,Festival Advances-Debit,"6,25","7,98","12,65","12,65",2515 00 001 AA 34901
+02,Festival Advances-Credit,"-4,97","-7,98","-12,65","-12,65",2515 00 001 AA 34902
+359,Prizes and Awards,6,20,20,20,2515 00 001 AA 35900
+01,Prizes and Awards,6,20,20,20,2515 00 001 AA 35901
+376,Computer and Accessories,"6,70","6,70","6,70","6,70",2515 00 001 AA 37600
+02,Maintenance,"3,50","3,50","3,50","3,50",2515 00 001 AA 37602
+03,Stationery,"3,20","3,20","3,20","3,20",2515 00 001 AA 37603
+AA,Total AA,"13,23,14","13,98,56","16,03,89","16,14,29",
+AB,Panchayat Radio Maintenance Organisation,,,,,2515 00 001 AB 30000
+301,Salaries,"57,12","61,47","60,57","62,68",2515 00 001 AB 30100
+01,Pay,"51,18","53,57","53,57","55,71",2515 00 001 AB 30101
+02,Medical Allowance,48,57,57,57,2515 00 001 AB 30102
+03,Medical Charges,,2,2,2,2515 00 001 AB 30103
+04,Other Allowances,42,77,42,42,2515 00 001 AB 30104
+06,House Rent Allowance,"4,33","5,72","5,30","5,30",2515 00 001 AB 30106
+07,Travel Concession,,5,5,2,2515 00 001 AB 30107
+08,City Compensatory Allowance,71,77,64,64,2515 00 001 AB 30108
+303,Dearness Allowance,"5,25","6,96","11,05","13,65",2515 00 001 AB 30300
+01,Dearness Allowance,"5,25","6,96","11,05","13,65",2515 00 001 AB 30301
+304,Travel Expenses,67,"3,38","1,59","1,59",2515 00 001 AB 30400
+01,Tour Travelling Allowances,67,"3,36","1,58","1,58",2515 00 001 AB 30401
+02,Transfer Travelling Allowances,,2,1,1,2515 00 001 AB 30402
+305,Office Expenses,,7,7,7,2515 00 001 AB 30500
+03,Electricity Charges,,7,7,7,2515 00 001 AB 30503
+321,Motor Vehicles,10,10,10,10,2515 00 001 AB 32100
+02,Maintenance of Functional Vehicles,10,10,10,10,2515 00 001 AB 32102
+345,"Petroleum, Oil and Lubricant",97,"1,44","1,50","1,56",2515 00 001 AB 34500
+01,"Petroleum, Oil and Lubricant",97,"1,44","1,50","1,56",2515 00 001 AB 34501
+346,"Clothing, Tentage and Stores",,1,1,1,2515 00 001 AB 34600
+01,"Clothing, Tentage and Stores",,1,1,1,2515 00 001 AB 34601
+349,Festival Advances,-9,,,,2515 00 001 AB 34900
+01,Festival Advances-Debit,35,30,40,40,2515 00 001 AB 34901
+02,Festival Advances-Credit,-44,-30,-40,-40,2515 00 001 AB 34902
+359,Prizes and Awards,,2,1,1,2515 00 001 AB 35900
+01,Prizes and Awards,,2,1,1,2515 00 001 AB 35901
+AB,Total AB,"64,02","73,45","74,90","79,67",
+AC,Development staff in Collectorates,,,,,2515 00 001 AC 30000
+301,Salaries,"34,41,30","33,41,41","36,32,96","43,47,00",2515 00 001 AC 30100
+01,Pay,"31,95,91","30,82,27","33,66,28","40,80,26",2515 00 001 AC 30101
+02,Medical Allowance,"26,24","23,46","28,64","28,64",2515 00 001 AC 30102
+03,Medical Charges,4,2,10,1,2515 00 001 AC 30103
+04,Other Allowances,"37,20","42,44","43,03","43,03",2515 00 001 AC 30104
+06,House Rent Allowance,"1,67,42","1,78,73","1,79,15","1,79,15",2515 00 001 AC 30106
+07,Travel Concession,"3,90","3,12","3,76","3,91",2515 00 001 AC 30107
+08,City Compensatory Allowance,"10,59","11,37","12,00","12,00",2515 00 001 AC 30108
+302,Wages,"3,07","3,26","4,36","4,36",2515 00 001 AC 30200
+01,Wages,"3,07","3,26","4,36","4,36",2515 00 001 AC 30201
+303,Dearness Allowance,"3,33,45","4,00,69","4,18,43","9,99,66",2515 00 001 AC 30300
+01,Dearness Allowance,"3,33,45","4,00,69","4,18,43","9,99,66",2515 00 001 AC 30301
+304,Travel Expenses,"1,46,49","1,72,39","1,74,50","1,74,48",2515 00 001 AC 30400
+01,Tour Travelling Allowances,"1,44,68","1,68,52","1,70,60","1,70,60",2515 00 001 AC 30401
+02,Transfer Travelling Allowances,"1,79","3,85","3,88","3,86",2515 00 001 AC 30402
+03,Fixed Travelling Allowances,2,2,2,2,2515 00 001 AC 30403
+305,Office Expenses,"80,78","93,09","1,04,02","1,67,08",2515 00 001 AC 30500
+01,Telephone Charges,"9,47","17,45","16,61","18,71",2515 00 001 AC 30501
+02,Other Contingencies,"25,16","24,90","28,90","32,96",2515 00 001 AC 30502
+03,Electricity Charges,"35,43","38,22","46,33","56,82",2515 00 001 AC 30503
+04,Service Postage & Postal Expenditure,"10,72","12,52","12,18","12,73",2515 00 001 AC 30504
+05,Furniture,,,,"45,86",2515 00 001 AC 30505
+306,"Rent, Rates and Taxes","5,41","3,11","6,28","6,28",2515 00 001 AC 30600
+01,Rent,,1,1,1,2515 00 001 AC 30601
+02,Property tax,"5,41","3,07","6,24","6,24",2515 00 001 AC 30602
+03,Water Charges,,3,3,3,2515 00 001 AC 30603
+321,Motor Vehicles,"2,57","2,87","3,26","35,86",2515 00 001 AC 32100
+01,Purchase,,1,1,"32,41",2515 00 001 AC 32101
+02,Maintenance of Functional Vehicles,"2,57","2,86","3,25","3,45",2515 00 001 AC 32102
+333,Payments for Professional and Special Services,"48,13","17,61","50,27","25,91",2515 00 001 AC 33300
+01,Pleaders Fees,"5,64","1,65","5,00","5,35",2515 00 001 AC 33301
+04,Contract Payment,"42,49","15,96","45,27","20,56",2515 00 001 AC 33304
+345,"Petroleum, Oil and Lubricant","12,25","15,15","26,66","35,76",2515 00 001 AC 34500
+01,"Petroleum, Oil and Lubricant","12,25","15,15","26,66","35,76",2515 00 001 AC 34501
+346,"Clothing, Tentage and Stores","2,08","2,30","3,22","3,22",2515 00 001 AC 34600
+01,"Clothing, Tentage and Stores","2,08","2,30","3,22","3,22",2515 00 001 AC 34601
+349,Festival Advances,56,,,,2515 00 001 AC 34900
+01,Festival Advances-Debit,"24,60","33,55","76,50","92,00",2515 00 001 AC 34901
+02,Festival Advances-Credit,"-24,04","-33,55","-76,50","-92,00",2515 00 001 AC 34902
+351,Compensation Charged,,1,1,1,2515 00 001 AC 35100
+52,Other Compensations Charged,,1,1,1,2515 00 001 AC 35152
+359,Prizes and Awards,59,68,"3,84","1,30",2515 00 001 AC 35900
+01,Prizes and Awards,59,68,"3,84","1,30",2515 00 001 AC 35901
+376,Computer and Accessories,"6,09","6,20","8,00","61,40",2515 00 001 AC 37600
+01,Purchase,,,,"52,39",2515 00 001 AC 37601
+02,Maintenance,"3,12","3,20","5,00","5,00",2515 00 001 AC 37602
+03,Stationery,"2,97","3,00","3,00","4,01",2515 00 001 AC 37603
+AC,Total AC Charged,,1,1,1,
+AC,Total AC Voted,"40,82,77","40,58,76","44,35,80","58,62,31",
+AD,Establishment charges of Assistant Director (Panchayats) and Assistant Director (Audit),,,,,2515 00 001 AD 30000
+301,Salaries,"37,05,60","37,78,09","37,78,50","44,69,94",2515 00 001 AD 30100
+01,Pay,"34,43,64","35,00,76","35,00,76","41,92,20",2515 00 001 AD 30101
+02,Medical Allowance,"29,07","28,62","28,62","28,62",2515 00 001 AD 30102
+03,Medical Charges,,10,2,2,2515 00 001 AD 30103
+04,Other Allowances,"38,60","38,62","38,62","38,62",2515 00 001 AD 30104
+06,House Rent Allowance,"1,81,99","1,96,50","1,96,50","1,96,50",2515 00 001 AD 30106
+07,Travel Concession,"1,79","2,15","2,66","2,66",2515 00 001 AD 30107
+08,City Compensatory Allowance,"10,51","11,34","11,32","11,32",2515 00 001 AD 30108
+302,Wages,"3,93","4,80","4,80","4,80",2515 00 001 AD 30200
+01,Wages,"3,93","4,80","4,80","4,80",2515 00 001 AD 30201
+303,Dearness Allowance,"3,64,77","4,55,10","4,38,80","10,27,09",2515 00 001 AD 30300
+01,Dearness Allowance,"3,64,77","4,55,10","4,38,80","10,27,09",2515 00 001 AD 30301
+304,Travel Expenses,"1,81,96","2,15,74","2,14,18","2,14,36",2515 00 001 AD 30400
+01,Tour Travelling Allowances,"1,80,22","2,11,36","2,09,99","2,09,99",2515 00 001 AD 30401
+02,Transfer Travelling Allowances,"1,68","4,22","4,04","4,22",2515 00 001 AD 30402
+03,Fixed Travelling Allowances,6,16,15,15,2515 00 001 AD 30403
+305,Office Expenses,"71,28","88,80","94,75","1,66,76",2515 00 001 AD 30500
+01,Telephone Charges,"13,53","22,41","22,54","23,37",2515 00 001 AD 30501
+02,Other Contingencies,"30,96","31,02","31,02","35,67",2515 00 001 AD 30502
+03,Electricity Charges,"20,92","28,54","34,02","43,86",2515 00 001 AD 30503
+04,Service Postage & Postal Expenditure,"5,87","6,83","7,17","6,83",2515 00 001 AD 30504
+05,Furniture,,,,"57,03",2515 00 001 AD 30505
+306,"Rent, Rates and Taxes",35,"2,20",60,60,2515 00 001 AD 30600
+01,Rent,,"1,50",1,1,2515 00 001 AD 30601
+02,Property tax,35,60,51,51,2515 00 001 AD 30602
+03,Water Charges,,10,8,8,2515 00 001 AD 30603
+321,Motor Vehicles,"10,85","11,27","11,01","36,93",2515 00 001 AD 32100
+01,Purchase,,1,1,"25,93",2515 00 001 AD 32101
+02,Maintenance of Functional Vehicles,"10,85","11,26","11,00","11,00",2515 00 001 AD 32102
+333,Payments for Professional and Special Services,"1,15","2,01","1,55","1,66",2515 00 001 AD 33300
+01,Pleaders Fees,"1,15","1,21",75,78,2515 00 001 AD 33301
+04,Contract Payment,,80,80,88,2515 00 001 AD 33304
+345,"Petroleum, Oil and Lubricant","68,26","74,50","78,21","87,99",2515 00 001 AD 34500
+01,"Petroleum, Oil and Lubricant","68,26","74,50","78,21","87,99",2515 00 001 AD 34501
+346,"Clothing, Tentage and Stores","2,93","3,10","3,95","3,95",2515 00 001 AD 34600
+01,"Clothing, Tentage and Stores","2,93","3,10","3,95","3,95",2515 00 001 AD 34601
+349,Festival Advances,"1,02",,,,2515 00 001 AD 34900
+01,Festival Advances-Debit,"25,65","39,35","80,66","96,16",2515 00 001 AD 34901
+02,Festival Advances-Credit,"-24,63","-39,35","-80,66","-96,16",2515 00 001 AD 34902
+359,Prizes and Awards,24,25,21,21,2515 00 001 AD 35900
+01,Prizes and Awards,24,25,21,21,2515 00 001 AD 35901
+376,Computer and Accessories,"7,36","7,10","7,10","44,03",2515 00 001 AD 37600
+01,Purchase,,,,"36,52",2515 00 001 AD 37601
+02,Maintenance,"5,08","4,50","4,50","4,50",2515 00 001 AD 37602
+03,Stationery,"2,28","2,60","2,60","3,01",2515 00 001 AD 37603
+AD,Total AD,"44,19,70","46,42,96","46,33,66","60,58,32",
+AE,Block Headquarters - Block Panchayats,,,,,2515 00 001 AE 30000
+301,Salaries,"1,94,59,63","2,06,20,32","2,06,31,46","2,16,02,41",2515 00 001 AE 30100
+01,Pay,"1,81,22,79","1,91,61,79","1,91,61,79","2,01,33,29",2515 00 001 AE 30101
+02,Medical Allowance,"1,43,96","1,44,58","1,51,50","1,51,50",2515 00 001 AE 30102
+03,Medical Charges,"1,58",10,16,95,2515 00 001 AE 30103
+04,Other Allowances,"2,03,04","2,42,46","2,25,46","2,25,46",2515 00 001 AE 30104
+06,House Rent Allowance,"9,43,92","10,26,62","10,46,27","10,46,27",2515 00 001 AE 30106
+07,Travel Concession,"3,28","4,77","5,72","4,38",2515 00 001 AE 30107
+08,City Compensatory Allowance,"41,06","40,00","40,56","40,56",2515 00 001 AE 30108
+303,Dearness Allowance,"32,53,98","24,91,01","32,62,88","49,32,66",2515 00 001 AE 30300
+01,Dearness Allowance,"32,53,98","24,91,01","32,62,88","49,32,66",2515 00 001 AE 30301
+304,Travel Expenses,"8,58,32","10,20,65","10,20,82","10,28,65",2515 00 001 AE 30400
+01,Tour Travelling Allowances,"7,13,46","8,33,88","8,45,60","8,45,60",2515 00 001 AE 30401
+02,Transfer Travelling Allowances,"9,01","20,95","13,12","20,95",2515 00 001 AE 30402
+03,Fixed Travelling Allowances,"1,35,85","1,65,82","1,62,10","1,62,10",2515 00 001 AE 30403
+305,Office Expenses,"4,44","2,73","2,78","25,57",2515 00 001 AE 30500
+02,Other Contingencies,"4,44","2,73","2,78","2,73",2515 00 001 AE 30502
+05,Furniture,,,,"22,84",2515 00 001 AE 30505
+321,Motor Vehicles,,,,"19,44",2515 00 001 AE 32100
+01,Purchase,,,,"19,44",2515 00 001 AE 32101
+333,Payments for Professional and Special Services,"4,40,53","1,28,27","4,40,81","1,69,40",2515 00 001 AE 33300
+04,Contract Payment,"4,40,53","1,28,27","4,40,81","1,69,40",2515 00 001 AE 33304
+346,"Clothing, Tentage and Stores",,5,5,5,2515 00 001 AE 34600
+01,"Clothing, Tentage and Stores",,5,5,5,2515 00 001 AE 34601
+349,Festival Advances,44,,,,2515 00 001 AE 34900
+01,Festival Advances-Debit,"1,16,09","2,00,10","4,04,30","4,19,80",2515 00 001 AE 34901
+02,Festival Advances-Credit,"-1,15,65","-2,00,10","-4,04,30","-4,19,80",2515 00 001 AE 34902
+359,Prizes and Awards,34,58,"1,29",58,2515 00 001 AE 35900
+01,Prizes and Awards,34,58,"1,29",58,2515 00 001 AE 35901
+376,Computer and Accessories,"1,16","1,00","1,10","1,10",2515 00 001 AE 37600
+02,Maintenance,"1,02",90,"1,00","1,00",2515 00 001 AE 37602
+03,Stationery,14,10,10,10,2515 00 001 AE 37603
+AE,Total AE,"2,40,18,84","2,42,64,61","2,53,61,19","2,77,79,86",
+AG,Television Maintenance Cell,,,,,2515 00 001 AG 30000
+301,Salaries,"8,39","14,40","7,84","8,11",2515 00 001 AG 30100
+01,Pay,"7,71","12,22","6,64","6,91",2515 00 001 AG 30101
+02,Medical Allowance,6,6,4,4,2515 00 001 AG 30102
+03,Medical Charges,,1,1,1,2515 00 001 AG 30103
+04,Other Allowances,6,12,7,7,2515 00 001 AG 30104
+06,House Rent Allowance,52,"1,44",97,97,2515 00 001 AG 30106
+07,Travel Concession,,5,1,1,2515 00 001 AG 30107
+08,City Compensatory Allowance,4,50,10,10,2515 00 001 AG 30108
+303,Dearness Allowance,66,"1,59",88,"1,69",2515 00 001 AG 30300
+01,Dearness Allowance,66,"1,59",88,"1,69",2515 00 001 AG 30301
+304,Travel Expenses,,2,2,2,2515 00 001 AG 30400
+01,Tour Travelling Allowances,,2,2,2,2515 00 001 AG 30401
+349,Festival Advances,-35,,,,2515 00 001 AG 34900
+01,Festival Advances-Debit,,,1,1,2515 00 001 AG 34901
+02,Festival Advances-Credit,-35,,-1,-1,2515 00 001 AG 34902
+359,Prizes and Awards,,1,1,1,2515 00 001 AG 35900
+01,Prizes and Awards,,1,1,1,2515 00 001 AG 35901
+AG,Total AG,"8,70","16,02","8,75","9,83",
+AT,Block Head Quarters - Village Panchayats,,,,,2515 00 001 AT 30000
+301,Salaries,"83,54,03","87,22,61","88,97,49","92,39,16",2515 00 001 AT 30100
+01,Pay,"77,49,47","80,29,35","82,29,35","85,73,19",2515 00 001 AT 30101
+02,Medical Allowance,"69,86","74,40","72,33","72,33",2515 00 001 AT 30102
+03,Medical Charges,11,2,"1,94",2,2515 00 001 AT 30103
+04,Other Allowances,"1,09,81","1,25,43","1,19,42","1,19,42",2515 00 001 AT 30104
+06,House Rent Allowance,"4,05,01","4,70,96","4,51,75","4,51,75",2515 00 001 AT 30106
+07,Travel Concession,"1,61","2,59","2,84","2,59",2515 00 001 AT 30107
+08,City Compensatory Allowance,"18,16","19,86","19,86","19,86",2515 00 001 AT 30108
+303,Dearness Allowance,"7,92,30","10,43,82","10,04,91","21,00,43",2515 00 001 AT 30300
+01,Dearness Allowance,"7,92,30","10,43,82","10,04,91","21,00,43",2515 00 001 AT 30301
+304,Travel Expenses,"4,93,90","5,58,30","5,62,30","5,62,83",2515 00 001 AT 30400
+01,Tour Travelling Allowances,"4,08,01","4,56,00","4,57,15","4,57,15",2515 00 001 AT 30401
+02,Transfer Travelling Allowances,"4,00","7,68","7,15","7,68",2515 00 001 AT 30402
+03,Fixed Travelling Allowances,"81,89","94,62","98,00","98,00",2515 00 001 AT 30403
+305,Office Expenses,71,80,80,80,2515 00 001 AT 30500
+02,Other Contingencies,71,80,80,80,2515 00 001 AT 30502
+333,Payments for Professional and Special Services,"1,48",1,1,1,2515 00 001 AT 33300
+04,Contract Payment,"1,48",1,1,1,2515 00 001 AT 33304
+346,"Clothing, Tentage and Stores","6,66","8,75","10,85","10,85",2515 00 001 AT 34600
+01,"Clothing, Tentage and Stores","6,66","8,75","10,85","10,85",2515 00 001 AT 34601
+349,Festival Advances,"2,49",,,,2515 00 001 AT 34900
+01,Festival Advances-Debit,"64,94","1,06,15","1,85,40","2,00,90",2515 00 001 AT 34901
+02,Festival Advances-Credit,"-62,45","-1,06,15","-1,85,40","-2,00,90",2515 00 001 AT 34902
+359,Prizes and Awards,"1,21","1,00","1,99",71,2515 00 001 AT 35900
+01,Prizes and Awards,"1,21","1,00","1,99",71,2515 00 001 AT 35901
+376,Computer and Accessories,75,"1,00","1,10","1,10",2515 00 001 AT 37600
+02,Maintenance,61,90,"1,00","1,00",2515 00 001 AT 37602
+03,Stationery,14,10,10,10,2515 00 001 AT 37603
+AT,Total AT,"96,53,53","1,03,36,29","1,04,79,45","1,19,15,89",
+#,State's Expenditure Total Charged,,1,1,1,
+#,State's Expenditure Total Voted,"4,35,70,70","4,47,90,65","4,65,97,64","5,33,20,17",
+001,Total 001 Charged,,1,1,1,
+001,Total 001 Voted,"4,35,70,70","4,47,90,65","4,65,97,64","5,33,20,17",
+003,Training,,,,,
+#,State's Expenditure,,,,,
+AA,State Institute of Rural Development,,,,,2515 00 003 AA 30000
+309,Grants-in-Aid,"50,00","50,00","50,00","50,00",2515 00 003 AA 30900
+01,Grants for Current Expenditure,"50,00","50,00","50,00","50,00",2515 00 003 AA 30901
+379,Salary Grants,"1,59,36","1,69,61","2,69,75","1,97,03",2515 00 003 AA 37900
+01,Pay,"1,19,60","1,43,58","2,14,48","1,52,50",2515 00 003 AA 37901
+02,Medical Allowance,,55,59,55,2515 00 003 AA 37902
+03,Medical Charges,"39,76",1,15,1,2515 00 003 AA 37903
+04,Other Allowances,,60,44,41,2515 00 003 AA 37904
+06,House Rent Allowances,,"5,01","5,01","5,01",2515 00 003 AA 37906
+07,Travel Concession,,12,12,12,2515 00 003 AA 37907
+08,City Compensatory Allowance,,"1,07","1,07","1,07",2515 00 003 AA 37908
+09,Dearness Allowance,,"18,67","47,89","37,36",2515 00 003 AA 37909
+AA,Total AA,"2,09,36","2,19,61","3,19,75","2,47,03",
+AD,Rural Training Extension Centers,,,,,2515 00 003 AD 30000
+301,Salaries,"4,80,10","5,12,49","5,12,51","5,31,82",2515 00 003 AD 30100
+01,Pay,"4,56,16","4,82,71","4,82,71","5,02,02",2515 00 003 AD 30101
+02,Medical Allowance,"3,50","3,57","3,71","3,71",2515 00 003 AD 30102
+03,Medical Charges,,2,1,1,2515 00 003 AD 30103
+04,Other Allowances,"3,52","4,27","4,27","4,27",2515 00 003 AD 30104
+06,House Rent Allowance,"16,57","21,09","21,09","21,09",2515 00 003 AD 30106
+07,Travel Concession,35,83,72,72,2515 00 003 AD 30107
+302,Wages,"21,38","34,89","31,87","31,87",2515 00 003 AD 30200
+01,Wages,"21,38","34,89","31,87","31,87",2515 00 003 AD 30201
+303,Dearness Allowance,"51,06","62,75","58,53","1,22,99",2515 00 003 AD 30300
+01,Dearness Allowance,"51,06","62,75","58,53","1,22,99",2515 00 003 AD 30301
+304,Travel Expenses,"10,75","19,95","15,11","15,07",2515 00 003 AD 30400
+01,Tour Travelling Allowances,"10,44","18,88","14,00","14,00",2515 00 003 AD 30401
+02,Transfer Travelling Allowances,31,"1,07","1,11","1,07",2515 00 003 AD 30402
+305,Office Expenses,"25,63","27,03","28,14","28,38",2515 00 003 AD 30500
+01,Telephone Charges,"3,72","2,68","3,39","2,68",2515 00 003 AD 30501
+02,Other Contingencies,"1,84","1,65","1,65","1,65",2515 00 003 AD 30502
+03,Electricity Charges,"20,07","22,70","23,10","24,05",2515 00 003 AD 30503
+306,"Rent, Rates and Taxes","4,25","3,80","10,20","10,63",2515 00 003 AD 30600
+02,Property tax,"3,35","3,40","8,96","9,33",2515 00 003 AD 30602
+03,Water Charges,90,40,"1,24","1,30",2515 00 003 AD 30603
+319,Machinery and Equipments,69,84,84,89,2515 00 003 AD 31900
+01,Purchase,15,30,30,32,2515 00 003 AD 31901
+02,Renewal and Replacement,54,54,54,57,2515 00 003 AD 31902
+321,Motor Vehicles,"1,50","1,73","1,60","1,60",2515 00 003 AD 32100
+02,Maintenance of Functional Vehicles,"1,50","1,73","1,60","1,60",2515 00 003 AD 32102
+333,Payments for Professional and Special Services,"16,45","23,45","17,38","18,08",2515 00 003 AD 33300
+04,Contract Payment,"16,45","23,45","17,38","18,08",2515 00 003 AD 33304
+334,Other Charges,58,38,66,70,2515 00 003 AD 33400
+01,Other Items,58,38,66,70,2515 00 003 AD 33401
+345,"Petroleum, Oil and Lubricant","4,95","7,40","7,32","7,63",2515 00 003 AD 34500
+01,"Petroleum, Oil and Lubricant","4,95","7,40","7,32","7,63",2515 00 003 AD 34501
+346,"Clothing, Tentage and Stores",27,30,41,41,2515 00 003 AD 34600
+01,"Clothing, Tentage and Stores",27,30,41,41,2515 00 003 AD 34601
+349,Festival Advances,10,,,,2515 00 003 AD 34900
+01,Festival Advances-Debit,"3,65","5,65","9,45","9,84",2515 00 003 AD 34901
+02,Festival Advances-Credit,"-3,55","-5,65","-9,45","-9,84",2515 00 003 AD 34902
+359,Prizes and Awards,4,18,16,18,2515 00 003 AD 35900
+01,Prizes and Awards,4,18,16,18,2515 00 003 AD 35901
+369,Procurement of Agricultural Inputs,"3,87","4,00","4,00","4,00",2515 00 003 AD 36900
+01,Procurement of Agricultural Inputs,"3,87","4,00","4,00","4,00",2515 00 003 AD 36901
+376,Computer and Accessories,98,"1,00","1,00","1,00",2515 00 003 AD 37600
+02,Maintenance,98,"1,00","1,00","1,00",2515 00 003 AD 37602
+AD,Total AD,"6,22,60","7,00,19","6,89,73","7,75,25",
+#,State's Expenditure Total,"8,31,96","9,19,80","10,09,48","10,22,28",
+003,Total 003,"8,31,96","9,19,80","10,09,48","10,22,28",
+102,Community Development,,,,,
+#,State's Expenditure,,,,,
+AD,Payment to Tamil Nadu Electricity Board on behalf of rural hut dwellers,,,,,2515 00 102 AD 30000
+309,Grants-in-Aid,"1,91,58,00","2,01,15,90","1,93,81,00","2,03,50,05",2515 00 102 AD 30900
+03,Grants for Specific Schemes,"1,91,58,00","2,01,15,90","1,93,81,00","2,03,50,05",2515 00 102 AD 30903
+AD,Total AD,"1,91,58,00","2,01,15,90","1,93,81,00","2,03,50,05",
+AE,Provision of Basic Infrastructure facilities in Rural Areas - met from the fund for priority scheme,,,,,2515 00 102 AE 30000
+309,Grants-in-Aid,"2,71,81,15","2,85,40,21","7,02,30,17","5,11,35,29",2515 00 102 AE 30900
+03,Grants for Specific Schemes,"2,71,81,15","2,85,40,21","7,02,30,17","5,11,35,29",2515 00 102 AE 30903
+AE,Total AE,"2,71,81,15","2,85,40,21","7,02,30,17","5,11,35,29",
+KI,Programme for Comprehensive Development in Dharmapuri District,,,,,2515 00 102 KI 30000
+309,Grants-in-Aid,"7,00,00","7,00,00","7,00,00","7,00,00",2515 00 102 KI 30900
+02,Grants for Creation of Capital Assets,"7,00,00","7,00,00","7,00,00","7,00,00",2515 00 102 KI 30902
+KI,Total KI,"7,00,00","7,00,00","7,00,00","7,00,00",
+KJ,Clean Village Campaign,,,,,2515 00 102 KJ 30000
+309,Grants-in-Aid,"1,55,00","1,55,00","1,55,00","1,55,00",2515 00 102 KJ 30900
+03,Grants for Specific Schemes,"1,55,00","1,55,00","1,55,00","1,55,00",2515 00 102 KJ 30903
+KJ,Total KJ,"1,55,00","1,55,00","1,55,00","1,55,00",
+KM,Programme for Comprehensive Development in Krishnagiri District,,,,,2515 00 102 KM 30000
+309,Grants-in-Aid,"50,00","50,00","50,00","50,00",2515 00 102 KM 30900
+02,Grants for Creation of Capital Assets,"50,00","50,00","50,00","50,00",2515 00 102 KM 30902
+KM,Total KM,"50,00","50,00","50,00","50,00",
+#,State's Expenditure Total,"4,72,44,15","4,95,61,11","9,05,16,17","7,23,90,34",
+#,Externally Aided Projects,,,,,
+PA,Post Tsunami Sustainable Livelihoods Programme from International Fund for Agricultural Development (IFAD) Phase-II,,,,,2515 00 102 PA 30000
+309,Grants-in-Aid,"20,30,00","74,18,00","46,40,00","5,00,00",2515 00 102 PA 30900
+03,Grants for Specific Schemes,"20,30,00","74,18,00","46,40,00","5,00,00",2515 00 102 PA 30903
+PA,Total PA,"20,30,00","74,18,00","46,40,00","5,00,00",
+QA,World Bank Assisted Emergency Tsunami Reconstruction Project (ETRP) Project Management Unit - Rural Development,,,,,2515 00 102 QA 30000
+372,Training,"5,82,32",1,1,1,2515 00 102 QA 37200
+01,Training,"5,82,32",1,1,1,2515 00 102 QA 37201
+QA,Total QA,"5,82,32",1,1,1,
+#,Externally Aided Projects Total,"26,12,32","74,18,01","46,40,01","5,00,01",
+#,Schemes shared between State and Centre,,,,,
+UB,Shyama Prasad Mukherji Rurban Mission (SPMRM),,,,,2515 00 102 UB 30000
+309,Grants-in-Aid,"27,00,00",1,"54,00,00","36,00,00",2515 00 102 UB 30900
+03,Grants for Specific Schemes,"27,00,00",1,"54,00,00","36,00,00",2515 00 102 UB 30903
+UB,Total UB,"27,00,00",1,"54,00,00","36,00,00",
+UC,Rashtriya Gram Swaraj Abhiyan (RGSA),,,,,2515 00 102 UC 30000
+309,Grants-in-Aid,"39,50,00","40,82","82,95,00","82,95,00",2515 00 102 UC 30900
+03,Grants for Specific Schemes,"39,50,00","40,82","82,95,00","82,95,00",2515 00 102 UC 30903
+UC,Total UC,"39,50,00","40,82","82,95,00","82,95,00",
+#,Schemes shared between State and Centre Total,"66,50,00","40,83","1,36,95,00","1,18,95,00",
+102,Total 102,"5,65,06,47","5,70,19,95","10,88,51,18","8,47,85,35",
+198,Assistance to Gram Panchayats,,,,,
+#,State's Expenditure,,,,,
+AA,Electricity - Reduction in tariff to Village Panchayats,,,,,2515 00 198 AA 30000
+311,Subsidies,,,1,1,2515 00 198 AA 31100
+09,Others,,,1,1,2515 00 198 AA 31109
+AA,Total AA,,,1,1,
+#,State's Expenditure Total,,,1,1,
+198,Total 198,,,1,1,
+793,Special Central Assistance for Scheduled Caste Component Plan,,,,,
+#,Schemes shared between State and Centre,,,,,
+#,Schemes shared between State and Centre,,,,,
+UA,Rashtriya Gram Swaraj Abhiyan (RGSA),,,,,2515 00 793 UA 30000
+309,Grants-in-Aid,"10,00,00","10,33","21,00,00","21,00,00",2515 00 793 UA 30900
+03,Grants for Specific Schemes,"10,00,00","10,33","21,00,00","21,00,00",2515 00 793 UA 30903
+UA,Total UA,"10,00,00","10,33","21,00,00","21,00,00",
+#,Schemes shared between State and Centre Total,"10,00,00","10,33","21,00,00","21,00,00",
+793,Total 793,"10,00,00","10,33","21,00,00","21,00,00",
+794,Special Central Assistance for Tribal Sub-Plan,,,,,
+#,Schemes shared between State and Centre,,,,,
+UA,Rashtriya Gram Swaraj Abhiyan (RGSA),,,,,2515 00 794 UA 30000
+309,Grants-in-Aid,"50,00",52,"1,05,00","1,05,00",2515 00 794 UA 30900
+03,Grants for Specific Schemes,"50,00",52,"1,05,00","1,05,00",2515 00 794 UA 30903
+UA,Total UA,"50,00",52,"1,05,00","1,05,00",
+#,Schemes shared between State and Centre Total,"50,00",52,"1,05,00","1,05,00",
+794,Total 794,"50,00",52,"1,05,00","1,05,00",
+796,Tribal Area Sub-Plan,,,,,
+#,State's Expenditure,,,,,
+JB,Formation of a Tribal block for Kalrayan hills,,,,,2515 00 796 JB 30000
+301,Salaries,"87,59","98,70","92,13","95,27",2515 00 796 JB 30100
+01,Pay,"73,96","89,08","78,51","81,65",2515 00 796 JB 30101
+02,Medical Allowance,58,57,57,57,2515 00 796 JB 30102
+04,Other Allowances,"11,91","7,80","11,80","11,80",2515 00 796 JB 30104
+06,House Rent Allowance,"1,14","1,25","1,25","1,25",2515 00 796 JB 30106
+303,Dearness Allowance,"10,23","11,58","11,00","20,00",2515 00 796 JB 30300
+01,Dearness Allowance,"10,23","11,58","11,00","20,00",2515 00 796 JB 30301
+304,Travel Expenses,"3,99","3,74","3,63","3,59",2515 00 796 JB 30400
+01,Tour Travelling Allowances,"3,25","3,00","3,00","3,00",2515 00 796 JB 30401
+02,Transfer Travelling Allowances,2,2,6,2,2515 00 796 JB 30402
+03,Fixed Travelling Allowances,72,72,57,57,2515 00 796 JB 30403
+305,Office Expenses,"1,22","1,31","1,31","1,33",2515 00 796 JB 30500
+01,Telephone Charges,36,36,36,36,2515 00 796 JB 30501
+02,Other Contingencies,36,45,45,45,2515 00 796 JB 30502
+03,Electricity Charges,50,50,50,52,2515 00 796 JB 30503
+321,Motor Vehicles,14,14,14,14,2515 00 796 JB 32100
+02,Maintenance of Functional Vehicles,14,14,14,14,2515 00 796 JB 32102
+345,"Petroleum, Oil and Lubricant",90,"1,13","1,13","1,15",2515 00 796 JB 34500
+01,"Petroleum, Oil and Lubricant",90,"1,13","1,13","1,15",2515 00 796 JB 34501
+346,"Clothing, Tentage and Stores",3,5,5,5,2515 00 796 JB 34600
+01,"Clothing, Tentage and Stores",3,5,5,5,2515 00 796 JB 34601
+349,Festival Advances,6,,,,2515 00 796 JB 34900
+01,Festival Advances-Debit,60,60,"1,50","1,60",2515 00 796 JB 34901
+02,Festival Advances-Credit,-54,-60,"-1,50","-1,60",2515 00 796 JB 34902
+JB,Total JB,"1,04,16","1,16,65","1,09,39","1,21,53",
+JC,Formation of a Tribal block for Jawadhu and Elagiri Hills,,,,,2515 00 796 JC 30000
+301,Salaries,"59,66","79,94","82,36","85,24",2515 00 796 JC 30100
+01,Pay,"49,54","72,12","72,12","75,00",2515 00 796 JC 30101
+02,Medical Allowance,36,47,47,47,2515 00 796 JC 30102
+04,Other Allowances,"8,06","5,64","8,06","8,06",2515 00 796 JC 30104
+06,House Rent Allowance,"1,70","1,71","1,71","1,71",2515 00 796 JC 30106
+303,Dearness Allowance,"15,26","9,38","15,26","18,38",2515 00 796 JC 30300
+01,Dearness Allowance,"15,26","9,38","15,26","18,38",2515 00 796 JC 30301
+304,Travel Expenses,"3,68","3,70","3,70","3,70",2515 00 796 JC 30400
+01,Tour Travelling Allowances,"3,25","3,00","3,00","3,00",2515 00 796 JC 30401
+02,Transfer Travelling Allowances,12,20,20,20,2515 00 796 JC 30402
+03,Fixed Travelling Allowances,31,50,50,50,2515 00 796 JC 30403
+305,Office Expenses,80,80,80,83,2515 00 796 JC 30500
+01,Telephone Charges,25,25,25,25,2515 00 796 JC 30501
+02,Other Contingencies,20,20,20,20,2515 00 796 JC 30502
+03,Electricity Charges,35,35,35,38,2515 00 796 JC 30503
+321,Motor Vehicles,14,14,14,14,2515 00 796 JC 32100
+02,Maintenance of Functional Vehicles,14,14,14,14,2515 00 796 JC 32102
+345,"Petroleum, Oil and Lubricant",81,"1,00","1,05","1,09",2515 00 796 JC 34500
+01,"Petroleum, Oil and Lubricant",81,"1,00","1,05","1,09",2515 00 796 JC 34501
+346,"Clothing, Tentage and Stores",5,3,3,3,2515 00 796 JC 34600
+01,"Clothing, Tentage and Stores",5,3,3,3,2515 00 796 JC 34601
+349,Festival Advances,3,,,,2515 00 796 JC 34900
+01,Festival Advances-Debit,15,60,"1,20","1,20",2515 00 796 JC 34901
+02,Festival Advances-Credit,-12,-60,"-1,20","-1,20",2515 00 796 JC 34902
+JC,Total JC,"80,43","94,99","1,03,34","1,09,41",
+#,State's Expenditure Total,"1,84,59","2,11,64","2,12,73","2,30,94",
+796,Total 796,"1,84,59","2,11,64","2,12,73","2,30,94",
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+JW,Implementation of  Self Sufficiency Scheme,,,,,2515 00 800 JW 30000
+309,Grants-in-Aid,"25,00,00","50,00,00","50,00,00","50,00,00",2515 00 800 JW 30900
+03,Grants for Specific Schemes,"25,00,00","50,00,00","50,00,00","50,00,00",2515 00 800 JW 30903
+JW,Total JW,"25,00,00","50,00,00","50,00,00","50,00,00",
+KV,Strengthening of Block Administration -Implementation of Anti-poverty programme - Village Panchayats,,,,,2515 00 800 KV 30000
+301,Salaries,"25,81,69","27,46,33","27,50,84","28,80,70",2515 00 800 KV 30100
+01,Pay,"24,22,10","25,75,24","25,75,24","27,05,88",2515 00 800 KV 30101
+02,Medical Allowance,"11,94","12,42","12,42","12,42",2515 00 800 KV 30102
+03,Medical Charges,,,44,1,2515 00 800 KV 30103
+04,Other Allowances,"10,62","6,90","10,62","10,62",2515 00 800 KV 30104
+06,House Rent Allowance,"1,30,79","1,44,55","1,44,55","1,44,55",2515 00 800 KV 30106
+07,Travel Concession,38,"1,03","1,38","1,03",2515 00 800 KV 30107
+08,City Compensatory Allowance,"5,86","6,19","6,19","6,19",2515 00 800 KV 30108
+303,Dearness Allowance,"2,27,86","3,34,78","2,81,36","6,62,94",2515 00 800 KV 30300
+01,Dearness Allowance,"2,27,86","3,34,78","2,81,36","6,62,94",2515 00 800 KV 30301
+304,Travel Expenses,"96,21","1,08,45","1,18,92","1,19,08",2515 00 800 KV 30400
+01,Tour Travelling Allowances,"58,53","64,00","74,13","74,13",2515 00 800 KV 30401
+02,Transfer Travelling Allowances,66,"3,27","3,11","3,27",2515 00 800 KV 30402
+03,Fixed Travelling Allowances,"37,02","41,18","41,68","41,68",2515 00 800 KV 30403
+349,Festival Advances,-43,,,,2515 00 800 KV 34900
+01,Festival Advances-Debit,"8,75","17,95","37,80","35,90",2515 00 800 KV 34901
+02,Festival Advances-Credit,"-9,18","-17,95","-37,80","-35,90",2515 00 800 KV 34902
+359,Prizes and Awards,6,13,6,10,2515 00 800 KV 35900
+01,Prizes and Awards,6,13,6,10,2515 00 800 KV 35901
+KV,Total KV,"29,05,39","31,89,69","31,51,18","36,62,82",
+#,State's Expenditure Total,"54,05,39","81,89,69","81,51,18","86,62,82",
+#,Externally Aided Projects,,,,,
+PA,Post Tsunami Sustainable Livelihoods programme from  International Fund for Agricultural Development (IFAD),,,,,2515 00 800 PA 30000
+309,Grants-in-Aid,"12,46,63","5,00,00",1,1,2515 00 800 PA 30900
+03,Grants for Specific Schemes,"12,46,63","5,00,00",1,1,2515 00 800 PA 30903
+PA,Total PA,"12,46,63","5,00,00",1,1,
+#,Externally Aided Projects Total,"12,46,63","5,00,00",1,1,
+#,Schemes shared between State and Centre,,,,,
+UH,District Rural Development Agency's Administration cost,,,,,2515 00 800 UH 30000
+309,Grants-in-Aid,"22,63,62","23,60,80","23,60,80","23,60,80",2515 00 800 UH 30900
+03,Grants for Specific Schemes,"22,63,62","23,60,80","23,60,80","23,60,80",2515 00 800 UH 30903
+UH,Total UH,"22,63,62","23,60,80","23,60,80","23,60,80",
+#,Schemes shared between State and Centre Total,"22,63,62","23,60,80","23,60,80","23,60,80",
+800,Total 800,"89,15,64","1,10,50,49","1,05,11,99","1,10,23,63",
+902,Deduct - Amount met from Reserve Fund,,,,,
+#,State's Expenditure,,,,,
+AA,Deduct amount met from the Fund for the Priority Schemes in Rural Areas,,,,,2515 00 902 AA 30000
+330,Inter-Account Transfers,"-2,71,81,15","-2,85,40,21","-7,02,30,17","-5,11,35,29",2515 00 902 AA 33000
+01,Inter-Account Transfers,"-2,71,81,15","-2,85,40,21","-7,02,30,17","-5,11,35,29",2515 00 902 AA 33001
+AA,Total AA,"-2,71,81,15","-2,85,40,21","-7,02,30,17","-5,11,35,29",
+#,State's Expenditure Total,"-2,71,81,15","-2,85,40,21","-7,02,30,17","-5,11,35,29",
+902,Total 902,"-2,71,81,15","-2,85,40,21","-7,02,30,17","-5,11,35,29",
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+AB,Panchayat Radio Maintenance Organisation,,,,,2515 00 911 AB 30000
+377,Deduct-Recoveries,"-1,25",,,,2515 00 911 AB 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-1,25",,,,2515 00 911 AB 37702
+AB,Total AB,"-1,25",,,,
+AE,Block Headquarters - Block Panchayats,,,,,2515 00 911 AE 30000
+377,Deduct-Recoveries,-16,,,,2515 00 911 AE 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-16,,,,2515 00 911 AE 37702
+AE,Total AE,-16,,,,
+AT,Block Head Quarters - Village Panchayats,,,,,2515 00 911 AT 30000
+377,Deduct-Recoveries,-12,,,,2515 00 911 AT 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-12,,,,2515 00 911 AT 37702
+AT,Total AT,-12,,,,
+JB,Implementation of Self Sufficiency Scheme,,,,,2515 00 911 JB 30000
+377,Deduct-Recoveries,,,"-1,67,68",,2515 00 911 JB 37700
+03,Other Recoveries,,,"-1,67,68",,2515 00 911 JB 37703
+JB,Total JB,,"-1,67,68",,,
+#,State's Expenditure Total,"-1,53",,"-1,67,68",,
+911,Total 911,"-1,53",,"-1,67,68",,
+00,Total 00 Charged,,1,1,1,
+00,Total 00 Voted,"8,38,76,68","8,54,63,17","9,89,90,18","10,14,52,09",
+2515,Total 2515 Charged,,1,1,1,
+2515,Total 2515 Voted,"8,38,76,68","8,54,63,17","9,89,90,18","10,14,52,09",
+2551,HILL AREAS,,,,,
+01,Western Ghats,,,,,
+108,Village and Small Industries,,,,,
+#,State's Expenditure,,,,,
+JM,Implementation of Various Gap filling Infrastructure Schemes under Western Ghats Development Programme executed by Rural Development and Panchayati Raj Department,,,,,2551 01 108 JM 30000
+309,Grants-in-Aid,,1,,,2551 01 108 JM 30900
+03,Grants for Specific Schemes,,1,,,2551 01 108 JM 30903
+JM,Total JM,1,,,,
+#,State's Expenditure Total,,1,,,
+108,Total 108,1,,,,
+01,Total 01,1,,,,
+2551,Total 2551,1,,,,
+2810-00,NEW AND RENEWABLE ENERGY,,,,,
+102,Renewable Energy for Rural Applications,,,,,
+#,State's Expenditure,,,,,
+AA,Installation of Bio-Gas Plants,,,,,2810 00 102 AA 30000
+301,Salaries,,,,"1,07,39",2810 00 102 AA 30100
+01,Pay,,,,"98,61",2810 00 102 AA 30101
+02,Medical Allowance,,,,44,2810 00 102 AA 30102
+04,Other Allowances,,,,60,2810 00 102 AA 30104
+06,House Rent Allowance,,,,"6,86",2810 00 102 AA 30106
+08,City Compensatory Allowance,,,,88,2810 00 102 AA 30108
+303,Dearness Allowance,,,,"24,16",2810 00 102 AA 30300
+01,Dearness Allowance,,,,"24,16",2810 00 102 AA 30301
+304,Travel Expenses,,,,"2,35",2810 00 102 AA 30400
+01,Tour Travelling Allowances,,,,"2,33",2810 00 102 AA 30401
+02,Transfer Travelling Allowances,,,,1,2810 00 102 AA 30402
+03,Fixed Travelling Allowances,,,,1,2810 00 102 AA 30403
+305,Office Expenses,,,,12,2810 00 102 AA 30500
+02,Other Contingencies,,,,12,2810 00 102 AA 30502
+321,Motor Vehicles,,,,1,2810 00 102 AA 32100
+02,Maintenance of Functional Vehicles,,,,1,2810 00 102 AA 32102
+345,"Petroleum, Oil and Lubricant",,,,"1,60",2810 00 102 AA 34500
+01,"Petroleum, Oil and Lubricant",,,,"1,60",2810 00 102 AA 34501
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,,,"1,20",2810 00 102 AA 34901
+02,Festival Advances-Credit,,,,"-1,20",2810 00 102 AA 34902
+AA,Total AA,,,,"1,35,63",
+#,State's Expenditure Total,,,,"1,35,63",
+102,Total 102,,,,"1,35,63",
+00,Total 00,,,,"1,35,63",
+01,Bio-energy,,,,,
+102,Community and Institutional Biogas Development,,,,,
+#,Central Sector Schemes Central Sector Sechemes,,,,,
+SA,Installation of Bio-Gas Plants,,,,,2810 01 102 SA 30000
+301,Salaries,"1,11,64","1,12,06","1,03,23",,2810 01 102 SA 30100
+01,Pay,"1,02,93","1,03,01","94,77",,2810 01 102 SA 30101
+02,Medical Allowance,50,54,44,,2810 01 102 SA 30102
+04,Other Allowances,51,50,60,,2810 01 102 SA 30104
+06,House Rent Allowance,"6,90","7,13","6,54",,2810 01 102 SA 30106
+08,City Compensatory Allowance,80,88,88,,2810 01 102 SA 30108
+303,Dearness Allowance,"9,01","13,39","15,16",,2810 01 102 SA 30300
+01,Dearness Allowance,"9,01","13,39","15,16",,2810 01 102 SA 30301
+304,Travel Expenses,"1,50","3,64","2,35",,2810 01 102 SA 30400
+01,Tour Travelling Allowances,"1,50","3,60","2,33",,2810 01 102 SA 30401
+02,Transfer Travelling Allowances,,2,1,,2810 01 102 SA 30402
+03,Fixed Travelling Allowances,,2,1,,2810 01 102 SA 30403
+305,Office Expenses,10,10,12,,2810 01 102 SA 30500
+02,Other Contingencies,10,10,12,,2810 01 102 SA 30502
+309,Grants-in-Aid,,"91,25",,,2810 01 102 SA 30900
+02,Grants for Creation of Capital Assets,,"91,25",,,2810 01 102 SA 30902
+321,Motor Vehicles,2,2,1,,2810 01 102 SA 32100
+02,Maintenance of Functional Vehicles,2,2,1,,2810 01 102 SA 32102
+345,"Petroleum, Oil and Lubricant","1,60","1,60","1,60",,2810 01 102 SA 34500
+01,"Petroleum, Oil and Lubricant","1,60","1,60","1,60",,2810 01 102 SA 34501
+349,Festival Advances,-24,,,,2810 01 102 SA 34900
+01,Festival Advances-Debit,10,50,"1,20",,2810 01 102 SA 34901
+02,Festival Advances-Credit,-34,-50,"-1,20",,2810 01 102 SA 34902
+SA,Total SA,"1,23,63","2,22,06","1,22,47",,
+#,Central Sector Schemes Total,"1,23,63","2,22,06","1,22,47",,
+102,Total 102,"1,23,63","2,22,06","1,22,47",,
+01,Total 01,"1,23,63","2,22,06","1,22,47",,
+2810,Total 2810,"1,23,63","2,22,06","1,22,47","1,35,63",
+3454,CENSUS SURVEYS AND STATISTICS,,,,,
+02,Surveys and Statistics,,,,,
+110,Gazette and Statistical Memoirs,,,,,
+#,State's Expenditure,,,,,
+AB,Administrative Intelligence Unit for Community Development Programme,,,,,3454 02 110 AB 30000
+301,Salaries,"51,70","70,34","69,89","72,33",3454 02 110 AB 30100
+01,Pay,"45,56","60,90","60,90","63,34",3454 02 110 AB 30101
+02,Medical Allowance,30,45,45,45,3454 02 110 AB 30102
+03,Medical Charges,,2,1,1,3454 02 110 AB 30103
+04,Other Allowances,10,30,20,20,3454 02 110 AB 30104
+06,House Rent Allowance,"4,83","7,12","7,12","7,12",3454 02 110 AB 30106
+07,Travel Concession,,1,1,1,3454 02 110 AB 30107
+08,City Compensatory Allowance,91,"1,54","1,20","1,20",3454 02 110 AB 30108
+303,Dearness Allowance,"3,96","7,92","5,92","15,52",3454 02 110 AB 30300
+01,Dearness Allowance,"3,96","7,92","5,92","15,52",3454 02 110 AB 30301
+304,Travel Expenses,,2,1,1,3454 02 110 AB 30400
+01,Tour Travelling Allowances,,2,1,1,3454 02 110 AB 30401
+349,Festival Advances,-24,,,,3454 02 110 AB 34900
+01,Festival Advances-Debit,,1,1,1,3454 02 110 AB 34901
+02,Festival Advances-Credit,-24,-1,-1,-1,3454 02 110 AB 34902
+AB,Total AB,"55,42","78,28","75,82","87,86",
+AL,Statistical staff at the Headquarters for the community development and National Extension service areas,,,,,3454 02 110 AL 30000
+301,Salaries,"3,31","5,11","5,08","5,26",3454 02 110 AL 30100
+01,Pay,"2,94","4,59","4,59","4,77",3454 02 110 AL 30101
+02,Medical Allowance,4,7,4,4,3454 02 110 AL 30102
+06,House Rent Allowance,26,35,35,35,3454 02 110 AL 30106
+07,Travel Concession,,1,1,1,3454 02 110 AL 30107
+08,City Compensatory Allowance,7,9,9,9,3454 02 110 AL 30108
+303,Dearness Allowance,30,60,55,"1,17",3454 02 110 AL 30300
+01,Dearness Allowance,30,60,55,"1,17",3454 02 110 AL 30301
+304,Travel Expenses,,2,1,1,3454 02 110 AL 30400
+01,Tour Travelling Allowances,,2,1,1,3454 02 110 AL 30401
+349,Festival Advances,,,,,
+01,Festival Advances-Debit,,1,1,1,3454 02 110 AL 34901
+02,Festival Advances-Credit,,-1,-1,-1,3454 02 110 AL 34902
+AL,Total AL,"3,61","5,73","5,64","6,44",
+#,State's Expenditure Total,"59,03","84,01","81,46","94,30",
+#,Central Sector Schemes,,,,,
+SL,Pilot Socio and Economic Survey 2010 (Below Poverty Level  2011) and Participatory Socio Economic Survey (PSES),,,,,3454 02 110 SL 30000
+372,Training,,1,1,1,3454 02 110 SL 37200
+01,Training,,1,1,1,3454 02 110 SL 37201
+SL,Total SL,,1,1,1,
+#,Central Sector Schemes Total,,1,1,1,
+110,Total 110,"59,03","84,02","81,47","94,31",
+02,Total 02,"59,03","84,02","81,47","94,31",
+3454,Total 3454,"59,03","84,02","81,47","94,31",
+3604,COMPENSATIONS AND ASSIGNMENTS TO LOCAL BODIES AND PANCHAYAT RAJ INSTITUTIONS,,,,,
+102,Stamp Duty,,,,,
+#,State's Expenditure,,,,,
+AA,Assignment under Global Sharing of Assigned Revenue to Rural Local Bodies - Stamp Duty,,,,,3604 00 102 AA 30000
+309,Grants-in-Aid,"1,35,85,18","1,42,70,11","3,51,15,10","2,55,67,66",3604 00 102 AA 30900
+09,Others,"1,35,85,18","1,42,70,11","3,51,15,10","2,55,67,66",3604 00 102 AA 30909
+AA,Total AA,"1,35,85,18","1,42,70,11","3,51,15,10","2,55,67,66",
+#,State's Expenditure Total,"1,35,85,18","1,42,70,11","3,51,15,10","2,55,67,66",
+102,Total 102,"1,35,85,18","1,42,70,11","3,51,15,10","2,55,67,66",
+103,Entertainment Tax,,,,,
+#,State's Expenditure,,,,,
+AD,Assignment under Global Sharing of Assigned Revenue to Rural Local Bodies - Entertainment Tax,,,,,3604 00 103 AD 30000
+309,Grants-in-Aid,"5,39",1,,,3604 00 103 AD 30900
+09,Others,"5,39",1,,,3604 00 103 AD 30909
+AD,Total AD,"5,39",1,,,
+AG,Compensation to Rural Local Bodies in lieu of waiver of Entertainment Tax,,,,,3604 00 103 AG 30000
+351,Compensation,,1,,,3604 00 103 AG 35100
+02,Other Compensations  - Voted,,1,,,3604 00 103 AG 35102
+AG,Total AG,1,,,,
+#,State's Expenditure Total,"5,39",2,,,
+103,Total 103,"5,39",2,,,
+196,Assistance to Zilla Parishads/District Level Panchayats,,,,,
+#,State's Expenditure,,,,,
+AA,Grants to District Panchayat as per the recommendation of State Finance Commission Controlled by Director of Rural Development,,,,,3604 00 196 AA 30000
+309,Grants-in-Aid,"3,30,50,54","3,68,12,20","3,16,63,79","3,78,24,06",3604 00 196 AA 30900
+02,Grants for Creation of Capital Assets,"3,30,50,54","3,68,12,20","3,16,63,79","3,78,24,06",3604 00 196 AA 30902
+AA,Total AA,"3,30,50,54","3,68,12,20","3,16,63,79","3,78,24,06",
+AC,State Finance Commission Devolution Arrears to District Panchayats - Controlled by Director of Rural Development,,,,,3604 00 196 AC 30000
+309,Grants-in-Aid,"6,27,60","6,27,60","6,27,60",,3604 00 196 AC 30900
+02,Grants for Creation of Capital Assets,"6,27,60","6,27,60","6,27,60",,3604 00 196 AC 30902
+AC,Total AC,"6,27,60","6,27,60","6,27,60",,
+#,State's Expenditure Total,"3,36,78,14","3,74,39,80","3,22,91,39","3,78,24,06",
+#,Central Sector Schemes,,,,,
+SA,Basic Grants  to District Panchayat as per the recommendations of the 15th Finance Commission,,,,,3604 00 196 SA 30000
+309,Grants-in-Aid,,,,"1,80,35,00",3604 00 196 SA 30900
+01,Grants for Current Expenditure,,,,"1,80,35,00",3604 00 196 SA 30901
+SA,Total SA,,,"1,80,35,00",,
+SB,Tied/ Performance Grants to District Panchayat as per the recommendations of the 15th Finance Commission,,,,,3604 00 196 SB 30000
+309,Grants-in-Aid,,,,"1,80,35,00",3604 00 196 SB 30900
+03,Grants for Specific Schemes,,,,"1,80,35,00",3604 00 196 SB 30903
+SB,Total SB,,,"1,80,35,00",,
+#,Central Sector Schemes Total,,,,"3,60,70,00",
+196,Total 196,"3,36,78,14","3,74,39,80","3,22,91,39","7,38,94,06",
+197,Assistance  to Block Panchayats / Intermediate Level Panchayats,,,,,
+#,State's Expenditure,,,,,
+AA,Grants to Panchayat Union as per the recommendation of State Finance Commission - Controlled by Director of Rural Development,,,,,3604 00 197 AA 30000
+309,Grants-in-Aid,"15,28,58,73","17,02,56,42","14,64,45,03","17,49,36,27",3604 00 197 AA 30900
+02,Grants for Creation of Capital Assets,"15,28,58,73","17,02,56,42","14,64,45,03","17,49,36,27",3604 00 197 AA 30902
+AA,Total AA,"15,28,58,73","17,02,56,42","14,64,45,03","17,49,36,27",
+AB,State Finance Commission Devolution Arrears to Panchayat Unions - Controlled by Director of Rural Development,,,,,3604 00 197 AB 30000
+309,Grants-in-Aid,"25,10,40","25,10,40","25,10,40",,3604 00 197 AB 30900
+02,Grants for Creation of Capital Assets,"25,10,40","25,10,40","25,10,40",,3604 00 197 AB 30902
+AB,Total AB,"25,10,40","25,10,40","25,10,40",,
+#,State's Expenditure Total,"15,53,69,13","17,27,66,82","14,89,55,43","17,49,36,27",
+#,Central Sector Schemes,,,,,
+SA,Basic Grants  to Block Panchayats as per the Recommendations of the 15th Finance Commission,,,,,3604 00 197 SA 30000
+309,Grants-in-Aid,,,,"3,60,70,00",3604 00 197 SA 30900
+01,Grants for Current Expenditure,,,,"3,60,70,00",3604 00 197 SA 30901
+SA,Total SA,,,"3,60,70,00",,
+SB,Tied / Performance Grants to Block Panchayats as per the Recommendations of the 15th Finance Commission,,,,,3604 00 197 SB 30000
+309,Grants-in-Aid,,,,"3,60,70,00",3604 00 197 SB 30900
+03,Grants for Specific Schemes,,,,"3,60,70,00",3604 00 197 SB 30903
+SB,Total SB,,,"3,60,70,00",,
+#,Central Sector Schemes Total,,,,"7,21,40,00",
+197,Total 197,"15,53,69,13","17,27,66,82","14,89,55,43","24,70,76,27",
+198,Assistance to Gram Panchayats,,,,,
+#,State's Expenditure,,,,,
+AA,Grants to Village Panchayats as per the recommendation of State Finance Commission Controlled by Director of Rural Development,,,,,3604 00 198 AA 30000
+309,Grants-in-Aid,"22,72,22,44","25,30,83,87","21,76,88,56","26,00,40,41",3604 00 198 AA 30900
+02,Grants for Creation of Capital Assets,"22,72,22,44","25,30,83,87","21,76,88,56","26,00,40,41",3604 00 198 AA 30902
+AA,Total AA,"22,72,22,44","25,30,83,87","21,76,88,56","26,00,40,41",
+AD,State Finance Commission Devolution Arrears to Village Panchayats - Controlled by Director of Rural Development,,,,,3604 00 198 AD 30000
+309,Grants-in-Aid,"47,07,00","47,07,00","47,07,00",,3604 00 198 AD 30900
+02,Grants for Creation of Capital Assets,"47,07,00","47,07,00","47,07,00",,3604 00 198 AD 30902
+AD,Total AD,"47,07,00","47,07,00","47,07,00",,
+#,State's Expenditure Total,"23,19,29,44","25,77,90,87","22,23,95,56","26,00,40,41",
+#,Central Sector Schemes,,,,,
+SA,Basic Grants to Village Panchayats as per the recommendations of the 14th Finance Commission,,,,,3604 00 198 SA 30000
+309,Grants-in-Aid,"16,34,99,00","23,69,86,00","23,69,86,00",,3604 00 198 SA 30900
+01,Grants for Current Expenditure,"16,34,99,00","23,69,86,00","23,69,86,00",,3604 00 198 SA 30901
+SA,Total SA,"16,34,99,00","23,69,86,00","23,69,86,00",,
+SB,Performance Grants to Rural Local Bodies as per the recommendations of the 14th Finance Commission - Controlled by Director of Rural Development,,,,,3604 00 198 SB 30000
+309,Grants-in-Aid,,"2,89,64,00","2,89,64,00",,3604 00 198 SB 30900
+01,Grants for Current Expenditure,,"2,89,64,00","2,89,64,00",,3604 00 198 SB 30901
+SB,Total SB,"2,89,64,00","2,89,64,00",,,
+SC,Basic Grants  to Village Panchayat as per the Recommendations of the 15th Finance Commission,,,,,3604 00 198 SC 30000
+309,Grants-in-Aid,,,,"12,62,45,00",3604 00 198 SC 30900
+01,Grants for Current Expenditure,,,,"12,62,45,00",3604 00 198 SC 30901
+SC,Total SC,,,"12,62,45,00",,
+SD,Tied / Performance Grants to Village Panchayats as per the Recommendations of the 15th Finance Commission,,,,,3604 00 198 SD 30000
+309,Grants-in-Aid,,,,"12,62,45,00",3604 00 198 SD 30900
+03,Grants for Specific Schemes,,,,"12,62,45,00",3604 00 198 SD 30903
+SD,Total SD,,,"12,62,45,00",,
+#,Central Sector Schemes Total,"16,34,99,00","26,59,50,00","26,59,50,00","25,24,90,00",
+198,Total 198,"39,54,28,44","52,37,40,87","48,83,45,56","51,25,30,41",
+200,Other Miscellaneous Compensations and Assignments,,,,,
+#,State's Expenditure,,,,,
+BP,Capital Grant Fund for Rural Local Bodies,,,,,3604 00 200 BP 30000
+309,Grants-in-Aid,"11,80,37,63","13,14,72,14","10,30,84,97","12,50,85,92",3604 00 200 BP 30900
+02,Grants for Creation of Capital Assets,"11,80,37,63","13,14,72,14","10,30,84,97","12,50,85,92",3604 00 200 BP 30902
+BP,Total BP,"11,80,37,63","13,14,72,14","10,30,84,97","12,50,85,92",
+BQ,Pooled Fund Deficit - Rural Local Bodies,,,,,3604 00 200 BQ 30000
+309,Grants-in-Aid,"5,90,18,81","6,57,36,07","5,65,42,49","6,75,42,96",3604 00 200 BQ 30900
+02,Grants for Creation of Capital Assets,"5,90,18,81","6,57,36,07","5,65,42,49","6,75,42,96",3604 00 200 BQ 30902
+BQ,Total BQ,"5,90,18,81","6,57,36,07","5,65,42,49","6,75,42,96",
+#,State's Expenditure Total,"17,70,56,44","19,72,08,21","15,96,27,46","19,26,28,88",
+200,Total 200,"17,70,56,44","19,72,08,21","15,96,27,46","19,26,28,88",
+797,Transfer to Reserve Fund and Deposit Account,,,,,
+#,State's Expenditure,,,,,
+AC,Transfer of amount to Fund for Priority Schemes in Rural Areas,,,,,3604 00 797 AC 30000
+330,Inter-Account Transfers,"2,71,81,15","2,85,40,21","7,02,30,17","5,11,35,29",3604 00 797 AC 33000
+01,Inter-Account Transfers,"2,71,81,15","2,85,40,21","7,02,30,17","5,11,35,29",3604 00 797 AC 33001
+AC,Total AC,"2,71,81,15","2,85,40,21","7,02,30,17","5,11,35,29",
+#,State's Expenditure Total,"2,71,81,15","2,85,40,21","7,02,30,17","5,11,35,29",
+797,Total 797,"2,71,81,15","2,85,40,21","7,02,30,17","5,11,35,29",
+00,Total 00,"80,23,03,87","97,39,66,04","93,45,65,11 1,10,28,32,57",,
+3604,Total 3604,"80,23,03,87","97,39,66,04","93,45,65,11 1,10,28,32,57",,
+4216,CAPITAL OUTLAY,,,,,
+ON,HOUSING,,,,,
+03,Rural Housing,,,,,
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+JH,Deduct - Receipts and Recoveries on Capital Account - Scheme for Construction of Green House with Solar Power to Weavers,,,,,4216 03 800 JH 40000
+477,Deduct-Recoveries,"-12,91,33",,,,4216 03 800 JH 47700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-12,91,33",,,,4216 03 800 JH 47702
+JH,Total JH,"-12,91,33",,,,
+#,State's Expenditure Total,"-12,91,33",,,,
+800,Total 800,"-12,91,33",,,,
+03,Total 03,"-12,91,33",,,,
+4216,Total 4216,"-12,91,33",,,,
+4235,CAPITAL OUTLAY,,,,,
+ON,SOCIAL SECURITY AND WELFARE,,,,,
+01,Rehabilitation,,,,,
+911,Deduct - Recoveries of Overpayments,,,,,
+#,State's Expenditure,,,,,
+AA,Construction of houses in Sri Lankan Tamil Refugee Camps,,,,,4235 01 911 AA 40000
+477,Deduct-Recoveries,,,"-79,38",,4235 01 911 AA 47700
+02,Recoveries of Overpayments / Remittance of excess drawals,,,"-79,38",,4235 01 911 AA 47702
+AA,Total AA,,"-79,38",,,
+#,State's Expenditure Total,,,"-79,38",,
+911,Total 911,,"-79,38",,,
+01,Total 01,,"-79,38",,,
+4235,Total 4235,,"-79,38",,,
+4515-00,CAPITAL OUTLAY,,,,,
+ON,OTHER RURAL DEVELOPMENT PROGRAMMES,,,,,
+103,Rural Development,,,,,
+#,State's Expenditure,,,,,
+JC,Implementation of Road Works with  NABARD assistance,,,,,4515 00 103 JC 40000
+416,Major Works,"3,27,04,61","2,38,15,40","2,75,65,40","2,27,32,14",4515 00 103 JC 41600
+01,Major Works,"3,27,04,61","2,38,15,40","2,75,65,40","2,27,32,14",4515 00 103 JC 41601
+JC,Total JC,"3,27,04,61","2,38,15,40","2,75,65,40","2,27,32,14",
+JH,Construction of Staff Quarters for the Officers of Rural Development and Panchyat Raj,,,,,4515 00 103 JH 40000
+416,Major Works,"1,57,50",1,1,"2,16,91",4515 00 103 JH 41600
+01,Major Works,"1,57,50",1,1,"2,16,91",4515 00 103 JH 41601
+JH,Total JH,"1,57,50",1,1,"2,16,91",
+JI,Providing Infrastructure Amenities in Rural Areas,,,,,4515 00 103 JI 40000
+416,Major Works,,1,1,1,4515 00 103 JI 41600
+01,Major Works,,1,1,1,4515 00 103 JI 41601
+JI,Total JI,1,1,1,,
+JM,One time Special Grant Scheme for essential Basic Infrastructure work for Rural Habitation,,,,,4515 00 103 JM 40000
+416,Major Works,,,,"1,18,50,00",4515 00 103 JM 41600
+01,Major Works,,,,"1,18,50,00",4515 00 103 JM 41601
+JM,Total JM,,,"1,18,50,00",,
+#,State's Expenditure Total,"3,28,62,11","2,38,15,42","2,75,65,42","3,47,99,06",
+#,Schemes shared between State and Centre,,,,,
+UA,Roads / Bridge works under PMGSY - Bharat Nirman,,,,,4515 00 103 UA 40000
+416,Major Works,"4,53,34,33","2,98,44,00","6,28,84,00",1,4515 00 103 UA 41600
+01,Major Works,"4,53,34,33","2,98,44,00","6,28,84,00",1,4515 00 103 UA 41601
+UA,Total UA,"4,53,34,33","2,98,44,00","6,28,84,00",1,
+UB,Road / Bridge Works under PMGSY- II,,,,,4515 00 103 UB 40000
+416,Major Works,"8,85,91,99","5,92,00,00","5,92,00,00","5,92,00,00",4515 00 103 UB 41600
+01,Major Works,"8,85,91,99","5,92,00,00","5,92,00,00","5,92,00,00",4515 00 103 UB 41601
+UB,Total UB,"8,85,91,99","5,92,00,00","5,92,00,00","5,92,00,00",
+#,Schemes shared between State and Centre Total,"13,39,26,32","8,90,44,00","12,20,84,00","5,92,00,01",
+103,Total 103,"16,67,88,43","11,28,59,42","14,96,49,42","9,39,99,07",
+789,Special Component Plan for Scheduled Castes,,,,,
+#,State's Expenditure,,,,,
+JB,Execution of other Schemes under member of Legislative Assembly Constituency Development Scheme under Special Component Plan,,,,,4515 00 789 JB 40000
+416,Major Works,"1,23,37,50","1,23,37,50","1,48,05,00","1,48,05,00",4515 00 789 JB 41600
+01,Major Works,"1,23,37,50","1,23,37,50","1,48,05,00","1,48,05,00",4515 00 789 JB 41601
+JB,Total JB,"1,23,37,50","1,23,37,50","1,48,05,00","1,48,05,00",
+JD,Implementation of Road Works with NABARD assistance under Special Component Plan for Scheduled Castes - Controlled by DRD,,,,,4515 00 789 JD 40000
+416,Major Works,"98,11,38","71,44,62","82,69,62","68,19,64",4515 00 789 JD 41600
+01,Major Works,"98,11,38","71,44,62","82,69,62","68,19,64",4515 00 789 JD 41601
+JD,Total JD,"98,11,38","71,44,62","82,69,62","68,19,64",
+JI,One time Special Grant Scheme for essential Basic Infrastructure work for Rural Habitation,,,,,4515 00 789 JI 40000
+416,Major Works,,,,"30,00,00",4515 00 789 JI 41600
+01,Major Works,,,,"30,00,00",4515 00 789 JI 41601
+JI,Total JI,,,"30,00,00",,
+#,State's Expenditure Total,"2,21,48,88","1,94,82,12","2,30,74,62","2,46,24,64",
+789,Total 789,"2,21,48,88","1,94,82,12","2,30,74,62","2,46,24,64",
+796,Tribal Area Sub-Plan,,,,,
+#,State's Expenditure,,,,,
+JA,Implementation of Road Works with  NABARD assistance under Tribal Sub-Plan,,,,,4515 00 796 JA 40000
+416,Major Works,"10,90,15","7,93,85","9,18,85","7,57,74",4515 00 796 JA 41600
+01,Major Works,"10,90,15","7,93,85","9,18,85","7,57,74",4515 00 796 JA 41601
+JA,Total JA,"10,90,15","7,93,85","9,18,85","7,57,74",
+JC,Execution of other Schemes under member of Legislative Assembly Constituency Development Scheme,,,,,4515 00 796 JC 40000
+416,Major Works,"5,87,50","5,87,50","7,05,00","7,05,00",4515 00 796 JC 41600
+01,Major Works,"5,87,50","5,87,50","7,05,00","7,05,00",4515 00 796 JC 41601
+JC,Total JC,"5,87,50","5,87,50","7,05,00","7,05,00",
+JH,One time Special Grant Scheme for essential Basic Infrastructure work for Rural Habitation,,,,,4515 00 796 JH 40000
+416,Major Works,,,,"1,50,00",4515 00 796 JH 41600
+01,Major Works,,,,"1,50,00",4515 00 796 JH 41601
+JH,Total JH,,,"1,50,00",,
+#,State's Expenditure Total,"16,77,65","13,81,35","16,23,85","16,12,74",
+796,Total 796,"16,77,65","13,81,35","16,23,85","16,12,74",
+800,Other Expenditure,,,,,
+#,State's Expenditure,,,,,
+JF,Execution of other Schemes under member of Legislative Assembly Constituency Development Scheme,,,,,4515 00 800 JF 40000
+416,Major Works,"4,58,25,00","4,58,25,00","5,49,90,00","5,49,90,00",4515 00 800 JF 41600
+01,Major Works,"4,58,25,00","4,58,25,00","5,49,90,00","5,49,90,00",4515 00 800 JF 41601
+JF,Total JF,"4,58,25,00","4,58,25,00","5,49,90,00","5,49,90,00",
+JP,All Villages Anna Marumalarchi Thittam,,,,,4515 00 800 JP 40000
+477,Deduct-Recoveries,"-4,29,74",,,,4515 00 800 JP 47700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-4,29,74",,,,4515 00 800 JP 47702
+JP,Total JP,"-4,29,74",,,,
+KF,Construction of Guest House,,,,,4515 00 800 KF 40000
+416,Major Works,,,,"5,10,90",4515 00 800 KF 41600
+01,Major Works,,,"5,10,90",,4515 00 800 KF 41601
+KF,Total KF,,,"5,10,90",,
+#,State's Expenditure Total,"4,53,95,26","4,58,25,00","5,55,00,90","5,49,90,00",
+800,Total 800,"4,53,95,26","4,58,25,00","5,55,00,90","5,49,90,00",
+902,Deduct - Amount met from Reserve Fund,,,,,
+#,State's Expenditure,,,,,
+JA,Deduct - Amount met from Infrastructure Amenities Fund,,,,,4515 00 902 JA 40000
+430,Inter-Account Transfers,,-1,-1,-1,4515 00 902 JA 43000
+01,Inter-Account Transfers,,-1,-1,-1,4515 00 902 JA 43001
+JA,Total JA,,-1,-1,-1,
+#,State's Expenditure Total,,-1,-1,-1,
+902,Total 902,,-1,-1,-1,
+00,Total 00,"23,60,10,22","17,95,47,88","22,98,48,78","17,52,26,44",
+4515,Total 4515,"23,60,10,22","17,95,47,88","22,98,48,78","17,52,26,44",
+4702-00,CAPITAL OUTLAY ON MINOR IRRIGATION,,,,,
+101,Surface Water,,,,,
+#,State's Expenditure,,,,,
+KB,"Mission for Rejuvenation of Minor Irrigation Tanks, Ponds and Ooranies in Rural Area.",,,,,4702 00 101 KB 40000,
+416,Major Works,,,"3,46,03,70","1,53,96,30",4702 00 101 KB 41600
+01,Major Works,,,"3,46,03,70","1,53,96,30",4702 00 101 KB 41601
+KB,Total KB,,"3,46,03,70","1,53,96,30",,
+#,State's Expenditure Total,,,"3,46,03,70","1,53,96,30",
+101,Total 101,,"3,46,03,70","1,53,96,30",,
+00,Total 00,,"3,46,03,70","1,53,96,30",,
+4702,Total 4702,"3,46,03,70","1,53,96,30",,,
