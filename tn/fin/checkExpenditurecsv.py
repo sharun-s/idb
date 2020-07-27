@@ -64,7 +64,7 @@ locale.setlocale(locale.LC_NUMERIC, '')
 #ValueError: csv:/home/s/idb/tn/fin/data/expenditure/d4-004-02-v1.csv Error tokenizing data. C error: Expected 7 fields in line 248, saw 8
 
 try:
-	df=p.read_csv(sys.argv[1])#,comment='#')
+	df=p.read_csv(sys.argv[1],keep_default_na=False)#,comment='#')
 except p.errors.ParserError as e:
 	#print()
 	raise ValueError("csv:"+sys.argv[1]+' '+e.args[0])
@@ -76,6 +76,7 @@ se=0
 #print(df.head())
 while True:
 	try:
+		#print(df.iloc[i])
 		head=df.iloc[i]['head'].split('-')[0]
 		desc=df.iloc[i]['desc'] if not p.isnull(df.iloc[i]['desc']) else head+' MISSING Desc' 
 	except AttributeError as e:
