@@ -7,7 +7,7 @@
 3,,ADMINISTRATION OF JUSTICE
 ,1,Administration of Justice 
 ,2,Tamilnadu State Legal Services Authority 
-4,ADI-DRAVIDAR AND TRIBAL WELFARE DEPARTMENT
+4,,ADI-DRAVIDAR AND TRIBAL WELFARE DEPARTMENT
 ,1,Secretariat 
 ,2,Directorate of Adi Dravidar Welfare
 ,3,Directorate of Tribal Welfare 
@@ -21,13 +21,13 @@
 5,7,Agro Engineering  Services 
 5,8,"Tamil Nadu Agricultural University, Coimbatore"
 5,9,Directorate of Organic Certification 
-6,,"ANIMAL HUSBANDRY (Animal Husbandry, Dairying and Fisheries Department)"
+6,,"ANIMAL HUSBANDRY "
 6,1,Secretariat 
 6,2,Directorate of Animal Husbandry
 6,3,Tamil Nadu Veterinary and Animal Sciences University 
-7,,"FISHERIES (Animal Husbandry, Dairying and Fisheries Department)"
+7,,"FISHERIES "
 7,1,Directorate of Fisheries 
-8,,"DAIRY DEVELOPMENT (Animal Husbandry, Dairying and Fisheries Department"
+8,,"DAIRY DEVELOPMENT"
 8,1,Commissionerate of Milk Production and Dairy Development 
 9,,"BACKWARD CLASSES, MOST BACKWARD CLASSES AND MINORITIES WELFARE DEPARTMENT"
 9,1,Secretariat 
@@ -37,16 +37,16 @@
 9,5,State Minorities Commission 
 9,6,Directorate of Minorities Welfare
 9,7,Tamil Nadu Waqf Tribunal 
-10,,COMMERCIAL TAXES (Commercial Taxes and Registration Department) 
+10,,COMMERCIAL TAXES  
 10,1,Secretariat
 10,2,Commissionerate of Commercial Taxes 
 10,3,Sales Tax Appellate Tribunal 
-11,,STAMPS AND REGISTRATION  (Commercial Taxes and Registration Department)
+11,,STAMPS AND REGISTRATION  
 11,1,Registration Department 
-12,,"CO-OPERATION (Co-operation , Food and  Consumer Protection  Department)"
+12,,"CO-OPERATION "
 12,1,Secretariat
 12,2,Registrar of Co-operative Societies 
-13,,"FOOD AND CONSUMER PROTECTION (Co-operation , Food and  Consumer Protection  Department)"
+13,,"FOOD AND CONSUMER PROTECTION "
 13,1,Commissionerate of Civil Supplies and Consumer Protection
 13,2,State Consumer Dispute Redressal Commission 
 14,,ENERGY DEPARTMENT
@@ -54,7 +54,7 @@
 14,2,Chief Electrical Inspectorate 
 14,3,Tamilnadu Electricity Board
 14,4,Tamilnadu Energy Development Agency 
-15,,ENVIRONMENT (Environment and Forests Department)
+15,,ENVIRONMENT 
 15,1,Secretariat
 15,2,Directorate of Environment 
 16,,FINANCE DEPARTMENT
@@ -68,10 +68,10 @@
 16,9,Directorate of Pension 
 16,10,Loans and Advances Cell 
 16,11,Directorate of Audit for Milk Co-operatives 
-17,,"HANDLOOMS  AND TEXTILES (Handlooms, Handicrafts,  Textiles and Khadi Department)"
+17,,"HANDLOOMS  AND TEXTILES "
 17,1,Secretariat 
 17,2,Directorate of Handlooms and Textiles 
-18,,"KHADI, VILLAGE INDUSTRIES AND HANDICRAFTS  (Handlooms, Handicrafts,  Textiles and Khadi Department)"
+18,,"KHADI, VILLAGE INDUSTRIES AND HANDICRAFTS  "
 18,1,Khadi and Village Industries Board
 18,2,Directorate of Sericulture 
 19,,HEALTH AND FAMILY WELFARE DEPARTMENT
@@ -108,7 +108,7 @@
 21,9,Tamilnadu Maritime Board 
 21,10,Chief Engineer (Metro)
 21,11,"Director General, Highways Department"
-22,,"POLICE (Home, Prohibition and Excise Department)"
+22,,"POLICE "
 22,1,Secretariat
 22,2,Director General of Police
 22,3,"Commissioner of Police, Chennai"
@@ -119,11 +119,11 @@
 22,8,Directorate of Litigation
 22,9,Directorate of Forensic Science Department 
 22,10,Tamilnadu Uniformed Service Recruitment Board 
-23,,"FIRE AND RESCUE SERVICES (Home, Prohibition and Excise Department)"
+23,,"FIRE AND RESCUE SERVICES "
 23,1,Directorate of Fire and Rescue Services 
-24,,"PRISONS  (Home, Prohibition and Excise Department)"
+24,,"PRISONS  "
 24,1,Prisons (IGP) 
-25,,"MOTOR VEHICLES ACTS-ADMINISTRATION (Home, Prohibition and Excise Department)"
+25,,"MOTOR VEHICLES ACTS-ADMINISTRATION "
 25,1,Commissionerate of Transport 
 26,,HOUSING AND URBAN DEVELOPMENT DEPARTMENT
 26,1,Secretariat
@@ -137,15 +137,15 @@
 27,2,Commissionerate of Industries and Commerce 
 27,3,Directorate of Sugar
 27,4,Directorate of Geology and Mining 
-28,,INFORMATION AND PUBLICITY (Tamil Development and Information Department)
+28,,INFORMATION AND PUBLICITY 
 28,2,Directorate of Information and Public Relations 
-29,,"TOURISM - ART AND CULTURE (Tourism, Culture and Religious Endowments  Department)"
+29,,"TOURISM - ART AND CULTURE "
 29,1,Secretariat
 29,2,Directorate of Tourism 
 29,3,Directorate of Archaeology
 29,4,Directorate of Government Museum 
 29,5,Directorate of Art and Culture
-30,,STATIONERY AND PRINTING (Tamil Development and Information Department) 
+30,,STATIONERY AND PRINTING  
 30,1,Directorate of Stationery and Printing 
 31,,INFORMATION TECHNOLOGY DEPARTMENT
 31,1,Secretariat
@@ -186,7 +186,7 @@
 36,3,Directorate of Evaluation and Applied Research
 36,4,State Planning Commission (Tamilnadu) 
 36,5,Hill Areas Development Programme 
-37,,"PROHIBITION AND EXCISE (Home, Prohibition and Excise Department)"
+37,,"PROHIBITION AND EXCISE "
 37,1,Commissionerate of Prohibition and Excise
 37,2,Advisory Board Constituted under Bootlegger Act 1982 
 38,,PUBLIC DEPARTMENT
@@ -237,11 +237,11 @@
 45,2,Directorate of Social Defence 
 45,3,Directorate of Social Welfare
 45,4,Commissionerate of Integrated Child Development Services Scheme 
-46,,TAMIL DEVELOPMENT (Tamil Development and Information Department)
+46,,TAMIL DEVELOPMENT 
 46,1,Secretariat
 46,2,Directorate of Tamil Development 
 46,3,Directorate of Tamil Etymological Dictionary Project 
-47,,"HINDU RELIGIOUS AND CHARITABLE ENDOWMENTS (Tourism, Culture and Religious Endowments Department)"
+47,,"HINDU RELIGIOUS AND CHARITABLE ENDOWMENTS "
 47,1,Commissionerate of Hindu Religious and Charitable Endowments 
 48,,TRANSPORT DEPARTMENT
 48,1,Secretariat
@@ -260,6 +260,6 @@
 52,2,Commissionerate for the Welfare of Differently Abled 
 53,,DEPARTMENT OF SPECIAL PROGRAMME IMPLEMENTATION
 53,1,Department of Special Programme Implementation 
-54,,FORESTS   (Environment and Forests Department)
+54,,FORESTS   
 54,1,Forests Department
 55,,MISCELLANEOUS 

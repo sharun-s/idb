@@ -1,0 +1,1 @@
+find data/expenditure/ -maxdepth 1 -regextype posix-extended -regex '.*/[0-9]{2}\-[0-9].*\.csv' -exec grep "$1" {} \;

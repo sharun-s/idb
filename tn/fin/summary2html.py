@@ -41,7 +41,7 @@ def format_indian(t):
 	return "{:.2f}".format(m*dic[ex][1])+" "+dic[ex][0]
 
 def parseResults(o):
-	r=csv.reader(o.stdout.splitlines())
+	#r=csv.reader(o.stdout.splitlines())
 	d=[]
 	v=[]
 	for i in csv.reader(o.stdout.splitlines()):
@@ -55,31 +55,56 @@ def parseResults(o):
 					v.append('-')
 	return (d,v)
 
+def parseHistory(o):
+	v=[]
+	for i in csv.reader(o.stdout.splitlines()):
+		#print(i)
+		for amt in i[2:]:
+			if amt !='':
+				try:
+					v.append(format_indian(100000*atof(amt)))
+				except ValueError as e:
+					v.append('xx')  
+			else: 
+				v.append('-')
+	return ",".join(v)
+
+def highlight(x):
+    return ['font-weight: bold' for v in x]
+
 def pp(d,v):
-	print('<ul>')
-	for i in zip(d,v):
-		wrapped=tw.wrap(tw.dedent(i[0]),60)
-		for l in wrapped[:-1]: 
-			print('<li>'+l.title() +' ')
-		print(wrapped[-1].title().rjust(60," "),
-			''+i[1]+'</li>', sep=' ')
-	print('</ul>')
+	dk=p.DataFrame(v,index=[i.title() for i in d])
+	if len(dk)==1:
+		print('<b>'+dk.ix[0][0] +'</b><br>')
+	else:
+		#df.style.set_properties(color="red")
+		#df.style.apply(highlight)
+		#print(dk)
+		print(dk.to_html(header=False,border=0,bold_rows=False))
+	#for i in zip(d,v):
+	#	wrapped=tw.wrap(tw.dedent(i[0]),60)
+	#	for l in wrapped[:-1]: 
+	#		print('<br>'+l.title() +' ')
+	#	print(wrapped[-1].title().rjust(60," "),
+	#		'<b>'+i[1]+'</b><br>', sep=' ')
+
 
 def ppIncome():
 	df=p.read_csv(rev_file,comment='#',header=None)
 	df[1]=df[1].apply(lambda x:str(x).replace('- ','-')).apply(lambda x:atof(x) if x!='nan' else 0)
 	df=df[df[1]!=0.0]
-	df.set_index(0,inplace=True)
+	#df.set_index(0,inplace=True)
 	df=df.sort_values(by=1,ascending=True)
 	tot=format_indian(1000*df[1].sum())
 	df[1]=df[1].apply(lambda z:format_indian(1000*z))
-	print(df[1].to_string(header=False))
-	print(f'<h4>Total Income {tot} </h4>')
+	if len(df)>1:
+		print(df.to_html(header=False,index=False,border=0))
+	print(f'<br>Total Income <b>{tot}</b>')
 
 def ppIncomeByDepts(detailsfile):
 	#Find all sub depts generating income
 	o=subprocess.run(r"grep -Po '\[\d\d\d\d\]' "+ shlex.quote(detailsfile.strip()) +" | sort | uniq" ,shell=True, stdout=subprocess.PIPE, universal_newlines=True)
-	print(o.stdout)
+	#print(o.stdout)
 	depts=o.stdout.replace('[','').replace(']','').split('\n')[:-1]
 	if True:# temp hack check here for empty/errors in depts
 		d=dept_map[dept_map[0] == int(depts[0][:2])]
@@ -92,10 +117,12 @@ def ppIncomeByDepts(detailsfile):
 			else:
 				continue
 			subdepts.append(subdept)
-		print('<h4>Income by SubDepts</h4>')
-		print(",".join(d[d[1].isin(subdepts)][2].values.tolist()))
-		#print(d[d[1].isin(subdepts)][2].values.tolist())
+		print('<br><b>SubDepts producing Income</b>')
+		#print("<a href='#'>[E] </a>,".join(d[d[1].isin(subdepts)][2].values.tolist()))
+		print(d[d[1].isin(subdepts)].to_html(index=False,header=False,columns=[2],border=0))#[2].values.tolist())
 
+
+print('<body style="font-family:verdana,sans-serif;">')
 
 dept_map=p.read_csv('tn_function_dept_map',header=None)
 rev_head=None
@@ -117,12 +144,12 @@ try:
 		line=f.readline()
 		title=line.split(',')[1].strip().replace('"','').title()
 		print('<h3>'+title.upper()+'  Year:2018-2019 </h3>')
-		print('<h4>Income</h4>')
+		print('<b>Income</b>')
 
 		ppIncome()
 	
 		o=subprocess.run( ['ls -1 data/revenue/breakup/'+rev_head+'*'],shell=True, stdout=subprocess.PIPE, universal_newlines=True)
-		print('<a href="'+ o.stdout+'">details</a>')
+		print('<br><a target="_top" href="../'+ o.stdout+'">Details</a>')
 
 		ppIncomeByDepts(o.stdout)
 
@@ -133,34 +160,36 @@ except FileNotFoundError as e:
 	pass
 
 print('')
-print('<h4>Expenditure day to day (revex)</h4>')
+print('<br>Expenditure day to day (revex)<br>')
 o=subprocess.run(r"grep -Ir '^"+revex_head+"' data/expenditure --exclude-dir=tmp",shell=True, stdout=subprocess.PIPE, universal_newlines=True)
 #print('2018','2019 Estimate','2019 revised','2020',sep='\t')
 d,v=parseResults(o)
 pp(d,v)
 
-print('<h4>Investments (capex)</h4>')
+print('<br>--Investments (capex)<br>')
 o=subprocess.run(r"grep -Ir '^"+capex_head+"' data/expenditure --exclude-dir tmp ",shell=True, stdout=subprocess.PIPE, universal_newlines=True)
 #print("\t".join(['2018','2019 Estimate','2019 revised','2020']))
 d,v=parseResults(o)
 pp(d,v)
 
-print('<h4>--Loans<h4>')
+print('<br>--Loans<br>')
 o=subprocess.run(r"grep -Ir '^"+loan_head+"' data/expenditure --exclude-dir=tmp",shell=True, stdout=subprocess.PIPE, universal_newlines=True)
 d,v=parseResults(o)
 pp(d,v)
 
-print('<h4>--Historic Trend 2002-2018 (in laks)</h4>')
-o=subprocess.run(r'grep -P "'+rev_head+'" data/*.csv',shell=True, stdout=subprocess.PIPE, universal_newlines=True)
-print(o.stdout)
-o=subprocess.run(r'grep -P "'+revex_head+'" data/*.csv',shell=True, stdout=subprocess.PIPE, universal_newlines=True)
-print(o.stdout)
-o=subprocess.run(r'grep -P "'+capex_head+'" data/*.csv',shell=True, stdout=subprocess.PIPE, universal_newlines=True)
-print(o.stdout)
+print('<br><b>--Historic Trend 2002-2018 (in laks)</b>')
+o=subprocess.run(r'grep -Ph "'+rev_head+'" data/*.csv',shell=True, stdout=subprocess.PIPE, universal_newlines=True)
+print('<br><b>Income</b>')
+print(parseHistory(o))
+o=subprocess.run(r'grep -Ph "'+revex_head+'" data/*.csv',shell=True, stdout=subprocess.PIPE, universal_newlines=True)
+print('<br><b>Expenses</b>')
+print(parseHistory(o))
+o=subprocess.run(r'grep -Ph "'+capex_head+'" data/*.csv',shell=True, stdout=subprocess.PIPE, universal_newlines=True)
+print('<br><b>Investments</b>')
+print(parseHistory(o))
 
-
-print('<h4>Compared to Other States</h4>')
+print('<br><b>Compared to Other States (Kerala)</b><br>')
 o=subprocess.run(r'grep -Pi "'+title+'" ../../ke/data/*.csv' ,shell=True, stdout=subprocess.PIPE, universal_newlines=True)
-print(o.stdout)
+print(parseHistory(o))
 
-
+print('</body>')
