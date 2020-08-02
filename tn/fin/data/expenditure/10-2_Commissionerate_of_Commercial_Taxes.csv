@@ -222,8 +222,8 @@ AB,District Establishment,,,,,2040 00 101 AB 30000
 349,Festival Advances,"1,82",,,,2040 00 101 AB 34900
 01,Festival Advances-Debit,"1,31,16","2,12,78","4,46,42","4,64,28",2040 00 101 AB 34901
 02,Festival Advances-Credit,"- 1,29,34","- 2,12,78","- 4,46,42","- 4,64,28",2040 00 101 AB 34902
-351,Compensation Charged,,2,"18,60",2,2040 00 101 AB 35100,
-351,Compensation Voted,"3,74",1,2,2,2040 00 101 AB 35100,
+351,Compensation Charged,,2,"18,60",2,2040 00 101 AB 35100
+351,Compensation Voted,"3,74",1,2,2,2040 00 101 AB 35100
 01,Claims under no fault liability -  principal charges  - Voted,,1,1,1,2040 00 101 AB 35101
 02,Other Compensations  - Voted,"3,74",,1,1,2040 00 101 AB 35102
 51,Claims under no fault liability -  principal charges Charged,,1,2,1,2040 00 101 AB 35151

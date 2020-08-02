@@ -53,11 +53,11 @@ AA,Establishment for the maintenance of motor vehicles of Public Health and Medi
 01,"Petroleum, Oil and Lubricant","62,70","94,00","84,00","87,36",2211 00 104 AA 34501
 346,"Clothing, Tentage and Stores","11,44","10,00","10,00","10,00",2211 00 104 AA 34600
 01,"Clothing, Tentage and Stores","11,44","10,00","10,00","10,00",2211 00 104 AA 34601
-349,Festival Advances,- 66,,,,2211 00 104 AA 34900
+349,Festival Advances,-66,,,,2211 00 104 AA 34900
 01,Festival Advances-Debit,"13,40","21,32","36,00","37,44",2211 00 104 AA 34901
-02,Festival Advances-Credit,"- 14,06","- 21,32","- 36,00","- 37,44",2211 00 104 AA 34902
-351,Compensation Charged,,2,2,2,2211 00 104 AA 35100,
-51,Claims under no fault liability -  principal charges Charged,,1,1,1,2211 00 104 AA 35151,
+02,Festival Advances-Credit,"-14,06","-21,32","-36,00","-37,44",2211 00 104 AA 34902
+351,Compensation Charged,,2,2,2,2211 00 104 AA 35100
+51,Claims under no fault liability -  principal charges Charged,,1,1,1,2211 00 104 AA 35151
 52,Other Compensations Charged,,,,,
 359,Prizes and Awards,6,54,20,30,2211 00 104 AA 35900
 01,Prizes and Awards,6,54,20,30,2211 00 104 AA 35901
@@ -74,10 +74,10 @@ AA,Total AA Voted,"28,08,79","29,57,21","29,98,11","32,53,47",
 911,Deduct - Recoveries of Overpayments,,,,,
 #,State's Expenditure,,,,,
 AA,Establishment for the maintenance of motor vehicles of Public Health and Medical Department,,,,,2211 00 911 AA 30000
-377,Deduct-Recoveries,"- 7,46",,"- 1,50,00","- 1,56,00",2211 00 911 AA 37700
-02,Recoveries of Overpayments / Remittance of excess drawals,"- 7,46",,"- 1,50,00","- 1,56,00",2211 00 911 AA 37702
-AA,Total AA,"- 7,46",,"- 1,50,00","- 1,56,00",
-911,Total 911,"- 7,46",,"- 1,50,00","- 1,56,00",
+377,Deduct-Recoveries,"-7,46",,"-1,50,00","-1,56,00",2211 00 911 AA 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-7,46",,"-1,50,00","-1,56,00",2211 00 911 AA 37702
+AA,Total AA,"-7,46",,"-1,50,00","-1,56,00",
+911,Total 911,"-7,46",,"-1,50,00","-1,56,00",
 00,Total 00 Charged,,2,2,2,
 00,Total 00 Voted,"28,01,33","29,57,21","28,48,11","30,97,47",
 2211,Total 2211 Charged,,2,2,2,

@@ -1,0 +1,84 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2013-00,COUNCIL OF MINISTERS,,,,,
+101,"Salary of Ministers and Deputy Ministers",,,,,
+#State's Expenditure,,,,,
+AA,Salary of Ministers and Deputy Ministers,,,,,2013 00 101 AA 30000
+301,"Salaries","4,48,70","5,55,65","3,07,03","3,05,58",2013 00 101 AA 30100
+01,"Pay","2,04,85","2,71,57","1,18,80","1,18,80",2013 00 101 AA 30101
+03,Medical Charges,"9,78",78,"2,23",78,2013 00 101 AA 30103
+04,Other Allowances,"2,34,07","2,83,30","1,86,00","1,86,00",2013 00 101 AA 30104
+AA,Total AA,"4,48,70","5,55,65","3,07,03","3,05,58",
+#State's Expenditure Total,"4,48,70","5,55,65","3,07,03","3,05,58",
+101,Total 101,"4,48,70","5,55,65","3,07,03","3,05,58",
+108,Tour Expenses,,,,,
+#State's Expenditure,,,,,
+AA,Tour Expenses,,,,,2013 00 108 AA 30000
+304,Travel Expenses,"1,77,83","2,40,00","2,40,00","2,40,00",2013 00 108 AA 30400
+01,"Tour Travelling Allowances","1,77,83","2,40,00","2,40,00","2,40,00",2013 00 108 AA 30401
+AA,Total AA,"1,77,83","2,40,00","2,40,00","2,40,00",
+AB,Settlement of Air Travel Expenses incurred by the Chief Minister and other Ministers,,,,,2013 00 108 AB 30000
+304,Travel Expenses,"31,93","3,16,00","3,16,00","3,16,00",2013 00 108 AB 30400
+01,"Tour Travelling Allowances","31,93","3,16,00","3,16,00","3,16,00",2013 00 108 AB 30401
+AB,Total AB,"31,93","3,16,00","3,16,00","3,16,00",
+#State's Expenditure Total,"2,09,76","5,56,00","5,56,00","5,56,00",
+108,Total 108,"2,09,76","5,56,00","5,56,00","5,56,00",
+800,"Other Expenditure State's Expenditure",,,,,
+AA,Other Non-Salary Expenditure,,,,,2013 00 800 AA 30000
+305,Office Expenses,"84,82","75,51","91,80","75,51",2013 00 800 AA 30500
+01,"Telephone Charges","25,84","30,50","30,50","30,50",2013 00 800 AA 30501
+02,Other Contingencies,"45,08","45,00","45,00","45,00",2013 00 800 AA 30502
+05,"Furniture","13,90",1,"16,30",1,2013 00 800 AA 30505
+319,Machinery and Equipments,,1,1,1,2013 00 800 AA 31900
+01,"Purchase",,1,1,1,2013 00 800 AA 31901
+321,Motor Vehicles,"2,30",3,"15,26",3,2013 00 800 AA 32100
+01,"Purchase","2,30",1,"15,24",1,2013 00 800 AA 32101
+02,Maintenance of Functional Vehicles,,1,1,1,2013 00 800 AA 32102
+03,Hire Charges,,1,1,1,2013 00 800 AA 32103
+334,Other Charges,"7,95","7,47","9,00","8,00",2013 00 800 AA 33400
+02,"Purchase  of  Books & Periodicals to Libraries etc.,","7,95","7,47","9,00","8,00",2013 00 800 AA 33402
+345,"Petroleum, Oil and Lubricant","19,97","33,07","33,07","34,72",2013 00 800 AA 34500
+01,"Petroleum, Oil and Lubricant","19,97","33,07","33,07","34,72",2013 00 800 AA 34501
+AA,Total AA,"1,15,04","1,16,09","1,49,14","1,18,27",
+#State's Expenditure Total,"1,15,04","1,16,09","1,49,14","1,18,27",
+800,Total 800,"1,15,04","1,16,09","1,49,14","1,18,27",
+00,Total 00,"7,73,50","12,27,74","10,12,17","9,79,85",
+2013,Total 2013,"7,73,50","12,27,74","10,12,17","9,79,85",
+2052-00,SECRETARIAT - GENERAL SERVICES,,,,,
+090,"Secretariat",,,,,
+#State's Expenditure,,,,,
+AC,Personal Staff of Ministers,,,,,2052 00 090 AC 30000
+301,"Salaries","23,70,46","22,91,60","24,27,98","25,21,89",2052 00 090 AC 30100
+01,"Pay","20,19,28","19,28,15","20,89,73","21,71,64",2052 00 090 AC 30101
+02,Medical Allowance,"12,82","14,33","9,58","9,58",2052 00 090 AC 30102
+03,Medical Charges,"9,00","9,54","9,54","9,54",2052 00 090 AC 30103
+04,Other Allowances,"56,04","69,78","49,33","61,33",2052 00 090 AC 30104
+06,House Rent Allowance,"2,35,84","2,26,49","2,26,49","2,26,49",2052 00 090 AC 30106
+07,"Travel Concession",18,"2,00","2,00","2,00",2052 00 090 AC 30107
+08,City Compensatory Allowance,"37,30","41,31","41,31","41,31",2052 00 090 AC 30108
+302,Wages,,1,1,1,2052 00 090 AC 30200
+01,Wages,,1,1,1,2052 00 090 AC 30201
+303,Dearness Allowance,"1,90,53","2,85,96","3,34,10","5,42,91",2052 00 090 AC 30300
+01,Dearness Allowance,"1,90,53","2,85,96","3,34,10","5,42,91",2052 00 090 AC 30301
+304,Travel Expenses,"46,31","51,46","51,46","51,46",2052 00 090 AC 30400
+01,"Tour Travelling Allowances","46,31","51,46","51,46","51,46",2052 00 090 AC 30401
+305,Office Expenses,"88,84","88,50","88,50","88,50",2052 00 090 AC 30500
+01,"Telephone Charges","3,10","3,50","3,50","3,50",2052 00 090 AC 30501
+02,Other Contingencies,"85,74","85,00","85,00","85,00",2052 00 090 AC 30502
+310,Contributions,"3,19",1,"19,41",1,2052 00 090 AC 31000
+09,Others,"3,19",1,"19,41",1,2052 00 090 AC 31009
+345,"Petroleum, Oil and Lubricant",,"1,09","1,09","1,09",2052 00 090 AC 34500
+01,"Petroleum, Oil and Lubricant",,"1,09","1,09","1,09",2052 00 090 AC 34501
+349,Festival Advances,- 84,,,,2052 00 090 AC 34900
+01,Festival Advances-Debit,"3,10","9,15","9,15","9,15",2052 00 090 AC 34901
+02,Festival Advances-Credit,"- 3,94","- 9,15","- 9,15","- 9,15",2052 00 090 AC 34902
+359,Prizes and Awards,12,35,35,35,2052 00 090 AC 35900
+01,Prizes and Awards,12,35,35,35,2052 00 090 AC 35901
+AC,Total AC,"26,98,61","27,18,98","29,22,90","32,06,22",
+BF,Settlement of Air Travel Expenses incurred by the Personal Staff of Ministers and Officers of Public Department,,,,,2052 00 090 BF 30000
+304,Travel Expenses,"33,89","34,00","34,00","34,00",2052 00 090 BF 30400
+01,Tour Travelling Allowances,"33,89","34,00","34,00","34,00",2052 00 090 BF 30401
+BF,Total BF,"33,89","34,00","34,00","34,00",
+#State's Expenditure Total,,"27,32,50","27,52,98","29,56,90","32,40,22",
+090,Total 090,"27,32,50","27,52,98","29,56,90","32,40,22",
+00,Total 00,"27,32,50","27,52,98","29,56,90","32,40,22",
+2052,Total 2052,"27,32,50","27,52,98","29,56,90","32,40,22",

@@ -1,0 +1,102 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2415,AGRICULTURAL RESEARCH AND EDUCATION,,,,,
+01,Crop Husbandry,,,,,
+004,Research,,,,,
+#,State's Expenditure,,,,,
+JV,Research and Development on Integrated Pest Management,,,,,2415 01 004 JV 30000
+309,Grants-in-Aid,,,,"5,00,00",2415 01 004 JV 30900
+03,Grants for Specific Schemes,,,,"5,00,00",2415 01 004 JV 30903
+JV,Total JV,,,"5,00,00",,
+#,State's Expenditure TotalTotal,,,,"5,00,00",
+004,Total 004,,,"5,00,00",,
+120,Assistance to Other Institutions,,,,,
+#State's Expenditure,,,,,,
+AB,Grants to Tamil Nadu Agricultural University,,,,,2415 01 120 AB 30000
+309,Grants-in-Aid,"4,06,87,92","5,45,28,97","6,17,24,96","5,46,83,53",2415 01 120 AB 30900
+01,Grants for Current Expenditure,"3,31,67,14","4,65,55,96","5,48,27,43","4,77,40,29",2415 01 120 AB 30901
+02,Grants for Creation of Capital Assets,"75,20,78","79,73,01","68,97,53","69,43,24",2415 01 120 AB 30902
+AB,Total AB,"4,06,87,92","5,45,28,97","6,17,24,96","5,46,83,53",
+AG,Pilot  Plant for Upscaling Extraction of Bioactive molecules from Medicinal Plants for Exploitation in Food and Health Industry under State Innovation Fund,,,,,2415 01 120 AG 30000
+309,Grants-in-Aid,,"4,00","1,79,00","4,00",2415 01 120 AG 30900
+03,Grants for Specific Schemes,,"4,00","1,79,00","4,00",2415 01 120 AG 30903
+AG,Total AG,"4,00","1,79,00","4,00",,
+AH,Accelerated Vermi-compost Production through automation under State Innovation Fund,,,,,2415 01 120 AH 30000
+309,Grants-in-Aid,,"40,00","60,00","40,00",2415 01 120 AH 30900
+03,Grants for Specific Schemes,,"40,00","60,00","40,00",2415 01 120 AH 30903
+AH,Total AH,"40,00","60,00","40,00",,
+AI,Pelletisation of Forage Crops for enhancing Livestock Productivity under State Innovation Fund,,,,,2415 01 120 AI 30000
+309,Grants-in-Aid,,"10,00","2,00,00","10,00",2415 01 120 AI 30900
+03,Grants for Specific Schemes,,"10,00","2,00,00","10,00",2415 01 120 AI 30903
+AI,Total AI,"10,00","2,00,00","10,00",,
+JJ,Revitalization of Millets for nutritional security and enhanced productivity - Schemes under State Innovation Fund,,,,,2415 01 120 JJ 30000
+309,Grants-in-Aid,"42,60",,,,2415 01 120 JJ 30900
+03,Grants for Specific Schemes,"42,60",,,,2415 01 120 JJ 30903
+JJ,Total JJ,"42,60",,,,
+JL,Mitigating occupational drudgery of farm women-Scheme under State Innovation Fund.,,,,,2415 01 120 JL 30000
+309,Grants-in-Aid,"43,00",1,,,2415 01 120 JL 30900
+03,Grants for Specific Schemes,"43,00",1,,,2415 01 120 JL 30903
+JL,Total JL,"43,00",1,,,
+JN,Development of Nutritionally Enhanced Premium Quality and Stress Resilient Rice Varieties - Scheme under State Innovation Fund,,,,,2415 01 120 JN 30000
+309,Grants-in-Aid,"10,00",1,,,2415 01 120 JN 30900
+03,Grants for Specific Schemes,"10,00",1,,,2415 01 120 JN 30903
+JN,Total JN,"10,00",1,,,
+JP,Organic inputs and bio-inputs characterization for sustainable organic agriculture - Scheme under State Innovation Fund,,,,,2415 01 120 JP 30000
+309,Grants-in-Aid,"8,00","7,00","7,00",1,2415 01 120 JP 30900
+03,Grants for Specific Schemes,"8,00","7,00","7,00",1,2415 01 120 JP 30903
+JP,Total JP,"8,00","7,00","7,00",1,
+JQ,Grants to Tamilnadu Agricultural University to establish a Centre for Excellence in Bio-Technology,,,,,2415 01 120 JQ 30000
+309,Grants-in-Aid,,1,1,"4,00,01",2415 01 120 JQ 30900
+02,Grants for Creation of Capital Assets,,1,1,"4,00,01",2415 01 120 JQ 30902
+JQ,Total JQ,1,1,"4,00,01",,
+JR,Ensuring supply of uniform and quality planting material in coconut through micro propagation under State Innovation Fund,,,,,2415 01 120 JR 30000
+309,Grants-in-Aid,"3,21,00","21,00","3,42,00",1,2415 01 120 JR 30900
+03,Grants for Specific Schemes,"3,21,00","21,00","3,42,00",1,2415 01 120 JR 30903
+JR,Total JR,"3,21,00","21,00","3,42,00",1,
+JS,Skill Development and Employment Generation in Palmyrah based ventures of Rural youth under State Innovation Fund,,,,,2415 01 120 JS 30000
+309,Grants-in-Aid,"1,36,50",1,,,2415 01 120 JS 30900
+03,Grants for Specific Schemes,"1,36,50",1,,,2415 01 120 JS 30903
+JS,Total JS,"1,36,50",1,,,
+JT,Optimizing farm mechanization practices for different soil types and crops of Madurai district under State Innovation Fund,,,,,2415 01 120 JT 30000
+309,Grants-in-Aid,"83,00",1,"83,00",1,2415 01 120 JT 30900
+03,Grants for Specific Schemes,"83,00",1,"83,00",1,2415 01 120 JT 30903
+JT,Total JT,"83,00",1,"83,00",1,
+#,State's Expenditure TotalTotal,"4,13,32,02","5,46,11,02","6,25,95,97","5,51,37,57",
+#Externally Aided Projects,,,,,,
+PF,Grants to Tamil Nadu Agricultural University under Tamil Nadu Irrigated Agriculture Modernisation Project-II (TNIAM-II),,,,,2415 01 120 PF 30000
+309,Grants-in-Aid,,"15,48,39","17,56,02","15,48,39",2415 01 120 PF 30900
+03,Grants for Specific Schemes,,"15,48,39","17,56,02","15,48,39",2415 01 120 PF 30903
+PF,Total PF,"15,48,39","17,56,02","15,48,39",,
+#Externally Aided Project Total,,"15,48,39","17,56,02","15,48,39",,
+#,Schemes shared between State and Centre,,,,,
+UA,Grants to Tamil Nadu Agricultural University - Schemes under National Agriculture Development Programme (NADP-RKVY),,,,,2415 01 120 UA 30000
+309,Grants-in-Aid,"3,10,86","17,19,00","2,20,54","6,00,00",2415 01 120 UA 30900
+03,Grants for Specific Schemes,"3,10,86","17,19,00","2,20,54","6,00,00",2415 01 120 UA 30903
+UA,Total UA,"3,10,86","17,19,00","2,20,54","6,00,00",
+#,Schemes shared between State and Centre Total,"3,10,86","17,19,00","2,20,54","6,00,00",
+120,Total 120,"4,16,42,88","5,78,78,41","6,45,72,53","5,72,85,96",
+793,Special Central Assistance for Scheduled Caste Component Plan,,,,,
+#,Schemes shared between State and Centre,,,,,
+UA,Grants to Tamil Nadu Agricultural University - Scheme under National Agricultural Development Programme,,,,,2415 01 793 UA 30000
+309,Grants-in-Aid,"1,11,60","2,62,00","81,18","3,00,00",2415 01 793 UA 30900
+03,Grants for Specific Schemes,"1,11,60","2,62,00","81,18","3,00,00",2415 01 793 UA 30903
+UA,Total UA,"1,11,60","2,62,00","81,18","3,00,00",
+#,Schemes shared between State and Centre Total,"1,11,60","2,62,00","81,18","3,00,00",
+793,Total 793,"1,11,60","2,62,00","81,18","3,00,00",
+794,Special Central Assistance for Tribal Sub-Plan,,,,,
+#,Schemes shared between State and Centre,,,,,
+UA,Grants to Tamil Nadu Agricultural University - Scheme under National Agricultural Development Programme,,,,,2415 01 794 UA 30000
+309,Grants-in-Aid,"6,45","19,00","4,60","1,00,00",2415 01 794 UA 30900
+03,Grants for Specific Schemes,"6,45","19,00","4,60","1,00,00",2415 01 794 UA 30903
+UA,Total UA,"6,45","19,00","4,60","1,00,00",
+#,Schemes shared between State and Centre Total,"6,45","19,00","4,60","1,00,00",
+794,Total 794,"6,45","19,00","4,60","1,00,00",
+902,Deduct - Amount met from State Innovation Fund,,,,,
+#,State's Expenditure,,,,,
+JB,Deduct - Amount met from State Innovation Fund,,,,,2415 01 902 JB 30000
+330,Inter-Account Transfers,"- 6,44,10","- 82,04","- 8,71,00","- 54,00",2415 01 902 JB 33000
+01,Inter-Account Transfers,"- 6,44,10","- 82,04","- 8,71,00","- 54,00",2415 01 902 JB 33001
+JB,Total JB,"- 6,44,10","- 82,04","- 8,71,00","- 54,00",
+#,State's Expenditure TotalTotal,"- 6,44,10","- 82,04","- 8,71,00","- 54,00",
+902,Total 902,"- 6,44,10","- 82,04","- 8,71,00","- 54,00",
+01,Total 01,"4,11,16,83","5,80,77,37","6,37,87,31","5,81,31,96",
+2415,Total 2415,"4,11,16,83","5,80,77,37","6,37,87,31","5,81,31,96",

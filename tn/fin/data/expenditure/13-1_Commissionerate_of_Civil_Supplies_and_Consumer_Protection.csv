@@ -18,7 +18,7 @@ SE,Total SE,1,1,1,,
 789,Special Component Plan for Scheduled Castes State's Expenditure,,,,,
 JB,Implementation of Annapurna Scheme Under Special Component Plan,,,,,2235 60 789 JB 30000
 309,Grants-in-Aid,"11,61","17,88","17,88","17,88",2235 60 789 JB 30900
-03,Grants for Specific Schemes,"11,61","17,88","17,88","17,88","2235 60 789 JB 30903"""
+03,Grants for Specific Schemes,"11,61","17,88","17,88","17,88",2235 60 789 JB 30903
 JB,Total JB,"11,61","17,88","17,88","17,88",
 #,State's Expenditure Total,"11,61","17,88","17,88","17,88",
 789,Total 789,"11,61","17,88","17,88","17,88",
@@ -27,7 +27,7 @@ JB,Total JB,"11,61","17,88","17,88","17,88",
 2408,FOOD STORAGE AND WAREHOUSING,,,,,
 01,Food,,,,,
 101,Procurement and Supply State's Expenditure,,,,,
-JA,Implement the e-procurement system in the Direct Purchase Centres in Tamil Nadu,,,,2408 01 101 JA 30000,
+JA,Implement the e-procurement system in the Direct Purchase Centres in Tamil Nadu,,,,2408 01 101 JA 30000
 305,Office Expenses,,,2,2,2408 01 101 JA 30500
 01,Telephone Charges,,,1,1,2408 01 101 JA 30501
 02,Other Contingencies,,,1,1,2408 01 101 JA 30502
@@ -210,8 +210,8 @@ AA,Vigilance Cell,,,,,3456 00 101 AA 30000
 349,Festival Advances,62,,,,3456 00 101 AA 34900
 01,Festival Advances-Debit,"6,40","9,30","22,50","22,50",3456 00 101 AA 34901
 02,Festival Advances-Credit,"- 5,78","- 9,30","- 22,50","- 22,50",3456 00 101 AA 34902
-351,Compensation Charged,,1,1,1,3456 00 101 AA 35100,
-51,Claims under no fault liability -  principal charges Charged,,1,1,1,3456 00 101 AA 35151,
+351,Compensation Charged,,1,1,1,3456 00 101 AA 35100
+51,Claims under no fault liability -  principal charges Charged,,1,1,1,3456 00 101 AA 35151
 359,Prizes and Awards,,2,2,2,3456 00 101 AA 35900
 01,Prizes and Awards,,2,2,2,3456 00 101 AA 35901
 376,Computer and Accessories,"13,27","4,61","7,12","4,61",3456 00 101 AA 37600
@@ -223,9 +223,9 @@ AA,Vigilance Cell,,,,,3456 00 101 AA 30000
 AA,Total AA Charged,,1,1,1,
 AA,Total AA Voted,"21,40,24","20,06,46","20,82,63","22,64,56",
 #,State's Expenditure Total Charged,,1,1,1,
-#,State's Expenditure Total Voted,,"21,40,24","20,06,46","20,82,63","22,64,56",
+#,State's Expenditure Total Voted,,"21,40,24","20,06,46","20,82,63","22,64,56"
 101,Total 101 Charged,,1,1,1,
-101,Total 101 Voted,"21,40,24","20,06,46","20,82,63","22,64,56",,
+101,Total 101 Voted,"21,40,24","20,06,46","20,82,63","22,64,56",
 102,Civil supply Schemes,,,,,
 #,State's Expenditure,,,,,
 AA,City Distribution Organisation,,,,,3456 00 102 AA 30000
@@ -442,7 +442,7 @@ JC,Total JC,,,1,1,
 01,Total 01,,,1,1,
 02,Storage and Ware Housing,,,,,
 101,Rural Godown Programmes Schemes shared between State and Centre Schemes shared between State and Centre,,,,,
-UA,Construction of Paddy purchase centre in the Delta Districts - (NADP-RKVY),,,,4408 02 101 UA 40000,
+UA,Construction of Paddy purchase centre in the Delta Districts - (NADP-RKVY),,,,,4408 02 101 UA 40000
 416,Major Works,"3,00,00",,"1,80,00",1,4408 02 101 UA 41600
 01,Major Works,"3,00,00",,"1,80,00",1,4408 02 101 UA 41601
 UA,Total UA,,"3,00,00",,"1,80,00",1

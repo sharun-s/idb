@@ -1726,8 +1726,7 @@ PB,Dam and Appurtenant Works,,,,,4701 01 800 PB 40000
 416,Major Works,,,,"5,70,06",4701 01 800 PB 41600
 01,Major Works,,,,"5,70,06",4701 01 800 PB 41601
 PB,Total PB,,,"5,70,06",,
-Externally Aided,,,,,,
-Projects Total,,,,"75,46,31",,
+#,Externally Aided Projects Total,,,,"75,46,31",
 800,Total 800 Charged,,,,"4,60,80",
 800,Total 800 Voted,,,,"137,88,97",
 01,Total 01 Charged,,,,"4,60,80",
@@ -1753,8 +1752,7 @@ PA,Reservoirs,,,,,4701 02 800 PA 40000
 416,Major Works,,,,"28,21",4701 02 800 PA 41600
 01,Major Works,,,,"28,21",4701 02 800 PA 41601
 PA,Total PA,,,"28,21",,
-Externally Aided,,,,,,
-Projects Total,,,,"28,21",,
+#,Externally Aided Projects Total,,,,"28,21",
 800,Total 800,,,"86,25,22",,
 02,Total 02,,,"86,25,22",,
 03,Vaippar Basin,,,,,

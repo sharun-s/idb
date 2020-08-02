@@ -336,7 +336,7 @@ JE,Supply of bags and other learning materials to students in Government and Gov
 368,"Cost of Books/Note Books/Slates, etc.",,"1,29","1,29","1,29",2202 01 796 JE 36800
 01,"Cost of Books/Note Books/Slates, etc.",,"1,29","1,29","1,29",2202 01 796 JE 36801
 JE,Total JE,"85,30","84,29","87,77","87,61",
-JF,Information andCommunication Technology (ICT) in Schools,,,,,2202 01 796 JF 30000,
+JF,Information andCommunication Technology (ICT) in Schools,,,,,2202 01 796 JF 30000
 376,Computer and Accessories,,1,1,1,2202 01 796 JF 37600
 01,Purchase,,1,1,1,2202 01 796 JF 37601
 JF,Total JF,1,1,1,,
@@ -396,8 +396,7 @@ KI,Distribution of Free Note Books to Students,,,,,2202 01 800 KI 30000
 368,"Cost of Books/Note Books/Slates, etc.","31,76,90","31,76,90","31,76,90","31,76,90",2202 01 800 KI 36800
 01,"Cost of Books/Note Books/Slates, etc.","31,76,90","31,76,90","31,76,90","31,76,90",2202 01 800 KI 36801
 KI,Total KI,"31,76,90","31,76,90","31,76,90","31,76,90",
-KJ,Information andCommunication Technology,,,,,
-(ICT) in Schools,,,,,2202 01 800 KJ 30000,
+KJ,Information andCommunication Technology (ICT) in Schools,,,,,2202 01 800 KJ 30000
 376,Computer and Accessories,,1,1,1,2202 01 800 KJ 37600
 01,Purchase,,1,1,1,2202 01 800 KJ 37601
 KJ,Total KJ,1,1,1,,

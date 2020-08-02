@@ -1,3 +1,5 @@
+TN budget - https://sharun-s.github.io/idb/tn/fin/basic_explorer.html
+
 Given N updating data sources - dashboard - pdfs - wikidata - zimfile etc., create unified indexes of entities and props from all sources. Philosophy here is to automate as many steps and pull in operator only to disambiguate. 
 
 **Goal**

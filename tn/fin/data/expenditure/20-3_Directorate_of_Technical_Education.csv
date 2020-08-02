@@ -198,8 +198,8 @@ AA,Government Polytechnic Colleges (Men),,,,,2203 00 105 AA 30000
 349,Festival Advances,"3,26",,,,2203 00 105 AA 34900
 01,Festival Advances-Debit,"35,15","66,50","1,31,60","1,43,40",2203 00 105 AA 34901
 02,Festival Advances-Credit,"-31,89","-66,50","-1,31,60","-1,43,40",2203 00 105 AA 34902
-351,Compensation Charged,,1,1,1,2203 00 105 AA 35100,
-351,Compensation Voted,,1,1,1,2203 00 105 AA 35100,
+351,Compensation Charged,,1,1,1,2203 00 105 AA 35100
+351,Compensation Voted,,1,1,1,2203 00 105 AA 35100
 02,Other Compensations  - Voted,,1,1,1,2203 00 105 AA 35102
 52,Other Compensations Charged,,,,,
 359,Prizes and Awards,20,"1,04",94,94,2203 00 105 AA 35900
@@ -728,8 +728,8 @@ CE,Total CE,,1,1,1,
 JA,Buildings,,,,,4202 02 104 JA 40000
 416,Major Works,"84,26,30","32,51,00","47,62,67","57,68,31",4202 02 104 JA 41600
 01,Major Works,"84,26,30","32,51,00","47,62,67","57,68,31",4202 02 104 JA 41601
-464,Lands Charged,,1,1,1,4202 02 104 JA 46400,
-464,Lands Voted,"1,36",1,1,1,4202 02 104 JA 46400,
+464,Lands Charged,,1,1,1,4202 02 104 JA 46400
+464,Lands Voted,"1,36",1,1,1,4202 02 104 JA 46400
 01,Lands - Voted,"1,36",1,1,1,4202 02 104 JA 46401
 51,Lands Charged,,1,1,1,4202 02 104 JA 46451
 JA,Total JA Charged,,1,1,1,
@@ -746,8 +746,8 @@ SB,Construction of  Womens Hostel in Government Polytechnics  under the Sub-Miss
 01,Major Works,,1,1,1,4202 02 104 SB 41601
 SB,Total SB,1,1,1,,
 #,Central Sector Schemes Total,"6,98",2,2,2,
-104,Total 104 Charged,,1,1,1,,
-104,Total 104 Voted,"84,34,64","32,51,03","47,62,70","57,68,34",,
+104,Total 104 Charged,,1,1,1,
+104,Total 104 Voted,"84,34,64","32,51,03","47,62,70","57,68,34",
 105,Engineering/Technical Colleges and Institutes,,,,,
 #,State's Expenditure,,,,,
 AA,Buildings,,,,,4202 02 105 AA 40000
@@ -777,8 +777,8 @@ UA,Construction of Boys / Girls hostels for (Engineering ) Colleges under AICTE 
 01,Major Works,,1,1,1,4202 02 105 UA 41601
 UA,Total UA,1,1,1,,
 #,Schemes shared between State and Centre Total,,1,1,1, 
-105,Total 105 Charged,,1,"6,20,93",1,,
-105,Total 105Voted,"16,85,44","58,72,93","56,11,24","30,00,05",,
+105,Total 105 Charged,,1,"6,20,93",1,
+105,Total 105 Voted,"16,85,44","58,72,93","56,11,24","30,00,05",
 793,Special Central Assistance for Scheduled Caste Component Plan,,,,,
 #,Central Sector Schemes Central Sector Sechemes,,,,,
 SA,Construction of  Womens Hostel in Government Polytechnics  under the Sub-mission on polytechnics under Co-ordinated action for skill development.,,,,,4202 02 793 SA 40000

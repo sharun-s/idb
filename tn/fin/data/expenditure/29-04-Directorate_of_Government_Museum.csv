@@ -42,7 +42,7 @@ AA,Government Museums,,,,,2205 00 107 AA 30000
 02,Exhibition,"14,34","15,21","15,21","15,21",2205 00 107 AA 30802
 317,Minor Works,,1,"70,01",1,2205 00 107 AA 31700
 01,Minor Works,,1,"70,01",1,2205 00 107 AA 31701
-318Maintenance,"22,90",,,,2205 00 107 AA 31800,
+318,Maintenance,"22,90",,,,2205 00 107 AA 31800
 01,Periodical Maintenance,"22,90",,,,2205 00 107 AA 31801
 319,Machinery and Equipments,"33,33","23,90","5,71,96","37,07",2205 00 107 AA 31900
 01,Purchase,"9,98",1,"5,20,01",1,2205 00 107 AA 31901
@@ -113,17 +113,17 @@ KC,"Making interactive touch screen presentation to engage the visitors in the P
 376,Computer and Accessories,"10,00",,,,2205 00 107 KC 37600
 01,Purchase,"10,00",,,,2205 00 107 KC 37601
 KC,Total KC,"10,00",,,,
-KD,Making a VR 3D Virtual Museum with selected 50 unique antiquities of Anthropology Section under State Innovation Fund,,,,2205 00 107 KD 30000,
+KD,Making a VR 3D Virtual Museum with selected 50 unique antiquities of Anthropology Section under State Innovation Fund,,,,,2205 00 107 KD 30000
 376,Computer and Accessories,"10,00",,,,2205 00 107 KD 37600
-01,Purchase,"10,00",,,,"2205 00 107 KD 37601"""
+01,Purchase,"10,00",,,,2205 00 107 KD 37601
 KD,Total KD,"10,00",,,,
 KE,"Installation of Working Models of Talking Tree at Government Museum, Chennai. - Scheme  under State Innovation Fund",,,,,2205 00 107 KE 30000
 376,Computer and Accessories,,,"10,00",,2205 00 107 KE 37600
-01,Purchase,,,"10,00",,"2205 00 107 KE 37601"""
+01,Purchase,,,"10,00",,2205 00 107 KE 37601
 KE,Total KE.,,,"10,00",,
-KF,"Installation of Live Augmented Reality show at Government Museum,Chennai - Scheme  under State Innovation Fund,,,,2205 00 107 KF 30000
-376,Computer and Accessories,,,60","00""",,2205 00 107 KF 37600,,
-01,Purchase,,,"60,00",,"2205 00 107 KF 37601"""
+KF,"Installation of Live Augmented Reality show at Government Museum,Chennai - Scheme  under State Innovation Fund",,,,,2205 00 107 KF 30000
+376,Computer and Accessories,,,"60,00",,2205 00 107 KF 37600
+01,Purchase,,,"60,00",,2205 00 107 KF 37601
 KF,Total KF,,,"60,00",,
 #,State's Expenditure Total Charged,,1,1,1,
 #,State's Expenditure Total Voted,"15,54,99","14,09,07","22,62,58","16,25,73",

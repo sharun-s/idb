@@ -51,8 +51,8 @@ AB,Tamil Nadu Uniformed Services Recruitment Board,,,,,2051 00 103 AB 30000
 349,Festival Advances,-6,,,,2051 00 103 AB 34900
 01,Festival Advances-Debit,90,"1,90","4,00","4,00",2051 00 103 AB 34901
 02,Festival Advances-Credit,-96,"-1,90","-4,00","-4,00",2051 00 103 AB 34902
-351,Compensation Charged,,1,1,1,2051 00 103 AB 35100,
-351,Compensation Voted,,4,4,4,2051 00 103 AB 35100,
+351,Compensation Charged,,1,1,1,2051 00 103 AB 35100
+351,Compensation Voted,,4,4,4,2051 00 103 AB 35100
 01,Claims under no fault liability -  principal charges  - Voted,,3,3,3,2051 00 103 AB 35101
 02,Other Compensations  - Voted,,1,1,1,2051 00 103 AB 35102
 51,Claims under no fault liability -  principal charges,,,,,

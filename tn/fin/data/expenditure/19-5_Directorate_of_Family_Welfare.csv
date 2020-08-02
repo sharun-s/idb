@@ -61,7 +61,7 @@ AD,District Family Welfare Bureau,,,,,2211 00 001 AD 30000
 01,Pleaders Fees,36,40,95,55,2211 00 001 AD 33301
 346,"Clothing, Tentage and Stores","1,65","2,15","2,00","22,25",2211 00 001 AD 34600
 01,"Clothing, Tentage and Stores","1,65","2,15","2,00","22,25",2211 00 001 AD 34601
-351,Compensation Charged,,1,1,1,2211 00 001 AD 35100,
+351,Compensation Charged,,1,1,1,2211 00 001 AD 35100
 52,Other Compensations Charged,,,,,
 359,Prizes and Awards,19,50,56,50,2211 00 001 AD 35900
 01,Prizes and Awards,19,50,56,50,2211 00 001 AD 35901
@@ -70,16 +70,16 @@ AD,District Family Welfare Bureau,,,,,2211 00 001 AD 30000
 376,Computer and Accessories,"3,70","2,80","3,55","3,40",2211 00 001 AD 37600
 02,Maintenance,"2,08","1,60","2,00","1,80",2211 00 001 AD 37602
 03,Stationery,"1,62","1,20","1,55","1,60",2211 00 001 AD 37603
-AD,Total AD Charged,,1,1,1,,
-AD,Total AD Voted,"61,87","67,89","71,47","90,71",,
+AD,Total AD Charged,,1,1,1,
+AD,Total AD Voted,"61,87","67,89","71,47","90,71",
 JC,Maintenance of Functional Vehicles,,,,,2211 00 001 JC 30000
 321,Motor Vehicles,"2,47","2,50","2,50","2,80",2211 00 001 JC 32100
 02,Maintenance of Functional Vehicles,"2,47","2,50","2,50","2,80",2211 00 001 JC 32102
 345,"Petroleum, Oil and Lubricant","52,50","56,00","56,00","56,00",2211 00 001 JC 34500
 01,"Petroleum, Oil and Lubricant","52,50","56,00","56,00","56,00",2211 00 001 JC 34501
 JC,Total JC,"54,97","58,50","58,50","58,80",
-#,State's Expenditure Charged,,1,1,1,,
-#,State's Expenditure  Voted,"1,93,48","1,48,79","1,51,39","1,71,79",,
+#,State's Expenditure Charged,,1,1,1,
+#,State's Expenditure  Voted,"1,93,48","1,48,79","1,51,39","1,71,79",
 #,Central Sector Schemes,,,,,
 SA,State Family Welfare Bureau,,,,,2211 00 001 SA 30000
 301,Salaries,"4,09,90","4,30,69","4,00,54","4,14,54",2211 00 001 SA 30100
@@ -96,7 +96,7 @@ SA,State Family Welfare Bureau,,,,,2211 00 001 SA 30000
 01,Dearness Allowance,"38,64","48,39","56,00","89,18",2211 00 001 SA 30301
 349,Festival Advances,26,,,,2211 00 001 SA 34900
 01,Festival Advances-Debit,"2,40","3,50","7,00","7,00",2211 00 001 SA 34901
-02,Festival Advances-Credit,"- 2,14","- 3,50","- 7,00","- 7,00",2211 00 001 SA 34902
+02,Festival Advances-Credit,"-2,14","-3,50","-7,00","-7,00",2211 00 001 SA 34902
 SA,Total SA,"4,48,92","4,80,08","4,56,54","5,03,72",
 SB,District Family Welfare Bureau,,,,,2211 00 001 SB 30000
 301,Salaries,"19,86,32","19,40,93","20,42,79","22,12,44",2211 00 001 SB 30100
@@ -109,13 +109,13 @@ SB,District Family Welfare Bureau,,,,,2211 00 001 SB 30000
 08,City Compensatory Allowance,"6,29","6,40","6,44","6,49",2211 00 001 SB 30108
 303,Dearness Allowance,"1,71,96","2,34,20","3,05,70","5,08,53",2211 00 001 SB 30300
 01,Dearness Allowance,"1,71,96","2,34,20","3,05,70","5,08,53",2211 00 001 SB 30301
-349,Festival Advances,- 45,,,,2211 00 001 SB 34900
+349,Festival Advances,-45,,,,2211 00 001 SB 34900
 01,Festival Advances-Debit,"10,05","15,00","28,00","28,00",2211 00 001 SB 34901
-02,Festival Advances-Credit,"- 10,50","- 15,00","- 28,00","- 28,00",2211 00 001 SB 34902
+02,Festival Advances-Credit,"-10,50","-15,00","-28,00","-28,00",2211 00 001 SB 34902
 SB,Total SB,"21,57,83","21,75,13","23,48,49","27,20,97",
 #,Central Sector Schemes Total,"26,06,75","26,55,21","28,05,03","32,24,69",
-001,Total 001 Charged,,1,1,1,,
-001,Total 001 Voted,"28,00,23","28,04,00","29,56,42","33,96,48",,
+001,Total 001 Charged,,1,1,1,
+001,Total 001 Voted,"28,00,23","28,04,00","29,56,42","33,96,48",
 101,Rural Family Welfare Services,,,,,
 #,State's Expenditure,,,,,
 AA,"Post Partum Centres - Other than the District Hospitals, Medical College Hospitals and Chennai City Hospitals",,,,,2211 00 101 AA 30000
@@ -140,9 +140,9 @@ AA,"Post Partum Centres - Other than the District Hospitals, Medical College Hos
 01,"Petroleum, Oil and Lubricant","5,63","8,00","8,00","8,00",2211 00 101 AA 34501
 346,"Clothing, Tentage and Stores","7,25","8,00","8,36",40,2211 00 101 AA 34600
 01,"Clothing, Tentage and Stores","7,25","8,00","8,36",40,2211 00 101 AA 34601
-349,Festival Advances,"- 1,10",,,,2211 00 101 AA 34900
+349,Festival Advances,"-1,10",,,,2211 00 101 AA 34900
 01,Festival Advances-Debit,"10,20","15,00","30,00","30,00",2211 00 101 AA 34901
-02,Festival Advances-Credit,"- 11,30","- 15,00","- 30,00","- 30,00",2211 00 101 AA 34902
+02,Festival Advances-Credit,"-11,30","-15,00","-30,00","-30,00",2211 00 101 AA 34902
 359,Prizes and Awards,4,6,6,6,2211 00 101 AA 35900
 01,Prizes and Awards,4,6,6,6,2211 00 101 AA 35901
 AA,Total AA,"37,16,27","35,57,20","36,06,01","39,93,17",
@@ -176,9 +176,9 @@ SA,Urban Family Welfare Centres run by the State Government,,,,,2211 00 102 SA 3
 08,City Compensatory Allowance,"1,30","1,30","1,20","1,20",2211 00 102 SA 30108
 303,Dearness Allowance,"43,76","44,55","51,20","81,54",2211 00 102 SA 30300
 01,Dearness Allowance,"43,76","44,55","51,20","81,54",2211 00 102 SA 30301
-349,Festival Advances,- 12,,,,2211 00 102 SA 34900
+349,Festival Advances,-12,,,,2211 00 102 SA 34900
 01,Festival Advances-Debit,"1,80","2,75","5,00","5,00",2211 00 102 SA 34901
-02,Festival Advances-Credit,"- 1,92","- 2,75","- 5,00","- 5,00",2211 00 102 SA 34902
+02,Festival Advances-Credit,"-1,92","-2,75","-5,00","-5,00",2211 00 102 SA 34902
 SA,Total SA,"4,24,40","4,17,14","3,98,75","4,41,89",
 SB,Urban Family Welfare Centers run by Local Bodies and Voluntary Organisations,,,,,2211 00 102 SB 30000
 309,Grants-in-Aid,"38,00,00","38,00,00","40,35,00","40,35,00",2211 00 102 SB 30900
@@ -254,9 +254,9 @@ AA,Post Partum,,,,,2211 00 200 AA 30000
 01,"Petroleum, Oil and Lubricant","2,26","4,00","4,00","4,00",2211 00 200 AA 34501
 346,"Clothing, Tentage and Stores","11,71","13,00","13,00",20,2211 00 200 AA 34600
 01,"Clothing, Tentage and Stores","11,71","13,00","13,00",20,2211 00 200 AA 34601
-349,Festival Advances,- 32,,,,2211 00 200 AA 34900
+349,Festival Advances,-32,,,,2211 00 200 AA 34900
 01,Festival Advances-Debit,"1,50","4,50","9,00","9,00",2211 00 200 AA 34901
-02,Festival Advances-Credit,"- 1,82","- 4,50","- 9,00","- 9,00",2211 00 200 AA 34902
+02,Festival Advances-Credit,"-1,82","-4,50","-9,00","-9,00",2211 00 200 AA 34902
 359,Prizes and Awards,,6,2,4,2211 00 200 AA 35900
 01,Prizes and Awards,,6,2,4,2211 00 200 AA 35901
 AA,Total AA,"12,12,65","12,88,84","12,01,48","13,17,02",
@@ -274,7 +274,7 @@ SD,Medical Termination of Pregnancy Wing of the State Family Welfare Bureau,,,,,
 01,Dearness Allowance,"5,73","4,91","5,92","8,82",2211 00 200 SD 30301
 349,Festival Advances,2,,,,2211 00 200 SD 34900
 01,Festival Advances-Debit,10,15,10,30,2211 00 200 SD 34901
-02,Festival Advances-Credit,- 8,- 15,- 10,- 30,2211 00 200 SD 34902
+02,Festival Advances-Credit,-8,-15,-10,-30,2211 00 200 SD 34902
 SD,Total SD,"53,13","47,85","48,04","49,77",
 SE,Conventional Contraceptives,,,,,2211 00 200 SE 30000
 324,Materials and Supplies,"38,06","2,00,00","1,00,00","2,00,00",2211 00 200 SE 32400
@@ -285,25 +285,25 @@ SE,Total SE,"38,06","2,00,00","1,00,00","2,00,00",
 911,Deduct - Recoveries of Overpayments,,,,,
 #,State's Expenditure,,,,,
 AC,Post Partum,,,,,2211 00 911 AC 30000
-377,Deduct-Recoveries,- 19,,,,2211 00 911 AC 37700
-02,Recoveries of Overpayments / Remittance of excess drawals,- 19,,,,2211 00 911 AC 37702
-AC,Total AC,- 19,,,,
-#,State's Expenditure Total,- 19,,,,
+377,Deduct-Recoveries,-19,,,,2211 00 911 AC 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,-19,,,,2211 00 911 AC 37702
+AC,Total AC,-19,,,,
+#,State's Expenditure Total,-19,,,,
 #,Central Sector Schemes,,,,,
 SA,Urban Family Welfare Centres run by the State Government,,,,,2211 00 911 SA 30000
-377,Deduct-Recoveries,"- 38,31",,,,2211 00 911 SA 37700
-02,Recoveries of Overpayments / Remittance of excess drawals,"- 38,31",,,,2211 00 911 SA 37702
-SA,Total SA,"- 38,31",,,,
+377,Deduct-Recoveries,"-38,31",,,,2211 00 911 SA 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-38,31",,,,2211 00 911 SA 37702
+SA,Total SA,"-38,31",,,,
 SB,District Family Welfare Bureau,,,,,2211 00 911 SB 30000
-377,Deduct-Recoveries,,- 18,,,2211 00 911 SB 37700
-02,Recoveries of Overpayments / Remittance of excess drawals,,- 18,,,2211 00 911 SB 37702
-SB,Total SB,,- 18,,,
+377,Deduct-Recoveries,,-18,,,2211 00 911 SB 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,,-18,,,2211 00 911 SB 37702
+SB,Total SB,,-18,,,
 SD,Compensation for tubectomy,,,,,2211 00 911 SD 30000
-377,Deduct-Recoveries,,"- 1,00",,,2211 00 911 SD 37700
-02,Recoveries of Overpayments / Remittance of excess drawals,,"- 1,00",,,2211 00 911 SD 37702
-SD,Total SD,,,"- 1,00",,
-#,Central Sector Schemes Total,,,"- 39,49",,
-911,Total 911,,,"- 39,68",,
+377,Deduct-Recoveries,,"-1,00",,,2211 00 911 SD 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,,"-1,00",,,2211 00 911 SD 37702
+SD,Total SD,,,"-1,00",,
+#,Central Sector Schemes Total,,,"-39,49",,
+911,Total 911,,,"-39,68",,
 00,Total 00 Charged,,1,1,1,
 00,Total 00 Voted,"1,73,72,90","1,79,44,94","1,80,45,14","2,00,55,03",
 2211,Total 2211 Charged,,1,1,1,
@@ -377,7 +377,7 @@ AH,Food Safety Wing-Headquarters Administration,,,,,2210 06 001 AH 30000
 01,"Petroleum, Oil and Lubricant","2,92","4,00","3,00","3,00",2210 06 001 AH 34501
 349,Festival Advances,10,,,,2210 06 001 AH 34900
 01,Festival Advances-Debit,75,"1,10","2,10","2,38",2210 06 001 AH 34901
-02,Festival Advances-Credit,- 65,"- 1,10","- 2,10","- 2,38",2210 06 001 AH 34902
+02,Festival Advances-Credit,-65,"-1,10","-2,10","-2,38",2210 06 001 AH 34902
 359,Prizes and Awards,,4,4,4,2210 06 001 AH 35900
 01,Prizes and Awards,,4,4,4,2210 06 001 AH 35901
 368,"Cost of Books/Note Books/Slates, etc.",30,30,30,30,2210 06 001 AH 36800
@@ -427,9 +427,9 @@ AI,Food Safety Wing- District Administration,,,,,2210 06 001 AI 30000
 04,Contract Payment,"24,10","45,57","45,60","50,07",2210 06 001 AI 33304
 345,"Petroleum, Oil and Lubricant","23,64","24,28","24,28","24,28",2210 06 001 AI 34500
 01,"Petroleum, Oil and Lubricant","23,64","24,28","24,28","24,28",2210 06 001 AI 34501
-349,Festival Advances,"- 1,60",,,,2210 06 001 AI 34900
+349,Festival Advances,"-1,60",,,,2210 06 001 AI 34900
 01,Festival Advances-Debit,"13,20","24,50","31,57","35,82",2210 06 001 AI 34901
-02,Festival Advances-Credit,"- 14,80","- 24,50","- 31,57","- 35,82",2210 06 001 AI 34902
+02,Festival Advances-Credit,"-14,80","-24,50","-31,57","-35,82",2210 06 001 AI 34902
 359,Prizes and Awards,2,50,16,16,2210 06 001 AI 35900
 01,Prizes and Awards,2,50,16,16,2210 06 001 AI 35901
 368,"Cost of Books/Note Books/Slates, etc.",94,"1,00","1,00","1,00",2210 06 001 AI 36800
@@ -466,9 +466,9 @@ AJ,Food Safety Wing- Tribunal Administration,,,,,2210 06 001 AJ 30000
 04,Contract Payment,,"1,50","1,90","2,90",2210 06 001 AJ 33304
 345,"Petroleum, Oil and Lubricant",,,"1,00","1,00",2210 06 001 AJ 34500
 01,"Petroleum, Oil and Lubricant",,,"1,00","1,00",2210 06 001 AJ 34501
-349,Festival Advances,- 2,,,,2210 06 001 AJ 34900
+349,Festival Advances,-2,,,,2210 06 001 AJ 34900
 01,Festival Advances-Debit,,20,20,20,2210 06 001 AJ 34901
-02,Festival Advances-Credit,- 2,- 20,- 20,- 20,2210 06 001 AJ 34902
+02,Festival Advances-Credit,-2,-20,-20,-20,2210 06 001 AJ 34902
 376,Computer and Accessories,,2,2,20,2210 06 001 AJ 37600
 02,Maintenance,,1,1,10,2210 06 001 AJ 37602
 03,Stationery,,1,1,10,2210 06 001 AJ 37603
@@ -508,7 +508,7 @@ AK,Food Analysis Laboratory,,,,,2210 06 102 AK 30000
 04,Contract Payment,"1,51","7,50","25,19","21,60",2210 06 102 AK 33304
 349,Festival Advances,7,,,,2210 06 102 AK 34900
 01,Festival Advances-Debit,"2,95","3,23","5,95","10,38",2210 06 102 AK 34901
-02,Festival Advances-Credit,"- 2,88","- 3,23","- 5,95","- 10,38",2210 06 102 AK 34902
+02,Festival Advances-Credit,"-2,88","-3,23","-5,95","-10,38",2210 06 102 AK 34902
 359,Prizes and Awards,2,12,10,10,2210 06 102 AK 35900
 01,Prizes and Awards,2,12,10,10,2210 06 102 AK 35901
 368,"Cost of Books/Note Books/Slates, etc.",50,50,50,50,2210 06 102 AK 36800
@@ -561,11 +561,11 @@ AA,"Administration of the Drugs Act, 1940",,,,,2210 06 104 AA 30000
 01,"Petroleum, Oil and Lubricant","1,20","1,60","1,52","1,52",2210 06 104 AA 34501
 349,Festival Advances,16,,,,2210 06 104 AA 34900
 01,Festival Advances-Debit,"7,55","17,00","30,00","30,00",2210 06 104 AA 34901
-02,Festival Advances-Credit,"- 7,39","- 17,00","- 30,00","- 30,00",2210 06 104 AA 34902
+02,Festival Advances-Credit,"-7,39","-17,00","-30,00","-30,00",2210 06 104 AA 34902
 351,Compensation Charged,,1,1,1,2210 06 104 AA 35100
 351,Compensation Voted,,1,1,1,2210 06 104 AA 35100
 02,Other Compensations  - Voted,,1,1,1,2210 06 104 AA 35102
-51,Claims under no fault liability -  principal charges Charged,,1,1,1,2210 06 104 AA 35151,
+51,Claims under no fault liability -  principal charges Charged,,1,1,1,2210 06 104 AA 35151
 359,Prizes and Awards,2,8,8,8,2210 06 104 AA 35900
 01,Prizes and Awards,2,8,8,8,2210 06 104 AA 35901
 366,Medicine,"17,70","20,00","19,50","19,50",2210 06 104 AA 36600
@@ -604,9 +604,9 @@ AC,Drug Testing Laboratory,,,,,2210 06 104 AC 30000
 01,Materials and Supplies,"8,34","8,50","8,50","8,50",2210 06 104 AC 32401
 345,"Petroleum, Oil and Lubricant",14,40,40,40,2210 06 104 AC 34500
 01,"Petroleum, Oil and Lubricant",14,40,40,40,2210 06 104 AC 34501
-349,Festival Advances,- 19,,,,2210 06 104 AC 34900
+349,Festival Advances,-19,,,,2210 06 104 AC 34900
 01,Festival Advances-Debit,"1,65","3,20","5,00","5,50",2210 06 104 AC 34901
-02,Festival Advances-Credit,"- 1,84","- 3,20","- 5,00","- 5,50",2210 06 104 AC 34902
+02,Festival Advances-Credit,"-1,84","-3,20","-5,00","-5,50",2210 06 104 AC 34902
 368,"Cost of Books/Note Books/Slates, etc.","2,18","2,24","2,24","2,24",2210 06 104 AC 36800
 01,"Cost of Books/Note Books/Slates, etc.","2,18","2,24","2,24","2,24",2210 06 104 AC 36801
 376,Computer and Accessories,49,52,52,52,2210 06 104 AC 37600
@@ -636,9 +636,9 @@ AD,Intelligence wing of the Drug Control Administration,,,,,2210 06 104 AD 30000
 02,Maintenance of Functional Vehicles,,5,5,5,2210 06 104 AD 32102
 345,"Petroleum, Oil and Lubricant",,2,10,10,2210 06 104 AD 34500
 01,"Petroleum, Oil and Lubricant",,2,10,10,2210 06 104 AD 34501
-349,Festival Advances,- 6,,,,2210 06 104 AD 34900
+349,Festival Advances,-6,,,,2210 06 104 AD 34900
 01,Festival Advances-Debit,20,45,90,94,2210 06 104 AD 34901
-02,Festival Advances-Credit,- 26,- 45,- 90,- 94,2210 06 104 AD 34902
+02,Festival Advances-Credit,-26,-45,-90,-94,2210 06 104 AD 34902
 366,Medicine,22,"1,00","1,00","1,00",2210 06 104 AD 36600
 01,Medicine,22,"1,00","1,00","1,00",2210 06 104 AD 36601
 376,Computer and Accessories,22,22,22,22,2210 06 104 AD 37600
@@ -658,7 +658,7 @@ UA,Strengthening of State Drug Regulatory Systems,,,,,2210 06 104 UA 30000
 UA,Total UA,,"7,40,00",3,,
 #,Schemes shared between State and Centre Total,,"7,40,00",3,,
 104,Total 104 Charged,,1,1,1,
-104,Total 104 Voted,"21,25,86","26,00,30","34,33,63","29,58,36",,
+104,Total 104 Voted,"21,25,86","26,00,30","34,33,63","29,58,36",
 800,Other Expenditure,,,,,
 #,Externally Aided Projects,,,,,
 PB,"Tamil Nadu Health System Reform Project - Administrated by,Commissioner of Food Safety and Drug,Administration",,,,,2210 06 800 PB 30000

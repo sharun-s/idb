@@ -118,7 +118,7 @@ AI,Directorate of Town Panchayats,,,,,2515 00 001 AI 30000
 349,Festival Advances,-10,,,,2515 00 001 AI 34900
 01,Festival Advances-Debit,50,"2,00","4,00","4,00",2515 00 001 AI 34901
 02,Festival Advances-Credit,-60,"-2,00","-4,00","-4,00",2515 00 001 AI 34902
-351,Compensation Charged,,1,1,1,2515 00 001 AI 35100,
+351,Compensation Charged,,1,1,1,2515 00 001 AI 35100
 52,Other Compensations Charged,,,,,
 359,Prizes and Awards,,1,9,1,2515 00 001 AI 35900
 01,Prizes and Awards,,1,9,1,2515 00 001 AI 35901
