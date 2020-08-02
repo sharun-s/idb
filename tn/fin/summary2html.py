@@ -44,16 +44,18 @@ def parseResults(o):
 	#r=csv.reader(o.stdout.splitlines())
 	d=[]
 	v=[]
+	totamt=0
 	for i in csv.reader(o.stdout.splitlines()):
 		demand=i[0].split('.')[0].split('/')[-1]
 		if len(demand)==2 or len(demand)==1: # hack: skips files not matching format xx.csv or x.csv
 			d.append(dept_map[dept_map[0] == int(demand)].iloc[0][2])
 			for amt in i[2:3]:
 				if amt !='':
-					v.append(format_indian(1000*atof(amt)))  
+					v.append(format_indian(1000*atof(amt)))
+					totamt=totamt+atof(amt)  
 				else: 
 					v.append('-')
-	return (d,v)
+	return (d,v,totamt)
 
 def parseHistory(o):
 	v=[]
@@ -97,9 +99,9 @@ def ppIncome():
 	df=df.sort_values(by=1,ascending=True)
 	tot=format_indian(1000*df[1].sum())
 	df[1]=df[1].apply(lambda z:format_indian(1000*z))
-	if len(df)>1:
-		print(df.to_html(header=False,index=False,border=0))
-	print(f'<br>Total Income <b>{tot}</b>')
+	#if len(df)>1:
+	#	print(df.to_html(header=False,index=False,border=0))
+	print(f'<b>{tot}</b>')
 
 def ppIncomeByDepts(detailsfile):
 	#Find all sub depts generating income
@@ -144,14 +146,14 @@ try:
 		line=f.readline()
 		title=line.split(',')[1].strip().replace('"','').title()
 		print('<h3>'+title.upper()+'  Year:2018-2019 </h3>')
-		print('<b>Income</b>')
+		print('--Income (revenue)<br>')
 
 		ppIncome()
 	
 		o=subprocess.run( ['ls -1 data/revenue/breakup/'+rev_head+'*'],shell=True, stdout=subprocess.PIPE, universal_newlines=True)
-		print('<br><a target="_top" href="../'+ o.stdout+'">Details</a>')
+		print('[<a target="_top" href="../'+ o.stdout+'">Details</a>]')
 
-		ppIncomeByDepts(o.stdout)
+		#ppIncomeByDepts(o.stdout)
 
 except FileNotFoundError as e:
 	# todo: derive and check if rev code exists from whatever code that has been passed. 
@@ -159,23 +161,26 @@ except FileNotFoundError as e:
 	print('Income data not found or No income reported') 
 	pass
 
-print('')
-print('<br>Expenditure day to day (revex)<br>')
+print('<br>--Expenditure day to day (revex)<br>')
 o=subprocess.run(r"grep -Ir '^"+revex_head+"' data/expenditure --exclude-dir=tmp",shell=True, stdout=subprocess.PIPE, universal_newlines=True)
 #print('2018','2019 Estimate','2019 revised','2020',sep='\t')
-d,v=parseResults(o)
-pp(d,v)
+d,v,ta=parseResults(o)
+#pp(d,v)
+print(f'<b>{format_indian(ta*1000)}</b>')
 
 print('<br>--Investments (capex)<br>')
 o=subprocess.run(r"grep -Ir '^"+capex_head+"' data/expenditure --exclude-dir tmp ",shell=True, stdout=subprocess.PIPE, universal_newlines=True)
 #print("\t".join(['2018','2019 Estimate','2019 revised','2020']))
-d,v=parseResults(o)
-pp(d,v)
+d,v,ta=parseResults(o)
+#pp(d,v)
+print(f'<b>{format_indian(ta*1000)}</b>')
+
 
 print('<br>--Loans<br>')
 o=subprocess.run(r"grep -Ir '^"+loan_head+"' data/expenditure --exclude-dir=tmp",shell=True, stdout=subprocess.PIPE, universal_newlines=True)
-d,v=parseResults(o)
-pp(d,v)
+d,v,ta=parseResults(o)
+#pp(d,v)
+print(f'<b>{format_indian(ta*1000)}</b><br>')
 
 print('<br><b>--Historic Trend 2002-2018 (in laks)</b>')
 o=subprocess.run(r'grep -Ph "'+rev_head+'" data/*.csv',shell=True, stdout=subprocess.PIPE, universal_newlines=True)
@@ -191,5 +196,6 @@ print(parseHistory(o))
 print('<br><b>Compared to Other States (Kerala)</b><br>')
 o=subprocess.run(r'grep -Pi "'+title+'" ../../ke/data/*.csv' ,shell=True, stdout=subprocess.PIPE, universal_newlines=True)
 print(parseHistory(o))
+print('<br><a href="../startpage.html" target=details>Explore</a>')
 
 print('</body>')
