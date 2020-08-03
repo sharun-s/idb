@@ -63,9 +63,10 @@ def parseResults(o):
 		else:
 			head=i[0].split(':')[1]
 			subdeptname=i[0].split(':')[0].split('/')[-1].replace('.csv','')
+			dept=subdeptname.split('-')[0]
 			#print(i, head, i[1])
 			if len(head)==2 and head.isupper():
-				d.append([i[1],subdeptname])
+				d.append([i[1],subdeptname.split('-')[1],dept])
 				v.append('-')
 
 	return (d,v,totamt)
@@ -87,33 +88,33 @@ def parseHistory(o):
 def highlight(x):
     return ['font-weight: bold' for v in x]
 
-def pp(d,v,ftitle,titleStr):		
+def pp(d,v,ftitle,titleStr,detailsdir):		
 	dk=p.DataFrame(d)#v,index=[i.title() for i in d])
 	if(len(dk)==0):
 		return False
 	#dk.style.set_table_styles([dict(selector="td",props=[('max-width', '50px')])])
 
-	with open(f'loan_explorer/{ftitle}.html','w') as f:
+	with open(f'{detailsdir}/{ftitle}.html','w') as f:
 		f.write('<body style="font-family:verdana,sans-serif;">')
 		f.write(f'<br>--{titleStr}<br>')
-		f.write(dk.to_html(header=False,index=False,border=0,bold_rows=False))
+		f.write(dk.to_html(header=False,index=False,border=0,bold_rows=False,na_rep=''))
 		f.write('</body>')
 		f.write('\n')
 	return True
 
-def updateIndex(head,ta):
-	with open('loan_index.html','a') as f:
+def updateIndex(head,ta,indexfile,detailsdir):
+	with open(indexfile,'a') as f:
 		r=func_map[func_map[0]==int(head)].iloc[0]
-		f.write(f'<div><a href="loan_explorer/{r[0]}.html" title="{ta}" target=details>{r[1].title()}</a></div>')
+		f.write(f'<div><a href="{detailsdir}/{r[0]}.html" title="{ta}" target=details>{r[1].title()}</a></div>')
 
-def SubDeptsBreakup(titleStr, head):
+def SubDeptsBreakup(titleStr, head, indexfile, detailsdir):
 	#note this catches head at start of line only
 	#o=subprocess.run(r"grep -Ir '^"+head+"' data/expenditure --exclude-dir=tmp",shell=True, stdout=subprocess.PIPE, universal_newlines=True)	
 	#this catches head anywhere - esp all occurrences within dpcode
 	o=subprocess.run(r"grep -Ir '"+head+"' data/expenditure --exclude-dir=tmp",shell=True, stdout=subprocess.PIPE, universal_newlines=True)	
 	d,v,ta=parseResults(o)
-	if pp(d,v,head,titleStr):
-		updateIndex(head,ta)
+	if pp(d,v,head,titleStr,detailsdir):
+		updateIndex(head,ta,indexfile,detailsdir)
 	
 	#print(f'<b>{format_indian(ta*1000)}</b>')
 
@@ -137,13 +138,13 @@ if int(sys.argv[1][0])%2==1:
 
 #if len(sys.argv) > 2:
 #	if sys.argv[2] == 'Expenditure':
-#SubDeptsBreakup("Expenditure day to day (revex)", revex_head)
+SubDeptsBreakup("Expenditure day to day (revex)", revex_head,'revex_index.html','expense_explorer')
 
 #	if sys.argv[2] == 'Investment':
-#SubDeptsBreakup('Investments (capex)',capex_head)
+SubDeptsBreakup('Investments (capex)',capex_head,'capex_index.html','investment_explorer')
 
 #	if sys.argv[2] == 'Loans':
-SubDeptsBreakup('Loans',loan_head)
+SubDeptsBreakup('Loans',loan_head,'loan_index.html','loan_explorer')
 #else:
 #o=subprocess.run( ['ls -1 data/revenue/breakup/'+rev_head+'*'],shell=True, stdout=subprocess.PIPE, universal_newlines=True)
 #ppIncomeByDepts(o.stdout)
