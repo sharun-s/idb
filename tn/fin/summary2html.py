@@ -151,7 +151,7 @@ try:
 		ppIncome()
 	
 		o=subprocess.run( ['ls -1 data/revenue/breakup/'+rev_head+'*'],shell=True, stdout=subprocess.PIPE, universal_newlines=True)
-		print('[<a target="_top" href="../'+ o.stdout+'">Details</a>]')
+		print('[<a target="_top" href="../'+ o.stdout+'">Details</a>][<a target="details" href=../func_explorer/'+rev_head+'-depts.html>Dept-wise</a>]')
 
 		#ppIncomeByDepts(o.stdout)
 
@@ -166,21 +166,22 @@ o=subprocess.run(r"grep -Ir '^"+revex_head+"' data/expenditure --exclude-dir=tmp
 #print('2018','2019 Estimate','2019 revised','2020',sep='\t')
 d,v,ta=parseResults(o)
 #pp(d,v)
-print(f'<b>{format_indian(ta*1000)}</b>')
+print(f'<b>{format_indian(ta*1000)}</b> [<a target="details" href=../func_explorer/'+revex_head+'-depts.html>Dept-wise</a>]')
+
 
 print('<br>--Investments (capex)<br>')
 o=subprocess.run(r"grep -Ir '^"+capex_head+"' data/expenditure --exclude-dir tmp ",shell=True, stdout=subprocess.PIPE, universal_newlines=True)
 #print("\t".join(['2018','2019 Estimate','2019 revised','2020']))
 d,v,ta=parseResults(o)
 #pp(d,v)
-print(f'<b>{format_indian(ta*1000)}</b>')
+print(f'<b>{format_indian(ta*1000)}</b>  [<a target="details" href=../func_explorer/'+capex_head+'-depts.html>Dept-wise</a>]')
 
 
 print('<br>--Loans<br>')
 o=subprocess.run(r"grep -Ir '^"+loan_head+"' data/expenditure --exclude-dir=tmp",shell=True, stdout=subprocess.PIPE, universal_newlines=True)
 d,v,ta=parseResults(o)
 #pp(d,v)
-print(f'<b>{format_indian(ta*1000)}</b><br>')
+print(f'<b>{format_indian(ta*1000)}</b> [<a target="details" href=../func_explorer/'+loan_head+'-depts.html>Dept-wise</a>]<br>')
 
 print('<br><b>--Historic Trend 2002-2018 (in laks)</b>')
 o=subprocess.run(r'grep -Ph "'+rev_head+'" data/*.csv',shell=True, stdout=subprocess.PIPE, universal_newlines=True)
