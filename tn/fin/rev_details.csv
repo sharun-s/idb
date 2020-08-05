@@ -6,9 +6,9 @@ AA,Central Goods and Services Tax (CGST) [1610],,,,
 09,Goods and Services Tax,"7,561,77,28","10,283,57,00","8,664,95,00","9,942,63,00",0005 00 901 AA 10109
 AA,Total AA,"7,561,77,28","10,283,57,00","8,664,95,00","9,942,63,00"
 AB,Deduct - Excess Receipts during previous year [1610],,,,
-101,Share in Central Taxes,,,"- 763,27,00",,0005 00 901 AB 10100
-09,Goods and Services Tax,,,"- 763,27,00",,0005 00 901 AB 10109
-AB,Total AB,,,"- 763,27,00",
+101,Share in Central Taxes,,,"-763,27,00",,0005 00 901 AB 10100
+09,Goods and Services Tax,,,"-763,27,00",,0005 00 901 AB 10109
+AB,Total AB,,,"-763,27,00",
 901,Total 901,"7,561,77,28","10,283,57,00","7,901,68,00","9,942,63,00"
 0005,Total 0005,"7,561,77,28","10,283,57,00","7,901,68,00","9,942,63,00"
 0006-00,STATE GOODS AND SERVICES TAX (SGST),,,,
@@ -22,28 +22,28 @@ AB,Collections [1002],,,,
 02,State Goods and Service Tax,"24,283,21,81","26,980,43,35","28,490,59,51","31,557,46,81",0006 00 101 AB 21402
 AB,Total AB,"24,283,21,81","26,980,43,35","28,490,59,51","31,557,46,81"
 AC,Deduct Refunds [1002],,,,
-201,Excess due to Mistake/Inadvertence,"- 147,30,42","- 166,32,33","- 59,21,69","- 67,50,73",0006 00 101 AC 20100
-01,Excess due to Mistake/Inadvertence,"- 147,30,42","- 166,32,33","- 59,21,69","- 67,50,73",0006 00 101 AC 20101
-202,Exports,"- 2,817,01,91","- 2,495,92,04","- 4,467,26,40","- 4,305,33,00",0006 00 101 AC 20200
-01,Exports,"- 2,817,01,91","- 2,495,92,04","- 4,467,26,40","- 4,305,33,00",0006 00 101 AC 20201
-203,Deemed Exports,"- 86,95","- 9,86,97","- 5,30,84","- 6,05,16",0006 00 101 AC 20300
-01,Deemed Exports,"- 86,95","- 9,86,97","- 5,30,84","- 6,05,16",0006 00 101 AC 20301
-204,Provisional Assesments,- 4,"- 39,41","- 7,18","- 8,19",0006 00 101 AC 20400
-01,Provisional Assesments,- 4,"- 39,41","- 7,18","- 8,19",0006 00 101 AC 20401
+201,Excess due to Mistake/Inadvertence,"-147,30,42","-166,32,33","-59,21,69","-67,50,73",0006 00 101 AC 20100
+01,Excess due to Mistake/Inadvertence,"-147,30,42","-166,32,33","-59,21,69","-67,50,73",0006 00 101 AC 20101
+202,Exports,"-2,817,01,91","-2,495,92,04","-4,467,26,40","-4,305,33,00",0006 00 101 AC 20200
+01,Exports,"-2,817,01,91","-2,495,92,04","-4,467,26,40","-4,305,33,00",0006 00 101 AC 20201
+203,Deemed Exports,"-86,95","-9,86,97","-5,30,84","-6,05,16",0006 00 101 AC 20300
+01,Deemed Exports,"-86,95","-9,86,97","-5,30,84","-6,05,16",0006 00 101 AC 20301
+204,Provisional Assesments,-4,"-39,41","-7,18","-8,19",0006 00 101 AC 20400
+01,Provisional Assesments,-4,"-39,41","-7,18","-8,19",0006 00 101 AC 20401
 205,Pre-Deposits for filling appeals,,1,1,1,0006 00 101 AC 20500
 01,Pre-Deposits for filling appeals,,1,1,1,0006 00 101 AC 20501
-206,Duty paid during Investigation,"- 71,27",- 15,"- 5,00,66","- 5,70,75",0006 00 101 AC 20600
-01,Duty paid during Investigation,"- 71,27",- 15,"- 5,00,66","- 5,70,75",0006 00 101 AC 20601
-207,Purchases made by Embassies,"- 1,15,70",1,"- 5,23,47","- 5,96,76",0006 00 101 AC 20700
-01,Purchases made by Embassies,"- 1,15,70",1,"- 5,23,47","- 5,96,76",0006 00 101 AC 20701
-208,Accumulated credit due to inverted duty structure,"- 199,11,91","- 169,27,67","- 267,14,72","- 304,54,78",0006 00 101 AC 20800
-01,Accumulated credit due to inverted duty structure,"- 199,11,91","- 169,27,67","- 267,14,72","- 304,54,78",0006 00 101 AC 20801
-209,Year end or volume based incentives,"- 13,50,73",1,1,1,0006 00 101 AC 20900
-01,Year end or volume based incentives,"- 13,50,73",1,1,1,0006 00 101 AC 20901
+206,Duty paid during Investigation,"-71,27",-15,"-5,00,66","-5,70,75",0006 00 101 AC 20600
+01,Duty paid during Investigation,"-71,27",-15,"-5,00,66","-5,70,75",0006 00 101 AC 20601
+207,Purchases made by Embassies,"-1,15,70",1,"-5,23,47","-5,96,76",0006 00 101 AC 20700
+01,Purchases made by Embassies,"-1,15,70",1,"-5,23,47","-5,96,76",0006 00 101 AC 20701
+208,Accumulated credit due to inverted duty structure,"-199,11,91","-169,27,67","-267,14,72","-304,54,78",0006 00 101 AC 20800
+01,Accumulated credit due to inverted duty structure,"-199,11,91","-169,27,67","-267,14,72","-304,54,78",0006 00 101 AC 20801
+209,Year end or volume based incentives,"-13,50,73",1,1,1,0006 00 101 AC 20900
+01,Year end or volume based incentives,"-13,50,73",1,1,1,0006 00 101 AC 20901
 210,International Tourists,,1,1,1,0006 00 101 AC 21000
-211,Others,"- 50,67,29","- 1,44,86","- 78,21,70","- 89,16,74",0006 00 101 AC 21100
-01,Others,"- 50,67,29","- 1,44,86","- 78,21,70","- 89,16,74",0006 00 101 AC 21101
-AC,Total AC,"- 3,230,36,22","- 2,843,23,39","- 4,887,46,63","- 4,784,36,08"
+211,Others,"-50,67,29","-1,44,86","-78,21,70","-89,16,74",0006 00 101 AC 21100
+01,Others,"-50,67,29","-1,44,86","-78,21,70","-89,16,74",0006 00 101 AC 21101
+AC,Total AC,"-3,230,36,22","-2,843,23,39","-4,887,46,63","-4,784,36,08"
 101,Total 101,"21,052,86,86","24,137,21,74","23,603,14,66","26,773,12,76"
 102,Interest,,,,
 AA,Collections [1002],,,,
@@ -51,9 +51,9 @@ AA,Collections [1002],,,,
 02,State Goods and Service Tax,"36,97,75","33,12,61","67,55,58","76,07,36",0006 00 102 AA 21402
 AA,Total AA,"36,97,75","33,12,61","67,55,58","76,07,36"
 AB,Deduct Refunds [1002],,,,
-277,Deduct / Refunds,"- 17,34","- 2,84","- 15,04","- 17,15",0006 00 102 AB 27700
-99,Others,"- 17,34","- 2,84","- 15,04","- 17,15",0006 00 102 AB 27799
-AB,Total AB,"- 17,34","- 2,84","- 15,04","- 17,15"
+277,Deduct / Refunds,"-17,34","-2,84","-15,04","-17,15",0006 00 102 AB 27700
+99,Others,"-17,34","-2,84","-15,04","-17,15",0006 00 102 AB 27799
+AB,Total AB,"-17,34","-2,84","-15,04","-17,15"
 102,Total 102,"36,80,41","33,09,77","67,40,54","75,90,21"
 103,Penalty,,,,
 AA,Collections [1002],,,,
@@ -61,9 +61,9 @@ AA,Collections [1002],,,,
 02,State Goods and Service Tax,"4,10,12","67,37","7,68,14","8,75,68",0006 00 103 AA 21402
 AA,Total AA,"4,10,12","67,37","7,68,14","8,75,68"
 AB,Deduct Refunds [1002],,,,
-277,Deduct / Refunds,"- 1,56",- 68,- 80,- 91,0006 00 103 AB 27700
-99,Others,"- 1,56",- 68,- 80,- 91,0006 00 103 AB 27799
-AB,Total AB,"- 1,56",- 68,- 80,- 91
+277,Deduct / Refunds,"-1,56",-68,-80,-91,0006 00 103 AB 27700
+99,Others,"-1,56",-68,-80,-91,0006 00 103 AB 27799
+AB,Total AB,"-1,56",-68,-80,-91
 103,Total 103,"4,08,56","66,69","7,67,34","8,74,77"
 104,Fees,,,,
 AA,Collections [1002],,,,
@@ -71,23 +71,23 @@ AA,Collections [1002],,,,
 02,State Goods and Service Tax,"173,83,85","198,14,77","162,52,69","185,28,07",0006 00 104 AA 21402
 AA,Total AA,"173,83,85","198,14,77","162,52,69","185,28,07"
 AB,Deduct Refunds [1002],,,,
-277,Deduct / Refunds,"- 1,70",1,"- 1,28","- 1,46",0006 00 104 AB 27700
-99,Others,"- 1,70",1,"- 1,28","- 1,46",0006 00 104 AB 27799
-AB,Total AB,"- 1,70",1,"- 1,28","- 1,46"
+277,Deduct / Refunds,"-1,70",1,"-1,28","-1,46",0006 00 104 AB 27700
+99,Others,"-1,70",1,"-1,28","-1,46",0006 00 104 AB 27799
+AB,Total AB,"-1,70",1,"-1,28","-1,46"
 104,Total 104,"173,82,15","198,14,78","162,51,41","185,26,61"
 105,"Input Tax Credit cross utilisation of SGST and IGST",,,, 
 AA,"State Goods and Services Tax,(SGST) [1002]",,,,
-214,Taxes,,1,"- 2,42","- 2,56",0006 00 105 AA 21400
-02,State Goods and Service Tax,,1,"- 2,42","- 2,56",0006 00 105 AA 21402
-AA,Total AA,,1,"- 2,42","- 2,56"
+214,Taxes,,1,"-2,42","-2,56",0006 00 105 AA 21400
+02,State Goods and Service Tax,,1,"-2,42","-2,56",0006 00 105 AA 21402
+AA,Total AA,,1,"-2,42","-2,56"
 AB,Transfer-in From Integrated Goods and Services Tax (IGST) [1002],,,,
 214,Taxes,"21,799,57,52","25,297,92,55","25,122,38,44","28,639,51,82",0006 00 105 AB 21400
 02,State Goods and Service Tax,,"21,799,57,52  25,297,92,55  25,122,38,44  28,639,51,82",0006 00 105 AB 21402,,
 AB,Total AB,"21,799,57,52","25,297,92,55","25,122,38,44","28,639,51,82"
 AC,Transfer-out to Integrated Goods and Services Tax (IGST) [1002],,,,
-214,Taxes,"- 10,440,07,90",,"- 9,338,34,95 - 10,974,31,94 - 12,510,72,41",0006 00 105 AC 21400,
-02,State Goods and Service Tax,"- 10,440,07,90",,"- 9,338,34,95- 10,974,31,94- 12,510,72,41",0006 00 105 AC 21402,
-AC,Total AC,"- 10,440,07,90",,"- 9,338,34,95 - 10,974,31,94 - 12,510,72,41",
+214,Taxes,"-10,440,07,90",,"-9,338,34,95 -10,974,31,94 -12,510,72,41",0006 00 105 AC 21400,
+02,State Goods and Service Tax,"-10,440,07,90",,"-9,338,34,95-10,974,31,94-12,510,72,41",0006 00 105 AC 21402,
+AC,Total AC,"-10,440,07,90",,"-9,338,34,95 -10,974,31,94 -12,510,72,41",
 105,Total 105,"11,359,49,62","15,959,57,61","14,148,04,08","16,128,76,85"
 106,Apportionment of IGST-Transfer-in of Tax Component to SGST,,,,
 AA,State Goods and Services Tax (SGST) [1002],,,,
@@ -123,13 +123,13 @@ AA,Provisional / Ad-hoc settlement from IGST Fund [1002],,,,
 03,Integrated Goods and Service Tax,"4,842,81,79","6,227,34,10","6,083,12,37","2,291,54,10",0006 00 110 AA 21403
 AA,Total AA,"4,842,81,79","6,227,34,10","6,083,12,37","2,291,54,10"
 AC,Adjustment against provisional / advance settlement of Integrated Goods and Services Tax (IGST) [1002],,,,
-215,"Levy, Cess, Surcharge, etc. on Taxes","- 260,80,00",- 1,"- 1,374,35,69","- 1,001,49,69",0006 00 110 AC 21500
-77,Deduct-Refunds,"- 260,80,00",- 1,"- 1,374,35,69","- 1,001,49,69",0006 00 110 AC 21577
-AC,Total AC,"- 260,80,00",- 1,"- 1,374,35,69","- 1,001,49,69"
+215,"Levy, Cess, Surcharge, etc. on Taxes","-260,80,00",-1,"-1,374,35,69","-1,001,49,69",0006 00 110 AC 21500
+77,Deduct-Refunds,"-260,80,00",-1,"-1,374,35,69","-1,001,49,69",0006 00 110 AC 21577
+AC,Total AC,"-260,80,00",-1,"-1,374,35,69","-1,001,49,69"
 AD,Deductions from provisional settlement of Integrated Goods and Services Tax (IGST) [1002],,,,
-215,"Levy, Cess, Surcharge, etc. on Taxes",,- 1,,,0006 00 110 AD 21500
-77,Deduct-Refunds,,- 1,,,0006 00 110 AD 21577
-AD,Total AD,,- 1,,
+215,"Levy, Cess, Surcharge, etc. on Taxes",,-1,,,0006 00 110 AD 21500
+77,Deduct-Refunds,,-1,,,0006 00 110 AD 21577
+AD,Total AD,,-1,,
 110,Total 110,"4,582,01,79","6,227,34,08","4,708,76,68","1,290,04,41"
 500,Receipts awaiting transfer to other Minor Heads,,,,
 AA,State Goods and Services Tax (SGST) [1002],,,,
@@ -143,10 +143,10 @@ AA,Collections [1002],,,,
 02,State Goods and Service Tax,"77,07","45,30","31,66","33,56",0006 00 800 AA 21402
 AA,Total AA,"77,07","45,30","31,66","33,56"
 AB,Deduct Refunds [1002],,,,
-214,Taxes,"- 4,01,98","- 8,50,67","- 24,74","- 26,23",0006 00 800 AB 21400
-02,State Goods and Service Tax,"- 4,01,98","- 8,50,67","- 24,74","- 26,23",0006 00 800 AB 21402
-AB,Total AB,"- 4,01,98","- 8,50,67","- 24,74","- 26,23"
-800,Total 800,"- 3,24,91","- 8,05,37","6,92","7,33"
+214,Taxes,"-4,01,98","-8,50,67","-24,74","-26,23",0006 00 800 AB 21400
+02,State Goods and Service Tax,"-4,01,98","-8,50,67","-24,74","-26,23",0006 00 800 AB 21402
+AB,Total AB,"-4,01,98","-8,50,67","-24,74","-26,23"
+800,Total 800,"-3,24,91","-8,05,37","6,92","7,33"
 0006,Total 0006,"38,533,09,41","48,157,39,68","44,218,37,60","46,195,55,32"
 0008-00,INTEGRATED GOODS AND SERVICES TAX (IGST),,,,
 901,Share of net proceeds assigned to States,,,, 
@@ -175,9 +175,9 @@ AA,Share of Net Proceeds assigned to States [1610],,,,
 02,Taxes other than Corporate Tax,"7,846,61,59","9,245,43,00","8,104,42,00","9,395,25,00",0021 00 901 AA 10102
 AA,Total AA,"7,846,61,59","9,245,43,00","8,104,42,00","9,395,25,00"
 AB,Deduct - Excess Receipts during previous year [1610],,,,
-101,Share in Central Taxes,,,"- 1,053,29,00",,0021 00 901 AB 10100
-02,Taxes other than Corporate Tax,,,"- 1,053,29,00",,0021 00 901 AB 10102
-AB,Total AB,,,"- 1,053,29,00",
+101,Share in Central Taxes,,,"-1,053,29,00",,0021 00 901 AB 10100
+02,Taxes other than Corporate Tax,,,"-1,053,29,00",,0021 00 901 AB 10102
+AB,Total AB,,,"-1,053,29,00",
 901,Total 901,"7,846,61,59","9,245,43,00","7,051,13,00","9,395,25,00"
 0021,Total 0021,"7,846,61,59","9,245,43,00","7,051,13,00","9,395,25,00"
 0022-00,TAXES ON AGRICULTURAL INCOME,,,,,
@@ -187,9 +187,9 @@ AA,Taxes on Agricultural Income [4104],,,,,
 99,Others,"10,22","14,46","14,46","15,18",0022 00 101 AA 21499
 AA,Total AA,"10,22","14,46","14,46","15,18"
 AB,Deduct - Refunds [4104],,,,,
-277,Deduct / Refunds,,- 1,- 1,- 1,0022 00 101 AB 27700
-99,Others,,- 1,- 1,- 1,0022 00 101 AB 27799
-AB,Total AB,,- 1,- 1,- 1
+277,Deduct / Refunds,,-1,-1,-1,0022 00 101 AB 27700
+99,Others,,-1,-1,-1,0022 00 101 AB 27799
+AB,Total AB,,-1,-1,-1
 101,Total 101,"10,22","14,45","14,45","15,17"
 0022,Total 0022,"10,22","14,45","14,45","15,17"
 0028-00,"OTHER TAXES ON INCOME,AND EXPENDITURE",,,,
@@ -311,9 +311,9 @@ AM,Recovery of charges for use of Government Vehicles [4102],,,,
 99,Others,"23,51",34,"1,44","1,52",0029 00 800 AM 21499
 AM,Total AM,"23,51",34,"1,44","1,52"
 AN,Deduct - Refunds - Other Items [4102],,,,
-277,Deduct / Refunds,"- 2,77",- 1,2,2,0029 00 800 AN 27700
-99,Others,"- 2,77",- 1,2,2,0029 00 800 AN 27799
-AN,Total AN,"- 2,77",- 1,2,2
+277,Deduct / Refunds,"-2,77",-1,2,2,0029 00 800 AN 27700
+99,Others,"-2,77",-1,2,2,0029 00 800 AN 27799
+AN,Total AN,"-2,77",-1,2,2
 AO,"Receipts under the Tamil Nadu Urban Land (Ceiling and Regulation) Act, 1978 [4107]",,,,
 214,Taxes,"1,95,32","2,94,87","2,61,00","3,00,00",0029 00 800 AO 21400
 91,Land Tax,"1,95,32","2,94,87","2,61,00","3,00,00",0029 00 800 AO 21491
@@ -328,9 +328,9 @@ AA,Court Fees realised in Stamps [1101],,,,
 01,Judicial-in lieu of Court Fees,"165,99,51","171,02,15","171,02,15","188,12,37",0030 01 101 AA 21701
 AA,Total AA,"165,99,51","171,02,15","171,02,15","188,12,37"
 AB,Deduct - Refunds - Court Fee Stamps [1101],,,,
-277,Deduct / Refunds,"- 16,64,28","- 12,95,46","- 12,95,46","- 14,25,01",0030 01 101 AB 27700
-99,Others,"- 16,64,28","- 12,95,46","- 12,95,46","- 14,25,01",0030 01 101 AB 27799
-AB,Total AB,"- 16,64,28","- 12,95,46","- 12,95,46","- 14,25,01"
+277,Deduct / Refunds,"-16,64,28","-12,95,46","-12,95,46","-14,25,01",0030 01 101 AB 27700
+99,Others,"-16,64,28","-12,95,46","-12,95,46","-14,25,01",0030 01 101 AB 27799
+AB,Total AB,"-16,64,28","-12,95,46","-12,95,46","-14,25,01"
 101,Total 101,"149,35,23","158,06,69","158,06,69","173,87,36"
 102,Sale of Stamps,,,,
 AA,Sale of Copy Stamp Papers [1101],,,,
@@ -365,11 +365,11 @@ AB,Other Non-Judicial Stamps [1101],,,,
 23,Non-Judicial-Other Stamps,"2,184,65,94","3,260,41,32","3,260,41,32","3,586,45,45",0030 02 102 AB 21723
 AB,Total AB,"2,672,15,04","3,346,90,57","3,346,90,57","3,681,59,63"
 AC,Deduct - Refunds [1101],,,,
-277,Deduct / Refunds,"- 15,00,36","- 13,66,01","- 13,66,01","- 15,02,62",0030 02 102 AC 27700
-13,Spoiled Stamps,"- 11,47,95","- 29,79","- 29,79","- 32,77",0030 02 102 AC 27713
-14,Stamps received from Deceased Vendors,"13,06","- 6,41,65","- 6,41,65","- 7,05,82",0030 02 102 AC 27714
-99,Others,"- 3,65,47","- 6,94,57","- 6,94,57","- 7,64,03",0030 02 102 AC 27799
-AC,Total AC,"- 15,00,36","- 13,66,01","- 13,66,01","- 15,02,62"
+277,Deduct / Refunds,"-15,00,36","-13,66,01","-13,66,01","-15,02,62",0030 02 102 AC 27700
+13,Spoiled Stamps,"-11,47,95","-29,79","-29,79","-32,77",0030 02 102 AC 27713
+14,Stamps received from Deceased Vendors,"13,06","-6,41,65","-6,41,65","-7,05,82",0030 02 102 AC 27714
+99,Others,"-3,65,47","-6,94,57","-6,94,57","-7,64,03",0030 02 102 AC 27799
+AC,Total AC,"-15,00,36","-13,66,01","-13,66,01","-15,02,62"
 102,Total 102,"2,657,17,29","3,333,30,94","3,333,30,94","3,666,64,03"
 103,Duty on Impressing of Documents,,,,
 AA,Receipt on Other Stamps [1101],,,,
@@ -397,10 +397,10 @@ AB,Total AB,"3,33,23","4,39,97","4,39,97","4,83,97"
 800,Total 800,"4,77,28","4,84,25","4,84,25","5,32,68"
 901,Deduct - Payments to Local Bodies of net proceeds on duty levied by them on Transfer of Property,,,,
 AA,Deduct - Payment to Local Bodies of Net Proceeds of Duty Levied by them on Transfer of Property [1101],,,,
-277,Deduct / Refunds,"27,83,08",1,- 1,1,0030 02 901 AA 27700
-99,Others,"27,83,08",1,- 1,1,0030 02 901 AA 27799
-AA,Total AA,"27,83,08",1,- 1,1
-901,Total 901,"27,83,08",1,- 1,1
+277,Deduct / Refunds,"27,83,08",1,-1,1,0030 02 901 AA 27700
+99,Others,"27,83,08",1,-1,1,0030 02 901 AA 27799
+AA,Total AA,"27,83,08",1,-1,1
+901,Total 901,"27,83,08",1,-1,1
 02,Total 02,"6,880,37,35","7,954,35,83","7,954,35,81","8,749,79,42"
 03,REGISTRATION FEES,,,,
 104,Fees for registering documents,,,,
@@ -409,9 +409,9 @@ AA,Fees for Registering Documents [1101],,,,
 41,Registration,"3,745,32,18","4,687,67,97","4,687,67,97","5,156,44,77",0030 03 104 AA 21641
 AA,Total AA,"3,745,32,18","4,687,67,97","4,687,67,97","5,156,44,77"
 AB,Deduct - Refunds [1101],,,,
-277,Deduct / Refunds,"6,00,23","- 56,03","- 56,03","- 61,63",0030 03 104 AB 27700
-99,Others,"6,00,23","- 56,03","- 56,03","- 61,63",0030 03 104 AB 27799
-AB,Total AB,"6,00,23","- 56,03","- 56,03","- 61,63"
+277,Deduct / Refunds,"6,00,23","-56,03","-56,03","-61,63",0030 03 104 AB 27700
+99,Others,"6,00,23","-56,03","-56,03","-61,63",0030 03 104 AB 27799
+AB,Total AB,"6,00,23","-56,03","-56,03","-61,63"
 104,Total 104,"3,751,32,41","4,687,11,94","4,687,11,94","5,155,83,14"
 800,Other Receipts,,,,,
 AA,Fees for Copies of Registered Documents [1101],,,,
@@ -427,9 +427,9 @@ AF,Other items [1101],,,,,
 99,Others,"21,91,74","17,42,06","17,42,06","19,16,27",0030 03 800 AF 21699
 AF,Total AF,"21,91,74","17,42,06","17,42,06","19,16,27"
 AG,Deduct - Refunds [1101],,,,,
-277,Deduct / Refunds,"9,53","- 97,74","- 97,74","- 1,07,51",0030 03 800 AG 27700
-99,Others,"9,53","- 97,74","- 97,74","- 1,07,51",0030 03 800 AG 27799
-AG,Total AG,"9,53","- 97,74","- 97,74","- 1,07,51"
+277,Deduct / Refunds,"9,53","-97,74","-97,74","-1,07,51",0030 03 800 AG 27700
+99,Others,"9,53","-97,74","-97,74","-1,07,51",0030 03 800 AG 27799
+AG,Total AG,"9,53","-97,74","-97,74","-1,07,51"
 AH,Fees for the Soft Copy of the Registration Process [1101],,,,,
 216,Taxation Fees,"18,55,87","43,56,44","43,56,44","47,92,08",0030 03 800 AH 21600
 41,Registration,"18,55,87","43,56,44","43,56,44","47,92,08",0030 03 800 AH 21641
@@ -440,15 +440,15 @@ AH,Total AH,"18,55,87","43,56,44","43,56,44","47,92,08"
 0032-00,TAXES ON WEALTH,,,,
 901,Share of net proceeds assigned to States,,,,
 AA,Share of Net Proceeds assigned to States [1610],,,,
-101,Share in Central Taxes,"3,92,06","- 30,00","- 30,00","- 33,00",0032 00 901 AA 10100
-04,Wealth Tax,"3,92,06","- 30,00","- 30,00","- 33,00",0032 00 901 AA 10104
-AA,Total AA,"3,92,06","- 30,00","- 30,00","- 33,00"
+101,Share in Central Taxes,"3,92,06","-30,00","-30,00","-33,00",0032 00 901 AA 10100
+04,Wealth Tax,"3,92,06","-30,00","-30,00","-33,00",0032 00 901 AA 10104
+AA,Total AA,"3,92,06","-30,00","-30,00","-33,00"
 AC,Arrear receipts for the previous year [1601],,,,
 101,Share in Central Taxes,,,"69,00",,0032 00 901 AC 10100
 04,Wealth Tax,,,"69,00",,0032 00 901 AC 10104
 AC,Total AC,,,"69,00",
-901,Total 901,"3,92,06","- 30,00","39,00","- 33,00"
-0032,Total 0032,"3,92,06","- 30,00","39,00","- 33,00"
+901,Total 901,"3,92,06","-30,00","39,00","-33,00"
+0032,Total 0032,"3,92,06","-30,00","39,00","-33,00"
 0035-00,TAXES ON IMMOVABLE PROPERTY OTHER THAN AGRICULTURAL LAND,,,,
 101,Ordinary Collections,,,,,
 AA,Gross Collections - Urban Areas [4107],,,,,
@@ -464,9 +464,9 @@ AA,Share of Net Proceeds assigned to States [1610],,,,
 05,Customs,"2,171,71,00","2,135,06,00","1,861,26,00","2,050,31,00",0037 00 901 AA 10105
 AA,Total AA,"2,171,71,00","2,135,06,00","1,861,26,00","2,050,31,00"
 AC,Arrear receipts for the previous year [1601],,,,
-101,Share in Central Taxes,,,"- 188,34,00",,0037 00 901 AC 10100
-05,Customs,,,"- 188,34,00",,0037 00 901 AC 10105
-AC,Total AC,,,"- 188,34,00",
+101,Share in Central Taxes,,,"-188,34,00",,0037 00 901 AC 10100
+05,Customs,,,"-188,34,00",,0037 00 901 AC 10105
+AC,Total AC,,,"-188,34,00",
 901,Total 901,"2,171,71,00","2,135,06,00","1,672,92,00","2,050,31,00"
 0037,Total 0037,"2,171,71,00","2,135,06,00","1,672,92,00","2,050,31,00"
 0038,UNION EXCISE DUTIES,,,,
@@ -477,9 +477,9 @@ AA,Share of Net Proceeds assigned to States [1610],,,,
 06,Union Excise Duties,"1,443,22,03","1,310,74,00","1,198,66,00","1,339,60,00",0038 01 901 AA 10106
 AA,Total AA,"1,443,22,03","1,310,74,00","1,198,66,00","1,339,60,00"
 AB,Deduct - Excess Receipts during previous year [1610],,,,
-101,Share in Central Taxes,,,"- 430,71,00",,0038 01 901 AB 10100
-06,Union Excise Duties,,,"- 430,71,00",,0038 01 901 AB 10106
-AB,Total AB,,,"- 430,71,00",
+101,Share in Central Taxes,,,"-430,71,00",,0038 01 901 AB 10100
+06,Union Excise Duties,,,"-430,71,00",,0038 01 901 AB 10106
+AB,Total AB,,,"-430,71,00",
 901,Total 901,"1,443,22,03","1,310,74,00","767,95,00","1,339,60,00"
 01,Total 01,"1,443,22,03","1,310,74,00","767,95,00","1,339,60,00"
 0038,Total 0038,"1,443,22,03","1,310,74,00","767,95,00","1,339,60,00"
@@ -528,9 +528,9 @@ AD,Vend Fee on Foreign Liquor and Spirits [3701],,,,
 32,Vend Fee,"1,55,36","5,36,69","5,36,69","5,90,36",0039 00 105 AD 21632
 AD,Total AD,"1,55,36","5,36,69","5,36,69","5,90,36"
 AE,Deduct - Refunds [3701],,,,
-277,Deduct / Refunds,"- 1,58,78","- 27,98","- 27,98","- 30,78",0039 00 105 AE 27700
-99,Others,"- 1,58,78","- 27,98","- 27,98","- 30,78",0039 00 105 AE 27799
-AE,Total AE,"- 1,58,78","- 27,98","- 27,98","- 30,78"
+277,Deduct / Refunds,"-1,58,78","-27,98","-27,98","-30,78",0039 00 105 AE 27700
+99,Others,"-1,58,78","-27,98","-27,98","-30,78",0039 00 105 AE 27799
+AE,Total AE,"-1,58,78","-27,98","-27,98","-30,78"
 AF,"Import Licence (Permit) Fee on,Indian Made Foreign Liquors [3701]",,,,
 215,"Levy, Cess, Surcharge, etc. on Taxes","11,06,99","13,90,98","13,90,98","18,30,08",0039 00 105 AF 21500
 31,State Excise,"11,06,99","13,90,98","13,90,98","18,30,08",0039 00 105 AF 21531
@@ -594,8 +594,8 @@ AA,Opium [3701],,,,
 AA,Total AA,"2,14",85,85,94
 AB,Deduct - Refunds [3701],,,,
 215,"Levy, Cess, Surcharge, etc. on Taxes","7,15","4,40","4,40","4,84",0039 00 108 AB 21500
-277,Deduct / Refunds,77,- 1,- 1,- 2,0039 00 108 AB 27700
-99,Others,77,- 1,- 1,- 2,0039 00 108 AB 27799
+277,Deduct / Refunds,77,-1,-1,-2,0039 00 108 AB 27700
+99,Others,77,-1,-1,-2,0039 00 108 AB 27799
 AB,Total AB,"7,92","4,39","4,39","4,82"
 AC,Cost Price [3701],,,,
 216,Taxation Fees,"1,00","4,08","4,08","4,49",0039 00 108 AC 21600
@@ -700,9 +700,9 @@ AB,Other Receipts [1002],,,,
 99,Others,"3,62,30","12,88,31","4,29,58","4,51,06",0040 00 101 AB 21499
 AB,Total AB,"3,62,30","12,88,31","4,29,58","4,51,06"
 AC,Deduct - Refunds [1002],,,,
-277,Deduct / Refunds,"- 4,01,70","- 5,15,47","- 12,22,91","- 12,84,05",0040 00 101 AC 27700
-99,Others,"- 4,01,70","- 5,15,47","- 12,22,91","- 12,84,05",0040 00 101 AC 27799
-AC,Total AC,"- 4,01,70","- 5,15,47","- 12,22,91","- 12,84,05"
+277,Deduct / Refunds,"-4,01,70","-5,15,47","-12,22,91","-12,84,05",0040 00 101 AC 27700
+99,Others,"-4,01,70","-5,15,47","-12,22,91","-12,84,05",0040 00 101 AC 27799
+AC,Total AC,"-4,01,70","-5,15,47","-12,22,91","-12,84,05"
 101,Total 101,"565,37,62","630,80,87","523,87,10","550,06,47"
 102,Receipts under State Sales Tax Act,,,,
 AA,Tax Collections [1002],,,,
@@ -718,12 +718,12 @@ AD,Licence and Registration Fees [1002],,,,
 07,General Sales Tax,"1,68",,,,0040 00 102 AD 21407
 AD,Total AD,"1,68",,,
 AE,Other Receipts - controlled by the Commissioner of Commercial Taxes [1002],,,,
-214,Taxes,"- 30,86",,"15,08","15,83",0040 00 102 AE 21400
-07,General Sales Tax,"- 30,86",,"15,08","15,83",0040 00 102 AE 21407
-AE,Total AE,"- 30,86",,"15,08","15,83"
+214,Taxes,"-30,86",,"15,08","15,83",0040 00 102 AE 21400
+07,General Sales Tax,"-30,86",,"15,08","15,83",0040 00 102 AE 21407
+AE,Total AE,"-30,86",,"15,08","15,83"
 AF,Deduct - Refunds [1002],,,,
-277,Deduct / Refunds,"- 20,42,39","- 33,12,94","- 37,96,33","- 39,86,15",0040 00 102 AF 27700
-AF,Total AF,"- 20,42,39","- 33,12,94","- 37,96,33","- 39,86,15"
+277,Deduct / Refunds,"-20,42,39","-33,12,94","-37,96,33","-39,86,15",0040 00 102 AF 27700
+AF,Total AF,"-20,42,39","-33,12,94","-37,96,33","-39,86,15"
 AG,Appeal Fees under Sales Tax Appellate Tribunal [1002],,,,
 216,Taxation Fees,"5,79",8,"39,60","37,62",0040 00 102 AG 21600
 07,General Sales Tax,"5,79",8,"39,60","37,62",0040 00 102 AG 21607
@@ -741,14 +741,14 @@ AL,"Licence Fees, Registration Fees, Penalties and Other Receipts under State Va
 06,Value Added Tax,1,2,,,0040 00 102 AL 21606
 AL,Total AL,1,2,,
 AM,Tax Collections from Non-Value Added Tax Goods [1002],,,,
-214,Taxes,"2,32","11,89,90","- 8,88","- 9,33",0040 00 102 AM 21400
+214,Taxes,"2,32","11,89,90","-8,88","-9,33",0040 00 102 AM 21400
 17,Non-Value Added Tax-Sugar Cane,"1,21","61,80","2,870,81,42","3,014,35,49",0040 00 102 AM 21417
-99,Others,"1,11","11,28,10","- 2,870,90,30","- 3,014,44,82",0040 00 102 AM 21499
-AM,Total AM,"2,32","11,89,90","- 8,88","- 9,33"
+99,Others,"1,11","11,28,10","-2,870,90,30","-3,014,44,82",0040 00 102 AM 21499
+AM,Total AM,"2,32","11,89,90","-8,88","-9,33"
 AO,Appeal fees in State Value Added Tax Act. [1002],,,,
-216,Taxation Fees,"- 7,72","7,79","40,52","42,55",0040 00 102 AO 21600
-99,Others,"- 7,72","7,79","40,52","42,55",0040 00 102 AO 21699
-AO,Total AO,"- 7,72","7,79","40,52","42,55"
+216,Taxation Fees,"-7,72","7,79","40,52","42,55",0040 00 102 AO 21600
+99,Others,"-7,72","7,79","40,52","42,55",0040 00 102 AO 21699
+AO,Total AO,"-7,72","7,79","40,52","42,55"
 AP,Tobacco and Tobacco Products [1002],,,,
 214,Taxes,,"83,18","42,48","42,48",0040 00 102 AP 21400
 18,Non-Value Added Tax-Tobacco and Tobacco Products,,"83,18","42,48","42,48",0040 00 102 AP 21418
@@ -772,13 +772,13 @@ AB,"Licence Fees, Registration Fees, Penalties and Other Receipts under State Va
 06,Value Added Tax,"21,79,75","11,58,91","10,62,02","11,15,12",0040 00 111 AB 21606
 AB,Total AB,"21,79,75","11,58,91","10,62,02","11,15,12"
 AG,Refunds to Exporters under State Value Added Tax Act [1002],,,,
-277,Deduct / Refunds,"- 369,24,17","- 474,09,09","- 109,50,81","- 114,98,36",0040 00 111 AG 27700
-02,"Exporters under State Value Added Tax Act","-369,24,17","- 474,09,09","-109,50,81","-114,98,36",0040 00 111 AG 27702
-AG,Total AG,"- 369,24,17","- 474,09,09","- 109,50,81","- 114,98,36"
+277,Deduct / Refunds,"-369,24,17","-474,09,09","-109,50,81","-114,98,36",0040 00 111 AG 27700
+02,"Exporters under State Value Added Tax Act","-369,24,17","-474,09,09","-109,50,81","-114,98,36",0040 00 111 AG 27702
+AG,Total AG,"-369,24,17","-474,09,09","-109,50,81","-114,98,36"
 AH,Other Refunds under State Value Added Tax Act [1002],,,,
-277,Deduct / Refunds,"- 126,91,24","- 221,08,04","- 177,53,59","- 186,41,27",0040 00 111 AH 27700
-03,Others under State Value Added Tax Act,"- 126,91,24","- 221,08,04","- 177,53,59","- 186,41,27",0040 00 111 AH 27703
-AH,Total AH,"- 126,91,24","- 221,08,04","- 177,53,59","- 186,41,27"
+277,Deduct / Refunds,"-126,91,24","-221,08,04","-177,53,59","-186,41,27",0040 00 111 AH 27700
+03,Others under State Value Added Tax Act,"-126,91,24","-221,08,04","-177,53,59","-186,41,27",0040 00 111 AH 27703
+AH,Total AH,"-126,91,24","-221,08,04","-177,53,59","-186,41,27"
 AI,Appeal Fees to Appellate Assistant Commissioner under State Value Added Tax Act [1002],,,,,
 216,Taxation Fees,"12,40","2,49,17","79,73","83,72",0040 00 111 AI 21600
 99,Others,"12,40","2,49,17","79,73","83,72",0040 00 111 AI 21699
@@ -787,7 +787,7 @@ AJ,Appeal Fees to Appellate Tribunal under State Value Added Tax Act [1002],,,,,
 216,Taxation Fees,"11,61","18,00","3,79","3,98",0040 00 111 AJ 21600
 99,Others,"11,61","18,00","3,79","3,98",0040 00 111 AJ 21699
 AJ,Total AJ,"11,61","18,00","3,79","3,98"
-111,Total 111,"- 122,81,28","- 195,59,76","38,61,20","40,54,25"
+111,Total 111,"-122,81,28","-195,59,76","38,61,20","40,54,25"
 0040,Total 0040,"42,701,07,34","48,033,64,65","48,452,38,91","56,046,28,95"
 0041-00,TAXES ON VEHICLES,,,,,
 101,Receipts under the Indian Motor Vehicles Act,,,,,
@@ -806,9 +806,9 @@ AB,Surcharge on Motor Vehicles Tax [2501],,,,,
 56,Vehicles Tax,"26,90,43","44,88,55","29,05,67","33,10,03",0041 00 102 AB 21456
 AB,Total AB,"26,90,43","44,88,55","29,05,67","33,10,03"
 AC,Deduct - Refunds [2501],,,,,
-277,Deduct / Refunds,"- 1,16,98","- 94,41","- 1,26,34","- 1,29,36",0041 00 102 AC 27700
-99,Others,"- 1,16,98","- 94,41","- 1,26,34","- 1,29,36",0041 00 102 AC 27799
-AC,Total AC,"- 1,16,98","- 94,41","- 1,26,34","- 1,29,36"
+277,Deduct / Refunds,"-1,16,98","-94,41","-1,26,34","-1,29,36",0041 00 102 AC 27700
+99,Others,"-1,16,98","-94,41","-1,26,34","-1,29,36",0041 00 102 AC 27799
+AC,Total AC,"-1,16,98","-94,41","-1,26,34","-1,29,36"
 AE,Receipts under Green Tax [2501],,,,,
 214,Taxes,"31,09,07","47,19,58","33,57,80","88,18,91",0041 00 102 AE 21400
 56,Vehicles Tax,"31,09,07","47,19,58","33,57,80","88,18,91",0041 00 102 AE 21456
@@ -884,9 +884,9 @@ AA,Fees under Indian Electricity Rules [1402],,,,
 72,Inspection Fees -Electricity Charges,"4,38,91","13,12,50","12,13,17","12,49,57",0043 00 102 AA 21672
 AA,Total AA,"11,54,63","13,12,50","12,13,17","12,49,57"
 AB,Deduct - Refunds [1402],,,,
-277,Deduct / Refunds,8,- 1,,,0043 00 102 AB 27700
-99,Others,8,- 1,,,0043 00 102 AB 27799
-AB,Total AB,8,- 1,,
+277,Deduct / Refunds,8,-1,,,0043 00 102 AB 27700
+99,Others,8,-1,,,0043 00 102 AB 27799
+AB,Total AB,8,-1,,
 102,Total 102,"11,54,71","13,12,49","12,13,17","12,49,57"
 103,Fees for the Electrical Inspection of Cinema Theatres,,,,
 AA,Fees for Electrical Inspection of Cinema Theatres [1402],,,,
@@ -916,11 +916,11 @@ AA,Share of Net Proceeds assigned to States [1610],,,,
 07,Service Tax,,,"20,11,00",,0044 00 901 AA 10107
 AA,Total AA,,,"20,11,00",
 AC,Arrear receipts for the previous year [1601],,,,
-101,Share in Central Taxes,"282,27,04",,"- 37,26,00","17,52,00",0044 00 901 AC 10100
-07,Service Tax,"282,27,04",,"- 37,26,00","17,52,00",0044 00 901 AC 10107
-AC,Total AC,"282,27,04",,"- 37,26,00","17,52,00"
-901,Total 901,"282,27,04",,"- 17,15,00","17,52,00"
-0044,Total 0044,"282,27,04",,"- 17,15,00","17,52,00"
+101,Share in Central Taxes,"282,27,04",,"-37,26,00","17,52,00",0044 00 901 AC 10100
+07,Service Tax,"282,27,04",,"-37,26,00","17,52,00",0044 00 901 AC 10107
+AC,Total AC,"282,27,04",,"-37,26,00","17,52,00"
+901,Total 901,"282,27,04",,"-17,15,00","17,52,00"
+0044,Total 0044,"282,27,04",,"-17,15,00","17,52,00"
 0045-00,OTHER TAXES AND DUTIES ON COMMODITIES AND SERVICES,,,,
 101,Entertainment Tax,,,,
 AA,Tax Collections - controlled by Commercial Taxes Department [1002],,,,
@@ -934,13 +934,13 @@ AB,Other Receipts [1002],,,,
 99,Others,"4,63","1,57","2,76","2,90",0045 00 101 AB 21499
 AB,Total AB,"4,63","1,57","2,76","2,90"
 AD,Deduct - Refunds to Local Bodies -Controlled by Commissioner of Commercial Taxes [1002],,,,
-277,Deduct / Refunds,"- 20,98,48","- 19,17,50","- 22,01,06","- 23,13,65",0045 00 101 AD 27700
-05,"Entertainment Tax to Local,Bodies","- 20,98,48","- 19,17,50","- 22,01,06","- 23,13,65",0045 00 101 AD 27705
-AD,Total AD,"- 20,98,48","- 19,17,50","- 22,01,06","- 23,13,65"
+277,Deduct / Refunds,"-20,98,48","-19,17,50","-22,01,06","-23,13,65",0045 00 101 AD 27700
+05,"Entertainment Tax to Local,Bodies","-20,98,48","-19,17,50","-22,01,06","-23,13,65",0045 00 101 AD 27705
+AD,Total AD,"-20,98,48","-19,17,50","-22,01,06","-23,13,65"
 AE,Tax Collections - controlled by Land Administration [1002],,,,
-216,Taxation Fees,"- 3,00",,,,0045 00 101 AE 21600
-76,Entertainment Tax,"- 3,00",,,,0045 00 101 AE 21676
-AE,Total AE,"- 3,00",,,
+216,Taxation Fees,"-3,00",,,,0045 00 101 AE 21600
+76,Entertainment Tax,"-3,00",,,,0045 00 101 AE 21676
+AE,Total AE,"-3,00",,,
 AF,Receipts on account of Cinematographic Exhibition [1002],,,,
 216,Taxation Fees,86,"1,80","2,00","2,24",0045 00 101 AF 21600
 76,Entertainment Tax - Compound,86,"1,80","2,00","2,24",0045 00 101 AF 21676
@@ -949,7 +949,7 @@ AG,Licencing of Cinematographic Exhibitions [1002],,,,
 216,Taxation Fees,"10,27","2,33","2,16","2,27",0045 00 101 AG 21600
 76,Entertainment Tax - Compound,"10,27","2,33","2,16","2,27",0045 00 101 AG 21676
 AG,Total AG,"10,27","2,33","2,16","2,27"
-101,Total 101,"- 20,54,58","- 17,00,02","- 19,87,04","- 20,88,79"
+101,Total 101,"-20,54,58","-17,00,02","-19,87,04","-20,88,79"
 102,Betting Tax,,,,
 AA,"Totalizator, Guindy [1002]",,,,
 214,Taxes,34,1,1,1,0045 00 102 AA 21400
@@ -986,7 +986,7 @@ AC,Arrear receipts for the previous year [1601],,,,
 08,Other Taxes and Duties,,,"16,72,00",,0045 00 901 AC 10108
 AC,Total AC,,,"16,72,00",
 901,Total 901,"15,74,35",,,
-0045,Total 0045,"1,38,41","- 9,34,65","2,75,99","- 15,16,80"
+0045,Total 0045,"1,38,41","-9,34,65","2,75,99","-15,16,80"
 0046-00,"CURRENCY, COINAGE AND MINT",,,,,
 105,Mint Receipts,,,,,
 AA,Sale of Dr.M.G.R. Commemorative Coins [3801],,,,,
@@ -1210,8 +1210,8 @@ AF,Total AF,84,"1,26","1,26","1,26"
 AG,Loans under the control of the Director of Agriculture [0502],,,,
 225,Interest,"2,45","2,20","6,17","6,17",0049 04 800 AG 22500
 30,Loans controlled by Heads of Department,"2,45","2,20","6,17","6,17",0049 04 800 AG 22530
-277,Deduct / Refunds,- 23,,,,0049 04 800 AG 27700
-01,Excess Remittances/ Recoveries,- 23,,,,0049 04 800 AG 27701
+277,Deduct / Refunds,-23,,,,0049 04 800 AG 27700
+01,Excess Remittances/ Recoveries,-23,,,,0049 04 800 AG 27701
 AG,Total AG,"2,22","2,20","6,17","6,17"
 AI,Loans under the control of the Commissioner of Milk Production and Dairy Development [0801],,,,
 225,Interest,"3,50","5,25","91,37","91,37",0049 04 800 AI 22500
@@ -1401,14 +1401,14 @@ FJ,Total FJ,,,"1,128,66,40","2,164,98,48"
 800,Total 800,"2,361,83,21","3,047,77,66","3,352,53,94","3,704,28,41"
 900,Deduct-Refunds,,,,
 AA,"Interest from Departmental Commercial undertakings - Deduct - Refunds [1602]",,,,
-277,Deduct Refunds,- 59,,,,0049 04 900 AA 27700
-99,Others,- 59,,,,0049 04 900 AA 27799
-AA,Total AA,- 59,,,
+277,Deduct Refunds,-59,,,,0049 04 900 AA 27700
+99,Others,-59,,,,0049 04 900 AA 27799
+AA,Total AA,-59,,,
 AG,Other Receipts - Deduct - Refunds [1602],,,,
-277,Deduct / Refunds,"- 7,98","- 7,56","- 7,56","- 7,56",0049 04 900 AG 27700
-99,Others,"- 7,98","- 7,56","- 7,56","- 7,56",0049 04 900 AG 27799
-AG,Total AG,"- 7,98","- 7,56","- 7,56","- 7,56"
-900,Total 900,"- 8,57","- 7,56","- 7,56","- 7,56"
+277,Deduct / Refunds,"-7,98","-7,56","-7,56","-7,56",0049 04 900 AG 27700
+99,Others,"-7,98","-7,56","-7,56","-7,56",0049 04 900 AG 27799
+AG,Total AG,"-7,98","-7,56","-7,56","-7,56"
+900,Total 900,"-8,57","-7,56","-7,56","-7,56"
 04,Total 04,"6,875,20,96","4,463,11,34","5,140,22,65","5,395,93,90"
 0049,Total 0049,"6,875,20,96","4,463,11,34","5,140,22,65","5,395,93,90"
 0050-00,DIVIDENDS AND PROFITS,,,,,
@@ -1814,10 +1814,10 @@ AI,Total AI,22,"1,50,00","1,41,83","1,50,00"
 AA,Deduct - Refunds [3902],,,,
 231,Receipt of Rent / Hire Charges/ Lease,36,,,,0059 80 900 AA 23100
 01,Rent for Government Quarters-Employees,36,,,,0059 80 900 AA 23101
-277,Deduct / Refunds,"- 20,08","- 1,50","- 1,29","- 1,50",0059 80 900 AA 27700
-01,Excess Remittances/ Recoveries,"- 20,08","- 1,50","- 1,29","- 1,50",0059 80 900 AA 27701
-AA,Total AA,"- 19,72","- 1,50","- 1,29","- 1,50"
-900,Total 900,"- 19,72","- 1,50","- 1,29","- 1,50"
+277,Deduct / Refunds,"-20,08","-1,50","-1,29","-1,50",0059 80 900 AA 27700
+01,Excess Remittances/ Recoveries,"-20,08","-1,50","-1,29","-1,50",0059 80 900 AA 27701
+AA,Total AA,"-19,72","-1,50","-1,29","-1,50"
+900,Total 900,"-19,72","-1,50","-1,29","-1,50"
 80,Total 80,"18,57,14","21,67,84","21,46,48","21,64,12"
 0059,Total 0059,"18,57,14","21,67,84","21,46,48","21,64,12"
 0070,OTHER ADMINISTRATIVE SERVICES,,,, 
@@ -1888,18 +1888,18 @@ AH,Total AH,"63,17","1,80","1,80","1,80"
 800,Total 800,"8,25,44","5,56,81","5,15,26","5,12,26"
 900,Deduct-Refunds,,,,
 AA,Judicial [0301],,,,
-277,Deduct / Refunds,"1,76",- 1,- 1,- 1,0070 01 900 AA 27700
-99,Others,"1,76",- 1,- 1,- 1,0070 01 900 AA 27799
-AA,Total AA,"1,76",- 1,- 1,- 1
+277,Deduct / Refunds,"1,76",-1,-1,-1,0070 01 900 AA 27700
+99,Others,"1,76",-1,-1,-1,0070 01 900 AA 27799
+AA,Total AA,"1,76",-1,-1,-1
 AB,Magisterial [0301],,,,
-277,Deduct / Refunds,"- 2,27","- 60,57","- 60,57","- 60,57",0070 01 900 AB 27700
-99,Others,"- 2,27","- 60,57","- 60,57","- 60,57",0070 01 900 AB 27799
-AB,Total AB,"- 2,27","- 60,57","- 60,57","- 60,57"
+277,Deduct / Refunds,"-2,27","-60,57","-60,57","-60,57",0070 01 900 AB 27700
+99,Others,"-2,27","-60,57","-60,57","-60,57",0070 01 900 AB 27799
+AB,Total AB,"-2,27","-60,57","-60,57","-60,57"
 AD,Other items [0301],,,,
-277,Deduct / Refunds,"- 6,66",- 1,- 1,- 1,0070 01 900 AD 27700
-99,Others,"- 6,66",- 1,- 1,- 1,0070 01 900 AD 27799
-AD,Total AD,"- 6,66",- 1,- 1,- 1
-900,Total 900,"- 7,17","- 60,59","- 60,59","- 60,59"
+277,Deduct / Refunds,"-6,66",-1,-1,-1,0070 01 900 AD 27700
+99,Others,"-6,66",-1,-1,-1,0070 01 900 AD 27799
+AD,Total AD,"-6,66",-1,-1,-1
+900,Total 900,"-7,17","-60,59","-60,59","-60,59"
 01,Total 01,"70,31,79","80,09,04","79,03,05","86,08,65"
 02,ELECTIONS,,,,
 101,"Sale Proceeds of Election forms,and Documents",,,, 
@@ -2120,10 +2120,10 @@ EB,Total EB,"8,20","88,36","88,36","88,36"
 800,Total 800,"98,48,46","128,93,08","118,20,05","124,04,67"
 900,Deduct-Refunds,,,,,
 AA,Receipts of Fire Service Department [2301],,,,,
-277,Deduct Refunds,"- 75,00,00",,,,0070 60 900 AA 27700
-99,Others,"- 75,00,00",,,,0070 60 900 AA 27799
-AA,Total AA,"- 75,00,00",,,
-900,Total 900,"- 75,00,00",,,
+277,Deduct Refunds,"-75,00,00",,,,0070 60 900 AA 27700
+99,Others,"-75,00,00",,,,0070 60 900 AA 27799
+AA,Total AA,"-75,00,00",,,
+900,Total 900,"-75,00,00",,,
 60,Total 60,"84,58,18","182,97,10","175,35,39","184,13,15"
 0070,Total 0070,"187,39,32","266,60,24","394,86,77","417,70,49"
 0071,CONTRIBUTIONS & RECOVERIES TOWARDS PENSION & OTHER RETIREMENT BENEFITS,,,,
@@ -2190,10 +2190,10 @@ AC,Total AC,66,99,"2,57","2,70"
 800,Total 800,"31,05","10,51","10,47","10,60"
 900,Deduct-Refunds,,,,
 AA,Deduct - Refunds [5000],,,,
-277,Deduct / Refunds,"- 1,32",,,,0071 01 900 AA 27700
-99,Others,"- 1,32",,,,0071 01 900 AA 27799
-AA,Total AA,"- 1,32",,,
-900,Total 900,"- 1,32",,,
+277,Deduct / Refunds,"-1,32",,,,0071 01 900 AA 27700
+99,Others,"-1,32",,,,0071 01 900 AA 27799
+AA,Total AA,"-1,32",,,
+900,Total 900,"-1,32",,,
 01,Total 01,"38,24,75","27,07,41","36,47,77","36,82,56"
 0071,Total 0071,"38,24,75","27,07,41","36,47,77","36,82,56"
 0075-00,MISCELLANEOUS GENERAL  SERVICES,,,,
@@ -2361,18 +2361,18 @@ BY,Total BY,"212,91,07","280,31,98","278,83,05","306,71,36"
 800,Total 800,"535,03,23","539,93,40","581,94,79","611,84,85"
 900,Deduct-Refunds,,,,
 AA,Refund of Lapsed Revenue Deposits [1602],,,,
-241,Lapsed Deposits,"- 32,58",1,1,1,0075 00 900 AA 24100
-01,Lapsed Deposits,"- 32,58",1,1,1,0075 00 900 AA 24101
-AA,Total AA,"- 32,58",1,1,1
+241,Lapsed Deposits,"-32,58",1,1,1,0075 00 900 AA 24100
+01,Lapsed Deposits,"-32,58",1,1,1,0075 00 900 AA 24101
+AA,Total AA,"-32,58",1,1,1
 AG,Recovery from  the Reserve bank of India towards Prizes paid for Prize winner bonds [1612],,,,
-242,Recoveries,"- 3,67",,,,0075 00 900 AG 24200
-99,Others,"- 3,67",,,,0075 00 900 AG 24299
-AG,Total AG,"- 3,67",,,
+242,Recoveries,"-3,67",,,,0075 00 900 AG 24200
+99,Others,"-3,67",,,,0075 00 900 AG 24299
+AG,Total AG,"-3,67",,,
 AU,Miscellaneous Receipts [1602],,,,
 277,Deduct / Refunds,,,1,1,0075 00 900 AU 27700
 01,Excess Remittances/ Recoveries,,,1,1,0075 00 900 AU 27701
 AU,Total AU,,,1,1
-900,Total 900,"- 36,25",1,2,2
+900,Total 900,"-36,25",1,2,2
 0075,Total 0075,"679,71,32","1,293,17,51","913,41,55","1,128,67,40"
 0202,"EDUCATION, SPORTS,ART AND CULTURE",,,,
 01,General Education,,,,
@@ -2391,7 +2391,7 @@ AA,Total AA,"636,33,92","521,93,69","539,19,65","592,97,03"
 102,Secondary Education,,,,
 AA,Examinations conducted by the Director of Government Examinations [4304],,,,
 227,Non-Taxation Fees,"20,57,06","56,91,46","82,58,96","88,90,12",0202 01 102 AA 22700
-08,Certificates/ Records,"- 9,71,46","16,11,80","43,64,12","48,00,53",0202 01 102 AA 22708
+08,Certificates/ Records,"-9,71,46","16,11,80","43,64,12","48,00,53",0202 01 102 AA 22708
 11,Copying,"3,39,86","3,89,84","3,98,31","4,18,23",0202 01 102 AA 22711
 13,Examination,"23,25,87","33,94,46","32,18,73","33,79,67",0202 01 102 AA 22713
 31,Retotalling/ Revaluation,"91,95","74,86","77,16","81,02",0202 01 102 AA 22731
@@ -3130,10 +3130,10 @@ AC,Total AC,"7,41,50","9,17,76","9,17,76","9,17,76"
 800,Total 800,"7,41,51","9,18,76","9,18,76","9,18,76"
 900,Deduct-Refunds,,,,
 AB,Other Receipts - Deduct Refunds [1602],,,,
-277,Deduct Refunds,"- 2,00",,,,0220 60 900 AB 27700
-01,Excess Remittances/ Recoveries,"- 2,00",,,,0220 60 900 AB 27701
-AB,Total AB,"- 2,00",,,
-900,Total 900,"- 2,00",,,
+277,Deduct Refunds,"-2,00",,,,0220 60 900 AB 27700
+01,Excess Remittances/ Recoveries,"-2,00",,,,0220 60 900 AB 27701
+AB,Total AB,"-2,00",,,
+900,Total 900,"-2,00",,,
 60,Total 60,"8,21,18","10,02,76","10,02,76","10,02,76"
 0220,Total 0220,"10,06,98","11,35,05","11,44,30","11,47,58"
 0230-00,LABOUR AND EMPLOYMENT,,,,
@@ -3370,10 +3370,10 @@ BK,Total BK,,1,"23,84","10,01"
 800,Total 800,"103,63,72","86,53,06","91,59,23","97,44,20"
 900,Deduct-Refunds,,,,,
 AL,Chief Ministers Noon Meal Programme [4503],,,,,
-277,Deduct Refunds,,,"- 77,79",13,0235 60 900 AL 27700
-99,Others,,,"- 77,79",13,0235 60 900 AL 27799
-AL,Total AL,,,"- 77,79",13
-900,Total 900,,,"- 77,79",13
+277,Deduct Refunds,,,"-77,79",13,0235 60 900 AL 27700
+99,Others,,,"-77,79",13,0235 60 900 AL 27799
+AL,Total AL,,,"-77,79",13
+900,Total 900,,,"-77,79",13
 60,Total 60,"103,69,98","86,72,09","90,92,04","97,55,13"
 0235,Total 0235,"103,69,98","86,72,09","92,88,94","97,55,14"
 0250-00,OTHER SOCIAL SERVICES,,,,
@@ -3539,9 +3539,9 @@ AD,Sale of pipes and fittings [0502],,,,,
 99,Others,,1,1,1,0401 00 120 AD 22399
 AD,Total AD,,1,1,1
 AF,Agricultural Engineering - Receipts [0506],,,,,
-237,Sale Proceeds,- 6,"1,00","1,50","1,50",0401 00 120 AF 23700
-19,Old Stores & Materials,- 6,"1,00","1,50","1,50",0401 00 120 AF 23719
-AF,Total AF,- 6,"1,00","1,50","1,50"
+237,Sale Proceeds,-6,"1,00","1,50","1,50",0401 00 120 AF 23700
+19,Old Stores & Materials,-6,"1,00","1,50","1,50",0401 00 120 AF 23719
+AF,Total AF,-6,"1,00","1,50","1,50"
 AG,Agricultural Engineering Workshop - Receipts from Sales [0506],,,,,
 237,Sale Proceeds,"5,56","1,00","1,00","1,00",0401 00 120 AG 23700
 19,Old Stores & Materials,"5,56","1,00","1,00","1,00",0401 00 120 AG 23719
@@ -3837,10 +3837,10 @@ AM,Total AM,"32,97","3,00","3,30","3,46"
 800,Total 800,"70,64","11,42","44,53","36,80"
 900,Deduct-Refunds,,,,,
 AA,Deduct-Refunds [0701],,,,,
-277,Deduct / Refunds,"- 13,97",,,,0405 00 900 AA 27700
-99,Others,"- 13,97",,,,0405 00 900 AA 27799
-AA,Total AA,"- 13,97",,,
-900,Total 900,"- 13,97",,,
+277,Deduct / Refunds,"-13,97",,,,0405 00 900 AA 27700
+99,Others,"-13,97",,,,0405 00 900 AA 27799
+AA,Total AA,"-13,97",,,
+900,Total 900,"-13,97",,,
 0405,Total 0405,"10,60,45","6,02,47","7,40,71","7,42,41"
 0406,FORESTRY AND WILDLIFE,,,,
 01,Forestry,,,,
@@ -3904,9 +3904,9 @@ AK,Receipts from Farm forestry [5401],,,,
 12,Forest Produces,"5,93,80","14,97,67","8,54,21","9,12,05",0406 01 102 AK 23712
 AK,Total AK,"5,93,80","14,97,67","8,54,21","9,12,05"
 AL,Deduct - Farm Forestry Revenue transferred to Panchayats [5401],,,,
-277,Deduct / Refunds,"14,08","- 30,00","- 30,00","- 30,00",0406 01 102 AL 27700
-99,Others,"14,08","- 30,00","- 30,00","- 30,00",0406 01 102 AL 27799
-AL,Total AL,"14,08","- 30,00","- 30,00","- 30,00"
+277,Deduct / Refunds,"14,08","-30,00","-30,00","-30,00",0406 01 102 AL 27700
+99,Others,"14,08","-30,00","-30,00","-30,00",0406 01 102 AL 27799
+AL,Total AL,"14,08","-30,00","-30,00","-30,00"
 102,Total 102,"26,91,21","31,62,06","29,86,45","30,44,00"
 800,Other Receipts,,,,
 AA,Fines and Forfeitures [5401],,,,
@@ -3936,10 +3936,10 @@ AR,Total AR,"2,57,49","1,76,88","5,55,64","5,83,18"
 800,Total 800,"39,25,19","14,71,63","45,27,28","49,22,06"
 900,Deduct-Refunds,,,,
 AA,Deduct - Refunds [5401],,,,
-277,Deduct / Refunds,,"- 5,15","- 5,15","- 5,15",0406 01 900 AA 27700
-01,Excess Remittances/ Recoveries,,"- 5,15","- 5,15","- 5,15",0406 01 900 AA 27701
-AA,Total AA,,"- 5,15","- 5,15","- 5,15"
-900,Total 900,,"- 5,15","- 5,15","- 5,15"
+277,Deduct / Refunds,,"-5,15","-5,15","-5,15",0406 01 900 AA 27700
+01,Excess Remittances/ Recoveries,,"-5,15","-5,15","-5,15",0406 01 900 AA 27701
+AA,Total AA,,"-5,15","-5,15","-5,15"
+900,Total 900,,"-5,15","-5,15","-5,15"
 01,Total 01,"130,63,36","47,62,85","79,38,13","82,68,93"
 02,Envoironmental Forestry and Wildlife,,,,,
 800,Other Receipts,,,,,
@@ -5123,19 +5123,19 @@ AF,Total AF,"63,66,08","520,00,00","186,95,34","523,70,47"
 800,Total 800,"289,83,24","1,020,52,62","472,28,71","1,103,95,08"
 900,Deduct-Refunds,,,,
 AA,Deduct - Refunds [2704],,,,
-277,Deduct / Refunds,"- 44,46,49",- 1,"- 50,00,00",- 1,0853 00 900 AA 27700
-99,Others,"- 44,46,49",- 1,"- 50,00,00",- 1,0853 00 900 AA 27799
-AA,Total AA,"- 44,46,49",- 1,"- 50,00,00",- 1
+277,Deduct / Refunds,"-44,46,49",-1,"-50,00,00",-1,0853 00 900 AA 27700
+99,Others,"-44,46,49",-1,"-50,00,00",-1,0853 00 900 AA 27799
+AA,Total AA,"-44,46,49",-1,"-50,00,00",-1
 AB,Refund of seigniorage fee to Local Bodies for Sand Quarrying [2704],,,,
-277,Deduct / Refunds,"- 2,11,33","- 39,60,83","- 25,00,00","- 25,76,80",0853 00 900 AB 27700
-06,Seigniorage Fee for Sand Quarrying to Local Bodies,,"- 39,60,83","- 25,00,00","- 25,76,80",0853 00 900 AB 27706
-99,Others,"- 2,11,33",,,,0853 00 900 AB 27799
-AB,Total AB,"- 2,11,33","- 39,60,83","- 25,00,00","- 25,76,80"
+277,Deduct / Refunds,"-2,11,33","-39,60,83","-25,00,00","-25,76,80",0853 00 900 AB 27700
+06,Seigniorage Fee for Sand Quarrying to Local Bodies,,"-39,60,83","-25,00,00","-25,76,80",0853 00 900 AB 27706
+99,Others,"-2,11,33",,,,0853 00 900 AB 27799
+AB,Total AB,"-2,11,33","-39,60,83","-25,00,00","-25,76,80"
 AC,Amount payable to Local Bodies apportional to quarry lease income from Minor Mineral [2704],,,,
-277,Deduct / Refunds,"- 189,91,48","- 98,33,19","- 154,73,63",- 2,0853 00 900 AC 27700
-07,Income from Minor Minerals to Local Bodies,"- 189,91,48","- 98,33,19","- 154,73,63",- 2,0853 00 900 AC 27707
-AC,Total AC,"- 189,91,48","- 98,33,19","- 154,73,63",- 2
-900,Total 900,"- 236,49,30","- 137,94,03","- 229,73,63","- 25,76,83"
+277,Deduct / Refunds,"-189,91,48","-98,33,19","-154,73,63",-2,0853 00 900 AC 27700
+07,Income from Minor Minerals to Local Bodies,"-189,91,48","-98,33,19","-154,73,63",-2,0853 00 900 AC 27707
+AC,Total AC,"-189,91,48","-98,33,19","-154,73,63",-2
+900,Total 900,"-236,49,30","-137,94,03","-229,73,63","-25,76,83"
 0853,Total 0853,"1,057,45,25","1,987,50,00","1,282,25,01","2,222,35,12"
 1051,PORTS AND LIGHTHOUSES,,,,,
 80,General,,,,,
@@ -5249,9 +5249,9 @@ AD,Receipts from Lorry Unit [1301],,,,
 09,Collections,,30,1,1,1456 00 800 AD 22709
 AD,Total AD,,30,1,1
 AE,Recovery of charges for use of Government Vehicles [1301],,,,
-240,Transport Charges,- 65,"1,30",6,6,1456 00 800 AE 24000
-01,Use of Government Vehicles,- 65,"1,30",6,6,1456 00 800 AE 24001
-AE,Total AE,- 65,"1,30",6,6
+240,Transport Charges,-65,"1,30",6,6,1456 00 800 AE 24000
+01,Use of Government Vehicles,-65,"1,30",6,6,1456 00 800 AE 24001
+AE,Total AE,-65,"1,30",6,6
 AF,Receipts on account of seized stocks [1301],,,,
 227,Non-Taxation Fees,"2,30,92","1,82,00","1,00,00","1,00,00",1456 00 800 AF 22700
 97,"Forfeiture, Seizure,Confiscation, etc","2,30,92","1,82,00","1,00,00","1,00,00",1456 00 800 AF 22797
@@ -5263,10 +5263,10 @@ AH,Total AH,"5,26","1,00",1,1
 800,Total 800,"2,60,35","2,13,20","1,43,25","1,42,29"
 900,Deduct-Refunds,,,,
 AA,Deduct - Refunds [1301],,,,
-277,Deduct / Refunds,"- 2,98",,,,1456 00 900 AA 27700
-99,Others,"- 2,98",,,,1456 00 900 AA 27799
-AA,Total AA,"- 2,98",,,
-900,Total 900,"- 2,98",,,
+277,Deduct / Refunds,"-2,98",,,,1456 00 900 AA 27700
+99,Others,"-2,98",,,,1456 00 900 AA 27799
+AA,Total AA,"-2,98",,,
+900,Total 900,"-2,98",,,
 1456,Total 1456,"2,57,37","2,13,20","1,43,25","1,42,29"
 1475-00,OTHER GENERAL ECONOMIC SERVICES,,,,
 106,Fees for Stamping Weights and Measures,,,,
@@ -5320,23 +5320,23 @@ AO,Total AO,"5,77",1,"2,10","2,10"
 03,GRANTS FOR CENTRAL PLAN SCHEMES,,,,
 900,Deduct-Refunds,,,,
 AC,Strengthening of Consumer Disputes Redressal Agencies [1301],,,,
-177,Deduct - Refund of Unspent Grants,"- 1,26",,,,1601 03 900 AC 17700
-05,"Entertainment Tax to Local,Bodies","- 1,26",,,,1601 03 900 AC 17705
-AC,Total AC,"- 1,26",,,
-900,Total 900,"- 1,26",,,
-03,Total 03,"- 1,26",,,
+177,Deduct - Refund of Unspent Grants,"-1,26",,,,1601 03 900 AC 17700
+05,"Entertainment Tax to Local,Bodies","-1,26",,,,1601 03 900 AC 17705
+AC,Total AC,"-1,26",,,
+900,Total 900,"-1,26",,,
+03,Total 03,"-1,26",,,
 04,GRANTS FOR CENTRALLY SPONSORED PLAN SCHEMES,,,,
 900,Deduct - Refunds,,,,
 AC,Scholarship to students from Non-Hindi Speaking State for Post Matric [4302],,,,
-177,Deduct - Refund of Unspent Grants,"- 40,11",,,,1601 04 900 AC 17700
-05,"Entertainment Tax to Local, Bodies","- 40,11",,,,1601 04 900 AC 17705
-AC,Total AC,"- 40,11",,,,
+177,Deduct - Refund of Unspent Grants,"-40,11",,,,1601 04 900 AC 17700
+05,"Entertainment Tax to Local, Bodies","-40,11",,,,1601 04 900 AC 17705
+AC,Total AC,"-40,11",,,,
 AS,National Control Programme of Peste des Petits Ruminants (NCPPPR) [0602],,,,
-177,Deduct - Refund of Unspent Grants,"- 83,19",,,,1601 04 900 AS 17700
-05,"Entertainment Tax to Local, Bodies","- 83,19",,,,1601 04 900 AS 17705
-AS,Total AS,"- 83,19",,,
-900,Total 900,"- 1,23,30",,,
-04,Total 04,"- 1,23,30",,,
+177,Deduct - Refund of Unspent Grants,"-83,19",,,,1601 04 900 AS 17700
+05,"Entertainment Tax to Local, Bodies","-83,19",,,,1601 04 900 AS 17705
+AS,Total AS,"-83,19",,,
+900,Total 900,"-1,23,30",,,
+04,Total 04,"-1,23,30",,,
 06,CENTRALLY SPONSORED SCHEMES,,,, 
 101,Central Assistance / Share,,,,
 AA,Mission for 100 Smart Cities [3402],,,,

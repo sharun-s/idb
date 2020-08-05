@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
-#To turn on revenue code autocompletion on shell
-#complete -W "`find data/revenue/*.csv -printf "%f "| tr -d ".csv"`" ./summary.py
+# generates files in loan_explorer, investment_explorer, expense_explorer, income_explorer
+# for income json breakup details file is parsed for sub head [A-Z][A-Z]
+# for revex,capex,loan simple grep of the functional head across all demand files
+# generates indexes - loan_index capex_index revex_index 
+
 
 import sys
 import pandas as p
@@ -43,6 +46,36 @@ def format_indian(t):
 	m=fman(t)
 	return "{:.2f}".format(m*dic[ex][1])+" "+dic[ex][0]
 
+def ppIncomeByDepts(detailsfile,head):
+	#Find all sub depts generating income
+	o=subprocess.run(r"cat "+ shlex.quote(detailsfile.strip()) + ' | jq -r \'paths as $p|getpath($p) | select(scalars)| ($p | map(select(type=="string"))) + [.]|@csv\'' + r"| grep '\[.*\]\",\"Total'  | grep 2018 " ,shell=True, stdout=subprocess.PIPE, universal_newlines=True)
+	rows=[]
+	for i in csv.reader(o.stdout.splitlines()):
+		rows.append([i[2],i[5]])
+	df=p.DataFrame(rows)
+	#print(rows,file=sys.stderr)
+	try:
+		df[[0,2]]=df[0].str.split('[',expand=True)
+		df[2]=df[2].str.replace(']','')
+	except ValueError as e:
+		print(f'check {detailsfile.strip()} - dept subdept code not found - probably no Income')
+		return
+	
+	m={}
+	for dept in df[2].unique():
+		d=dept_map[dept_map[0] == int(dept[:2])]			
+		subdept=dept[2:]
+		if subdept.startswith('0'):
+			subdept=subdept[1]
+		m[dept]=d[d[1] == int(subdept)][2].iloc[0]
+	df.columns=['head','amt','code']
+	df['subdept']=df['code'].apply(lambda x:m[x])
+	with open(f'income_explorer/{head}.html','w') as f:
+		f.write('<body style="font-family:verdana,sans-serif;">')
+		f.write(f'<br>--Income Sources (Revenue)<br>')
+		f.write(df.to_html(index=False,border=0,columns=['head','amt','subdept']))
+		f.write('</body>')	
+
 def parseResults(o):
 	d=[]
 	v=[]
@@ -71,20 +104,6 @@ def parseResults(o):
 
 	return (d,v,totamt)
 
-def parseHistory(o):
-	v=[]
-	for i in csv.reader(o.stdout.splitlines()):
-		#print(i)
-		for amt in i[2:]:
-			if amt !='':
-				try:
-					v.append(format_indian(100000*atof(amt)))
-				except ValueError as e:
-					v.append('xx')  
-			else: 
-				v.append('-')
-	return ",".join(v)
-
 def highlight(x):
     return ['font-weight: bold' for v in x]
 
@@ -96,8 +115,9 @@ def pp(d,v,ftitle,titleStr,detailsdir):
 
 	with open(f'{detailsdir}/{ftitle}.html','w') as f:
 		f.write('<body style="font-family:verdana,sans-serif;">')
-		f.write(f'<br>--{titleStr}<br>')
+		f.write(f'<b>--{titleStr}</b><br>')
 		f.write(dk.to_html(header=False,index=False,border=0,bold_rows=False,na_rep=''))
+		f.write('<br><a href="history_explorer/dummy.html">[Historic Data 2002-2018]</a>')
 		f.write('</body>')
 		f.write('\n')
 	return True
@@ -105,7 +125,7 @@ def pp(d,v,ftitle,titleStr,detailsdir):
 def updateIndex(head,ta,indexfile,detailsdir):
 	with open(indexfile,'a') as f:
 		r=func_map[func_map[0]==int(head)].iloc[0]
-		f.write(f'<div><a href="{detailsdir}/{r[0]}.html" title="{ta}" target=details>{r[1].title()}</a></div>')
+		f.write(f'<div style="font-family:sans-serif;"><a href="{detailsdir}/{r[0]}.html" title="{ta}" target=details>{r[1].title()}</a></div>')
 
 def SubDeptsBreakup(titleStr, head, indexfile, detailsdir):
 	#note this catches head at start of line only
@@ -118,34 +138,19 @@ def SubDeptsBreakup(titleStr, head, indexfile, detailsdir):
 	
 	#print(f'<b>{format_indian(ta*1000)}</b>')
 
-dept_map=p.read_csv('tn_function_dept_map',header=None)
+dept_map=p.read_csv('tn_dept2subdept_map',header=None)
 #skipping error lines cause just interested in code to major head map, 3 col rows not reqd
-func_map=p.read_csv('tn_head_function_map',header=None,error_bad_lines=False,warn_bad_lines=False)
+func_map=p.read_csv('tn_func2dept_map',header=None,error_bad_lines=False,warn_bad_lines=False)
 
-rev_head=None
-if int(sys.argv[1][0])%2 == 0:
-	rev_head='0'+sys.argv[1][1:]
-	revex_head='2'+sys.argv[1][1:]
-	capex_head='4'+sys.argv[1][1:]
-	loan_head='6'+sys.argv[1][1:]
-if int(sys.argv[1][0])%2==1:
-	rev_head='1'+sys.argv[1][1:]
-	revex_head='3'+sys.argv[1][1:]
-	capex_head='5'+sys.argv[1][1:]
-	loan_head='7'+sys.argv[1][1:]
-# todo handle 8 ? 
-
-
-#if len(sys.argv) > 2:
-#	if sys.argv[2] == 'Expenditure':
-SubDeptsBreakup("Expenditure day to day (revex)", revex_head,'revex_index.html','expense_explorer')
-
-#	if sys.argv[2] == 'Investment':
-SubDeptsBreakup('Investments (capex)',capex_head,'capex_index.html','investment_explorer')
-
-#	if sys.argv[2] == 'Loans':
-SubDeptsBreakup('Loans',loan_head,'loan_index.html','loan_explorer')
-#else:
-#o=subprocess.run( ['ls -1 data/revenue/breakup/'+rev_head+'*'],shell=True, stdout=subprocess.PIPE, universal_newlines=True)
-#ppIncomeByDepts(o.stdout)
-
+for head in func_map[0].astype(str):
+	if head[0]=='0' or head[0]=='1':
+		o=subprocess.run( ['ls -1 data/revenue/breakup/'+head+'*'],shell=True, stdout=subprocess.PIPE, universal_newlines=True)
+		ppIncomeByDepts(o.stdout,head)
+	elif head[0]=='2' or head[0]=='3':
+		SubDeptsBreakup("Expenditure day to day (revex)", head,'revex_index.html','expense_explorer')
+	elif head[0]=='4' or head[0]=='5':
+		SubDeptsBreakup('Investments (capex)',head,'capex_index.html','investment_explorer')
+	elif head[0]=='6' or head[0]=='7':
+		SubDeptsBreakup('Loans',head,'loan_index.html','loan_explorer')
+	else:
+		print('Unrecognized head',head)

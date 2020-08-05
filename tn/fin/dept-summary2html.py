@@ -99,9 +99,14 @@ def ppIncomeByDepts(detailsfile):
 	for i in csv.reader(o.stdout.splitlines()):
 		rows.append([i[2],i[5]])
 	df=p.DataFrame(rows)
-	#print(rows)
-	df[[0,2]]=df[0].str.split('[',expand=True)
-	df[2]=df[2].str.replace(']','')
+	#print(rows,file=sys.stderr)
+	try:
+		df[[0,2]]=df[0].str.split('[',expand=True)
+		df[2]=df[2].str.replace(']','')
+	except ValueError as e:
+		print(f'check {detailsfile.strip()} - dept subdept code not found - probably no Income')
+		return
+	
 	m={}
 	for dept in df[2].unique():
 		d=dept_map[dept_map[0] == int(dept[:2])]			
@@ -126,7 +131,7 @@ def SubDeptsBreakup(titleStr, head):
 	pp(d,v,head,titleStr)
 	#print(f'<b>{format_indian(ta*1000)}</b>')
 
-dept_map=p.read_csv('tn_function_dept_map',header=None)
+dept_map=p.read_csv('tn_dept2subdept_map',header=None)
 rev_head=None
 if int(sys.argv[1][0])%2 == 0:
 	rev_head='0'+sys.argv[1][1:]

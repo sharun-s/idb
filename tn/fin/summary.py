@@ -2,6 +2,8 @@
 #To turn on revenue code autocompletion on shell
 #complete -W "`find data/revenue/*.csv -printf "%f "| tr -d ".csv"`" ./summary.py
 
+#NOTE - this script was for quick testing - dont use to summarize - algo is incomplete
+
 import sys
 import pandas as p
 import subprocess
@@ -94,7 +96,7 @@ def ppIncomeByDepts(detailsfile):
 		print(",".join(d[d[1].isin(subdepts)][2].values.tolist()))
 
 
-dept_map=p.read_csv('tn_function_dept_map',header=None)
+dept_map=p.read_csv('tn_dept2subdept_map',header=None)
 rev_head=None
 if int(sys.argv[1][0])%2 == 0:
 	rev_head='0'+sys.argv[1][1:]

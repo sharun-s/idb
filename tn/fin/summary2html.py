@@ -51,7 +51,12 @@ def parseResults(o):
 			d.append(dept_map[dept_map[0] == int(demand)].iloc[0][2])
 			for amt in i[2:3]:
 				if amt !='':
-					v.append(format_indian(1000*atof(amt)))
+					try:
+						v.append(format_indian(1000*atof(amt)))
+					except ValueError as e:
+						print('error in', dept_map[dept_map[0] == int(demand)].iloc[0][2],file=sys.stderr)
+						raise e
+					
 					totamt=totamt+atof(amt)  
 				else: 
 					v.append('-')
@@ -126,7 +131,7 @@ def ppIncomeByDepts(detailsfile):
 
 print('<body style="font-family:verdana,sans-serif;">')
 
-dept_map=p.read_csv('tn_function_dept_map',header=None)
+dept_map=p.read_csv('tn_dept2subdept_map',header=None)
 rev_head=None
 if int(sys.argv[1][0])%2 == 0:
 	rev_head='0'+sys.argv[1][1:]

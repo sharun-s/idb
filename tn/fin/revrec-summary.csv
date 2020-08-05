@@ -14,7 +14,7 @@ head,desc,2018,2019Est,2019Rev,2020Est
 109,Sale proceeds of confiscated Goods,,2,,
 110,Advance apportionment from IGST,"4,582,01,79","6,227,34,08","4,708,76,68","1,290,04,41"
 500,Receipts awaiting transfer to other Minor Heads,,"69,32","52,86","56,03"
-800,Other Receipts,"- 3,24,91","- 8,05,37","6,92","7,33"
+800,Other Receipts,"-3,24,91","-8,05,37","6,92","7,33"
 0006,Total 0006,"38,533,09,41","48,157,39,68","44,218,37,60","46,195,55,32"
 0008-00,INTEGRATED GOODS AND SERVICES TAX (IGST),,,,
 901,Share of net proceeds assigned to States,,"603,50,00",,
@@ -48,7 +48,7 @@ head,desc,2018,2019Est,2019Rev,2020Est
 102,Sale of Stamps,"2,657,17,29","3,333,30,94","3,333,30,94","3,666,64,03"
 103,Duty on Impressing of Documents,"4,190,59,70","4,616,20,63","4,616,20,63","5,077,82,70"
 800,Other Receipts,"4,77,28","4,84,25","4,84,25","5,32,68"
-901,Deduct - Payments to Local Bodies of net proceeds on duty levied by them on Transfer of Property,"27,83,08",1,- 1,1
+901,Deduct - Payments to Local Bodies of net proceeds on duty levied by them on Transfer of Property,"27,83,08",1,-1,1
 02,Total 02,"6,880,37,35","7,954,35,83","7,954,35,81","8,749,79,42"
 03,REGISTRATION FEES,,,,
 104,Fees for registering documents,"3,751,32,41","4,687,11,94","4,687,11,94","5,155,83,14"
@@ -56,8 +56,8 @@ head,desc,2018,2019Est,2019Rev,2020Est
 03,Total 03,"4,002,33,86","4,987,69,79","4,987,69,79","5,486,46,78"
 0030,Total 0030,"11,066,18,12","13,122,80,58","13,122,80,56","14,435,08,65"
 0032-00,TAXES ON WEALTH,,,,
-901,Share of net proceeds assigned to States,"3,92,06","- 30,00","39,00","- 33,00"
-0032,Total 0032,"3,92,06","- 30,00","39,00","- 33,00"
+901,Share of net proceeds assigned to States,"3,92,06","-30,00","39,00","-33,00"
+0032,Total 0032,"3,92,06","-30,00","39,00","-33,00"
 0035-00,TAXES ON IMMOVABLE PROPERTY OTHER THAN AGRICULTURAL LAND,,,,
 101,Ordinary Collections,"10,33,99","13,65,00","13,00,00","13,65,00"
 0035,Total 0035,"10,33,99","13,65,00","13,00,00","13,65,00"
@@ -84,7 +84,7 @@ head,desc,2018,2019Est,2019Rev,2020Est
 0040-00,"TAXES ON SALES, TRADE ETC.",,,,
 101,Receipts under Central Sales Tax Act,"565,37,62","630,80,87","523,87,10","550,06,47"
 102,Receipts under State Sales Tax Act,"42,258,51,00","47,598,43,54","47,889,90,61","55,455,68,23"
-111,Value Added Tax (VAT) Receipts,"- 122,81,28","- 195,59,76","38,61,20","40,54,25"
+111,Value Added Tax (VAT) Receipts,"-122,81,28","-195,59,76","38,61,20","40,54,25"
 0040,Total 0040,"42,701,07,34","48,033,64,65","48,452,38,91","56,046,28,95"
 0041-00,TAXES ON VEHICLES,,,,
 101,Receipts under the Indian Motor Vehicles Act,"623,04,37","841,16,63","672,88,74","684,95,31"
@@ -101,15 +101,15 @@ head,desc,2018,2019Est,2019Rev,2020Est
 800,Other Receipts,"8,59,22","2,02,34","12,85,96","7,00,01"
 0043,Total 0043,"620,96,83","1,364,44,82","1,443,29,29","1,480,34,80"
 0044-00,SERVICE TAX,,,,
-901,Share of net proceeds assigned to States,"282,27,04",,"- 17,15,00","17,52,00"
-0044,Total 0044,"282,27,04",,"- 17,15,00","17,52,00"
+901,Share of net proceeds assigned to States,"282,27,04",,"-17,15,00","17,52,00"
+0044,Total 0044,"282,27,04",,"-17,15,00","17,52,00"
 0045-00,OTHER TAXES AND DUTIES ON COMMODITIES AND SERVICES,,,,
-101,Entertainment Tax,"- 20,54,58","- 17,00,02","- 19,87,04","- 20,88,79"
+101,Entertainment Tax,"-20,54,58","-17,00,02","-19,87,04","-20,88,79"
 102,Betting Tax,34,3,3,3
 105,Luxury Tax,"2,48,11","3,09,39","1,10,49","1,16,01"
 114,"Receipts under the Sugarcane (Regulation, Supply and Purchase) Control Act","3,70,19","4,55,95","4,80,51","4,55,95"
 901,Share of net proceeds assigned to States,"15,74,35",,"16,72,00",
-0045,Total 0045,"1,38,41","- 9,34,65","2,75,99","- 15,16,80"
+0045,Total 0045,"1,38,41","-9,34,65","2,75,99","-15,16,80"
 0046-00,"CURRENCY, COINAGE AND MINT",,,,
 105,Mint Receipts,,,61,61
 0046,Total 0046,,,61,61
@@ -125,7 +125,7 @@ head,desc,2018,2019Est,2019Rev,2020Est
 191,Interest from Local Bodies,"11,15,91","20,74,11","20,74,11","20,74,11"
 195,Interest from Co-operative Societies,"8,76,18","4,93,14","73,93,88","36,19,15"
 800,Other Receipts,"2,361,83,21","3,047,77,66","3,352,53,94","3,704,28,41"
-900,Deduct-Refunds,"- 8,57","- 7,56","- 7,56","- 7,56"
+900,Deduct-Refunds,"-8,57","-7,56","-7,56","-7,56"
 04,Total 04,"6,875,20,96","4,463,11,34","5,140,22,65","5,395,93,90"
 0049,Total 0049,"6,875,20,96","4,463,11,34","5,140,22,65","5,395,93,90"
 0050-00,DIVIDENDS AND PROFITS,,,,
@@ -161,7 +161,7 @@ head,desc,2018,2019Est,2019Rev,2020Est
 102,Hire Charges of Machinery and Equipment,75,"1,12","1,12","1,12"
 103,Recovery of Percentage Charges,"2,96,66","1,60,00","2,09,86","1,60,00"
 800,Other Receipts,"8,38,06","12,70,72","11,86,79","12,54,50"
-900,Deduct-Refunds,"- 19,72","- 1,50","- 1,29","- 1,50"
+900,Deduct-Refunds,"-19,72","-1,50","-1,29","-1,50"
 80,Total 80,"18,57,14","21,67,84","21,46,48","21,64,12"
 0059,Total 0059,"18,57,14","21,67,84","21,46,48","21,64,12"
 0070,OTHER ADMINISTRATIVE SERVICES,,,,
@@ -169,7 +169,7 @@ head,desc,2018,2019Est,2019Rev,2020Est
 102,Fines and Forfeitures,"60,37,91","72,34,04","72,03,16","79,10,08"
 501,Services and Service Fees,"1,75,61","2,78,78","2,45,22","2,46,90"
 800,Other Receipts,"8,25,44","5,56,81","5,15,26","5,12,26"
-900,Deduct-Refunds,"- 7,17","- 60,59","- 60,59","- 60,59"
+900,Deduct-Refunds,"-7,17","-60,59","-60,59","-60,59"
 01,Total 01,"70,31,79","80,09,04","79,03,05","86,08,65"
 02,ELECTIONS,,,,
 101,Sale Proceeds of Election forms and Documents,"14,76","3,61","4,17","3,51"
@@ -184,14 +184,14 @@ head,desc,2018,2019Est,2019Rev,2020Est
 115,"Receipts from Guest Houses,Government Hostels, etc.","4,14,16","3,92,05","4,12,65","4,14,78"
 118,"Receipts under Right to Information Act, 2005","82,27","1,90,00","90,00","90,00"
 800,Other Receipts,"98,48,46","128,93,08","118,20,05","124,04,67"
-900,Deduct-Refunds,"- 75,00,00",,,
+900,Deduct-Refunds,"-75,00,00",,,
 60,Total 60,"84,58,18","182,97,10","175,35,39","184,13,15"
 0070,Total 0070,"187,39,32","266,60,24","394,86,77","417,70,49"
 0071,CONTRIBUTIONS & RECOVERIES TOWARDS PENSION & OTHER RETIREMENT BENEFITS,,,,
 01,Civil,,,,
 101,Subscriptions and Contributions,"37,95,02","26,96,90","36,37,30","36,71,96"
 800,Other Receipts,"31,05","10,51","10,47","10,60"
-900,Deduct-Refunds,"- 1,32",,,
+900,Deduct-Refunds,"-1,32",,,
 01,Total 01,"38,24,75","27,07,41","36,47,77","36,82,56"
 0071,Total 0071,"38,24,75","27,07,41","36,47,77","36,82,56"
 0075-00,MISCELLANEOUS GENERAL SERVICES,,,,
@@ -200,7 +200,7 @@ head,desc,2018,2019Est,2019Rev,2020Est
 105,Sale of land and  property,"19,21","20,70","15,50","16,28"
 108,Guarantee Fees,"118,38,20","737,98,28","315,31,12","500,66,13"
 800,Other Receipts,"535,03,23","539,93,40","581,94,79","611,84,85"
-900,Deduct-Refunds,"- 36,25",1,2,2
+900,Deduct-Refunds,"-36,25",1,2,2
 0075,Total 0075,"679,71,32","1,293,17,51","913,41,55","1,128,67,40"
 0202,"EDUCATION AND CULTURE,SPORTS, ART",,,,
 01,General Education,,,,
@@ -292,7 +292,7 @@ head,desc,2018,2019Est,2019Rev,2020Est
 106,Receipts from Advertising and Visual Publicity,"4,81","12,00","12,00","12,00"
 113,Receipts from other Publications,"76,86","72,00","72,00","72,00"
 800,Other Receipts,"7,41,51","9,18,76","9,18,76","9,18,76"
-900,Deduct-Refunds,"- 2,00",,,
+900,Deduct-Refunds,"-2,00",,,
 60,Total 60,"8,21,18","10,02,76","10,02,76","10,02,76"
 0220,Total 0220,"10,06,98","11,35,05","11,44,30","11,47,58"
 0230-00,LABOUR AND EMPLOYMENT,,,,
@@ -310,7 +310,7 @@ head,desc,2018,2019Est,2019Rev,2020Est
 60,Other Social Security and Welfare Programmes,,,,
 106,Receipts from Correctional Homes,"6,26","19,03","10,60","10,80"
 800,Other Receipts,"103,63,72","86,53,06","91,59,23","97,44,20"
-900,Deduct-Refunds,,,"- 77,79",13
+900,Deduct-Refunds,,,"-77,79",13
 60,Total 60,"103,69,98","86,72,09","90,92,04","97,55,13"
 0235,Total 0235,"103,69,98","86,72,09","92,88,94","97,55,14"
 0250-00,OTHER SOCIAL SERVICES,,,,
@@ -345,14 +345,14 @@ head,desc,2018,2019Est,2019Rev,2020Est
 103,"Sale of Fish, Fish Seeds, etc.","5,85,59","2,54,70","3,30,74","3,35,14"
 501,Services and Service Fees,"1,48","2,01","2,30","2,32"
 800,Other Receipts,"70,64","11,42","44,53","36,80"
-900,Deduct-Refunds,"- 13,97",,,
+900,Deduct-Refunds,"-13,97",,,
 0405,Total 0405,"10,60,45","6,02,47","7,40,71","7,42,41"
 0406,FORESTRY AND WILD LIFE,,,,
 01,Forestry,,,,
 101,Sale of Timber and Other Forest Produce,"64,46,96","1,34,31","4,29,55","3,08,02"
 102,Receipts from Social and Farm Forestries,"26,91,21","31,62,06","29,86,45","30,44,00"
 800,Other Receipts,"39,25,19","14,71,63","45,27,28","49,22,06"
-900,Deduct-Refunds,,"- 5,15","- 5,15","- 5,15"
+900,Deduct-Refunds,,"-5,15","-5,15","-5,15"
 01,Total 01,"130,63,36","47,62,85","79,38,13","82,68,93"
 02,Envoironmental Forestry and Wildlife,,,,
 800,Other Receipts,"14,82,38","1,00,00","1,00,00","1,00,00"
@@ -500,7 +500,7 @@ head,desc,2018,2019Est,2019Rev,2020Est
 104,Mines Department,"1,53,24","1,91,40","1,00,00","1,60,00"
 501,Service and Service Fees,"2,93",1,50,50
 800,Other Receipts,"289,83,24","1,020,52,62","472,28,71","1,103,95,08"
-900,Deduct-Refunds,"- 236,49,30","- 137,94,03","- 229,73,63","- 25,76,83"
+900,Deduct-Refunds,"-236,49,30","-137,94,03","-229,73,63","-25,76,83"
 0853,Total 0853,"1,057,45,25","1,987,50,00","1,282,25,01","2,222,35,12"
 1051,PORTS AND LIGHT HOUSES,,,,
 80,General,,,,
@@ -518,7 +518,7 @@ head,desc,2018,2019Est,2019Rev,2020Est
 800,Other Receipts,"59,60","32,00","50,00","52,00"
 1452,Total 1452,"59,60","32,00","50,00","52,00"
 1456-00,CIVIL SUPPLIES,,,,
-900,Deduct-Refunds,"- 2,98",,,
+900,Deduct-Refunds,"-2,98",,,
 1456,Total 1456,"2,57,37","2,13,20","1,43,25","1,42,29"
 1475-00,OTHER GENERAL ECONOMIC SERVICES,,,,
 106,Fees for Stamping Weights and Measures,"32,86,61","50,00,00","38,42,88","42,27,17"
@@ -527,11 +527,11 @@ head,desc,2018,2019Est,2019Rev,2020Est
 1475,Total 1475,"69,11,76","87,50,21","66,85,32","73,13,47"
 1601,GRANTS-IN-AID FROM CENTRAL GOVERNMENT,,,,
 03,GRANTS FOR CENTRAL PLAN SCHEMES,,,,
-900,Deduct-Refunds,"- 1,26",,,
-03,Total 03,"- 1,26",,,
+900,Deduct-Refunds,"-1,26",,,
+03,Total 03,"-1,26",,,
 04,GRANTS FOR CENTRALLY SPONSORED PLAN SCHEMES,,,,
-900,Deduct - Refunds,"- 1,23,30",,,
-04,Total 04,"- 1,23,30",,,
+900,Deduct - Refunds,"-1,23,30",,,
+04,Total 04,"-1,23,30",,,
 06,CENTRALLY SPONSORED SCHEMES,,,,
 101,Central Assistance / Share,"14,506,41,09","13,333,73,90","15,557,19,75","15,786,68,34"
 102,Externally Aided Projects - Grants for Centrally Sponsored Schemes,"1,85,64",1,1,1

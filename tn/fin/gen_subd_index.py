@@ -14,7 +14,7 @@ for i in expfiles:
 		print(i,e)
 	
 
-f=open('tn_function_dept_map')
+f=open('tn_dept2subdept_map')
 lines=f.readlines()
 f.close()
 f=open('sub-depts.html','w')
