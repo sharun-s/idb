@@ -22,23 +22,46 @@ for i in csv.reader(y):
 	dept=filename.split("-")[0]
 	subdeptname=re.sub(r'([0-9]{1,2}[\-_])+','',filename)
 	functional_head=i[6].split(' ')[0]
-	d.append([i[1],subdeptname.replace('_',' '),dept,functional_head])
+	d.append([i[1].replace('under State Innovation Fund',''),subdeptname.replace('_',' '),dept,functional_head])
 df=p.DataFrame(d,columns=['Project','SubDept','Dept','Functional Head'])
 
 with open('sif_index.html','a') as f:
 	f.write('<body style="font-family:verdana,sans-serif;">')
 
-for i in df.SubDept.unique():
-	tmp=df[df['SubDept'] == i]
-	sd=i.replace(' ','_')
-	with open(f'sif_explorer/{sd}.html','w') as f:
+dept_map=p.read_csv('tn_dept2subdept_map',header=None)
+
+vc=df.Dept.value_counts()
+l=[]
+for i in vc.index:
+	tmp=df[df['Dept'] == i]
+	d=dept_map[dept_map[0] == int(i)].iloc[0][2]
+	txt=d.strip().replace('_DEPARTMENT','').title()
+	fd=d.strip().replace(' ','_').replace('_DEPARTMENT','').title()
+	cnt=vc.ix[i]
+	l.append([fd,tmp,txt,cnt])
+for fd,tmp,txt,cnt in sorted(l,key=lambda x:x[2]):
+	with open(f'sif_explorer/{fd}.html','w') as f:
 		f.write('<body style="font-family:verdana,sans-serif;">')
-		f.write('<div><a href=startpage.html target=details>Go Back</a></div>')
-		f.write(tmp.to_html(index=False))
+		f.write('<div><a href=../startpage.html target=details>Go Back</a></div>')
+		f.write(tmp.to_html(index=False,columns=['Project','SubDept','Functional Head']))
 		f.write('</body>')
 	with open('sif_index.html','a') as f:
 		#f.write('<body style="font-family:verdana,sans-serif;">')
-		f.write(f'<div><a href=sif_explorer/{sd}.html target=details>{i}</a></div>')
+		f.write(f'<div><a href=sif_explorer/{fd}.html target=details>{txt}</a>&nbsp;{cnt}</div>')
+
+
+#index by subdept
+# for i in df.SubDept.unique():
+# 	tmp=df[df['SubDept'] == i]
+# 	sd=i.replace(' ','_')
+# 	with open(f'sif_explorer/{sd}.html','w') as f:
+# 		f.write('<body style="font-family:verdana,sans-serif;">')
+# 		f.write('<div><a href=startpage.html target=details>Go Back</a></div>')
+# 		f.write(tmp.to_html(index=False))
+# 		f.write('</body>')
+# 	with open('sif_index.html','a') as f:
+# 		#f.write('<body style="font-family:verdana,sans-serif;">')
+# 		f.write(f'<div><a href=sif_explorer/{sd}.html target=details>{i}</a></div>')
 
 with open('sif_index.html','a') as f:
 	f.write('</body>')
