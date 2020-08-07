@@ -1,7 +1,4 @@
 #!/usr/bin/env python3
-#To turn on revenue code autocompletion on shell
-#complete -W "`find data/revenue/*.csv -printf "%f "| tr -d ".csv"`" ./summary.py
-
 import sys
 import pandas as p
 import subprocess
@@ -92,70 +89,47 @@ def pp(d,v,ftitle,titleStr):
 		f.write(dk.to_html(header=False,border=0,bold_rows=False))
 		f.write('</body>')
 
-def ppIncomeByDepts(detailsfile):
-	#Find all sub depts generating income
-	o=subprocess.run(r"cat "+ shlex.quote(detailsfile.strip()) + ' | jq -r \'paths as $p|getpath($p) | select(scalars)| ($p | map(select(type=="string"))) + [.]|@csv\'' + r"| grep '\[.*\]\",\"Total'  | grep 2018 " ,shell=True, stdout=subprocess.PIPE, universal_newlines=True)
-	rows=[]
-	for i in csv.reader(o.stdout.splitlines()):
-		rows.append([i[2],i[5]])
-	df=p.DataFrame(rows)
-	#print(rows,file=sys.stderr)
-	try:
-		df[[0,2]]=df[0].str.split('[',expand=True)
-		df[2]=df[2].str.replace(']','')
-	except ValueError as e:
-		print(f'check {detailsfile.strip()} - dept subdept code not found - probably no Income')
-		return
-	
-	m={}
-	for dept in df[2].unique():
-		d=dept_map[dept_map[0] == int(dept[:2])]			
-		subdept=dept[2:]
-		if subdept.startswith('0'):
-			subdept=subdept[1]
-		m[dept]=d[d[1] == int(subdept)][2].iloc[0]
-	df.columns=['head','amt','code']
-	df['subdept']=df['code'].apply(lambda x:m[x])
-	with open(f'func_explorer/{rev_head}-depts.html','w') as f:
-		f.write('<body style="font-family:verdana,sans-serif;">')
-		f.write(f'<br>--Income Sources (Revenue)<br>')
-		f.write(df.to_html(index=False,border=0,columns=['head','amt','subdept']))
-		f.write('</body>')	
-
-def SubDeptsBreakup(titleStr, head):
-	#note this catches head at start of line only
-	#o=subprocess.run(r"grep -Ir '^"+head+"' data/expenditure --exclude-dir=tmp",shell=True, stdout=subprocess.PIPE, universal_newlines=True)	
-	#this catches head anywhere - esp all occurrences within dpcode
-	o=subprocess.run(r"grep -Ir '"+head+"' data/expenditure --exclude-dir=tmp",shell=True, stdout=subprocess.PIPE, universal_newlines=True)	
-	d,v,ta=parseResults(o)
-	pp(d,v,head,titleStr)
-	#print(f'<b>{format_indian(ta*1000)}</b>')
-
 dept_map=p.read_csv('tn_dept2subdept_map',header=None)
-rev_head=None
-if int(sys.argv[1][0])%2 == 0:
-	rev_head='0'+sys.argv[1][1:]
-	revex_head='2'+sys.argv[1][1:]
-	capex_head='4'+sys.argv[1][1:]
-	loan_head='6'+sys.argv[1][1:]
-if int(sys.argv[1][0])%2==1:
-	rev_head='1'+sys.argv[1][1:]
-	revex_head='3'+sys.argv[1][1:]
-	capex_head='5'+sys.argv[1][1:]
-	loan_head='7'+sys.argv[1][1:]
-# todo handle 8 ? 
+sdfiles=listdir('subd_render/')
+sdfilesmap=dict([(i.replace('_','').replace('-','').replace(' ','').replace(',','').replace('.html',''),i)for i in sdfiles])
+found=0
+def getSubDFilename(dcode,subcode,subname):
+	key=str(int(dcode))+str(int(subcode))+subname.replace(' ','').replace('-','').replace('_','').replace(',','')
+	if key in sdfilesmap:
+		global found
+		found=found+1
+		return sdfilesmap[key]
+	else:
+		key=str(int(dcode))+'0'+str(int(subcode))+subname.replace(' ','').replace('-','').replace(',','')
+		if key in sdfilesmap:
+			found=found+1
+			return sdfilesmap[key]
+		else:
+			print(key, 'didnt match filenames')
+			return ''
 
+def makeIndex():
+	with open('dept_index.html','a') as f:
+		f.write('<body style="font-family:sans-serif;"><div>Dept Index</div>')
+		for code,name in dept_map[dept_map[1].isna()][[0,2]].itertuples(index=False):
+			f.write(f'<div><a href="dept_summaries/{code}.html" target="details">{name.strip().title()}</a></div>')
+		f.write('</body>')
 
-#if len(sys.argv) > 2:
-#	if sys.argv[2] == 'Expenditure':
-SubDeptsBreakup("Expenditure day to day (revex)", revex_head)
+def makeSummaries():
+	for code,name in dept_map[dept_map[1].isna()][[0,2]].itertuples(index=False):
+		with open(f'dept_summaries/{code}.html','a') as f:
+			f.write(f'<body style="font-family:sans-serif;"><div><a href=../startpage.html target=details>Home</a>&nbsp;<b>{name.strip().title()}</b></div>')
+			#get subdepts and link to them
+			for dcode,subcode,subname in dept_map[dept_map[0]==code].iloc[1:].itertuples(index=False):
+				f.write(f'<div><a target=details href="../subd_render/{getSubDFilename(dcode,subcode,subname)}" target="details">{subname.strip().title()}</a></div>')
+			f.write('</body>')
+	print(len(sdfiles),found)		
 
-#	if sys.argv[2] == 'Investment':
-SubDeptsBreakup('Investments (capex)',capex_head)
-
-#	if sys.argv[2] == 'Loans':
-SubDeptsBreakup('Loans',loan_head)
-#else:
-o=subprocess.run( ['ls -1 data/revenue/breakup/'+rev_head+'*'],shell=True, stdout=subprocess.PIPE, universal_newlines=True)
-ppIncomeByDepts(o.stdout)
-
+#rm old files
+try:
+	subprocess.run(r'rm dept_index.html dept_summaries/*',shell=True)
+except Exception as e:
+	pass
+		
+makeIndex()
+makeSummaries()

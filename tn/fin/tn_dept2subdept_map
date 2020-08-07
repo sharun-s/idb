@@ -1,19 +1,19 @@
 1,,STATE LEGISLATURE 
 1,1,State Legislature 
 2,,GOVERNOR AND COUNCIL OF MINISTERS
-2,1,"Governor's Secretariat" 
-2,2,"Governor's Household"
+2,1,"Governors Secretariat" 
+2,2,"Governors Household"
 2,3,Council of Ministers 
 3,,ADMINISTRATION OF JUSTICE
-3,1,Administration of Justice 
-3,2,Tamilnadu State Legal Services Authority 
+3,1,Administration Of Justice 
+3,2,TN State Legal Services Authority 
 4,,ADI-DRAVIDAR AND TRIBAL WELFARE DEPARTMENT
 4,1,Secretariat 
-4,2,Directorate of Adi Dravidar Welfare
-4,3,Directorate of Tribal Welfare 
+4,2,Directorate Of Adi Dravidar Welfare
+4,3,Directorate Of Tribal Welfare 
 5,,AGRICULTURE DEPARTMENT
 5,1,Secretariat 
-5,2,Directorate of Agriculture
+5,2,Directorate Of Agriculture
 5,3,Directorate of Agricultural Marketing and Agri Business 
 5,4,Directorate of Seed Certification
 5,5,Directorate of Horticulture and Plantation Crops 
@@ -24,7 +24,7 @@
 6,,"ANIMAL HUSBANDRY "
 6,1,Secretariat 
 6,2,Directorate of Animal Husbandry
-6,3,Tamil Nadu Veterinary and Animal Sciences University 
+6,3,TamilNadu Veterinary and Animal Sciences University 
 7,,"FISHERIES "
 7,1,Directorate of Fisheries 
 8,,"DAIRY DEVELOPMENT"
@@ -33,7 +33,7 @@
 9,,"BACKWARD CLASSES, MOST BACKWARD CLASSES AND MINORITIES WELFARE DEPARTMENT"
 9,1,Secretariat 
 9,2,Directorate of Backward Classes  Welfare
-9,3,Directorate of Most Backward Classes & Denotified Communities Welfare
+9,3,Directorate of Most Backward Classes and Denotified Communities Welfare
 9,4,Backward Classes Commission 
 9,5,State Minorities Commission 
 9,6,Directorate of Minorities Welfare
@@ -103,19 +103,19 @@
 21,1,Secretariat
 21,2,Chief Engineer - National Highways
 21,3,Chief Engineer (Construction & Maintenance) - Highways
-21,4,Chief Engineer (Highways) - Projects
+21,4,Chief Engineer Highways - Projects
 21,5,Project Director - Tamilnadu Road Sector Project
 21,6,Highways Research Station 
 21,7,Chief Engineer (Highways) - NABARD and Rural Roads
-21,8,"Highways, Planning, Designs & Investigation"
+21,8,"Highways, Planning, Designs Investigation"
 21,9,Tamilnadu Maritime Board 
 21,10,Chief Engineer (Metro)
 21,11,"Director General, Highways Department"
 22,,"POLICE "
 22,1,Secretariat
 22,2,Director General of Police
-22,3,"Commissioner of Police, Chennai"
-22,4,"Protection of Civil Rights, (IGP)"
+22,3,"Commissioner of Police Chennai"
+22,4,"Protection of Civil Rights"
 22,5,Directorate of Prosecution 
 22,6,Directorate of Civil Defence
 22,7,Police Training College (DGP)
@@ -125,13 +125,13 @@
 23,,"FIRE AND RESCUE SERVICES "
 23,1,Directorate of Fire and Rescue Services 
 24,,"PRISONS  "
-24,1,Prisons (IGP) 
+24,1,Prisons 
 25,,"MOTOR VEHICLES ACTS-ADMINISTRATION "
 25,1,Commissionerate of Transport 
 26,,HOUSING AND URBAN DEVELOPMENT DEPARTMENT
 26,1,Secretariat
 26,2,Directorate of Town and Country Planning 
-26,3,Registrar of Co-operative Societies (Housing)
+26,3,Registrar of Co-operative Societies Housing
 26,4,Chennai Metropolitan Development Authority 
 26,5,Tamilnadu Housing Board
 26,6,Tamilnadu Slum Clearance Board 
@@ -159,11 +159,11 @@
 32,2,Commissionerate of Labour 
 32,3,Directorate of Employment and Training
 32,4,Directorate of Industrial Safety and Health 
-32,5,Directorate of Medical and Rural Health Services (ESIS) 
+32,5,Directorate of Medical and Rural Health Services 
 33,,LAW DEPARTMENT
 33,1,Secretariat
 33,2,Directorate of Legal Studies 
-33,3,State Official Language (Legislation) Commission
+33,3,State Official Language Legislation Commission
 33,4,Tamilnadu Dr. Ambedkar Law University
 33,5,State Law Commission 
 34,,MUNICIPAL ADMINISTRATION AND WATER SUPPLY DEPARTMENT
@@ -194,7 +194,7 @@
 37,2,Advisory Board Constituted under Bootlegger Act 1982 
 38,,PUBLIC DEPARTMENT
 38,1,Secretariat
-38,2,Chief Electoral Officer & Secretary to Government
+38,2,Chief Electoral Officer and Secretary to Government
 38,3,Directorate of Ex-Servicemen
 38,4,Commissionerate of Rehabilitation and Welfare of Non-Resident Tamils
 38,5,Tamilnadu House at New Delhi 
@@ -205,7 +205,7 @@
 40,,IRRIGATION (Public Works Department)
 40,1,Public Works - Irrigation
 40,2,Public Works -Ground Water
-40,3,"Project Director, IAMWARM"
+40,3,"Project Director IAMWARM"
 40,4,Directorate of Boilers 
 40,5,Institute of Water Studies 
 41,,REVENUE AND DISASTER MANAGEMENT DEPARTMENT
@@ -227,11 +227,11 @@
 43,4,Directorate of Government Examination
 43,5,Directorate of Public Libraries 
 43,6,Directorate of Non-Formal and Adult Education
-43,7,"State Council of Educational, Research and Training"
+43,7,"State Council of Educational Research and Training"
 43,8,Samagra Shiksha Abhiyan 
 43,9,Teachers Recruitment Board 
 43,10,Directorate of Matriculation Schools 
-43,11,Rashtriya Madhyamik Shiksha Abhiyan (RMSA) 
+43,11,Rashtriya Madhyamik Shiksha Abhiyan 
 44,,"MICRO, SMALL AND MEDIUM ENTERPRISES DEPARTMENT"
 44,1,Secretariat
 44,2,Commissionerate of Industries and Commerce 
