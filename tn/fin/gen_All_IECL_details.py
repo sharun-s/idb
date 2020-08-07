@@ -18,6 +18,10 @@ import csv
 
 # prevents text columns in dumped html getting trimmed
 p.set_option('display.max_colwidth', -1)
+try:
+	subprocess.run(r'rm income_index.html loan_index.html revex_index.html capex_index.html income_explorer/* investment_explorer/* expense_explorer/* loan_explorer/*',shell=True)
+except Exception as e:
+	pass
 
 def fexp(number):
     (sign, digits, exponent) = Decimal(number).as_tuple()
