@@ -208,11 +208,9 @@ AA,Contribution to Kanyakumari Devasthanam Fund - charged,,,,,2250 00 103 AA 300
 AA,Total AA Charged,"6,00,00","3,00,00","3,00,00","3,00,00",
 #,State's Expenditure Total Charged,"6,00,00","3,00,00","3,00,00","3,00,00",
 103,Total 103 Charged,"6,00,00","3,00,00","3,00,00","3,00,00",
-797,Transfer from Reserve,,,,,
-Fund / Deposit Account,,,,,,
+797,Transfer from Reserve Fund / Deposit Account,,,,,
 #,State's Expenditure,,,,,
-AB,Transfer to the Hindu Religious and Charitable,,,,,
-Endowments Fund,,,,2250 00 797 AB 30000,,
+AB,Transfer to the Hindu Religious and Charitable Endowments Fund,,,,,2250 00 797 AB 30000
 330,Inter-Account Transfers,"1,39,72,10","1,79,14,99","1,51,42,03","1,66,56,20",2250 00 797 AB 33000
 01,Inter-Account Transfers,"1,39,72,10","1,79,14,99","1,51,42,03","1,66,56,20",225000 797 AB 33001
 AB,Total AB,"1,39,72,10","1,79,14,99","1,51,42,03","1,66,56,20",
@@ -225,11 +223,11 @@ AA,Religious and Charitable Institutions in the merged Areas,,,,,2250 00 800 AA 
 03,Grants for Specific Schemes,"1,00,00","1,00,00","1,00,00","1,00,00
 2250,00 800 AA 30903",
 AA,Total AA,"1,00,00","1,00,00","1,00,00","1,00,00",
-AB,Repairs to Temples,,,,2250 00 800 AB 30000,
+AB,Repairs to Temples,,,,,2250 00 800 AB 30000
 309,Grants-in-Aid,"1,41,36","6,00,00","6,00,00","6,00,00",2250 00 800 AB 30900
 03,Grants for Specific Schemes,"1,41,36","6,00,00","6,00,00","6,00,00",2250 00 800 AB 30903
 AB,Total AB,"1,41,36","6,00,00","6,00,00","6,00,00",
-AP,Pension to Vedaparayanas,,,,2250 00 800 AP 30000,
+AP,Pension to Vedaparayanas,,,,,2250 00 800 AP 30000
 327,Pensions,60,76,76,76,2250 00 800 AP 32700
 05,Social Security Pensions,60,76,76,"76
 2250,00 800 AP 32705",

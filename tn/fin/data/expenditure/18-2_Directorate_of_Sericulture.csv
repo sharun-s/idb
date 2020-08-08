@@ -80,7 +80,7 @@ AB,Direction and Administration,,,,,2851 00 107 AB 30000
 01,Stores - Voted,"2,34","2,38","2,38","2,38",2851 00 107 AB 34701
 349,Festival Advances,24,,,,2851 00 107 AB 34900
 01,Festival Advances-Debit,"7,70","9,65","18,10","18,10",2851 00 107 AB 34901
-02,Festival Advances-Credit,"- 7,46","- 9,65","- 18,10","- 18,10",2851 00 107 AB 34902
+02,Festival Advances-Credit,"-7,46","-9,65","-18,10","-18,10",2851 00 107 AB 34902
 351,Compensation Charged,,2,26,2,2851 00 107 AB 35100
 51,Claims under no fault liability -  principal charges Charged,,1,1,1,2851 00 107 AB 35151
 52,Other Compensations Charged,,1,25,1,2851 00 107 AB 35152
@@ -121,7 +121,7 @@ AD,Sericulture Service and Extension Centres,,,,,2851 00 107 AD 30000
 01,Stores - Voted,5,6,6,6,2851 00 107 AD 34701
 349,Festival Advances,2,,,,2851 00 107 AD 34900
 01,Festival Advances-Debit,60,75,"1,30","1,30",2851 00 107 AD 34901
-02,Festival Advances-Credit,- 58,- 75,"- 1,30","- 1,30",2851 00 107 AD 34902
+02,Festival Advances-Credit,-58,-75,"-1,30","-1,30",2851 00 107 AD 34902
 364,Lands,,1,1,1,2851 00 107 AD 36400
 01,Lands - Voted,,1,1,1,2851 00 107 AD 36401
 369,Procurement of Agricultural Inputs,"1,48","1,50","1,50","1,50",2851 00 107 AD 36900
@@ -157,9 +157,9 @@ AE,Silk Reeling Units in the State,,,,,2851 00 107 AE 30000
 04,Contract Payment,,"86,20","93,81","93,81",2851 00 107 AE 33304
 347,Stores and Equipments,7,7,7,7,2851 00 107 AE 34700
 01,Stores - Voted,7,7,7,7,2851 00 107 AE 34701
-349,Festival Advances,- 22,,,,2851 00 107 AE 34900
+349,Festival Advances,-22,,,,2851 00 107 AE 34900
 01,Festival Advances-Debit,"1,90","2,05","3,75","3,75",2851 00 107 AE 34901
-02,Festival Advances-Credit,"- 2,12","- 2,05","- 3,75","- 3,75",2851 00 107 AE 34902
+02,Festival Advances-Credit,"-2,12","-2,05","-3,75","-3,75",2851 00 107 AE 34902
 373,Transport Charges,"3,83","3,90","3,67","3,67",2851 00 107 AE 37300
 01,Transport Charges,"3,83","3,90","3,67","3,67",2851 00 107 AE 37301
 AE,Total AE,"6,81,63","7,25,32","6,90,14","7,10,80",
@@ -195,7 +195,7 @@ AG,Cocoon Market in the State,,,,,2851 00 107 AG 30000
 01,Stores - Voted,37,38,38,38,2851 00 107 AG 34701
 349,Festival Advances,6,,,,2851 00 107 AG 34900
 01,Festival Advances-Debit,"1,70","1,90","3,60","3,60",2851 00 107 AG 34901
-02,Festival Advances-Credit,"- 1,64","- 1,90","- 3,60","- 3,60",2851 00 107 AG 34902
+02,Festival Advances-Credit,"-1,64","-1,90","-3,60","-3,60",2851 00 107 AG 34902
 371,Printing Charges,9,7,1,1,2851 00 107 AG 37100
 01,Printing Charges,9,7,1,1,2851 00 107 AG 37101
 373,Transport Charges,10,11,11,11,2851 00 107 AG 37300
@@ -233,7 +233,7 @@ AO,Large Scale Silk Farms in the State,,,,,2851 00 107 AO 30000
 01,Stores - Voted,61,62,62,62,2851 00 107 AO 34701
 349,Festival Advances,38,,,,2851 00 107 AO 34900
 01,Festival Advances-Debit,"5,70","6,20","11,30","11,30",2851 00 107 AO 34901
-02,Festival Advances-Credit,"- 5,32","- 6,20","- 11,30","- 11,30",2851 00 107 AO 34902
+02,Festival Advances-Credit,"-5,32","-6,20","-11,30","-11,30",2851 00 107 AO 34902
 369,Procurement of Agricultural Inputs,"7,94","10,35","8,43","8,43",2851 00 107 AO 36900
 01,Procurement of Agricultural Inputs,"7,94","10,35","8,43","8,43",2851 00 107 AO 36901
 373,Transport Charges,54,60,56,56,2851 00 107 AO 37300
@@ -267,9 +267,9 @@ AY,Training Centre,,,,,2851 00 107 AY 30000
 04,Contract Payment,,"26,78","22,89","22,89",2851 00 107 AY 33304
 347,Stores and Equipments,15,45,16,16,2851 00 107 AY 34700
 01,Stores - Voted,15,45,16,16,2851 00 107 AY 34701
-349,Festival Advances,- 13,,,,2851 00 107 AY 34900
+349,Festival Advances,-13,,,,2851 00 107 AY 34900
 01,Festival Advances-Debit,"1,96","2,55","3,90","3,90",2851 00 107 AY 34901
-02,Festival Advances-Credit,"- 2,09","- 2,55","- 3,90","- 3,90",2851 00 107 AY 34902
+02,Festival Advances-Credit,"-2,09","-2,55","-3,90","-3,90",2851 00 107 AY 34902
 369,Procurement of Agricultural Inputs,"3,18",45,"3,49","3,49",2851 00 107 AY 36900
 01,Procurement of Agricultural Inputs,"3,18",45,"3,49","3,49",2851 00 107 AY 36901
 372,Training,"2,00","2,00","2,00","2,00",2851 00 107 AY 37200
@@ -293,9 +293,9 @@ AZ,Expansion of Grainage activities in the State,,,,,2851 00 107 AZ 30000
 306,"Rent, Rates and Taxes","4,97","5,02","7,17","7,17",2851 00 107 AZ 30600
 02,Property tax,"4,52","4,52","6,80","6,80",2851 00 107 AZ 30602
 03,Water Charges,45,50,37,37,2851 00 107 AZ 30603
-349,Festival Advances,- 10,,,,2851 00 107 AZ 34900
+349,Festival Advances,-10,,,,2851 00 107 AZ 34900
 01,Festival Advances-Debit,"2,62","3,10","5,90","5,90",2851 00 107 AZ 34901
-02,Festival Advances-Credit,"- 2,72","- 3,10","- 5,90","- 5,90",2851 00 107 AZ 34902
+02,Festival Advances-Credit,"-2,72","-3,10","-5,90","-5,90",2851 00 107 AZ 34902
 AZ,Total AZ,"2,85,56","3,12,39","2,64,92","3,01,81",
 BA,Schemes for Re-organisation of Silk Worm Seed Production Programme,,,,,2851 00 107 BA 30000
 301,Salaries,"4,70,26","4,64,62","3,97,93","4,28,40",2851 00 107 BA 30100
@@ -328,9 +328,9 @@ BA,Schemes for Re-organisation of Silk Worm Seed Production Programme,,,,,2851 0
 01,"Clothing, Tentage and Stores",6,6,7,7,2851 00 107 BA 34601
 347,Stores and Equipments,51,51,54,54,2851 00 107 BA 34700
 01,Stores - Voted,51,51,54,54,2851 00 107 BA 34701
-349,Festival Advances,- 74,,,,2851 00 107 BA 34900
+349,Festival Advances,-74,,,,2851 00 107 BA 34900
 01,Festival Advances-Debit,"5,40","5,90","11,80","11,80",2851 00 107 BA 34901
-02,Festival Advances-Credit,"- 6,14","- 5,90","- 11,80","- 11,80",2851 00 107 BA 34902
+02,Festival Advances-Credit,"-6,14","-5,90","-11,80","-11,80",2851 00 107 BA 34902
 369,Procurement of Agricultural Inputs,"9,33","10,61","9,49","9,49",2851 00 107 BA 36900
 01,Procurement of Agricultural Inputs,"9,33","10,61","9,49","9,49",2851 00 107 BA 36901
 373,Transport Charges,65,74,97,97,2851 00 107 BA 37300
@@ -359,9 +359,9 @@ BB,Establishment of Sericulture Extension and Development Centre,,,,,2851 00 107
 03,Water Charges,4,17,4,4,2851 00 107 BB 30603
 347,Stores and Equipments,17,19,20,20,2851 00 107 BB 34700
 01,Stores - Voted,17,19,20,20,2851 00 107 BB 34701
-349,Festival Advances,- 3,,,,2851 00 107 BB 34900
+349,Festival Advances,-3,,,,2851 00 107 BB 34900
 01,Festival Advances-Debit,"12,88","17,10","34,30","34,30",2851 00 107 BB 34901
-02,Festival Advances-Credit,"- 12,91","- 17,10","- 34,30","- 34,30",2851 00 107 BB 34902
+02,Festival Advances-Credit,"-12,91","-17,10","-34,30","-34,30",2851 00 107 BB 34902
 359,Prizes and Awards,,,2,,2851 00 107 BB 35900
 01,Prizes and Awards,,,2,,2851 00 107 BB 35901
 BB,Total BB,"16,61,11","20,26,84","16,16,34","17,46,62",
@@ -405,47 +405,47 @@ JA,Total JA,"1,86,33","1,90,00","1,50,00","1,50,00",
 902,Deduct - Amount met from State Innovation Fund,,,,,
 #,State's Expenditure,,,,,
 JA,Deduct - Amount met from Sericulture Development and Price Stabilisation Fund,,,,,2851 00 902 JA 30000
-330,Inter-Account Transfers,"- 2,05,44","- 1,00,00","- 3,45,00","- 1,95,00",2851 00 902 JA 33000
-01,Inter-Account Transfers,"- 2,05,44","- 1,00,00","- 3,45,00","- 1,95,00",2851 00 902 JA 33001
-JA,Total JA,"- 2,05,44","- 1,00,00","- 3,45,00","- 1,95,00",
-#,State's Expenditure Total,"- 2,05,44","- 1,00,00","- 3,45,00","- 1,95,00",
-902,Total 902,"- 2,05,44","- 1,00,00","- 3,45,00","- 1,95,00",
+330,Inter-Account Transfers,"-2,05,44","-1,00,00","-3,45,00","-1,95,00",2851 00 902 JA 33000
+01,Inter-Account Transfers,"-2,05,44","-1,00,00","-3,45,00","-1,95,00",2851 00 902 JA 33001
+JA,Total JA,"-2,05,44","-1,00,00","-3,45,00","-1,95,00",
+#,State's Expenditure Total,"-2,05,44","-1,00,00","-3,45,00","-1,95,00",
+902,Total 902,"-2,05,44","-1,00,00","-3,45,00","-1,95,00",
 911,Deduct - Recoveries of Overpayments,,,,,
 #,State's Expenditure,,,,,
 AD,Sericulture Service and Extension Centres,,,,,2851 00 911 AD 30000
-377,Deduct-Recoveries,"- 4,14",,,,2851 00 911 AD 37700
-02,Recoveries of Overpayments / Remittance of excess drawals,"- 4,14",,,,2851 00 911 AD 37702
-AD,Total AD,"- 4,14",,,,
+377,Deduct-Recoveries,"-4,14",,,,2851 00 911 AD 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-4,14",,,,2851 00 911 AD 37702
+AD,Total AD,"-4,14",,,,
 AE,Silk Reeling Units in the State,,,,,2851 00 911 AE 30000
-377,Deduct-Recoveries,"- 3,60",,,,2851 00 911 AE 37700
-03,Other Recoveries,"- 3,60",,,,2851 00 911 AE 37703
-AE,Total AE,"- 3,60",,,,
+377,Deduct-Recoveries,"-3,60",,,,2851 00 911 AE 37700
+03,Other Recoveries,"-3,60",,,,2851 00 911 AE 37703
+AE,Total AE,"-3,60",,,,
 AG,Cocoon Market in the State,,,,,2851 00 911 AG 30000
-377,Deduct-Recoveries,"- 1,36",,,,2851 00 911 AG 37700
-03,Other Recoveries,"- 1,36",,,,2851 00 911 AG 37703
-AG,Total AG,"- 1,36",,,,
+377,Deduct-Recoveries,"-1,36",,,,2851 00 911 AG 37700
+03,Other Recoveries,"-1,36",,,,2851 00 911 AG 37703
+AG,Total AG,"-1,36",,,,
 AX,Direction and Administration,,,,,2851 00 911 AX 30000
-377,Deduct-Recoveries,- 14,,,,2851 00 911 AX 37700
-03,Other Recoveries,- 14,,,,2851 00 911 AX 37703
-AX,Total AX,- 14,,,,
+377,Deduct-Recoveries,-14,,,,2851 00 911 AX 37700
+03,Other Recoveries,-14,,,,2851 00 911 AX 37703
+AX,Total AX,-14,,,,
 AZ,Expansion of Grainage activities in the State,,,,,2851 00 911 AZ 30000
-377,Deduct-Recoveries,"- 5,00",,,,2851 00 911 AZ 37700
-03,Other Recoveries,"- 5,00",,,,2851 00 911 AZ 37703
-AZ,Total AZ,"- 5,00",,,,
+377,Deduct-Recoveries,"-5,00",,,,2851 00 911 AZ 37700
+03,Other Recoveries,"-5,00",,,,2851 00 911 AZ 37703
+AZ,Total AZ,"-5,00",,,,
 BA,Schemes for Re-organisation of Silk Worm Seed Production Programme,,,,,2851 00 911 BA 30000
-377,Deduct-Recoveries,"- 2,01",,,,2851 00 911 BA 37700
-03,Other Recoveries,"- 2,01",,,,2851 00 911 BA 37703
-BA,Total BA,"- 2,01",,,,
+377,Deduct-Recoveries,"-2,01",,,,2851 00 911 BA 37700
+03,Other Recoveries,"-2,01",,,,2851 00 911 BA 37703
+BA,Total BA,"-2,01",,,,
 BB,Establishment of Sericulture Extension and Development Centre,,,,,2851 00 911 BB 30000
-377,Deduct-Recoveries,"- 4,40",,,,2851 00 911 BB 37700
-03,Other Recoveries,"- 4,40",,,,2851 00 911 BB 37703
-BB,Total BB,"- 4,40",,,,
-KG,Scheme for Mulberry Expansion, Administration and Monitoring,,,,2851 00 911 KG 30000
-377,Deduct-Recoveries,"- 28,21",,,,2851 00 911 KG 37700
-02,Recoveries of Overpayments / Remittance of excess drawals,"- 28,21",,,,2851 00 911 KG 37702
-KG,Total KG,"- 28,21",,,,
-#,State's Expenditure Total,"- 48,86",,,,
-911,Total 911,"- 48,86",,,,
+377,Deduct-Recoveries,"-4,40",,,,2851 00 911 BB 37700
+03,Other Recoveries,"-4,40",,,,2851 00 911 BB 37703
+BB,Total BB,"-4,40",,,,
+KG,Scheme for Mulberry Expansion Administration and Monitoring,,,,,2851 00 911 KG 30000
+377,Deduct-Recoveries,"-28,21",,,,2851 00 911 KG 37700
+02,Recoveries of Overpayments / Remittance of excess drawals,"-28,21",,,,2851 00 911 KG 37702
+KG,Total KG,"-28,21",,,,
+#,State's Expenditure Total,"-48,86",,,,
+911,Total 911,"-48,86",,,,
 00,Total 00 Charged,,2,26,2,
 00,Total 00 Voted,"81,53,63","73,13,61","78,21,28","73,08,59",
 2851,Total 2851 Charged,,2,26,2,

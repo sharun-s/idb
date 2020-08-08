@@ -720,12 +720,12 @@ JO,Starting of new Industrial Training Institutes for women,,,,,2230 03 101 JO 3
 02,Maintenance,21,25,15,15,2230 03 101 JO 37602
 03,Stationery,20,20,20,20,2230 03 101 JO 37603
 JO,Total JO,"1,35,52","1,54,32","1,59,49","1,78,95",
-JP,Starting of Short TermTraining Course in ITI2230 03 101 JP 30000,,,,,
+JP,Starting of Short TermTraining Course in ITI,,,,,2230 03 101 JP 30000
 319,Machinery and Equipments,,,64,1,2230 03 101 JP 31900
 01,Purchase,,,64,1,2230 03 101 JP 31901
 324,Materials and Supplies,,1,1,1,2230 03 101 JP 32400
 01,Materials and Supplies,,1,1,1,2230 03 101 JP 32401
-JP,Total JP,1,65,2,,
+JP,Total JP,,1,65,2,
 JQ,Introduction of knitwear Training Courses under Assistance to States for Developing Export Infrastructure and Allied Activities (ASIDE),,,,,2230 03 101 JQ 30000
 324,Materials and Supplies,48,80,80,80,2230 03 101 JQ 32400
 01,Materials and Supplies,48,80,80,80,2230 03 101 JQ 32401
@@ -767,7 +767,7 @@ JR,Starting of new Industrial Training Institute at Nagalapuram,,,,,2230 03 101 
 376,Computer and Accessories,15,15,15,15,2230 03 101 JR 37600
 03,Stationery,15,15,15,15,2230 03 101 JR 37603
 JR,Total JR,"77,48","91,21","93,76","1,02,49",
-JS,Supply of Uniforms andShoes to ITI Students2230 03 101 JS 30000,,,,,
+JS,Supply of Uniforms andShoes to ITI Students,,,,,2230 03 101 JS 30000
 324,Materials and Supplies,"1,47,14","2,64,54","2,80,91","2,79,44",2230 03 101 JS 32400
 01,Materials and Supplies,"1,47,14","2,64,54","2,80,91","2,79,44",2230 03 101 JS 32401
 JS,Total JS,"1,47,14","2,64,54","2,80,91","2,79,44",
@@ -931,7 +931,7 @@ KE,Simulator based welder Training in Government Industrial Training Institute,,
 319,Machinery and Equipments,"1,16,79",1,"44,45",,2230 03 101 KE 31900
 01,Purchase,"1,16,79",1,"44,45",,2230 03 101 KE 31901
 KE,Total KE,"1,30,51","11,60","58,47",,
-KF,Starting of AssistantDirector Offices2230 03 101 KF 30000,,,,,
+KF,Starting of AssistantDirector Offices,,,,,2230 03 101 KF 30000
 301,Salaries,"2,09,04","6,18,73","10,93,09","11,35,14",2230 03 101 KF 30100
 01,Pay,"1,94,19","5,60,88","10,13,41","10,53,95",2230 03 101 KF 30101
 02,Medical Allowance,"1,11","3,05","5,89","6,31",2230 03 101 KF 30102

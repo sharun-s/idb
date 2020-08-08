@@ -3,7 +3,7 @@ head,desc,2018,2019Est,2019Rev,2020Est,dpcode
 60,Other Social Security and Welfare Programmes,,,,,
 200,Other Programmes,,,,,
 #,State's Expenditure,,,,,
-AK,Directorate of Ex-Service men's Welfare,,,,,2235 60 200 AK 30000
+AK,"Directorate of Ex-Service men's Welfare",,,,,2235 60 200 AK 30000
 301,Salaries,"2,37,02","2,52,70","2,78,94","2,88,89",2235 60 200 AK 30100
 01,Pay,"2,07,40","2,21,53","2,45,50","2,55,32",2235 60 200 AK 30101
 02,Medical Allowance,"1,64","1,71","1,94","1,94",2235 60 200 AK 30102
@@ -103,8 +103,8 @@ AN,Grants to Members of the Fighting Services for Conspicuous Gallantry in the F
 309,Grants-in-Aid,"1,03,45","1,31,50","1,31,50","89,95",2235 60 200 AN 30900
 09,Others,"1,03,45","1,31,50","1,31,50","89,95",2235 60 200 AN 30909
 AN,Total AN,"1,03,45","1,31,50","1,31,50","89,95",
-AP,"Specialised Coaching for recruitment in Defence Forces,,,,,2235 60 200 AP 30000
-304,Travel Expenses,,1","16""",1,1,2235 60 200 AP 30400,
+AP,"Specialised Coaching for recruitment in Defence Forces",,,,,2235 60 200 AP 30000
+304,Travel Expenses,,"1,16",1,1,2235 60 200 AP 30400
 03,Fixed Travelling Allowances,,"1,16",1,1,2235 60 200 AP 30403
 305,Office Expenses,,2,1,1,2235 60 200 AP 30500
 02,Other Contingencies,,2,1,1,2235 60 200 AP 30502

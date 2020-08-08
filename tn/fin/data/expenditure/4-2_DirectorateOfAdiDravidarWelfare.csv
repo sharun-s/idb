@@ -494,7 +494,7 @@ SF,Government of India Pre-Matric Scholarship,,,,,2225 01 277 SF 30000
 312,Scholarships and Stipends,"59,42,89","1,02,63,81","78,88,00","84,00,02",2225 01 277 SF 31200
 01,Pre-Matric,"59,42,89","1,02,63,81","78,88,00","84,00,02",2225 01 277 SF 31201
 SF,Total SF,"59,42,89","1,02,63,81","78,88,00","84,00,02",
-#Central Sector Schemes,Total,"14,09,35,39","7,37,45,11","2,85,51,73","3,51,43,16",
+#,Central Sector Schemes Total,"14,09,35,39","7,37,45,11","2,85,51,73","3,51,43,16",
 277,Total 277,"28,08,89,27","28,48,34,86","29,81,62,67","29,93,13,33",
 283,Housing,,,,,
 #State's Expenditure,,,,,,
@@ -511,8 +511,8 @@ JA,House sites / Infrastructure facilities for Adi-Dravidars,,,,,2225 01 283 JA 
 51,Lands Charged,"14,00,00","19,82,45","20,00,00",2225 01 283 JA 36451,
 JA,Total JA Charged,"14,00,00","19,82,45","20,00,00",,
 JA,Total JA Voted,"27,90,56","7,71,50","7,71,50","7,71,50",
-#State's Expenditure Total Charged,"14,00,00","19,82,45","20,00,00",,,
-#State's Expenditure Total Voted,"27,90,56","7,71,50","7,71,50","7,71,50",,
+#,State's Expenditure Total Charged,"14,00,00","19,82,45","20,00,00",,
+#,State's Expenditure Total Voted,"27,90,56","7,71,50","7,71,50","7,71,50",
 283,Total 283 Charged,"14,00,00","19,82,45","20,00,00",,
 283,Total 283 Voted,"27,90,56","7,71,50","7,71,50","7,71,50",
 793,Special Central Assistance for Scheduled Caste Component Plan Central Sector Schemes Central Sector Sechemes,,,,,
@@ -524,7 +524,7 @@ SD,Infrastructure Development in Scheduled Castes dominated blocks / villages un
 318,Maintenance,,1,1,1,2225 01 793 SD 31800
 02,Special Maintenance,,1,1,1,2225 01 793 SD 31802
 SD,Total SD,1,1,1,,
-#Central Sector Schemes,Total,"88,33,00","1,35,00,01","1,00,00,01","1,35,00,01",
+#,Central Sector Schemes Total,"88,33,00","1,35,00,01","1,00,00,01","1,35,00,01",
 793,Total 793,"88,33,00","1,35,00,01","1,00,00,01","1,35,00,01",
 800,Other Expenditure,,,,,
 #State's Expenditure,,,,,,
@@ -825,20 +825,20 @@ SB,Construction of Girls Hostels for Scheduled Caste / Scheduled Tribes Students
 416,Major Works,,1,1,1,4225 01 277 SB 41600
 01,Major Works,,1,1,1,4225 01 277 SB 41601
 SB,Total SB,1,1,1,,
-#Central Sector Schemes Total,,1,1,1,,
-#Schemes shared between State and Centre,,,,,,
+#,Central Sector Schemes Total,1,1,1,,
+#,Schemes shared between State and Centre,,,,,
 UA,Construction of Buildings for Government Boys Hostels for Scheduled Castes,,,,,4225 01 277 UA 40000
 416,Major Works,,1,1,1,4225 01 277 UA 41600
 01,Major Works,,1,1,1,4225 01 277 UA 41601
 UA,Total UA,1,1,1,,
-#Schemes shared between State and Centre Total,,1,1,1,,
+#,Schemes shared between State and Centre Total,1,1,1,,
 277,Total 277,"25,84,27","1,00,00,09","69,50,64","1,49,62,56",
 793,Special Central Assistance for Scheduled Caste Component Plan Central Sector Schemes Central Sector Sechemes,,,,,
 SA,Infrastructure Development in Scheduled Castes dominated blocks / villages under Scheduled Castes Sub Plan,,,,,4225 01 793 SA 40000
 416,Major Works,,1,1,1,4225 01 793 SA 41600
 01,Major Works,,1,1,1,4225 01 793 SA 41601
 SA,Total SA,1,1,1,,
-#Central Sector Schemes,Total,,1,1,1,
+#,Central Sector Schemes Total,,1,1,1,
 793,Total 793,1,1,1,,
 800,Other Expenditure State's Expenditure,,,,,
 JA,Construction of Community Halls,,,,,4225 01 800 JA 40000

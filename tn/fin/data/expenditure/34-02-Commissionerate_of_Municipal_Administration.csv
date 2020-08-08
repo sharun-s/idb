@@ -7,7 +7,7 @@ AI,Grants in Aid towards amount due by Municipalities for repayment of Consolida
 309,Grants-in-Aid,,1,1,1,2215 01 191 AI 30900
 04,Grants for Debt Servicing,,1,1,1,2215 01 191 AI 30904
 AI,Total AI,1,1,1,,
-AJ,Special Grant to IdappadyMunicipality2215 01 191 AJ 30000,,,,,
+AJ,Special Grant to Idappady Municipality,,,,,2215 01 191 AJ 30000
 309,Grants-in-Aid,,,"9,29,00",1,2215 01 191 AJ 30900
 01,Grants for Current Expenditure,,,"9,29,00",1,2215 01 191 AJ 30901
 AJ,Total AJ,,"9,29,00",1,,
@@ -757,17 +757,16 @@ UA,Total UA,"11,65,10,30","14,50,00,00","12,34,40,00","14,50,00,00",
 6217,LOANS FOR URBAN DEVELOPMENT,,,,,
 60,Other Urban Development Schemes,,,,,
 190,Loans to Public Sector,,,,,
-#,Externally Aided Projects Externally Aided Project,,,,,
+#,Externally Aided Projects,,,,,
 PI,Loans to TNUDF for implementation of SMIF -TN-Phase -II Part I with the assistance of German Development Bank (KfW),,,,,6217 60 190 PI 50000
 502,Loan - Outgo,"49,73,00","14,59,00",,"14,59,00",6217 60 190 PI 50200
 01,Bearing Interest,"49,73,00","14,59,00",,"14,59,00",6217 60 190 PI 50201
 PI,Total PI,"49,73,00","14,59,00",,"14,59,00",
-PJ,Loans to TNUDF for implementation of Sustainable Municipal Infrastructure Financing in Tamil Nadu - Phase -,,,,,
-II,Part 2 with the assistance of German Development Bank (KfW),,,,,6217 60 190 PJ 50000
+PJ,"Loans to TNUDF for implementation of Sustainable Municipal Infrastructure Financing in Tamil Nadu - Phase - II,Part 2 with the assistance of German Development Bank (KfW)",,,,,6217 60 190 PJ 50000
 502,Loan - Outgo,"75,00,00","42,36","20,00,00","50,00,00",6217 60 190 PJ 50200
 01,Bearing Interest,"75,00,00","42,36","20,00,00","50,00,00",6217 60 190 PJ 50201
 PJ,Total PJ,"75,00,00","42,36","20,00,00","50,00,00",
-PK,Loans to TNUDF  for Implementing World Bank Assisted Tamil Nadu Sustainable Urban Development Project (TNSUDP),,,,,6217 60 190 PK 50000
+PK,Loans to TNUDF for Implementing World Bank Assisted Tamil Nadu Sustainable Urban Development Project (TNSUDP),,,,,6217 60 190 PK 50000
 502,Loan - Outgo,"3,00,00,00","4,00,00,00","2,00,00,00","1,00,00,00",6217 60 190 PK 50200
 01,Bearing Interest,"3,00,00,00","4,00,00,00","2,00,00,00","1,00,00,00",6217 60 190 PK 50201
 PK,Total PK,"3,00,00,00","4,00,00,00","2,00,00,00","1,00,00,00",

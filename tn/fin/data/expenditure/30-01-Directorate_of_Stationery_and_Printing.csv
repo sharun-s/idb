@@ -525,12 +525,13 @@ BD,Total BD,"59,10","60,00","60,00","60,00",
 AH,Modernisation of Government Presses,,,,,4058 00 103 AH 40000
 419,Machinery and Equipments,"3,78,41",1,"65,04",1,4058 00 103 AH 41900
 01,Purchase,"3,78,41",1,"65,04",1,4058 00 103 AH 41901
-AH,otal AH,"3,78,41",1,"65,04",1,
+AH,Total AH,"3,78,41",1,"65,04",1,
 JA,"Government Central press, Chennai",,,,,4058 00 103 JA 40000
 416,Major Works,,,"1,65,95","70,64",4058 00 103 JA 41600
 01,Major Works,,,"1,65,95","70,64",4058 00 103 JA 41601
 419,Machinery and Equipments,"82,76",1,"53,42",1,4058 00 103 JA 41900
 01,Purchase,"82,76",1,"53,42",1,4058 00 103 JA 41901
+JA,Total JA,"82,76",1,"2,19,37","70,65"
 JB,"Government Branch Press, Madurai",,,,,4058 00 103 JB 40000
 416,Major Works,,1,,1,4058 00 103 JB 41600
 01,Major Works,,1,,1,4058 00 103 JB 41601

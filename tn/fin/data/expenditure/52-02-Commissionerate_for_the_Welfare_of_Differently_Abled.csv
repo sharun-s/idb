@@ -504,7 +504,7 @@ CO,Scheme for Rehabilitation of the Differently Abled Persons,,,,,2235 02 101 CO
 376,Computer and Accessories,,1,1,1,2235 02 101 CO 37600
 02,Maintenance,,1,1,1,2235 02 101 CO 37602
 CO,Total CO,"12,46,50","19,70,19","15,72,64","19,73,38",
-CP,Self-Employment forDifferently Abled Persons2235 02 101 CP 30000,,,,,
+CP,Self-Employment for Differently Abled Persons,,,,,2235 02 101 CP 30000
 309,Grants-in-Aid,"27,45","25,00","1,00,00","1,00,00",2235 02 101 CP 30900
 03,Grants for Specific Schemes,"27,45","25,00","1,00,00","1,00,00",2235 02 101 CP 30903
 370,Unemployment Relief,"3,78,88","5,00,00","3,81,36","4,00,00",2235 02 101 CP 37000
@@ -618,7 +618,7 @@ DH,Early Intervention Programme for the Children with development delay to the a
 372,Training,,1,1,1,2235 02 101 DH 37200
 01,Training,,1,1,1,2235 02 101 DH 37201
 DH,Total DH,4,4,4,,
-DI,State Fund for Personswith Disabilities2235 02 101 DI 30000,,,,,
+DI,State Fund for Persons with Disabilities,,,,,2235 02 101 DI 30000
 309,Grants-in-Aid,,"10,00,00","10,00,00","10,00,00",2235 02 101 DI 30900
 03,Grants for Specific Schemes,,"10,00,00","10,00,00","10,00,00",2235 02 101 DI 30903
 DI,Total DI,"10,00,00","10,00,00","10,00,00",,
@@ -937,7 +937,7 @@ CO,Scheme for Rehabilitation of the Differently Abled Persons,,,,,2235 02 911 CO
 377,Deduct-Recoveries,-24,,,,2235 02 911 CO 37700
 02,Recoveries of Overpayments / Remittance of excess drawals,-24,,,,2235 02 911 CO 37702
 CO,Total CO,-24,,,,
-CP,Self-Employment forDifferently Abled Persons2235 02 911 CP 30000,,,,,
+CP,Self-Employment for Differently Abled Persons,,,,,2235 02 911 CP 30000
 377,Deduct-Recoveries,-20,,,,2235 02 911 CP 37700
 02,Recoveries of Overpayments / Remittance of excess drawals,-20,,,,2235 02 911 CP 37702
 CP,Total CP,-20,,,,

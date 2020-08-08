@@ -2,7 +2,7 @@ head,desc,2018,2019Est,2019Rev,2020Est,dpcode
 2011,PARLIAMENT/STATE/ UNION TERRITORY LEGISLATURES,,,,,
 02,State/ Union Territory Legislatures,,,,, 
 101,"Legislative Assembly State's Expenditure",,,,, 
-AA,Pay of Speaker and Deputy Speaker,,,,2011 02 101 AA 30000 
+AA,Pay of Speaker and Deputy Speaker,,,,,2011 02 101 AA 30000 
 301,Salaries Charged,"26,42","20,90","20,90","20,90",2011 02 101 AA 30100
 01,Pay Charged,"10,72","7,20","7,20","7,20",2011 02 101 AA 30101
 03,Medical Charges Charged,,"2,00","2,00","2,00",2011 02 101 AA 30103
@@ -200,12 +200,12 @@ CU,Total CU,,,,"1,65,60",
 4059,CAPITAL OUTLAY ON PUBLIC WORKS,,,,,
 01,Office Buildings,,,,,
 052,Machinery and Equipment,,,,,
-#,"State's Expenditure" ,,,,,
+#,"State's Expenditure",,,,,
 AA,"Chiller plant with DX Air Handling unit (Air - Condition) to LAS",,,,,4059 01 052 AA 40000
 416,Major Works,,,"1,28,43",,4059 01 052 AA 41600
 01,Major Works,,,"1,28,43",,4059 01 052 AA 41601
-AA,Total,,,"1,28,43",,
-#State's Expenditure Total,,,"1,28,43",,
+AA,Total AA,,,"1,28,43",,
+#,State's Expenditure Total,,,"1,28,43",,
 052,Total 052,,,"1,28,43",,
 01,Total 01,,,"1,28,43",,
 4059,Total 4059,,,"1,28,43",,

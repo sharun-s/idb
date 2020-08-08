@@ -981,7 +981,7 @@ MR,Grants to MSME Association for setting up of Trade Facility Centre,,,,,2851 0
 309,Grants-in-Aid,,,1,1,2851 00 102 MR 30900
 03,Grants for Specific Schemes,,,1,1,2851 00 102 MR 30903
 MR,Total MR,,1,1,,
-MS,International Buyer -Seller Trade Meet2851 00 102 MS 30000,,,,,
+MS,International Buyer - Seller Trade Meet,,,,,2851 00 102 MS 30000
 309,Grants-in-Aid,,"10,00,00",1,"10,00,00",2851 00 102 MS 30900
 03,Grants for Specific Schemes,,"10,00,00",1,"10,00,00",2851 00 102 MS 30903
 MS,Total MS,"10,00,00",1,"10,00,00",,
@@ -1178,7 +1178,7 @@ CI,Assistance to Small Scale Industrial Units towards purchase of generator set,
 377,Deduct-Recoveries,"-2,33",,,,2851 00 911 CI 37700
 02,Recoveries of Overpayments / Remittance of excess drawals,"-2,33",,,,2851 00 911 CI 37702
 CI,Total CI,"-2,33",,,,
-CS,Power Tariff to SmallScale Industries Unit2851 00 911 CS 30000,,,,,
+CS,Power Tariff to Small Scale Industries Unit,,,,,2851 00 911 CS 30000
 377,Deduct-Recoveries,-41,,,,2851 00 911 CS 37700
 03,Other Recoveries,-41,,,,2851 00 911 CS 37703
 CS,Total CS,-41,,,,

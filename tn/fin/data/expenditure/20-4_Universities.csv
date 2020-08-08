@@ -150,8 +150,7 @@ JA,Total JA,,,,"-9,66,02",
 902,Total 902,,,,"-9,66,02",
 911,Deduct - Recoveries of Overpayments,,,,,
 #,State's Expenditure,,,,,
-AB,Deduct - Recoveries of unspent amount under Part,,,,,
-II,Schemes pertaining to Anna University,,,,,2203 00 911 AB 30000
+AB,"Deduct - Recoveries of unspent amount under Part II,Schemes pertaining to Anna University",,,,,2203 00 911 AB 30000
 377,Deduct-Recoveries,-22,,,,2203 00 911 AB 37700
 02,Recoveries of Overpayments / Remittance of excess drawals,-22,,,,2203 00 911 AB 37702
 AB,Total AB,-22,,,,
