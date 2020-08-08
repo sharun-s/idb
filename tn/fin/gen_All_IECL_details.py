@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # generates files in loan_explorer, investment_explorer, expense_explorer, income_explorer
 # for income json breakup details file is parsed for sub head [A-Z][A-Z]
-# for revex,capex,loan simple grep of the functional head across all demand files TODO get amts pull code from dept-summary2html
+# for revex,capex,loan simple grep of the functional head across all demand files TODO get amts pull code from gen_Innovation
 # generates indexes - loan_index capex_index revex_index income_index
 
 import sys
@@ -21,6 +21,27 @@ try:
 	subprocess.run(r'rm income_index.html loan_index.html revex_index.html capex_index.html income_explorer/* investment_explorer/* expense_explorer/* loan_explorer/*',shell=True)
 except Exception as e:
 	pass
+
+def get_amounts(filename,dpcode):
+	g=p.read_csv(filename)
+	#dpcode=dpcode.strip()
+	#print(g.loc[:6])
+	#print(g[g['dpcode']==dpcode])
+	#print(g[g['dpcode']==dpcode].index)
+	tmp=g[g['dpcode']==dpcode].index[0]
+	head=g.ix[tmp]['head']
+	idx=tmp
+	while True:
+		idx=idx+1
+		try:
+			if g.ix[idx]['head']==head:
+				if g.ix[idx]['desc'].startswith('Total '+head): # maybe charged/voted or neither
+					return g.ix[idx][['2018','2019Rev','2020Est']]
+			if idx>tmp+60:
+				return ['?','?','?']
+		except Exception as e:
+			print(f'{filename}:{dpcode}')
+			raise e
 
 def fexp(number):
     (sign, digits, exponent) = Decimal(number).as_tuple()
@@ -108,7 +129,10 @@ def parseResults(o):
 	for i in csv.reader(y):
 		demand=i[0].split('.')[0].split('/')[-1]
 		v=[]
-		if len(demand)==2 or len(demand)==1: # hack: skips files not matching format xx.csv or x.csv
+		#this hacky condition cause of the 3 different types of files in the data/expenditure directory
+		# eg: 22.csv has high level sub heads, 22-depts.csv has subdepts, while 22-1 22-2 etc are detail files for each sub dept
+		# if the Head is found in 22.csv just show name and amount. if in a sub dept file- the line containing the 'Total' has to be located 
+		if len(demand)==2 or len(demand)==1: 
 			v.append(dept_map[dept_map[0] == int(demand)].iloc[0][2])
 			for amt in i[2:3]:
 				if amt !='':
@@ -120,6 +144,9 @@ def parseResults(o):
 						raise e					  
 				else: 
 					v.append('-')
+			#print(v)
+			for k in range(len(v),6):
+				v.append('')
 			d.append(v)
 		elif demand.find('-depts') > -1:
 			continue
@@ -130,11 +157,15 @@ def parseResults(o):
 			#print(i, head, i[1])
 			if len(head)==2 and head.isupper():
 				try:
-					d.append([i[1],subdeptname.split('-')[1],dept])
-					v.append('-')
+					row=[i[1],subdeptname.split('-')[1],dept]
+					#print(i[0].split('.')[0]+'.csv',i[-1])
+					row.extend(get_amounts(i[0].rsplit('.',maxsplit=1)[0]+'.csv', i[-1]))
+					d.append(row)
+					#v.append('-')# TODO v is not used by dumpdetails. remove it on next refactor
 				except Exception as e:
 					print('SKIPPING', i)
 					print(head,subdeptname,dept)
+					raise e
 	return (d,v,totamt)
 
 def highlight(x):
