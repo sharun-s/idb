@@ -4,71 +4,7 @@
 # for revex,capex,loan simple grep of the functional head across all demand files TODO get amts pull code from gen_Innovation
 # generates indexes - loan_index capex_index revex_index income_index
 
-import sys
-import pandas as p
-import subprocess
-import shlex, locale
-from locale import atof
-locale.setlocale(locale.LC_NUMERIC, '')
-from decimal import Decimal
-import textwrap as tw
-from os import listdir
-import csv
-
-# prevents text columns in dumped html getting trimmed
-p.set_option('display.max_colwidth', -1)
-try:
-	subprocess.run(r'rm income_index.html loan_index.html revex_index.html capex_index.html income_explorer/* investment_explorer/* expense_explorer/* loan_explorer/*',shell=True)
-except Exception as e:
-	pass
-
-def get_amounts(filename,dpcode):
-	g=p.read_csv(filename)
-	#dpcode=dpcode.strip()
-	#print(g.loc[:6])
-	#print(g[g['dpcode']==dpcode])
-	#print(g[g['dpcode']==dpcode].index)
-	tmp=g[g['dpcode']==dpcode].index[0]
-	head=g.ix[tmp]['head']
-	idx=tmp
-	while True:
-		idx=idx+1
-		try:
-			if g.ix[idx]['head']==head:
-				if g.ix[idx]['desc'].startswith('Total '+head): # maybe charged/voted or neither
-					return g.ix[idx][['2018','2019Rev','2020Est']]
-			if idx>tmp+60:
-				return ['?','?','?']
-		except Exception as e:
-			print(f'{filename}:{dpcode}')
-			raise e
-
-def fexp(number):
-    (sign, digits, exponent) = Decimal(number).as_tuple()
-    return len(digits) + exponent - 1
-
-def fman(number):
-    return Decimal(number).scaleb(-fexp(number)).normalize()
-
-
-def format_indian(t):
-	if t==0:
-		return '--'
-	dic = {
-		3:('K',1),
-	    4:('K',10), 
-	    5:('Lak',1),
-	    6:('Lak',10),
-	    7:('Cr',1),
-	    8:('Cr',10),# 10 cr
-	    9:('Cr',100), # 100 cr
-	    10:('K Cr',1), # 1000 cr
-	    11:('K Cr',10), # 10k cr
-	    12:('Lk Cr',1) # 1 L cr
-	}
-	ex=fexp(t)
-	m=fman(t)
-	return "{:.2f}".format(m*dic[ex][1])+" "+dic[ex][0]
+from common import *
 
 def dumpIncomeDetails(detailsfile,head):
 	#Find all sub depts generating income
@@ -89,7 +25,6 @@ def dumpIncomeDetails(detailsfile,head):
 	except ValueError as e:
 		print(len(rows),f'check {detailsfile.strip()} - dept subdept code not found - probably no Income')
 		raise e
-	
 	m={}
 	# using the code get the names of the dept and subdept
 	for dept in df[2].unique():
@@ -106,12 +41,14 @@ def dumpIncomeDetails(detailsfile,head):
 			raise e
 		
 	df.columns=['Head','Amt','Code']
-	df['subdept']=df['Code'].apply(lambda x:m[x])
+	df['Amt']=df['Amt'].apply(lambda x:str(x).replace('- ','-'))#.apply(lambda x:format_indian(1000*atof(x)) if x!='nan' else None)
+	df['SubDept']=df['Code'].apply(lambda x:m[x])
+	df=df.sort_values(by=['Code','Amt'])
 	with open(f'income_explorer/{head}.html','w') as f:
 		f.write('<body style="font-family:verdana,sans-serif;">')
 		f.write(f'<a href=../startpage.html target=details>Home</a>&nbsp;<br>--Income Sources (Revenue)<br>')
 		df.style.set_table_styles([dict(selector="th",props=[("text-align", "center")])])
-		f.write(df.to_html(index=False,border=0,justify='center',columns=['Head','Amt','Code']))
+		f.write(df.to_html(index=False,border=0,justify='center',columns=['Head','Amt','Code','SubDept']))
 		f.write('</body>')	
 	try:
 		r=func_map[func_map[0]==head].iloc[0]
@@ -122,8 +59,8 @@ def dumpIncomeDetails(detailsfile,head):
     
 
 def parseResults(o):
-	d=[]
-	v=[]
+	details=[]
+	highlevel=[]
 	totamt=0
 	y=o.stdout.splitlines()
 	for i in csv.reader(y):
@@ -144,43 +81,45 @@ def parseResults(o):
 						raise e					  
 				else: 
 					v.append('-')
-			#print(v)
-			for k in range(len(v),6):
-				v.append('')
-			d.append(v)
+			highlevel.append(v)
 		elif demand.find('-depts') > -1:
 			continue
 		else:
 			head=i[0].split(':')[1]
-			subdeptname=i[0].split(':')[0].split('/')[-1].replace('.csv','')
-			dept=subdeptname.split('-')[0]
-			#print(i, head, i[1])
+			filename=i[0].split('.')[0].split('/')[-1]
+			subdeptname=re.sub(r'([0-9]{1,2}[\-_])+','',filename).replace('_',' ')
+			subdeptname="".join([' '+i if i.isupper() else i for i in subdeptname])
+			dept=filename.split("-")[0]
 			if len(head)==2 and head.isupper():
 				try:
-					row=[i[1],subdeptname.split('-')[1],dept]
-					#print(i[0].split('.')[0]+'.csv',i[-1])
+					row=[i[1],subdeptname.strip(),dept]
 					row.extend(get_amounts(i[0].rsplit('.',maxsplit=1)[0]+'.csv', i[-1]))
-					d.append(row)
-					#v.append('-')# TODO v is not used by dumpdetails. remove it on next refactor
+					details.append(row)
 				except Exception as e:
 					print('SKIPPING', i)
 					print(head,subdeptname,dept)
 					raise e
-	return (d,v,totamt)
+	return (highlevel, details,totamt)
 
 def highlight(x):
     return ['font-weight: bold' for v in x]
 
-def dumpDetails(d,v,ftitle,titleStr,detailsdir):		
-	dk=p.DataFrame(d)#v,index=[i.title() for i in d])
+def dumpDetails(highlevel,details,ftitle,titleStr,detailsdir):		
+	h=p.DataFrame(highlevel)
+	dk=p.DataFrame(details)
 	if(len(dk)==0):
 		return False
+	if(len(h)>0):
+		h.columns=["Dept","Total"]
 	#dk.style.set_table_styles([dict(selector="td",props=[('max-width', '50px')])])
-
+	dk.columns=["Description",'SubDept','Dept','2018','2019','2020']
+	#dk['2018']=dk['2018'].applymap(lambda x:format_indian(1000*atof(x)) if x else None)
+	dk=dk.sort_values(by=['SubDept','Dept','2018'])
 	with open(f'{detailsdir}/{ftitle}.html','w') as f:
 		f.write('<body style="font-family:verdana,sans-serif;">')
 		f.write(f'<a href=../startpage.html target=details>Home</a>&nbsp;<b>--{titleStr}</b><br>')
-		f.write(dk.to_html(header=False,index=False,border=0,bold_rows=False,na_rep='-'))
+		f.write(h.to_html(justify='center',index=False,border=0,bold_rows=False,na_rep='-'))
+		f.write(dk.to_html(columns=["Description",'2018','2019','2020','SubDept','Dept'], justify='center',index=False,border=0,bold_rows=False,na_rep='-'))
 		f.write('<br><a href="history_explorer/dummy.html">[Historic Data 2002-2018]</a>')
 		f.write('</body>')
 		f.write('\n')
@@ -205,8 +144,8 @@ def SubDeptsBreakup(titleStr, head,detailsdir):
 	#o=subprocess.run(r"grep -Ir '^"+head+"' data/expenditure --exclude-dir=tmp",shell=True, stdout=subprocess.PIPE, universal_newlines=True)	
 	#this catches head anywhere - esp all occurrences within dpcode
 	o=subprocess.run(r"grep -Ir '"+head+"' data/expenditure --exclude-dir=tmp",shell=True, stdout=subprocess.PIPE, universal_newlines=True)	
-	d,v,ta=parseResults(o)
-	if dumpDetails(d,v,head,titleStr,detailsdir):
+	h,d,ta=parseResults(o)
+	if dumpDetails(h,d,head,titleStr,detailsdir):
 		try:
 			r=func_map[func_map[0]==head].iloc[0]
 			return (r[0],r[1],ta)
@@ -217,9 +156,6 @@ def SubDeptsBreakup(titleStr, head,detailsdir):
 	#NOTE no else so None gets returned in some cases and is removed from index in writeIndex
 	#print(f'<b>{format_indian(ta*1000)}</b>')
 
-dept_map=p.read_csv('tn_dept2subdept_map',header=None)
-#skipping error lines cause just interested in code to major head map, 3 col rows not reqd
-func_map=p.read_csv('tn_func2dept_map',dtype=str,header=None,error_bad_lines=False,warn_bad_lines=False)
 revex_index=[]
 capex_index=[]
 loan_index=[]
