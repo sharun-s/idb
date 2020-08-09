@@ -8,8 +8,10 @@ from common import *
 
 def dumpIncomeDetails(detailsfile,head):
 	#Find all sub depts generating income
+	#TODO the grep 2018 at end of command above should be setable to any year
 	o=subprocess.run(r"cat "+ shlex.quote(detailsfile.strip()) + ' | jq -r \'paths as $p|getpath($p) | select(scalars)| ($p | map(select(type=="string"))) + [.]|@csv\'' + r"| grep '\[.*\]\",\"Total'  | grep 2018 " ,shell=True, stdout=subprocess.PIPE, universal_newlines=True)
 	rows=[]
+	#get relevant fields from jq parsing details json file
 	for i in csv.reader(o.stdout.splitlines()):
 		descidx=2
 		for idx,val in enumerate(i):
@@ -18,7 +20,7 @@ def dumpIncomeDetails(detailsfile,head):
 				break
 		rows.append([i[descidx],i[descidx+3]]) 
 	df=p.DataFrame(rows)
-	#get the dept subdept code generating the revenue
+	#get the dept subdept code generating the revenue which is in desc as [\d\d\d\d]
 	try:
 		df[[0,2]]=df[0].str.split('[',expand=True)
 		df[2]=df[2].str.replace(']','')
@@ -39,15 +41,19 @@ def dumpIncomeDetails(detailsfile,head):
 			print(dept, subdept, head, detailsfile)
 			print(d)
 			raise e
-		
+	# weird hack - print below fails without doing a setlocale
+	locale.setlocale(locale.LC_NUMERIC, '')
+	#print(locale.atof("60,20"))
 	df.columns=['Head','Amt','Code']
-	df['Amt']=df['Amt'].apply(lambda x:str(x).replace('- ','-'))#.apply(lambda x:format_indian(1000*atof(x)) if x!='nan' else None)
+	df['Amt']=df['Amt'].apply(lambda x:str(x).replace('- ','-'))#
+	df['Amt']=df['Amt'].apply(Amt2Str) 
 	df['SubDept']=df['Code'].apply(lambda x:m[x])
-	df=df.sort_values(by=['Code','Amt'])
+	df=df.sort_values(by=['Code','Amt'],ascending=False)
+	df['Amt']=df['Amt'].apply(format_indian)
 	with open(f'income_explorer/{head}.html','w') as f:
+		f.write('<style>td { min-width: 100px;}</style>')
 		f.write('<body style="font-family:verdana,sans-serif;">')
 		f.write(f'<a href=../startpage.html target=details>Home</a>&nbsp;<br>--Income Sources (Revenue)<br>')
-		df.style.set_table_styles([dict(selector="th",props=[("text-align", "center")])])
 		f.write(df.to_html(index=False,border=0,justify='center',columns=['Head','Amt','Code','SubDept']))
 		f.write('</body>')	
 	try:
@@ -56,7 +62,6 @@ def dumpIncomeDetails(detailsfile,head):
 	except Exception as e:
 		print(head)
 		raise e
-    
 
 def parseResults(o):
 	details=[]
@@ -97,8 +102,9 @@ def parseResults(o):
 					details.append(row)
 				except Exception as e:
 					print('SKIPPING', i)
-					print(head,subdeptname,dept)
-					raise e
+					print(head,subdeptname,dept,i[0].rsplit('.',maxsplit=1)[0]+'.csv',i[-1])
+					sys.exit()
+					#raise e
 	return (highlevel, details,totamt)
 
 def highlight(x):
@@ -111,11 +117,21 @@ def dumpDetails(highlevel,details,ftitle,titleStr,detailsdir):
 		return False
 	if(len(h)>0):
 		h.columns=["Dept","Total"]
-	#dk.style.set_table_styles([dict(selector="td",props=[('max-width', '50px')])])
 	dk.columns=["Description",'SubDept','Dept','2018','2019','2020']
-	#dk['2018']=dk['2018'].applymap(lambda x:format_indian(1000*atof(x)) if x else None)
-	dk=dk.sort_values(by=['SubDept','Dept','2018'])
+	dk['2018']=dk['2018'].apply(lambda x:str(x).replace('- ','-'))
+	dk['2019']=dk['2019'].apply(lambda x:str(x).replace('- ','-'))
+	dk['2020']=dk['2020'].apply(lambda x:str(x).replace('- ','-'))
+	#print(ftitle,titleStr,dk['2020'])
+	dk['2018']=dk['2018'].apply(Amt2Str) 
+	dk['2019']=dk['2019'].apply(Amt2Str) 
+	dk['2020']=dk['2020'].apply(Amt2Str) 
+	dk=dk.sort_values(by=['Dept','SubDept','2018'],ascending=False)
+	dk['2018']=dk['2018'].apply(format_indian)
+	dk['2019']=dk['2019'].apply(format_indian)
+	dk['2020']=dk['2020'].apply(format_indian)
+
 	with open(f'{detailsdir}/{ftitle}.html','w') as f:
+		f.write('<style>td { min-width: 100px;}</style>')
 		f.write('<body style="font-family:verdana,sans-serif;">')
 		f.write(f'<a href=../startpage.html target=details>Home</a>&nbsp;<b>--{titleStr}</b><br>')
 		f.write(h.to_html(justify='center',index=False,border=0,bold_rows=False,na_rep='-'))

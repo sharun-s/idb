@@ -406,9 +406,8 @@ AH,Vigilance Institutions,,,,,2235 02 106 AH 30000
 376,Computer and Accessories,37,38,54,38,2235 02 106 AH 37600
 02,Maintenance,14,14,30,14,2235 02 106 AH 37602
 03,Stationery,23,24,24,24,2235 02 106 AH 37603
-AH,Total AH,"4,57,49","4,58,82","4,65,71","5,10,69 ""AI",
-"Industrial units attached""",,,,,,
-"to the After Care Home ""for Women"," Vellore""",,,,,2235 02 106 AI 30000
+AH,Total AH,"4,57,49","4,58,82","4,65,71","5,10,69",
+AI,"Industrial units attached to the After Care Home for Women, Vellore",,,,,2235 02 106 AI 30000
 301,Salaries,"14,06","13,57","13,48","14,07",2235 02 106 AI 30100
 01,Pay,"13,09","12,39","12,62","13,12",2235 02 106 AI 30101
 02,Medical Allowance,12,9,12,12,2235 02 106 AI 30102
