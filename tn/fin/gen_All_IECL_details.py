@@ -141,18 +141,27 @@ def dumpDetails(highlevel,details,ftitle,titleStr,detailsdir):
 		f.write('\n')
 	return True
 		
-def writeIndex(index, indexfile,detailsdir):
+def writeIndex(index, indexfile, detailsdir, sortcol=1):
 	#remove None if any exist in index
 	index=[i for i in index if i]
-	with open(indexfile,'w') as f:
+	fname=indexfile
+	reverseorder=False
+	if sortcol==2:
+		fname=indexfile+'-by-amount'
+		reverseorder=True
+	if sortcol==0:
+		fname=indexfile+'-by-head'
+		reverseorder=False
+
+	with open(fname+'.html','w') as f:
 		f.write('<body style="font-family:sans-serif;">')
-		f.write('<div>Sort by: <a target=ind href="#">Amount</a>&nbsp;&nbsp;<a target=ind href="#">A-Z</a>&nbsp;&nbsp;<a target=ind href="#">Code</a></div>')
-		for detailsfile,funcname,totamt in sorted(index,key=lambda x:x[1]):
+		f.write(f'<div>Sort by: <a target=ind href={indexfile+".html"}>A-Z</a>&nbsp;&nbsp;<a target=ind href={indexfile+"-by-head.html"}>Code</a>&nbsp;&nbsp;<a target=ind href={indexfile+"-by-amount.html"}>Amount</a></div>')
+		for head,funcname,totamt in sorted(index,key=lambda x:x[sortcol],reverse=reverseorder):
 			# format total if its a float
 			if isinstance(totamt,float):
-				f.write(f'<div style="font-family:sans-serif;"><a href="{detailsdir}/{detailsfile}.html" title="{format_indian(1000*totamt)}" target=details>{funcname.title()}</a></div>')
+				f.write(f'<div style="font-family:sans-serif;"><a href="{detailsdir}/{head}.html" target=details>{funcname.title()}</a>&nbsp;{head}&nbsp;<b>{format_indian(1000*totamt)}</b></div>')
 			else:
-				f.write(f'<div style="font-family:sans-serif;"><a href="{detailsdir}/{detailsfile}.html" title="{totamt}" target=details>{funcname.title()}</a></div>')
+				f.write(f'<div style="font-family:sans-serif;"><a href="{detailsdir}/{head}.html" target=details>{funcname.title()}</a>&nbsp;{head}&nbsp;{totamt}</div>')
 		f.write('</body>')
 
 def SubDeptsBreakup(titleStr, head,detailsdir):
@@ -176,7 +185,7 @@ revex_index=[]
 capex_index=[]
 loan_index=[]
 rev_index=[]
-
+#collect index data
 for head in func_map[0]:
 	if head[0]=='2' or head[0]=='3':
 		revex_index.append(SubDeptsBreakup("Expenditure day to day (revex)", head, 'expense_explorer'))
@@ -187,12 +196,13 @@ for head in func_map[0]:
 	else:
 		pass#print('Unrecognized head',head)
 
-writeIndex(revex_index,'revex_index.html','expense_explorer')
-writeIndex(capex_index,'capex_index.html','investment_explorer')
-writeIndex(loan_index,'loan_index.html','loan_explorer')
-
 revfiles=listdir('data/revenue/breakup/')
 for f in revfiles:
 	rev_index.append(dumpIncomeDetails(f'data/revenue/breakup/{f}', f[:4]))
-writeIndex(rev_index,'income_index.html','income_explorer')
+
+for i in range(0,3):
+	writeIndex(revex_index,'revex_index','expense_explorer',i)
+	writeIndex(capex_index,'capex_index','investment_explorer',i)
+	writeIndex(loan_index,'loan_index','loan_explorer',i)
+	writeIndex(rev_index,'income_index','income_explorer',i)
 #print('done',f)
