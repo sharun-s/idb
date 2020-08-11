@@ -181,6 +181,11 @@ def SubDeptsBreakup(titleStr, head,detailsdir):
 	#NOTE no else so None gets returned in some cases and is removed from index in writeIndex
 	#print(f'<b>{format_indian(ta*1000)}</b>')
 
+try:
+	subprocess.run(r'rm income_index.html loan_index.html revex_index.html capex_index.html income_explorer/* investment_explorer/* expense_explorer/* loan_explorer/*',shell=True)
+except Exception as e:
+	pass
+
 revex_index=[]
 capex_index=[]
 loan_index=[]

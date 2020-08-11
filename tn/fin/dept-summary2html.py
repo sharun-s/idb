@@ -1,44 +1,9 @@
 #!/usr/bin/env python3
-import sys
-import pandas as p
-import subprocess
-import shlex, locale
-from locale import atof
-locale.setlocale(locale.LC_NUMERIC, '')
-from decimal import Decimal
-import textwrap as tw
-from os import listdir
-import csv
+#Generates a dept summary file for all depts
+#Should contain list of subdepts with link to expenditure and income details
+#
 
-# prevents text columns in dumped html getting trimmed
-p.set_option('display.max_colwidth', -1)
-
-def fexp(number):
-    (sign, digits, exponent) = Decimal(number).as_tuple()
-    return len(digits) + exponent - 1
-
-def fman(number):
-    return Decimal(number).scaleb(-fexp(number)).normalize()
-
-
-def format_indian(t):
-	if t==0:
-		return '--'
-	dic = {
-		3:('K',1),
-	    4:('K',10), 
-	    5:('Lak',1),
-	    6:('Lak',10),
-	    7:('Cr',1),
-	    8:('Cr',10),# 10 cr
-	    9:('Cr',100), # 100 cr
-	    10:('K Cr',1), # 1000 cr
-	    11:('K Cr',10), # 10k cr
-	    12:('Lk Cr',1) # 1 L cr
-	}
-	ex=fexp(t)
-	m=fman(t)
-	return "{:.2f}".format(m*dic[ex][1])+" "+dic[ex][0]
+from common import *
 
 def parseResults(o):
 	d=[]
@@ -78,18 +43,17 @@ def parseHistory(o):
 				v.append('-')
 	return ",".join(v)
 
-def highlight(x):
-    return ['font-weight: bold' for v in x]
+# def highlight(x):
+#     return ['font-weight: bold' for v in x]
 
-def pp(d,v,ftitle,titleStr):
-	with open(f'func_explorer/{ftitle}-depts.html','w') as f:
-		f.write('<body style="font-family:verdana,sans-serif;">')
-		f.write(f'<br>--{titleStr}<br>')
-		dk=p.DataFrame(v,index=[i.title() for i in d])
-		f.write(dk.to_html(header=False,border=0,bold_rows=False))
-		f.write('</body>')
+# def pp(d,v,ftitle,titleStr):
+# 	with open(f'func_explorer/{ftitle}-depts.html','w') as f:
+# 		f.write('<body style="font-family:verdana,sans-serif;">')
+# 		f.write(f'<br>--{titleStr}<br>')
+# 		dk=p.DataFrame(v,index=[i.title() for i in d])
+# 		f.write(dk.to_html(header=False,border=0,bold_rows=False))
+# 		f.write('</body>')
 
-dept_map=p.read_csv('tn_dept2subdept_map',header=None)
 sdfiles=listdir('subd_render/')
 sdfilesmap=dict([(i.replace('_','').replace('-','').replace(' ','').replace(',','').replace('.html',''),i)for i in sdfiles])
 found=0
@@ -108,6 +72,20 @@ def getSubDFilename(dcode,subcode,subname):
 			print(key, 'didnt match filenames')
 			return ''
 
+def getSubDIncomeFilename(dcode,subcode,subname):
+	fn=''
+	dcode=str(dcode)
+	subcode=str(int(subcode))
+	if len(dcode)==1:
+		fn='0'+dcode+'-'
+	else:
+		fn=dcode+'_'
+	if len(subcode)==1:
+		fn=fn+'0'+subcode+'_'
+	else:
+		fn=fn+subcode+'_'
+	return fn+subname.replace(' ','_')
+
 def makeIndex():
 	with open('dept_index.html','a') as f:
 		f.write('<body style="font-family:sans-serif;"><div>Dept Index</div>')
@@ -121,7 +99,12 @@ def makeSummaries():
 			f.write(f'<body style="font-family:sans-serif;"><div><a href=../startpage.html target=details>Home</a>&nbsp;<b>{name.strip().title()}</b></div>')
 			#get subdepts and link to them
 			for dcode,subcode,subname in dept_map[dept_map[0]==code].iloc[1:].itertuples(index=False):
-				f.write(f'<div><a target=details href="../subd_render/{getSubDFilename(dcode,subcode,subname)}" target="details">{subname.strip().title()}</a></div>')
+				fstr=f'<div>{subname.strip().title()}&nbsp;<a target=details href="../subd_render/{getSubDFilename(dcode,subcode,subname)}" target="details" title="Expenditure/Investments/Loans">Outflow</a>&nbsp;&nbsp;&nbsp;&nbsp;'
+				if os.path.exists('subd_income/'+getSubDIncomeFilename(dcode,subcode,subname)+'.html'):
+					fstr=fstr+f'<a target=details href="../subd_income/{getSubDIncomeFilename(dcode,subcode,subname)}.html" target="details" title="Income">Inflow</a></div>'
+				else:
+					fstr=fstr+'</div>'
+				f.write(fstr)
 			f.write('</body>')
 	print(len(sdfiles),found)		
 
