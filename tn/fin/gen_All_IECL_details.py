@@ -46,7 +46,7 @@ def dumpIncomeDetails(detailsfile,head):
 	#print(locale.atof("60,20"))
 	df.columns=['Head','Amt','Code']
 	df['Amt']=df['Amt'].apply(lambda x:str(x).replace('- ','-'))#
-	df['Amt']=df['Amt'].apply(Amt2Str) 
+	df['Amt']=df['Amt'].apply(amt2flt) 
 	df['SubDept']=df['Code'].apply(lambda x:m[x])
 	df=df.sort_values(by=['Code','Amt'],ascending=False)
 	df['Amt']=df['Amt'].apply(format_indian)
@@ -122,9 +122,9 @@ def dumpDetails(highlevel,details,ftitle,titleStr,detailsdir):
 	dk['2019']=dk['2019'].apply(lambda x:str(x).replace('- ','-'))
 	dk['2020']=dk['2020'].apply(lambda x:str(x).replace('- ','-'))
 	#print(ftitle,titleStr,dk['2020'])
-	dk['2018']=dk['2018'].apply(Amt2Str) 
-	dk['2019']=dk['2019'].apply(Amt2Str) 
-	dk['2020']=dk['2020'].apply(Amt2Str) 
+	dk['2018']=dk['2018'].apply(amt2flt) 
+	dk['2019']=dk['2019'].apply(amt2flt) 
+	dk['2020']=dk['2020'].apply(amt2flt) 
 	dk=dk.sort_values(by=['Dept','SubDept','2018'],ascending=False)
 	dk['2018']=dk['2018'].apply(format_indian)
 	dk['2019']=dk['2019'].apply(format_indian)
@@ -155,13 +155,13 @@ def writeIndex(index, indexfile, detailsdir, sortcol=1):
 
 	with open(fname+'.html','w') as f:
 		f.write('<body style="font-family:sans-serif;">')
-		f.write(f'<div>Sort by: <a target=ind href={indexfile+".html"}>A-Z</a>&nbsp;&nbsp;<a target=ind href={indexfile+"-by-head.html"}>Code</a>&nbsp;&nbsp;<a target=ind href={indexfile+"-by-amount.html"}>Amount</a></div>')
+		f.write(f'<div>Sort by: <a target=ind href={indexfile+"-by-head.html"}>Code</a> <a target=ind href={indexfile+".html"}>A-Z</a>&nbsp;&nbsp;<a target=ind href={indexfile+"-by-amount.html"}>Amount</a></div>')
 		for head,funcname,totamt in sorted(index,key=lambda x:x[sortcol],reverse=reverseorder):
 			# format total if its a float
 			if isinstance(totamt,float):
-				f.write(f'<div style="font-family:sans-serif;"><a href="{detailsdir}/{head}.html" target=details>{funcname.title()}</a>&nbsp;{head}&nbsp;<b>{format_indian(1000*totamt)}</b></div>')
+				f.write(f'<div style="font-family:sans-serif;">[{head}] <a href="{detailsdir}/{head}.html" target=details>{funcname.title()}</a>&nbsp;<b>{format_indian(1000*totamt)}</b></div>')
 			else:
-				f.write(f'<div style="font-family:sans-serif;"><a href="{detailsdir}/{head}.html" target=details>{funcname.title()}</a>&nbsp;{head}&nbsp;{totamt}</div>')
+				f.write(f'<div style="font-family:sans-serif;">[{head}] <a href="{detailsdir}/{head}.html" target=details>{funcname.title()}</a>&nbsp;{head}&nbsp;{totamt}</div>')
 		f.write('</body>')
 
 def SubDeptsBreakup(titleStr, head,detailsdir):

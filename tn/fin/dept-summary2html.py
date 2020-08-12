@@ -72,6 +72,7 @@ def getSubDFilename(dcode,subcode,subname):
 			print(key, 'didnt match filenames')
 			return ''
 
+#pfft junk it after standardizing subd file naming in data/revenue dir
 def getSubDIncomeFilename(dcode,subcode,subname):
 	fn=''
 	dcode=str(dcode)
@@ -79,12 +80,13 @@ def getSubDIncomeFilename(dcode,subcode,subname):
 	if len(dcode)==1:
 		fn='0'+dcode+'-'
 	else:
-		fn=dcode+'_'
+		fn=dcode+'-'
 	if len(subcode)==1:
 		fn=fn+'0'+subcode+'_'
 	else:
 		fn=fn+subcode+'_'
-	return fn+subname.replace(' ','_')
+	fn=fn+subname.replace(' ','_')
+	return fn.rstrip('_')
 
 def makeIndex():
 	with open('dept_index.html','a') as f:
@@ -96,13 +98,16 @@ def makeIndex():
 def makeSummaries():
 	for code,name in dept_map[dept_map[1].isna()][[0,2]].itertuples(index=False):
 		with open(f'dept_summaries/{code}.html','a') as f:
-			f.write(f'<body style="font-family:sans-serif;"><div><a href=../startpage.html target=details>Home</a>&nbsp;<b>{name.strip().title()}</b></div>')
+			f.write(f'<body style="font-family:sans-serif;"><div><a href=../startpage.html target=details>Home</a>&nbsp;<b>{name.strip().title()}</b></div>Sub-Departments:<br>')
 			#get subdepts and link to them
 			for dcode,subcode,subname in dept_map[dept_map[0]==code].iloc[1:].itertuples(index=False):
-				fstr=f'<div>{subname.strip().title()}&nbsp;<a target=details href="../subd_render/{getSubDFilename(dcode,subcode,subname)}" target="details" title="Expenditure/Investments/Loans">Outflow</a>&nbsp;&nbsp;&nbsp;&nbsp;'
-				if os.path.exists('subd_income/'+getSubDIncomeFilename(dcode,subcode,subname)+'.html'):
-					fstr=fstr+f'<a target=details href="../subd_income/{getSubDIncomeFilename(dcode,subcode,subname)}.html" target="details" title="Income">Inflow</a></div>'
+				ofile=getSubDFilename(dcode,subcode,subname)
+				ifile=getSubDIncomeFilename(dcode,subcode,subname)
+				fstr=f'<div>--{subname.strip().title()}<br>&nbsp;&nbsp;<a target=details href="../subd_render/{ofile}" target="details" title="Expenditure/Investments/Loans">Outflow</a>&nbsp;&nbsp;&nbsp;&nbsp;'
+				if os.path.exists('subd_income/'+ifile+'.html'):
+					fstr=fstr+f'<a target=details href="../subd_income/{ifile}.html" target="details" title="Income">Inflow</a></div>'
 				else:
+					print(ifile,'not found')
 					fstr=fstr+'</div>'
 				f.write(fstr)
 			f.write('</body>')

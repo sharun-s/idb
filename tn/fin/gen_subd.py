@@ -95,13 +95,10 @@ def dumpSubdIncomeDetails(detailsfile,head):
 			raise e
 	# weird hack - print below fails without doing a setlocale
 	locale.setlocale(locale.LC_NUMERIC, '')
-	#print(locale.atof("60,20"))
-	df.columns=['Desc','Amt','Code']
-	df['Amt']=df['Amt'].apply(lambda x:str(x).replace('- ','-'))#
-	df['Amt']=df['Amt'].apply(Amt2Str) 
+	df.columns=['Desc','2018','Code']
+	df['2018']=df['2018'].apply(lambda x:str(x).replace('- ','-'))
 	df['SubDept']=df['Code'].apply(lambda x:m[x])
-	df=df.sort_values(by=['Code','Amt'],ascending=False)
-	df['Amt']=df['Amt'].apply(format_indian)
+	df=df.sort_values(by=['Code'])
 	#the same Code can be found in multiple functional heads
 	for c, grp in df.groupby('Code'):
 		subdname=grp['SubDept'].unique()[0] # no need for uniq just take 1st val
@@ -109,15 +106,19 @@ def dumpSubdIncomeDetails(detailsfile,head):
 		subdfile=grp.iloc[0]['Code'][:2]+'-'+grp.iloc[0]['Code'][2:]+'_'+subdfile
 		headname=" ".join(detailsfile.split('_')[1:]).replace('.json','')
 		firstwrite=os.path.exists(f'subd_income/{subdfile}.html')
+		grp['2018']=grp['2018'].apply(amt2flt)
+		grp.sort_values(by=['2018'],inplace=True,ascending=False)
+		ftot=format_indian(grp['2018'].sum())
+		grp['2018']=grp['2018'].apply(format_indian)
 		with open(f'subd_income/{subdfile}.html','a') as f:
 			if not firstwrite:
 				f.write('<style>td { min-width: 100px;max-width:360px}</style>')
 				f.write('<style>body {font-family:verdana,sans-serif;}</style>')
-				f.write(f'<a href=../startpage.html target=details>Home</a>&nbsp; <b>{subdname}</b> [{c}] <br>Income Sources By Function -<br> {headname.upper()}<a href=../income_explorer/{head[:4]}.html>#</a> &nbsp;&nbsp; <br>')
+				f.write(f'<a href=../startpage.html target=details>Home</a>&nbsp; <b>{subdname}</b> [{c}] <br>--  Income Sources By Function  --<br>--<b>{headname}</b>&nbsp;{ftot} &nbsp;<a title="See Income of ALL SubDepts related to this Function" href=../income_explorer/{head[:4]}.html>#</a> &nbsp;&nbsp; <br>')
 			else:
-				f.write(f'<a name={head[:4]}></a><br>{headname.upper()}<a href=../income_explorer/{head[:4]}.html>#</a>&nbsp;&nbsp; <br>')
+				f.write(f'<a name={head[:4]}></a><br><b>{headname}</b>&nbsp;{ftot} &nbsp;<a title="See Income of ALL SubDepts related to this Function" href=../income_explorer/{head[:4]}.html>#</a>&nbsp;&nbsp; <br>')
 			
-			f.write(grp.to_html(index=False,border=0,justify='center',columns=['Desc','Amt']))
+			f.write(grp.to_html(index=False,border=0,justify='center',columns=['Desc','2018']))
 			#f.write('</body>')
 		income_idx.append([c,subdname,subdfile,head,headname,len(grp)])
 	return income_idx

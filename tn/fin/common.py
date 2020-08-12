@@ -29,7 +29,7 @@ def get_amounts(filename,dpcode):
 			print(f'{filename}:{dpcode}')
 			raise e
 
-def Amt2Str(x):
+def amt2flt(x):
 	if x=='' or x=='nan' or x=='?':
 		return 0
 	return 1000*atof(x)
