@@ -10,9 +10,9 @@ if len(df) == 0:
 title=sys.argv[2]
 outfile=sys.argv[3]
 colnames=sys.argv[4].split(',')
-incFY2018=True if sys.argv[5] == 'incFY2018' else False
+plotallyears=True if sys.argv[5] == 'all' else False
 
-fig = plt.figure(facecolor="#001f3f")
+fig = plt.figure(facecolor="#001f3f",figsize=(8.,6.4))
 fig.suptitle(title, color="#00efde", fontsize=16)
 ax = fig.add_subplot(111, frameon=False)
 ax.set_facecolor("#002f4f")
@@ -27,12 +27,14 @@ ax.set_ylim(-55000,16000)
 c=cycle(["#00d0ff","#ffc107",'#00ff88','#AE81FF','#A6E22E','#F92672'])
 labels=cycle(colnames)
 
-def fy2018_19():
-	for i in range(0,len(df.columns),2):
+def fy_all():
+	for i in range(0,len(df.columns),3):
 		fc=next(c)
 		tl=next(labels)
-		df[i+1].plot(ax=ax, color=fc,label='FY18 '+tl, alpha=0.2, legend=True)		
-		df[i].plot(ax=ax, color=fc,label='FY19 '+tl,legend=True)
+		df[i+2].plot(ax=ax, color=fc,label='FY18 '+tl, alpha=0.2, legend=True)		
+		df[i+1].plot(ax=ax, color=fc,label='FY19 '+tl,alpha=0.5, legend=True)
+		df[i].plot(ax=ax, color=fc,label='FY20 '+tl,legend=True)
+
 	#if len(df) == 13:
 		#ax.set_xticks(range(0,13))
 		#ax.set_xticklabels(['Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec', 'Jan', 'Feb', 'Mar-P', 'Mar-S'])
@@ -49,9 +51,9 @@ def fy2018_19():
 	#ax.set_xticklabels(df[0][2:14].str.replace('\n','').str[:3].to_list(), rotation=0)
 	
 	#ax.set_xticks(df[0][2:14].str.replace('\n','').str[:3].to_list())
-	nc=4
-	if len(df.columns)%3==0:
-		nc=3
+	nc=6
+	#if len(df.columns)%3==0:
+	#	nc=3
 	l=ax.legend(loc='lower left', ncol=nc, bbox_to_anchor=(-0.1, .97), frameon=False, facecolor='none')
 	for text in l.get_texts():
 		text.set_color("#efdecc")
@@ -80,7 +82,7 @@ def fy2019():
 		text.set_color("#efdecc")
 	fig.savefig(r'data/cag/viz/'+outfile,format='png',facecolor=fig.get_facecolor())
 
-if incFY2018:
-	fy2018_19()
+if plotallyears:
+	fy_all()
 else:
 	fy2019()
