@@ -3,6 +3,7 @@ findoflow = r",([\"\w '\-/\.\(\)]+),{5,6}\n([\"a-z '\-/\.\(\)]+,{5,6}.*)"
 replaceoflow = r",\g<1> \g<2>"
 
 common_overflow={
+'Bearing Interest  -':['Charged'],
 '"Clothing, Tentage and"':['Stores'],
 'Clothing, Tentage and':['Stores'],
 '"Expenses on Conducted"':['Tours'],

@@ -1,0 +1,296 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+6003-00,INTERNAL DEBT OF THE STATE GOVERNMENT,,,,,
+101,Market Loans,,,,,
+AA,Market Loans - Bearing Interest (Details are furnished in the Annexure),,,,,6003 00 101 AA 00000
+602,Loan - Outgo,"10,847,73,00","12,598,96,00","12,598,96,00","11,181,11,00",6003 00 101 AA 60200
+51,Bearing Interest  - Charged,"10,847,73,00","12,598,96,00","12,598,96,00","11,181,11,00",6003 00 101 AA 60251
+AA,Total AA,"10,847,73,00","12,598,96,00","12,598,96,00","11,181,11,00",
+AB,Market Loans - Not Bearing Interest (Details are furnished in the Annexure),,,,,6003 00 101 AB 60000
+602,Loan - Outgo,"1,41",1,"93,07",1,6003 00 101 AB 60200
+52,Not Bearing Interest - Charged,"1,41",1,"93,07",1,6003 00 101 AB 60252
+AB,Total AB,"1,41",1,"93,07",1,
+101,Total 101,"10,847,74,41","12,598,96,01","12,599,89,07","11,181,11,01",
+AA,Loans from LIC for Housing,,,,,6003 00 103 AA 60000
+602,Loan - Outgo,"7,67,91","4,84,10","4,84,10","1,89,40",6003 00 103 AA 60200
+51,Bearing Interest  - Charged,"7,67,91","4,84,10","4,84,10","1,89,40",6003 00 103 AA 60251
+AA,Total AA,"7,67,91","4,84,10","4,84,10","1,89,40",
+AB,Loans from LIC for Water Supply Schemes,,,,,6003 00 103 AB 60000
+602,Loan - Outgo,"34,91,90","34,91,90","34,91,90","34,91,90",6003 00 103 AB 60200
+51,Bearing Interest  - Charged,"34,91,90","34,91,90","34,91,90","34,91,90",6003 00 103 AB 60251
+AB,Total AB,"34,91,90","34,91,90","34,91,90","34,91,90",
+AH,Loans from LIC for implementation of Rural Water Supply Schemes executed by Tamil Nadu Water Supply and Drainage Board,,,,,6003 00 103 AH 60000
+602,Loan - Outgo,"23,01,65","22,16,38","22,16,38","21,28,25",6003 00 103 AH 60200
+51,Bearing Interest  - Charged,"23,01,65","22,16,38","22,16,38","21,28,25",6003 00 103 AH 60251
+AH,Total AH,"23,01,65","22,16,38","22,16,38","21,28,25",
+103,Total 103,"65,61,46","61,92,38","61,92,38","58,09,55",
+AA,Housing,,,,,6003 00 104 AA 60000
+602,Loan - Outgo,"6,26,08","6,01,40","6,01,48","5,68,08",6003 00 104 AA 60200
+51,Bearing Interest  - Charged,"6,26,08","6,01,40","6,01,48","5,68,08",6003 00 104 AA 60251
+AA,Total AA,"6,26,08","6,01,40","6,01,48","5,68,08",
+104,Total 104,"6,26,08","6,01,40","6,01,48","5,68,08",
+105,Loans from the National Bank for Agricultural and Rural Development,,,,,
+AB,Loans from the Rural Infrastructural Development Fund of the NABARD,,,,,6003 00 105 AB 60000,
+602,Loan - Outgo,"1,065,48,38","1,629,33,83","1,967,55,36","1,765,85,37",6003 00 105 AB 60200
+51,Bearing Interest  - Charged,"1,065,48,38","1,629,33,83","1,967,55,36","1,765,85,37",6003 00 105 AB 60251
+AB,Total AB,"1,065,48,38","1,629,33,83","1,967,55,36","1,765,85,37",
+AI,Loans from NABARD for Watershed Development Fund,,,,,6003 00 105 AI 60000
+602,Loan - Outgo,"3,71,87","4,21,38","4,21,38","4,36,77",6003 00 105 AI 60200
+51,Bearing Interest  - Charged,"3,71,87","4,21,38","4,21,38","4,36,77",6003 00 105 AI 60251
+AI,Total AI,"3,71,87","4,21,38","4,21,38","4,36,77",
+105,Total 105,"1,069,20,25","1,633,55,21","1,971,76,74","1,770,22,14",
+AC,Securitisation of Tamil Nadu Electricity Board dues,,,,,6003 00 106 AC 60000
+602,Loan - Outgo,,1,1,1,6003 00 106 AC 60200
+51,Bearing Interest  - Charged,,1,1,1,6003 00 106 AC 60251
+AC,Total AC,1,1,1,,
+106,Total 106,1,1,1,,
+107,Loans from the State Bank of India and Other Banks,,,,,
+AA,Foreclosure of the High Cost Loans,,,,,6003 00 107 AA 60000
+602,Loan - Outgo,"36,25,75","15,92,84","14,12,69",,6003 00 107 AA 60200
+51,Bearing Interest  - Charged,"36,25,75","15,92,84","14,12,69",,6003 00 107 AA 60251
+AA,Total AA,"36,25,75","15,92,84","14,12,69",,
+107,Total 107,"36,25,75","15,92,84","14,12,69",,
+108,Loans from National Co-operative Development Corporation,,,,,
+AA,Co-operation,,,,,6003 00 108 AA 60000
+602,Loan - Outgo,"45,20,54","50,32,00","39,03,74","50,00,00",6003 00 108 AA 60200
+51,Bearing Interest  - Charged,"45,20,54","50,32,00","39,03,74","50,00,00",6003 00 108 AA 60251
+AA,Total AA,"45,20,54","50,32,00","39,03,74","50,00,00",
+AC,Sugars,,,,,6003 00 108 AC 60000
+602,Loan - Outgo,"17,06,00",1,1,1,6003 00 108 AC 60200
+51,Bearing Interest  - Charged,"17,06,00",1,1,1,6003 00 108 AC 60251
+AC,Total AC,"17,06,00",1,1,1,
+602,Loan - Outgo,"13,47,40","15,00,00","14,86,44","15,00,00",6003 00 108 AD 60200
+51,Bearing Interest  - Charged,"13,47,40","15,00,00","14,86,44","15,00,00",6003 00 108 AD 60251
+AD,Total AD,"13,47,40","15,00,00","14,86,44","15,00,00",
+108,Total 108,"75,73,94","65,32,01","53,90,19","65,00,01",
+109,Loans from other Institutions,,,,,
+CJ,Loans from TUFIDCO towards Flood Alleviation Project - executed by Chennai Metropolitan Development Authority,,,,,6003 00 109 CJ 60000
+602,Loan - Outgo,"5,93",,,,6003 00 109 CJ 60200
+01,"5,93",,,,6003 00 109 CJ 60201,
+CJ,Total CJ,"5,93",,,,
+CN,Loans from CanFin Homes  for construction of Housing Complex for Legislators  executed by  Tamil Nadu Housing Board,,,,,6003 00 109 CN 60000
+602,Loan - Outgo,"29,70",1,1,,6003 00 109 CN 60200
+51,Bearing Interest  - Charged,"29,70",1,1,,6003 00 109 CN 60251
+CN,Total CN,"29,70",1,1,,
+CP,Loans for construction of houses under Tamil Nadu Government Servants Rental Housing Scheme at various places executed by Tamil Nadu Housing Board,,,,,6003 00 109 CP 60000
+602,Loan - Outgo,"46,08",1,1,1,6003 00 109 CP 60200
+51,Bearing Interest  - Charged,"46,08",1,1,1,6003 00 109 CP 60251
+CP,Total CP,"46,08",1,1,1,
+CR,Loans from TUFIDCO for Slum Clearance Schemes executed by Tamil Nadu Slum Clearance Board,,,,,6003 00 109 CR 60000,
+602,Loan - Outgo,"1,88,96","4,53","4,53",,6003 00 109 CR 60200
+51,Bearing Interest  - Charged,"1,88,96","4,53","4,53",,6003 00 109 CR 60251
+CR,Total CR,"1,88,96","4,53","4,53",,
+109,Total 109,"2,70,67","4,55","4,55",1,
+110,Ways and Means Advances from the Reserve Bank of India,,,,,
+AA,Ways and Means Advances from the Reserve Bank of India,,,,,6003 00 110 AA 60000
+602,Loan - Outgo,,1,1,1,6003 00 110 AA 60200
+51,Bearing Interest  - Charged,,1,1,1,6003 00 110 AA 60251
+AA,Total AA,1,1,1,,
+110,Total 110,1,1,1,,
+#Savings Fund of the Central Government,,,,,,
+AB,"12.5 per cent Government of Tamil Nadu (National Small Savings Fund) Special Securities, 2000 (Interest rate reset at 10.50 per cent with effect from 1.4.2007)",,,,,6003 00 111 AB 60000,
+602,Loan - Outgo,"49,62,80","49,62,80","49,62,80","49,62,80",6003 00 111 AB 60200
+51,Bearing Interest  - Charged,"49,62,80","49,62,80","49,62,80","49,62,80",6003 00 111 AB 60251
+AB,Total AB,"49,62,80","49,62,80","49,62,80","49,62,80",
+AC,"11.00 per cent Government of Tamil Nadu (National Small Savings Fund) Special Securities, 2001 (Interest rate reset at 10.50 per cent with effect from 1.4.2007)",,,,,6003 00 111 AC 60000,
+602,Loan - Outgo,"74,39,55","74,39,55","74,39,55","74,39,55",6003 00 111 AC 60200
+51,Bearing Interest  - Charged,"74,39,55","74,39,55","74,39,55","74,39,55",6003 00 111 AC 60251
+AC,Total AC,"74,39,55","74,39,55","74,39,55","74,39,55",
+AD,"10.5 per cent Government of Tamil Nadu (National Small Savings Fund) Special Securities, 2002",,,,,6003 00 111 AD 60000,
+602,Loan - Outgo,"110,00,15","110,00,15","110,00,15","110,00,15",6003 00 111 AD 60200
+51,Bearing Interest  - Charged,"110,00,15","110,00,15","110,00,15","110,00,15",6003 00 111 AD 60251
+AD,Total AD,"110,00,15","110,00,15","110,00,15","110,00,15",
+AE,"9.5 per cent Government of Tamil Nadu (National Small Savings Fund) Special Securities, 2003",,,,,6003 00 111 AE 60000,
+602,Loan - Outgo,"189,27,30","189,27,30","189,27,30","189,27,30",6003 00 111 AE 60200
+51,Bearing Interest  - Charged,"189,27,30","189,27,30","189,27,30","189,27,30",6003 00 111 AE 60251
+AE,Total AE,"189,27,30","189,27,30","189,27,30","189,27,30",
+AF,"9.5 per cent Government of Tamil Nadu (National Small Savings Fund) Special, Securities, 2003 (issued during 2004-2005)",,,,,6003 00 111 AF 60000
+602,Loan - Outgo,"295,72,50","295,72,50","295,72,50","295,72,50",6003 00 111 AF 60200
+51,Bearing Interest  - Charged,"295,72,50","295,72,50","295,72,50","295,72,50",6003 00 111 AF 60251
+AF,Total AF,"295,72,50","295,72,50","295,72,50","295,72,50",
+AG,"9.5 per cent Government of Tamil Nadu (National Small Savings Fund) Special Securities, 2003 (issued during 2005-2006)",,,,,6003 00 111 AG 60000
+602,Loan - Outgo,"304,69,15","304,69,15","304,69,15","304,69,15",6003 00 111 AG 60200
+51,Bearing Interest  - Charged,"304,69,15","304,69,15","304,69,15","304,69,15",6003 00 111 AG 60251
+AG,Total AG,"304,69,15","304,69,15","304,69,15","304,69,15",
+AH,"9.5 per cent Government of Tamil Nadu (National Small Savings Fund) Special Securities, 2003 (issued during 2006-2007)",,,,,6003 00 111 AH 60000
+602,Loan - Outgo,"200,67,25","200,67,25","200,67,25","200,67,25",6003 00 111 AH 60200
+51,Bearing Interest  - Charged,"200,67,25","200,67,25","200,67,25","200,67,25",6003 00 111 AH 60251
+AH,Total AH,"200,67,25","200,67,25","200,67,25","200,67,25",
+AI,"9.5 per cent Government of Tamil Nadu (National Small Savings Fund) Special Securities, 2003 (issued during 2007-2008)",,,,,6003 00 111 AI 60000
+602,Loan - Outgo,"26,70,55","26,70,55","26,70,55","26,70,55",6003 00 111 AI 60200
+51,Bearing Interest  - Charged,"26,70,55","26,70,55","26,70,55","26,70,55",6003 00 111 AI 60251
+AI,Total AI,"26,70,55","26,70,55","26,70,55","26,70,55",
+AJ,"9.5 per cent Government of Tamil Nadu (National Small Savings Fund) Special Securities, 2003 (issued during 2008-2009)",,,,,6003 00 111 AJ 60000
+602,Loan - Outgo,"3,07,85","3,07,85","3,07,85","3,07,85",6003 00 111 AJ 60200
+51,Bearing Interest  - Charged,"3,07,85","3,07,85","3,07,85","3,07,85",6003 00 111 AJ 60251
+AJ,Total AJ,"3,07,85","3,07,85","3,07,85","3,07,85",
+AK,"9.5 per cent Government of Tamil Nadu (National Small Savings Fund) Special Securities, 2003 (issued during 2009-2010)",,,,,6003 00 111 AK 60000
+602,Loan - Outgo,"34,73,45","34,73,45","34,73,45","34,73,45",6003 00 111 AK 60200
+51,Bearing Interest  - Charged,"34,73,45","34,73,45","34,73,45","34,73,45",6003 00 111 AK 60251
+AK,Total AK,"34,73,45","34,73,45","34,73,45","34,73,45",
+AL,"9.5 per cent Government of Tamil Nadu (National Small Savings Fund) Special Securities, 2003 (issued during 2010-2011)",,,,,6003 00 111 AL 60000
+602,Loan - Outgo,"112,97,25","112,97,25","112,97,25","112,97,25",6003 00 111 AL 60200
+51,Bearing Interest  - Charged,"112,97,25","112,97,25","112,97,25","112,97,25",6003 00 111 AL 60251
+AL,Total AL,"112,97,25","112,97,25","112,97,25","112,97,25",
+AN,"9.5 per cent Government of Tamil Nadu (National Small Savings Fund) Special Securities, 2003 (issued during 2012-2013)",,,,,6003 00 111 AN 60000
+602,Loan - Outgo,"28,15,00","28,15,00","28,15,00","28,15,00",6003 00 111 AN 60200
+51,Bearing Interest  - Charged,"28,15,00","28,15,00","28,15,00","28,15,00",6003 00 111 AN 60251
+AN,Total AN,"28,15,00","28,15,00","28,15,00","28,15,00",
+AO,"9.5 per cent Government of Tamil Nadu (National Small Savings Fund) Special Securities, 2003 (issued during 2013-2014)",,,,,6003 00 111 AO 60000
+602,Loan - Outgo,,"25,90,15","25,90,15","25,90,15",6003 00 111 AO 60200
+51,Bearing Interest  - Charged,,"25,90,15","25,90,15","25,90,15",6003 00 111 AO 60251
+AO,Total AO,"25,90,15","25,90,15","25,90,15",,
+AP,"9.5 per cent Government of Tamil Nadu (National Small Savings Fund) Special Securities, 2003 (issued during 2014-2015)",,,,,6003 00 111 AP 60000
+602,Loan - Outgo,"144,37,40","144,37,40","144,37,40","144,37,40",6003 00 111 AP 60200
+51,Bearing Interest  - Charged,"144,37,40","144,37,40","144,37,40","144,37,40",6003 00 111 AP 60251
+AP,Total AP,"144,37,40","144,37,40","144,37,40","144,37,40",
+AQ,"9.5 per cent Government of Tamil Nadu (National Small Savings Fund) Special Securities, 2003 (issued during 2015-2016)",,,,,6003 00 111 AQ 60000
+602,Loan - Outgo,"202,77,70","202,77,70","202,77,70","202,77,70",6003 00 111 AQ 60200
+51,Bearing Interest  - Charged,"202,77,70","202,77,70","202,77,70","202,77,70",6003 00 111 AQ 60251
+AQ,Total AQ,"202,77,70","202,77,70","202,77,70","202,77,70",
+111,Total 111,"1,777,17,90","1,803,08,05","1,803,08,05","1,803,08,05",
+AB,Repayment of Loans availed by Tamil Nadu Co-operative Housing Federation,,,,,6003 00 800 AB 60000
+602,Loan - Outgo,"9,01",,,,6003 00 800 AB 60200
+01,"9,01",,,,6003 00 800 AB 60201,
+AB,Total AB,"9,01",,,,
+800,Total 800,"9,01",,,,
+00,Total 00,"13,880,79,47","16,184,82,47","16,510,75,17","14,883,18,87",
+6003,Total 6003,"13,880,79,47","16,184,82,47","16,510,75,17","14,883,18,87",
+6004,LOANS AND ADVANCES FROM THE CENTRAL GOVERNMENT,,,,,
+01,Non-Plan Loans,,,,,
+201,House Building Advances,,,,,
+AA,All India Service Officers,,,,,6004 01 201 AA 60000
+602,Loan - Outgo,"69,33","48,67","48,67","43,32",6004 01 201 AA 60200
+51,Bearing Interest  - Charged,"69,33","48,67","48,67","43,32",6004 01 201 AA 60251
+AA,Total AA,"69,33","48,67","48,67","43,32",
+201,Total 201,"69,33","48,67","48,67","43,32",
+202,Police-Modernisation of Police Forces,,,,,
+AA,Loans for Modernisation of Police Forces,,,,,6004 01 202 AA 60000
+602,Loan - Outgo,"4,68,09","4,62,89","4,62,89","4,60,92",6004 01 202 AA 60200
+51,Bearing Interest  - Charged,"4,68,09","4,62,89","4,62,89","4,60,92",6004 01 202 AA 60251
+AA,Total AA,"4,68,09","4,62,89","4,62,89","4,60,92",
+202,Total 202,"4,68,09","4,62,89","4,62,89","4,60,92",
+01,Total 01,"5,37,42","5,11,56","5,11,56","5,04,24",
+101,Block Loans,,,,,
+AA,Block Loans,,,,,6004 02 101 AA 60000
+602,Loan - Outgo,"156,47,95","156,50,70","156,50,70","156,51,91",6004 02 101 AA 60200
+51,Bearing Interest  - Charged,"156,47,95","156,50,70","156,50,70","156,51,91",6004 02 101 AA 60251
+AA,Total AA,"156,47,95","156,50,70","156,50,70","156,51,91",
+101,Total 101,"156,47,95","156,50,70","156,50,70","156,51,91",
+103,Loans against external assistance received in kind (w.e.f.1.4.2005),,,,,
+AA,Loans for Tamil Nadu Urban Development Project-III from the International Bank for Reconstruction and Development (Loan No.4798-IN),,,,,6004 02 103 AA 60000
+602,Loan - Outgo,"137,73,85","137,96,34","143,37,72","148,80,44",6004 02 103 AA 60200
+51,Bearing Interest  - Charged,"137,73,85","137,96,34","143,37,72","148,80,44",6004 02 103 AA 60251
+AA,Total AA,"137,73,85","137,96,34","143,37,72","148,80,44",
+AB,Loans for Tsunami Emergency Assistance Project from the Asian Development Bank (Loan No.2166-IND),,,,,6004 02 103 AB 60000
+602,Loan - Outgo,"8,21,83","8,96,92","9,13,25","10,31,43",6004 02 103 AB 60200
+51,Bearing Interest  - Charged,"8,21,83","8,96,92","9,13,25","10,31,43",6004 02 103 AB 60251
+AB,Total AB,"8,21,83","8,96,92","9,13,25","10,31,43",
+AC,Project from the International Development Association (Loan No.4054-IN-TN),,,,,6004 02 103 AC 60000
+602,Loan - Outgo,"48,71,58","49,12,33","47,54,87","48,14,08",6004 02 103 AC 60200
+51,Bearing Interest  - Charged,"48,71,58","49,12,33","47,54,87","48,14,08",6004 02 103 AC 60251
+AC,Total AC,"48,71,58","49,12,33","47,54,87","48,14,08",
+AD,Loans for Hydrology Project Phase-II from the International Bank for Reconstruction and Development (Loan No.4749-IN),,,,,6004 02 103 AD 60000
+602,Loan - Outgo,"2,29,44","2,27,58","2,35,70","2,42,63",6004 02 103 AD 60200
+51,Bearing Interest  - Charged,"2,29,44","2,27,58","2,35,70","2,42,63",6004 02 103 AD 60251
+AD,Total AD,"2,29,44","2,27,58","2,35,70","2,42,63",
+AE,Loans for Tamil Nadu Empowerment and Poverty Reduction Project from the International Development Association (Loan No.4103-IN),,,,,6004 02 103 AE 60000
+602,Loan - Outgo,"38,92,90","39,70,00","38,53,45","38,90,60",6004 02 103 AE 60200
+51,Bearing Interest  - Charged,"38,92,90","39,70,00","38,53,45","38,90,60",6004 02 103 AE 60251
+AE,Total AE,"38,92,90","39,70,00","38,53,45","38,90,60",
+AF,Livelihoods Programme from the International Fund for Agricultural Development (Loan No.0662-IN),,,,,6004 02 103 AF 60000
+602,Loan - Outgo,"3,31,42","3,32,00","3,21,52","3,25,36",6004 02 103 AF 60200
+51,Bearing Interest  - Charged,"3,31,42","3,32,00","3,21,52","3,25,36",6004 02 103 AF 60251
+AF,Total AF,"3,31,42","3,32,00","3,21,52","3,25,36",
+AG,Loans for Tamil Nadu Irrigated Agriculture Modernization and Water Bodies Restoration and Management Project (IAMWARM) from the International Bank for Reconstruction and Development (Loan No.4846-IN),,,,,6004 02 103 AG 60000
+602,Loan - Outgo,"116,59,43","121,68,49","123,67,02","134,48,73",6004 02 103 AG 60200
+51,Bearing Interest  - Charged,"116,59,43","121,68,49","123,67,02","134,48,73",6004 02 103 AG 60251
+AG,Total AG,"116,59,43","121,68,49","123,67,02","134,48,73",
+AH,Loans for Tamil Nadu Irrigated Agriculture Modernisation and Water Bodies Restoration and Management Project (IAMWARM) from the International Development Association (Loan No.4255-IN),,,,,6004 02 103 AH 60000
+602,Loan - Outgo,"24,38,63","24,95,00","24,02,82","24,45,10",6004 02 103 AH 60200
+51,Bearing Interest  - Charged,"24,38,63","24,95,00","24,02,82","24,45,10",6004 02 103 AH 60251
+AH,Total AH,"24,38,63","24,95,00","24,02,82","24,45,10",
+AI,Project from the Japan International Co-operation Agency (JICA) (Loan Nos.IDP-196 and IDP 196A),,,,,6004 02 103 AI 60000
+602,Loan - Outgo,"21,06,58","21,61,87","21,95,99","21,95,14",6004 02 103 AI 60200
+51,Bearing Interest  - Charged,"21,06,58","21,61,87","21,95,99","21,95,14",6004 02 103 AI 60251
+AI,Total AI,"21,06,58","21,61,87","21,95,99","21,95,14",
+AJ,Loans for German KfW assisted Sustainable Municipal Infrastructure Financing in Tamil Nadu (Loan No. GODE 1425319E),,,,,6004 02 103 AJ 60000
+602,Loan - Outgo,"54,76,31","54,73,60","54,37,29","54,74,40",6004 02 103 AJ 60200
+51,Bearing Interest  - Charged,"54,76,31","54,73,60","54,37,29","54,74,40",6004 02 103 AJ 60251
+AJ,Total AJ,"54,76,31","54,73,60","54,37,29","54,74,40",
+AK,Loans for Hogenakkal Water Supply and Fluorosis Mitigation Project from the Japan International Co-operation Agency (JICA) (Loan Nos.IDP-195 and 195A),,,,,6004 02 103 AK 60000
+602,Loan - Outgo,"52,17,05","53,53,97","54,38,47","54,36,34",6004 02 103 AK 60200
+51,Bearing Interest  - Charged,"52,17,05","53,53,97","54,38,47","54,36,34",6004 02 103 AK 60251
+AK,Total AK,"52,17,05","53,53,97","54,38,47","54,36,34",
+AL,Loans for Additional Financing of Tamil Nadu Health System Project  from the International Development Association (Loan No.4756-IN),,,,,6004 02 103 AL 60000
+602,Loan - Outgo,"38,23,91","38,54,26","37,30,18","37,77,18",6004 02 103 AL 60200
+51,Bearing Interest  - Charged,"38,23,91","38,54,26","37,30,18","37,77,18",6004 02 103 AL 60251
+AL,Total AL,"38,23,91","38,54,26","37,30,18","37,77,18",
+AM,Loans for Additional Financing of Tamil Nadu Road Sector Project from the International Bank for Reconstruction  and Development (Loan No.7865-IN),,,,,6004 02 103 AM 60000
+602,Loan - Outgo,"13,56,37","13,13,03","13,64,29","13,70,12",6004 02 103 AM 60200
+51,Bearing Interest  - Charged,"13,56,37","13,13,03","13,64,29","13,70,12",6004 02 103 AM 60251
+AM,Total AM,"13,56,37","13,13,03","13,64,29","13,70,12",
+AN,Loans for Hogenakkal Water Supply and Fluorosis Mitigation Project (Phase-II) from the Japan International Co-operation Agency (JICA) - (Loan Nos.IDP-204 and 204A),,,,,6004 02 103 AN 60000
+602,Loan - Outgo,"11,00,79","23,16,17","23,52,73","23,51,81",6004 02 103 AN 60200
+51,Bearing Interest  - Charged,"11,00,79","23,16,17","23,52,73","23,51,81",6004 02 103 AN 60251
+AN,Total AN,"11,00,79","23,16,17","23,52,73","23,51,81",
+AO,Loans for Additional Financing for Tamil Nadu Empowerment and Poverty  Reduction Project from the International Development Association (Loan No.4837-IN),,,,,6004 02 103 AO 60000
+602,Loan - Outgo,"46,07,31","46,98,35","45,60,42","46,04,39",6004 02 103 AO 60200
+51,Bearing Interest  - Charged,"46,07,31","46,98,35","45,60,42","46,04,39",6004 02 103 AO 60251
+AO,Total AO,"46,07,31","46,98,35","45,60,42","46,04,39",
+AP,Loans for KfW assisted Sustainable Municipal Infrastructure Financing in Tamil Nadu (Loan No.GODE 7147741E),,,,,6004 02 103 AP 60000
+602,Loan - Outgo,"1,30,42","2,60,80","2,58,96","2,61,60",6004 02 103 AP 60200
+51,Bearing Interest  - Charged,"1,30,42","2,60,80","2,58,96","2,61,60",6004 02 103 AP 60251
+AP,Total AP,"1,30,42","2,60,80","2,58,96","2,61,60",
+AQ,Loans for Tamilnadu Bio Diversity conservation and Greening Project from the Japan International Co-operation Agency(JICA) (Loan Nos.IDP-214 and 214A),,,,,6004 02 103 AQ 60000
+602,Loan - Outgo,,,,"9,55,95",6004 02 103 AQ 60200
+51,Bearing Interest  - Charged,,,,"9,55,95",6004 02 103 AQ 60251
+AQ,Total AQ,,,"9,55,95",,
+AR,Loans for Dam Rehabilitation and Improvement Project from the International Development Association (Loan No.4787-IN),,,,,6004 02 103 AR 60000
+602,Loan - Outgo,"14,82,61","39,99,69","14,45,81","16,18,02",6004 02 103 AR 60200
+51,Bearing Interest  - Charged,"14,82,61","39,99,69","14,45,81","16,18,02",6004 02 103 AR 60251
+AR,Total AR,"14,82,61","39,99,69","14,45,81","16,18,02",
+AS,Loans for Dam Rehabilitation and Improvement Project from the International Bank for Reconstruction and Development (Loan No.7943-IN),,,,,6004 02 103 AS 60000
+602,Loan - Outgo,"2,11,47","13,68,29","7,02,95","14,27,78",6004 02 103 AS 60200
+51,Bearing Interest  - Charged,"2,11,47","13,68,29","7,02,95","14,27,78",6004 02 103 AS 60251
+AS,Total AS,"2,11,47","13,68,29","7,02,95","14,27,78",
+AT,Loans for Infrastructure Development Investment Program for Tourism Project-2 from the Asian Development Bank (Loan No.2833-IND),,,,,6004 02 103 AT 60000
+602,Loan - Outgo,"1,12,51","2,34,98","1,35,56","2,70,34",6004 02 103 AT 60200
+51,Bearing Interest  - Charged,"1,12,51","2,34,98","1,35,56","2,70,34",6004 02 103 AT 60251
+AT,Total AT,"1,12,51","2,34,98","1,35,56","2,70,34",
+AU,"Loans for Sustainable Municipal Infrastructure Financing in Tamil Nadu Phase-II, Part-I from the KfW (Loan Nos. 3663743E 6849175E, 7889464E, 9951628E)",,,,,6004 02 103 AU 60000
+602,Loan - Outgo,"64,01,70","86,40,00","63,54,70","64,00,00",6004 02 103 AU 60200
+51,Bearing Interest  - Charged,"64,01,70","86,40,00","63,54,70","64,00,00",6004 02 103 AU 60251
+AU,Total AU,"64,01,70","86,40,00","63,54,70","64,00,00",
+AX,Loans for Tamil Nadu and Puducherry Coastal Disaster Risk Reduction Project from the International Development Association (Loan,,,,,
+No.5279-IN),,,,,6004 02 103 AX 60000,
+602,Loan - Outgo,"46,89,13","83,55,98","83,34,09","81,88,87",6004 02 103 AX 60200
+51,Bearing Interest  - Charged,"46,89,13","83,55,98","83,34,09","81,88,87",6004 02 103 AX 60251
+AX,Total AX,"46,89,13","83,55,98","83,34,09","81,88,87",
+AY,Post Tsunami Sustainable Livelihood Programme for Coastal Communities of Tamil Nadu (Loan No.0691-IN),,,,,6004 02 103 AY 60000
+602,Loan - Outgo,,"3,46,67","3,35,72","3,39,74",6004 02 103 AY 60200
+51,Bearing Interest  - Charged,,"3,46,67","3,35,72","3,39,74",6004 02 103 AY 60251
+AY,Total AY,"3,46,67","3,35,72","3,39,74",,
+AZ,"Loans for Sustainable Municipal Infrastructure Financing in Tamil Nadu Phase-II, Part-2 from the KfW (Loan Nos.3618214E, 44188E, 1055956E, 1055960E and 5774016E)",,,,,6004 02 103 AZ 60000
+602,Loan - Outgo,,"80,00,00","79,46,93","80,00,00",6004 02 103 AZ 60200
+51,Bearing Interest  - Charged,,"80,00,00","79,46,93","80,00,00",6004 02 103 AZ 60251
+AZ,Total AZ,"80,00,00","79,46,93","80,00,00",,
+BA,"Loans for Green Energy Corridors - Intra State Transmission System in Tamil Nadu from the KfW (Loan,Nos.5134259E, 7383864E and 7383880E)",,,,,6004 02 103 BA 60000
+602,Loan - Outgo,,"28,95,20","28,95,20","57,90,40",6004 02 103 BA 60200
+51,Bearing Interest  - Charged,,"28,95,20","28,95,20","57,90,40",6004 02 103 BA 60251
+BA,Total BA,"28,95,20","28,95,20","57,90,40",,
+103,Total 103,"747,35,24","980,71,52","926,75,64","995,40,45",
+800,Other Loans,,,,,
+AB,Pre 2004-05 Central Loans consolidated in terms of recommendations of the 12th Finance Commission,,,,,6004 02 800 AB 60000
+602,Loan - Outgo,"272,56,61","263,27,84","263,27,84","263,27,84",6004 02 800 AB 60200
+51,Bearing Interest  - Charged,"272,56,61","263,27,84","263,27,84","263,27,84",6004 02 800 AB 60251
+AB,Total AB,"272,56,61","263,27,84","263,27,84","263,27,84",
+800,Total 800,"272,56,61","263,27,84","263,27,84","263,27,84",
+08,Centrally Sponsored Schemes,,,,,
+201,House Building Advances,,,,,
+AA,House Building Advances to All India Service Officers,,,,,6004 08 201 AA 60000
+602,Loan - Outgo,"1,05,63","1,05,63","1,05,63","1,05,63",6004 08 201 AA 60200
+51,Bearing Interest  - Charged,"1,05,63","1,05,63","1,05,63","1,05,63",6004 08 201 AA 60251
+AA,Total AA,"1,05,63","1,05,63","1,05,63","1,05,63",
+201,Total 201,"1,05,63","1,05,63","1,05,63","1,05,63",
+08,Total 08,"1,05,63","1,05,63","1,05,63","1,05,63",
+6004,Total 6004,"1,182,82,85","1,406,67,25","1,352,71,37","1,421,30,07",
