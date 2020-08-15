@@ -1,0 +1,923 @@
+head,desc,2018,2019Est,2019Rev,2020Est,dpcode
+2048-00,APPROPRIATION FOR REDUCTION OR 1AVOIDANCE OF DEBT,,,,,
+200,Other Appropriations,,,,,
+AB,"Non-Obligatory Sinking Funds towards discharge of Open Market Loans, Central Government Loans and Special Securities issued to National Small Savings Fund",,,,,2048 00 200 AB 00000
+330,Inter-Account Transfers Charged,"490,21,32","823,00,00","498,00,00","2,960,00,00",2048 00 200 AB 330 00
+01,Inter-Account Transfers Charged,"490,21,32","823,00,00","498,00,00","2,960,00,00",2048 00 200 AB 33001
+AB,Total AB Charged,"490,21,32","823,00,00","498,00,00","2,960,00,00",
+200,Total 200 Charged,"490,21,32","823,00,00","498,00,00","2,960,00,00",
+00,Total 00 Charged,"490,21,32","823,00,00","498,00,00","2,960,00,00",
+2048,Total 2048 Charged,"490,21,32","823,00,00","498,00,00","2,960,00,00",
+2049,INTEREST PAYMENTS,,,,,
+01,Interest on Internal Debt,,,,,
+101,Interest on Market Loans,,,,,
+AB,Lumpsum provision for the New Loans to be floated during the current Financial Year,,,,,2049 01 101 AB 30000
+325,Interest Charged,,"1,706,72,00",,"1,173,60,00",2049 01 101 AB 32500
+01,Interest Charged,,"1,706,72,00",,"1,173,60,00",2049 01 101 AB 32501
+AB,Total AB Charged,,"1,706,72,00",,"1,173,60,00",
+AC,Lumpsum provision for the New Loans to be floated during next Financial Year,,,,,2049 01 101 AC 30000
+325,Interest Charged,,"1,149,11,94",,"1,344,00,00",2049 01 101 AC 32500
+01,Interest Charged,,"1,149,11,94",,"1,344,00,00",2049 01 101 AC 32501
+AC,Total AC Charged,,"1,149,11,94",,"1,344,00,00",
+AD,Payment of interest towards TANGEDCO debt take over under UDAY Scheme,,,,,2049 01 101 AD 30000
+325,Interest Charged,"1,779,42,06","1,779,42,00","1,779,42,00","1,779,42,00",2049 01 101 AD 32500
+01,Interest Charged,"1,779,42,06","1,779,42,00","1,779,42,00","1,779,42,00",2049 01 101 AD 32501
+AD,Total AD Charged,"1,779,42,06","1,779,42,00","1,779,42,00","1,779,42,00",
+LA,Market Loans - Bearing Interest (Details are furnished in the Annexure),,,,,2049 01 101 LA 30000
+325,Interest Charged,"18,677,72,72","19,409,65,08","21,414,20,09","22,707,15,37",2049 01 101 LA 32500
+01,Interest Charged,"18,677,72,72","19,409,65,08","21,414,20,09","22,707,15,37",2049 01 101 LA 32501
+LA,Total LA Charged,"18,677,72,72","19,409,65,08","21,414,20,09","22,707,15,37",
+LB,Market Loans - Not Bearing Interest - Interest due during Maturity Period (Details are furnished in the Annexure),,,,,2049 01 101 LB 30000
+325,Interest Charged,1,1,1,,2049 01 101 LB 32500
+01,Interest Charged,1,1,1,,2049 01 101 LB 32501
+LB,Total LB Charged,1,1,1,,
+101,Total 101 Charged,"20,457,14,78","24,044,91,03","23,193,62,10","27,004,17,38",
+115,Interest on Ways and Means Advances from Reserve Bank of India,,,,,
+AA,Interest on Ways and Means Advances from Reserve Bank of India,2049 01 115 AA 30000,,,,
+325,Interest Charged,1,1,1,,2049 01 115 AA 32500
+01,Interest Charged,1,1,1,,2049 01 115 AA 32501
+AA,Total AA Charged,1,1,1,,
+123,Interest on Special Securities issued to National Small Savings Fund of the Central Government by State Government,,,,,
+AB,"12.50 Percent Government of Tamil Nadu (National Small Savings Fund ) Special Securities, 2000 {interest rate reset at,10.5% with effect from 1.4.2007}",,,,,2049 01 123 AB 30000
+325,Interest Charged,"41,68,75","36,47,66","36,47,66","31,26,57",2049 01 123 AB 32500
+01,Interest Charged,"41,68,75","36,47,66","36,47,66","31,26,57",2049 01 123 AB 32501
+AB,Total AB Charged,"41,68,75","36,47,66","36,47,66","31,26,57",
+AC,11 Percent Government of Tamil Nadu (National Small Savings Fund) Special Securities 2001 {interest rate reset at 10.5% with effect from 1.4.2007},,,,,2049 01 123 AC 30000
+325,Interest Charged,"70,30,38","62,49,23","62,49,22","54,68,07",2049 01 123 AC 32500
+01,Interest Charged,"70,30,38","62,49,23","62,49,22","54,68,07",2049 01 123 AC 32501
+AC,Total AC Charged,"70,30,38","62,49,23","62,49,22","54,68,07",
+AD,10.50 Percent Government of Tamil Nadu (National Small Savings Fund) Special Securities 2002,,,,2049 01 123 AD 30000,
+325,Interest Charged,"115,50,16","103,95,15","103,95,15","92,40,13",2049 01 123 AD 32500
+01,Interest Charged,"115,50,16","103,95,15","103,95,15","92,40,13",2049 01 123 AD 32501
+AD,Total AD Charged,"115,50,16","103,95,15","103,95,15","92,40,13",
+AE,"9.50 Percent Government of Tamil Nadu (National Small Savings Fund) Special Securities, 2003",,,,,2049 01 123 AE 30000
+325,Interest Charged,"197,79,03","179,80,94","179,80,94","161,82,84",2049 01 123 AE 32500
+01,Interest Charged,"197,79,03","179,80,94","179,80,94","161,82,84",2049 01 123 AE 32501
+AE,Total AE Charged,"197,79,03","179,80,94","179,80,94","161,82,84",
+AF,"9.50 Percent Government of Tamil Nadu (National Small Savings Fund) Special Securities, 2003 (issued during 2004-2005)",,,,,2049 01 123 AF 30000
+325,Interest Charged,"337,12,66","309,03,27","309,03,27","280,93,88",2049 01 123 AF 32500
+01,Interest Charged,"337,12,66","309,03,27","309,03,27","280,93,88",2049 01 123 AF 32501
+AF,Total AF Charged,"337,12,66","309,03,27","309,03,27","280,93,88",
+AG,"9.50 Percent Government of Tamil Nadu (National Small Savings Fund) Special Securities, 2003 (issued during 2005-2006)",,,,,2049 01 123 AG 30000
+325,Interest Charged,"376,29,41","347,34,84","347,34,83","318,40,26",2049 01 123 AG 32500
+01,Interest Charged,"376,29,41","347,34,84","347,34,83","318,40,26",2049 01 123 AG 32501
+AG,Total AG Charged,"376,29,41","347,34,84","347,34,83","318,40,26",
+AH,"9.50 Percent Government of Tamil Nadu (National Small Savings Fund) Special Securities, 2003 (issued during 2006-2007)",,,,,2049 01 123 AH 30000
+325,Interest Charged,"266,89,44","247,83,06","247,83,05","228,76,66",2049 01 123 AH 32500
+01,Interest Charged,"266,89,44","247,83,06","247,83,05","228,76,66",2049 01 123 AH 32501
+AH,Total AH Charged,"266,89,44","247,83,06","247,83,05","228,76,66",
+AI,"9.50 Percent Government of Tamil Nadu (National Small Savings Fund) Special Securities 2003 issued during 2007-2008)""",,,,2049 01 123 AI 30000,
+325,Interest Charged,"38,05,53","35,51,84","35,51,83","32,98,13",2049 01 123 AI 32500
+01,Interest Charged,"38,05,53","35,51,84","35,51,83","32,98,13",2049 01 123 AI 32501
+AI,Total AI,,,,,
+AJ,9.50 Percent Government of Tamil Nadu (National Small Savings Fund) Special Securities 2003 (issued during 2008-2009),,,,,2049 01 123 AJ 30000
+325,Interest Charged,"4,67,93","4,38,69","4,38,69","4,09,44",2049 01 123 AJ 32500
+01,Interest Charged,"4,67,93","4,38,69","4,38,69","4,09,44",2049 01 123 AJ 32501
+AJ,Total AJ Charged,"4,67,93","4,38,69","4,38,69","4,09,44",
+AK,"9.50 Percent Government of Tamil Nadu (National Small Savings Fund) Special Securities, 2003 (issued during 2009-2010)",,,,,2049 01 123 AK 30000
+325,Interest Charged,"56,09,62","52,79,65","52,79,64","49,49,67",2049 01 123 AK 32500
+01,Interest Charged,"56,09,62","52,79,65","52,79,64","49,49,67",2049 01 123 AK 32501
+AK,Total AK Ch`arged,"56,09,62","52,79,65","52,79,64","49,49,67",
+AL,9.50 Percent Government of Tamil Nadu (National Small Savings Fund) Special Securities 2003 (issued during 2010-2011),,,,,2049 01 123 AL 30000
+325,Interest Charged,"193,18,30","182,45,07","182,45,06","171,71,82",2049 01 123 AL 32500
+01,Interest Charged,"193,18,30","182,45,07","182,45,06","171,71,82",2049 01 123 AL 32501
+AL,Total AL,,,,,
+AN,"9.50 Percent Government of Tamil Nadu (National Smal,Savings Fund) Special Securities, 2003 issued during 2012-2013)",,,2049 01 123 AN 30000,,
+325,Interest Charged,"53,48,50","50,81,08","50,81,08","48,13,65",2049 01 123 AN 32500
+01,Interest Charged,"53,48,50","50,81,08","50,81,08","48,13,65",2049 01 123 AN 32501
+AN,Total AN Charged,"53,48,50","50,81,08","50,81,08","48,13,65",
+AO,9.50 Percent Government of Tamil Nadu (National Small Savings Fund) Special Securities 2003 (issued during 2013-2014),,,,,2049 01 123 AO 30000
+325,Interest Charged,"49,21,28","49,21,29","49,21,29","46,75,22",2049 01 123 AO 32500
+01,Interest Charged,"49,21,28","49,21,29","49,21,29","46,75,22",2049 01 123 AO 32501
+AO,Total AO Charged,"49,21,28","49,21,29","49,21,29","46,75,22",
+AP,"9.50 Percent Government of Tamil Nadu (National Small Savings Fund) Special Securities, 2003 (issued during 2014-2015)",,,,,2049 01 123 AP 30000
+325,Interest Charged,"96,00,87","82,29,32","82,29,32","68,57,77",2049 01 123 AP 32500
+01,Interest Charged,"96,00,87","82,29,32","82,29,32","68,57,77",2049 01 123 AP 32501
+AP,Total AP,,,,,
+AQ,"9.50 Percent Government of Tamil Nadu (National Small Savings Fund) Special Securities, 2003 (issued during 2015-2016)",,,,,2049 01 123 AQ 30000
+325,Interest Charged,"154,11,05","134,84,68","134,84,67","115,58,29",2049 01 123 AQ 32500
+01,Interest Charged,"154,11,05","134,84,68","134,84,67","115,58,29",2049 01 123 AQ 32501
+AQ,Total AQ Charged,"154,11,05","134,84,68","134,84,67","115,58,29",
+123,Total 123 Charged,"2,050,42,91","1,879,25,77","1,879,25,70","1,705,62,40",
+200,Interest on other Internal Debts,,,,,
+AB,Loans from the National Cooperative Development Corporation payable by Registrar of Cooperative Societies,,,,,2049 01 200 AB 30000
+325,Interest Charged,"25,78,68","30,00,00","26,96,73","30,00,00",2049 01 200 AB 32500
+01,Interest Charged,"25,78,68","30,00,00","26,96,73","30,00,00",2049 01 200 AB 32501
+AB,Total AB Charged,"25,78,68","30,00,00","26,96,73","30,00,00",
+AC,Loans from the National Agricultural Credit (Long Term Operation) Fund of the NABARD,,,,,2049 01 200 AC 30000
+325,Interest Charged,,1,1,1,2049 01 200 AC 32500
+01,Interest Charged,,1,1,1,2049 01 200 AC 32501
+AC,Total AC Charged,,,1,1,1
+AD,Loans from Life Insurance Corporation of India,,,,,2049 01 200 AD 30000
+325,Interest Charged,"2,18,63","1,37,25","1,37,25","84,54",2049 01 200 AD 32500
+01,Interest Charged,"2,18,63","1,37,25","1,37,25","84,54",2049 01 200 AD 32501
+AD,Total AD Charged,"2,18,63","1,37,25","1,37,25","84,54",
+AF,Loans from the General Insurance Corporation of India payable by the Registrar of Co-operative Societies (Housing),,,,,2049 01 200 AF 30000
+325,Interest Charged,"5,21,77","4,28,37","4,35,21","3,70,21",2049 01 200 AF 32500
+01,Interest Charged,"5,21,77","4,28,37","4,35,21","3,70,21",2049 01 200 AF 32501
+AF,Total AF Charged,"5,21,77","4,28,37","4,35,21","3,70,21",
+AK,Loans from National Cooperative Development Corporation payable by Department of Sugar,,,,,2049 01 200 AK 30000
+325,Interest Charged,"1,44,67",1,1,1,2049 01 200 AK 32500
+01,Interest Charged,"1,44,67",1,1,1,2049 01 200 AK 32501
+AK,Total AK Charged,"1,44,67",1,1,1,
+AL,Loans from National Cooperative Development Corporation payable by Handlooms and Textiles Department,,,,,2049 01 200 AL 30000
+325,Interest Charged,"12,36,34","15,00,00","9,49,33","15,00,00",2049 01 200 AL 32500
+01,Interest Charged,"12,36,34","15,00,00","9,49,33","15,00,00",2049 01 200 AL 32501
+AL,Total AL Charged,"12,36,34","15,00,00","9,49,33","15,00,00",
+AU,Loans from NABARD under Rural Infrastructure Development Fund,,,,,2049 01 200 AU 30000
+325,Interest Charged,"537,52,36","580,05,41","553,86,59","600,84,15",2049 01 200 AU 32500
+01,Interest Charged,"537,52,36","580,05,41","553,86,59","600,84,15",2049 01 200 AU 32501
+AU,Total AU Charged,"537,52,36","580,05,41","553,86,59","600,84,15",
+BD,Loans from Life Insurance Corporation for Rural Water Supply Schemes through TWAD Board,,,,,2049 01 200 BD 30000
+325,Interest Charged,"43,02,03","38,90,45","38,90,45","34,78,87",2049 01 200 BD 32500
+01,Interest Charged,"43,02,03","38,90,45","38,90,45","34,78,87",2049 01 200 BD 32501
+BD,Total BD Charged,"43,02,03","38,90,45","38,90,45","34,78,87",
+CM,Loans from SBI to foreclose the High cost loans on housing sector,,,,,2049 01 200 CM 30000
+325,Interest Charged,"2,68,45","29,99","28,21","
+2049,01 200 CM 325 00",
+01,Interest Charged,"2,68,45","29,99","28,21","
+2049,01 200 CM 325 01",
+CM,Total CM Charged,"2,68,45","29,99","28,21",,
+CY,Loans from LIC for implementation of Rural Water Supply Schemes - Phase II,,,,,2049 01 200 CY 30000
+325,Interest Charged,"22,55,60","19,58,01","19,58,01","16,70,67",2049 01 200 CY 32500
+01,Interest Charged,"22,55,60","19,58,01","19,58,01","16,70,67",2049 01 200 CY 32501
+CY,Total CY Charged,"22,55,60","19,58,01","19,58,01","16,70,67",
+DC,Loans from TUFIDCO for Flood Allevation Project,,,,,2049 01 200 DC 30000
+325,Interest Charged,25,,,"
+2049,01 200 DC 325 00",
+01,Interest Charged,25,,,"
+2049,01 200 DC 325 01",
+DC,Total DC Charged,25,,,,
+DE,Loans from TUFIDCO for Slum clearance scheme,,,,,2049 01 200 DE 30000
+325,Interest Charged,"4,83",9,9,"
+2049,01 200 DE 325 00",
+01,Interest Charged,"4,83",9,9,"
+2049,01 200 DE 325 01",
+DE,Total DE Charged,"4,83",9,9,,
+DF,Loans from IOB and Canara Bank for construction of houses under Tamil Nadu Government Servants Rental Housing Scheme,,,,,2049 01 200 DF 30000
+325,Interest Charged,"1,03",1,1,1,2049 01 200 DF 32500
+01,Interest Charged,"1,03",1,1,1,2049 01 200 DF 32501
+DF,Total DF Charged,"1,03",1,1,1,
+DG,Loans from Canara Bank,,,,,
+for,construction of housing complex for Legislators executed,,,,,
+by,Tamil Nadu Housing Board,,,,,2049 01 200 DG 30000
+325,Interest Charged,67,1,1,1,2049 01 200 DG 32500
+01,Interest Charged,67,1,1,1,2049 01 200 DG 32501
+DG,Total DG Charged,67,1,1,1,
+DK,Loans from NABARD for Watershed Development Fund,,,,,2049 01 200 DK 30000
+325,Interest Charged,"1,14,30","1,20,30","1,05,68","1,10,97",2049 01 200 DK 32500
+01,Interest Charged,"1,14,30","1,20,30","1,05,68","1,10,97",2049 01 200 DK 32501
+DK,Total DK Charged,"1,14,30","1,20,30","1,05,68","1,10,97",
+DN,Interest on Loan Taken for Economically Weaker Sections.,,,,2049 01 200 DN 30000,
+325,Interest Charged,29,,,"
+2049,01 200 DN 325 00",
+01,Interest Charged,29,,,"
+2049,01 200 DN 325 01",
+DN,Total DN Charged,29,,,,
+DO,Payment of interest on securitised dues of Tamil Nadu Electricity Board,,,,,2049 01 200 DO 30000
+325,Interest Charged,"103,46,44",,,,2049 01 200 DO 32500
+01,Interest Charged,"103,46,44",,,,2049 01 200 DO 325 01
+DO,Total DO Charged,"103,46,44",,,,
+200,Total 200 Charged,"757,46,34","690,69,91","655,87,59","702,99,45",
+305,Management of Debt,,,,,
+AA,Management of Tamil Nadu Government Loans,,,,,2049 01 305 AA 30000
+333,Payments for Professional and Special Services Charged,"57,39,31","67,62,77","65,15,67","74,07,72",2049 01 305 AA 33300
+09,Other Payments Charged,"57,39,31","67,62,77","65,15,67","74,07,72",2049 01 305 AA 33309
+AA,Total AA Charged,"57,39,31","67,62,77","65,15,67","74,07,72",
+AB,Expenditure connected with issue of loans,,,,,2049 01 305 AB 30000
+308,Advertising and Publicity Charged,"86,79","79,99","94,39","79,99",2049 01 305 AB 30800
+01,Advertisement Charges Charged,"86,79","79,99","94,39","79,99",2049 01 305 AB 30801
+AB,Total AB Charged,"86,79","79,99","94,39","79,99",
+AC,Charges payable to Reserve Bank of India towards postage and telegram charges and printing of Border forms,,,,,2049 01 305 AC 30000
+371,Printing Charges Charged,,1,1,1,2049 01 305 AC 37100
+01,Printing Charges Charged,,1,1,1,2049 01 305 AC 37101
+AC,Total AC Charged,,,1,1,1
+AD,"Bank commission charges Telegraphic Transfer, etc. on account of receipt/repayment of loan obtained from Autonomous bodies/Corporation",,,,2049 01 305 AD 30000,
+342,Service or Commitment Charges Charged,,1,1,1,2049 01 305 AD 34200
+01,Service or Commitment Charges Charged,,1,1,1,2049 01 305 AD 34201
+AD,Total AD Charged,,1,1,1,
+AG,Discount allowed on re-issue of Tamil Nadu Government Securities (Market Loans),,,,,2049 01 305 AG 30000
+340,Discount on Loans Charged,"431,62,47",1,"49,10,56",1,2049 01 305 AG 34000
+01,Discount on Loans Charged,"431,62,47",1,"49,10,56",1,2049 01 305 AG 34001
+AG,Total AG DEBT CHARGES,,,,,
+01,Total 01 Charged,"23,754,92,60","26,683,29,51","25,843,96,04","29,487,66,98",
+03,"Interest on Small Savings, Provident Funds etc.",,,,,
+104,Interest on State Provident Funds,,,,,
+AA,Interest on General Provident Fund,,,,,2049 03 104 AA 30000
+325,Interest Charged,"851,63,86","958,96,84","944,10,41","1,038,51,45",2049 03 104 AA 32500
+01,Interest Charged,"851,63,86","958,96,84","944,10,41","1,038,51,45",2049 03 104 AA 32501
+AA,Total AA Charged,"851,63,86","958,96,84","944,10,41","1,038,51,45",
+AC,Interest on All-India Services Provident Fund,,,,,2049 03 104 AC 30000
+325,Interest Charged,"6,48,99","7,41,40","7,45,00","8,19,50",2049 03 104 AC 32500
+01,Interest Charged,"6,48,99","7,41,40","7,45,00","8,19,50",2049 03 104 AC 32501
+AC,Total AC Charged,"6,48,99","7,41,40","7,45,00","8,19,50",
+AD,Interest on Government Industrial Employees Provident Fund,,,,,2049 03 104 AD 30000
+325,Interest Charged,"2,23,00","2,32,00","2,54,00","2,63,00",2049 03 104 AD 32500
+01,Interest Charged,"2,23,00","2,32,00","2,54,00","2,63,00",2049 03 104 AD 32501
+AD,Total AD Charged,"2,23,00","2,32,00","2,54,00","2,63,00",
+AJ,Interest on Deposit of Aided College Teachers/Staff Provident Fund,,,,,2049 03 104 AJ 30000
+325,Interest Charged,"32,40,00","33,04,04","32,75,00","33,04,04",2049 03 104 AJ 32500
+01,Interest Charged,"32,40,00","33,04,04","32,75,00","33,04,04",2049 03 104 AJ 32501
+AJ,Total AJ Charged,"32,40,00","33,04,04","32,75,00","33,04,04",
+AK,Interest on deposits of Aided School Teachers/Staff Provident  Fund,,,,,2049 03 104 AK 30000,
+325,Interest Charged,"1,171,28,00","1,150,00,00","1,000,00,00","1,320,00,00",2049 03 104 AK 32500
+01,Interest Charged,"1,171,28,00","1,150,00,00","1,000,00,00","1,320,00,00",2049 03 104 AK 32501
+AK,Total AK Charged,"1,171,28,00","1,150,00,00","1,000,00,00","1,320,00,00",
+AL,Interest on deposits of Aided Technical Institution Teachers Provident Fund,,,,,2049 03 104 AL 30000
+325,Interest Charged,"10,93,17","12,02,49","11,82,65","13,00,92",2049 03 104 AL 32500
+01,Interest Charged,"10,93,17","12,02,49","11,82,65","13,00,92",2049 03 104 AL 32501
+AL,Total AL Charged,"10,93,17","12,02,49","11,82,65","13,00,92",
+AM,Interest on Tamil Nadu Nutritious Meal and Integrated Child Development Employees General Provident Fund,,,,,2049 03 104 AM 30000
+325,Interest Charged,"35,22,66","31,09,87","36,89,18","40,58,10",2049 03 104 AM 32500
+01,Interest Charged,"35,22,66","31,09,87","36,89,18","40,58,10",2049 03 104 AM 32501
+AM,Total AM Charged,"35,22,66","31,09,87","36,89,18","40,58,10",
+AN,Interest on deposits of Panchayat Union School Teachers Provident Fund in Elementary Education,,,,,2049 03 104 AN 30000
+325,Interest Charged,"205,95,10","430,62,44","527,22,32","312,43,18",2049 03 104 AN 32500
+01,Interest Charged,"205,95,10","430,62,44","527,22,32","312,43,18",2049 03 104 AN 32501
+AN,Total AN Charged,"205,95,10","430,62,44","527,22,32","312,43,18",
+AO,Interest on deposits of Municipal School Teachers Provident Fund in Elementary Education,,,,,2049 03 104 AO 30000
+325,Interest Charged,"9,05,35","9,51,81","18,27,64","18,17,67",2049 03 104 AO 32500
+01,Interest Charged,"9,05,35","9,51,81","18,27,64","18,17,67",2049 03 104 AO 32501
+AO,Total AO Charged,"9,05,35","9,51,81","18,27,64","18,17,67",
+104,Total 104 Charged,"2,325,20,13","2,635,00,89","2,581,06,20","2,786,57,86",
+107,Interest on Trust and Endownments,,,,,
+AA,Eight Percent Perpetual Loan,,,,,2049 03 107 AA 30000
+325,Interest Charged,5,10,10,10,2049 03 107 AA 32500
+01,Interest Charged,5,10,10,10,2049 03 107 AA 32501
+AA,Total AA Charged,5,10,10,10,
+AB,6% Perpetual Loan,,,,,2049 03 107 AB 30000
+325,Interest Charged,,1,1,1,2049 03 107 AB 32500
+01,Interest Charged,,1,1,1,2049 03 107 AB 32501
+AB,Total AB Charged,,1,1,1,
+AC,Endowments of the Native infirmary (Royapuram Hospital) (4 Percent),,,,2049 03 107 AC 30000,
+325,Interest Charged,,3,3,3,2049 03 107 AC 32500
+01,Interest Charged,,3,3,3,2049 03 107 AC 32501
+AC,Total AC Charged,,3,3,3,
+AE,Kolla Singanna Chetty Endowment Choultries,,,,,2049 03 107 AE 30000
+325,Interest Charged,,2,2,2,2049 03 107 AE 32500
+01,Interest Charged,,2,2,2,2049 03 107 AE 32501
+AE,Total AE,,,,,
+109,Interest on Special Deposits and Accounts,,,,,
+AK,Interest on Tamil Nadu Government Employees Special Provident Fund Gratuity Scheme 2000,,,,,2049 03 109 AK 30000
+325,Interest Charged,"13,25,88","16,06,00","19,00,00","19,50,00",2049 03 109 AK 32500
+01,Interest Charged,"13,25,88","16,06,00","19,00,00","19,50,00",2049 03 109 AK 32501
+AK,Total AK Charged,"13,25,88","16,06,00","19,00,00","19,50,00",
+AL,Interest on belated payment made to family members under Family Security Fund,,,,,2049 03 109 AL 30000
+325,Interest Charged,,1,1,1,2049 03 109 AL 32500
+01,Interest Charged,,1,1,1,2049 03 109 AL 32501
+AL,Total AL Charged,,1,1,1,
+109,Total 109 Charged,"13,25,88","16,06,01","19,00,01","19,50,01",
+111,Interest on Other Deposits and Accounts,,,,,
+AB,Interest on Tamil Nadu Government Employees Special Provident Fund-cum-Gratuity Scheme,,,,,2049 03 111 AB 30000
+325,Interest Charged,"35,52,18","42,32,00","42,00,00","42,50,00",2049 03 111 AB 32500
+01,Interest Charged,"35,52,18","42,32,00","42,00,00","42,50,00",2049 03 111 AB 32501
+AC,Interest on Tamil Nadu Village Servant Special Provident Fund-cum-Gratuity Scheme,,,,,2049 03 111 AC 30000,
+325,Interest Charged,"19,32","19,10","12,30","12,80",2049 03 111 AC 32500
+01,Interest Charged,"19,32","19,10","12,30","12,80",2049 03 111 AC 32501
+AC,Total AC Charged,"19,32","19,10","12,30","12,80",
+AD,Interest on Special Provident Fund - cum - Gratuity Scheme for Aided Educational Institutions - Controlled by the Director of School Education,,,,,2049 03 111 AD 30000
+325,Interest Charged,"2,56,04","4,75,00","4,75,00","5,00,00",2049 03 111 AD 32500
+01,Interest Charged,"2,56,04","4,75,00","4,75,00","5,00,00",2049 03 111 AD 32501
+AD,Total AD Charged,"2,56,04","4,75,00","4,75,00","5,00,00",
+AE,Interest on SPF cum Gratuity Scheme for Aided Technical Educational Institution Teachers- Controlled by the Director of Technical Education,,,,,2049 03 111 AE 30000
+325,Interest Charged,"28,19","27,43","40,59","44,65",2049 03 111 AE 32500
+01,Interest Charged,"28,19","27,43","40,59","44,65",2049 03 111 AE 32501
+AE,Total AE,,,,,
+AF,Interest on SPF cum Gratuity Scheme for Aided College Teachers - Controlled by the Director of Collegiate Education,,,,,2049 03 111 AF 30000
+325,Interest Charged,"1,38,59","1,58,26","1,58,00","1,58,26",2049 03 111 AF 32500
+01,Interest Charged,"1,38,59","1,58,26","1,58,00","1,58,26",2049 03 111 AF 32501
+AF,Total AF Charged,"1,38,59","1,58,26","1,58,00","1,58,26",
+AG,Interest on S.P.F-cum-Gratuity Scheme for Elementary Education Teachers- Controlled by the Director of Elementary Education,,,,,2049 03 111 AG 30000
+325,Interest Charged,"1,90,98","2,00,00","2,00,00","2,00,00",2049 03 111 AG 32500
+01,Interest Charged,"1,90,98","2,00,00","2,00,00","2,00,00",2049 03 111 AG 32501
+AG,Total AG Charged,"1,90,98","2,00,00","2,00,00","2,00,00",
+AL,Interest on Special Provident Fund-cum-Gratuity Schemes for Municipal and Corporation Elementary Schools - Controlled by the Director of Elementary Education,,,,,2049 03 111 AL 30000
+325,Interest Charged,"58,80","65,00","65,00","65,00",2049 03 111 AL 32500
+01,Interest Charged,"58,80","65,00","65,00","65,00",2049 03 111 AL 32501
+AL,Total AL,,,,,
+AM,Interest on Special Provident Fund-cum-Gratuity Scheme for Municipal and Corporation High / Higher Secondary Schools - controlled by the Director of School Education,,,,,2049 03 111 AM 30000
+325,Interest Charged,"21,16","50,00","50,00","55,00",2049 03 111 AM 32500
+01,Interest Charged,"21,16","50,00","50,00","55,00",2049 03 111 AM 32501
+AM,Total AM Charged,"21,16","50,00","50,00","55,00",
+111,Total 111 Charged,"42,65,26","52,26,79","52,00,89","52,85,71",
+117,Interest on Defined Contribution Pension Scheme,,,,,
+AA,Interest on Defined Contributory Pension Scheme for Tamil Nadu State Government Employees - Employees Contribution,,,,,2049 03 117 AA 30000
+325,Interest Charged,"720,99,70","896,25,49","896,25,49","1,192,37,71",2049 03 117 AA 32500
+01,Interest Charged,"720,99,70","896,25,49","896,25,49","1,192,37,71",2049 03 117 AA 32501
+AA,Total AA Charged,"720,99,70","896,25,49","896,25,49","1,192,37,71",
+AB,Interest on New Pension Scheme of All India Service Officers,,,,,2049 03 117 AB 30000
+325,Interest Charged,,,"1",,2049 03 117 AB 32500
+01,Interest Charged,,,"1",,2049 03 117 AB 325 01
+AB,Total AB Charged,,,"1",,
+AC,Interest on Defined Contributory Pension Scheme for All India Service Officers - Employees Contribution,,,,,2049 03 117 AC 30000
+325,Interest Charged,"48,27","53,10","53,10","53,10",2049 03 117 AC 32500
+01,Interest Charged,"48,27","53,10","53,10","53,10",2049 03 117 AC 32501
+AC,Total AC Charged,"48,27","53,10","53,10","53,10",
+AE,Interest on Defined Contributory Pension Scheme for Tamil Nadu State Government Employees - Government Contribution,,,,,2049 03 117 AE 30000
+325,Interest Charged,"720,99,70","896,25,49","896,25,49","1,192,37,71",2049 03 117 AE 32500
+01,Interest Charged,"720,99,70","896,25,49","896,25,49","1,192,37,71",2049 03 117 AE 32501
+AE,Total AE Charged,"720,99,70","896,25,49","896,25,49","1,192,37,71",
+AF,Interest on Defined Contributory Pension Scheme for Tamil Nadu Aided Educational Institution Employees - Employees Contribution,,,,,2049 03 117 AF 30000
+325,Interest Charged,"113,37,91","138,60,68","131,60,68","180,32,19",2049 03 117 AF 32500
+01,Interest Charged,"113,37,91","138,60,68","131,60,68","180,32,19",2049 03 117 AF 32501
+AF,Total AF Charged,"113,37,91","138,60,68","131,60,68","180,32,19",
+AG,Interest on Defined Contributory Pension Scheme for Tamil Nadu Aided Educational Institution Employees - Government Contribution,,,,,2049 03 117 AG 30000
+325,Interest Charged,"113,37,91","138,60,68","131,60,68","180,32,19",2049 03 117 AG 32500
+01,Interest Charged,"113,37,91","138,60,68","131,60,68","180,32,19",2049 03 117 AG 32501
+AG,Total AG Charged,"113,37,91","138,60,68","131,60,68","180,32,19",
+AH,Interest on Defined Contributory Pension Scheme for Panchayat Union Schools Employees - Employees Contribution,,,,,2049 03 117 AH 30000
+325,Interest Charged,"113,95,93","135,34,97","135,34,97","176,63,97",2049 03 117 AH 32500
+01,Interest Charged,"113,95,93","135,34,97","135,34,97","176,63,97",2049 03 117 AH 32501
+AH,Total AH Charged,"113,95,93","135,34,97","135,34,97","176,63,97",
+AI,Interest on Defined Contributory Pension Scheme for Panchayat Union Schools Employees - Government Contribution,,,,,2049 03 117 AI 30000
+325,Interest Charged,"113,95,93","135,34,97","135,34,97","176,63,97",2049 03 117 AI 32500
+01,Interest Charged,"113,95,93","135,34,97","135,34,97","176,63,97",2049 03 117 AI 32501
+AI,Total AI Charged,"113,95,93","135,34,97","135,34,97","176,63,97",
+AJ,Interest on Defined Contributory Pension Scheme for Municipal Schools Employees - Employees Contribution,,,,,2049 03 117 AJ 30000
+325,Interest Charged,"8,13,33","9,95,07","11,10,32","13,90,24",2049 03 117 AJ 32500
+01,Interest Charged,"8,13,33","9,95,07","11,10,32","13,90,24",2049 03 117 AJ 32501
+AJ,Total AJ Charged,"8,13,33","9,95,07","11,10,32","13,90,24",
+AK,Interest on Defined Contributory Pension Scheme for Municipal Schools Employees - Government Contribution,,,,,2049 03 117 AK 30000
+325,Interest Charged,"8,13,33","9,95,07","11,10,32","13,90,24",2049 03 117 AK 32500
+01,Interest Charged,"8,13,33","9,95,07","11,10,32","13,90,24",2049 03 117 AK 32501
+AK,Total AK Charged,"8,13,33","9,95,07","11,10,32","13,90,24",
+AL,Interest on Defined Contributory Pension Scheme of All India Service Officers - Government Contribution,,,,,2049 03 117 AL 30000
+325,Interest Charged,"48,27","53,10","53,10","53,10",2049 03 117 AL 32500
+01,Interest Charged,"48,27","53,10","53,10","53,10",2049 03 117 AL 32501
+AL,Total AL Charged,"48,27","53,10","53,10","53,10",
+AM,Management charges of Investment of Defined Contribution Pension Scheme with Life Insurance Corporation of India,,,,,2049 03 117 AM 30000
+333,Payments for Professional and Special Services Charged,,,"20,89,63","41,65,17",2049 03 117 AM 33300
+09,Other Payments Charged,,,"20,89,63","41,65,17",2049 03 117 AM 33309
+AM,Total AM Charged,,,"20,89,63","41,65,17",
+117,Total 117 Charged,"1,913,90,28","2,361,38,63","2,370,58,75","3,169,19,59",
+911,Deduct - Recoveries of Overpayments,,,,,
+AA,Interest on Defined Contributory Pension Scheme towards Tamil Nadu State Government Employees - Government Contribution,,,,,2049 03 911 AA 30000
+377,Deduct-Recoveries Charged,"-9,82",,,,2049 03 911 AA 37700
+02,Recoveries of Overpayments / Remittance of excess drawals Charged,"-9,82",,,,2049 03 911 AA 377 02
+AA,Total AA Charged,"-9,82",,,,
+911,Total 911 Charged,"-9,82",,,,
+03,Total 03 Charged,"4,294,91,78","5,064,72,48","5,022,66,01","6,028,13,33",
+04,Interest on Loans and Advances from the Central Government,,,,,
+101,Interest on Loans for State / Union Territory Plan Schemes,,,,,
+AA,Interest on Loans for State Plan Schemes,,,,,2049 04 101 AA 30000
+325,Interest Charged,"131,63,94","117,55,64","117,55,64","103,47,07",2049 04 101 AA 32500
+01,Interest Charged,"131,63,94","117,55,64","117,55,64","103,47,07",2049 04 101 AA 32501
+AA,Total AA Charged,"131,63,94","117,55,64","117,55,64","103,47,07",
+AB,Interest on Pre 2004-2005 Central Loans consolidated in terms of recommendations of the 12th Finance Commission,,,,,2049 04 101 AB 30000
+325,Interest Charged,"119,40,81","99,66,22","98,96,56","79,21,97",2049 04 101 AB 32500
+01,Interest Charged,"119,40,81","99,66,22","98,96,56","79,21,97",2049 04 101 AB 32501
+AB,Total AB Charged,"119,40,81","99,66,22","98,96,56","79,21,97",
+AC,Interest on Loans for Tamil Nadu Urban Development Project-III from the International Bank for Reconstruction and Development (Loan No.4798-IN),,,,2049 04 101 AC 30000,
+325,Interest Charged,"32,81,79","33,15,41","33,02,02","33,02,02",2049 04 101 AC 32500
+01,Interest Charged,"32,81,79","33,15,41","33,02,02","33,02,02",2049 04 101 AC 32501
+AC,Total AC Charged,"32,81,79","33,15,41","33,02,02","33,02,02",
+AD,Interest on Loans for Tsunami Emergency Assistance Project from the Asian Development Bank (Loan No.2166-IND),,,,2049 04 101 AD 30000,
+325,Interest Charged,"11,94,74","16,19,53","14,35,70","18,20,58",2049 04 101 AD 32500
+01,Interest Charged,"11,94,74","16,19,53","14,35,70","18,20,58",2049 04 101 AD 32501
+AD,Total AD,,,,,
+AE,Interest on Loans for Emergency Tsunami Reconstruction Project from the International Development Association (Loan No.4054-IN-TN),,,,2049 04 101 AE 30000,
+342,Service or Commitment Charges Charged,"5,98,70","5,61,85","5,78,72","5,14,51",2049 04 101 AE 34200
+01,Service or Commitment Charges Charged,"5,98,70","5,61,85","5,78,72","5,14,51",2049 04 101 AE 34201
+AE,Total AE Charged,"5,98,70","5,61,85","5,78,72","5,14,51",
+AF,Interest on Loans for Hydrology Project Phase-II from the International Bank for Reconstruction and Development (Loan No.4749-IN),,,,,2049 04 101 AF 30000
+325,Interest Charged,"44,55","37,63","42,83","42,83",2049 04 101 AF 32500
+01,Interest Charged,"44,55","37,63","42,83","42,83",2049 04 101 AF 32501
+AF,Total AF Charged,"44,55","37,63","42,83","42,83",
+AG,Interest on Loans for Tamil Nadu Empowerment and Poverty Reduction Project from the International Development Association (Loan No.4103-IN),,,,,2049 04 101 AG 30000
+342,Service or Commitment Charges Charged,"4,45,58","4,39,18","4,33,34","4,01,22",2049 04 101 AG 34200
+01,Service or Commitment Charges Charged,"4,45,58","4,39,18","4,33,34","4,01,22",2049 04 101 AG 34201
+AG,Total AG Charged,"4,45,58","4,39,18","4,33,34","4,01,22",
+AH,"Interest on Loans for Post Tsunami Sustainable Livelihoods Programme from the International Fund for Agricultural Development (Loan Nos.0662-IN, 0691-IN and,2000001433)",,,,,2049 04 101 AH 30000
+342,Service or Commitment Charges Charged,"1,70,14","3,02,86","2,07,84","3,78,30",2049 04 101 AH 34200
+01,Service or Commitment Charges Charged,"1,70,14","3,02,86","2,07,84","3,78,30",2049 04 101 AH 34201
+AH,Total AH Charged,"1,70,14","3,02,86","2,07,84","3,78,30",
+AI,Interest on Loans for  Tamil Nadu Irrigated Agriculture Modernization and Water Bodies Restoration and Management Project (IAMWARM) from the International Bank for Reconstruction and Development (Loan No.4846-IN),,,,,2049 04 101 AI 30000
+325,Interest Charged,"35,29,63","31,15,01","40,67,02","36,95,22",2049 04 101 AI 32500
+01,Interest Charged,"35,29,63","31,15,01","40,67,02","36,95,22",2049 04 101 AI 32501
+AI,Total AI Charged,"35,29,63","31,15,01","40,67,02","36,95,22",
+AJ,Interest on Loans for  Tamil Nadu Irrigated Agriculture Modernization and Water Bodies Restoration and Management Project (IAMWARM) from the International Development Association (Loan No.4255-IN),,,,,2049 04 101 AJ 30000
+342,Service or Commitment Charges Charged,"2,81,34","2,76,01","2,78,62","2,52,16",2049 04 101 AJ 34200
+01,Service or Commitment Charges Charged,"2,81,34","2,76,01","2,78,62","2,52,16",2049 04 101 AJ 34201
+AJ,Total AJ Charged,"2,81,34","2,76,01","2,78,62","2,52,16",
+AK,Interest on Loans for Japan International Cooperation Agency (JICA) assisted Tamil Nadu Urban Infrastructure Projects (Loan Nos.IDP 196 & 196A),,,,,2049 04 101 AK 30000
+325,Interest Charged,"4,99,57","4,87,79","4,95,50","4,67,62",2049 04 101 AK 32500
+01,Interest Charged,"4,99,57","4,87,79","4,95,50","4,67,62",2049 04 101 AK 32501
+AK,Total AK Charged,"4,99,57","4,87,79","4,95,50","4,67,62",
+AL,Interest on Loans for German Development Bank KfW assisted Sustainable Municipal Infrastructure Financing in Tamil Nadu (Loan Nos.1425319E & 7147741E),,,,,2049 04 101 AL 30000
+325,Interest Charged,"6,68,43","4,40,93","4,43,15","2,22,87",2049 04 101 AL 32500
+01,Interest Charged,"6,68,43","4,40,93","4,43,15","2,22,87",2049 04 101 AL 32501
+AL,Total AL Charged,"6,68,43","4,40,93","4,43,15","2,22,87",
+AM,Interest on Loans for Japan International Cooperation Agency (JICA) assisted Hogenakkal Water Supply and Fluorosis Mitigation Project (Loan Nos.IDP 195 195A 204 and 204A),,,,,2049 04 101 AM 30000
+325,Interest Charged,"17,21,23","16,88,89","17,15,56","16,20,56",2049 04 101 AM 32500
+01,Interest Charged,"17,21,23","16,88,89","17,15,56","16,20,56",2049 04 101 AM 32501
+AM,Total AM Charged,"17,21,23","16,88,89","17,15,56","16,20,56",
+AO,Interest on Loans for International Development Association assisted Additional financing for Tamil Nadu Health System Project (Loan No.4756-IN),,,,,2049 04 101 AO 30000
+342,Service or Commitment Charges Charged,"4,98,64","4,69,74","4,82,16","4,32,02",2049 04 101 AO 34200
+01,Service or Commitment Charges Charged,"4,98,64","4,69,74","4,82,16","4,32,02",2049 04 101 AO 34201
+AO,Total AO Charged,"4,98,64","4,69,74","4,82,16","4,32,02",
+AP,Interest on Loans for  International Bank for Reconstruction and Development assisted Additional financing for Tamil Nadu Road Sector Project (Loan No.7865-IN),,,,,2049 04 101 AP 30000
+325,Interest Charged,"6,68,07","1,96,46","7,06,55","7,06,55",2049 04 101 AP 32500
+01,Interest Charged,"6,68,07","1,96,46","7,06,55","7,06,55",2049 04 101 AP 32501
+AP,Total AP Charged,"6,68,07","1,96,46","7,06,55","7,06,55",
+AQ,Interest on Loans for Japan International Cooperation Agency assisted Tamil Nadu Bio-Diversity Conservation and Greening Project (Loan Nos.IDP 214 and 214-A),,,,,2049 04 101 AQ 30000
+325,Interest Charged,"2,71,39","3,04,81","3,12,44","3,46,00",2049 04 101 AQ 32500
+01,Interest Charged,"2,71,39","3,04,81","3,12,44","3,46,00",2049 04 101 AQ 32501
+342,Service or Commitment Charges Charged,"13,57",11,"4,99",4,2049 04 101 AQ 34200
+01,Service or Commitment Charges Charged,"13,57",11,"4,99",4,2049 04 101 AQ 34201
+AQ,Total AQ Charged,"2,84,96","3,04,92","3,17,43","3,46,04",
+AR,Interest on Loans for International Development Association assisted Additional financing for Tamil Nadu Empowerment and Poverty Reduction Project (Loan No.4837-IN),,,,,2049 04 101 AR 30000
+342,Service or Commitment Charges Charged,"5,81,67","5,72,61","5,64,24","5,26,63",2049 04 101 AR 34200
+01,Service or Commitment Charges Charged,"5,81,67","5,72,61","5,64,24","5,26,63",2049 04 101 AR 34201
+AR,Total AR Charged,"5,81,67","5,72,61","5,64,24","5,26,63",
+AS,Interest on loans for  Asian Development Bank assisted Infrastructure Development Investment Programme for Tourism - Tranche-2 (Loan No.2833-IND),,,,,2049 04 101 AS 30000
+325,Interest Charged,"1,39,29","1,39,29","1,96,98","1,96,98",2049 04 101 AS 32500
+01,Interest Charged,"1,39,29","1,39,29","1,96,98","1,96,98",2049 04 101 AS 32501
+342,Service or Commitment Charges Charged,"5,71",1,11,11,2049 04 101 AS 34200
+01,Service or Commitment Charges Charged,"5,71",1,11,11,2049 04 101 AS 34201
+AS,Total AS Charged,"1,45,00","1,39,30","1,97,09","1,97,09",
+AT,Interest on Loans for International Development Assosication assisted Dam Rehabilitation and Improvement Project (Loan No.4787-IN),,,,,2049 04 101 AT 30000
+342,Service or Commitment Charges Charged,"1,65,71","2,07,41","1,60,91","1,91,13",2049 04 101 AT 34200
+01,Service or Commitment Charges Charged,"1,65,71","2,07,41","1,60,91","1,91,13",2049 04 101 AT 34201
+AT,Total AT Charged,"1,65,71","2,07,41","1,60,91","1,91,13",
+AU,Interest on Loans for International Bank for Reconstruction and Development assisted Dam Rehabilitation and Improvement Project (Loan No.7943-IN),,,,2049 04 101 AU 30000,
+325,Interest Charged,"1,16,56","1,71,54","4,36,72","4,36,72",2049 04 101 AU 32500
+01,Interest Charged,"1,16,56","1,71,54","4,36,72","4,36,72",2049 04 101 AU 32501
+AU,Total AU Charged,"1,16,56","1,71,54","4,36,72","4,36,72",
+AV,Interest on Loans for Japan International Cooperation Agency assisted Tamil Nadu Transmission System Improvement Project (Loan Nos.IDP 224 & 224A),,,,,2049 04 101 AV 30000
+325,Interest Charged,"8,27,02","13,34,84","9,19,75","15,59,19",2049 04 101 AV 32500
+01,Interest Charged,"8,27,02","13,34,84","9,19,75","15,59,19",2049 04 101 AV 32501
+01,Service or Commitment Charges Charged,"2,35,24","1,55,70","2,21,33","1,18,46",2049 04 101 AV 34201
+AV,Total AV Charged,"10,62,26",,"14,90,54","11,41,08","16,77,65"
+AW,"Interest and other charges on Loans for KfW assisted Sustainable Municipal Infrastructure Financing in Tamil Nadu Phase-II Part-1 (Loan Nos.9951628E 6849175E, 3663743E and 7889464E)",,,,,2049 04 101 AW 30000
+325,Interest Charged,"6,56,86","10,13,95","6,15,99","4,83,33",2049 04 101 AW 32500
+01,Interest Charged,"6,56,86","10,13,95","6,15,99","4,83,33",2049 04 101 AW 32501
+342,Service or Commitment Charges Charged,"64,81",,,"53,90",2049 04 101 AW 34200
+01,Service or Commitment Charges Charged,"64,81",,,"53,90",2049 04 101 AW 34201
+AW,Total AW Charged,"7,21,67",,"10,13,95","6,69,89","4,83,33"
+AX,Interest and Other Charges on Loans for Japan International Co-operation Agency Assisted Tamil Nadu Investment Promotion Programme (Loan No.ID-C8),,,,,2049 04 101 AX 30000
+325,Interest Charged,"11,36,25","11,86,24","11,84,11","12,01,20",2049 04 101 AX 32500
+01,Interest Charged,"11,36,25","11,86,24","11,84,11","12,01,20",2049 04 101 AX 32501
+AY,Interest and Other Charges on Loans for International Development Association assisted Tamil Nadu and Puducherry Coastal Disaster Risk Reduction Project (Loan No.5279-IN),,,,2049 04 101 AY 30000,
+325,Interest Charged,"13,85,99","17,07,31","12,70,60","22,03,22",2049 04 101 AY 32500
+01,Interest Charged,"13,85,99","17,07,31","12,70,60","22,03,22",2049 04 101 AY 32501
+342,Service or Commitment Charges Charged,,1,1,1,2049 04 101 AY 34200
+01,Service or Commitment Charges Charged,,1,1,1,2049 04 101 AY 34201
+AY,Total AY Charged,"13,85,99","17,07,32","12,70,61","22,03,23",
+AZ,"Interest and Other Charges on Loans for KfW assisted Sustainable Municipal Infrastructure Financing in Tamil Nadu Phase-II, Part 2 (Loan Nos.3618214E 44188E, 1055956E 1055960E and 5774016E)",,,,,2049 04 101 AZ 30000
+325,Interest Charged,"7,04,01","13,98,47","10,89,45","15,94,41",2049 04 101 AZ 32500
+01,Interest Charged,"7,04,01","13,98,47","10,89,45","15,94,41",2049 04 101 AZ 32501
+342,Service or Commitment Charges Charged,"1,20,44","34,59","74,59",53,2049 04 101 AZ 34200
+AZ,Total AZ Charged,"8,24,45","14,33,06","11,64,04","15,94,94",
+BA,"Interest and Other Charges on Loans for KfW assisted Green Energy Corridors Intra State Transmission System in Tamil Nadu (Loan Nos.5134259E, 7383864E and 7383880E)",,,,,2049 04 101 BA 30000
+325,Interest Charged,"6,79,98","7,39,95","8,96,87","8,94,50",2049 04 101 BA 32500
+01,Interest Charged,"6,79,98","7,39,95","8,96,87","8,94,50",2049 04 101 BA 32501
+342,Service or Commitment Charges Charged,"47,33","26,22","8,38","6,62",2049 04 101 BA 34200
+01,Service or Commitment Charges Charged,"47,33","26,22","8,38","6,62",2049 04 101 BA 34201
+BA,Total BA Charged,"7,27,31","7,66,17","9,05,25","9,01,12",
+BB,Interest and Other  Charges on Loans for World Bank (IBRD) assisted Tamil Nadu Sustainable Urban Development Project (Loan No.8488-IN),,,,2049 04 101 BB 30000,
+325,Interest Charged,"34,35,46","17,06,53","28,75,04","50,57,13",2049 04 101 BB 32500
+01,Interest Charged,"34,35,46","17,06,53","28,75,04","50,57,13",2049 04 101 BB 32501
+342,Service or Commitment Charges Charged,"4,65,02","4,31,89","3,80,75","3,80,75",2049 04 101 BB 34200
+01,Service or Commitment Charges,,,,,
+BC,Interest and Other Charges on Loans for World Bank (IBRD) assisted Tamil Nadu Road Sector Project-II (Loan No.8499-IN),,,,2049 04 101 BC 30000,
+325,Interest Charged,"21,33,48","22,39,75","32,94,99","46,82,92",2049 04 101 BC 32500
+01,Interest Charged,"21,33,48","22,39,75","32,94,99","46,82,92",2049 04 101 BC 32501
+342,Service or Commitment Charges Charged,"3,53,10","2,86,42","3,01,96","2,26,49",2049 04 101 BC 34200
+01,Service or Commitment Charges Charged,"3,53,10","2,86,42","3,01,96","2,26,49",2049 04 101 BC 34201
+BC,Total BC Charged,"24,86,58","25,26,17","35,96,95","49,09,41",
+BD,Interest and Other Charges on Loans for Asian Development Bank assisted Climate Adaptation in Vennar Sub-basin in Cauvery Delta Project (Loan No.3394-IN),,,,,2049 04 101 BD 30000
+325,Interest Charged,"5,01,43","7,60,35","11,28,54","17,03,29",2049 04 101 BD 32500
+01,Interest Charged,"5,01,43","7,60,35","11,28,54","17,03,29",2049 04 101 BD 32501
+342,Service or Commitment Charges Charged,"76,27","53,40","58,58","36,04",2049 04 101 BD 34200
+01,Service or Commitment Charges Charged,"76,27","53,40","58,58","36,04",2049 04 101 BD 34201
+BD,Total BD,"76,27","53,40","58,58","36,04",
+BE,KfW assisted Chennai Water Production and Demand Management Programme-I (Loan Nos.13411991,18993416 and 18993418),,,,2049 04 101 BE 30000
+325,Interest Charged,,"8,02,48","4,48,71","12,63,23",2049 04 101 BE 32500
+01,Interest Charged,,"8,02,48","4,48,71","12,63,23",2049 04 101 BE 32501
+342,Service or Commitment Charges Charged,"1,76,36","57,80","1,22,13","25,18",2049 04 101 BE 34200
+01,Service or Commitment Charges Charged,"1,76,36","57,80","1,22,13","25,18",2049 04 101 BE 34201
+BE,Total BE Charged,"1,76,36","8,60,28","5,70,84","12,88,41",
+BF,JICA assisted Tamil Nadu Urban Health Care Project (Loan Nos.ID-P251 and ID-P251-A),,,,,2049 04 101 BF 30000
+325,Interest Charged,2,"1,15,88",21,"1,55,98",2049 04 101 BF 32500
+01,Interest Charged,2,"1,15,88",21,"1,55,98",2049 04 101 BF 32501
+BF,Total BF Charged,2,"1,15,88",21,"1,55,98",
+BG,International Bank for Reconstruction and Development (IBRD) assisted Tamil Nadu Irrigated Agriculture Modernisation Project (Loan No.8797-IN),,,,2049 04 101 BG 30000,
+325,Interest Charged,"1,12,55","10,55,17","10,40,52","18,83,78",2049 04 101 BG 32500
+01,Interest Charged,"1,12,55","10,55,17","10,40,52","18,83,78",2049 04 101 BG 32501
+342,Service or Commitment Charges Charged,"4,50,81","4,25,88","4,85,16","3,73,93",2049 04 101 BG 34200
+01,Service or Commitment Charges Charged,"4,50,81","4,25,88","4,85,16","3,73,93",2049 04 101 BG 34201
+BG,Total BG Charged,"5,63,36","14,81,05","15,25,68","22,57,71",
+BH,Interest and Other Charges on Loans for Japan International Co-operation Agency assisted TNIPP Phase-2 (Loan No.ID-C9),,,,,2049 04 101 BH 30000
+325,Interest Charged,"7,29,08","15,10,04","12,74,83","20,40,60",2049 04 101 BH 32500
+01,Interest Charged,"7,29,08","15,10,04","12,74,83","20,40,60",2049 04 101 BH 32501
+BH,Total BH Charged,"7,29,08","15,10,04","12,74,83","20,40,60",
+BI,International Bank for Reconstruction and Development (IBRD) assisted Tamil Nadu Rural Transformation Project (Loan No.8795-IN),,,,,2049 04 101 BI 30000
+325,Interest Charged,"9,16","4,17,76","2,61,31","7,16,62",2049 04 101 BI 32500
+01,Interest Charged,"9,16","4,17,76","2,61,31","7,16,62",2049 04 101 BI 32501
+342,Service or Commitment Charges Charged,"1,69,64","1,21,63","1,48,83","97,42",2049 04 101 BI 34200
+01,Service or Commitment Charges Charged,"1,69,64","1,21,63","1,48,83","97,42",2049 04 101 BI 34201
+BI,Total BI Charged,"1,78,80","5,39,39","4,10,14","8,14,04",
+BJ,Japan International Cooperation Agency (JICA) assisted Chennai Sea Water Desalination Plant Project (Loan No.IDP 267),,,,,2049 04 101 BJ 30000
+325,Interest Charged,"3,87,44",1,"95,49","3,24,04",2049 04 101 BJ 32500
+01,Interest Charged,"3,87,44",1,"95,49","3,24,04",2049 04 101 BJ 32501
+342,Service or Commitment Charges Charged,,,1,,2049 04 101 BJ 34200
+01,Service or Commitment Charges Charged,,,1,,2049 04 101 BJ 34201
+BJ,Total BJ Charged,"3,87,44",2,"95,49","3,24,04",
+BK,Japan International Cooperation Agency (JICA) assisted Chennai Metropolitan Area Intelligent Transport Systems Installation Project (Loan No.IDP-270 & 270A),,,,,2049 04 101 BK 30000
+325,Interest Charged,"1,04,37","1,04,37","33,49","80,16",2049 04 101 BK 32500
+01,Interest Charged,"1,04,37","1,04,37","33,49","80,16",2049 04 101 BK 32501
+BK,Total BK Charged,"1,04,37","1,04,37","33,49","80,16",
+BL,Japan International Cooperation Agency (JICA) assisted Phase II Metro Rail Corridors in Chennai Metropolitan Area Project,,,,,2049 04 101 BL 30000
+325,Interest Charged,,1,1,1,2049 04 101 BL 32500
+01,Interest Charged,,1,1,1,2049 04 101 BL 32501
+342,Service or Commitment Charges Charged,,1,1,1,2049 04 101 BL 34200
+01,Service or Commitment Charges Charged,,1,1,1,2049 04 101 BL 34201
+BL,Total BL Charged,,2,2,2,
+BM,Interest on loans for Asian Development Bank assisted Tamil Nadu Urban Flagship Investment Programme - Project-1 (Loan No.3718-IND),,,,2049 04 101 BM 30000,
+325,Interest Charged,,1,"1,99,37","9,37,11",2049 04 101 BM 32500
+01,Interest Charged,,1,"1,99,37","9,37,11",2049 04 101 BM 32501
+342,Service or Commitment Charges Charged,,1,"1,28,88","13,91",2049 04 101 BM 34200
+01,Service or Commitment Charges Charged,,1,"1,28,88","13,91",2049 04 101 BM 34201
+BM,Total BM Charged,,2,"3,28,25","9,51,02",
+BN,Interest on loans for Asian Development Bank assisted Infrastructure Development Investment Programme for Tourism - Tranche-4 (Loan No.3717-IND),,,,2049 04 101 BN 30000,
+325,Interest Charged,,1,1,1,2049 04 101 BN 32500
+01,Interest Charged,,1,1,1,2049 04 101 BN 32501
+342,Service or Commitment Charges Charged,,1,"40,01","40,01",2049 04 101 BN 34200
+01,Service or Commitment Charges Charged,,1,"40,01","40,01",2049 04 101 BN 34201
+BN,Total BN,,,,,
+BO,Japan International Cooperation Agency (JICA) assisted Chennai Peripheral Ring Road (CPRR) Project -Phase 1 (Loan No.ID.278),,,,2049 04 101 BO 30000,
+325,Interest Charged,,,1,1,2049 04 101 BO 32500
+01,Interest Charged,,,1,1,2049 04 101 BO 32501
+342,Service or Commitment Charges Charged,,,"5,17,21",1,2049 04 101 BO 34200
+02 Charged,,,"5,17,21",1,2049 04 101 BO 34202,
+BO,Total BO Charged,,,"5,17,22",2,
+BQ,KfW assisted Climate-Friendly Modernization of Bus Services in Major Cities of Tamil Nadu ,,,,2049 04 101 BQ 30000,
+325,Interest Charged,,,,1,2049 04 101 BQ 32500
+01,Interest Charged,,,,1,2049 04 101 BQ 32501
+342,Service or Commitment Charges Charged,,,,1,2049 04 101 BQ 34200
+01,Service or Commitment Charges Charged,,,,1,2049 04 101 BQ 34201
+BQ,Total BQ Charged,,,,2,
+BR,World Bank (IBRD) assisted Tamil Nadu Housing and Habitat Development Project,,,,,2049 04 101 BR 30000
+325,Interest Charged,,,,1,2049 04 101 BR 32500
+01,Interest Charged,,,,1,2049 04 101 BR 32501
+342,Service or Commitment Charges Charged,,,,1,2049 04 101 BR 34200
+01,Service or Commitment Charges Charged,,,,1,2049 04 101 BR 34201
+BR,Total BR Charged,,,,2,
+BS,ADB assisted Inclusive Resalient and Sustainable Housing for the Urban Poor in Tamil Nadu,,,,,2049 04 101 BS 30000
+325,Interest Charged,,,,1,2049 04 101 BS 32500
+01,Interest Charged,,,,1,2049 04 101 BS 32501
+342,Service or Commitment Charges Charged,,,,1,2049 04 101 BS 34200
+01,Service or Commitment Charges Charged,,,,1,2049 04 101 BS 34201
+BS,Total BS Charged,,,,2,
+BT,ADB assisted projectof Integrated Storm Water Drain in Kosasthalaiyar basin ,,,,2049 04 101 BT 30000,
+325,Interest Charged,,,,1,2049 04 101 BT 32500
+01,Interest Charged,,,,1,2049 04 101 BT 32501
+342,Service or Commitment Charges Charged,,,,1,2049 04 101 BT 34200
+01,Service or Commitment Charges Charged,,,,1,2049 04 101 BT 34201
+BT,Total BT Charged,,,,2,
+101,Total 101 Charged,"549,63,18","537,55,64","566,88,63","619,23,30",
+104,Interest on Loans for Non-Plan Schemes,,,,,
+AA,Interest on Loans for Non-Plan Schemes,,,,,2049 04 104 AA 30000
+325,Interest Charged,"5,88,21","5,15,92","5,15,92","4,46,12",2049 04 104 AA 32500
+01,Interest Charged,"5,88,21","5,15,92","5,15,92","4,46,12",2049 04 104 AA 32501
+AA,Total AA Charged,"5,88,21","5,15,92","5,15,92","4,46,12",
+104,Total 104 Charged,"5,88,21","5,15,92","5,15,92","4,46,12",
+04,Total 04 Charged,"555,51,39","542,71,56","572,04,55","623,69,42",
+05,Interest on Reserve Funds,,,,,
+105,Interest on General and other Reserve Funds,,,,,
+AD,Management of Guarantee Redemption Fund Investment Account,,,,,2049 05 105 AD 30000
+333,Payments for Professional and Special Services Charged,,1,1,1,2049 05 105 AD 33300
+09,Other Payments Charged,,1,1,1,2049 05 105 AD 33309
+AD,Total AD Charged,,1,1,1,
+AF,"Management of Non-Obligatory Sinking Funds Investment Account towards discharge of Open Market Loans, Central Government Loans and Special Securities issued to National Small Savings Fund",,,,,2049 05 105 AF 30000
+333,Payments for Professional and Special Services Charged,"2,07","2,11",78,89,2049 05 105 AF 33300
+09,Other Payments Charged,"2,07","2,11",78,89,2049 05 105 AF 33309
+AF,Total AF Charged,"2,07","2,11",78,89,
+AG,"Advance payment of interest on purchase of securities from Non-Obligatory Sinking funds towards discharge of Open Market Loans, Central Government loans and Special Securities issued to National Small Savings Fund",,,,,2049 05 105 AG 30000
+325,Interest Charged,"27,47,75","36,53,00","9,31,47","10,28,54",2049 05 105 AG 32500
+01,Interest Charged,"27,47,75","36,53,00","9,31,47","10,28,54",2049 05 105 AG 32501
+AG,Total AG Charged,"27,47,75","36,53,00","9,31,47","10,28,54",
+105,Total 105 Charged,"27,49,82","36,55,12","9,32,26","10,29,44",
+05,Total 05 Charged,"27,49,82","36,55,12","9,32,26","10,29,44",
+60,Interest on Other Obligations,,,,,
+101,Interest on Deposits,,,,,
+AB,Interest on Deposits of compensation from amounts received on account of Thanjavur and Salem District Board Railway Lines,,,,,2049 60 101 AB 30000
+325,Interest Charged,"13,92","1,29","3,53","1,34",2049 60 101 AB 32500
+01,Interest Charged,"13,92","1,29","3,53","1,34",2049 60 101 AB 32501
+AB,Total AB Charged,"13,92","1,29","3,53","1,34",
+AC,Interest on Deposits of Corporation Municipal and other local body Employees,,,,,2049 60 101 AC 30000
+325,Interest Charged,"17,76,28","18,00,00","18,00,00","18,00,00",2049 60 101 AC 32500
+01,Interest Charged,"17,76,28","18,00,00","18,00,00","18,00,00",2049 60 101 AC 32501
+AC,Total AC Charged,"17,76,28","18,00,00","18,00,00","18,00,00",
+AD,Interest on the Deposits of the State Khadi and Village Industries Board,,,,,2049 60 101 AD 30000
+325,Interest Charged,,1,1,1,2049 60 101 AD 32500
+01,Interest Charged,,1,1,1,2049 60 101 AD 32501
+AD,Total AD Charged,,1,1,1,
+AE,Interest on the Deposits of Local Funds other than State Khadi and Village Industries Board,,,,,2049 60 101 AE 30000
+325,Interest Charged,"49,60,70","50,25,00","51,25,00","50,50,00",2049 60 101 AE 32500
+01,Interest Charged,"49,60,70","50,25,00","51,25,00","50,50,00",2049 60 101 AE 32501
+AE,Total AE Charged,"49,60,70","50,25,00","51,25,00","50,50,00",
+AF,Interest on Deposit of Chennai Corporation,,,,,2049 60 101 AF 30000
+325,Interest Charged,,1,1,1,2049 60 101 AF 32500
+01,Interest Charged,,1,1,1,2049 60 101 AF 32501
+AF,Total AF Charged,,1,1,1,
+AJ,Interest on Municipal Employees Pension Fund,,,,,2049 60 101 AJ 30000
+325,Interest Charged,"72,00","72,00","72,00","72,00",2049 60 101 AJ 32500
+01,Interest Charged,"72,00","72,00","72,00","72,00",2049 60 101 AJ 32501
+AJ,Total AJ Charged,"72,00","72,00","72,00","72,00",
+AL,Interest on Deposits of Tamil Nadu Transport Development Finance Corporation,,,,,2049 60 101 AL 30000
+325,Interest Charged,,"20,00,00","60,87,25","30,00,00",2049 60 101 AL 32500
+01,Interest Charged,,"20,00,00","60,87,25","30,00,00",2049 60 101 AL 32501
+AL,Total AL Charged,,"20,00,00","60,87,25","30,00,00",
+AN,Interest on Deposits of Handloom Weavers Savings and Security Scheme,,,,,2049 60 101 AN 30000
+325,Interest Charged,"28,00,00","28,00,00","28,00,00","28,00,00",2049 60 101 AN 32500
+01,Interest Charged,"28,00,00","28,00,00","28,00,00","28,00,00",2049 60 101 AN 32501
+AN,Total AN Charged,"28,00,00","28,00,00","28,00,00","28,00,00",
+AO,Interest on Deposits of Tamil Nadu Newsprints and Papers Limited,,,,,2049 60 101 AO 30000
+325,Interest Charged,,1,1,1,2049 60 101 AO 32500
+01,Interest Charged,,1,1,1,2049 60 101 AO 32501
+AO,Total AO Charged,,1,1,1,
+AQ,Interest on Deposits of Tamil Nadu Industrial Development Corporation Limited,,,,,2049 60 101 AQ 30000
+325,Interest Charged,,1,1,1,2049 60 101 AQ 32500
+01,Interest Charged,,1,1,1,2049 60 101 AQ 32501
+AQ,Total AQ Charged,,1,1,1,
+AR,Interest on Deposits of Tamil Nadu State Marketing Corporation Limited,,,,,2049 60 101 AR 30000
+325,Interest Charged,,1,1,1,2049 60 101 AR 32500
+01,Interest Charged,,1,1,1,2049 60 101 AR 32501
+AR,Total AR Charged,,1,1,1,
+AS,Interest on Deposit of Tamil Nadu Housing Board,,,,,2049 60 101 AS 30000
+325,Interest Charged,,1,1,1,2049 60 101 AS 32500
+01,Interest Charged,,1,1,1,2049 60 101 AS 32501
+AS,Total AS Charged,,1,1,1,
+AT,Interest on Deposits of Chennai Metropolitan Development Authority,,,,,2049 60 101 AT 30000
+325,Interest Charged,,1,1,1,2049 60 101 AT 32500
+01,Interest Charged,,1,1,1,2049 60 101 AT 32501
+AT,Total AT Charged,,1,1,1,
+AU,Interest on Deposits of Tamil Nadu Water Supply and Drainage Board,,,,,2049 60 101 AU 30000
+325,Interest Charged,,1,1,1,2049 60 101 AU 32500
+01,Interest Charged,,1,1,1,2049 60 101 AU 32501
+AU,Total AU Charged,,1,1,1,
+AV,Interest on Deposits of Chennai Metropolitan Water Supply and Sewerage Board,,,,,2049 60 101 AV 30000
+325,Interest Charged,,1,1,1,2049 60 101 AV 32500
+01,Interest Charged,,1,1,1,2049 60 101 AV 32501
+AV,Total AV Charged,,1,1,1,
+AZ,Interest on Deposits of Tamil Nadu Housing Board (Revolving Fund),,,,,2049 60 101 AZ 30000
+325,Interest Charged,,1,1,1,2049 60 101 AZ 32500
+01,Interest Charged,,1,1,1,2049 60 101 AZ 32501
+AZ,Total AZ Charged,,1,1,1,
+BB,Interest on Deposits of Tamil Nadu Slum Clearance Board (Revolving Fund),,,,,2049 60 101 BB 30000
+325,Interest Charged,,1,1,1,2049 60 101 BB 32500
+01,Interest Charged,,1,1,1,2049 60 101 BB 32501
+BB,Total BB Charged,,1,1,1,
+BG,Interest on Deposits of State Agricultural Marketing Board,,,,,2049 60 101 BG 30000
+325,Interest Charged,,"30,00","30,00","30,00",2049 60 101 BG 32500
+01,Interest Charged,,"30,00","30,00","30,00",2049 60 101 BG 32501
+BG,Total BG Charged,,"30,00","30,00","30,00",
+BH,Interest on Deposits of Vellore Market Committee,,,,,2049 60 101 BH 30000
+325,Interest Charged,,"2,00","13,89","4,00",2049 60 101 BH 32500
+01,Interest Charged,,"2,00","13,89","4,00",2049 60 101 BH 32501
+BH,Total BH Charged,,"2,00","13,89","4,00",
+BJ,Interest on Deposit of Cuddalore  Market Committee,,,,,2049 60 101 BJ 30000
+325,Interest Charged,,"2,00","3,43","2,00",2049 60 101 BJ 32500
+01,Interest Charged,,"2,00","3,43","2,00",2049 60 101 BJ 32501
+BJ,Total BJ Charged,,"2,00","3,43","2,00",
+BK,Interest on Deposits of Dharmapuri Market Committee,,,,,2049 60 101 BK 30000
+325,Interest Charged,,"7,00","6,83","7,00",2049 60 101 BK 32500
+01,Interest Charged,,"7,00","6,83","7,00",2049 60 101 BK 32501
+BK,Total BK Charged,,"7,00","6,83","7,00",
+BL,Interest on Deposits of Kanyakumari Market Committee,,,,,2049 60 101 BL 30000
+325,Interest Charged,,"6,00","1,28,18","40,00",2049 60 101 BL 32500
+01,Interest Charged,,"6,00","1,28,18","40,00",2049 60 101 BL 32501
+BL,Total BL Charged,,"6,00","1,28,18","40,00",
+BM,Interest on Deposits of Salem Market Committee,,,,,2049 60 101 BM 30000
+325,Interest Charged,,"50,00","2,93,86","1,30,00",2049 60 101 BM 32500
+01,Interest Charged,,"50,00","2,93,86","1,30,00",2049 60 101 BM 32501
+BM,Total BM Charged,,"50,00","2,93,86","1,30,00",
+BN,Interest on Deposits of Pudukkottai Market Committee,,,,,2049 60 101 BN 30000
+325,Interest Charged,,1,1,1,2049 60 101 BN 32500
+01,Interest Charged,,1,1,1,2049 60 101 BN 32501
+BN,Total BN Charged,,1,1,1,
+BO,Interest on Deposits of Thanjavur Market Committee,,,,,2049 60 101 BO 30000
+325,Interest Charged,,"60,00","1,21,34","60,00",2049 60 101 BO 32500
+01,Interest Charged,,"60,00","1,21,34","60,00",2049 60 101 BO 32501
+BO,Total BO Charged,,"60,00","1,21,34","60,00",
+BP,Interest on Deposit of Tiruchirappalli Market Committee,,,,,2049 60 101 BP 30000
+325,Interest Charged,,1,1,1,2049 60 101 BP 32500
+01,Interest Charged,,1,1,1,2049 60 101 BP 32501
+BP,Total BP Charged,,1,1,1,
+BQ,Interest on Deposits of Coimbatore Market Committee,,,,,2049 60 101 BQ 30000
+325,Interest Charged,,"50,00","50,00","10,00",2049 60 101 BQ 32500
+01,Interest Charged,,"50,00","50,00","10,00",2049 60 101 BQ 32501
+BQ,Total BQ Charged,,"50,00","50,00","10,00",
+BR,Interest on Deposits of Ramanathapuram Market Committee,,,,,2049 60 101 BR 30000
+325,Interest Charged,,"30,00",1,"10,00",2049 60 101 BR 32500
+01,Interest Charged,,"30,00",1,"10,00",2049 60 101 BR 32501
+BR,Total BR Charged,,"30,00",1,"10,00",
+BS,Interest on Deposit of Tirunelveli Market Committee,,,,,2049 60 101 BS 30000
+325,Interest Charged,,"15,00",1,"10,00",2049 60 101 BS 32500
+01,Interest Charged,,"15,00",1,"10,00",2049 60 101 BS 32501
+BS,Total BS Charged,,"15,00",1,"10,00",
+BT,Interest on Deposits of Madurai Market Committee,,,,,2049 60 101 BT 30000
+325,Interest Charged,,"10,00","1,07,22","32,00",2049 60 101 BT 32500
+01,Interest Charged,,"10,00","1,07,22","32,00",2049 60 101 BT 32501
+BT,Total BT Charged,,"10,00","1,07,22","32,00",
+BU,Interest on Deposits of Kancheepuram Market Committee,,,,,2049 60 101 BU 30000
+325,Interest Charged,,25,"4,86",25,2049 60 101 BU 32500
+01,Interest Charged,,25,"4,86",25,2049 60 101 BU 32501
+BU,Total BU Charged,,25,"4,86",25,
+CH,Interest on Deposits of Erode Market Committee,,,,,2049 60 101 CH 30000
+325,Interest Charged,,1,1,1,2049 60 101 CH 32500
+01,Interest Charged,,1,1,1,2049 60 101 CH 32501
+CH,Total CH Charged,,1,1,1,
+CJ,Interest on Fixed Deposits of Tamil Nadu Slum Clearance Board (for 6 months upto one year),,,,,2049 60 101 CJ 30000
+325,Interest Charged,,1,1,1,2049 60 101 CJ 32500
+01,Interest Charged,,1,1,1,2049 60 101 CJ 32501
+CN,Interest on Deposits of Tamil Nadu Text Book Corporation,,,,,2049 60 101 CN 30000
+325,Interest Charged,,1,1,1,2049 60 101 CN 32500
+01,Interest Charged,,1,1,1,2049 60 101 CN 32501
+CN,Total CN Charged,,1,1,1,
+CR,Interest on Deposits of Tamil Nadu Traders Welfare Board,,,,,2049 60 101 CR 30000
+325,Interest Charged,,1,1,1,2049 60 101 CR 32500
+01,Interest Charged,,1,1,1,2049 60 101 CR 32501
+CR,Total CR Charged,,1,1,1,
+CS,Interest on Deposit of Tamil Nadu Veterinary and Animal Sciences University,,,,,2049 60 101 CS 30000
+325,Interest Charged,,1,"11,93,29","3,00,00",2049 60 101 CS 32500
+01,Interest Charged,,1,"11,93,29","3,00,00",2049 60 101 CS 32501
+CS,Total CS Charged,,1,"11,93,29","3,00,00",
+CT,Interest on Deposits of Chennai University,,,,,2049 60 101 CT 30000
+325,Interest Charged,,"2,00,00",1,"2,00,00",2049 60 101 CT 32500
+01,Interest Charged,,"2,00,00",1,"2,00,00",2049 60 101 CT 32501
+CT,Total CT Charged,,"2,00,00",1,"2,00,00",
+CU,Interest on Deposits of Annamalai University,,,,,2049 60 101 CU 30000
+325,Interest Charged,,"50,00",1,"50,00",2049 60 101 CU 32500
+01,Interest Charged,,"50,00",1,"50,00",2049 60 101 CU 32501
+CU,Total CU Charged,,"50,00",1,"50,00",
+CV,Interest on Deposits of Madurai Kamarajar University,,,,,2049 60 101 CV 30000
+325,Interest Charged,,1,"1,50,58","64,00",2049 60 101 CV 32500
+01,Interest Charged,,1,"1,50,58","64,00",2049 60 101 CV 32501
+CV,Total CV Charged,,1,"1,50,58","64,00",
+CW,Interest on Deposits of Bharathiar University,,,,,2049 60 101 CW 30000
+325,Interest Charged,,1,"3,44,10","95,60",2049 60 101 CW 32500
+01,Interest Charged,,1,"3,44,10","95,60",2049 60 101 CW 32501
+CW,Total CW Charged,,1,"3,44,10","95,60",
+CY,Interest on Deposits of Alagappa University,,,,,2049 60 101 CY 30000
+325,Interest Charged,,"20,00","2,94,62","71,70",2049 60 101 CY 32500
+01,Interest Charged,,"20,00","2,94,62","71,70",2049 60 101 CY 32501
+CY,Total CY Charged,,"20,00","2,94,62","71,70",
+CZ,Interest on Deposits of Mother Teresa Women's University Kodaikkanal,,,,,2049 60 101 CZ 30000
+325,Interest Charged,,1,"31,37","16,00",2049 60 101 CZ 32500
+01,Interest Charged,,1,"31,37","16,00",2049 60 101 CZ 32501
+CZ,Total CZ Charged,,1,"31,37","16,00",
+DA,Interest on Deposits of Tamil University Thanjavur,,,,,2049 60 101 DA 30000
+325,Interest Charged,,1,1,1,2049 60 101 DA 32500
+01,Interest Charged,,1,1,1,2049 60 101 DA 32501
+DA,Total DA Charged,,1,1,1,
+DB,Interest on Deposits of Anna University Chennai,,,,,2049 60 101 DB 30000
+325,Interest Charged,"26,05,37","1,00,00","1,00,00","8,80,00",2049 60 101 DB 32500
+01,Interest Charged,"26,05,37","1,00,00","1,00,00","8,80,00",2049 60 101 DB 32501
+DB,Total DB Charged,"26,05,37","1,00,00","1,00,00","8,80,00",
+DC,Interest on Deposits of Tamil Nadu Agricultural University,,,,,2049 60 101 DC 30000
+325,Interest Charged,,"7,00,00","23,18,27","7,20,00",2049 60 101 DC 32500
+01,Interest Charged,,"7,00,00","23,18,27","7,20,00",2049 60 101 DC 32501
+DS,Interest on Deposit of Manonmaniam Sundaranar University,,,,,2049 60 101 DS 30000
+325,Interest Charged,,1,1,1,2049 60 101 DS 32500
+01,Interest Charged,,1,1,1,2049 60 101 DS 32501
+DS,Total DS Charged,,1,1,1,
+DT,Interest on deposits of Tamil Nadu Corporation for Industrial and Infrastructure Development Limited,,,,,2049 60 101 DT 30000
+325,Interest Charged,,1,1,1,2049 60 101 DT 32500
+01,Interest Charged,,1,1,1,2049 60 101 DT 32501
+DT,Total DT Charged,,1,1,1,
+DU,Deposits of State Transport Corporation Employees' Post Retirement Benifit Fund,,,,,2049 60 101 DU 30000
+325,Interest Charged,,"15,00","15,00","15,00",2049 60 101 DU 32500
+01,Interest Charged,,"15,00","15,00","15,00",2049 60 101 DU 32501
+DU,Total DU Charged,,"15,00","15,00","15,00",
+DV,Deposits of Tamil Nadu State Mission of Education for All,,,,,2049 60 101 DV 30000
+325,Interest Charged,,1,1,1,2049 60 101 DV 32500
+01,Interest Charged,,1,1,1,2049 60 101 DV 32501
+DV,Total DV Charged,,1,1,1,
+DW,Deposits of State AIDS project cell,,,,,2049 60 101 DW 30000
+325,Interest Charged,,1,1,1,2049 60 101 DW 32500
+01,Interest Charged,,1,1,1,2049 60 101 DW 32501
+DW,Total DW Charged,,1,1,1,
+DX,Interest on Deposits of Tamil Nadu Dr. M.G.R Medical University,,,,,2049 60 101 DX 30000
+325,Interest Charged,,"40,00",1,"40,00",2049 60 101 DX 32500
+01,Interest Charged,,"40,00",1,"40,00",2049 60 101 DX 32501
+DX,Total DX Charged,,"40,00",1,"40,00",
+DY,Interest on Urban Finance and Infrastructure Development,,,,,2049 60 101 DY 30000
+325,Interest Charged,,1,1,1,2049 60 101 DY 32500
+01,Interest Charged,,1,1,1,2049 60 101 DY 32501
+EB,Interest on deposits of Tamil Nadu Agro Engineering and Services Co-operative Federation Limited,,,,,2049 60 101 EB 30000
+325,Interest Charged,,1,1,1,2049 60 101 EB 32500
+01,Interest Charged,,1,1,1,2049 60 101 EB 32501
+EB,Total EB Charged,,1,1,1,
+EC,Interest on deposits of Marketing Development fund of Tamil Nadu State Agricultural Marketing Board,,,,,2049 60 101 EC 30000
+325,Interest Charged,,1,1,1,2049 60 101 EC 32500
+01,Interest Charged,,1,1,1,2049 60 101 EC 32501
+EC,Total EC Charged,,1,1,1,
+EE,Interest on Deposits of Avinasilingam Institute for Home Science and Higher Education for Women (Deemed University),,,,,2049 60 101 EE 30000
+325,Interest Charged,,"1,50,00","3,96,01","1,52,00",2049 60 101 EE 32500
+01,Interest Charged,,"1,50,00","3,96,01","1,52,00",2049 60 101 EE 32501
+EE,Total EE Charged,,"1,50,00","3,96,01","1,52,00",
+EG,Interest on Deposits of Tamil Nadu Power Finance and Infrastructure Development Corporation Ltd.,,,,,2049 60 101 EG 30000
+325,Interest Charged,,1,1,1,2049 60 101 EG 32500
+01,Interest Charged,,1,1,1,2049 60 101 EG 32501
+EG,Total EG Charged,,1,1,1,
+EI,Interest on Deposit of Periyar University,,,,,2049 60 101 EI 30000
+325,Interest Charged,,"25,00","25,00","25,00",2049 60 101 EI 32500
+01,Interest Charged,,"25,00","25,00","25,00",2049 60 101 EI 32501
+EI,Total EI Charged,,"25,00","25,00","25,00",
+EJ,Interest on Deposit of Villupuram Market Committee,,,,,2049 60 101 EJ 30000
+325,Interest Charged,,"2,00","2,00","2,00",2049 60 101 EJ 32500
+01,Interest Charged,,"2,00","2,00","2,00",2049 60 101 EJ 32501
+EJ,Total EJ Charged,,"2,00","2,00","2,00",
+EK,Interest on Deposit of Theni Market Committee,,,,,2049 60 101 EK 30000
+325,Interest Charged,,1,1,1,2049 60 101 EK 32500
+01,Interest Charged,,1,1,1,2049 60 101 EK 32501
+EK,Total EK,,1,1,1,
+EL,Interest on Deposit of Dindigul Market Committee,,,,,2049 60 101 EL 30000
+325,Interest Charged,"1,65,00",1,"1,23,27","62,56",2049 60 101 EL 32500
+01,Interest Charged,"1,65,00",1,"1,23,27","62,56",2049 60 101 EL 32501
+EL,Total EL Charged,"1,65,00",1,"1,23,27","62,56",
+EM,Interest on Deposit of Nagapattinam Market Committee,,,,,2049 60 101 EM 30000
+325,Interest Charged,"13,07",1,1,1,2049 60 101 EM 32500
+01,Interest Charged,"13,07",1,1,1,2049 60 101 EM 32501
+EM,Total EM Charged,"13,07",1,1,1,
+EN,Interest on Deposit of Thiruvarur Market Committee,,,,,2049 60 101 EN 30000
+325,Interest Charged,,1,1,1,2049 60 101 EN 32500
+01,Interest Charged,,1,1,1,2049 60 101 EN 32501
+EN,Total EN Charged,,1,1,1,
+EO,Interest on Deposit of Thiruvannamalai Market Committee,,,,,2049 60 101 EO 30000
+325,Interest Charged,,1,1,1,2049 60 101 EO 32500
+01,Interest Charged,,1,1,1,2049 60 101 EO 32501
+EO,Total EO Charged,,1,1,1,
+EP,Interest on Deposit of Thiruvalluvar University,,,,,2049 60 101 EP 30000
+325,Interest Charged,,"8,00","8,00","8,00",2049 60 101 EP 32500
+01,Interest Charged,,"8,00","8,00","8,00",2049 60 101 EP 32501
+EP,Total EP Charged,,"8,00","8,00","8,00",
+EQ,Interest on Deposits of Tamil Nadu Manual Workers' Social Security and Welfare Board,,,,,2049 60 101 EQ 30000
+325,Interest Charged,"4,00","4,00","4,00","4,00",2049 60 101 EQ 32500
+01,Interest Charged,"4,00","4,00","4,00","4,00",2049 60 101 EQ 32501
+EQ,Total EQ Charged,"4,00","4,00","4,00","4,00",
+ER,Interest on 60% Pay Commission Arrears to Tamil Nadu Government Servants,,,,,2049 60 101 ER 30000
+325,Interest Charged,77,"1,50",1,1,2049 60 101 ER 32500
+01,Interest Charged,77,"1,50",1,1,2049 60 101 ER 32501
+ER,Total ER Charged,77,"1,50",1,1,
+ES,Interest on 60% Pay Commission Arrears toTeaching / Non-Teaching Staff of Aided High / Higher Secondary / Anglo Indian Schools,,,,,2049 60 101 ES 30000
+325,Interest Charged,,74,1,1,2049 60 101 ES 32500
+01,Interest Charged,,74,1,1,2049 60 101 ES 32501
+ES,Total ES Charged,,74,1,1,
+ET,Interest on 60% Pay Commission Arrears to Teaching / Non-Teaching Staff of Panchayat Union Schools / Municipal Schools,,,,,2049 60 101 ET 30000
+325,Interest Charged,,1,1,1,2049 60 101 ET 32500
+01,Interest Charged,,1,1,1,2049 60 101 ET 32501
+ET,Total ET Charged,,1,1,1,
+EU,Interest on 60% Pay Commission Arrears to Teaching / Non Teaching Staff of Aided Colleges,,,,,2049 60 101 EU 30000
+325,Interest Charged,,1,1,1,2049 60 101 EU 32500
+01,Interest Charged,,1,1,1,2049 60 101 EU 32501
+EU,Total EU Charged,,1,1,1,
+EV,Interest on 60% Pay Commission Arrears to Teaching / Non Teaching Staff of Aided Polytechnic and Aided Engineering Colleges,,,,,2049 60 101 EV 30000
+325,Interest Charged,,1,1,1,2049 60 101 EV 32500
+01,Interest Charged,,1,1,1,2049 60 101 EV 32501
+EV,Total EV Charged,,1,1,1,
+EW,Interest on 60% Pay Commission Arrears to Teaching / Non Teaching Staff of Aided Special Schools for the differently abled,,,,,2049 60 101 EW 30000
+325,Interest Charged,,1,1,1,2049 60 101 EW 32500
+01,Interest Charged,,1,1,1,2049 60 101 EW 32501
+EW,Total EW Charged,,1,1,1,
+EX,Interest on Deposit of Water and Sanitation Pooled Fund,,,,,2049 60 101 EX 30000
+325,Interest Charged,,"80,00",1,"80,00",2049 60 101 EX 32500
+01,Interest Charged,,"80,00",1,"80,00",2049 60 101 EX 32501
+EX,Total EX Charged,,"80,00",1,"80,00",
+EY,Interest on Deposits of Tamil Nadu State Transport Corporation Employees Pension Fund Trust,,,,,2049 60 101 EY 30000
+325,Interest Charged,,"10,00","15,45,64","3,20,00",2049 60 101 EY 32500
+01,Interest Charged,,"10,00","15,45,64","3,20,00",2049 60 101 EY 32501
+EY,Total EY Charged,,"10,00","15,45,64","3,20,00",
+101,Total 101 Charged,"124,11,11","133,67,17","231,98,96","161,64,81",
+701,Miscellaneous,,,,,
+AB,Cash Compensation under Tamil Nadu Land Ceiling Act 1961,,,,,2049 60 701 AB 30000
+325,Interest Charged,,1,"3,00","3,00",2049 60 701 AB 32500
+01,Interest Charged,,1,"3,00","3,00",2049 60 701 AB 32501
+351,Compensation Charged,"4,78","3,00",1,1,2049 60 701 AB 35100
+02,Other Compensations  - Voted Charged,"4,78","3,00",1,1,2049 60 701 AB 35102
+AB,Total AB Charged,"4,78","3,01","3,01","3,01",
+AC,Interest on Insurance-cum -Retirement Special Scheme for unorganised Labour sector,,,,,2049 60 701 AC 30000
+325,Interest Charged,,1,1,1,2049 60 701 AC 32500
+01,Interest Charged,,1,1,1,2049 60 701 AC 32501
+AC,Total AC Charged,,1,1,1,
+701,Total 701 Charged,"4,78",,"3,02","3,02","3,02"
+800,Other Expenditure,,,,,
+AA,Interest on Finance Commission Transfers to Local Bodies,,,,,2049 60 800 AA 30000
+325,Interest Charged,,1,1,1,2049 60 800 AA 32500
+01,Interest Charged,,1,1,1,2049 60 800 AA 32501
+AA,Total AA Charged,,,1,1,1
+800,Total 800 Charged,,,1,1,1
+911,Deduct - Recoveries of Overpayments,,,,,
+AC,Interest on Deposits of Corporation Municipal and other local body Employees,,,,,2049 60 911 AC 30000
+377,Deduct-Recoveries Charged-21,,,,,2049 60 911 AC 377 00
+02,Recoveries of Overpayments /,,,,,
+AC,Total AC Charged-21,,,,,
+AE,Interest on the Deposits of Local Funds other than State Khadi and Village Industries Board,,,,,2049 60 911 AE 30000
+377,Deduct-Recoveries Charged-3,,,,,2049 60 911 AE 37700
+02,Recoveries of Overpayments / Remittance of excess drawals Charged,-3,,,,2049 60 911 AE 37702
+AE,Total AE Charged,-3,,,,
+911,Total 911 Charged,-24,,,,
+60,Total 60 Charged,"124,15,65","133,70,20","232,01,99","161,67,84",
+2049,Total 2049 Charged,"28,757,01,24","32,460,98,87","31,680,00,85","36,311,47,01",
