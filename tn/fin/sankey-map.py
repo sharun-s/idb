@@ -54,14 +54,6 @@ ax.set_facecolor("#002f4f")
 #ax.get_xaxis().set_visible(False)
 #ax.get_yaxis().set_visible(False)
 
-sk=Sankey(ax=ax,head_angle=270, scale=0.000000001, unit=None,
-	offset=0.25, shoulder=0., margin=2.,gap=.45)
-
-sk.add(
-	flows=[-607286000,-24533000,-11000000,-111020000,-77324000,-273250000,-51857000,1156270000],
-	labels=['d1','d1', 'd1','d2','d2','d2', 'd2','T'],
-	orientations=[1,1,1,1,1,1,1,0])
-
 #d1 financials
 d=([607286000,24533000,11000000,-631868000],
 	['2011 State Legis', '2059 Public Works', 
@@ -74,34 +66,71 @@ d2=([111020000,77324000,273250000,51857000,-514066000],
 		'2059 Public Works','Total'])
 fd2=format_hack(d2[1],d2[0])
 
+d3=([11365987000,454040000,224251000,80000000,1924000,-47938000,-12078264000], #tot recheck with pdf
+	['2014 Admin of Justice', '2059 Public Works', 
+		'2230 Labour, Employment, Skill Dev', 
+		'2235 Social Security And Welfare',
+		'3604 Compensation','Recoveries','Total'])
+fd3=format_hack(d3[1],d3[0])
 
+sk=Sankey(ax=ax,head_angle=270, scale=0.0000000001, unit=None,
+	offset=0.3, shoulder=0., margin=2.,gap=.45)
+
+# totals
+sk.add(
+	flows=[-607286000,-24533000,-11000000,
+			-111020000,-77324000,-273250000,-51857000,
+			-11365987000,-454040000,-224251000,-80000000,-1924000,47938000,
+			13234534000],
+			#1156270000],
+	labels=13*['']+['Total Expenditure'],
+	orientations=[1,1,1,1,1,1,1,1,1,1,1,1,-1,-1])
+
+# state leg
 sk.add(flows=d[0],
 		labels=fd[1], 
-		orientations=[1,1,1,0],
+		orientations=[1,1,1,-1], trunklength=2,facecolor='orange',
 		color="#027368", prior=0,connect=(0,0))
-
-#d1 depts
-sk.add(patchlabel='State Legislature',
+# state leg depts
+sk.add(#patchlabel='State Legislature',
 	flows=[631868000,-631868000],
-	labels=['', ''],
-	orientations=[1,-1],
+	labels=['State Legislature', 'State Legislature'],
+	orientations=[0,-1], 
 	prior=1,connect=[3,0])
 
-offset = transforms.ScaledTranslation(3., 0.0, fig.dpi_scale_trans)
-new_transform = ax.transData + offset
+#offset = transforms.ScaledTranslation(3., 0.0, fig.dpi_scale_trans)
+#new_transform = ax.transData + offset
 
+# gov com
 sk.add(flows=d2[0],
 		labels=fd2[1], 
-		orientations=[1,1,1,1,0],
+		orientations=[1,1,1,1,0],facecolor='orange',
 		color="#027368", prior=0,connect=(3,0))#, transform=new_transform)
 
-#d2 depts
+# gov com depts
 sk.add(
 	flows=[514066000,-30410000,-133056000,-350600000],
 	labels=['','Gov Sec', 'Gov House','C o M'],
-	orientations=[1,-1,-1,-1],
+	orientations=[-1,-1,-1,-1],
 	prior=3,connect=[4,0])#, transform=new_transform)
 
+# admin of justice
+sk.add(flows=d3[0],
+		labels=fd3[1], 
+		orientations=[1,1,1,1,1,0,-1.0],facecolor='orange',
+		color="#027368", prior=0,connect=(7,0))#, transform=new_transform)
+
+sk.add(
+	flows=[12078264000,-11907985000,-170279000], #pfft 119 recheck
+	labels=['','Admin of Justice', 'TN State Legal Services'],
+	orientations=[-1,0,0],
+	prior=5,connect=[6,0])
+# admin of jus depts
+#sk.add(
+#	flows=[514066000,-30410000,-133056000,-350600000],
+#	labels=['','Gov Sec', 'Gov House','C o M'],
+#	orientations=[-1,-1,-1,-1],
+#	prior=3,connect=[4,0])#, transform=new_transform)
 
 
 dia=sk.finish()

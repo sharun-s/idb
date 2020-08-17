@@ -36,12 +36,12 @@ def format_indian(t):
 
 flat=False # false produces a forest true produces fallen trees
 # When long labels have to be fit between branches either set this option to True or increase gap parameter of Sankey
-alternateLeaves=True
+alternateLeaves=False
 
 allfiles=listdir('.')
 csv=sorted([i for i in allfiles if i.endswith('csv') ])[:int(sys.argv[1])]#and i.startswith('02')]
 #print(csv)
-fig = plt.figure(facecolor="#001f3f",figsize=(24,6))
+fig = plt.figure(facecolor="#001f3f",figsize=(12,16))
 #fig.suptitle(title.replace('"','').capitalize(), color="#00efde", fontsize=12)
 title=''
 ax = fig.add_subplot(111, frameon=False)
@@ -77,7 +77,7 @@ try:
 	    flows=sink+[-1*sum(sink)],
 		labels=['']*len(sinklabel)+[format_indian(-1000*sum(sink))], 
 		orientations=[1.]*len(sink) + [-1.],
-		color="#027368")#,rotation=90)
+		color="#027368",rotation=270)
 	cnt=0
 	for c in csv:
 		with open(c) as f:
@@ -119,7 +119,10 @@ try:
 		    flows=[-1*k for k in v] + [1*df[1].sum()],
 			labels=vals+[''],
 			orientations=orios,
-			color="#ddcc33", alpha=alpha, prior=0, connect=(cnt, len(results)))
+			#color="#ddcc33",
+			color="#027368",
+			facecolor="#ffc107", 
+			alpha=alpha, prior=0, connect=(cnt, len(results)))
 		cnt=cnt+1
 	dia=sk.finish()
 	#print([i.tips for i in dia])
@@ -130,10 +133,12 @@ try:
 	text = t.get_text()
 	pos=text.find('\n')
 	if pos > -1:
-		t.set_text(text[:pos]+'\n TOTAL REVENUE')
-		t.set_color('#ffcc33')	
+		revlabel='Income '+text[:pos]#+'\n TOTAL REVENUE'
+		t.set_text(revlabel)
+		#t.set_color('#ffcc33')	
 	#hide all intermediate text
-	for i in dia[1:-1]:
+	for i in dia:
+	#for i in dia[1:-1]:
 		for t in i.texts:
 			t.set_text('')
 	#in the final dia
@@ -151,7 +156,7 @@ try:
 			if not flat:
 				negative=re.search(r'\-\d+',text[:pos])
 				#print(text)
-				t.set_text(tw.fill(tw.dedent(text[:pos]),50).title())
+				#t.set_text(tw.fill(tw.dedent(text[:pos]),50).title())
 				if alternateLeaves:
 					if negative !=None:
 						print('negative',text)
@@ -163,13 +168,17 @@ try:
 					t.set_ha('left')
 				t.set_wrap('True')
 			else:
-				t.set_text(tw.fill(tw.dedent(text[:pos]),10).title())
+				pass
+				#t.set_text(tw.fill(tw.dedent(text[:pos]),10).title())
 		else:
-			t.set_text(tw.fill(tw.dedent(text),15).title())
+			pass
+			#t.set_text(tw.fill(tw.dedent(text),15).title())
 		t.set_wrap(True)
 	#hide join total val
-	dia[-1].texts[-1].set_text('')	
-	plt.text(0.8, 0.1,title+' ['+code+']', color='#E6DB74', fontsize=14, ha='center', va='center', transform=ax.transAxes, wrap=True)
+	dia[-1].texts[-1].set_text('')
+	xl,yl=dia[0].tips[-1]	
+	#plt.text(0.8, 0.1,title+' ['+code+']', color='#E6DB74', fontsize=14, ha='center', va='center', transform=ax.transAxes, wrap=True)
+	plt.text(xl, yl-.05,revlabel, color='#ffc107', fontsize=16, ha='center', va='center', wrap=True)
 	fig.savefig('big_'+sys.argv[1]+'.png',format='png',facecolor=fig.get_facecolor())
 except Exception as e:
 	print("error in ",c)

@@ -43,7 +43,7 @@ titlemap=p.read_csv('demand_dept.csv')
 
 allfiles=listdir('.')
 csv=[str(i)+'.csv' for i in range(10,55)][:int(sys.argv[1])]
-fig = plt.figure(facecolor="#001f3f")#,figsize=(12,6))
+fig = plt.figure(facecolor="#001f3f",figsize=(12,16))
 #fig.suptitle(title.replace('"','').capitalize(), color="#00efde", fontsize=12)
 title=''
 ax = fig.add_subplot(111, frameon=False)
@@ -62,7 +62,8 @@ skippedfiles=0
 try:
 	for c in csv:
 		df=p.read_csv(c,comment='#',header=None)
-
+		code=c.replace('.csv','')
+		title=titlemap[titlemap['h']==int(code)]['dept'].item().partition('(')[0].strip()
 		df[COLUMN_TO_PLOT]=df[COLUMN_TO_PLOT].apply(lambda x:str(x).replace('- ','-')).apply(lambda x:atof(x) if x!='nan' else 0)
 		df=df[df[COLUMN_TO_PLOT]!=0.0]
 		df.set_index(1,inplace=True)
@@ -79,7 +80,7 @@ try:
 	    flows=sink+[-1*sum(sink)],
 		labels=['']*len(sinklabel)+[format_indian(-1000*sum(sink))], 
 		orientations=[1.]*len(sink) + [-1.],
-		color="#027368",rotation=180)
+		color="#027368",rotation=270)
 	cnt=0
 	for c in csv:
 		#with open(c) as f:
@@ -87,8 +88,7 @@ try:
 		#	title=line.split(',')[1].strip().replace('"','').title()
 		#	code=line.split(',')[0][1:].strip()
 		#title=titlemap['h']=code
-		code=c.replace('.csv','')
-		title=titlemap[titlemap['h']==int(code)]['dept'].item().partition('(')[0].strip()
+		
 		df=p.read_csv(c,comment='#',header=None)
 		df[COLUMN_TO_PLOT]=df[COLUMN_TO_PLOT].apply(lambda x:str(x).replace('- ','-')).apply(lambda x:atof(x) if x!='nan' else 0)
 		df=df[df[COLUMN_TO_PLOT]!=0.0]# drop all empty rows
@@ -183,7 +183,14 @@ try:
 	dia[-1].texts[-1].set_text('')
 	xl,yl=dia[0].tips[-1]	
 	#plt.text(0.8, 0.1,title+' ['+code+']', color='#E6DB74', fontsize=14, ha='center', va='center', transform=ax.transAxes, wrap=True)
-	plt.text(xl, yl+.5,explabel, color='#ffc107', fontsize=16, ha='center', va='center', wrap=True)
+	plt.text(xl, yl,explabel, color='#ffc107', fontsize=16, ha='left', va='center', wrap=True)
+	cnt=0
+	for tp in dia[0].tips[:-1]:
+		xl,yl=tp
+		plt.text(xl, yl, sinklabel[cnt].replace('Department','')[:30], color='#f89909', fontsize=12, ha='left', va='bottom'
+			)
+		cnt=cnt+1
+
 	fig.savefig('big_'+sys.argv[1]+'.png',format='png',facecolor=fig.get_facecolor())
 except Exception as e:
 	print("error in ",c)
