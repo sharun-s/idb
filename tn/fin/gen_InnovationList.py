@@ -60,9 +60,12 @@ for i in vc.index:
 # resort dept alphabetically, easier to browse than abv order
 for fd,tmp,txt,cnt in sorted(l,key=lambda x:x[2]):
 	with open(f'sif_explorer/{fd}.html','w') as f:
-		f.write('<body style="font-family:verdana,sans-serif;">')
+		f.write('<script src="../tbl.js"></script>')
+		f.write('<body onload="addSortHandlers()" style="font-family:verdana,sans-serif;">')
 		f.write('<div><a href=../startpage.html target=details>Go Back</a></div>')
-		f.write(tmp.to_html(index=False,justify='center',na_rep='',columns=['Project','2018','2019','2020','SubDept','Functional Head']))
+		f.write('<input type="text" id="sbox" onkeyup="search()" placeholder="Search for...">')
+		f.write(tmp.to_html(table_id="dataTable",index=False,justify='center',na_rep='',
+			columns=['Project','2018','2019','2020','SubDept','Functional Head']))
 		f.write('</body>')
 	with open('sif_index.html','a') as f:
 		#f.write('<body style="font-family:verdana,sans-serif;">')

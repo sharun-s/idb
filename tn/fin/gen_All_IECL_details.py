@@ -132,10 +132,12 @@ def dumpDetails(highlevel,details,ftitle,titleStr,detailsdir):
 
 	with open(f'{detailsdir}/{ftitle}.html','w') as f:
 		f.write('<style>td { min-width: 100px;}</style>')
-		f.write('<body style="font-family:verdana,sans-serif;">')
+		f.write('<script src="../tbl.js"></script>')
+		f.write('<body onload="addSortHandlers()" style="font-family:verdana,sans-serif;">')
 		f.write(f'<a href=../startpage.html target=details>Home</a>&nbsp;<b>--{titleStr}</b><br>')
 		f.write(h.to_html(justify='center',index=False,border=0,bold_rows=False,na_rep='-'))
-		f.write(dk.to_html(columns=["Description",'2018','2019','2020','SubDept','Dept'], justify='center',index=False,border=0,bold_rows=False,na_rep='-'))
+		f.write('<input type="text" id="sbox" onkeyup="search()" placeholder="Search for...">')
+		f.write(dk.to_html(table_id='dataTable',columns=["Description",'2018','2019','2020','SubDept','Dept'], justify='center',index=False,border=0,bold_rows=False,na_rep='-'))
 		f.write('<br><a href="history_explorer/dummy.html">[Historic Data 2002-2018]</a>')
 		f.write('</body>')
 		f.write('\n')

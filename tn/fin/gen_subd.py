@@ -18,8 +18,12 @@ for i in expfiles:
 	try:
 		df=p.read_csv('data/expenditure/'+i)
 		f=open('subd_render/'+i.replace('.csv','.html'),'w')
-		f.write('<a href=../startpage.html target=details>Home</a>&nbsp; [All amounts in Thousands]')
-		f.write(df.to_html(border=0,index=False,columns=['desc','2018','2019Rev','2020Est'],na_rep=''))
+		f.write('<script src="../tbl.js"></script>')
+		f.write('<body onload="addSortHandlers()" style="font-family:verdana,sans-serif;">')
+		f.write('<div><a href=../startpage.html target=details>Go Back</a></div>')
+		f.write('<input type="text" id="sbox" onkeyup="search()" placeholder="Search for...">')
+		#f.write('<a href=../startpage.html target=details>Home</a>&nbsp; [All amounts in Thousands]')
+		f.write(df.to_html(table_id="dataTable",border=1,index=False,columns=['desc','2018','2019Rev','2020Est'],na_rep=''))
 		f.close()
 	except Exception as e:
 		print(i,e)
