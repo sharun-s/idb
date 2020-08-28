@@ -64,3 +64,19 @@ def format_indian(t):
 	ex=fexp(t)
 	m=fman(t)
 	return "{:.2f}".format(m*dic[ex][1])+" "+dic[ex][0]
+
+def format_indian_cr(t):
+	if t==0:
+		return '--'
+	dic = {
+		1:('Cr',10),
+	    2:('Cr',100),# 100 cr
+	    3:('Cr',1000), # 1000 cr
+	    4:('K Cr',10), # 10000 cr
+	    5:('Lk Cr',1)#, # 10k cr
+	    #6:('Lk Cr',1) # 1 L cr
+	}
+	ex=fexp(t)
+	m=fman(t)
+	#print(m,dic[ex][1],ex)
+	return "{:.2f}".format(m*dic[ex][1])+" "+dic[ex][0]
