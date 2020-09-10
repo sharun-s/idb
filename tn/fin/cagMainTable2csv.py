@@ -15,7 +15,7 @@ state=sys.argv[1]
 pg='1-2'#sys.argv[2]
 startrow=int(sys.argv[2]) 
 states=p.read_csv('States')
-dirname=r'data/cag/'+states.cagdir.iloc[states[states['prefix']==state].index[0]]
+dirname=r'/home/s/idb-stash/tn-budget-docs/cag/'+states.cagdir.iloc[states[states['prefix']==state].index[0]]
 allfiles=listdir(dirname)
 #allfiles=[i for i in allfiles if len(i) < 10]
 outfile=state+'-cag-maintable.csv'
