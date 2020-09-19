@@ -59,7 +59,8 @@ def format_indian(t):
 	    9:('Cr',100), # 100 cr
 	    10:('K Cr',1), # 1000 cr
 	    11:('K Cr',10), # 10k cr
-	    12:('Lk Cr',1) # 1 L cr
+	    12:('Lk Cr',1), # 1 L cr
+	    13:('Lk Cr',10)
 	}
 	ex=fexp(t)
 	m=fman(t)
