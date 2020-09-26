@@ -6,8 +6,12 @@ from descartes import PolygonPatch
 import numpy as np
 import sys
 
+#TODO
 #1. Big gap between axis and edge of screen?
 #2. Setting xlim and ylim causes stretching
+
+#args
+# output filename, elevation, azimuth, list of districts
 
 def Poly(ax, geom, forecolor, bordercolor, borderwidth=1, transparency=1., zheight=0):
 	pp=PolygonPatch(geom, fc=forecolor, ec=bordercolor, lw=borderwidth,alpha=transparency, zorder=zheight )
@@ -33,25 +37,27 @@ fig.subplots_adjust(left=0, right=1, bottom=0, top=1)
 ax = fig.gca(projection='3d')
 e=40 if int(sys.argv[2]) > 40 else int(sys.argv[2])  
 azi=int(sys.argv[3]) or -90.
-ax.set_axis_off()
-ax.set_aspect(0.73*1.33)
+#ax.set_axis_off()
+#ax.set_aspect(0.73*1.33)
 ax.view_init(elev=e, azim=azi)
 
 ax.set_facecolor('#001f3f')
 #ax.get_proj=lambda:np.dot(Axes3D.get_proj(ax),np.diag([1.04,1.15,1,1])) 
 
-window=Poly(ax,geom=tn,forecolor='#22aacc', bordercolor=BLUE, transparency=0.3, zheight=0)
+window=Poly(ax,geom=tn,forecolor='#001f3f',#'#22aacc', 
+	bordercolor='#001f3f',#,BLUE, 
+	transparency=0, zheight=0)
 #ax.plot([tnx],[tny],[1],'go')
-print(window.xmin, window.xmax, window.xmax-window.xmin)
-print(window.ymin, window.ymax, window.ymax-window.ymin)
-print(10.24/7.68)
-print((window.xmax-window.xmin)/(window.ymax-window.ymin))
+#print(window.xmin, window.xmax, window.xmax-window.xmin)
+#print(window.ymin, window.ymax, window.ymax-window.ymin)
+#print(10.24/7.68)
+#print((window.xmax-window.xmin)/(window.ymax-window.ymin))
 ax.set_xlim3d(window.xmin-70000, window.xmax-150000) #8600000, 8800000)
 ax.set_ylim3d(window.ymin, window.ymax-150000)#1360000, 1440000)
 ax.set_zlim3d(0, 3)
 #ax.margins(1.1,.1,0.,tight=True)
-print(ax.get_proj())
-print(ax.get_w_lims())
+#print(ax.get_proj())
+#print(ax.get_w_lims())
 zh=0
 for j in districts:
 	#base

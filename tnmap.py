@@ -29,8 +29,40 @@ ax.spines['left'].set_color('white')
 
 districts=l2[l2.Name.isin(sys.argv[3:])]
 print(len(districts))
-print('Missing-')
-print(l2[~l2.Name.isin(sys.argv[3:])].Name)
-districts.plot(ax=ax,facecolor='orange',edgecolor='#002f4f',label='TN',alpha=.73, linewidth=1) 
+#print('Missing-')
+#print(l2[~l2.Name.isin(sys.argv[3:])].Name)
+districts.plot(ax=ax,facecolor='orange',edgecolor='#002f4f',label='TN'
+	,alpha=.73, linewidth=1)#,picker=5 
 #fig.savefig(sys.argv[1],format='png',facecolor=fig.get_facecolor())
+
+import shapely
+#to debug - tmpevt=None
+def onclick(event):
+	axsub = event.inaxes
+	#print(event)
+	#global tmpevt
+	#tmpevt=event
+	if axsub:
+		tmp = l2[l2.contains(shapely.geometry.Point(event.xdata,event.ydata))]['Name'].values[0]
+		#print(tmp)
+		#global annote
+		annote.xy=event.xdata,event.ydata
+		annote.set_text(tmp)
+		fig.canvas.draw_idle()
+
+#this works only by clicking specifically on the path within the tolerance level specified by 'picker' prop passed to plot
+def on_pick(event):
+	print(event)
+	patchCollection = event.artist
+	print(patchCollection) 
+
+annote = ax.annotate("", xy=(0,0),xytext=(.1,.5), textcoords="figure fraction", color="#ffcc33", fontsize=14)
+								#bbox=dict(boxstyle="round", fc="w"), 
+								#arrowprops=dict(arrowstyle="->"))
+#annote.set_visible(False)
+
+#cid = fig.canvas.mpl_connect('pick_event', on_pick)
+#fig.canvas.mpl_connect('button_press_event', onclick)
+fig.canvas.mpl_connect('motion_notify_event', onclick)
+
 p.show()
