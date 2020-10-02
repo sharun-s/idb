@@ -25,7 +25,18 @@ ax.spines['bottom'].set_color('white')#'#ccc107')
 ax.spines['top'].set_color('white') 
 ax.spines['right'].set_color('white')
 ax.spines['left'].set_color('white')
+#ax.set_xscale('log')
+# import numpy as np
+# # Function Mercator transform
+# def forward(a):
+#     a = np.deg2rad(a)
+#     return np.rad2deg(np.log(np.abs(np.tan(a) + 1.0 / np.cos(a))))
 
+# def inverse(a):
+#     a = np.deg2rad(a)
+#     return np.rad2deg(np.arctan(np.sinh(a)))
+
+# ax.set_yscale('function', functions=(forward, inverse))
 
 districts=l2[l2.Name.isin(sys.argv[3:])]
 print(len(districts))
