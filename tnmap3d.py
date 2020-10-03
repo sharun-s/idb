@@ -8,10 +8,13 @@ import sys
 from matplotlib.transforms import Affine2D
 from matplotlib.patches import PathPatch
 from matplotlib.text import TextPath
+import matplotlib as matp
+
+matp.use('TkAgg')
+p.ion()
 #TODO
 #1. Big gap between axis and edge of screen?
 #2. Setting xlim and ylim causes stretching
-
 #args
 # output filename, elevation, azimuth, list of districts
 def Path3D(ax, geom, forecolor, bordercolor, borderwidth=1, transparency=1., zheight=0):
@@ -44,7 +47,6 @@ def Path3D_transform(ax, geom, forecolor, bordercolor, angle,borderwidth=1, tran
 	art3d.pathpatch_2d_to_3d(tmp, z=z1, zdir='z')#zdir)
 	#print(tmp.get_extents())
 
-
 def text3d(ax, xyz, s, zdir="z", size=None, angle=0, usetex=False, **kwargs):
     '''
     Plots the string 's' on the axes 'ax', with position 'xyz', size 'size',
@@ -67,8 +69,6 @@ def text3d(ax, xyz, s, zdir="z", size=None, angle=0, usetex=False, **kwargs):
     text_path = TextPath((window.xmin-70000, window.ymin), s, size=size, usetex=usetex)
     #trans = Affine2D().rotate_deg(angle).translate(xy1[0], xy1[1])
     trans = Affine2D().rotate(angle).translate(xy1[0], xy1[1])
-
-
     p1 = PathPatch(trans.transform_path(text_path), **kwargs)
     ax.add_patch(p1)
     art3d.pathpatch_2d_to_3d(p1, z=z1, zdir=zdir)
@@ -104,7 +104,7 @@ window=Path3D(ax,geom=tn,forecolor='#001f3f',#'#22aacc',
 #print(window.ymin, window.ymax, window.ymax-window.ymin)
 #print(10.24/7.68)
 #print((window.xmax-window.xmin)/(window.ymax-window.ymin))
-ax.set_xlim3d(window.xmin-70000, window.xmax) #8600000, 8800000)
+ax.set_xlim3d(window.xmin-120000, window.xmax) #8600000, 8800000)
 ax.set_ylim3d(window.ymin, window.ymax)#1360000, 1440000)
 ax.set_zlim3d(0, 3)
 #ax.margins(1.1,.1,0.,tight=True)
@@ -135,33 +135,60 @@ Path3D_transform(ax,j, forecolor="#ffcc33", bordercolor="black",angle=np.pi/2,zd
 #art3d.pathpatch_2d_to_3d(p1, z=z1, zdir=zdir)
 
 for j in alld:
-	Path3D(ax,geom=j,forecolor='yellow', bordercolor='#001f3f', transparency=0.2, borderwidth=1, zheight=1)
+	Path3D(ax,geom=j,forecolor='#E6DB74', bordercolor='#E6DB74', transparency=.8, borderwidth=1, zheight=0)
 	#ax.plot([tnx, j.centroid.x],[tny, j.centroid.y],[1],'r')	
 
-text3d(ax, (-1000, 0, 0), "X-axis", 
-	zdir="z", size=50000, usetex=False, angle=0,
-       ec="yellow", fc="orange")
-text3d(ax, (window.xmax-window.xmin, window.ymax-window.ymin, 0), "Y-axis", zdir="z", size=50000, usetex=False,
-        angle=np.pi/80, ec="red", fc="red")
-text3d(ax, (window.xmax-window.xmin,window.ymax-window.ymin, 2 ), "Z axis", zdir="z", size=50000, usetex=False,
-        angle=0, ec="blue", fc="orange")
+# text3d(ax, (-1000, 0, 0), "X-axis", 
+# 	zdir="z", size=50000, usetex=False, angle=0,
+#        ec="yellow", fc="orange")
+# text3d(ax, (window.xmax-window.xmin, window.ymax-window.ymin, 0), "Y-axis", zdir="z", size=50000, usetex=False,
+#         angle=np.pi/80, ec="red", fc="red")
+# text3d(ax, (window.xmax-window.xmin,window.ymax-window.ymin, 2 ), "Z axis", zdir="z", size=50000, usetex=False,
+#         angle=0, ec="blue", fc="orange")
 
 # Write a Latex formula on the z=0 'floor'
-text3d(ax, (tnx, tny, 3),
-       "test sjdk jit",
-       zdir="x", size=51000, usetex=False,
-       ec="none", fc="green")
+#text3d(ax, (tnx, tny, 3),"test sjdk jit",zdir="x", size=51000, usetex=False,ec="none", fc="green")
 
-print(ax.zaxis.get_view_interval())
-print(ax.yaxis.get_data_interval())
 ax.zaxis.set_pane_color((.0,.2,.39,.21))
 ax.xaxis._axinfo['grid']['linewidth']=0
 ax.yaxis._axinfo['grid']['linewidth']=0
 ax.zaxis._axinfo['grid']['color']=(0.,0.,0.,0.)
-
-
-#ax.zaxis.grid(b=False)
 #ax.xaxis.set_label_text("District Names")
+
+ax.tick_params(colors='#E6DB74')
+xmt=ax.get_xmajorticklabels()
+ymt=ax.get_ymajorticklabels()
+ax.set_xticklabels(l2.iloc[:len(xmt)]['Name'])
+ax.set_yticklabels(l2.iloc[len(xmt)-2:len(xmt)+len(xmt)]['Name'])
+ax.set_zticklabels(l2.iloc[len(xmt)+len(xmt):len(xmt)+len(xmt)+len(xmt)]['Name'])
+print(xmt[0].get_position()[0],ymt[int(len(ymt)/2)].get_position()[0])
+center_y=ymt[int(len(ymt)/2)].get_position()[0]
+center_x=xmt[int(len(xmt)/2)].get_position()[0]
+print(center_x,ymt[-1].get_position()[0])
+print(ymt)
+ax.text(xmt[0].get_position()[0], center_y,1,"X-Axis",zdir='y',fontsize=20,color='yellow')
+ax.text(center_x, ymt[-1].get_position()[0],1,"Y-Axis",zdir='x',fontsize=20,color='green')
+
+#fig.savefig(sys.argv[1],format='png',facecolor=fig.get_facecolor())
+
+#print(l2['Name'].to_list())
+# bbox = fig.bbox_inches.from_bounds(2, 1, 8, 7)
+# fig.savefig(sys.argv[1],format='png', 
+# 	#bbox_inches=bbox, 
+# 	facecolor=fig.get_facecolor())
+#p.show()
+
+#debug
+#print(ax.zaxis.get_view_interval())
+#print(ax.yaxis.get_data_interval())
+#print(ax.get_xticklabels())
+#print(ax.xaxis.get_ticklabels(minor=True))
+#print(ax.xaxis.get_ticklocs())
+
+#ax.tick_params(axis='x',grid_linewidth=0,grid_color='#E6DB74') # doesnt work
+#for i in range(len(xmt)):
+#	print(xmt[i])
+#	xmt[i].set_text(l2.iloc[i]['Name'])
 
 # doesnt work
 #mt=ax.xaxis.get_major_ticks()
@@ -182,25 +209,6 @@ ax.zaxis._axinfo['grid']['color']=(0.,0.,0.,0.)
 # 	tl[i].set_text(l2.iloc[i]['Name'])
 # 	print(tl[i],l2.iloc[i]['Name'])
 #ax.figure.canvas.draw()
-ax.tick_params(colors='#E6DB74')
-#ax.tick_params(axis='x',grid_linewidth=0,grid_color='#E6DB74') # doesnt work
-xmt=ax.get_xmajorticklabels()
-#for i in range(len(xmt)):
-#	print(xmt[i])
-#	xmt[i].set_text(l2.iloc[i]['Name'])
-
-ax.set_xticklabels(l2.iloc[0:len(xmt)+5]['Name'])
-
-#debug
-#print(ax.get_xticklabels())
-#print(ax.xaxis.get_ticklabels(minor=True))
-#print(ax.xaxis.get_ticklocs())
-
-# bbox = fig.bbox_inches.from_bounds(2, 1, 8, 7)
-#fig.savefig(sys.argv[1],format='png', 
-	#bbox_inches=bbox, 
-#	facecolor=fig.get_facecolor())
-p.show()
 
 #from matplotlib.colors import LightSource
 # Get colormaps to use with lighting object.
