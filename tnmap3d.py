@@ -10,17 +10,17 @@ from matplotlib.patches import PathPatch
 from matplotlib.text import TextPath
 import matplotlib as matp
 
-matp.use('TkAgg')
-p.ion()
-#TODO
-#1. Big gap between axis and edge of screen?
-#2. Setting xlim and ylim causes stretching
+#uncomment for interactive debug
+#matp.use('TkAgg')
+#p.ion()
+
 #args
 # output filename, elevation, azimuth, list of districts
-def Path3D(ax, geom, forecolor, bordercolor, borderwidth=1, transparency=1., zheight=0):
+def Path3D(ax, geom, name, forecolor, bordercolor, borderwidth=1, transparency=1., zheight=0):
 	# descartes.PolygonPatch converts a shapely or geojson like obj (geom in this case) to a matplotlib pathpatch
 	pp=PolygonPatch(geom, fc=forecolor, ec=bordercolor, lw=borderwidth,alpha=transparency, zorder=zheight )
 	xy=pp.get_extents()
+	pp.dname=name
 	ax.add_patch(pp)
 	art3d.pathpatch_2d_to_3d(pp, z=zheight, zdir="z")
 	return xy
@@ -47,38 +47,25 @@ def Path3D_transform(ax, geom, forecolor, bordercolor, angle,borderwidth=1, tran
 	art3d.pathpatch_2d_to_3d(tmp, z=z1, zdir='z')#zdir)
 	#print(tmp.get_extents())
 
-def text3d(ax, xyz, s, zdir="z", size=None, angle=0, usetex=False, **kwargs):
-    '''
-    Plots the string 's' on the axes 'ax', with position 'xyz', size 'size',
-    and rotation angle 'angle'.  'zdir' gives the axis which is to be treated
-    as the third dimension.  usetex is a boolean indicating whether the string
-    should be interpreted as latex or not.  Any additional keyword arguments
-    are passed on to transform_path.
-
-    Note: zdir affects the interpretation of xyz.
-    '''
-    x, y, z = xyz
-    if zdir == "y":
-        xy1, z1 = (x, z), y
-        #xy1, z1 = (x, window.ymax-140000), 2
-    elif zdir == "x":
-        xy1, z1 = (y, z), x
-    else:
-        xy1, z1 = (x, y), z
-
-    text_path = TextPath((window.xmin-70000, window.ymin), s, size=size, usetex=usetex)
-    #trans = Affine2D().rotate_deg(angle).translate(xy1[0], xy1[1])
-    trans = Affine2D().rotate(angle).translate(xy1[0], xy1[1])
-    p1 = PathPatch(trans.transform_path(text_path), **kwargs)
-    ax.add_patch(p1)
-    art3d.pathpatch_2d_to_3d(p1, z=z1, zdir=zdir)
+def onhover(event):
+	axsub = event.inaxes
+	#print(event)
+	if axsub:
+		for i in axsub.patches:
+			# from patches.Patch.contains_point
+			data_cords=i.get_transform().transform((event.xdata, event.ydata))
+			if i.contains_point(data_cords):
+				if i.dname=='TN' or i.dname=='selected':
+					continue
+				dlabel.set_text(i.dname)
+				fig.canvas.draw_idle()
+				break
 
 BLUE = '#6699cc'
 
 l1=gp.read_file('tn_boundary.json')
 l2=gp.read_file('tn_dist.json')
 
-alld=l2.geometry
 districts=l2[l2.Name.isin(sys.argv[4:])].geometry
 tn=l1.iloc[0].geometry
 tnx=tn.centroid.x
@@ -96,7 +83,7 @@ azi=int(sys.argv[3]) or -90.
 ax.set_facecolor('#001f3f')
 #ax.get_proj=lambda:np.dot(Axes3D.get_proj(ax),np.diag([1.04,1.15,1,1])) 
 
-window=Path3D(ax,geom=tn,forecolor='#001f3f',#'#22aacc', 
+window=Path3D(ax,geom=tn,name='TN',forecolor='#001f3f',#'#22aacc', 
 	bordercolor='#001f3f',#,BLUE, 
 	transparency=0, zheight=0)
 #ax.plot([tnx],[tny],[1],'go')
@@ -115,8 +102,41 @@ for j in districts:
 	#base
 	if int(sys.argv[2]) > 40:
 		zh=(int(sys.argv[2])-40)/90.0
-	Path3D(ax,geom=j,forecolor='yellow', bordercolor='#002f4f', borderwidth=1, zheight=1+zh)
+	Path3D(ax,geom=j,name='selected',forecolor='yellow', bordercolor='#002f4f', borderwidth=1, zheight=1+zh)
 	ax.plot([j.centroid.x, j.centroid.x],[j.centroid.y, j.centroid.y],[1,1+zh],'y',linewidth=4)
+
+for j in l2.itertuples():
+	print(j)
+	Path3D(ax,geom=j.geometry,name=j.Name,forecolor='#E6DB74', bordercolor='#E6DB74', transparency=.8, borderwidth=1, zheight=0)
+	#ax.plot([tnx, j.centroid.x],[tny, j.centroid.y],[1],'r')	
+
+ax.zaxis.set_pane_color((.0,.2,.39,.21))
+ax.xaxis.set_pane_color((.0,.2,.39,.21))
+ax.yaxis.set_pane_color((.0,.2,.39,.21))
+
+ax.xaxis._axinfo['grid']['linewidth']=0
+ax.yaxis._axinfo['grid']['linewidth']=0
+ax.zaxis._axinfo['grid']['color']=(0.,0.,0.,0.)
+
+#ax.xaxis.set_label_text("District Names")
+
+ax.tick_params(colors='#E6DB74')
+xmt=ax.get_xmajorticklabels()
+ymt=ax.get_ymajorticklabels()
+ax.set_xticklabels(l2.iloc[:len(xmt)]['Name'])
+ax.set_yticklabels(l2.iloc[len(xmt)-2:len(xmt)+len(xmt)]['Name'])
+ax.set_zticklabels(l2.iloc[len(xmt)+len(xmt):len(xmt)+len(xmt)+len(xmt)]['Name'])
+#print(xmt[0].get_position()[0],ymt[int(len(ymt)/2)].get_position()[0])
+center_y=ymt[int(len(ymt)/2)].get_position()[0]
+center_x=xmt[int(len(xmt)/2)].get_position()[0]
+#print(center_x,ymt[-1].get_position()[0])
+#print(ymt)
+ax.text(xmt[0].get_position()[0], center_y,1,"Some Data",zdir='y',fontsize=20,color='yellow')
+dlabel=ax.text(center_x, ymt[-1].get_position()[0],1,"Hover Over A District",zdir='x',fontsize=20,color='orange')
+fig.canvas.mpl_connect('motion_notify_event', onhover)
+
+p.show()
+
 	#top
 	#Poly(ax,geom=j,forecolor='yellow', bordercolor='yellow', bordegrwidth=0.5, zheight=2)
 
@@ -129,45 +149,13 @@ for j in districts:
 
 #print(j.centroid.x,j.centroid.y)
 #trans = Affine2D().rotate_deg(1).translate(100000,-200000)#j.centroid.x,(window.ymax-window.ymin)/2)#j.centroid.y)
-Path3D_transform(ax,j, forecolor="#ffcc33", bordercolor="black",angle=np.pi/2,zdir='z')#, lw=1,alpha=0.6, zorder=1)
+
+#Path3D_transform(ax,j, forecolor="#ffcc33", bordercolor="black",angle=np.pi/2,zdir='z')#, lw=1,alpha=0.6, zorder=1)
+
 #p1 = PathPatch(trans.transform_path(polypath.get_path()))
 #ax.add_patch(p1)
 #art3d.pathpatch_2d_to_3d(p1, z=z1, zdir=zdir)
 
-for j in alld:
-	Path3D(ax,geom=j,forecolor='#E6DB74', bordercolor='#E6DB74', transparency=.8, borderwidth=1, zheight=0)
-	#ax.plot([tnx, j.centroid.x],[tny, j.centroid.y],[1],'r')	
-
-# text3d(ax, (-1000, 0, 0), "X-axis", 
-# 	zdir="z", size=50000, usetex=False, angle=0,
-#        ec="yellow", fc="orange")
-# text3d(ax, (window.xmax-window.xmin, window.ymax-window.ymin, 0), "Y-axis", zdir="z", size=50000, usetex=False,
-#         angle=np.pi/80, ec="red", fc="red")
-# text3d(ax, (window.xmax-window.xmin,window.ymax-window.ymin, 2 ), "Z axis", zdir="z", size=50000, usetex=False,
-#         angle=0, ec="blue", fc="orange")
-
-# Write a Latex formula on the z=0 'floor'
-#text3d(ax, (tnx, tny, 3),"test sjdk jit",zdir="x", size=51000, usetex=False,ec="none", fc="green")
-
-ax.zaxis.set_pane_color((.0,.2,.39,.21))
-ax.xaxis._axinfo['grid']['linewidth']=0
-ax.yaxis._axinfo['grid']['linewidth']=0
-ax.zaxis._axinfo['grid']['color']=(0.,0.,0.,0.)
-#ax.xaxis.set_label_text("District Names")
-
-ax.tick_params(colors='#E6DB74')
-xmt=ax.get_xmajorticklabels()
-ymt=ax.get_ymajorticklabels()
-ax.set_xticklabels(l2.iloc[:len(xmt)]['Name'])
-ax.set_yticklabels(l2.iloc[len(xmt)-2:len(xmt)+len(xmt)]['Name'])
-ax.set_zticklabels(l2.iloc[len(xmt)+len(xmt):len(xmt)+len(xmt)+len(xmt)]['Name'])
-print(xmt[0].get_position()[0],ymt[int(len(ymt)/2)].get_position()[0])
-center_y=ymt[int(len(ymt)/2)].get_position()[0]
-center_x=xmt[int(len(xmt)/2)].get_position()[0]
-print(center_x,ymt[-1].get_position()[0])
-print(ymt)
-ax.text(xmt[0].get_position()[0], center_y,1,"X-Axis",zdir='y',fontsize=20,color='yellow')
-ax.text(center_x, ymt[-1].get_position()[0],1,"Y-Axis",zdir='x',fontsize=20,color='green')
 
 #fig.savefig(sys.argv[1],format='png',facecolor=fig.get_facecolor())
 
