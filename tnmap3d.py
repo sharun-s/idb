@@ -21,6 +21,8 @@ def Path3D(ax, geom, name, forecolor, bordercolor, borderwidth=1, transparency=1
 	pp=PolygonPatch(geom, fc=forecolor, ec=bordercolor, lw=borderwidth,alpha=transparency, zorder=zheight )
 	xy=pp.get_extents()
 	pp.dname=name
+	# store 2D path
+	#pp.dpath=PolygonPatch(geom, fc=forecolor, ec=bordercolor, lw=borderwidth,alpha=transparency, zorder=zheight )
 	ax.add_patch(pp)
 	art3d.pathpatch_2d_to_3d(pp, z=zheight, zdir="z")
 	return xy
@@ -52,14 +54,17 @@ def onhover(event):
 	#print(event)
 	if axsub:
 		for i in axsub.patches:
+			i.set_fc('#E6DB74')
 			# from patches.Patch.contains_point
 			data_cords=i.get_transform().transform((event.xdata, event.ydata))
 			if i.contains_point(data_cords):
 				if i.dname=='TN' or i.dname=='selected':
 					continue
 				dlabel.set_text(i.dname)
+				i.set_fc('red')
+
 				fig.canvas.draw_idle()
-				break
+			
 
 BLUE = '#6699cc'
 
@@ -72,41 +77,29 @@ tnx=tn.centroid.x
 tny=tn.centroid.y
 
 fig = p.figure(facecolor="#001f3f",figsize=(10.24,7.68)) 
-fig.subplots_adjust(left=0,right=1,bottom=0, top=1)
-#fig.subplots_adjust(left=0, right=1, bottom=0, top=1)
+#fig.subplots_adjust(left=0,right=1,bottom=0, top=1)
 ax = fig.gca(projection='3d')
 e=40 if int(sys.argv[2]) > 40 else int(sys.argv[2])  
 azi=int(sys.argv[3]) or -90.
-#ax.set_axis_off()
-#ax.set_aspect(0.73*1.33)
-#ax.view_init(elev=e, azim=azi)
 ax.set_facecolor('#001f3f')
-#ax.get_proj=lambda:np.dot(Axes3D.get_proj(ax),np.diag([1.04,1.15,1,1])) 
 
 window=Path3D(ax,geom=tn,name='TN',forecolor='#001f3f',#'#22aacc', 
 	bordercolor='#001f3f',#,BLUE, 
 	transparency=0, zheight=0)
-#ax.plot([tnx],[tny],[1],'go')
-#print(window.xmin, window.xmax, window.xmax-window.xmin)
-#print(window.ymin, window.ymax, window.ymax-window.ymin)
-#print(10.24/7.68)
-#print((window.xmax-window.xmin)/(window.ymax-window.ymin))
 ax.set_xlim3d(window.xmin-120000, window.xmax) #8600000, 8800000)
 ax.set_ylim3d(window.ymin, window.ymax)#1360000, 1440000)
 ax.set_zlim3d(0, 3)
-#ax.margins(1.1,.1,0.,tight=True)
-#print(ax.get_proj())
-#print(ax.get_w_lims())
+
 zh=0
 for j in districts:
 	#base
 	if int(sys.argv[2]) > 40:
 		zh=(int(sys.argv[2])-40)/90.0
 	Path3D(ax,geom=j,name='selected',forecolor='yellow', bordercolor='#002f4f', borderwidth=1, zheight=1+zh)
-	ax.plot([j.centroid.x, j.centroid.x],[j.centroid.y, j.centroid.y],[1,1+zh],'y',linewidth=4)
+	#ax.plot([j.centroid.x, j.centroid.x],[j.centroid.y, j.centroid.y],[1,1+zh],'y',linewidth=4)
 
 for j in l2.itertuples():
-	print(j)
+	#print(j)
 	Path3D(ax,geom=j.geometry,name=j.Name,forecolor='#E6DB74', bordercolor='#E6DB74', transparency=.8, borderwidth=1, zheight=0)
 	#ax.plot([tnx, j.centroid.x],[tny, j.centroid.y],[1],'r')	
 
@@ -121,21 +114,59 @@ ax.zaxis._axinfo['grid']['color']=(0.,0.,0.,0.)
 #ax.xaxis.set_label_text("District Names")
 
 ax.tick_params(colors='#E6DB74')
-xmt=ax.get_xmajorticklabels()
-ymt=ax.get_ymajorticklabels()
-ax.set_xticklabels(l2.iloc[:len(xmt)]['Name'])
-ax.set_yticklabels(l2.iloc[len(xmt)-2:len(xmt)+len(xmt)]['Name'])
-ax.set_zticklabels(l2.iloc[len(xmt)+len(xmt):len(xmt)+len(xmt)+len(xmt)]['Name'])
-#print(xmt[0].get_position()[0],ymt[int(len(ymt)/2)].get_position()[0])
-center_y=ymt[int(len(ymt)/2)].get_position()[0]
-center_x=xmt[int(len(xmt)/2)].get_position()[0]
-#print(center_x,ymt[-1].get_position()[0])
-#print(ymt)
-ax.text(xmt[0].get_position()[0], center_y,1,"Some Data",zdir='y',fontsize=20,color='yellow')
-dlabel=ax.text(center_x, ymt[-1].get_position()[0],1,"Hover Over A District",zdir='x',fontsize=20,color='orange')
-fig.canvas.mpl_connect('motion_notify_event', onhover)
+print(ax.xaxis.get_majorticklocs())
+xticlocs=ax.xaxis.get_majorticklocs()
+yticlocs=ax.yaxis.get_majorticklocs()
 
+center_yz_y=yticlocs[int(len(yticlocs)/2)]
+center_yz_x=xticlocs[0]
+center_xz_x=xticlocs[int(len(xticlocs)/2)]
+center_xz_y=yticlocs[-1]
+ax.set_xticklabels([])
+ax.set_yticklabels([])
+ax.set_zticklabels([])
+
+ax.text(center_yz_x, center_yz_y,1,"Some Data",zdir='y',fontsize=20,color='yellow')
+dlabel=ax.text(center_xz_x, center_xz_y,1,"Hover Over A District",zdir='x',fontsize=20,color='orange')
+
+#t=ax.zaxis.get_transform()
+#p1 = PathPatch(t.transform_path(ax.patches[13].dpath.get_path()))
+#ax.add_patch(p1)
+#art3d.pathpatch_2d_to_3d(p1, z=0, zdir='z')
+
+fig.canvas.mpl_connect('motion_notify_event', onhover)
 p.show()
+
+#adds random labels along xyz axis
+# xmt=ax.get_xmajorticklabels()
+# ymt=ax.get_ymajorticklabels()
+# print(xmt)
+# # tick label test
+# ax.set_xticklabels(l2.iloc[:len(xmt)]['Name'])
+# ax.set_yticklabels(l2.iloc[len(xmt)-2:len(xmt)+len(xmt)]['Name'])
+# ax.set_zticklabels(l2.iloc[len(xmt)+len(xmt):len(xmt)+len(xmt)+len(xmt)]['Name'])
+# print(xmt)
+# #print(xmt[0].get_position()[0],ymt[int(len(ymt)/2)].get_position()[0])
+
+#print(ax.xaxis.get_major_locator()) # Auto locator
+#print(ax.xaxis.get_minor_locator()) # Null locator
+
+#print([j for j in dir(ax.xaxis) if j.find("get")>-1 ])
+#fig.subplots_adjust(left=0, right=1, bottom=0, top=1)
+#ax.set_axis_off()
+#ax.set_aspect(0.73*1.33)
+#ax.view_init(elev=e, azim=azi)
+
+#ax.get_proj=lambda:np.dot(Axes3D.get_proj(ax),np.diag([1.04,1.15,1,1])) 
+
+#ax.plot([tnx],[tny],[1],'go')
+#print(window.xmin, window.xmax, window.xmax-window.xmin)
+#print(window.ymin, window.ymax, window.ymax-window.ymin)
+#print((window.xmax-window.xmin)/(window.ymax-window.ymin))
+
+#ax.margins(1.1,.1,0.,tight=True)
+#print(ax.get_proj())
+#print(ax.get_w_lims())
 
 	#top
 	#Poly(ax,geom=j,forecolor='yellow', bordercolor='yellow', bordegrwidth=0.5, zheight=2)
@@ -155,8 +186,6 @@ p.show()
 #p1 = PathPatch(trans.transform_path(polypath.get_path()))
 #ax.add_patch(p1)
 #art3d.pathpatch_2d_to_3d(p1, z=z1, zdir=zdir)
-
-
 #fig.savefig(sys.argv[1],format='png',facecolor=fig.get_facecolor())
 
 #print(l2['Name'].to_list())
