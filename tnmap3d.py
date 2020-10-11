@@ -3,6 +3,7 @@ import matplotlib.pyplot as p
 from mpl_toolkits.mplot3d import Axes3D
 import mpl_toolkits.mplot3d.art3d as art3d
 from descartes import PolygonPatch
+#import descartes.patch as dp
 import numpy as np
 import sys
 from matplotlib.transforms import Affine2D
@@ -21,8 +22,9 @@ def Path3D(ax, geom, name, forecolor, bordercolor, borderwidth=1, transparency=1
 	pp=PolygonPatch(geom, fc=forecolor, ec=bordercolor, lw=borderwidth,alpha=transparency, zorder=zheight )
 	xy=pp.get_extents()
 	pp.dname=name
-	# store 2D path
-	#pp.dpath=PolygonPatch(geom, fc=forecolor, ec=bordercolor, lw=borderwidth,alpha=transparency, zorder=zheight )
+	#store 2D path
+	#pp.dpath=dp.PolygonPath(geom)
+	pp.dpath=PolygonPatch(geom, fc=forecolor, ec=bordercolor, lw=borderwidth,alpha=transparency, zorder=zheight )
 	ax.add_patch(pp)
 	art3d.pathpatch_2d_to_3d(pp, z=zheight, zdir="z")
 	return xy
@@ -50,6 +52,9 @@ def Path3D_transform(ax, geom, forecolor, bordercolor, angle,borderwidth=1, tran
 	#print(tmp.get_extents())
 
 def onhover(event):
+	#incase zoom/pan happens min max changes
+	xmin, xmax = ax.xaxis.get_view_interval() #or xlim_changed and ylim_changed 
+	
 	axsub = event.inaxes
 	#print(event)
 	if axsub:
@@ -69,7 +74,10 @@ def onhover(event):
 BLUE = '#6699cc'
 
 l1=gp.read_file('tn_boundary.json')
+l1.to_crs(epsg=4326,inplace=True)
+
 l2=gp.read_file('tn_dist.json')
+l2.to_crs(epsg=4326,inplace=True)
 
 districts=l2[l2.Name.isin(sys.argv[4:])].geometry
 tn=l1.iloc[0].geometry
@@ -86,8 +94,8 @@ ax.set_facecolor('#001f3f')
 window=Path3D(ax,geom=tn,name='TN',forecolor='#001f3f',#'#22aacc', 
 	bordercolor='#001f3f',#,BLUE, 
 	transparency=0, zheight=0)
-ax.set_xlim3d(window.xmin-120000, window.xmax) #8600000, 8800000)
-ax.set_ylim3d(window.ymin, window.ymax)#1360000, 1440000)
+ax.set_xlim3d(window.xmin-1, window.xmax+1) #window.xmin-120000, window.xmax) #8600000, 8800000)
+ax.set_ylim3d(window.ymin-1, window.ymax+1) #window.ymin, window.ymax)#1360000, 1440000)
 ax.set_zlim3d(0, 3)
 
 zh=0
@@ -111,10 +119,10 @@ ax.xaxis._axinfo['grid']['linewidth']=0
 ax.yaxis._axinfo['grid']['linewidth']=0
 ax.zaxis._axinfo['grid']['color']=(0.,0.,0.,0.)
 
-#ax.xaxis.set_label_text("District Names")
+ax.xaxis.set_label_text("Longitude",color='#E6DB74')
+ax.yaxis.set_label_text("Latitude",color='#E6DB74')
 
 ax.tick_params(colors='#E6DB74')
-print(ax.xaxis.get_majorticklocs())
 xticlocs=ax.xaxis.get_majorticklocs()
 yticlocs=ax.yaxis.get_majorticklocs()
 
@@ -122,17 +130,31 @@ center_yz_y=yticlocs[int(len(yticlocs)/2)]
 center_yz_x=xticlocs[0]
 center_xz_x=xticlocs[int(len(xticlocs)/2)]
 center_xz_y=yticlocs[-1]
-ax.set_xticklabels([])
-ax.set_yticklabels([])
+#ax.set_xticklabels([])
+#ax.set_yticklabels([])
 ax.set_zticklabels([])
 
 ax.text(center_yz_x, center_yz_y,1,"Some Data",zdir='y',fontsize=20,color='yellow')
 dlabel=ax.text(center_xz_x, center_xz_y,1,"Hover Over A District",zdir='x',fontsize=20,color='orange')
 
-#t=ax.zaxis.get_transform()
-#p1 = PathPatch(t.transform_path(ax.patches[13].dpath.get_path()))
+t=ax.zaxis.get_transform()
+p1 = PathPatch(t.transform_path(ax.patches[13].dpath.get_path()))
+ax.add_patch(p1)
+art3d.pathpatch_2d_to_3d(p1, z=1, zdir='z')
+from matplotlib.patches import Circle
+#circle = Circle((78,5), 1,color='blue') z=4, zdir='y'
+circle = Circle((78,11), .5,color='#ffcc33') #zd=z
+ax.add_patch(circle)
+art3d.pathpatch_2d_to_3d(circle, z=4, zdir='z')
+
+print(p.get(ax.patches[-1]))
+#print(dir(p1))
+#print(p1.get_window_extent())
+#print(p1.get_visible())
+
+#p1=art3d.PathPatch3D(ax.patches[13], zs=1, zdir='z')
 #ax.add_patch(p1)
-#art3d.pathpatch_2d_to_3d(p1, z=0, zdir='z')
+
 
 fig.canvas.mpl_connect('motion_notify_event', onhover)
 p.show()
