@@ -1,137 +1,137 @@
-#Name,LatLong,Type
-Chennai,13.08333333;80.26666667,Muni Corporation
-Coimbatore,11.01833333;76.9725
-Madurai,9.9;78.1
-Erode,11.35;77.73333333
-Salem,11.65;78.16
-Thoothukudi,8.81;78.14
-Tiruchirappalli,10.805;78.68555556
-Tirunelveli,8.73;77.7
-Thanjavur,10.78333333;79.13611111
-Tiruppur,11.11;77.34
-Vellore,12.920219;79.133306
-Dindigul,10.35;77.95
-Avadi,13.12;80.1,Municipality Special grade
-Cuddalore,11.75;79.75
-Hosur,12.735;77.829
-Kancheepuram,12.82;79.71
-Karaikudi,10.07;78.78
-Karur,10.95;78.08
-Kodaikanal,10.23;77.48
-Kovilpatti,9.17;77.87
-Kumbakonam,10.97;79.42
-Maraimalainagar,12.785185,80.025601
-Nagercoil,8.17;77.43
-Pallavapuram,12.98;80.18
-Pollachi,10.659;77.008
-Rajapalayam,9.45;77.55
-Sivakasi,9.45;77.82
-Tambaram,12.93;80.11
-Thiruvannamalai,12.22;79.07
-Udhagamandalam,11.41;76.70
-Ambur,12.78;78.7,Municipality Selection grade
-Alandur,13.003;80.204
-Attur,11.599341;78.597752
-Chidambaram,11.4;79.7
-Coonoor,11.35;76.82
-Dharmapuri,12.126;78.154
-Gobichettipalayam,11.45361111;77.43833333
-Mannargudi,10.663;79.445
-Mayiladuthurai,11.1;79.65
-Mettupalayam,11.3,76.95
-Mettur,11.8;77.8
-Nagapattinam,10.77;79.83
-Namakkal,11.23333333;78.16666667
-Palani,10.45;77.52
-Pammal,12.975;80.134722
-Pattukkottai,10.43;79.32
-Pudukkottai,10.38;78.82
-Ranipet,12.9275;79.3302
-Theni Allinagaram,10.009;77.2843
-Thiruverkadu,13.069529,80.12423
-Thuraiyur,11.16861111;78.62111111
-Tindivanam,12.237;79.65
-Tiruchengode,11.3805;77.895125
-Tiruppattur,12.50,78.60
-Udumalaipettai,10.58;77.24
-Valparai,10.37;76.97
-Vaniyambadi,12.68;78.62
-Viluppuram,11.941;79.493
-Virudhunagar,9.58333333;77.95
-Arakkonam,13.07777778;79.66666667,Municipality First grade
-Arani,12.67;79.28
-Aranthangi,10.1631;78.9962
-Arcot,12.99;79.314
-Aruppukkottai,9.51;78.1
-Bodinayakanur,10.02;77.35
-Chengalpattu,12.68333333;79.98333333
-Colachel,8.17;77.24
-Cumbum,9.73;77.3
-Devakottai,9.94194444;78.82666667
-Dharapuram,10.73;77.52
-Edappadi,11.58;77.85
-Gudiyatham,12.93972;78.8644
-Kadayanallur,9.08;77.35
-Kallakurichi,11.738;78.962
-Komarapalayam,11.4433333;77.7113889
-Krishnagiri,12.53;78.23
-Manapparai,10.60759;78.414874
-Palladam,10.98;77.3
-Panruti,11.77;79.55
-Paramakudi,9.544;78.591
-Poonamallee,13.05;80.11
-Ramanathapuram,9.367;78.835
-Rasipuram,11.47;78.17
-Sankarankoil,9.16;77.55
-Sembakkam,12.92638889;80.165
-Sathyamangalam,11.5167;77.25
-Sivagangai,9.87;78.48
-Srivilliputhur,9.512;77.633
-Tenkasi,8.97;77.3
-Thiruthangal,9.47583333;77.7925
-Tiruvallur,13.15;79.91
-Tiruvarur,10.773;79.637
-Virudhachalam,11.5;79.33
-Ambasamudram,8.7;77.47,Municipality Second grad
-Anakaputhur,12.9828;80.1264
-Ariyalur,11.13722222;79.07777778
-Bhavani,11.45;77.68
-Chinnamanur,9.83;77.38
-Gudalur (Nilgiris district),11.50;76.50
-Gudalur (Theni district),9.68;77.27
-Jayankondam,11.212;79.365
-Jolarpettai,12.56;78.58
-Kangeyam,11.0054;77.562
-Kayalpattinam,8.57;78.12
-Keelakarai,9.23135;78.7844
-Koothanallur,10.71666667;79.51666667
-Kulithalai,10.56;78.25
-Kuzhithurai,8.31666667;77.18333333
-Maduranthakam,12.5101;79.8849
-Melur,10.05;78.33
-Melvisharam,12.9333;79.2833
-Nellikuppam,11.7667;79.6833
-Nelliyalam,11.49722222;76.37583333
-Oddanchatram,10.48;77.75
-Padmanabhapuram,8.23;77.33
-Pallipalayam,11.364616;77.747921
-Perambalur,11.23;78.88
-Periyakulam,10.12;77.55
-Pernampattu,12.939;78.73
-Puliyankudi,9.1;77.23
-Punjai Puliampatti,11.35;77.168
-Rameswaram,9.288;79.313
-Sattur,9.37;77.93
-Sengottai,8.973333;77.246389
-Sirkazhi,11.239;79.736
-Thiruthani,13.18;79.63
-Thiruthuraipoondi,10.53;79.65
-Thiruvathipuram,12.6580;79.5424
-Thuvakudi,10.75638889;78.80111111
-Tirumangalam,9.81;77.98
-Usilampatti,9.97;77.8
-Vandavasi,12.5;79.62
-Vedaranyam,10.37527778;79.85027778
-Vellakoil,10.93;77.72
-Vikramasingapuram,8.67;77.33
-Walajapet,13;79.314
+#Name,LatLong,Type,District
+Ariyalur,11.13722222;79.07777778,Municipality Second grade,Ariyalur
+Jayankondam,11.212;79.365,Municipality Second grade,Ariyalur
+Pallavapuram,12.98;80.18,Municipality Special grade,Chennai
+Tambaram,12.93;80.11,Municipality Special grade,Chennai
+Alandur,13.003;80.204,Municipality Selection grade,Chennai
+Sembakkam,12.92638889;80.165,Municipality First grade,Chennai
+Anakaputhur,12.9828;80.1264,Municipality Second grade,Chennai
+Chennai,13.08333333;80.26666667,Muni Corporation,"Chennai, Kanchipuram and Tiruvallur"
+Coimbatore,11.01833333;76.9725,Muni Corporation,Coimbatore
+Pollachi,10.659;77.008,Municipality Special grade,Coimbatore
+Mettupalayam,11.3;76.95,Municipality Selection grade,Coimbatore
+Valparai,10.37;76.97,Municipality Selection grade,Coimbatore
+Cuddalore,11.75;79.75,Municipality Special grade,Cuddalore
+Chidambaram,11.4;79.7,Municipality Selection grade,Cuddalore
+Panruti,11.77;79.55,Municipality First grade,Cuddalore
+Virudhachalam,11.5;79.33,Municipality First grade,Cuddalore
+Nellikuppam,11.7667;79.6833,Municipality Second grade,Cuddalore
+Dharmapuri,12.126;78.154,Municipality Selection grade,Dharmapuri
+Dindigul,10.35;77.95,Muni Corporation,Dindigul
+Kodaikanal,10.23;77.48,Municipality Special grade,Dindigul
+Palani,10.45;77.52,Municipality Selection grade,Dindigul
+Oddanchatram,10.48;77.75,Municipality Second grade,Dindigul
+Erode,11.35;77.73333333,Muni Corporation,Erode
+Gobichettipalayam,11.45361111;77.43833333,Municipality Selection grade,Erode
+Sathyamangalam,11.5167;77.25,Municipality First grade,Erode
+Bhavani,11.45;77.68,Municipality Second grade,Erode
+Punjai Puliampatti,11.35;77.168,Municipality Second grade,Erode
+Maraimalainagar,12.785185;80.025601,Municipality Special grade,Kancheepuram
+Pammal,12.975;80.134722,Municipality Selection grade,Kancheepuram
+Maduranthakam,12.5101;79.8849,Municipality Second grade,Kancheepuram
+Kancheepuram,12.82;79.71,Municipality Special grade,Kancheepuram
+Chengalpattu,12.68333333;79.98333333,Municipality First grade,Kancheepuram
+Colachel,8.17;77.24,Municipality First grade,Kanniyakumari
+Kuzhithurai,8.31666667;77.18333333,Municipality Second grade,Kanniyakumari
+Padmanabhapuram,8.23;77.33,Municipality Second grade,Kanniyakumari
+Nagercoil,8.17;77.43,Municipality Special grade,Kanniyakumari
+Karur,10.95;78.08,Municipality Special grade,Karur
+Kulithalai,10.56;78.25,Municipality Second grade,Karur
+Hosur,12.735;77.829,Municipality Special grade,Krishnagiri
+Krishnagiri,12.53;78.23,Municipality First grade,Krishnagiri
+Madurai,9.9;78.1,Muni Corporation,Madurai
+Melur,10.05;78.33,Municipality Second grade,Madurai
+Tirumangalam,9.81;77.98,Municipality Second grade,Madurai
+Usilampatti,9.97;77.8,Municipality Second grade,Madurai
+Mayiladuthurai,11.1;79.65,Municipality Selection grade,Nagapattinam
+Nagapattinam,10.77;79.83,Municipality Selection grade,Nagapattinam
+Sirkazhi,11.239;79.736,Municipality Second grade,Nagapattinam
+Vedaranyam,10.37527778;79.85027778,Municipality Second grade,Nagapattinam
+Namakkal,11.23333333;78.16666667,Municipality Selection grade,Namakkal
+Tiruchengode,11.3805;77.895125,Municipality Selection grade,Namakkal
+Komarapalayam,11.4433333;77.7113889,Municipality First grade,Namakkal
+Rasipuram,11.47;78.17,Municipality First grade,Namakkal
+Pallipalayam,11.364616;77.747921,Municipality Second grade,Namakkal
+Coonoor,11.35;76.82,Municipality Selection grade,Nilgiris
+Gudalur (Nilgiris district),11.50;76.50,Municipality Second grade,Nilgiris
+Udhagamandalam,11.41;76.70,Municipality Special grade,Nilgiris
+Nelliyalam,11.49722222;76.37583333,Municipality Second grade,Nilgiris
+Perambalur,11.23;78.88,Municipality Second grade,Perambalur
+Pudukkottai,10.38;78.82,Municipality Selection grade,Pudukkottai
+Aranthangi,10.1631;78.9962,Municipality First grade,Pudukkottai
+Paramakudi,9.544;78.591,Municipality First grade,Ramanathapuram
+Ramanathapuram,9.367;78.835,Municipality First grade,Ramanathapuram
+Keelakarai,9.23135;78.7844,Municipality Second grade,Ramanathapuram
+Rameswaram,9.288;79.313,Municipality Second grade,Ramanathapuram
+Salem,11.65;78.16,Muni Corporation,Salem
+Attur,11.599341;78.597752,Municipality Selection grade,Salem
+Mettur,11.8;77.8,Municipality Selection grade,Salem
+Edappadi,11.58;77.85,Municipality First grade,Salem
+Karaikudi,10.07;78.78,Municipality Special grade,Sivagangai
+Devakottai,9.94194444;78.82666667,Municipality First grade,Sivagangai
+Sivagangai,9.87;78.48,Municipality First grade,Sivagangai
+Thanjavur,10.78333333;79.13611111,Muni Corporation,Thanjavur
+Kumbakonam,10.97;79.42,Municipality Special grade,Thanjavur
+Pattukkottai,10.43;79.32,Municipality Selection grade,Thanjavur
+Theni Allinagaram,10.009;77.2843,Municipality Selection grade,Theni
+Bodinayakanur,10.02;77.35,Municipality First grade,Theni
+Cumbum,9.73;77.3,Municipality First grade,Theni
+Chinnamanur,9.83;77.38,Municipality Second grade,Theni
+Gudalur (Theni district),9.68;77.27,Municipality Second grade,Theni
+Periyakulam,10.12;77.55,Municipality Second grade,Theni
+Avadi,13.12;80.1,Municipality Special grade,Thiruvallur
+Thiruverkadu,13.069529;80.12423,Municipality Selection grade,Thiruvallur
+Poonamallee,13.05;80.11,Municipality First grade,Thiruvallur
+Thiruthani,13.18;79.63,Municipality Second grade,Thiruvallur
+Tiruvarur,10.773;79.637,Municipality First grade,Thiruvarur
+Koothanallur,10.71666667;79.51666667,Municipality Second grade,Thiruvarur
+Thiruthuraipoondi,10.53;79.65,Municipality Second grade,Thiruvarur
+Thoothukudi,8.81;78.14,Muni Corporation,Thoothukudi
+Kovilpatti,9.17;77.87,Municipality Special grade,Thoothukudi
+Kayalpattinam,8.57;78.12,Municipality Second grade,Thoothukudi
+Tiruchirappalli,10.805;78.68555556,Muni Corporation,Tiruchirapalli
+Thuraiyur,11.16861111;78.62111111,Municipality Selection grade,Tiruchirappalli
+Manapparai,10.60759;78.414874,Municipality First grade,Tiruchirappalli
+Thuvakudi,10.75638889;78.80111111,Municipality Second grade,Tiruchirappalli
+Tirunelveli,8.73;77.7,Muni Corporation,Tirunelveli
+Kadayanallur,9.08;77.35,Municipality First grade,Tirunelveli
+Sankarankoil,9.16;77.55,Municipality First grade,Tirunelveli
+Tenkasi,8.97;77.3,Municipality First grade,Tirunelveli
+Ambasamudram,8.7;77.47,Municipality Second grade,Tirunelveli
+Puliyankudi,9.1;77.23,Municipality Second grade,Tirunelveli
+Sengottai,8.973333;77.246389,Municipality Second grade,Tirunelveli
+Vikramasingapuram,8.67;77.33,Municipality Second grade,Tirunelveli
+Tiruppattur,12.50;78.60,Municipality Selection grade,Tiruppattur
+Tiruppur,11.11;77.34,Muni Corporation,Tiruppur
+Vellakoil,10.93;77.72,Municipality Second grade,Tiruppur
+Udumalaipettai,10.58;77.24,Municipality Selection grade,Tiruppur
+Dharapuram,10.73;77.52,Municipality First grade,Tiruppur
+Palladam,10.98;77.3,Municipality First grade,Tiruppur
+Kangeyam,11.0054;77.562,Municipality Second grade,Tiruppur
+Arani,12.67;79.28,Municipality First grade,Tiruvallur
+Tiruvallur,13.15;79.91,Municipality First grade,Tiruvallur
+Vandavasi,12.5;79.62,Municipality Second grade,Tiruvannamalai
+Thiruvannamalai,12.22;79.07,Municipality Special grade,Tiruvannamalai
+Thiruvathipuram,12.6580;79.5424,Municipality Second grade,Tiruvannamalai
+Mannargudi,10.663;79.445,Municipality Selection grade,Tiruvarur
+Vellore,12.920219;79.133306,Muni Corporation,Vellore
+Ambur,12.78;78.7,Municipality Selection grade,Vellore
+Ranipet,12.9275;79.3302,Municipality Selection grade,Vellore
+Vaniyambadi,12.68;78.62,Municipality Selection grade,Vellore
+Arakkonam,13.07777778;79.66666667,Municipality First grade,Vellore
+Arcot,12.99;79.314,Municipality First grade,Vellore
+Gudiyatham,12.93972;78.8644,Municipality First grade,Vellore
+Jolarpettai,12.56;78.58,Municipality Second grade,Vellore
+Melvisharam,12.9333;79.2833,Municipality Second grade,Vellore
+Pernampattu,12.939;78.73,Municipality Second grade,Vellore
+Walajapet,13;79.314,Municipality Second grade,Vellore
+Kallakurichi,11.738;78.962,Municipality First grade,Viluppuram
+Tindivanam,12.237;79.65,Municipality Selection grade,Viluppuram
+Viluppuram,11.941;79.493,Municipality Selection grade,Viluppuram
+Rajapalayam,9.45;77.55,Municipality Special grade,Virudhunagar
+Sivakasi,9.45;77.82,Municipality Special grade,Virudhunagar
+Virudhunagar,9.58333333;77.95,Municipality Selection grade,Virudhunagar
+Aruppukkottai,9.51;78.1,Municipality First grade,Virudhunagar
+Srivilliputhur,9.512;77.633,Municipality First grade,Virudhunagar
+Thiruthangal,9.47583333;77.7925,Municipality First grade,Virudhunagar
+Sattur,9.37;77.93,Municipality Second grade,Virudhunagar
