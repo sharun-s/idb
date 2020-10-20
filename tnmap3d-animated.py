@@ -31,8 +31,8 @@ def Poly(ax, geom, forecolor, bordercolor, borderwidth=1, transparency=1.,
 
 BLUE = '#6699cc'
 
-l1=gp.read_file('tn_boundary.json')
-l2=gp.read_file('tn_dist.json')
+l1=gp.read_file('tn/geo/tn_boundary.json')
+l2=gp.read_file('tn/geo/tn_dist.json')
 
 alld=l2.geometry
 districts=l2[l2.Name.isin(sys.argv[4:])].geometry
@@ -137,9 +137,21 @@ def update(frame):
 	#ax.view_init(elev=85-frame,azim=-90)#azim=-90+frame)#25+ 0.5 *frame,-90)
 	return allpaths
 
-abi=animation.FuncAnimation(fig, update, 2,repeat=False,init_func=init, interval=12)
+abi=animation.FuncAnimation(fig, update, 25,repeat=False,init_func=init, interval=12)
 
 p.show()
+
+from numpy import pi, cos, sin, sqrt
+
+def rotx(t):
+    return np.array([[1, 0, 0], [0, cos(t), -sin(t)], [0, sin(t), cos(t)]])
+
+def roty(t):
+    return np.array([[cos(t), 0, sin(t)],  [0, 1, 0],[-sin(t), 0, cos(t)]])   
+    
+def rotz(t):
+    return np.array([[cos(t), -sin(t), 0], [sin(t), cos(t), 0], [0, 0, 1]])
+
 
 #bbox = fig.bbox_inches.from_bounds(2, 1, 8, 7)
 #fig.savefig(sys.argv[1],format='png', bbox_inches=bbox, facecolor=fig.get_facecolor())
