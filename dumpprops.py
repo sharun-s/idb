@@ -4,9 +4,9 @@ from pprint import pprint
 from qwikidata.mediawiki_api import get_entities_from_mwapi
 from qwikidata.linked_data_interface import get_entity_dict_from_api
 from qwikidata.entity import WikidataItem, WikidataProperty
-import collections
+import collections,sys
 
-f=open(r'../idb/wikidataIDs')
+f=open(sys.argv[1])
 lines=f.readlines()
 f.close()
 
@@ -66,6 +66,9 @@ def printObj(e):
       tmp[prop.get_label()]=tmp[prop.get_label()][0]
   return tmp
 
-db={}    
+db={}
+cnt=0
 for e in entities:
+  print(cnt)
   db[e]=printObj(entities[e])
+  cnt=cnt+1
