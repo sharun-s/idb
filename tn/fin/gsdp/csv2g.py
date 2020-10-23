@@ -40,10 +40,12 @@ SubSectorsByYear.columns=['Agriculture Forestry Fishing', 'Mining',#'Primary',
 ]
 
 #cmap = plt.get_cmap("tab20")
-outer_colors = ["#00d0ff","#ffc107",'#00ff88']#,'#AE81FF','#A6E22E','#F92672'
-inner_colors = ["#00d0cc","#00d0aa",
-				"#aac122","#aac144","#aac188",
-				"#22aa88",'#44aa88',"#66aa88",'#88aa88',"#88aa44",'#bbaa22'
+outer_colors = [#"#88ff44",
+				'#00fd88',"#ffc107",'#ff2244']#,
+inner_colors = [#"#44ff44","#00ff33",
+				'#00fe66','#00cc55',
+				'#f8b414','#ffcc33','#feab88',
+				"#F92672","#dd3377",'#bb3377',"#bb4488",'#ee88c1','#AE81aa'
 				]
 
 def addGDPCalculationText(ax, year):
@@ -52,7 +54,7 @@ def addGDPCalculationText(ax, year):
 	subsidy=common.format_indian(100000.0*df.iloc[29][year])
 	gsdp=common.format_indian(100000.0*df.iloc[30][year])
 	
-	ax.plot([.5,.5],[1,1],".")
+	#ax.plot([.5,.5],[1,1],".")
 	ax.annotate('GVA', xytext=(.05,.9), xycoords='figure fraction', xy=(.45,.51), 
 		arrowprops={'arrowstyle':"<-",'ec':'w','connectionstyle':"angle,angleA=-90,angleB=180,rad=0"}, 
 		color='white')
@@ -91,5 +93,5 @@ for year in years:
 	plt.annotate('Data:http://mospi.nic.in/GSVA-NSVA', (0.,0), (0, -25), 
                 xycoords='axes fraction', textcoords='offset points', 
                 color='#E6DBff', va='top', fontstyle='italic')
-
+	#plt.tight_layout()
 	fig.savefig('gsdp/s-'+year+'.png',format='png',facecolor=fig.get_facecolor())
