@@ -1,5 +1,11 @@
 import pandas as p
 import matplotlib.pyplot as plt
+import argparse
+
+parser = argparse.ArgumentParser(description='Tamil Nadu District Domestic Product Grapher')
+parser.add_argument('-o',help='Output file prefix')
+parser.add_argument('-s',help='plot standard deviation',action="store_true")
+args = parser.parse_args()
 
 def newfig(title):
 	fig = plt.figure(facecolor="#001f3f",figsize=(10,10), dpi= 80)
@@ -22,19 +28,27 @@ def dumpChart(year):
 
 	v=d[['District',year]][1:]
 	ddp=v[year]
-	v['ddp']=(ddp - ddp.mean())/ddp.std()
-	v['colors'] = ['#cc3107' if x < 0 else '#22bb66' for x in v['ddp']]
+	if args.s:
+		v['ddp']=(ddp - ddp.mean())/ddp.std()
+		v['colors'] = ['#cc3107' if x < 0 else '#22bb66' for x in v['ddp']]
+	else:
+		v['ddp']=ddp
+		v['colors'] = ['#cc3107' if x < ddp.mean() else '#22bb66' for x in ddp]
 	v.sort_values('ddp',inplace=True)
 	v.reset_index(inplace=True)
 	a.hlines(y=v.index, xmin=0, xmax=v.ddp, color=v.colors, linewidth=5)
 	a.set_ylabel('$District$',color="#E6DB74")
-	a.set_xlabel('$District Domestic Product$',color="#E6DB74")
+	a.set_xlabel('$District Domestic Product$ (STATE Total=)'+str(d[d['District']=='STATE'][year][0]),color="#E6DB74")
+
 	#bbox_inches='tight'
 	a.set_yticks(v.index)
 	a.set_yticklabels(v.District.values)
 	plt.grid(linestyle='--', alpha=0.2)
 	plt.tight_layout()
-	f.savefig('ddp'+str(year)+'.png',format='png',facecolor=f.get_facecolor())
+	if args.o:
+		f.savefig(args.o+str(year)+'.png',format='png',facecolor=f.get_facecolor())
+	else:
+		f.savefig('ddp'+str(year)+'.png',format='png',facecolor=f.get_facecolor())
 
 dumpChart('2013-14')
 dumpChart('2012-13')
