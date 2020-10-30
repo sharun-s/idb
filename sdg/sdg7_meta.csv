@@ -1,0 +1,13 @@
+Goal,Target,Indicator,Desc,Source,Data Reference Period,Periodicity,Unit of Measurement,Latest Data Availability,url
+"7: Ensure access to affordable, reliable, sustainable and modern Energy for all","7.1: By 2030, ensure universal access to affordable, reliable and modern Energy Services",7.1.2: Percentage of households using clean cooking fuel,"Percentage coverage of household using (including sources) clean cooking fuel 
+a) Numerator: Number of households with connection of LPG and PNG  
+b) Denominator: Total number of households  
+c) multiplier: 100","Ministry of Petroleum and Natural Gas (Marketing companies of oil and gas, i.e., IOCL, 
+BPCL, HPCL & GAIL)",2015-16,Annual,In percentage,2018-19,-
+"7: Ensure access to affordable, reliable, sustainable and modern energy for all","7.2: By 2030, increase substantially the share of renewable energy in the global energy 
+mix",7.2.1: Renewable energy share in the total final energy mix,"a) Numerator: Electricity generated from renewable source (MW) 
+b) Denominator: Total installed electricity generation capacity (MW)  
+c) multiplier: 100","Economic Statistics Division, NSO, MoSPI",2015-16,Annual,Percentage,2017-18,www.mospi.nic.in
+"7: Ensure access to affordable, reliable, sustainable and modern energy for all","7.3: By 2030, double the global rate of improvement in energy efficiency",7.3.1: Energy intensity measured in terms of primary energy and GDP,"a) Numerator: Total Primary Energy during the reference year 
+b) Denominator: Gross Domestic Product during the reference year  
+c) multiplier: Nil","Economic Statistics Division, NSO, MoSPI",2015-16,Annual,Proportion (Mega Joules/Rupees and Toe/Thousand rupees),2017-18,www.mospi.nic.in

@@ -1,0 +1,85 @@
+8103_BanksPerLak.csv:Andhra Pradesh,45.2,47.7,92.2,138.8
+8103_BanksPerLak.csv:Karnataka,55.7,56.1,110.4,164.7
+8103_BanksPerLak.csv:Kerala,8.4,10.2,18.5,28.5
+8103_BanksPerLak.csv:Tamil Nadu,29.5,30.9,59.9,90.2
+8103_BanksPerLak.csv:Telangana,28.3,27.5,55.2,81.9
+8104_ATMperLak.csv:Andhra Pradesh,20.4,20.8,20.2,20.3
+8104_ATMperLak.csv:Karnataka,26.1,27.5,27.2,27.3
+8104_ATMperLak.csv:Kerala,26.1,27.3,27.7,27.4
+8104_ATMperLak.csv:Tamil Nadu,31.4,33.0,33.7,34.1
+8104_ATMperLak.csv:Telangana,27.0,28.9,28.2,27.0
+831_WorkersInformalSectorNonAgri.csv:Andhra Pradesh,78.0
+831_WorkersInformalSectorNonAgri.csv:Karnataka,65.3
+831_WorkersInformalSectorNonAgri.csv:Kerala,66.8
+831_WorkersInformalSectorNonAgri.csv:Tamil Nadu,59.6
+831_WorkersInformalSectorNonAgri.csv:Telangana,59.9
+834_MSME.csv:Andhra Pradesh,161659,54517,38479
+834_MSME.csv:Karnataka,47686,56526,85006
+834_MSME.csv:Kerala,23216,20567,27708
+834_MSME.csv:Tamil Nadu,267492,217963,232924
+834_MSME.csv:Telangana,57864,46184,89065
+839_CreditToMSME.csv:Andhra Pradesh,40840.41,44447.24,49610.86,56607.02
+839_CreditToMSME.csv:Karnataka,78751.39,82371.15,79982.85,89094.96
+839_CreditToMSME.csv:Kerala,45615.86,46513.71,48359.03,53146.38
+839_CreditToMSME.csv:Tamil Nadu,139221.94,145119.87,151904.46,165455.58
+839_CreditToMSME.csv:Telangana,45354.30,50778.43,53170.15,55848.81
+842_PerCapitaFossilFuelConsumption.csv:Andhra Pradesh,125.2,133.3,140.8,157.9
+842_PerCapitaFossilFuelConsumption.csv:Karnataka,180.8,187.5,205.3,216.0
+842_PerCapitaFossilFuelConsumption.csv:Kerala,166.3,171.5,184.1,189.9
+842_PerCapitaFossilFuelConsumption.csv:Tamil Nadu,176.0,184.1,193.2,199.9
+842_PerCapitaFossilFuelConsumption.csv:Telangana,161.7,173.8,186.0,198.4
+843_RecycledWasteVsGeneratedWaste.csv:Andhra Pradesh,103212,595749,0.17
+843_RecycledWasteVsGeneratedWaste.csv:Karnataka#,66718,315453,0.21
+843_RecycledWasteVsGeneratedWaste.csv:Kerala#,55739,115394,0.48
+843_RecycledWasteVsGeneratedWaste.csv:Tamil Nadu,216450,576733,0.38
+843_RecycledWasteVsGeneratedWaste.csv:Telangana#,50323,249996,0.20
+851_UnemploymentRate.csv:Andhra Pradesh,4.5
+851_UnemploymentRate.csv:Karnataka,4.8
+851_UnemploymentRate.csv:Kerala,11.4
+851_UnemploymentRate.csv:Tamil Nadu,7.6
+851_UnemploymentRate.csv:Telangana,7.6
+852_WorkforceParticipationRatio.csv:Andhra Pradesh,59.1,38.1,48.4,54.3,22.8,38.3,57.5,33.0,45.0
+852_WorkforceParticipationRatio.csv:Karnataka,58.5,21.1,39.8,54.1,16.8,35.4,56.8,19.5,38.1
+852_WorkforceParticipationRatio.csv:Kerala,50.9,16.6,32.7,50.0,16.0,32.0,50.5,16.4,32.4
+852_WorkforceParticipationRatio.csv:Tamil Nadu,55.9,29.4,42.5,56.7,20.4,38.3,56.3,25.2,40.5
+852_WorkforceParticipationRatio.csv:Telangana,53.6,29.9,42.0,53.8,15.9,35.2,53.7,24.2,39.3
+853_WagesEarned.csv:Andhra Pradesh,19315,17855,18932,18916,15328,17979,18892,11735,16566,19435,13196,17451
+853_WagesEarned.csv:Karnataka,18953,12000,16774,17764,13859,16658,20122,13653,18280,18806,13243,17377
+853_WagesEarned.csv:Kerala,17941,15495,17082,18325,17742,18102,18424,18144,18315,19701,19055,19433
+853_WagesEarned.csv:Tamil Nadu,15597,11442,14306,15949,12306,14859,16186,11325,14787,16871,12063,15442
+853_WagesEarned.csv:Telangana,20461,9307,18305,20245,11226,18453,19206,11861,17722,20238,11901,18624
+856_UnemploymentYouth.csv:Andhra Pradesh,8.1
+856_UnemploymentYouth.csv:Karnataka,6.9
+856_UnemploymentYouth.csv:Kerala,12.0
+856_UnemploymentYouth.csv:Tamil Nadu,12.6
+856_UnemploymentYouth.csv:Telangana,9.5
+861_YouthUnemploymentRate.csv:Andhra Pradesh,22.2
+861_YouthUnemploymentRate.csv:Karnataka,23.7
+861_YouthUnemploymentRate.csv:Kerala,47.8
+861_YouthUnemploymentRate.csv:Tamil Nadu,36.9
+861_YouthUnemploymentRate.csv:Telangana,34.8
+871_HumanTraffickingPer10L.csv:Andhra Pradesh,5.34,4.64,4.21,4.61
+871_HumanTraffickingPer10L.csv:Karnataka,8.18,6.27,0.48,0.41
+871_HumanTraffickingPer10L.csv:Kerala,4.25,0.61,1.52,3.00
+871_HumanTraffickingPer10L.csv:Tamil Nadu,8.34,5.81,0.17,0.11
+871_HumanTraffickingPer10L.csv:Telangana,15.34,6.27,8.95,6.54
+872_MissingChildren.csv:Andhra Pradesh,2285,2155,2204,2436
+872_MissingChildren.csv:Karnataka,2677,1943,1704,1623
+872_MissingChildren.csv:Kerala,1579,1524,1568,1991
+872_MissingChildren.csv:Tamil Nadu,4280,4632,4196,4271
+872_MissingChildren.csv:Telangana,2987,3679,3018,3090
+883_FactoryAccidents.csv:Andhra Pradesh,146,315
+883_FactoryAccidents.csv:Karnataka,684,518
+883_FactoryAccidents.csv:Kerala,346,176
+883_FactoryAccidents.csv:Tamil Nadu,414,448
+883_FactoryAccidents.csv:Telangana,96,119
+884_PercentageOfHouseholdsUnderMGNREGA.csv:Andhra Pradesh,42.90,46.66,46.23,47.95,42.56
+884_PercentageOfHouseholdsUnderMGNREGA.csv:Karnataka,22.05,34.35,34.42,35.41,33.05
+884_PercentageOfHouseholdsUnderMGNREGA.csv:Kerala,46.97,45.21,39.32,42.10,37.53
+884_PercentageOfHouseholdsUnderMGNREGA.csv:Tamil Nadu,71.38,79.21,73.01,68.53,65.38
+884_PercentageOfHouseholdsUnderMGNREGA.csv:Telangana,40.68,44.28,47.78,46.36,42.41
+8b1_ManDaysEmploymentMGNREGA.csv:Andhra Pradesh,199102440,205508721,212091763,246547958
+8b1_ManDaysEmploymentMGNREGA.csv:Karnataka,59825755,91368473,85699469,53711697
+8b1_ManDaysEmploymentMGNREGA.csv:Kerala,74173662,68461856,61959450,97525767
+8b1_ManDaysEmploymentMGNREGA.csv:Tamil Nadu,368674726,399942429,238880592,257696793
+8b1_ManDaysEmploymentMGNREGA.csv:Telangana,142121657,108164866,114772843,117729172

@@ -42,9 +42,7 @@ python3 csv2g.py
 
 5. national.csv has national totals
 this is just documenting how it was produced
-t=camelot.read_pdf(r'data/SDGProgressReport2020.pdf',pages='72-109')
-df=p.concat([i.df for i in t])
-df.to_csv('national.csv',index=False)
+python3 -c "import pandas as p;import camelot;t=camelot.read_pdf(r'data/SDGProgressReport2020.pdf',pages='pg1-pgN');df=p.concat([i.df for i in t]);df.to_csv('national.csv',index=False)
 
 To generate a specific metric -
 sed -n -e '/^Goal 3/,/^Goal 4/{ /^Goal 4/d; p;}' national.csv > national_sdg3.csv
@@ -60,3 +58,7 @@ until main script is done which is never.
 script will fail if lines are split, commas missing, extra commas etc etc. Manually fix and rerun
 
 ***NOTE creating hierarchical json was simpler with parse_national than doing it through refine or pandas
+
+MISC
+print 3rd col of csv example sdg8_meta.csv
+python3 -c "import pandas as p;p.set_option('max_colwidth', -1);d=p.read_csv('sdg8_meta.csv');print(d.iloc[:,[2]].to_string(index=False))"
