@@ -81,3 +81,71 @@ def format_indian_cr(t):
 	m=fman(t)
 	#print(m,dic[ex][1],ex)
 	return "{:.2f}".format(m*dic[ex][1])+" "+dic[ex][0]
+
+import matplotlib.cm as cm
+from matplotlib.colors import Normalize
+import matplotlib.pyplot as plt
+import pandas as p
+
+norm = Normalize(vmin=0.0, vmax=4.0)
+
+region=p.read_csv('gsdp/data/ddp-currentprices.csv',skiprows=2)
+rmap=region[['District','Region']]
+coldict={	
+			'North':'violet',
+			'West':'darkorange',
+			'South':'green',
+			'Chennai':'dodgerblue',
+			'East':'crimson'
+		}
+
+#fill as and when spelling variations show up
+disam={'tiruppur':'West',
+'tirunelvali':'South',
+'kanyakumari':'South',
+'toothukudi':'South',
+'sivaganga':'South',
+'nagapattinam':'East',
+'tiruvannamalai':'North',
+'pudukkottai':'East',
+'nilgiris':'West'
+} 
+
+
+def newfig(title):
+	fig = plt.figure(facecolor="#001f3f",figsize=(7.2,7.2), dpi= 80)#figsize=(7.2,7.2))
+	fig.suptitle(title, color="#E6DB74", fontsize=16)
+	ax = fig.add_subplot(111, frameon=False)
+	ax.set_facecolor("#002f4f")
+	ax.set_alpha(0.1)
+	ax.spines['bottom'].set_color('white')#'#ccc107')
+	ax.spines['top'].set_color('white') 
+	ax.spines['right'].set_color('white')
+	ax.spines['left'].set_color('white')
+	ax.tick_params(axis='y', colors='#E6DB74')#FD971F')
+	ax.tick_params(axis='x', colors='#E6DB74')#
+	return fig,ax
+
+def formatLabelAmts(data):
+	#details={}
+	labelandamt=[]
+	cnt=0
+	for k,j in data.items():
+		cnt=cnt+1
+		if cnt>10:
+			labelandamt.append(k +' '+format_indian(j*10000000.0))
+		else:
+			labelandamt.append(k +'\n'+format_indian(j*10000000.0))
+	return labelandamt
+
+def get_regional_colors(data):
+	colors=[]
+	for i in data.index:
+		if i.title() in rmap['District'].values:
+			#colors.append(cm.Paired(norm(coldict[rmap[ rmap['District']==i.title()]['Region'].values[0]])))
+			colors.append(coldict[rmap[ rmap['District']==i.title()]['Region'].values[0]])
+		else:
+			print(i.lower(),'not found using disam')
+			colors.append(coldict[disam[i.lower()]])
+	return colors
+
