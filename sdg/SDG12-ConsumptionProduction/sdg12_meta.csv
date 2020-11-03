@@ -1,0 +1,36 @@
+Goal,Target,Indicator,Desc,Source,Data Reference Period,Periodicity,Unit of Measurement,Latest Data Availability,url
+12: Ensure sustainable consumption and production patterns,"12.3: By 2030, halve per capita global food waste at the retail and consumer levels and 
+reduce food losses along production and supply chains, including post-harvest losses",12.3.1: Per capita food availability,"a) Numerator: Net availability of food grains (in kg.) during the reference year 
+b) Denominator: Total Population during the reference year 
+c) multiplier: Nil 
+Net availability of food grains = (Production of rice, wheat, other cereals and all pulses in 
+‘000 tons)– (seed, feed & wastage) - exports + imports + change in stocks (+/-)","Ministry of Agriculture & Farmers Welfare/Department of Agriculture, Cooperation & 
+Farmers Welfare.",2015,Annual,Kg per year per person,2019,https://eands.dacnet.nic.in
+12: Ensure sustainable consumption and production patterns,"12.3: By 2030, halve per capita global food waste at the retail and consumer levels and 
+reduce food losses along production and supply chains, including post-harvest losses","12.3.2: Post harvest storage and distribution losses of Central/States Pool stocks of wheat 
+and rice","F
+Indicator refers to percentage losses of Central Pool stocks of wheat and rice calculated in 
+term of value of losses. Losses are calculated in terms of storage and transit losses. 
+For Storage Losses –  
+a) Numerator: Total quantity lost in storage (Wheat & Rice) 
+b) Denominator: Total quantity received in storage (Wheat & Rice) 
+c) multiplier:100 
+or Storage Losses –  
+a) Numerator: Total quantity lost during transit (Wheat & Rice) 
+b) Denominator: Total quantity moved during transit (Wheat & Rice) 
+c) multiplier:100 
+Net availability of food grains = (Production of rice, wheat, other cereals and all pulses in 
+‘000 tons)– (seed, feed & wastage) - exports + imports + change in stocks (+/-)","Ministry of Consumer Affairs, Food and Public Distribution.",2015-16,Annual,Percentage,2018-19,NA
+12: Ensure sustainable consumption and production patterns,"12.c: Rationalize inefficient fossil-fuel subsidies that encourage wasteful consumption 
+by removing market distortions, in accordance with national circumstances, including by 
+restructuring taxation and phasing out those harmful subsidies, where they exist, to reflect 
+their environmental impacts, taking fully into account the specific needs and conditions of 
+developing countries and minimizing the possible adverse impacts on their development in 
+a manner that protects the poor and the affected communities",12.c.1: Amount of fossil fuel subsidy per unit of GDP,"The indicator refers to percentage share of expenditures made on subsidies of petroleum 
+(include LPGs and Kerosene) w.r.t. GDP at current price. 
+a) Numerator: Expenditure on petroleum subsidies 
+b) Denominator: Gross Domestic Product at current price  
+c) multiplier: 100","Numerator: Budget Statement, Ministry of Finance 
+Denominator National Account Statistics, NAD, MoSPI",2015-16,Annual,Percentage,2017-18,"https://www.indiabudget.gov.in/expenditure_profile.php 
+www.mospi.nic.in (http://mospi.gov.in/sites/default/files/reports_and_publication/statis-
+tical_publication/National_Accounts/NAS19/S1.1.pdf)"

@@ -1,0 +1,43 @@
+Goal,Target,Indicator,Desc,Source,Data Reference Period,Periodicity,Unit of Measurement,Latest Data Availability,url
+"17: Strengthen the means of implementation and revitalize the Global Partnership for 
+Sustainable Development","17.1: Strengthen domestic resource mobilization, including through international support 
+to developing countries, to improve domestic capacity for tax and other revenue collection","17.1.1: Total government revenue as a proportion of GDP, by source (in percentage)","a) Numerator: Total revenue receipts 
+b) Denominator:  GDP at current prices 
+c) multiplier: 100","Numerator - Ministry of Finance 
+Denominator - MoSPI",2015-16,Annual,Percentage,2017-18,"https://www.indiabudget.gov.in/doc/rec/annex1.pdf 
+www.mospi.gov.in"
+"17: Strengthen the means of implementation and revitalize the Global Partnership for 
+Sustainable Development","Target 17.11: Significantly increase the exports of developing countries, in particular with a 
+view to doubling the least developed countries’ share of global exports by 2020",17.11.1: Share of India’s exports in Global exports,"Percentage Share of India’s exports to Global exports for merchandise and services trade, 
+based on calendar year data available at Comtrade database of UN Statistics Division.","DGFT, Department of Commerce and Industry",2015,Annual,in percentage,2018,"DGFT Website - http://dgft.gov.in/bulletin-statis-report 
+UN Comtrade database -  https://comtrade.un.org/Data/ 
+WTO dataset -https://www.wto.org/english/res_e/statis_e/trade_profiles_list_e.htm"
+"17: Strengthen the means of implementation and revitalize the Global Partnership for 
+Sustainable Development","17.13: Enhance global macroeconomic stability, including through policy coordination and 
+policy coherence",17.13.1: Macroeconomic Dashboard,"‘National Summary Data Page’ is available on the website of Ministry of Finance which 
+depicting on Real, Fiscal, Financial and External sectors has been taken as the value of 
+Macroeconomic Dashboard.","DEA, Ministry of Finance",2015-19,Annual,,As on date,https://finmin.nic.in/national-summary-data-page-0
+"17: Strengthen the means of implementation and revitalize the Global Partnership for 
+Sustainable Development","17.16: Enhance the Global Partnership for Sustainable Development, complemented by 
+multi-stakeholder partnerships that mobilize and share knowledge, expertise, technology 
+and financial resources, to support the achievement of the Sustainable Development Goals 
+in all countries, in particular developing countries.","17.16.1: Number of States having a State Monitoring Framework that supports the 
+achievement of the sustainable development goals","a) Numerator:  No. of States/UTs reported to develop State Indicator Framework (SIF) in 
+the line of NIF 
+b) Denominator:  Total no. of States/UTs reported to MoSPI 
+c) multiplier: Nil","Social Statistics Division, MoSPI",2019-20,Annual,Number,2019-20,NA
+"17: Strengthen the means of implementation and revitalize the Global Partnership for 
+Sustainable Development","17.19: By 2030, build on existing initiatives to develop measurements of progress on 
+sustainable development that complement gross domestic product, and support statistical 
+capacity-building in developing countries.",17.19.1: Budget allocated to different Ministries for strengthening statistics,"In the budget document the Major Head ‘3454’ is meant for “Census, Survey and Statis-
+tics” across the Govt. of India. The budget allocated under this head has been taken as the 
+value of the indicator.","National Accounts Division, MoSPI",2016-17,Annual,Rs. Lakh,2017-18,NA
+"17: Strengthen the means of implementation and revitalize the Global Partnership for 
+Sustainable Development","17.19: By 2030, build on existing initiatives to develop measurements of progress on 
+sustainable development that complement gross domestic product, and support statistical 
+capacity-building in developing countries.","17.19.2: Proportion of States/UTs that have achieved 100 per cent birth registration and 
+80 per cent death registration","a) Numerator:  Total no. of States/UTs reported 100% birth registration (at least 80% death 
+registration) under CRS 
+b) Denominator:  Total States/UTs covered in CRS 
+c) multiplier: 100","Office of Registrar General of India, Ministry of Home Affairs",2015,Annual,Percentage,2017,"Vital Statistics of India Based on The Civil Registration System 
+http://www.censusindia.gov.in/vital_statistics/SRS_Statistical_Report.html"

@@ -1,0 +1,151 @@
+Goal,Target,Indicator,Desc,Source,Data Reference Period,Periodicity,Unit of Measurement,Latest Data Availability,url
+"9: Build resilient infrastructure, promote inclusive and sustainable industrialization and 
+foster innovation","9.1: Develop quality, reliable, sustainable and resilient infrastructure, including regional and 
+trans- border infrastructure, to support economic development and human well-being, 
+with a focus on affordable and equitable access for all","9.1.2: Passenger and freight volumes, by mode of transport","This indicator consisting of three components of mode of transport i.e. Railways, Air and 
+Road as these are three basic elements of transport system and contribute largely to 
+Indian transport system: 
+1) Passenger movement and freight volumes by Railways 
+2) Passenger movement and freight volumes by Roads 
+3) Passenger movement and freight volumes by Scheduled Indian Airlines","1) Railway Board is data source for Passenger movement and freight volumes by Railways 
+2) Research Wing of Ministry of Road Transport & H is data source for Passenger move-
+ment and freight volumes by Roads 
+3) Ministry of Civil Aviation is data sources for Passenger movement and freight volumes 
+by Air",2015-16,Annual,"Railway: Passenger in billion passenger Km. & Fright in billion tonnes Km. 
+Airline: Passenger in million & Fright in million tonnes  
+Railway: Passenger in million & Fright in million tonnes",2017-18,"https://data.gov.in/catalog/freight-and-passenger-movement-road-transport-and-rail-
+ways 
+1) Railways: Annual Report http://www.indianrailways.gov.in/railwayboard/view_section.js
+p?lang=0&id=0,1,304,366,554,1817,1819 (Freight Operation), (Passenger Business) 
+2) Air: Annual Report 2017-18 http://www.dgca.nic.in/reports/stat-ind.htm 
+3) Road: Road Transport Year Book http://morth.nic.in/showfile.asp?lid=3141 (Annexure – 
+5.1)"
+"9: Build resilient infrastructure, promote inclusive and sustainable industrialization and 
+foster innovation","9.1: Develop quality, reliable, sustainable and resilient infrastructure, including regional and 
+trans- border infrastructure, to support economic development and human well-being, 
+with a focus on affordable and equitable access for all",9.1.3: Gross Capital Formation by industry of use,"a) Numerator: Gross Capital Formation (GCF) by industry excluding valuables for the refer-
+ence year. 
+b) Denominator: Nil 
+c) multiplier: Nil 
+It is the net additions to fixed assets in the economy, Change in Stocks of Inventories (CIS) 
+and valuables during the accounting period. GCF is estimated using production approach 
+(Commodity flow method) and expenditure approach and GCF=GFCF+ CIS+ Valuables.","National Statistical Office (NSO), Ministry of Statistics & P. I. (MoSPI)",2015-16,Annual,Rupees in crore,2017-18,http://www.mospi.nic.in/data
+"9: Build resilient infrastructure, promote inclusive and sustainable industrialization and 
+foster innovation","9.2: Promote inclusive and sustainable industrialization and, by 2030, significantly raise 
+industry’s share of employment and gross domestic product, in line with national circum-
+stances, and double its share in least developed countries",9.2.1: Percentage Share of GVA in Manufacturing to Total GVA,"The indicator is defined as the manufacturing Gross Value as percentage of Total Value 
+Added (GVA) at current prices. 
+a) Numerator: GVA at Basic Price in Manufacturing during reference year 
+b) Denominator: GVA at basic prices during reference year 
+c) multiplier: 100 
+Gross Value Added is defined as output less intermediate consumption. Gross value added 
+is arrived by aggregating sector- wise value added. Sector-wise GVA is estimated using 
+production/income/ expenditure approach depending upon the availability of related data.","National Accounts Division, NSO, MoSPI",2015-16,Annual,Percentage (%),2017-18,"http://www.mospi.nic.in/data 
+(National Accounts Statistics 2018, NAD, MoSPI (Press note on first advance estimates of 
+national income 2017-18)"
+"9: Build resilient infrastructure, promote inclusive and sustainable industrialization and 
+foster innovation","9.2: Promote inclusive and sustainable industrialisation and, by 2030, significantly raise 
+industry’s share of employment and gross domestic product, in line with national circum-
+stances, and double its share in least developed countries",9.2.2: Manufacturing employment as a proportion of total employment,"a) Numerator: Number of workers in manufacturing sector during the reference year 
+b) Denominator: Number of workers during the reference year 
+c) multiplier: 100","National Statistical Office, MoSPI",2017-18,Annual,Percentage,2017-18,"PLFS, NSSO 
+NSS report is available in the website: www.mospi.nic.in"
+"9: Build resilient infrastructure, promote inclusive and sustainable industrialization and 
+foster innovation","9.3: Increase the access of small-scale industrial and other enterprises, in particular in 
+developing countries, to financial services, including affordable credit, and their integration 
+into value chains and markets",9.3.1: Share of household sector in total industry value added,"a) Numerator: GVA by Household during reference year 
+b) Denominator: Total GVA during reference  year 
+c) multiplier: 100 
+Gross Value Added is defined as output less intermediate consumption. Gross value added 
+is arrived by aggregating sector-wise value added. Sector-wise GVA is estimated using 
+production/income/ expenditure approach depending upon the availability of related data.","National Statistical Office (NSO), Ministry of Statistics & P. I. (MoSPI)",2015-16,Annual,Percentage (%),2017-18,http://www.mospi.nic.in/data
+"9: Build resilient infrastructure, promote inclusive and sustainable industrialization and 
+foster innovation","9.3: Increase the access of small-scale industrial and other enterprises, in particular in 
+developing countries, to financial services, including affordable credit, and their integration 
+into value chains and markets","9.3.2:  Percentage of credit flow MSME (as a percentage of Total Adjusted New Bank 
+Credit)","a) Numerator: Total Outstanding Credit given by Banks to Micro, Small Medium Enterprises 
+during reference year 
+b) Denominator: Total Credit given by Banks (Adjusted Net Bank Credit) during reference 
+year 
+c) multiplier: 100","Ministry of Micro, Small & Medium Enterprises (Data taken from RBI)",2015-16,Annual,Percentage (%),2018-19,NA
+"9: Build resilient infrastructure, promote inclusive and sustainable industrialization and 
+foster innovation","9.4: By 2030, upgrade infrastructure and retrofit industries to make them sustainable, 
+with increased resource-use efficiency and greater adoption of clean and environmentally 
+sound technologies and industrial processes, with all countries taking action in accordance 
+with their respective capabilities",9.4.2: Energy use intensity of manufacturing value added,"The indicator is Energy Use Intensity in manufacturing sector 
+a) Numerator: Total Primary Energy used in manufacturing sector during reference year 
+b) Denominator: Economic output of the manufacturing sector in terms of GVA during 
+reference year 
+c) multiplier:100","Economic Statistics Division, NSO, MoSPI",2016-17,Annual,"Toe/000’ rupees 
+Note ‘Toe’ refers to Tonne of Oil equivalent",2017-18 (Energy Statistics 2018),"Energy Statistics http://mospi.gov.in/sites/default/files/publication_reports/Energy_Sta-
+tistics_2018.pdf www.mospi.nic.in"
+"9: Build resilient infrastructure, promote inclusive and sustainable industrialization and 
+foster innovation","9.5: Enhance scientific research, upgrade the technological capabilities of industrial sectors 
+in all countries, in particular developing countries, including, by 2030, encouraging innova-
+tion and substantially increasing the number of research and development workers per 1 
+million people and public and private research and development spending","9.5.1: Percentage share of government spending on intellectual properties product (Re-
+search and Development) to total GDP","Percentage share of government  spending on intellectual properties product (IPP), which 
+is considered as research and development at current price out of GDP at current price 
+during the reference year. 
+a) Numerator: Total expenditures on intellectual properties products during reference year 
+b) Denominator: Gross Domestic Product, during the reference year 
+c) multiplier: Nil","National Accounts Division (NAD), National Statistical Office (NSO), Ministry of Statistics & 
+Programme Implementation (MoSPI)",2015-16,Annual,Percentage,2017-18,"http://www.mospi.gov.in/node/17651 http://www.mospi.gov.in/sites/default/files/re-
+ports_and_publication/statistical_publication/National_ Accounts/NAS18/S4.2.pdf"
+"9: Build resilient infrastructure, promote inclusive and sustainable industrialization and 
+foster innovation","9.5: Enhance scientific research, upgrade the technological capabilities of industrial sectors 
+in all countries, in particular developing countries, including, by 2030, encouraging innova-
+tion and substantially increasing the number of research and development workers per 1 
+million people and public and private research and development spending",9.5.2:Researchers (in full time equivalent) per million inhabitants,"This indicator is expressed in terms of researcher engaged in Research and Development 
+(R & D) activities per million population & D activities comprise institutional sector, higher 
+education sector and industrial (public and private sector). 
+a. Numerator: Number of researchers (in numbers) 
+b. Denominator: Population during reference period (in million) 
+c. multiplier: Nil",Ministry of Science and Technology,2015,Annual,Rate ( per million),2015,NA
+"9: Build resilient infrastructure, promote inclusive and sustainable industrialization and 
+foster innovation","9.5: Enhance scientific research, upgrade the technological capabilities of industrial sectors 
+in all countries, in particular developing countries, including, by 2030, encouraging innova-
+tion and substantially increasing the number of research and development workers per 1 
+million people and public and private research and development spending","9.5.3: Total number of patent issued 
+(similar to Indicators 8.2.2 and 8.3.6)","The indicator is referred to total patents granted during the reference year. 
+a) Numerator: Total number of patents granted during reference year 
+b) Denominator: Nil 
+c) multiplier: Nil 
+Patent: A patent is a form of intellectual property. It is an exclusive right granted for an 
+invention.","Department for Promotion of Industry and Internal Trade (DPIIT), (Controller General of 
+Patents, Designs and Trademarks)",2015-16,Annual,Number,2017-18,"https://ipindiaservices.gov.in/ 
+https://www.ipindia.nic.in/annual-reports-ipo.htm 
+http://www.ipindia.nic.in/writereaddata/Portal/IPOAnnualReport/1_94_1_1_79_1_An-
+nual_Report-2016-17_English.pdf"
+"9: Build resilient infrastructure, promote inclusive and sustainable industrialization and 
+foster innovation","9.b: Support domestic technology development, research and innovation in developing 
+countries, including by ensuring a conducive policy environment for, inter alia, industrial 
+diversification and value addition to commodities",9.b.1: Share of Intellectual Property Products in total Gross Fixed Capital Formation,"a) Numerator: Estimate of Intellectual Property Products in GFCF during reference year 
+b) Denominator: Estimate of GFCF during reference year 
+c) multiplier: 100 
+Numerator is the net additions to fixed assets in the form of IPP in the economy during the 
+accounting period. IPP asset of GFCF is estimated using expenditure approach.","National Accounts Division, National Statistical Office (NSO), Ministry of Statistics & P. I. 
+(MoSPI)",2015-16,Annual,Percentage,2017-18,"Through publication on website of the Ministry 
+www.mospi.nic.in (Statement 7.1, National Account Statistics)"
+"9: Build resilient infrastructure, promote inclusive and sustainable industrialization and 
+foster innovation","9.b: Support domestic technology development, research and innovation in developing 
+countries, including by ensuring a conducive policy environment for, inter alia, industrial 
+diversification and value addition to commodities",9.b.3: Share of GVA of Information and Computer related activities in total GVA,"a) Numerator: GVA of Information and Computer related activities 
+b) Denominator: GVA of the total economy 
+c) multiplier: 100","National Accounts Division, National Statistical Office (NSO), Ministry of Statistics & P. I. 
+(MoSPI)",2015-16,Annual,Percentage (%),2017-18,http://www.mospi.nic.in/data
+"9: Build resilient infrastructure, promote inclusive and sustainable industrialization and 
+foster innovation","9.c: Significantly increase access to information and communications technology and strive 
+to provide universal and affordable access to the Internet in least developed countries by 
+2020",9.c.1: Number of Internet Subscription as percentage of total population,"The indicator is number of internet subscriber as a percentage of total population 
+a) Numerator: Total internet subscriptions during reference year 
+b) Denominator: Mid-year population during reference year 
+c) multiplier: 100","Department of Telecommunications, Ministry of Communications",2015-16,Annual,Percentage,2018-19,"www.dot.gov.in 
+https://www.trai.gov.in/release-publication/reports/performance-indicators-reports"
+"9: Build resilient infrastructure, promote inclusive and sustainable industrialization and 
+foster innovation","9.c: Significantly increase access to information and communications technology and strive 
+to provide universal and affordable access to the Internet in least developed countries by 
+2021",9.c.2: No. of Broadband Subscribers per 10000 persons,"a) Numerator: Number of broadband subscriptions during reference year 
+b) Denominator: Mid-year population during reference year 
+c) multiplier: 10,000","Department of Telecommunications, Ministry of Communications",2015-16,Annual,"Number (per 10,000 persons)",2018-19,"www.dot.gov.in 
+https://www.trai.gov.in/release-publication/reports/performance- indicators-reports"

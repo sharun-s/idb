@@ -1,0 +1,59 @@
+Goal,Target,Indicator,Desc,Source,Data Reference Period,Periodicity,Unit of Measurement,Latest Data Availability,url
+"11: Make cities and human settlements inclusive, safe, resilient and sustainable","11.2: By 2030, provide access to safe, affordable, accessible and sustainable transport 
+systems for all, improving road safety, notably by expanding public transport, with special 
+attention to the needs of those in vulnerable situations, women, children, persons with 
+disabilities and older persons",11.2.2: People killed/injured in road accidents,"The data on the following two has been taken from the Road Accidents in India: 
+i. Total number of person killed 
+ii. Total number of persons injured",Ministry of Road Transport and Highways,2015-18,Annual,In number,2018,https://morth.nic.in/sites/default/files/Road_Accidednt.pdf
+"11: Make cities and human settlements inclusive, safe, resilient and sustainable","11.3: By 2030, enhance inclusive and sustainable urbanization and capacity for partici-
+patory, integrated and sustainable human settlement planning and management in all 
+countries",11.3.1: Proportion of Cities with Master Plan,"a) Numerator: No. cities with Master   plan during reference year  
+b) Denominator: Total No. of cities during   the reference year 
+c) multiplier: 100","Ministry of Housing and Urban Affairs  
+Town and Country Planning Organization (TCPO)",2015,Annual,Rate (Per lakh),2019,NA
+"11: Make cities and human settlements inclusive, safe, resilient and sustainable","11.5: By 2030, significantly reduce the number of deaths and the number of people affect-
+ed and substantially decrease the direct economic losses relative to global gross domestic 
+product caused by disasters, including water-related disasters, with a focus on protecting 
+the poor and people in vulnerable situations.","11.5.1: Number of deaths attributed to extreme climate per 100,000 population (similar to 
+Indicator 1.5.1)","The indicator is defined as number of human live lost due to extreme events as percentage 
+of total population. 
+a) Numerator: Total number of human live lost due to extreme events 
+b) Denominator: Mid-Year population during reference year 
+c) multiplier: 1,00,000","National Disaster Management Authority(NDMA) , Ministry of Home Affairs",2015-16,Annual,Rate (Per lakh),2017-18,https://mha.gov.in/
+"11: Make cities and human settlements inclusive, safe, resilient and sustainable","11.6: By 2030, reduce the adverse per capita environmental impact of cities, including by 
+paying special attention to air quality and municipal and other waste management.",11.6.4: Percentage of wards with 100% door to door collection,"The indicator is defined as number of human live lost due to extreme events as percentage 
+of total population. 
+a) Numerator: No. of wards with 100%   door to door collection  
+b) Denominator: Total number of wards 
+c) multiplier: 100","Ministry of Housing and Urban Affairs 
+Swachh Bharat Mission - Urban",2015-16,Annual,percentage,2019-20,https://mha.gov.in/
+"11: Make cities and human settlements inclusive, safe, resilient and sustainable","11.6: By 2030, reduce the adverse per capita environmental impact of cities, including by 
+paying special attention to air quality and municipal and other waste management.",11.6.5: Percentage of Waste processed,"The indicator is defined as number of human live lost due to extreme events as percentage 
+of total population. 
+a) Numerator: Total waste processed during reference year  
+b) Denominator: Total waste generation during the reference year 
+c) multiplier: 100","Ministry of Housing and Urban Affairs 
+Swachh Bharat Mission - Urban",2015-16,Annual,percentage,2019-20,https://mha.gov.in/
+"11: Make cities and human settlements inclusive, safe, resilient and sustainable","11.b: By 2020, substantially increase the number of cities and human settlements adopt-
+ing and implementing integrated policies and plans towards inclusion, resource efficiency, 
+mitigation and adaptation to climate change, resilience to disasters, and develop and 
+implement, in line with the Sendai Framework for Disaster Risk Reduction 2015-2030, 
+holistic disaster risk management at all levels","11.b.1: Whether the country has adopted and implemented national disaster risk reduction 
+strategies in line with the Sendai Framework for Disaster Risk Reduction 2015-2030","This Indicator is used to find out whether the country has adopted and implemented na-
+tional disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk 
+Reduction 2015-2030. The value of the indicator is the response of the country regarding 
+adoption & implementation of national disaster risk reduction strategies in line with the 
+Sendai Framework for Disaster Risk Reduction 2015-2030","NDMA, MHA",2015,Annual,Yes/No,As on date,https://mha.gov.in/
+"11: Make cities and human settlements inclusive, safe, resilient and sustainable","11.b: By 2020, substantially increase the number of cities and human settlements adopt-
+ing and implementing integrated policies and plans towards inclusion, resource efficiency, 
+mitigation and adaptation to climate change, resilience to disasters, and develop and 
+implement, in line with the Sendai Framework for Disaster Risk Reduction 2015-2030, 
+holistic disaster risk management at all levels","11.b.2: Proportion of State and local governments that adopt and implement local disaster 
+risk reduction strategies in line with national disaster risk reduction strategies. (similar to 
+Indicator 1.5.2)","This indicator is defined as total number of States/UT that have prepared/updated State 
+Disaster Management Plan (SDMP) in line with National Disaster Management Plan as 
+percentage of total States/UT’s in India. 
+a) Numerator:  Number of States/UT that have prepared/updated State Disaster Manage-
+ment Plan (SDMP) in line with NDMA 
+b) Denominator:  Total number of States/UTs in India 
+c) multiplier: 100","NDMA, MHA",2017-18,Annual,Percentage,2017-18,SDMP is available on the website of concerned State/UT.

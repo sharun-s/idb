@@ -1,0 +1,155 @@
+Goal,Target,Indicator,Desc,Source,Data Reference Period,Periodicity,Unit of Measurement,Latest Data Availability,url
+"15: Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably 
+manage forests, combat desertification, and halt and reverse land degradation and halt 
+biodiversity loss","15.1: By 2020, ensure the conservation, restoration and sustainable use of terrestrial and 
+inland freshwater ecosystems and their services, in particular forests, wetlands, moun-
+tains and drylands, in line with obligations under international agreements",15.1.1: Forest cover as a percentage of total geographical area,"F
+a) Numerator: Recorded Forest Area 
+b) Denominator: Total geographical area 
+c) multiplier: 100 
+orest cover is defined as ‘All Lands, more than 1 ha. in area, with a tree canopy density of 
+more than 10% irrespective of ownership and legal status. Such land may not necessarily 
+be a recorded forest area. It also includes orchards, bamboo and palm’.","M/o Environment, Forest and Climate Change",2015,2 Years,Percentage,2019,"http://fsi.nic.in/isfr-2015/isfr-2015-forest-cover.pdf www.fsi.nic.in 
+(Forest Survey of India)"
+"15: Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably 
+manage forests, combat desertification, and halt and reverse land degradation and halt 
+biodiversity loss","15.1: By 2020, ensure the conservation, restoration and sustainable use of terrestrial and 
+inland freshwater ecosystems and their services, in particular forests, wetlands, moun-
+tains and drylands, in line with obligations under international agreements",15.1.2: Protected area as percentage of total geographical area,"P
+The indicator refers as protected area as percentage of total geographic area 
+a) Numerator: Total area under National Park and Wild Life Sanctuaries 
+b) Denominator: Total Geographic Area 
+c) multiplier: 100 
+rotected areas are those in which human occupation or at least the exploitation of 
+resources is limited.. There are several kinds of protected areas, which vary by level 
+of protection depending on the enabling laws of each country or the regulations of 
+the international organizations involved. The term “protected area” also includes 
+Marine Protected Areas, the boundaries of which will include some area of ocean, and 
+Transboundary Protected Areas that overlap multiple countries which remove the borders 
+inside the area for conservation and economic purposes.","Ministry of Environment, Forest and Climate Change",2015,2 Years,Percentage (in ‘000 sq.km.),2019,http://wiienvis.nic.in/Database/Protected_Area_854.aspx
+"15: Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably 
+manage forests, combat desertification, and halt and reverse land degradation and halt 
+biodiversity loss","15.2: By 2020, promote the implementation of sustainable management of all types of 
+forests, halt deforestation, restore degraded forests and substantially increase afforesta-
+tion and reforestation globally",15.2.1: Percentage change in Forest Area coverage,"a
+The ‘Forest Area’ or ‘Recorded Forest Area (RFA)’ refers to all the geographic areas 
+recorded as ‘Forests’ in government records. RFA mainly consists of Reserved Forests (RF) 
+and Protected Forests (PF), which have been notified under the provisions of Indian Forest 
+Act, 1927 or its counterpart State Acts. Besides RFs & PFs, the RFA may also include all 
+such areas, which have been recorded as forests in the revenue records or have been 
+constituted so under any State Act or Local Laws. The data for this indicator is collected by 
+Forest Survey of India, 
+) Numerator: Recorded Forest Area in the period t-Recorded Forest Area in period (t-2) 
+b) Denominator: Recorded Forest Area in the period t-Recorded Forest Area in period (t-2) 
+c) multiplier: 100 
+Note: ‘t’ refers to reference time period","Ministry of Environment, Forest and Climate Change",2013-15,2 Years,In percentage,2017-19,"http://fsi.nic.in 
+Report: India State of Forest Report India State Forest Cover Report 2017"
+"15: Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably 
+manage forests, combat desertification, and halt and reverse land degradation and halt 
+biodiversity loss","15.2: By 2020, promote the implementation of sustainable management of all types of 
+forests, halt deforestation, restore degraded forests and substantially increase afforesta-
+tion and reforestation globally",15.2.2: Total area covered under different afforestation schemes,"The indicator indicates area i.e. total land (in hectares), both public as well as forest land, 
+cover under different afforestation schemes.  
+a) Numerator: Total land (public as well as forest land) cover under different afforestation 
+schemes. 
+b) Denominator: Nil 
+c) multiplier: Nil 
+MoSPI compiles and publishes year wise data on the total area covered under plantation 
+which is being provided by all States and UTs on annual basis.","Social Statistics Division, Ministry of Statistics and Programme Implementation",2015-16,Annual,Hectare,2017-18,http://mospi.nic.in/publication/envistats-india-2019-voli-environment-statistics
+"15: Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably 
+manage forests, combat desertification, and halt and reverse land degradation and halt 
+biodiversity loss","15.2: By 2020, promote the implementation of sustainable management of all types of 
+forests, halt deforestation, restore degraded forests and substantially increase afforesta-
+tion and reforestation globally",15.2.3: Tree cover as percentage of total geographical area,"The indicator refers as the tree cover as percentage of total geographical area 
+a) Numerator: Total tree cover 
+b) Denominator: Total Geographic Area 
+c) multiplier: 100",MoEFCC,2015,Biennial,percentage,2019,http://fsi.nic.in/isfr-2015/isfr-2015-forest-cover.pdf www.fsi.nic.in
+"15: Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably 
+manage forests, combat desertification, and halt and reverse land degradation and halt 
+biodiversity loss","15.3: By 2030, combat desertification, restore degraded land and soil, including land 
+affected by desertification, drought and floods, and strive to achieve a land degrada-
+tion-neutral world",15.3.1: Proportion of land that is degraded over total land area.,"a. Numerator: Total land area degraded during the reference year 
+b. Denominator: Total geographical area during the reference year 
+c. multiplier: 100",Dept. of Space,2015-16,5 years,In percentage,2015-16,NA
+"Goal 15: Protect, restore and promote sustainable use of terrestrial ecosystem, sustaina-
+bly manage forests, combat desertification, and halt and reverse land degradation and halt 
+biodiversity loss.","15.4: By 2030, ensure the conservation of mountain ecosystems including their biodiversi-
+ty, in order to enhance their capacity to provide benefits that are essential for sustainable 
+development",15.4.1: Percentage change in forest cover of hill districts,"M
+ F
+ F
+ a
+Forest cover is defined as ‘All Lands, more than 1 hectare in area, with a tree canopy 
+density of more than 10% irrespective of ownership and legal status. Such land may not 
+necessarily be a recorded forest area. It also includes orchards, bamboo and palm’. 
+ountain areas include hill districts wherein more than 50% of its geographical area 
+under ‘hill talukas’ based on criteria adopted by the planning commission for hill area and 
+Western Ghats development programmes. About 127 hill districts have been taken into 
+consideration for forest cover analysis in India State of Forest Report 2017. 
+orest cover assessment in 127 hill districts is carried out biennially and changes thereon 
+with respect to the previous assessment are calculated for each district, States and 
+country. 
+orest cover assessment is a biennial wall to wall mapping exercise based on Remote 
+sensing using LISS III (23.5 mtr Resolution) sensor data from IRS P6, supported by 
+intensive ground verification and field data from National Forest Inventory. 
+) Numerator: Total Forest cover in hill district in the period ‘t’-Total forest cover
+ in period (t-1) 
+b) Denominator: Total forest cover in hill district in period (t-1) 
+c) multiplier: 100",Ministry of Environment Forest and Climate Change (Forest Survey of India),2013-15,2 Years,Percentage,2017-19,"www.fsi.nic.in 
+(Forest Survey of India)"
+"Goal 15: Protect, restore and promote sustainable use of terrestrial ecosystem, sustaina-
+bly manage forests, combat desertification, and halt and reverse land degradation and halt 
+biodiversity loss.","15.4: By 2030, ensure the conservation of mountain ecosystems including their biodiversi-
+ty, in order to enhance their capacity to provide benefits that are essential for sustainable 
+development",15.4.4: Percentage change in per capita income of Himalayan State over previous year,"a
+The indicator measures percentage change in Per Capita Net State Domestic Product(P-
+CNSDP) in hill States during the reference year over the previous year. 
+) Numerator: PCNSDP during the reference year - PCNSDP during the previous year 
+b) Denominator: PCNSDP during the previous year 
+c) multiplier: 100","NAD, MoSPI",2015-16,Annual,Percentage,2017-18,NA
+"Goal 15: Protect, restore and promote sustainable use of terrestrial ecosystem, sustaina-
+bly manage forests, combat desertification, and halt and reverse land degradation and halt 
+biodiversity loss.","15.6: Promote fair and equitable sharing of the benefits arising from the utilization of 
+genetic resources and promote appropriate access to such resources, as internationally 
+agreed",15.6.1: Number of Access and Benefit Sharing (ABS) agreements signed,"a
+This indicator measures progress made by country in establishing legislative, administra-
+tive or policy framework on access and Benefit-Sharing (ABS).  
+ABS frameworks, contributes to the conservation and sustainable use of biological and 
+genetic diversity and thus achievement of Target 15.6. This indicator shows the effective-
+ness of operationalization of the Nagoya protocol in the country.  
+The ABS Agreement is signed between the applicant(user) and the National Biodiversity 
+Authority(provider). 
+) Numerator: Number of Access and Benefit Sharing (ABS) agreements signed 
+b) Denominator: Nil 
+c) multiplier: Nil",Ministry of Environment Forest and Climate Change,2015-16,Annual,Number,2018-19,NA
+"Goal 15: Protect, restore and promote sustainable use of terrestrial ecosystem, sustaina-
+bly manage forests, combat desertification, and halt and reverse land degradation and halt 
+biodiversity loss.","15.7: Take urgent action to end poaching and trafficking of protected species of flora and 
+fauna and address both demand and supply of illegal wildlife products.",15.7.1: Number of wildlife crime cases detected and reported annually.,"a
+ W
+Whenever a case related to violation of The Wildlife (Protection) Act, 1972 is detected by 
+an enforcement agency (Police/Forest) of a state, the details of the case is sent to Wildlife 
+Crime Control Bureau (WCCB) by concerned state based on which the data is compiled by 
+WCCB at national level. The annual data of the wildlife cases detected by states/UTs and 
+reported to WCCB is then compiled. 
+) Numerator: Total number of cases registered annually in all States and UTs under the 
+Wildlife (Protection) Act, 1972 according to the data provided by States/UTs to WCCB 
+b) Denominator: Nil 
+c) multiplier: Nil 
+ildlife Crime Control Bureau (WCCB ) is a statutory multi-disciplinary body established 
+by the Government of India under the Ministry of Environment and Forests, to combat 
+organized wildlife crime in the country.","Ministry of Environment Forest and Climate Change, Wildlife Crime Control Bureau (WCCB)",2015,Annual,Number,2018,WCCB Wildlife Crime Data Management System
+"15: Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably 
+manage forests, combat desertification, and halt and reverse land degradation and halt 
+biodiversity loss","15.b: Mobilize significant resources from all sources and at all levels to finance sustainable 
+forest management and provide adequate incentives to developing countries to advance 
+such management, including for conservation and reforestation",15.b.1: Percentage of government spending on environmental protection,"a
+The indicator measures Government’s spending on environment protection. The indicator 
+is relevant to the target as it will help in assessing mobilization of resources for environ-
+ment protection. 
+) Numerator: Total government expenditures (at current price) on environment protection 
+during reference year. 
+b) Denominator: Government total expenditures (at current price) during reference year 
+c) multiplier: 100","National Accounts Division (NAD), National Statistical office (NSO), MoSPI",2015-16,Annual,Percentage,2017-18,"http://www.mospi.gov.in/node/17651 
+http://www.mospi.gov.in/sites/default/files/reports_and_publication/statistical_publica-
+tion/National_ Accounts/NAS18/S4.2.pdf"

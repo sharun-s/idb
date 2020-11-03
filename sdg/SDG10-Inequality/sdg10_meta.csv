@@ -1,0 +1,70 @@
+Goal,Target,Indicator,Desc,Source,Data Reference Period,Periodicity,Unit of Measurement,Latest Data Availability,url
+10: Reduce inequality within and among countries,"10.1: By 2030, progressively achieve and sustain income growth of the bottom 40 per cent 
+of the population at a rate higher than the national average","10.1.1: Growth rates of household expenditure per capita among the bottom 40 per cent 
+of the population and the total population","The indicator measures growth rate of household expenditure per capita among the bot-
+tom 40 per cent of the population in the current year with respect to previous year. 
+a) Numerator: change in per capita household expenditure (in constant 
+price) of the concerned group of population (bottom 40% of the population or the total 
+population, as the case may be) in the current period from the previous year 
+b) Denominator: per capita household expenditure of the concerned group of population 
+(bottom 40% of the population or the total population, as the case may be) in the previous 
+period 
+c) multiplier: 100.","NSSO, MoSPI",2011-12 over 2009-10,5 years,In percentage,2011-12,NSS report is available in the website: www.mospi.nic.in
+10: Reduce inequality within and among countries,"10.1: By 2030, progressively achieve and sustain income growth of the bottom 40 per cent 
+of the population at a rate higher than the national average",10.1.2: Gini Coefficient of Household Expenditure,"The Gini coefficient can then be thought of as the ratio of the area that lies between the 
+line of equality and the Lorenz curve 
+The indicator measures the inequality in consumption expenditure. The coefficient ranges 
+from zero to one, with zero representing perfect equality and one showing perfect ine-
+quality. Gini coefficient measures the deviation of distribution of income (or consumption) 
+among the individuals within a country from a perfectly equal distribution","NSS, MoSPI",2011-12,5 years,In percentage,2011-12,NSS report is available in the website: www.mospi.nic.in
+10: Reduce inequality within and among countries,"10.2: By 2030, empower and promote the social, economic and political inclusion of all, ir-
+respective of age, sex, disability, race, ethnicity, origin, religion or economic or other status",10.2.1: Percentage of people living below 50 per cent of median household expenditure,"Percentage of people living below 50 per cent of median MPCE 
+a) Numerator: Estimated number of persons with MPCE less than or equal to Median 
+MPCE in each sector (i.e., Rural or Urban). 
+b) Denominator: Estimated number of all persons in each sector 
+c) multiplier: 100","NSS, MoSPI","2011-12 The household consumption expenditures are collected with different reference 
+periods for different items with last 7 days’ for some food items, last 30 days’ consump-
+tion for some other food items and some non-food items, and last 365 days’ for some very 
+infrequently consumed items. However, all such expenditures are translated in monthly 
+expenditures.",5 years,In percentage,2011-12,NSS report is available in the website: www.mospi.nic.in
+10: Reduce inequality within and among countries,"10.2: By 2030, empower and promote the social, economic and political inclusion of all, ir-
+respective of age, sex, disability, race, ethnicity, origin, religion or economic or other status","10.2.2: Proportion of seats held by women in national Parliament, State Legislation and 
+Local Self Government (similar to Indicators 5.5.1 and 16.7.1)","a) Numerator: Elected or nominated women representatives in Lok Sabha/Rajya Sabha/
+Legislative Assembly/PRI 
+b) Denominator: Total elected or nominated representatives in Lok Sabha/Rajya Sabha/
+Legislative Assembly/PRI 
+c) multiplier: (if any): 100","1) Election Commission of India 
+2) Ministry of Panchayati Raj",2014-16,Annual,In percentage,2014-16,"http://eci.nic.in/eci_main1/current/Electoral_Statistics_Pocket_Book2017_18052017.
+pdf 
+http://www.panchayat.gov.in/documents/10198/384335/Representation%20of%20
+Women%20in%20 PRIs.pdf"
+10: Reduce inequality within and among countries,"10.2: By 2030, empower and promote the social, economic and political inclusion of all, ir-
+respective of age, sex, disability, race, ethnicity, origin, religion or economic or other status",10.2.3: Proportion of SC/ST persons in Elected bodies,"Proportion of seats held by persons belonging to SCs and STs in Lok Sabha 
+a) Numerator: Number of persons belonging to SCs and STs representative in Lok Sabha 
+b) Denominator: Total representatives in Lok Sabha 
+c) multiplier (if any): 100 
+Scheduled Castes and Scheduled Tribes  as defined under clause (24) and clause (25) of 
+article 366 of the Indian Constitution respectively",Election Commission of India,2014,Annual,In percentage,2014,"http://eci.nic.in/eci_main1/current/Electoral_Statistics_Pocket_Book2017_18052017.
+pdf 
+http://www.panchayat.gov.in/documents/10198/384335/Representation%20of%20
+Women%20in%20 PRIs.pdf"
+10: Reduce inequality within and among countries,"10.4: Adopt policies, especially fiscal, wage and social protection policies, and progressively 
+achieve greater equality.",10.4.1: Proportion of budget allocated to North Eastern States,"The indicator measures percentage allocation of budget to north eastern regions out of 
+total budget allocation during the reference year. 
+a. Numerator: Budget allocated to north-eastern region 
+b. Denominator: Total budget allocation 
+c. multiplier (if any): 100",Ministry of Finance,2015-16,Annual,In percentage,2019-20,https://www.indiabudget.gov.in/
+10: Reduce inequality within and among countries,"10.4: Adopt policies, especially fiscal, wage and social protection policies, and progressively 
+achieve greater equality.","10.4.2: Percentage of budget allocated for welfare of Scheduled Caste and Scheduled 
+Caste","The indicator measures percentage actual allocation of budget to welfare of persons 
+belonging to Schedules Castes and Scheduled Tribes out of total actual budget allocation 
+during the reference year. 
+a) Numerator: Total actual budget allocated welfare of SCs and STs during the reference 
+year. 
+b) Denominator: Total actual budget allocation during the reference year. 
+c) multiplier: 100",Ministry of Finance,2015-16,Annual,In percentage,2019-20,https://www.indiabudget.gov.in
+10: Reduce inequality within and among countries,"10.c : By 2030, reduce to less than 3 per cent the transaction costs of migrant remittances 
+and eliminate remittance corridors with costs higher than 5 per cent.",10.c.1: Remittance costs as a proportion of the amount remitted,"Data for remittance is provided in the category of two types of transfer Mode through 
+Direct Transfer to Bank Account/Electronic Wire and through SWIFT. Cost of sending US $ 
+200 to public sector bank and cost of receiving US $ 200 Public Sector Banks are provided 
+in term of Range by RBI.",Reserve Bank of India,2015-16,Annual,US$ 200,2015-16,NA

@@ -1,0 +1,86 @@
+Goal,Target,Indicator,Desc,Source,Data Reference Period,Periodicity,Unit of Measurement,Latest Data Availability,url
+"14: Conserve and sustainably use the oceans, seas and marine resources for sustainable 
+development.","14.1: By 2025, prevent and significantly reduce marine pollution of all kinds, in particular 
+from land- based activities, including marine debris and nutrient pollution.",14.1.1: Coastal Water Quality Index(CWQI),"The CWQI which is calculated for each monitoring location can be used to assess the heath 
+of the coastal waters. Based on the CWQI, the monitoring locations can be categorized as 
+Poor, Fair, Good etc. Range for coastal water quality is as follows: 
+(i) 0-20 --- Very Poor, 
+(ii) 21-40 --- Poor, 
+(iii) 41-60 -- Moderate, 
+(iv) 61-80 --- Good, 
+(v) 81-100 --- Very Good. 
+Field data on essential environmental parameters were collected along coastal States of 
+India by the respective participating centres under Seawater Quality Monitoring (SWQM) 
+programme of Ministry of Earth Sciences.",Ministry of Earth Science (MoES),2015,Annual,Number,2015,"http://www.icmam.gov.in/ comaps/ comap2.htm http://www.incois.gov.in/ portal/ co-
+maps/ home.jsp)"
+"14: Conserve and sustainably use the oceans, seas and marine resources for sustainable 
+development","14.1: By 2025, prevent and significantly reduce marine pollution of all kinds, in particular 
+from land- based activities, including marine debris and nutrient pollution","14.1.3: Percentage use of nitrogenous fertilizers to total fertilizers (N, P & K)","The indicator refers to percentage consumption of Nitrogenous fertilizer (N) to total ferti-
+lizers (sum total of Nitrogenous fertilizers, Phosphatic fertilizers and potassium fertilizers) 
+during the reference year in coastal areas. 
+a) Numerator:  Consumption of Nitrogenous fertilizer during the reference year 
+b) Denominator: Consumption of total fertilizer (N, P & K) during the reference year 
+c) multiplier: 100","Ministry of Agriculture & Farmers Welfare/Department of Agriculture, Cooperation & 
+Farmers Welfare.",2015-16,Annual,In percentage,2018-19,Agriculture at a glance Report 2015-16
+"14: Conserve and sustainably use the oceans, seas and marine resources for sustainable 
+development","14.2: By 2020, sustainably manage and protect marine and coastal ecosystems to avoid 
+significant adverse impacts, including by strengthening their resilience, and take action for 
+their restoration in order to achieve healthy and productive oceans","14.2.1: Percentage change in area under mangroves 
+(similar to Indicator 14.5.2)","M
+ F
+ M
+ F
+ M
+ C
+a) Numerator: Area under Mangrove cover in the period (t) - (Area under Mangrove cover in 
+period (t-2) 
+b) Denominator: Area under Mangrove cover in period (t-2) 
+c) multiplier: 100 
+angrove cover is defined as ‘Area covered under mangrove vegetation as interpreted 
+from remote sensing data. It is included in the forest cover’. 
+orest cover is defined as ‘All Lands, more than 1 hectare in area, with a tree canopy 
+density of more than 10% irrespective of ownership and legal status. Such land may not 
+necessarily be a recorded forest area. It also includes orchards, bamboo and palm’. 
+angrove cover assessment is carried out biennially and changes thereon with respect to 
+the previous assessment are calculated for each district, States and country. 
+orest cover assessment is a biennial wall to wall mapping exercise based on Remote 
+sensing using LISS III (23.5 mtr Resolution) sensor data from IRS P6, supported by inten-
+sive ground verification and field data from National Forest Inventory. Area covered under 
+mangrove vegetation is also included in the forest cover. 
+angrove shows conspicuous tone and textures on the satellite images, which has been 
+used in the mapping of mangrove cover of the country. 
+hanges in forest cover under mangrove w.r.t to previous assessments are calculated for 
+district, State and country level. Based on the analysis of changes observed w.r.t previous 
+assessment, a change matrix is generated indicating the change in the extent of mangrove 
+cover.","Forest Survey of India, Ministry of Environment Forest and Climate Change",2015 over 2013,2 years,In percentage,2017 over 2015,"http://fsi.nic.in 
+Report: India State of Forest Report 
+http://fsi.nic.in/isfr2017/isfr-mangrove-cover-2017.pdf"
+"14: Conserve and sustainably use the oceans, seas and marine resources for sustainable 
+development","14.3: Minimize and address the impacts of ocean acidification, including through enhanced 
+scientific cooperation at all levels","14.3.1: Average marine acidity (pH) measured at agreed site of representative sampling 
+stations","Ministry of Earth Sciences, through Centre for Marine Living Resources and Ecology 
+(CMLRE) and National Centre for Coastal Research (NCCR) is monitoring the estuarine, 
+coastal and open ocean pH to ascertain the status of Ocean Acidification being influenced 
+by anthropogenic activities and climate change conditions. NCCR through its “Seawater 
+Quality Monitoring (SWQM / COMAPS)” programme is monitoring pH of the estuaries and 
+coastal seas of India since 1990s. Apart CMLRE & NCCR are jointly monitoring coastal and 
+oceanic pH of the eastern Arabian Sea including on its shelf. 
+Decrease in pH over a long-term period indicates the Ocean Acidification.",Ministry of Earth Science,2019,-,Number of sites,2019,NA
+"14: Conserve and sustainably use the oceans, seas and marine resources for sustainable 
+development","14.4: By 2025, prevent and significantly reduce marine pollution of all kinds, in particular 
+from land- based activities, including marine debris and nutrient pollution",14.4.1: Maximum Sustainable Yield (MSY) in fishing,"F
+Maximum sustainable yield is computed as Potential Yield Estimation (PYE) in Exclusive 
+Economic Zone. PYE is calculated by two approaches 
+(i) Trophodynamic approach 
+(ii) Direct estimation from fish landing and fish survey data. 
+ish groups which are included in potential yield estimation are phytoplanktivores, pelagic 
+planktivores, pelagic carnivores, pelagic omnivores, Benthic carnivores and Miscellaneous 
+fish.","Department of Fisheries, Ministry of Animal Husbandry, Dairying and Fisheries",2015-17,,Number,2018,NA
+"14: Conserve and sustainably use the oceans, seas and marine resources for sustainable 
+development",14.b: Provide access for small-scale artisanal fishers to marine resources and markets,"14.b.1: Assistance to the traditional / artisanal fishers for procurement of FRP boats and 
+other associated fishing implements.","Assistant is provided to Traditional/Artisanal Fisherman for procurement of Fiber 
+Reinforced Plastic (FRP) Boats for 10 coastal States. The main objective is to organize 
+all the traditional fishermen who are engaged in deep sea fishing operations and to 
+engage in the protection of coastal environment, conservation of marine ecosystems 
+and preservation of natural resources. This assistance also provides access for fishing 
+equipment at reasonable cost.","Department of Fisheries, Ministry of Animal Husbandry, Dairying & Fisheries",2016-17,Annual,"Number, Rs. in Lakhs",2018-19,NA
