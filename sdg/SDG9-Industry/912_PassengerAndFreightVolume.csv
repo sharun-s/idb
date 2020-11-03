@@ -1,0 +1,13 @@
+Mode of transport,Category,(2015-16),(2016-17),(2017-18)
+"Road Transport (billion Passenger 
+Km/ freight in billion tonnes km)",Freight,"2,027.40","2,260.20",-
+,Passengers,15428,17832,-
+"Scheduled Indian Airlines (Passenger 
+in million/ Cargos in million tonnes)",Cargos,0.001,0.001,0.001
+,Passengers,0.104,0.125,0.147
+"Indian Railways (Passenger in 
+million/ freight in million tonnes)",Freight,"6,55,605","6,20,858","6,93,281"
+,Passengers,"8,107","8,116","8,286"
+"Source (1) Railway Board is data source for passenger movement and freight volumes by Railways (2) Research Wing of Ministry of 
+Road Transport and Highway is data source for passenger movement and freight volumes by Roads (3) Ministry of Civil Aviation is 
+data source for passenger movement and freight volumes by air",,,,
