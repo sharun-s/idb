@@ -1,0 +1,31 @@
+State,Location,At shore (0.5 km),,,At nearshore (2 km),,,At offhsore (5 km),,
+,,min,mean,max,min,mean,max,min,mean,max
+Andhra Pradesh,Kakinada,7.65,7.85,8.09,7.16,7.67,7.97,7.54,7.74,7.90
+Andhra Pradesh,Visakhapatnam,7.17,7.76,8.21,7.19,7.90,8.17,7.28,7.79,8.12
+Andhra Pradesh,Kalingapatnam,8.04,8.10,8.16,8.15,8.16,8.17,8.02,8.09,8.16
+Goa,Mandovi,7.98,8.19,8.32,8.08,8.17,8.27,7.99,8.17,8.35
+Goa,Zuari,7.98,8.05,8.16,8.10,8.15,8.20,8.01,8.02,8.03
+Gujarat,Hazira,,,,,,,,,
+Gujarat,Vadinar,,,,,,,,,
+Gujarat,Veraval,,,,,,,,,
+Karnataka,Mangalore,,,,,,,,,
+Kerala,Kochi,7.92,8.07,8.22,,8.16,,,8.18,
+Maharashtra,Malvan,,,,,,,,,
+Maharashtra,Mumbai,8.30,8.35,8.40,8.30,8.35,8.40,8.30,8.35,8.40
+Maharashtra,Ratnagiri,,,,,,,,,
+Maharashtra,Worli,8.20,8.25,8.30,,8.20,,,8.30,
+Odisha,Dhamra,,,,,,,,,
+Odisha,Mahanadi,,,,,,,,,
+Odisha,Puri,6.80,8.00,8.40,,,,,,
+Odisha,Konark,7.00,8.08,8.30,,,,,,
+Odisha,Paradip,8.06,8.07,8.08,8.23,8.26,8.28,8.08,8.10,8.13
+Tamilnadu,Ennore,8.14,8.17,8.19,7.95,7.98,8.01,7.78,7.81,7.85
+Tamilnadu,Tuticorin,7.71,8.12,8.40,8.15,8.21,8.28,8.17,8.23,8.27
+West Bengal,Kolkata,,,,7.90,7.92,7.94,,,
+West Bengal,Hooghly,,,,,,,,,
+West Bengal,Sandheads,,,,,,,,,
+Andaman and Nicobar Islands,Port Blair,7.81,8.26,8.71,7.58,8.22,8.52,8.17,8.31,8.59
+Lakshadweep,Kavarati,,,,,,,,,
+Puducherry,Puducherry,8.03,8.06,8.11,8.04,8.05,8.06,8.06,8.08,8.11
+"Source: National Centre for Coastal Research (NCCR) 
+Note: Blank refers, data is not available",,,,,,,,,,
