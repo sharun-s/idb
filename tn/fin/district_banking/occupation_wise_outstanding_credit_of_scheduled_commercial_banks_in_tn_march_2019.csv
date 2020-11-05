@@ -1,0 +1,70 @@
+S.No,Category ,Occupation,Number of Accounts,Credit Limit (in Lakhs),Amount Out-standing (in Lakhs)
+1,Agriculture,Direct Finance,13015131,12349510,11327746
+2,Agriculture,Indirect Finance,893514,1340044,1083472
+Total ,Agriculture,Total Agriculture,13908645,13689554,12411218
+3,Industry,Mining and Quarrying,7619,1142678,808086
+4,Industry,"Food Manufacturing and Processing - Rice Mills, Flour and Dal Mills",5922,412971,342231
+5,Industry,Food Manufacturing and Processing - Sugar,2403,604035,349785
+6,Industry,Food Manufacturing and Processing - Edible Oils and Vanaspati,1571,191577,112926
+7,Industry,Food Manufacturing and Processing - Tea Processing,549,15382,12701
+8,Industry,Food Manufacturing and Processing - Processing of Fruits and Vegetables,3264,115367,71707
+9,Industry,Food Manufacturing and Processing - Others,31598,1145505,781271
+Total ,Industry,Total Food Manufacturing and Processing,45307,2484837,1670621
+10,Industry,Beverage and Tobacco,7139,229465,150056
+11,Industry,Textiles - Cotton Textiles,51737,4151103,2344186
+12,Industry,Textiles - Jute and Other Natural Fibre Textiles,1299,40043,29638
+13,Industry,Textiles - Handloom Textiles and Khadi,23871,152742,106773
+14,Industry,Textiles - Other Textiles and Textile Products,50166,4354340,1417580
+Total ,Industry,Total Textiles,127073,8698228,3898177
+15,Industry,"Paper, Paper products and Printing",10418,1015506,707612
+16,Industry,Woods and Woods Products,3219,215747,173668
+17,Industry,Leather and Leather Products,5648,571407,222872
+18,Industry,Gems and Jewellery,2705,1140681,858719
+19,Industry,Rubber and Plastic Products,6884,479678,317204
+20,Industry,Chemicals and Chemical Products - Heavy Industrial Chemicals,1287,225884,123908
+21,Industry,Chemicals and Chemical Products - Fertilizers,685,183339,50656
+22,Industry,Chemicals and Chemical Products - Drugs and Pharmaceuticals,1315,523195,367436
+23,Industry,Chemicals and Chemical Products - Non-Edible Oils,315,148995,55384
+24,Industry,Chemicals and Chemical Products - Other Chemicals and Chemical Products,10151,498723,354824
+Total ,Industry,Total Chemicals and Chemical Products,13753,1580136,952208
+25,Industry,"Petroleum, Coal Products and Nuclear Fuels",707,747341,332923
+26,Industry,Manufacture of Cement and Cement products,3886,633729,405716
+27,Industry,Basic Metals and Metal Products - Iron and Steel,5609,1314096,947254
+28,Industry,Basic Metals and Metal Products - Non-Ferrous Metals,1980,250340,147778
+29,Industry,Basic Metals and Metal Products - Metal Products,7416,591132,436918
+Total ,Industry,Total Basic Metals and Metal Products,15005,2155568,1531950
+30,Industry,Engineering - Heavy Engineering,6519,652749,409454
+31,Industry,Engineering - Light Engineering,23905,967719,682686
+32,Industry,Engineering - Electrical Machinery and Goods,6518,530655,384792
+33,Industry,Engineering - Electronic Machinery and Goods,1677,217133,80286
+Total ,Industry,Total Engineering,38619,2368256,1557218
+34,Industry,"Vehicles, Vehicle Parts and Transport Equipments  ",20449,1848883,1207985
+35,Industry,Other Industries,369893,1531345,825048
+36,Industry,"Electricity, Gas and Water - Electricity Generation and Transmission ",770,3383528,2666018
+37,Industry,"Electricity, Gas and Water - Non-Conventional Energy",1227,342899,247991
+38,Industry,"Electricity, Gas and Water - Gas, Steam and Water Supply",1250,137589,77212
+Total ,Industry,"Total Electricity, Gas and Water",3247,3864016,2991221
+39,Industry,Construction - Other than infrastructure,30856,1885929,1196397
+40,Industry,Construction - Infrastructure Construction,7051,4538271,3394595
+Total ,Industry,Total Construction,37907,6424200,4590992
+Grand Total ,Industry,Grand Total Industry,719478,37131701,23202277
+41,Transport Operators ,Transport Operators,176912,1726316,1293059
+42,Professional and Other Services,Professional Services,79310,759959,363694
+43,Professional and Other Services,"Tourism, Hotel and Restaurants ",60939,635326,494605
+44,Professional and Other Services,Recreation Services,8094,281522,162623
+45,Professional and Other Services,IT and Telecommunications,7479,343043,256676
+46,Professional and Other Services,Others,355100,5059602,3600128
+Total ,Professional and Other Services,Total Professional and Other Services,510922,7079452,4877726
+47,Personal Loans,Housing,608081,9376669,7292676
+48,Personal Loans,Consumer Durables,76273,74205,56995
+49,Personal Loans,Vehicles,591142,1907093,1337545
+50,Personal Loans,Education,831345,1776041,1681631
+51,Personal Loans,Personal Credit Cards,2003556,2218188,628545
+52,Personal Loans,Others,2263765,5917708,4620112
+Total ,Personal Loans,Total Personal Loans,6374162,21269904,15617504
+53,Trade,Wholesale Trade,79328,3696719,2444084
+54,Trade,Retail Trade,920687,5308730,3979500
+Total ,Trade,Total Trade,1000015,9005449,6423584
+55,Finance,Finance,103914,7199604,4549580
+56,All Others,All Others,280150,1479315,1046514
+Total ,Total Bank Credit,Total Bank Credit,23074198,98581295,69421461

@@ -1,0 +1,31 @@
+S.No,Name of the Bank,Number of Branches,Deposits (Rs.in Lakhs),Advances (Rs.in Lakhs),Cash Deposit Ratio
+1,Bank of Baroda,2,2873,5569,193.84
+2,Bank of India,4,11978,12470,104.11
+3,Canara Bank,5,25677,42393,165.1
+4,Central Bank of India,2,4210,10202,242.33
+5,City Union Bank,3,9873,14450,146.36
+6,Corporation Bank,1,1404,2240,159.54
+7,Dhanlakshmi Bank,1,920,1250,135.87
+8,Indian Bank,8,27340,27056,98.96
+9,Indian Overseas Bank,26,73905,53614,72.54
+10,karur Vysya Bank,4,12020,22720,189.02
+11,Punjab National Bank,1,3904,3129,80.15
+12,State Bank of India,18,121812,99363,81.57
+13,Syndicate Bank,1,732,2810,383.88
+14,Tamilnad Mercantile Bank,9,28679,32803,114.38
+15,Union Bank of India,5,16771,16050,95.7
+16,Pandian Grama Bank,26,37863,51007,134.71
+17,ICICI Bank,13,16151,19794,122.56
+18,HDFC Bank,2,3020,20905,692.19
+19,AXIS Bank,3,8478,6766,79.81
+20,RDCC Bank,30,68580,71706,104.56
+21,REPCO Bank,1,1486,3539,238.16
+22,TAICO Bank,1,502,788,156.97
+23,Urban Bank,4,11581,6133,52.96
+24,SIB,1,511,1810,354.21
+25,UCO,1,321,1210,376.95
+26,IDBI,1,2364,2498,105.67
+27,Vijaya Bank,1,471,2058,436.94
+28,Lakshmi Vilas Bank,1,395,717,181.52
+29,Yes Bank,1,100,NA,NA
+Total,Total,176,493921,535050,108.33

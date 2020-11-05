@@ -1,0 +1,29 @@
+S.No,Name of the Bank,Number of Rural Branches,Number of Semi Urban Branches,Number of Urban Branches,Number of Metro Branches,Total Advances,Deposits (In Crores),Advances (In Crores),Credit Deposit Ratio (in Percentage)
+1,Andhra Bank,0,1,0,0,1,4.59,10.64,231.81
+2,Axis Bank Ltd,0,1,0,0,1,54.61,129.37,236.9
+3,Bank of Baroda,1,1,0,0,2,64.82,61.28,94.54
+4,Bank of India,0,1,0,0,1,29.6,37.94,128.18
+5,Canara Bank,5,3,0,0,8,169.4,373.26,220.34
+6,Central Bank of India,3,1,0,0,4,91,179.35,197.09
+7,City Union Bank,0,1,0,0,1,11.3,33.51,296.55
+8,Corporation Bank,0,1,0,0,1,7.13,8.02,112.48
+9,Federal Bank,1,2,0,0,3,19.73,74.18,375.98
+10,HDFC,0,2,0,0,2,36.21,226.7,626.07
+11,ICICI,0,2,0,0,2,67.52,359.04,531.75
+12,IDBI Bank,0,1,0,0,1,65.78,40,60.81
+13,Indian Bank,12,14,0,0,26,905.96,1802,198.91
+14,Indian Overseas Bank,5,2,0,0,7,189,264.04,139.7
+15,Indusind Bank Ltd,0,1,0,0,1,17,39.84,234.35
+16,Karur Vysya Bank,2,2,0,0,4,58.67,88.29,150.49
+17,Lakshmi Vilas Bank,4,2,0,0,6,130.28,229.88,176.45
+18,Punjab National Bank,1,1,0,0,2,17.53,38.22,218.03
+19,South Indian Bank,0,1,0,0,1,31.78,69.92,220.01
+20,State Bank of India,9,8,0,0,17,1245.11,968.66,77.8
+21,Syndicate Bank,4,1,0,0,5,312.2,256.81,82.26
+22,Tamilnadu Mercantile Bank Ltd,0,1,0,0,1,67.18,71.14,105.89
+23,UCO Bank,0,1,0,0,1,4.15,12.08,291.08
+24,Union Bank of India,0,4,0,0,4,58.23,59.2,101.67
+25,Vijaya Bank,0,1,0,0,1,18.33,30.94,168.79
+26,Pallavan Grama Bank,17,6,0,0,23,279.15,420.92,150.79
+27,Dharmapuri Dcc Bank,9,7,4,0,20,1018.41,687.53,67.51
+Total,Total,73,69,4,0,146,4974.67,6572.76,132.12
