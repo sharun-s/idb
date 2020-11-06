@@ -2,6 +2,7 @@ import matplotlib.pyplot as plt
 import sys
 import pandas as p
 from itertools import cycle
+import common
 
 df=p.read_csv(sys.argv[1],header=None,comment='#')
 if len(df) == 0:
@@ -12,53 +13,48 @@ outfile=sys.argv[3]
 colnames=sys.argv[4].split(',')
 plotallyears=True if sys.argv[5] == 'all' else False
 
-fig = plt.figure(facecolor="#001f3f",figsize=(8.,6.4))
-fig.suptitle(title, color="#00efde", fontsize=16)
-ax = fig.add_subplot(111, frameon=False)
-ax.set_facecolor("#002f4f")
-ax.set_alpha(0.1)
-ax.spines['bottom'].set_color('white')#'#ccc107')
-ax.spines['top'].set_color('white') 
-ax.spines['right'].set_color('white')
-ax.spines['left'].set_color('white')
-ax.tick_params(axis='y', colors='#E6DB74')#FD971F')
-ax.tick_params(axis='x', colors='#E6DB74')#
-ax.set_ylim(-55000,16000)
+fig,ax=common.newfig(title)
+
 c=cycle(["#00d0ff","#ffc107",'#00ff88','#AE81FF','#A6E22E','#F92672'])
 labels=cycle(colnames)
+
+def getlatest(columnno):
+	latest=df[p.notna(df[columnno])][columnno]
+	return latest.index[-1],latest.iloc[-1]
 
 def fy_all():
 	for i in range(0,len(df.columns),3):
 		fc=next(c)
 		tl=next(labels)
-		df[i+2].plot(ax=ax, color=fc,label='FY18 '+tl, alpha=0.2, legend=True)		
-		df[i+1].plot(ax=ax, color=fc,label='FY19 '+tl,alpha=0.5, legend=True)
-		df[i].plot(ax=ax, color=fc,label='FY20 '+tl,legend=True)
+		df[i].plot(ax=ax, color=fc,label='2020 '+tl,legend=False)
+		df[i+1].plot(ax=ax, color=fc,label='2019 '+tl,alpha=0.5, legend=False)
+		df[i+2].plot(ax=ax, color=fc,label='2018 '+tl, alpha=0.4, legend=False)		
 
-	#if len(df) == 13:
-		#ax.set_xticks(range(0,13))
-		#ax.set_xticklabels(['Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec', 'Jan', 'Feb', 'Mar-P', 'Mar-S'])
-	#	ax.set_xticks([2,5,8,11,12])
-	#	ax.set_xticklabels(['Jun', 'Sep', 'Dec', 'Mar-P', 'Mar-S'])
-	#else:
 	ax.set_xticks([2,5,8,11])
 	ax.set_xticklabels(['Jun', 'Sep', 'Dec', 'Mar'])
-		#ax.set_xticks(range(0,12))
-		#ax.set_xticklabels(['Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec', 'Jan', 'Feb', 'Mar'])
+	lcnt=0
+	for line in ax.lines:
+		y = line.get_ydata()[-1]
+		if y:
+			x=1
+			xt=0
+			pass
+		else:
+			x,y=getlatest(lcnt)
+			xt=32
+			x=x/13.0
+		lcnt=lcnt+1
+		ax.annotate(line.get_label().upper(), xy=(x,y), xytext=(xt,0), 
+			color=line.get_color(),alpha=line.get_alpha(),#'#d6cB74',#line.get_color(), 
+    		xycoords = ax.get_yaxis_transform(), 
+    		textcoords="offset pixels",
+    		size=12)
+	plt.annotate('DATA: Comptroller and Auditor General of India - State Accounts Monthly Key Indicators', (0.02,.0), (0, -25), 
+                xycoords='axes fraction', 
+                textcoords='offset points', 
+                color='#d6cB74', va='top', fontsize=9)
 
-	#print(df[0][2:14].str.replace('\n','').str[:3].to_list())
-	#ax.set_xticks(range(2,14))
-	#ax.set_xticklabels(df[0][2:14].str.replace('\n','').str[:3].to_list(), rotation=0)
-	
-	#ax.set_xticks(df[0][2:14].str.replace('\n','').str[:3].to_list())
-	nc=6
-	#if len(df.columns)%3==0:
-	#	nc=3
-	l=ax.legend(loc='lower left', ncol=nc, bbox_to_anchor=(-0.1, .97), frameon=False, facecolor='none')
-	for text in l.get_texts():
-		text.set_color("#efdecc")
-	#ax.set_ylim(ax.get_ylim()[::-1])
-	fig.savefig(r'data/cag/viz/'+outfile,format='png',facecolor=fig.get_facecolor())
+	fig.savefig(r'data/cag/viz/'+outfile,format='png',facecolor=fig.get_facecolor(),bbox_inches='tight')
 
 def fy2019():
 	for i in range(0,len(colnames)):
