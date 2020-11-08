@@ -5,11 +5,14 @@ import pandas as p
 import matplotlib.pyplot as plt
 #NB: tmp hack because of import common run from parent dir - idb/tn/fin$python3 -m district_banking.csv2g
 
-parser = argparse.ArgumentParser(description='Total Deposits Grapher')
-parser.add_argument('-csv', default="district_banking/districtwise_deposits_credit.csv",help='input csv')
+parser = argparse.ArgumentParser(description='Aggregate Deposits Credit Grapher')
+parser.add_argument('-csv', default="district_banking/districtwise_deposits_credit.csv",help='input csv file')
 parser.add_argument('-pie', default=False, help='show only latest quarter districtwise', action='store_true')
 parser.add_argument('-cdr', default=False, help='show credit deposit ratio districtwise', action='store_true')
 parser.add_argument('-std', default=False, help='show deviation from avg cdr', action='store_true')
+parser.add_argument('-logscale', default=False, help='show in logscale', action='store_true')
+parser.add_argument('-south', default=True, help='plot Southern States total', action='store_false')
+parser.add_argument('-india', default=True, help='plot all India total', action='store_false')
 
 parser.add_argument('-dumpall',action="store_true", help='show all data dump all districts')
 parser.add_argument('--outfile', help='output filename specify extn')
@@ -134,13 +137,23 @@ else:
 			a.set_xticklabels([xt.get_text().split(' ')[0] for xt in a.get_xticklabels() if xt])
 			fig.savefig('deposits_credit_2017-2020'+i+'.png',format='png',facecolor=fig.get_facecolor())
 	else:
-		fig,ax=common.newfig('TN Districts - '+Title+' - 2020')
+		fig,ax=common.newfig('TN Districts - '+Title+' '+ selected.index[-1].replace(Key,'')[:4]+'-'+selected.index[0].replace(Key,'')[:4])
+		selected.drop('Total',axis=1,inplace=True)
+		if args.south:
+			selected.drop('Southern Region',axis=1,inplace=True,errors='ignore')
+		if args.india:
+			selected.drop('All India',axis=1,inplace=True,errors='ignore')
+
+		#if args.droptopN:
+		selected.drop(['CHENNAI','COIMBATORE','KANCHEEPURAM'],axis=1,inplace=True)
+
 		selected.plot(ax=ax,legend=False)
-		ax.set_yscale('log')
+		if args.logscale:
+			ax.set_yscale('log')
 		ax.invert_xaxis()
 		for line in ax.lines:
 			y = line.get_ydata()[0]
-			ax.annotate(line.get_label().title(), xy=(1,y), xytext=(0,0), color='#d6cB74',#line.get_color(), 
+			ax.annotate(line.get_label().title(), xy=(1,y), xytext=(0,0), color=line.get_color(), 
         		xycoords = ax.get_yaxis_transform(), 
         		textcoords="offset points",
         		size=8)
