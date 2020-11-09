@@ -66,8 +66,10 @@ def format_indian(t):
 	m=fman(t)
 	return "{:.2f}".format(m*dic[ex][1])+" "+dic[ex][0]
 
-def format_indian_cr(t):
+def format_indian_cr(t,precision=True):
 	if t==0:
+		if precision==False:
+			return ''
 		return '--'
 	dic = {
 		1:('Cr',10),
@@ -80,7 +82,10 @@ def format_indian_cr(t):
 	ex=fexp(t)
 	m=fman(t)
 	#print(m,dic[ex][1],ex)
-	return "{:.2f}".format(m*dic[ex][1])+" "+dic[ex][0]
+	if precision:
+		return "{:.2f}".format(m*dic[ex][1])+" "+dic[ex][0]
+	else:
+		return "{:.0f}".format(m*dic[ex][1])+" "+dic[ex][0]
 
 import matplotlib.cm as cm
 from matplotlib.colors import Normalize
@@ -111,10 +116,30 @@ disam={'tiruppur':'West',
 'nilgiris':'West'
 } 
 
+#map spelling variations to spellings in geo/tn_dist - this is just temp hack till name disambiguation service using wikidataids as index starts working
+#add any new variations found here
+disamgeo={'Tiruchirapalli':'Trichy',
+'Tirunelvali':'Tirunelveli',
+'Toothukudi':'Thoothukudi',
+'Tiruvannamalai':'Thiruvannamalai',
+}
 
-def newfig(title):
-	fig = plt.figure(facecolor="#001f3f",figsize=(7.2,7.2), dpi= 80)#figsize=(7.2,7.2))
+def newfig(title,drawTN=False):
+	fig = plt.figure(facecolor="#001f3f",figsize=(7.2,7.2),dpi=80)#figsize=(7.2,7.2),dpi=80)
 	fig.suptitle(title, color="#E6DB74", fontsize=16)
+	if drawTN:
+		import geopandas as gp
+		l2=gp.read_file('../geo/tn_dist.json')
+		ax2 = fig.add_subplot(331, frameon=False)
+		ax2.get_xaxis().set_visible(False)
+		ax2.get_yaxis().set_visible(False)
+		ax2.set_facecolor("#002f4f")
+		#ax2.set_alpha(0.3)
+		ax2.spines['bottom'].set_color('white')#'#ccc107')
+		ax2.spines['top'].set_color('white') 
+		ax2.spines['right'].set_color('white')
+		ax2.spines['left'].set_color('white')
+		l2.plot(ax=ax2, facecolor='#0099dd',edgecolor='blue',label='TN',alpha=.38, linewidth=0)
 	ax = fig.add_subplot(111, frameon=False)
 	ax.set_facecolor("#002f4f")
 	ax.set_alpha(0.1)
@@ -124,6 +149,8 @@ def newfig(title):
 	ax.spines['left'].set_color('white')
 	ax.tick_params(axis='y', colors='#E6DB74')#FD971F')
 	ax.tick_params(axis='x', colors='#E6DB74')#
+	if drawTN:
+		return fig,ax,ax2,l2
 	return fig,ax
 
 def formatLabelAmts(data):

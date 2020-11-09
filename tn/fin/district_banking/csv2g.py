@@ -13,13 +13,13 @@ parser.add_argument('-std', default=False, help='show deviation from avg cdr', a
 parser.add_argument('-logscale', default=False, help='show in logscale', action='store_true')
 parser.add_argument('-south', default=True, help='plot Southern States total', action='store_false')
 parser.add_argument('-india', default=True, help='plot all India total', action='store_false')
-
+parser.add_argument('-drop',default=None,type=int,help='dont plot top N districts')
 parser.add_argument('-dumpall',action="store_true", help='show all data dump all districts')
 parser.add_argument('--outfile', help='output filename specify extn')
 parser.add_argument('--type',default='deposit',help="deposit or credit")
 
 args = parser.parse_args()
-print(args)
+#print(args)
 
 alldata=p.read_csv(args.csv,skiprows=2)
 
@@ -137,29 +137,51 @@ else:
 			a.set_xticklabels([xt.get_text().split(' ')[0] for xt in a.get_xticklabels() if xt])
 			fig.savefig('deposits_credit_2017-2020'+i+'.png',format='png',facecolor=fig.get_facecolor())
 	else:
-		fig,ax=common.newfig('TN Districts - '+Title+' '+ selected.index[-1].replace(Key,'')[:4]+'-'+selected.index[0].replace(Key,'')[:4])
+		fig,ax,ax2,l2=common.newfig('TN Districts - Bank '+Title+' '+ selected.index[-1].replace(Key,'')[:4]
+			+'-'+selected.index[0].replace(Key,'')[:4],drawTN=True)
 		selected.drop('Total',axis=1,inplace=True)
 		if args.south:
 			selected.drop('Southern Region',axis=1,inplace=True,errors='ignore')
 		if args.india:
 			selected.drop('All India',axis=1,inplace=True,errors='ignore')
-
-		#if args.droptopN:
-		selected.drop(['CHENNAI','COIMBATORE','KANCHEEPURAM'],axis=1,inplace=True)
+		if args.drop:
+			ignr=selected.iloc[0].sort_values(ascending=False).index[:args.drop].values
+			selected.drop(ignr,axis=1,inplace=True)
 
 		selected.plot(ax=ax,legend=False)
 		if args.logscale:
 			ax.set_yscale('log')
 		ax.invert_xaxis()
+		maxl=selected.iloc[0].idxmax()
+		print(maxl)
 		for line in ax.lines:
 			y = line.get_ydata()[0]
-			ax.annotate(line.get_label().title(), xy=(1,y), xytext=(0,0), color=line.get_color(), 
-        		xycoords = ax.get_yaxis_transform(), 
-        		textcoords="offset points",
-        		size=8)
+			if line.get_label()!=maxl:
+				ax.annotate(line.get_label().title(), xy=(1,y), xytext=(0,0), color=line.get_color(), 
+        			xycoords = ax.get_yaxis_transform(), 
+        			textcoords="offset points",horizontalalignment='left',
+        			size=8)
+				line.set_alpha(0.2)
+			else:
+				ax.annotate(line.get_label().title(), xy=(1,y), xytext=(0,0), color=line.get_color(), 
+        			xycoords = ax.get_yaxis_transform(), 
+        			textcoords="offset points",horizontalalignment='right',
+        			size=14)
+
+		ax.set_xticklabels([xtl.get_text().replace(Key,'') for xtl in ax.get_xticklabels()])
+		#print('y',' ',[ytl for ytl in ax.get_yticks()]) 
+		ax.set_yticklabels([common.format_indian_cr(ytl,precision=False) for ytl in ax.get_yticks()])
+		ax.get_yticklabels()[-2].set_fontsize(14)
+		ax.get_yticklabels()[-2].set_fontweight('bold')
+		
+		#handle spelling variations between csv and geo json district names
+		if maxl.title() in l2.Name.values:
+			l2[l2.Name==maxl.title()].plot(ax=ax2,facecolor="#d6cB74")
+		else:
+			l2[l2.Name==common.disamgeo[maxl.title()]].plot(ax=ax2,facecolor="#d6cB74")
 
 
-plt.annotate('Data:rbi.org.in (Quarterly Deposit Stats)', (0.,0), (0, -25), 
+ax.annotate('Data:rbi.org.in (Quarterly Deposit Stats)', (0.,0), (0, -25), 
                 xycoords='axes fraction', textcoords='offset points', 
                 color='#E6DBff', va='top', fontstyle='italic')
 
